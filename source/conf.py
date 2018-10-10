@@ -20,8 +20,8 @@ import sphinx_rtd_theme
 # -- Project information -----------------------------------------------------
 
 project = 'ocg-rule'
-copyright = '2018, 碎冰'
-author = '碎冰'
+copyright = u'2018, 碎冰'
+author = u'碎冰'
 
 # The short X.Y version
 version = ''
