@@ -11,4 +11,6 @@ Welcome to ocg-rule's documentation!
    :glob:
 
    preface
+   contact
+   新大师规则变更点
    chapters/*
