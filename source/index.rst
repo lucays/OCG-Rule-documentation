@@ -7,7 +7,7 @@ Welcome to ocg-rule's documentation!
 ====================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    :glob:
 
    preface
