@@ -1,7 +1,8 @@
-文集分类 `卡组构筑 <https://www.jianshu.com/nb/21664131>`__
-`事务局FAQ <http://www.jianshu.com/nb/10161162>`__
-`OCG规则基础 <http://www.jianshu.com/nb/10378886>`__
-`深入OCG规则 <http://www.jianshu.com/nb/3903431>`__
+.. _`森罗`:
+
+======
+森罗
+======
 
 算是\ `这个帖子 <https://tieba.baidu.com/p/5499298749?>`__\ 的备份。
 说书卡组中自己最喜欢的应该就是森罗了。

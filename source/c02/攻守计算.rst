@@ -1,6 +1,8 @@
-文集分类 `事务局FAQ <http://www.jianshu.com/nb/10161162>`__
-`OCG规则基础 <http://www.jianshu.com/nb/10378886>`__
-`深入OCG规则 <http://www.jianshu.com/nb/3903431>`__
+.. _攻守计算:
+
+======
+攻守计算‘
+======
 
 写在前面
 ========

@@ -1,6 +1,8 @@
-文集分类 `事务局FAQ <http://www.jianshu.com/nb/10161162>`__
-`OCG规则基础 <http://www.jianshu.com/nb/10378886>`__
-`深入OCG规则 <http://www.jianshu.com/nb/3903431>`__
+.. _`TCG规则修订：不再按照触发顺序排列连锁`:
+
+======
+TCG规则修订：不再按照触发顺序排列连锁
+======
 
 在TCG的SD发售附送的\ `规则手册 <http://www.yugioh-card.com/en/rulebook/SD_RuleBook_EN_10.pdf>`__\ 中，TCG官方对TCG的游戏王规则进行了部分修改。
 
