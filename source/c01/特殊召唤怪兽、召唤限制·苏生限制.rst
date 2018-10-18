@@ -6,8 +6,8 @@
 ========
 
 | `第九期变更点解说 <http://bbs.newwise.com/thread-821853-1-1.html>`__
-| 第十期 :ref:新大师规则变更点
-| 新大师规则 \ `特殊召唤 <https://warsier.gitbooks.io/new_master_rule/content/3/3222.html>`__
+| 第十期 :ref:新大师规则变更点 
+| 新大师规则 \ `特殊召唤相关介绍 <https://warsier.gitbooks.io/new_master_rule/content/3/3222.html>`__
 
 本文介绍第九期起，在怪兽情报描述框内，最上方种族的右侧新增「特殊召唤」字样怪兽的规则，同时介绍召唤限制和苏生限制。
 
