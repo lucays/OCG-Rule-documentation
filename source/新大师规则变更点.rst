@@ -17,7 +17,7 @@
 新增2个EX区域
 =============
 
-.. figure:: http://upload-images.jianshu.io/upload_images/1898522-381f6926dee6baeb.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
+.. figure:: image/3.jpg
    :alt: 决斗场地变化
 
    决斗场地变化
@@ -57,7 +57,7 @@
 连接怪兽
 --------
 
-.. figure:: http://upload-images.jianshu.io/upload_images/1898522-51fa8ff6da8a1d25.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
+.. figure:: image/4.jpg
    :alt: 连接怪兽示例
 
    连接怪兽示例
@@ -105,8 +105,8 @@
    | 例：
    | 连接3的「解码语者」进行连接召唤时，召唤条件是2只以上效果怪兽，则可以是把场上3只表侧表示的效果怪兽作为素材送去墓地，也可以是把1只连接2的效果怪兽和另1只效果怪兽作为素材送去墓地。
    | 连接3的「解码语者」自身作为连接素材时，可以作为1只或3只连接素材。不能当作2只。
-   | **注**
-     不能用4只以上怪兽作为连接素材去连接召唤连接3的「解码语者」。不能超出连接数。
+
+   .. attention:: 不能用4只以上怪兽作为连接素材去连接召唤连接3的「解码语者」。不能超出连接数。
 
 -  | 连接怪兽进行连接召唤必须同时满足连接数和召唤条件这\ **两个限制**\ 。
    | 例：连接3的「解码语者」进行连接召唤时，召唤条件是2只以上效果怪兽，因此不能只把1只连接3的怪兽作为素材送去墓地。
@@ -116,14 +116,14 @@
 
 连接怪兽的连接标记指向的怪兽区域有怪兽存在的场合，这些怪兽和那只连接怪兽都处于连接状态。
 
-.. figure:: http://upload-images.jianshu.io/upload_images/1898522-cac8103c71eff79f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
+.. figure:: image/5.png
    :alt: A和B都处于连接状态
 
    A和B都处于连接状态
 
 特别地，连接怪兽的连接标记指向的怪兽区域有连接怪兽存在，且连接标记互相指向的场合是互相连接。
 
-.. figure:: http://upload-images.jianshu.io/upload_images/1898522-ed9d023b1a109c3e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
+.. figure:: image/6.png
    :alt: A和B是互相连接状态
 
    A和B是互相连接状态
@@ -131,7 +131,7 @@
 连接怪兽从1个EX区域\ **通过一方的主怪兽区域**\ 全部互相连接而与另一个EX区域互相连接时称为EX连接。
 可以通过连接对方主怪兽区域实现。
 
-.. figure:: http://upload-images.jianshu.io/upload_images/1898522-993ec2b5796a9608.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
+.. figure:: image/7.png
    :alt: 通过自己·对方的主怪兽区域达成EX 连接
 
    通过自己·对方的主怪兽区域达成EX 连接
@@ -139,7 +139,7 @@
 自己使用了1个EX区域，并通过自己·对方主怪兽区域全部互相连接到的另一个EX区域没有怪兽存在的场合，自己可以在这个EX区域把\ **能满足EX连接条件的连接怪兽**\ 连接召唤。
 只在这个状态，1个玩家可以同时使用2个EX区域。
 
-.. figure:: http://upload-images.jianshu.io/upload_images/1898522-ad7a4aa09f68b52d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
+.. figure:: image/8.png
    :alt: 自己可以在空着的EX区域特殊召唤有向下连接标记的连接怪兽
 
    自己可以在空着的EX区域特殊召唤有向下连接标记的连接怪兽
@@ -156,7 +156,7 @@
 
 「游戏王 VRAINS」的主角使用着这个种族的怪兽。
 
-.. figure:: http://upload-images.jianshu.io/upload_images/1898522-2d2ad69a2d866300.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
+.. figure:: image/9.jpg
    :alt: サイバース族卡片
 
    サイバース族卡片
@@ -164,7 +164,7 @@
 以前的规则变更点
 ================
 
-.. figure:: http://upload-images.jianshu.io/upload_images/1898522-4101625e09ced5fc.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
+.. figure:: image/10.jpg
    :alt: 主怪兽区域
 
    主怪兽区域
@@ -177,7 +177,7 @@
 | 「No.98 绝望皇
   霍普勒斯」的②效果需要先把自己特殊召唤，自己没有怪兽区域可用的场合不能发动。
 
-.. figure:: http://upload-images.jianshu.io/upload_images/1898522-d549537099da48a5.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
+.. figure:: image/11.jpg
    :alt: 现在的P区域
 
    现在的P区域
@@ -193,7 +193,7 @@
 | 魔法·陷阱卡区域两侧盖伏了卡片的场合，可以发动「惊异灵摆」。
 | P怪兽变成装备卡的场合由于其实只是装备魔法卡，只作为魔法·陷阱卡区域使用，所以P区域实际上仍不存在卡片。
 
-.. figure:: http://upload-images.jianshu.io/upload_images/1898522-338959fd3831b6be.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
+.. figure:: image/12.jpg
    :alt: 连接标记方向
 
    连接标记方向
