@@ -54,7 +54,7 @@
     | E. 手卡少于5张的场合，直到5张为止抽卡的阶段
 
 6.  | 场上的状况如下图，不能从额外卡组连接召唤的怪兽是？
-    | |image.png|
+    | |image1.png|
     | A. 「拓扑逻辑轰炸龙」
     | B. 「锁龙蛇-骷髅四面鬼」
     | C. 「梦幻崩影·狮鹫」
@@ -171,7 +171,7 @@
     | E. 是速攻魔法
 
 21. | 下图中，不是『相互连接』状态的怪兽是？
-    | |image.png|
+    | |image2.png|
     | A. 自己的「编码语者」
     | B. 自己的「余码语者」
     | C. 自己的「码语者」
@@ -446,7 +446,7 @@
       LV10」被「旋风」破坏也不会发生变化
 
 48. | 场上是以下状况的场合，自己「装弹枪管龙」选择对象，连锁发动对象怪兽的效果，结果送去墓地的卡片数最多的怪兽是？
-    | |image.png|
+    | |image3.png|
     | A. 「自动手枪弹丸龙」
     | B. 「马格努姆弹丸龙」
     | C. 「霰弹弹丸龙」
@@ -461,7 +461,7 @@
     | E. 以上都不适用
 
 50. | 场上是以下状况的场合，自己「连接蜘蛛」连接召唤成功时，对方「平衡侵略者」的③效果发动的场合，正确的处理说明是？
-    | |image.png|
+    | |image4.png|
     | A.
       「平衡侵略者」向相邻的对方魔法·陷阱卡的所在纵列移动，对方盖伏的魔法·陷阱卡和羊衍生物被破坏
     | B. 「平衡侵略者」向相邻的存在「连接蜘蛛」的所在纵列移动
@@ -487,7 +487,7 @@
 | 41-45 EDBDB
 | 46-50 DBCDB
 
-.. |image.png| image:: https://upload-images.jianshu.io/upload_images/1898522-77b4619809146c80.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
-.. |image.png| image:: https://upload-images.jianshu.io/upload_images/1898522-ed1f9d6a6b3e08e3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
-.. |image.png| image:: https://upload-images.jianshu.io/upload_images/1898522-cf98cf1307781abf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
-.. |image.png| image:: https://upload-images.jianshu.io/upload_images/1898522-02292ea1869dce46.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
+.. |image1.png| image:: ../image/14.png
+.. |image2.png| image:: ../image/15.png
+.. |image3.png| image:: ../image/16.png
+.. |image4.png| image:: ../image/17.png
