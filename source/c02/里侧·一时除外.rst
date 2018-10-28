@@ -40,27 +40,27 @@
 
     -  | 再度召唤的二重怪兽变成里侧或被一时除外后，自身效果消失。反转后是通常怪兽，要得到效果必须再度召唤。\ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6748&keyword=&tag=-1>`__ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6758&keyword=&tag=-1>`__
 
-    -  | 上级召唤的怪兽变成里侧或被一时除外后，\ **仍然视为上级召唤的怪兽**\ 。\ `15/2/5 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6109&keyword=&tag=-1>`__
+    -  | 上级召唤的怪兽变成里侧或被一时除外后，\ **仍然是上级召唤的怪兽**\ 。\ `15/2/5 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6109&keyword=&tag=-1>`__
        | 例：解放怪兽和永续陷阱表侧表示上级召唤的「真龙剑皇 卓辉星·拼图」变成里侧表示或被一时除外再反转，仍然可以发动②效果。
 
 .. attention:: 召唤仅指表侧表示通常召唤。这是基本规则。
 
-| 特殊召唤的怪兽变成里侧或被一时除外后，\ **仍然视为特殊召唤的怪兽**\ 。\ `15/6/11 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=213&keyword=&tag=-1>`__
+| 特殊召唤的怪兽变成里侧或被一时除外后，\ **仍然是特殊召唤的怪兽**\ 。\ `15/6/11 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=213&keyword=&tag=-1>`__
 | 例：特殊召唤的怪兽变成里侧表示或被一时除外后，仍然会被「升灵术师 奘玄」的效果破坏。
 
-    -  | 同调召唤的怪兽变成里侧或被一时除外后，\ **仍然视为同调召唤的怪兽**\ 。\ `16/1/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18149&keyword=&tag=-1>`__
+    -  | 同调召唤的怪兽变成里侧或被一时除外后，\ **仍然是同调召唤的怪兽**\ 。\ `16/1/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18149&keyword=&tag=-1>`__
        | 例：「幻龙星-嘲风」变成里侧后，被卡的效果破坏或被战斗破坏送去墓地时，可以发动②效果。\ `15/2/13 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15149&keyword=&tag=-1>`__
 
-    -  | X召唤的怪兽变成里侧或被一时除外后，\ **仍然视为X召唤的怪兽**\ 。\ `16/4/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18652&keyword=&tag=-1>`__
+    -  | X召唤的怪兽变成里侧或被一时除外后，\ **仍然是X召唤的怪兽**\ 。\ `16/4/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18652&keyword=&tag=-1>`__
        | 例：「异色眼绝零龙」变成里侧后，送去墓地时，可以发动②效果。\ `15/6/19 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16189&keyword=&tag=-1>`__
 
-    -  | 融合召唤的怪兽变成里侧或被一时除外后，\ **仍然视为融合召唤的怪兽**\ 。\ `16/7/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19553&keyword=&tag=-1>`__
+    -  | 融合召唤的怪兽变成里侧或被一时除外后，\ **仍然是融合召唤的怪兽**\ 。\ `16/7/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19553&keyword=&tag=-1>`__
 
-    -  | 仪式召唤的怪兽变成里侧或被一时除外后，\ **仍然视为仪式召唤的怪兽**\ 。\ `17/9/21 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=69&keyword=&tag=-1>`__ `17/10/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13294&keyword=&tag=-1>`__
+    -  | 仪式召唤的怪兽变成里侧或被一时除外后，\ **仍然是仪式召唤的怪兽**\ 。\ `17/9/21 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=69&keyword=&tag=-1>`__ `17/10/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13294&keyword=&tag=-1>`__
 
-    -  | 灵摆召唤的怪兽变成里侧后，不再视为灵摆召唤的怪兽。\ `14/11/14 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14266&keyword=&tag=-1>`__\ 被一时除外后，还是灵摆召唤的怪兽。\ `16/1/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18305&keyword=&tag=-1>`__
+    -  | 灵摆召唤的怪兽变成里侧后，不再是灵摆召唤的怪兽。\ `14/11/14 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14266&keyword=&tag=-1>`__\ 被一时除外后，还是灵摆召唤的怪兽。\ `16/1/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18305&keyword=&tag=-1>`__
 
-| 反转召唤的怪兽变成里侧后的裁定不太统一，详情见下例。一时除外后不再视为反转召唤的怪兽。\ `16/1/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18306&keyword=&tag=-1>`__
+| 反转召唤的怪兽变成里侧后的裁定不太统一，详情见下例。一时除外后不再是反转召唤的怪兽。\ `16/1/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18306&keyword=&tag=-1>`__
 | 例：
 | 「怒怒怒斗笠剑士」无论变成里侧再反转还是被一时除外，都恢复到之前的攻击力。
 | 「破坏龙 甘多拉」在反转召唤的结束阶段之前变成里侧再因效果反转，结束阶段效果会发动，送去墓地。但被一时除外再在结束阶段回到场上，效果不会发动。
@@ -156,7 +156,7 @@
 
 -  | 这样特殊召唤的怪兽在场上发动效果，连锁使其变成里侧·一时除外·其他方式从场上离开的场合，这个效果处理时仍然无效。这个时点之后，那个怪兽的效果不再无效。
    | 例：
-   | 「水晶机巧-量子白晶」的效果把「电磁石战士β」特殊召唤并进行同调召唤，连锁处理完毕时墓地的「电磁石战士β」可以发动①效果，视为在场上发动，因此效果无效。\ `16/7/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19582&keyword=&tag=-1>`__
+   | 「水晶机巧-量子白晶」的效果把「电磁石战士β」特殊召唤并进行同调召唤，连锁处理完毕时墓地的「电磁石战士β」可以发动①效果，是在场上发动，因此效果无效。\ `16/7/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19582&keyword=&tag=-1>`__
    | 「旧神 诺登」把「星因士 天津四」特殊召唤，「星因士 天津四」的效果发动，连锁「月之书」使其变成里侧，处理时仍然无效。
 
    .. note:: 「旧神 诺登」虽然是持续取对象的效果，但注意与「剑斗兽 马斗」的描述区别，持续取对象的是『这张卡从场上离开时那只怪兽除外』。
