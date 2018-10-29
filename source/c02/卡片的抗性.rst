@@ -107,6 +107,10 @@
 | 「闪光No.39 希望皇 霍普·电光皇」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19270>`__\ 「威光魔人」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9280>`__\ 这样，『对方不能把效果发动』『卡的效果不能发动』基本上是卡片效果产生的压制，不受效果影响的怪兽可以正常发动效果。
 | 特别的，「No.67 平行骰子天堂锤手」\ `18/5/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9817>`__ 「复仇死者·战鬼」\ `18/9/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22115>`__ 「SNo.0 希望之异热同心」\ `18/6/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11069&keyword=&tag=-1>`__ 「E·HERO 秩序新宇侠」\ `18/10/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22181&keyword=&tag=-1>`__ 的效果不影响怪兽。这些效果适用后，不受影响的怪兽仍然不能发动效果。
 
+-  | 「冤枉」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17508>`__\ 「终焉的指名者」\ `17/6/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9546&keyword=&tag=-1>`__\ 这样的描述也不影响怪兽，即使不受影响，也不能发动效果。
+
+-  | 「混沌帝龙 -终焉的使者-」等『~~发动的回合，自己不能发动效果』是 :ref:`誓约` ，不是效果。不受影响也不能发动。
+
 | 「变则齿轮」「分担痛苦」「御前试合」「漆黑之豹战士」等，记述『プレイヤーはしなければならない/玩家必须』的文本不是效果。
 | 例：「变则齿轮」可以把受到「禁忌的圣枪」效果影响的怪兽里侧除外。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20922&keyword=&tag=-1>`__
 
