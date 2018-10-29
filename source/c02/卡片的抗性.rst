@@ -37,14 +37,13 @@
 -  | 『不会成为效果对象』这样的效果不影响怪兽。
    | 例：
    | 解放怪兽·永续陷阱上级召唤的「真龙剑皇 卓辉星·拼图」发动②效果时，不能选择「威风妖怪」怪兽。
-   | 以受到「禁忌的圣枪」影响的怪兽为对象发动「安全地带」的场合，只有『选择的怪兽不会成为对方的效果的对象』适用，其他效果全不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10683&keyword=&tag=-1>`__
+   | 以受到「禁忌的圣枪」影响的怪兽为对象发动「安全地带」的场合，只不会成为效果的对象，其他效果全不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10683&keyword=&tag=-1>`__
 
 -  | 『不会成为攻击对象』这样的效果影响的是其他怪兽，\ **不是怪兽自身**\ 。不受效果影响的怪兽可以攻击不会成为攻击对象的怪兽，其攻击对象也不会因卡片效果发生变更。
    | 例：
    | 受到「R・R・R」的效果影响的「急袭猛禽」怪兽仍然可以成为受到「禁忌的圣枪」影响的怪兽的攻击对象，但不能成为其效果的对象。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20381>`__
    | 「R・R・R」的对象怪兽在处理时不受其他卡的效果影响的场合，「R・R・R」的效果正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20381&keyword=&tag=-1>`__
-   | 不受其他卡效果影响的怪兽攻击宣言时，对方发动「工作列车
-     红色信号」的效果的场合，发生战斗步骤的卷回，重新选择攻击对象或者放弃攻击。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13550&keyword=&tag=-1>`__
+   | 不受其他卡效果影响的怪兽攻击宣言时，对方发动「工作列车 红色信号」的效果的场合，发生战斗步骤的卷回，重新选择攻击对象或者放弃攻击。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13550&keyword=&tag=-1>`__
 
    .. attention:: 特别的，相近效果的「磁力指轮」不影响怪兽，不受效果影响的怪兽也必须攻击其装备的怪兽。18/8/17
    .. attention:: 特别的，「传说的渔人」「守护者·凯丝特」这样，怪兽区域只有它们，对方的攻击变成直接攻击的效果，不影响怪兽。这个场合不受效果影响的怪兽也只能直接攻击。
@@ -81,6 +80,7 @@
 
 | 取对象这个行为本身不是效果，不受影响的怪兽也可以成为效果的对象。
 | 即使影响不了，也可以对不受影响的怪兽发动效果，这个场合结果不适用。
+| 其他见 对象抗性_ 。
 | 例：
 | 「急袭猛禽-究极猎鹰」的②效果发动时，可以连锁发动「神之通告」，既不会把那个发动无效，也不会把它破坏。
 | 「次元魔法」可以对不受魔法卡的效果影响的怪兽发动，结果不能解放，后续效果不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12847>`__
@@ -103,7 +103,7 @@
 | 「神鸟攻击」可以解放「急袭猛禽-究极猎鹰」来发动。
 | 「帝王的烈旋」是让对方的怪兽进入可以被我方解放的状态，此时不能解放受到「禁忌的圣枪」影响的怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13201&keyword=&tag=-1>`__ 「黯黑世界-暗影敌托邦-」也一样不能。\ `18/3/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21789&keyword=&tag=-1>`__
 
-| 「超融合」「狱火机·撒旦」等，记述『\ **不能对应这个效果的发动**\ 』这样不让连锁的文本时，不是效果。不受影响的怪兽也不能对其连锁。
+| 「超融合」「狱火机·撒旦」等，记述『\ **不能对应这个效果的发动**\ 』这样不让连锁的文本时，不是效果。不受影响的怪兽也不能对其连锁。「天魔大帝」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18246&keyword=&tag=-1>`__\ 这样赋予不能被连锁特性的也一样。
 | 「闪光No.39 希望皇 霍普·电光皇」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19270>`__\ 「威光魔人」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9280>`__\ 这样，『对方不能把效果发动』『卡的效果不能发动』基本上是卡片效果产生的压制，不受效果影响的怪兽可以正常发动效果。
 | 特别的，「No.67 平行骰子天堂锤手」\ `18/5/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9817>`__ 「复仇死者·战鬼」\ `18/9/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22115>`__ 「SNo.0 希望之异热同心」\ `18/6/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11069&keyword=&tag=-1>`__ 「E·HERO 秩序新宇侠」\ `18/10/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22181&keyword=&tag=-1>`__ 的效果不影响怪兽。这些效果适用后，不受影响的怪兽仍然不能发动效果。
 
@@ -134,6 +134,7 @@
 | 效果本身的特性可以被变更。
 | 例：
 | 「自奏圣乐的通天塔」的效果适用中，符合条件的怪兽即使不受魔法影响，发动的效果也当作咒文速度2的诱发即时效果。\ `18/7/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22006&keyword=&tag=-1>`__
+| 「天魔大帝」的效果适用中，通常召唤的不受影响的怪兽发动效果时，对方也不能连锁。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18246>`__
 
 -  | 效果的发动和效果不会被无效。但是，效果的对象可以被改变，那个效果处理时可以被改写。
    | 例：
