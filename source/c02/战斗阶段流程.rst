@@ -5,7 +5,7 @@
 写在前面
 ========
 
-新大师规则的相关部分见\ `新大师规则-战斗阶段 <https://warsier.gitbooks.io/new_master_rule/content/6/634.html>`__\ 。
+完全规则书中这部分见\ `新大师规则-战斗阶段 <https://warsier.gitbooks.io/new_master_rule/content/6/634.html>`__\ 。
 
 主要阶段1终了后回合玩家选择进入战斗阶段的场合将进行战斗阶段。先攻第1回合玩家不能进行战斗阶段。
 
