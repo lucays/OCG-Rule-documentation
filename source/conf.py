@@ -196,6 +196,6 @@ epub_title = project
 # A unique identification for the text.
 #
 # epub_uid = ''
-
+epub_show_urls = 'footnote'
 # A list of files that should not be packed into the epub file.
 epub_exclude_files = ['search.html']
