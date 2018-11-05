@@ -64,7 +64,7 @@
    | 「女巫特露德」的③效果以自身为对象发动，上升攻击力后，再被无效的场合，维持上升400的状态不会复原。\ `18/5/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12439>`__
    | 「猫鲨」的效果把自身攻击力·守备力变成1000/1000，因「魁炎星王-宋虎」的效果无效后，还是这样不会复原。
 
-.. attention:: 「混沌幻影」等『得到相同攻击力』这样的复制效果，由于已经得到了，相当于改写了卡片的原本攻击力·守备力，被无效后不会复原。「E·HERO 烈焰侠」等类似效果也是如此。\ `17/10/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13594>`__
+.. attention:: 「混沌幻影」等『得到相同攻击力』这样的复制效果，由于已经得到了，相当于改写了卡片的原本攻击力·守备力，被无效后不会复原。而「E·HERO 烈焰侠」等描述不同的场合还是会复原。\ `18/11/5 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13594&keyword=&tag=-1>`__
 
 减半·加倍的效果
 
