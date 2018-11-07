@@ -93,7 +93,7 @@
 | 「次元魔法」可以对不受魔法卡的效果影响的怪兽发动，结果不能解放，后续效果不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12847>`__
 | 「急袭猛禽-起翼猎鹰」可以以「急袭猛禽-究极猎鹰」为对象发动效果，结果攻击力是3600，可以战斗破坏「急袭猛禽-究极猎鹰」。
 
-| 『对方不能攻击宣言』不影响怪兽，『怪兽不能攻击』等效果影响怪兽。其他记述无法确定。
+| 『对方不能攻击宣言』不影响怪兽，『怪兽不能攻击』影响怪兽。其他就按具体含义判断了。
 | 例：
 | 对「苦痛的回廊」适用中的怪兽发动「禁忌的圣枪」，则那个怪兽不再无效，可以攻击。回合结束后又回到无效且不能攻击的状态。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9799>`__
 | 「恐龙摔跤手·摔跤暴龙王」③效果适用后，对方要攻击的场合必须先用对象怪兽，不受影响也不能先攻击。\ `18/7/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22019>`__
@@ -117,6 +117,8 @@
 -  | 「冤枉」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17508>`__\ 「终焉的指名者」\ `17/6/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9546&keyword=&tag=-1>`__\ 这样的描述也不影响怪兽，即使不受影响，也不能发动效果。
 
 -  | 「混沌帝龙 -终焉的使者-」等『~~发动的回合，自己不能发动效果』是 :ref:`誓约` ，不是效果。不受影响也不能发动。
+
+-  | 「天魔大帝」给其他卡附加不让连锁能力的文本不影响那些卡\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18246&keyword=&tag=-1>`__\ ，并且这个状况对方不受影响的怪兽仍然不能连锁发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18245&keyword=&tag=-1>`__
 
 | 「变则齿轮」「分担痛苦」「御前试合」「漆黑之豹战士」等，记述『プレイヤーはしなければならない/玩家必须』的文本不是效果。
 | 例：「变则齿轮」可以把受到「禁忌的圣枪」效果影响的怪兽里侧除外。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20922&keyword=&tag=-1>`__
