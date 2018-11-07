@@ -28,8 +28,6 @@ Welcome to ocg-rule's documentation!
 | pdf文件应该不必多说，epub文件更适合手机阅读，可以用多看阅读浏览，电脑端windows10 1709以上版本可以使用内置的edge浏览器查看。
 | pdf和epub文档只是下载时的网站内容，由于内容会不断更新，建议定期重新下载。
 
-.. attention:: 目前尚未更新完毕，也可以等左下角versions出现master后下载pdf或epub文档。
-
 联系方式
 ========
 
