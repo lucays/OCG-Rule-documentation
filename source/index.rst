@@ -37,9 +37,8 @@ Welcome to ocg-rule's documentation!
 =======
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 3
    :glob:
 
-   preface
    新大师规则变更点
    chapters/*

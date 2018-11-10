@@ -2,11 +2,10 @@
 卡组构筑
 =============================
 
-
-Contents:
+这个部分是卡组教程。
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :glob:
 
    ../c04/*
