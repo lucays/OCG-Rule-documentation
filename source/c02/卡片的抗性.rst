@@ -138,7 +138,7 @@
    | 「星圣暴风」的②效果处理时场上的那个X怪兽不受魔法卡的效果影响的场合，这个效果不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13415>`__
    | 不受卡的效果影响的怪兽不能放置各种指示物。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19607>`__
 
-    -  | 部分永续效果在效果处理途中不会立即适用，因此有一些特别地例子：
+    -  | 部分永续效果在效果处理途中不会立即适用，因此有一些特例：
        | 「升阶魔法-削魂之力」以「急袭猛禽-究极猎鹰」为对象发动的场合效果正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11302&keyword=&tag=-1>`__
        | 「XYZ苏生」以「急袭猛禽-究极猎鹰」为对象发动的场合效果正常适用。
 
