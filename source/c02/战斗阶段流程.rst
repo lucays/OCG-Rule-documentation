@@ -132,6 +132,8 @@
 | 装备了「闪光之双剑-雷震」的「No.95 银河眼暗物质龙」已经可以攻击2次，不能发动②效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14692&keyword=&tag=-1>`__
 | 「暴君爆风龙」的②效果装备的怪兽，可以攻击3次的状态，再装备「闪光之双剑-雷震」，仍然是可以攻击3次。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16012&keyword=&tag=-1>`__
 | 在2个「超机怪虫·对观突触虫」连接端的「机怪虫」怪兽，仍然最多2次可以向怪兽攻击。\ `17/7/3 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10622>`__
+| 不能对「魔界剧团-闪烁小明星」的P效果适用的，可以最多向怪兽攻击3次的怪兽发动「破坏神的系谱」。
+| 对适用了「破坏神的系谱」效果的怪兽发动「魔界剧团-闪烁小明星」的P效果后，那个怪兽可以选攻击2次，也可以选向怪兽攻击3次。
 
 -  | 不会和『可以向对方怪兽全部各作1次攻击』的效果叠加。
    | 例：
