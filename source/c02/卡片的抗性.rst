@@ -53,6 +53,8 @@
    | 「EM小判龙」的效果处理时，对象怪兽不受魔法卡的效果影响的场合仍正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12270>`__\ ，实际上影响的是进行过战斗的对方怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12269>`__
    | 以不受陷阱卡的效果影响的怪兽为对象发动技能，仍会正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12980>`__\ 其他不受陷阱卡的效果影响的怪兽以这个怪兽为对象发动效果，结果不会无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6161>`__
 
+.. _不受影响:
+
 不受影响
 ========
 
@@ -125,14 +127,14 @@
 
 .. attention:: 判断依据不是让不让对方选。「强制转移」处理时选不受魔法效果影响的怪兽的场合，整个效果不处理，不交换怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13066>`__ 「玄化黑炎龙」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14236&keyword=&tag=-1>`__ 等也是如此。
 
-| 取除场上的X素材·指示物的效果影响的是X素材·指示物本身，不影响那个怪兽。
+| 取除场上的X素材·指示物的效果影响那些X素材·指示物本身，不影响那个怪兽。
 | 例：
-| 「XYZ叠光延迟」以持有3个X素材以上的「No.86 英豪冠军 击灭枪王」为对象发动的场合效果正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6890&keyword=&tag=-1>`__
+| 「XYZ叠光延迟」以持有3个X素材以上的「No.86 英豪冠军 击灭枪王」为对象发动的场合效果正常适用，「No.86 英豪冠军 击灭枪王」的素材全部取除，回到额外卡组。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6890&keyword=&tag=-1>`__
 | 「指示物吸除器」可以取除放置在「荷鲁斯之黑炎龙 LV6」上的指示物。
 
 .. tip:: 规则上X素材和指示物有很多共性，可以放到一起理解。
 
--  | 在X怪兽下面重叠作为X素材，或给怪兽放置指示物，都是影响那个怪兽的效果。
+-  | 在X怪兽下面重叠作为X素材，或给怪兽放置指示物的效果，都影响那个怪兽。
    | 例：
    | 「升阶魔法-异晶人的魔力」的对象怪兽处理时不受魔法卡的效果影响的场合，这个效果不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12796>`__
    | 「星圣暴风」的②效果处理时场上的那个X怪兽不受魔法卡的效果影响的场合，这个效果不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13415>`__
@@ -142,7 +144,7 @@
        | 「升阶魔法-削魂之力」以「急袭猛禽-究极猎鹰」为对象发动的场合效果正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11302&keyword=&tag=-1>`__
        | 「XYZ苏生」以「急袭猛禽-究极猎鹰」为对象发动的场合效果正常适用。
 
-   .. note:: 为什么增加X素材·指示物的效果影响的是怪兽？毕竟在这个时点效果还未处理，要新加的X素材·指示物还不存在，无法影响不存在的，只能影响怪兽了。
+   .. note:: 为什么结果不一样？对于增加的效果，因为效果处理时要增加的X素材·指示物还不在场上，就只能作用在怪兽上了。
 
 | 效果本身的特性可以被变更。
 | 例：
