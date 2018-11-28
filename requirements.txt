@@ -1,2 +1,2 @@
 sphinx
-cakephp_theme
+sphinx-rigado-theme
