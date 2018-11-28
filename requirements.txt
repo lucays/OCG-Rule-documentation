@@ -1,2 +1,2 @@
 sphinx
-sphinx_theme_pd
+sphinx_materialdesign_theme
