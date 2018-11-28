@@ -1,2 +1,2 @@
 sphinx
-sphinx_bulma_theme
+karma_sphinx_theme
