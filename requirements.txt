@@ -1,2 +1,2 @@
 sphinx
-sphinx_materialdesign_theme
+sphinx_press_theme
