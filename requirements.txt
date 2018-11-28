@@ -1,2 +1,2 @@
 sphinx
-sphinx-rigado-theme
+jupyter-sphinx-theme
