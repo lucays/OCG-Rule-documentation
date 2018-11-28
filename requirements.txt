@@ -1,2 +1,2 @@
 sphinx
-cloud_sptheme
+yummy_sphinx_theme
