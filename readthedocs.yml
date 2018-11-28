@@ -1,6 +1,4 @@
-formats:
-    - epub
-    - pdf
+formats: [pdf, epub]
 
 build:
     image: latest
