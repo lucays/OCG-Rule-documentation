@@ -1,2 +1,2 @@
 sphinx
-sphinx_press_theme
+sphinx_bulma_theme
