@@ -85,6 +85,7 @@ html_theme_path = [cloud_sptheme.get_theme_dir()]
 # documentation.
 #
 # html_theme_options = {}
+html_theme_options = {"minimal_layout_text_size": "87.5%"}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
