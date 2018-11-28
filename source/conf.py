@@ -88,7 +88,7 @@ html_theme_path = [cloud_sptheme.get_theme_dir()]
 html_theme_options = {
     'roottarget': 'index',
     "minimal_layout_text_size": "100%",
-    'minimal_width': '650px'}
+    'minimal_width': '500px'}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
