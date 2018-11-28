@@ -1,2 +1,2 @@
 sphinx
-karma_sphinx_theme
+topos-theme
