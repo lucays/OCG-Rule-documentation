@@ -193,7 +193,7 @@ epub_title = project
 # or the project homepage.
 #
 # epub_identifier = ''
-
+epub_theme = 'scrolls'
 # A unique identification for the text.
 #
 # epub_uid = ''
