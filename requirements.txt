@@ -1,2 +1,2 @@
 sphinx
-yummy_sphinx_theme
+sphinx_theme_pd
