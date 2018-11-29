@@ -1,2 +1,2 @@
 sphinx
-sphinx_pdj_theme
+sphinx_ustack_theme
