@@ -1,2 +1,2 @@
 sphinx
-jupyter-sphinx-theme
+sphinx_pdj_theme
