@@ -15,9 +15,9 @@ Welcome to ocg-rule's documentation!
 | 内容分为latest和master两个版本：
 
    - | latest版本使用默认界面，网页底部支持评论。FAQ等更新较为频繁。
-     | 点击左上角会出现侧边栏和搜索框。再点击右下角v:latest可以切换到master，可以下载pdf/epub文档。
+     | 电脑版网页左上角是搜索框，点开左下角v:latest可以切换到master，可以下载pdf/epub文档。手机版网页要先点击左上角出现侧边栏和搜索框，再可以点击右下角v:latest。
 
-   - | master版本使用更清爽的界面，不支持评论。不会频繁更新。
+   - | master版本使用更清爽的界面，不支持评论。不会频繁更新，和latest版本内容区别主要是FAQ更新。
      | 点击右下角显示书本图标和v:master的浮动按钮，就可以搜索，切换回latest，和下载pdf/epub文档。
 
 | 这些文章的用词和卡名等基本上使用NW论坛的翻译版本，在此表示感谢。
