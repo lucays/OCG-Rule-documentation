@@ -1,2 +1,2 @@
 sphinx
-sphinx_ustack_theme
+jupyter_sphinx_theme
