@@ -11,8 +11,14 @@ Welcome to ocg-rule's documentation!
 
 | 游戏王OCG规则繁杂，中文资料大多比较陈旧或不够具体，为了更方便的查规则调整，我整理出了这些文章。
 | 这些内容不用完全记住，只要知道大体在哪，遇到问题时查看对应页面就行了。
-| 网页右下角显示书本图标和v:latest/master的浮动按钮点开有搜索框，可以在所有文章中搜索。还可以下载pdf/epub电子书。
-| 部分内容可能仍有错误或没有及时更新，此时请联系我及时修正。
+| 部分内容可能仍有错误或没有及时更新，此时请联系我修正。
+| 内容分为latest和master两个版本：
+
+   - | latest版本使用默认界面，网页底部支持评论。FAQ等更新较为频繁。
+     | 点击左上角会出现侧边栏和搜索框。再点击右下角v:latest可以切换到master，可以下载pdf/epub文档。
+
+   - | master版本使用更清爽的界面，不支持评论。不会频繁更新。
+     | 点击右下角显示书本图标和v:master的浮动按钮，就可以搜索，切换回latest，和下载pdf/epub文档。
 
 | 这些文章的用词和卡名等基本上使用NW论坛的翻译版本，在此表示感谢。
 | 卡查可以用 `ourocg在线卡查 <http://www.ourocg.cn/>`__ ，要先在首页最下方改成优先使用NW文本。
@@ -30,8 +36,9 @@ Welcome to ocg-rule's documentation!
 联系方式
 ========
 
-| 对部分内容有疑问，或者有其他问题，可以加入qq群：768881279
-| 也可发邮件至：lucahhai@gmail.com 或 lucahhai@foxmail.com
+| latest版本可以直接在文章底部评论。
+| 对部分内容有疑问，或者有其他问题，也可以加入qq群：768881279
+| 或发邮件至：lucahhai@gmail.com 或 lucahhai@foxmail.com
 
 目录
 =======
