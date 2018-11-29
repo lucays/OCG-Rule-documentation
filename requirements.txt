@@ -1,2 +1,2 @@
 sphinx
-stanford_theme
+sphinx_ustack_theme
