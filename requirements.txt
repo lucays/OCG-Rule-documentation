@@ -1,2 +1,2 @@
 sphinx
-rtcat_sphinx_theme
+stanford_theme
