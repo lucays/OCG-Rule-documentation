@@ -34,7 +34,7 @@
 
 | 完全规则书也用了瞬间：
 
-.. figure:: ../image/13.png
+.. figure:: ../_static/13.png
    :alt: 完全规则书-瞬间
 
    完全规则书-瞬间
