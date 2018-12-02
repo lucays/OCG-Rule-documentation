@@ -15,6 +15,7 @@
 # import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
+import datetime
 # import sphinx_rtd_theme
 # from jupyter_sphinx_theme import *
 # init_theme()
@@ -24,6 +25,7 @@
 project = 'ocg-rule'
 copyright = '2018, 碎冰'
 author = '碎冰'
+last_updated = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
 # The short X.Y version
 version = ''
