@@ -1,1 +1,1 @@
-sphinx_redactor_theme
+sphinx-typlog-theme
