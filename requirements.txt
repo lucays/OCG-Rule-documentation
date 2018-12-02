@@ -1,1 +1,1 @@
-sphinx
+sphinx_ustack_theme
