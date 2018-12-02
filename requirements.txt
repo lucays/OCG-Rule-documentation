@@ -1,1 +1,2 @@
-sphinx-typlog-theme
+sphinx>1.8
+sphinx_ustack_theme
