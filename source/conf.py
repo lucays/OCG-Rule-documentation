@@ -15,7 +15,7 @@
 # import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
-import foundation_sphinx_theme
+import cakephp_theme
 
 # from jupyter_sphinx_theme import *
 # init_theme()
@@ -78,9 +78,20 @@ pygments_style = None
 # a list of builtin themes.
 # html_theme = "sphinx_rtd_theme"
 # html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
-html_theme = 'foundation_sphinx_theme'
-html_theme_path = foundation_sphinx_theme.HTML_THEME_PATH
-
+html_sidebars = {
+    '**': ['globaltoc.html', 'localtoc.html']
+}
+html_theme_path = [cakephp_theme.get_html_theme_path()]
+html_theme = 'cakephp_theme'
+extensions = ['cakephp_theme']
+html_context = {
+    'maintainer': 'Sphinx-themes test',
+    'project_pretty_name': 'Sphinx Themes',
+    'projects': {
+        'CakePHP Book': 'https://book.cakephp.org/',
+        'Some other project': 'https://example.com/',
+    }
+}
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.

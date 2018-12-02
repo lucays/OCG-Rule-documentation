@@ -1,1 +1,1 @@
-foundation-sphinx-theme
+cakephp_theme
