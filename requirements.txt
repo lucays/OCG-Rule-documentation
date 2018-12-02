@@ -1,1 +1,1 @@
-sphinxjp.themes.dotted
+sphinxbootstrap4theme
