@@ -15,7 +15,7 @@
 # import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
-import datetime
+
 # import sphinx_rtd_theme
 # from jupyter_sphinx_theme import *
 # init_theme()
@@ -25,7 +25,6 @@ import datetime
 project = 'ocg-rule'
 copyright = '2018, 碎冰'
 author = '碎冰'
-last_updated = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
 # The short X.Y version
 version = ''
@@ -117,6 +116,17 @@ html_sidebars = {
 #
 # html_sidebars = {}
 
+# The name of an image file (relative to this directory) to use as a favicon of
+# the docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
+# pixels large.
+#
+html_favicon = '_static/logo.jpg'
+
+# If not None, a 'Last updated on:' timestamp is inserted at every page
+# bottom, using the given strftime format.
+# The empty string is equivalent to '%b %d, %Y'.
+#
+html_last_updated_fmt = '%Y-%m-%d %H:%M:%S'
 
 # -- Options for HTMLHelp output ---------------------------------------------
 

@@ -38,7 +38,12 @@
             {% endtrans %}
             {%- elif last_updated %}
             {% trans last_updated=last_updated|e %}Last updated on {{ last_updated }}.{% endtrans %}
-
+            {%- elif commit %}
+            {% trans commit=commit %}
+            <span class="commit">
+                Revision <code>{{ commit }}</code>.
+            </span>
+            {% endtrans %}
             {%- endif %}
         </p>
     </div>
