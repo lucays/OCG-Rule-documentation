@@ -1,1 +1,1 @@
-sphinx_ustack_theme
+sphinxjp.themes.dotted
