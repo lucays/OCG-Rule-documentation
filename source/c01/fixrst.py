@@ -1,4 +1,5 @@
 import subprocess
+import os
 
 
 def addblankline(filename):
@@ -26,11 +27,17 @@ def addblankline(filename):
                     results.append(text)
             else:
                 results.append(text)
-    with open('1.rst', 'w', encoding='utf8') as f:
+    with open(filename, 'w', encoding='utf8') as f:
         f.write(''.join(results))
 
 
+'''
 p = subprocess.run(['ls'], stdout=subprocess.PIPE, encoding='utf8')
 for filename in p.stdout.split():
     if '.rst' in filename:
         addblankline(filename)
+'''
+p = os.popen('dir')
+files = [i.split()[-1].strip() for i in p if i.startswith('2018') and '.rst' in i]
+for file in files:
+    addblankline(file)
