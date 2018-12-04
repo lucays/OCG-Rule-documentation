@@ -14,7 +14,6 @@ aside,
 footer,
 header,
 nav,
-line-block,
 section {
     display: block
 }
@@ -532,6 +531,11 @@ a {
     content: '';
     clear: both
 }
+
+.line-block {
+    display:block;
+    margin-bottom: 1em;
+ }
 
 .sidebar {
     position: fixed;
