@@ -1473,9 +1473,7 @@ a.logo {
 .github_wrap .github {
     display: inline-block;
     border: 1px solid #d5d5d5;
-    background-image: linear-gradient(to bottom, #fcfcfc 0, #eee 100%);
-    padding: 6px 14px;
-    border-radius: 5px
+    padding: 6px 14px
 }
 
 .github>span {
