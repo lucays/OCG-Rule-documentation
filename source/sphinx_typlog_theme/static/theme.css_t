@@ -1,0 +1,35 @@
+{% if theme_color %}
+::selection {
+  color: white;
+  background-color: {{ theme_color }};
+}
+a:hover,
+.yue a:hover,
+.site-head a:hover,
+.sidebar a:hover {
+  color: {{ theme_color }};
+  border-color: {{ theme_color }};
+}
+
+.button:hover {
+  background-color: {{ theme_color }};
+}
+
+.highlighted {
+  background-color: {{ theme_color }};
+}
+
+.sponsor_text a {
+  border-color: {{ theme_color }};
+}
+
+.globaltoc a.current {
+  color: {{ theme_color }};
+}
+
+.injected .rst-versions small a,
+.injected .rst-versions .rst-current-version,
+.injected .rst-versions .rst-other-versions dd a:hover {
+  color: {{ theme_color }};
+}
+{% endif %}

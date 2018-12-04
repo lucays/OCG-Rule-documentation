@@ -1,0 +1,12 @@
+{%- if theme_logo or theme_logo_name %}
+<a class="logo" href="{{ pathto(master_doc) }}">
+  {%- if theme_logo -%}
+    <img src="{{ pathto('_static/' ~ theme_logo, 1) }}" alt="Logo"/>
+  {%- endif -%}
+  {%- if theme_logo_name %}
+    {{ theme_logo_name }}
+  {%- else %}
+    {{ project }}
+  {%- endif %}
+</a>
+{%- endif %}
