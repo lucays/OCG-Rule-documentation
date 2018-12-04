@@ -83,7 +83,7 @@ html_theme = 'sphinx_typlog_theme'
 html_theme_path = [sphinx_typlog_theme.get_path()]
 html_theme_options = {
     'logo': 'logo.jpg',
-    'description': 'OCG规则整理',
+    'description': 'OCG规则整理 by 碎冰',
     'github_user': 'lucays',
     'github_repo': 'ocg-rule',
 }
@@ -91,6 +91,7 @@ html_sidebars = {
     '**': [
         'logo.html',
         'description.html',
+        'docstatus.html',
         'github.html',
         'globaltoc.html',
         'searchbox.html',
