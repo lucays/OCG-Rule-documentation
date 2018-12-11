@@ -217,4 +217,4 @@ texinfo_documents = [
 # A unique identification for the text.
 #
 # epub_uid = ''
-epub_show_urls = 'no
+epub_show_urls = 'no'
