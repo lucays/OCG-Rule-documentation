@@ -139,6 +139,9 @@ htmlhelp_basename = 'ocg-ruledoc'
 
 # -- Options for LaTeX output ------------------------------------------------
 
+latex_engine = 'xelatex'
+latex_logo = '_static/logo.jpg'
+
 latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').
     #
@@ -155,7 +158,7 @@ latex_elements = {
     # Latex figure (float) alignment
     #
     # 'figure_align': 'htbp',
-    'sphinxsetup': 'attentionBorderColor={rgb}{0.012,0.675,0.957}, noteBorderColor={rgb}{0.012,0.663,0.957}, tipBorderColor={rgb}{1,0.412,0.706}, attentionBgColor={rgb}{0.012,0.675,0.957}',
+    'sphinxsetup': 'attentionBorderColor={rgb}{0.012,0.663,0.957}, noteBorderColor={rgb}{0.012,0.663,0.957}, tipBorderColor={rgb}{1,0.412,0.706}, attentionBgColor={rgb}{0.012,0.675,0.957}',
     'preamble': r'''
     \hypersetup{unicode=true}
     \usepackage{CJKutf8}
@@ -172,6 +175,7 @@ latex_elements = {
     \begin{CJK}{UTF8}{gbsn}
     \AtEndDocument{\end{CJK}}
     ''',
+    'figure_align': 'H',
 }
 
 # Grouping the document tree into LaTeX files. List of tuples
