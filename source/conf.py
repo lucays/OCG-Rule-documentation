@@ -208,7 +208,6 @@ texinfo_documents = [
 # -- Options for Epub output -------------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = project
 
 # The unique identifier of the text. This can be a ISBN number
 # or the project homepage.
@@ -218,10 +217,4 @@ epub_title = project
 # A unique identification for the text.
 #
 # epub_uid = ''
-epub_show_urls = 'no'
-# A list of files that should not be packed into the epub file.
-epub_exclude_files = ['search.html']
-
-epub_theme_options = {
-    'footer': False,
-}
+epub_show_urls = 'no
