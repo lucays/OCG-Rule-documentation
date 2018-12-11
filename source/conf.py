@@ -155,7 +155,7 @@ latex_elements = {
     # Latex figure (float) alignment
     #
     # 'figure_align': 'htbp',
-    'sphinxsetup': 'attentionBorderColor={rgb}{0,0.96,1}, noteBorderColor={rgb}{0,0.96,1}, tipBorderColor={rgb}{1,0.412,0.706}, attentionBgColor={rgb}{0,0.96,1}, noteBgColor={rgb}{0,0.96,1}, tipBgColor={rgb}{1,0.412,0.706}',
+    'sphinxsetup': 'attentionBorderColor={rgb}{0.012,0.675,0.957}, noteBorderColor={rgb}{0.012,0.663,0.957}, tipBorderColor={rgb}{1,0.412,0.706}, attentionBgColor={rgb}{0.012,0.675,0.957}',
     'preamble': r'''
     \hypersetup{unicode=true}
     \usepackage{CJKutf8}
