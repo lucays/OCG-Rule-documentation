@@ -139,28 +139,9 @@ htmlhelp_basename = 'ocg-ruledoc'
 
 # -- Options for LaTeX output ------------------------------------------------
 
-latex_engine = 'xelatex'
+latex_engine = 'lualatex'
 latex_logo = '_static/logo.jpg'
-latex_elements={# The paper size ('letterpaper' or 'a4paper').
-'papersize':'a4paper',# The font size ('10pt', '11pt' or '12pt').
-'pointsize':'12pt','classoptions':',oneside','babel':'',#必須
-'inputenc':'',#必須
-'utf8extra':'',#必須
-'sphinxsetup': 'attentionBorderColor={rgb}{0.012,0.663,0.957}, noteBorderColor={rgb}{0.012,0.663,0.957}, tipBorderColor={rgb}{1,0.412,0.706}, attentionBgColor={rgb}{0.012,0.675,0.957}',
-'figure_align': 'H',
-# Additional stuff for the LaTeX preamble.
-'preamble': r"""
-\usepackage{xeCJK}
-\usepackage{indentfirst}
-\setlength{\parindent}{2em}
-\setCJKmainfont{WenQuanYi Micro Hei}
-\setCJKmonofont[Scale=0.9]{WenQuanYi Micro Hei Mono}
-\setCJKfamilyfont{song}{WenQuanYi Micro Hei}
-\setCJKfamilyfont{sf}{WenQuanYi Micro Hei}
-\XeTeXlinebreaklocale "zh"
-\XeTeXlinebreakskip = 0pt plus 1pt
-"""}
-"""
+
 latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').
     #
@@ -196,7 +177,6 @@ latex_elements = {
     ''',
     'figure_align': 'H',
 }
-"""
 
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title,
