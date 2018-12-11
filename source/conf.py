@@ -221,3 +221,7 @@ epub_title = project
 epub_show_urls = 'no'
 # A list of files that should not be packed into the epub file.
 epub_exclude_files = ['search.html']
+
+epub_theme_options = {
+    'footer': False,
+}
