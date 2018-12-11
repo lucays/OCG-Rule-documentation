@@ -139,7 +139,6 @@ htmlhelp_basename = 'ocg-ruledoc'
 
 # -- Options for LaTeX output ------------------------------------------------
 
-latex_engine = 'lualatex'
 latex_logo = '_static/logo.jpg'
 
 latex_elements = {
