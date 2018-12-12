@@ -28,7 +28,7 @@ Welcome to ocg-rule's documentation!
 | 文章中的日期若为蓝色超链接，点击后可以进入官方卡片数据库的FAQ原文。若进入的是英文首页，在右上角选日语后会自动刷新进入FAQ页面。
 | 尽管很多卡片描述相似甚至一模一样，它们的裁定也有可能不一样。这样的情况在文中会用\ **特别**\ 两字注明。当然，也许只是我不了解原因。总之以事务局的裁定为准。
 
-| 这些文章用 `restructureText <https://zh-sphinx-doc.readthedocs.io/en/latest/rest.html>`__ 写就，所有文章和网页界面主题的全部代码开源在 `lucays/ocg-rule <https://github.com/lucays/ocg-rule>`__ 。
+| 这些文章用 `restructureText <https://zh-sphinx-doc.readthedocs.io/en/latest/rest.html>`__ 写就，所有文章的代码托管于 `lucays/ocg-rule <https://github.com/lucays/ocg-rule>`__，网页界面主题的代码托管于 `lucays/sphinx-typlog-theme <https://github.com/lucays/sphinx-typlog-theme>`__。
 | readthedocs托管文档的步骤参考 `使用ReadtheDocs托管文档 <https://www.xncoding.com/2017/01/22/fullstack/readthedoc.html>`__ 和 `sphinx文档 <http://www.sphinx-doc.org/en/master/>`__ 。
 
 联系方式
