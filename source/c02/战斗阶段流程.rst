@@ -232,7 +232,7 @@
 
 伤害步骤划分为5个时点：
 
-.. figure:: ../_static/2.png
+.. figure:: ../.static/2.png
    :alt: 伤害步骤一览表.jpg
 
    伤害步骤一览表.jpg（作者：\ `lzsgodmax <https://www.baidu.com/p/lzsgodmax>`__\ ）

@@ -487,7 +487,7 @@
 | 41-45 EDBDB
 | 46-50 DBCDB
 
-.. |image1.png| image:: ../_static/14.png
-.. |image2.png| image:: ../_static/15.png
-.. |image3.png| image:: ../_static/16.png
-.. |image4.png| image:: ../_static/17.png
+.. |image1.png| image:: ../.static/14.png
+.. |image2.png| image:: ../.static/15.png
+.. |image3.png| image:: ../.static/16.png
+.. |image4.png| image:: ../.static/17.png
