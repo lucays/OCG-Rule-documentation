@@ -1,142 +1,110 @@
 {%- set url_root = pathto('', 1) %}
 {%- if url_root == '#' %}{% set url_root = '' %}{% endif %}
 {%- if not embedded and docstitle %}
-  {%- set titlesuffix = " &mdash; "|safe + docstitle|e %}
+{%- set titlesuffix = " &mdash; "|safe + docstitle|e %}
 {%- else %}
-  {%- set titlesuffix = "" %}
+{%- set titlesuffix = "" %}
 {%- endif %}
 {%- set lang_attr = 'en' if language == None else (language | replace('_', '-')) -%}
 <!DOCTYPE html>
 <html lang="{{lang_attr}}">
+
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   {{ metatags }}
   {%- block htmltitle -%}
-    <title>{{ title|striptags|e }}{{ titlesuffix }}</title>
+  <title>{{ title|striptags|e }}{{ titlesuffix }}</title>
   {% endblock %}
   {%- if favicon -%}
-    <link rel="shortcut icon" href="{{ pathto('_static/' + favicon, 1) }}"/>
+  <link rel="shortcut icon" href="{{ pathto('_static/' + favicon, 1) }}" />
   {%- endif %}
   {%- if theme_canonical_url -%}
-    <link rel="canonical" href="{{ theme_canonical_url }}{{ pagename }}.html"/>
+  <link rel="canonical" href="{{ theme_canonical_url }}{{ pagename }}.html" />
   {%- endif -%}
 
   {%- if not embedded and use_opensearch -%}
-    <link rel="search" type="application/opensearchdescription+xml" title="{% trans docstitle=docstitle|e %}Search within {{ docstitle }}{% endtrans %}" href="{{ pathto('_static/opensearch.xml', 1) }}"/>
+  <link rel="search" type="application/opensearchdescription+xml" title="{% trans docstitle=docstitle|e %}Search within {{ docstitle }}{% endtrans %}"
+    href="{{ pathto('_static/opensearch.xml', 1) }}" />
   {%- endif %}
 
   {%- if theme_webfont -%}
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Mono">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Mono">
   {%- endif %}
   <link rel="stylesheet" href="{{ pathto('_static/' + style, 1) }}?v={{ theme_version }}" type="text/css" />
   <link rel="stylesheet" href="{{ pathto('_static/theme.css', 1) }}?v={{ theme_version }}" type="text/css" />
   {%- for cssfile in css_files -%}
-    <link rel="stylesheet" href="{{ pathto(cssfile, 1) }}" type="text/css" />
+  <link rel="stylesheet" href="{{ pathto(cssfile, 1) }}" type="text/css" />
   {%- endfor %}
 
   {%- for cssfile in extra_css_files -%}
-    <link rel="stylesheet" href="{{ pathto(cssfile, 1) }}" type="text/css" />
+  <link rel="stylesheet" href="{{ pathto(cssfile, 1) }}" type="text/css" />
   {%- endfor %}
 
   {%- block linktags %}
-    {%- if hasdoc('about') %}
-      <link rel="author" title="{{ _('About these documents') }}"
-            href="{{ pathto('about') }}"/>
-    {%- endif %}
-    {%- if hasdoc('genindex') %}
-      <link rel="index" title="{{ _('Index') }}" href="{{ pathto('genindex') }}"/>
-    {%- endif %}
-    {%- if hasdoc('search') %}
-      <link rel="search" title="{{ _('Search') }}" href="{{ pathto('search') }}"/>
-    {%- endif %}
-    {%- if hasdoc('copyright') %}
-      <link rel="copyright" title="{{ _('Copyright') }}" href="{{ pathto('copyright') }}"/>
-    {%- endif %}
-    <link rel="top" title="{{ docstitle|e }}" href="{{ pathto('index') }}"/>
-    {%- if parents %}
-      <link rel="up" title="{{ parents[-1].title|striptags|e }}" href="{{ parents[-1].link|e }}"/>
-    {%- endif %}
-    {%- if next %}
-      <link rel="next" title="{{ next.title|striptags|e }}" href="{{ next.link|e }}"/>
-    {%- endif %}
-    {%- if prev %}
-      <link rel="prev" title="{{ prev.title|striptags|e }}" href="{{ prev.link|e }}"/>
-    {%- endif %}
+  {%- if hasdoc('about') %}
+  <link rel="author" title="{{ _('About these documents') }}" href="{{ pathto('about') }}" />
+  {%- endif %}
+  {%- if hasdoc('genindex') %}
+  <link rel="index" title="{{ _('Index') }}" href="{{ pathto('genindex') }}" />
+  {%- endif %}
+  {%- if hasdoc('search') %}
+  <link rel="search" title="{{ _('Search') }}" href="{{ pathto('search') }}" />
+  {%- endif %}
+  {%- if hasdoc('copyright') %}
+  <link rel="copyright" title="{{ _('Copyright') }}" href="{{ pathto('copyright') }}" />
+  {%- endif %}
+  <link rel="top" title="{{ docstitle|e }}" href="{{ pathto('index') }}" />
+  {%- if parents %}
+  <link rel="up" title="{{ parents[-1].title|striptags|e }}" href="{{ parents[-1].link|e }}" />
+  {%- endif %}
+  {%- if next %}
+  <link rel="next" title="{{ next.title|striptags|e }}" href="{{ next.link|e }}" />
+  {%- endif %}
+  {%- if prev %}
+  <link rel="prev" title="{{ prev.title|striptags|e }}" href="{{ prev.link|e }}" />
+  {%- endif %}
   {%- endblock %}
   <script>{% include "js/ga.js" %}</script>
   {%- include "scripts.html" %}
   {%- if theme_meta_html %}{{ theme_meta_html }}{% endif %}
   {%- block extrahead %}{% endblock %}
 </head>
+
 <body role="document" data-page="{{ pagename }}">
   <header class="head">
-    <div class="head_menu"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M64 384h384v-42.666H64V384zm0-106.666h384v-42.667H64v42.667zM64 128v42.665h384V128H64z"/></svg></div>
+    <div class="head_menu"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+        <path d="M64 384h384v-42.666H64V384zm0-106.666h384v-42.667H64v42.667zM64 128v42.665h384V128H64z" /></svg></div>
     <a class="head_logo" href="{{ pathto(master_doc) }}">
       {%- if theme_logo -%}
-      <img src="{{ pathto('_static/' ~ theme_logo, 1) }}" alt="Logo"/>
+      <img src="{{ pathto('_static/' ~ theme_logo, 1) }}" alt="Logo" />
       {%- endif -%}
       {{ project }}
     </a>
   </header>
   <aside class="sidebar">
     <div class="mobile-close">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M405 136.798L375.202 107 256 226.202 136.798 107 107 136.798 226.202 256 107 375.202 136.798 405 256 285.798 375.202 405 405 375.202 285.798 256z"/></svg>
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+        <path d="M405 136.798L375.202 107 256 226.202 136.798 107 107 136.798 226.202 256 107 375.202 136.798 405 256 285.798 375.202 405 405 375.202 285.798 256z" /></svg>
     </div>
     <div class="inner">
       {%- if sidebars %}
-        {%- for sidebartemplate in sidebars %}
-          {%- include sidebartemplate %}
-        {%- endfor %}
+      {%- for sidebartemplate in sidebars %}
+      {%- include sidebartemplate %}
+      {%- endfor %}
       {%- endif %}
     </div>
   </aside>
   <div class="content">
     <div class="body yue">{% block body %}{% endblock %}</div>
-    {%- block footer %}
-<footer>
-    <div role="contentinfo">
-        <p>
-            {%- if show_copyright %}
-            {%- if hasdoc('copyright') %}
-            {% trans path=pathto('copyright'), copyright=copyright|e %}&copy; <a href="{{ path }}">Copyright</a> {{
-            copyright }}{% endtrans %}
-            {%- else %}
-            {% trans copyright=copyright|e %}&copy; Copyright {{ copyright }}{% endtrans %}
-            {%- endif %}
-            {%- endif %}
-
-            {%- if build_id and build_url %}
-            {% trans build_url=build_url, build_id=build_id %}
-            <span class="build">
-                Build
-                <a href="{{ build_url }}">{{ build_id }}</a>.
-            </span>
-            {% endtrans %}
-            {%- elif last_updated %}
-            {% trans last_updated=last_updated|e %}Last updated on {{ last_updated }}.{% endtrans %}
-            {%- elif commit %}
-            {% trans commit=commit %}
-            <span class="commit">
-                Revision <code>{{ commit }}</code>.
-            </span>
-            {% endtrans %}
-            {%- endif %}
-        </p>
-    </div>
-    {%- if show_sphinx %}
-    {% trans %}Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/typlog/sphinx-typlog-theme">theme</a>
-    provided by <a href="https://lepture.com/">Hsiaoming Yang</a>, modified by <a href="https://github.com/lucays/ocg-rule/tree/master/source/sphinx_typlog_theme">碎冰</a>{% endtrans %}.
-    {%- endif %}
-</footer>
-    {%- block extrafooter %} {% endblock %}
-    {%- endblock %}
+    {% include "footer.html" %}
   </div>
   <script>
-    $('.head_menu').on('click',function(){$('body').addClass('expand')});
-    $('.body').on('click',function(){$('body').removeClass('expand')});
-    $('.mobile-close').on('click',function(){$('body').removeClass('expand')});
+    $('.head_menu').on('click', function () { $('body').addClass('expand') });
+    $('.body').on('click', function () { $('body').removeClass('expand') });
+    $('.mobile-close').on('click', function () { $('body').removeClass('expand') });
   </script>
 </body>
+
 </html>
