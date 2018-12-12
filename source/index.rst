@@ -6,6 +6,10 @@
 Welcome to ocg-rule's documentation!
 ====================================
 
+.. image:: https://readthedocs.org/projects/ocg-rule/badge/?version=latest&style=flat-square
+   :target: https://ocg-rule.readthedocs.io/zh_CN/latest/?badge=latest&style=flat-square
+   :alt: Documentation Status
+
 前言
 ============
 
