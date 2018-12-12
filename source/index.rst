@@ -29,8 +29,8 @@ Welcome to ocg-rule's documentation!
 | 尽管很多卡片描述相似甚至一模一样，它们的裁定也有可能不一样。这样的情况在文中会用\ **特别**\ 两字注明。当然，也许只是我不了解原因。总之以事务局的裁定为准。
 
 | 这些文章用 `restructureText <https://zh-sphinx-doc.readthedocs.io/en/latest/rest.html>`__ 写就。
-| 所有文章的代码见： `lucays/ocg-rule <https://github.com/lucays/ocg-rule>`__
-| 网页界面主题的代码见： `lucays/sphinx-typlog-theme <https://github.com/lucays/sphinx-typlog-theme>`__。
+| 所有文章的代码见： `lucays/ocg-rule <https://github.com/lucays/ocg-rule>`__ 。
+| 网页界面主题的代码见： `lucays/sphinx-typlog-theme <https://github.com/lucays/sphinx-typlog-theme>`__ 。
 | readthedocs托管文档的步骤参考 `使用ReadtheDocs托管文档 <https://www.xncoding.com/2017/01/22/fullstack/readthedoc.html>`__ 和 `sphinx文档 <http://www.sphinx-doc.org/en/master/>`__ 。
 
 联系方式
