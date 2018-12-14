@@ -91,6 +91,7 @@ html_sidebars = {
     '**': [
         'logo.html',
         'description.html',
+        'docstatus.html',
         'github.html',
         'globaltoc.html',
         'searchbox.html',
