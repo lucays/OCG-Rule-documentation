@@ -122,7 +122,9 @@ html_sidebars = {
 # the docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
 # pixels large.
 #
-html_favicon = '.static/logo.jpg'
+html_favicon = '.static/favicon.ico'
+
+html_logo = '.static/logo.jpg'
 
 # If not None, a 'Last updated on:' timestamp is inserted at every page
 # bottom, using the given strftime format.
