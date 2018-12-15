@@ -45,27 +45,27 @@
 | 召唤的怪兽在变成里侧或被一时除外后，仍然是召唤的怪兽。
 | 例：「破坏龙 甘多拉」在召唤的结束阶段之前变成里侧再反转，结束阶段效果会发动，送去墓地。被一时除外再在结束阶段回到场上，效果也会发动。
 
-    -  | 再度召唤的二重怪兽变成里侧或被一时除外后，自身效果消失。反转后是通常怪兽，要得到效果必须再度召唤。\ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6748&keyword=&tag=-1>`__ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6758&keyword=&tag=-1>`__
+-  | 再度召唤的二重怪兽变成里侧或被一时除外后，自身效果消失。反转后是通常怪兽，要得到效果必须再度召唤。\ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6748&keyword=&tag=-1>`__ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6758&keyword=&tag=-1>`__
 
-    -  | 上级召唤的怪兽变成里侧或被一时除外后，\ **仍然是上级召唤的怪兽**\ 。\ `15/2/5 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6109&keyword=&tag=-1>`__
-       | 例：解放怪兽和永续陷阱表侧表示上级召唤的「真龙剑皇 卓辉星·拼图」变成里侧表示或被一时除外再反转，仍然可以发动②效果。
+-  | 上级召唤的怪兽变成里侧或被一时除外后，\ **仍然是上级召唤的怪兽**\ 。\ `15/2/5 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6109&keyword=&tag=-1>`__
+   | 例：解放怪兽和永续陷阱表侧表示上级召唤的「真龙剑皇 卓辉星·拼图」变成里侧表示或被一时除外再反转，仍然可以发动②效果。
 
 .. attention:: 召唤仅指表侧表示通常召唤。这是基本规则。
 
 | 特殊召唤的怪兽变成里侧或被一时除外后，\ **仍然是特殊召唤的怪兽**\ 。\ `15/6/11 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=213&keyword=&tag=-1>`__
 | 例：特殊召唤的怪兽变成里侧表示或被一时除外后，仍然会被「升灵术师 奘玄」的效果破坏。
 
-    -  | 同调召唤的怪兽变成里侧或被一时除外后，\ **仍然是同调召唤的怪兽**\ 。\ `16/1/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18149&keyword=&tag=-1>`__
-       | 例：「幻龙星-嘲风」变成里侧后，被卡的效果破坏或被战斗破坏送去墓地时，可以发动②效果。\ `15/2/13 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15149&keyword=&tag=-1>`__
+-  | 同调召唤的怪兽变成里侧或被一时除外后，\ **仍然是同调召唤的怪兽**\ 。\ `16/1/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18149&keyword=&tag=-1>`__
+   | 例：「幻龙星-嘲风」变成里侧后，被卡的效果破坏或被战斗破坏送去墓地时，可以发动②效果。\ `15/2/13 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15149&keyword=&tag=-1>`__
 
-    -  | X召唤的怪兽变成里侧或被一时除外后，\ **仍然是X召唤的怪兽**\ 。\ `16/4/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18652&keyword=&tag=-1>`__
-       | 例：「异色眼绝零龙」变成里侧后，送去墓地时，可以发动②效果。\ `15/6/19 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16189&keyword=&tag=-1>`__
+-  | X召唤的怪兽变成里侧或被一时除外后，\ **仍然是X召唤的怪兽**\ 。\ `16/4/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18652&keyword=&tag=-1>`__
+   | 例：「异色眼绝零龙」变成里侧后，送去墓地时，可以发动②效果。\ `15/6/19 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16189&keyword=&tag=-1>`__
 
-    -  | 融合召唤的怪兽变成里侧或被一时除外后，\ **仍然是融合召唤的怪兽**\ 。\ `16/7/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19553&keyword=&tag=-1>`__
+-  | 融合召唤的怪兽变成里侧或被一时除外后，\ **仍然是融合召唤的怪兽**\ 。\ `16/7/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19553&keyword=&tag=-1>`__
 
-    -  | 仪式召唤的怪兽变成里侧或被一时除外后，\ **仍然是仪式召唤的怪兽**\ 。\ `17/9/21 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=69&keyword=&tag=-1>`__ `17/10/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13294&keyword=&tag=-1>`__
+-  | 仪式召唤的怪兽变成里侧或被一时除外后，\ **仍然是仪式召唤的怪兽**\ 。\ `17/9/21 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=69&keyword=&tag=-1>`__ `17/10/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13294&keyword=&tag=-1>`__
 
-    -  | 灵摆召唤的怪兽变成里侧后，不再是灵摆召唤的怪兽。\ `14/11/14 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14266&keyword=&tag=-1>`__\ 被一时除外后，还是灵摆召唤的怪兽。\ `16/1/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18305&keyword=&tag=-1>`__
+-  | 灵摆召唤的怪兽变成里侧后，不再是灵摆召唤的怪兽。\ `14/11/14 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14266&keyword=&tag=-1>`__\ 被一时除外后，还是灵摆召唤的怪兽。\ `16/1/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18305&keyword=&tag=-1>`__
 
 | 反转召唤的怪兽变成里侧后的裁定不太统一，详情见下例。一时除外后不再是反转召唤的怪兽。\ `16/1/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18306&keyword=&tag=-1>`__
 | 例：
@@ -86,8 +86,8 @@
 | 例：
 | 「苦痛的回廊」适用中，从卡组特殊召唤的怪兽变成里侧再反转，不受这个效果影响。被一时除外的怪兽回到场上后仍受影响。
 
-   -  | 直接从卡组·额外卡组里侧状态特殊召唤的怪兽，因为反转本身不会丢失情报，反转后仍然是从额外卡组特殊召唤的怪兽。
-      | 例：「饼蛙」把对方P卡的怪兽效果发动无效并破坏，并在自己场上盖伏时，由于那个P怪兽从怪兽区域被破坏，先加入对方的额外卡组后被特殊召唤，对方发动「影依融合」的场合可以从卡组选融合素材。
+-  | 直接从卡组·额外卡组里侧状态特殊召唤的怪兽，因为反转本身不会丢失情报，反转后仍然是从额外卡组特殊召唤的怪兽。
+   | 例：「饼蛙」把对方P卡的怪兽效果发动无效并破坏，并在自己场上盖伏时，由于那个P怪兽从怪兽区域被破坏，先加入对方的额外卡组后被特殊召唤，对方发动「影依融合」的场合可以从卡组选融合素材。
 
 用何召唤
 ========
@@ -149,9 +149,9 @@
 | 「No.66 霸键甲虫」的效果，持续取对象的怪兽在那之后变成里侧的场合，这个效果不再适用。
 | 「增草剂」特殊召唤的怪兽在被一时除外的时点，由于怪兽从场上离开，「增草剂」被自身效果破坏。
 
-   -  | 「剑斗兽 马斗」「深渊死球」等的效果无效时，那个被持续取对象的怪兽效果恢复有效，但若「剑斗兽 马斗」「深渊死球」等重新适用，再度被无效。
-      | 以「旧神 诺登」为例，即使都是持续取对象，但有些效果适用与否与持续取对象无关。描述差异需要自行体会。
-      | 如「No.106 巨岩掌 巨手」「No.45 灭亡之预言者」等效果无效时，那个被持续取对象的怪兽效果仍无效，也不能作表示形式的变更。
+-  | 「剑斗兽 马斗」「深渊死球」等的效果无效时，那个被持续取对象的怪兽效果恢复有效，但若「剑斗兽 马斗」「深渊死球」等重新适用，再度被无效。
+   | 以「旧神 诺登」为例，即使都是持续取对象，但有些效果适用与否与持续取对象无关。描述差异需要自行体会。
+   | 如「No.106 巨岩掌 巨手」「No.45 灭亡之预言者」等效果无效时，那个被持续取对象的怪兽效果仍无效，也不能作表示形式的变更。
 
 | 将要和场上的卡持续取对象的效果发动的处理时，那张卡变成里侧的场合，若这个效果在处理时对里侧的卡也可以适用，则这个持续取对象的效果正常适用，否则不适用。
 | 对象的卡被一时除外的场合，由于离场因此不适用。
@@ -242,11 +242,11 @@
 
 | 「神影依·米德拉什」「暗黑之扉」「召唤兽 卡利古拉」「魔弹恶魔 萨米尔」「闪刀机关-多任务战刀机」等的计数效果，是这些卡片的效果适用导致的计数。其中的怪兽变成里侧或被一时除外的场合归零。这个回合内再反转的场合也从零开始重新计算。
 
-   -  | 已经开始适用后效果被无效，已经计入的数量不会归零。
-      | 在无效状态下也计数。
-      | 例：「神影依·米德拉什」和「技能抽取」在场上存在，自己特殊召唤一次后，「技能抽取」被破坏的场合，这个回合自己不能特殊召唤了。
+-  | 已经开始适用后效果被无效，已经计入的数量不会归零。
+   | 在无效状态下也计数。
+   | 例：「神影依·米德拉什」和「技能抽取」在场上存在，自己特殊召唤一次后，「技能抽取」被破坏的场合，这个回合自己不能特殊召唤了。
 
-   .. attention:: 特别地，「召唤限制器」等连发动前的次数也计算。
+.. attention:: 特别地，「召唤限制器」等连发动前的次数也计算。
 
 -  放置指示物的卡变成里侧或被一时除外后指示物全部消失。
 
