@@ -41,6 +41,7 @@ Thumbs.db
 # Byte-compiled / optimized / DLL files
 build/
 _build/
+src/
 __pycache__/
 *.py[cod]
 *.pyc
