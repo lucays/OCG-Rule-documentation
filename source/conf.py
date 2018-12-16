@@ -83,7 +83,7 @@ html_theme = 'sphinx_typlog_theme'
 html_theme_path = [sphinx_typlog_theme.get_path()]
 html_theme_options = {
     'logo': 'logo.png',
-    'color': 'blue',
+    'color': 'rgba(3, 172, 244, 0.6)',
     'description': 'OCG规则整理 by 碎冰',
     'github_user': 'lucays',
     'github_repo': 'ocg-rule',
