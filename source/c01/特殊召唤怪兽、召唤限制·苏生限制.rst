@@ -136,7 +136,7 @@
 | 例：
 | 「天声的服从」把「光之创造神 哈拉克提」无视召唤条件特殊召唤的场合，发动「天声的服从」的玩家立即决斗胜利。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19404&keyword=&tag=-1>`__\
 | 「真红眼卡通龙」把特殊召唤怪兽无视召唤条件特殊召唤，那个怪兽之后被送去墓地的场合，不能用「死者苏生」等效果特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18257>`__\
-| 「太阳神之翼神龙-球体形」把「太阳神之翼神龙」无视召唤条件特殊召唤后，那个「太阳神之翼神龙」再被送去墓地的场合，不能用「死者苏生」等效果特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16161>`__\
+| 「永远的淑女 贝阿特丽切」把「彼岸的诗人 维吉尔」无视召唤条件特殊召唤后，那个「彼岸的诗人 维吉尔」再被送去墓地的场合，不能用「死者苏生」等效果特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16940>`__\
 
 -  | 基本上，这样的效果不能无视苏生限制。
    | 例：
