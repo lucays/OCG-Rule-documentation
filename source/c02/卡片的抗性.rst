@@ -119,7 +119,7 @@
 
 -  | 「冤枉」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17508>`__\ 「终焉的指名者」\ `17/6/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9546&keyword=&tag=-1>`__\ 这样的描述也不影响怪兽，即使不受影响，也不能发动效果。
 
--  | 「混沌帝龙 -终焉的使者-」等『~~发动的回合，自己不能发动效果』是 :ref:`誓约` ，不是效果。不受影响也不能发动。
+-  | 「混沌帝龙 -终焉的使者-」等『...发动的回合，自己不能发动效果』是 :ref:`誓约` ，不是效果。不受影响也不能发动。
 
 -  | 「天魔大帝」给其他卡附加不让连锁能力的文本不影响那些卡\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18246&keyword=&tag=-1>`__\ ，并且这个状况对方不受影响的怪兽仍然不能连锁发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18245&keyword=&tag=-1>`__
 
