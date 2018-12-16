@@ -82,7 +82,7 @@ pygments_style = None
 html_theme = 'sphinx_typlog_theme'
 html_theme_path = [sphinx_typlog_theme.get_path()]
 html_theme_options = {
-    'logo': 'logo.jpg',
+    'logo': 'logo.png',
     'description': 'OCG规则整理 by 碎冰',
     'github_user': 'lucays',
     'github_repo': 'ocg-rule',
@@ -125,7 +125,7 @@ html_sidebars = {
 #
 html_favicon = '.static/favicon.ico'
 
-html_logo = '.static/logo.jpg'
+html_logo = '.static/logo.png'
 
 # If not None, a 'Last updated on:' timestamp is inserted at every page
 # bottom, using the given strftime format.
