@@ -425,8 +425,8 @@
 | X怪兽被战斗破坏，伤害计算后可以取除其X素材发动「XYZ阻挡」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6639>`__
 | 这个状态称为\ **确定被战斗破坏**\ ，需要注意以下几点：
 
--  | 从这个时点起永续效果不适用。
-   | 已经适用的「禁忌的圣杯」「禁忌的圣衣」「炼狱的死徒」等效果仍适用。
+-  | 从这个时点起自身的永续效果不适用。
+   | 其他已经适用的「禁忌的圣杯」「禁忌的圣衣」「炼狱的死徒」等效果仍适用。
    | 例：
    | 通常怪兽把「雷王」战斗破坏，伤害计算后「雷王」的效果不适用，「德拉科尼亚的兽龙骑兵」的P效果可以发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8739>`__
    | 「超级运动员 猛力强击手」被战斗破坏的时点，②效果不再适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17194>`__
