@@ -45,7 +45,7 @@
 | 「大将军 紫炎」在对方场上存在，自己魔法·陷阱卡的发动被无效的场合，这个回合自己仍然可以再发动1次魔法·陷阱卡。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11730>`__\
 | 「召唤兽 卡利古拉」在场上存在，自己怪兽效果发动被无效的场合，这个回合自己怪兽的效果不可以再发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7813&keyword=&tag=-1>`__\
 
-.. attention:: 特别地，「命运的抽卡」的裁定中统一化，这张卡发动后，魔法·陷阱·怪兽的效果发动被无效的场合，这个回合还能再发动1次。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22342&keyword=&tag=-1>`__\
+.. attention:: 特别地，「命运的抽卡」的裁定中统一化，这张卡发动后，魔法·陷阱·怪兽的效果发动被无效的场合，这个回合还能再发动1次。\ `18/12/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22342&keyword=&tag=-1>`__\
 
 .. _卡的发动:
 
