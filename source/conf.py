@@ -99,7 +99,7 @@ html_sidebars = {
     ]
 }
 
-
+html_static_path = ['.static']
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
@@ -221,4 +221,4 @@ texinfo_documents = [
 #
 # epub_uid = ''
 epub_show_urls = 'no'
-epub_cover = ('_static/logo.png', 'epub-cover.html')
+epub_cover = ('_static/epub_cover.png', 'epub-cover.html')
