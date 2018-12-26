@@ -87,11 +87,11 @@ html_theme_options = {
     'description': 'OCG规则整理 by 碎冰',
     'github_user': 'lucays',
     'github_repo': 'ocg-rule',
+    'search_placeholder': 'Search',
 }
 html_sidebars = {
     '**': [
         'logo.html',
-        'description.html',
         'docstatus.html',
         'github.html',
         'globaltoc.html',
