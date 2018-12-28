@@ -77,11 +77,10 @@
 
    .. note:: 基本分为1时，支付一半基本分的场合，基本分剩下0.5,四舍五入结果基本分仍为1。
 
--  | 0变成一半或者加倍都仍然是0，0也可以再下降，都当作可以正常处理。
+-  | 0变成一半或者加倍都仍然是0，都当作可以正常处理。
    | 例：
    | 「方界波动」卡的发动时可以取攻击力0的怪兽为对象，效果正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8400>`__
    | 「No.102 光天使 辉环」的效果发动时可以取攻击力0的怪兽为对象，那个怪兽被无效。
-   | 「禁忌的圣枪」以攻击力0的怪兽为对象发动效果，后续也正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12476>`__
    | 由于后续不能上升，「暗叛逆XYZ龙」的效果发动时不能取攻击力0的怪兽为对象。
    | 由于后续不能造成伤害，「冥界浊龙 龙叹」的效果发动时不能取攻击力0的怪兽为对象。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14704>`__
    | 已经是0不能变成0，像「蛇头守护者」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13061&keyword=&tag=-1>`__ 这样的效果发动时不能取攻击力0的效果怪兽为对象。
@@ -93,10 +92,37 @@
 
 不论是永续，还是通过效果的发动来上升·下降，都是简单的在怪兽的当前攻击力·守备力的数值基础上计算的效果。多个这样的效果累积计算。
 
--  | 计算中途低于0的场合，结果按0处理。尽管如此，\ **累积计算时按实际数值计算**\ 。
+-  | 基本上，0也可以再下降。下降到0以下的场合结果是0。
+   | 后续效果多数正常适用。
    | 例：
-   | 「彼岸的鬼神 马拉布兰卡」以攻击力·守备力为0的怪兽发动效果下降1300/700攻击力·守备力后，那个怪兽攻击力·守备力还是0，同时处于下降了1300/700的状态，对其发动「团结之力」等上升攻击力·守备力的场合要计算下降的这部分。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17230>`__
-   | 对攻击力为100的怪兽发动「禁忌的圣枪」后，其攻击力是0。再对其发动「妖形杵」的②效果让攻击力上升1000的场合，结果是100-800+1000=300。
+   | 「刷拉拉破坏者」攻击力不足800时也会发动效果，正常适用，攻击力结果是0。
+   | 「银河骑士」效果处理时不足1000的场合，结果是0，仍然特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12535>`__
+   | 「三刃戟海龙神」对攻击力不足800的怪兽发动效果，结果是0，效果仍被无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9809&keyword=&tag=-1>`__
+   | 「黑羽龙」在攻击力0时受到效果伤害也会作为代替放置指示物。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9809&keyword=&tag=-1>`__ 可以对攻击力低的怪兽发动效果，取除全部指示物，那个怪兽攻击力下降到0，造成攻击力数值的伤害。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9808&keyword=&tag=-1>`__
+   | 「捕食植物 奇美拉大花草」的②效果处理时对方怪兽攻击力不足1000的场合，结果是0，自身仍然上升1000攻击力。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7514>`__
+   | 「幻奏的音女 唐唐」的②效果处理时，对象怪兽攻击力不足500的场合，结果是0，仍然造成500伤害。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15615>`__
+   | 「禁忌的圣枪」以攻击力0的怪兽为对象发动效果，后续也正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12476>`__
+   | 对方场上的怪兽攻击力全是0的场合，「CNo.39 希望皇 霍普雷」也可以发动效果，自身上升500。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11844>`__
+   | 「光辉终结龙」和攻击力·守备力不足1500的怪兽战斗也会发动效果，但和攻击力·守备力都是0的怪兽战斗时不能发动效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7675>`__
+
+   .. attention:: 
+      | 部分后续效果不适用的场合，攻击力也不下降。
+      | 例：
+      | 「超级运动员 四分卫球员」攻击力不足800的场合不能发动②效果，处理时不足的场合全不适用，不会下降攻击力。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17226>`__
+      | 「隆隆隆石人-黄金形态」攻击力不足1500的场合，作为必发效果会发动，不下降攻击力，不会无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12916>`__
+      | 「光与暗之龙」攻击力·守备力不足500的场合，作为必发效果会发动，但效果都不适用，不会无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6357&keyword=&tag=-1>`__
+
+   .. note::
+      | 类似地，等级下降到1以下的场合，结果是1。
+      | 不过，有后续效果的场合，基本上后续效果不会适用，等级也不下降。
+      | 例：
+      | 「锤鲨」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12944>`__\ 「龙落亲」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17005>`__\ 「方程式运动员 黑暗竞速者」\ `18/9/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9809&keyword=&tag=-1>`__\ \ `18/9/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22099>`__ 等级不够下降数时效果不能发动，发动后处理时不够的场合不能适用。
+      | 特别地，「EM 调级钟行李员」宣言5，以等级3的怪兽为对象发动效果时，连锁发动「妖怪的恶作剧」，自身等级是4，对象怪兽等级是1的场合，效果仍然适用，自身等级结果是1，对象怪兽等级上升到6。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19744>`__
+
+-  | 数值下降到0以下时，虽然结果按0处理，\ **累积计算时按实际数值计算**\ 。
+   | 例：
+   | 「彼岸的鬼神 马拉布兰卡」以攻击力·守备力为0的怪兽发动效果下降1300/700攻击力·守备力后，结果那个怪兽攻击力·守备力是0，同时处于下降了1300/700的状态，对其发动「团结之力」等上升攻击力·守备力的场合要计算下降的这部分。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17230>`__
+   | 「No.32 海咬龙 鲨龙兽」的效果可以特殊召唤攻击力不足1000的怪兽，结果攻击力是0。对这个怪兽再发动「突进」，若其原本攻击力是800，则结果攻击力是800-1000+700=500。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12421>`__
 
    .. note:: 等级计算也是如此。由于等级最低是1，「加速同调士」发动效果把等级5的怪兽送去墓地，让等级下降的结果是1。再发动效果把等级1的怪兽送去墓地，让等级上升的结果是5-5+1=1。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14458&keyword=&tag=-1>`__
 
