@@ -516,8 +516,7 @@
 | 裁定变更：
 | 在发动效果支付cost后，满足条件的永续效果会立即适用，即使那个永续效果不能在效果处理途中适用也是如此。
 | 能否立即特殊胜利，调整中。
-| 「魔天使
-  蔷薇之巫师」等条件特殊召唤的手续中永续效果满足条件的场合在特殊召唤成功时适用，达成特殊胜利的场合在哪个时点胜利，调整中。
+| 「魔天使 蔷薇之巫师」等条件特殊召唤的手续中永续效果满足条件的场合在特殊召唤成功时适用，达成特殊胜利的场合在哪个时点胜利，调整中。
 | 提问的状况
 | 「幻变骚灵·泛在羽衣精」以「淘气仙星·曼珠诗华」为对象发动效果，支付cost时就立即受到伤害。
 | 「技能抽取」被「非常食」当作发动cost送去墓地的时点，自己场上有其他怪兽时，「彼岸」怪兽立即被自身效果破坏。
@@ -905,3 +904,20 @@
 | 额外卡组的怪兽效果的发动被「龙星的九支」无效，那个怪兽回到额外卡组，仍然破坏「龙星」卡。
 
 .. note:: 也就是说，12/10的「火车」裁定只是单卡弱化。其他照旧。
+
+| 12/28
+| 「方程式运动员 声速侧挂骑手」被战斗破坏的伤害计算后，满足条件也可以发动②效果上升等级。另外，这个时点①效果是永续效果而不适用，攻击力是0，这个效果会被「勇猛眼灵摆龙」无效。
+| 「龙族·封印的壶」「DNA改造手术」（宣言：龙族）适用中，不受陷阱影响的「救世魔龙」攻击里侧守备表示的「壶魔人」，被战斗破坏的伤害计算后发动反转效果，自身仍然会变成攻击表示。结果不会被「救世魔龙」的效果破坏。
+
+| 重复确认：
+| 持有11个X素材的「鬼计惰天使」发动①效果，作为cost取除X素材的时点是否立即胜利，调整中。
+| 「盟军·次世代鸟人兵」发动效果，支付cost让「被封印的艾克佐迪亚」回到手卡，集齐5种类的场合是否立即胜利，调整中。
+| 「DNA改造手术」适用中，「魔天使 蔷薇之巫师」特殊召唤的手续中集齐「被封印的」5种类达成特殊胜利的场合在哪个时点胜利，调整中。
+| 「不知火流 传承之阵」以自身效果特殊召唤的「亡龙之战栗-死欲龙」为对象发动效果的场合，如何处理，调整中。
+| 「时械神 梅塔伊恩」让怪兽回到额外卡组的场合仍然计入造成伤害的数量。
+
+.. attention:: 
+   | 回到手卡的效果让怪兽回到额外卡组的场合，目前只有「时械神 梅塔伊恩」仍然正常处理后续效果。
+   | 例：
+   | 「怪兽调换」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14027>`__\ 「霞之谷的雷神鬼」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8131>`__\ 「DDD 怒涛坏薙王 恺撒末日神」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16475>`__\ 「宇宙城 哥尔加」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7949>`__\ 「巨龙振翅」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12317>`__\ 「冰结界的虎王 雪虎」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12969>`__\ 「灵魂鸟神 彦孔雀」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7730>`__\ 「鹰身舞者」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12704>`__\ 
+     「妖仙大旋风」\ `17/4/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15210>`__\ 「妖仙乡的眩晕风」\ `17/4/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15282>`__\ 「超级交通机人-移动基地」\ `17/7/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21069>`__\ 「电子暗黑业火」\ `17/7/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21076>`__\ 「转生炎兽 猎鹰」\ `18/8/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22043>`__\ 「月光黄鼬」\ `18/11/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22237>`__\ 的效果让怪兽结果回到额外卡组的场合，后续效果处理都不适用。
