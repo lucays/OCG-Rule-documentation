@@ -116,8 +116,8 @@
       | 类似地，等级下降到1以下的场合，结果是1。
       | 不过，有后续效果的场合，基本上后续效果不会适用，等级也不下降。
       | 例：
-      | 「锤鲨」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12944>`__\ 「龙落亲」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17005>`__\ 「方程式运动员 黑暗竞速者」\ `18/9/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9809&keyword=&tag=-1>`__\ \ \ `18/9/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22099>`__ 等级不够下降数时效果不能发动，发动后处理时不够的场合不能适用。
-      | 特别地，「EM 调级钟行李员」宣言5，以等级3的怪兽为对象发动效果时，连锁发动「妖怪的恶作剧」，自身等级是4，对象怪兽等级是1的场合，效果仍然适用，自身等级结果是1，对象怪兽等级上升到6。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19744>`__
+      | 「锤鲨」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12944>`__\ 「龙落亲」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17005>`__\ 「方程式运动员 黑暗竞速者」\ `18/9/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9809&keyword=&tag=-1>`__\ \`18/9/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22099>`__ 等级不够下降数时效果不能发动，发动后处理时不够的场合不能适用。
+      | 特别地，「EM 调级钟行李员」宣言5，以等级3的怪兽为对象发动效果时，连锁发动「妖怪的恶作剧」，自身等级下降到4，对象怪兽下降到1的场合，这个效果仍然适用，结果自身等级是1，对象怪兽等级上升到6。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19744>`__
 
 -  | 数值下降到0以下时，虽然结果按0处理，\ **累积计算时按实际数值计算**\ 。
    | 例：
