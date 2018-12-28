@@ -62,6 +62,7 @@
 
 | 魔法·陷阱卡在发动之际，就\ **已经在场上**\ ，可以确定卡名。只是在这时，基本上\ **效果的处理不会立即进行**\ ，而是按照 :ref:`连锁基础` 规则，按顺序轮到它处理时才开始处理。
 | 例：
+| 「黑音速」从手卡发动时，就是自己场上表侧表示的陷阱卡，可以取其和另1张表侧魔法·陷阱卡为对象，连锁发动「DDD 极智王 混沌默示神」的效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17820>`__\
 | 我方的「天空的圣域」发动，对方连锁发动「旋风」，由于「天空的圣域」已经在场上存在，我方可以连锁发动「神罚」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10698&keyword=&tag=-1>`__\
 | 我方的「珀耳修斯的神域」发动，对方连锁发动「旋风」，由于①效果还没适用，我方不能连锁发动「神罚」。\ `17/9/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21418&keyword=&tag=-1>`__\
 | 「卡通王国」卡的发动时③效果还不适用，对方可以连锁以「卡通」怪兽为对象发动卡片效果。\ `17/7/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15864>`__\
