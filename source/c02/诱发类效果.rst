@@ -336,7 +336,7 @@
 | 「试胆竞速」适用中，自己基本分7500，对方基本分8000的状态，自己发动「火炎地狱」，给对方造成伤害和自己受到伤害同时进行，结果对方基本分7000，自己因「试胆竞速」的效果不受伤害。
 | 「试胆竞速」适用中，自己基本分7500，对方基本分8000的状态，对方以攻击力1000的怪兽为对象发动「破坏轮」，由于两个伤害不同时进行，对方基本分是7000后，自己不再受到「试胆竞速」效果的保护，结果也受到1000伤害。
 | 「倍倍伤害」发动后，受到战斗伤害和造成效果伤害是同时适用的，如果自己基本分变成0，对方基本分也会变成的状况，结果平局。\ `18/12/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22368&keyword=&tag=-1>`__
-| 「淘气仙星·福克希维琪」造成效果伤害让「淘气仙星的灯光舞台」也造成效果伤害的场合，也是同时造成的伤害。\ `17/12/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21673>`__\ 但本身造成了2次伤害，「噩梦之拷问室」的效果会连锁发动2次。\ `17/7/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20805>`__\ ，「DDD 反骨王 列奥尼达」从手卡发动效果时只能回复最后那次「淘气仙星的灯光舞台」的效果造成伤害的数值，也就是回复200基本分。\ `17/12/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6135>`__
+| 「淘气仙星·福克希维琪」造成效果伤害让「淘气仙星的灯光舞台」也造成效果伤害的场合，也是同时造成的伤害。\ `17/12/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21673>`__ 但本身造成了2次伤害，「噩梦之拷问室」的效果会连锁发动2次。\ `17/7/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20805>`__ 「DDD 反骨王 列奥尼达」从手卡发动效果时只能回复最后那次「淘气仙星的灯光舞台」的效果造成伤害的数值，也就是回复200基本分。\ `17/12/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6135>`__
 
 | 同时处理没有其他含义。「因为同时处理，所以前段没正常适用时后段也会适用」这种想法\ **完全错误**\ 。
 | 例：
