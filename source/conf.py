@@ -87,7 +87,8 @@ html_theme_options = {
     'description': 'OCG规则整理 by 碎冰',
     'github_user': 'lucays',
     'github_repo': 'ocg-rule',
-    'canonical_url': 'https://ocg-rule.readthedocs.io'
+    'canonical_url': 'https://ocg-rule.readthedocs.io',
+    'analytics_id': 'UA-131764005-1'
 }
 html_sidebars = {
     '**': [
