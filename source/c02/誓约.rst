@@ -146,7 +146,7 @@
 以下3种描述在下文介绍中没有区别，进行了后面的行动，也能发动这些效果。
 
 1. 『发动\ **过**\ 的回合，...』
-2. 『\ **发动后，直到回合结束时**\ ...』
+2. 『\ **发动后，**\ ...』
 3. 『\ **这个回合**\ ...』
 
 | 例：
@@ -158,12 +158,14 @@
    | 2个「炼狱之骑士 多禄某」的效果可以组成连锁发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19620>`__
    | 「雷帝家臣 密特拉」的效果被「魔轰神兽 尤尼科」无效，这个回合可以从额外卡组特殊召唤怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14959>`__
    | 「励辉士 入魔蝇王」发动被「光与暗之龙」，或者效果被「技能抽取」无效，这个回合对方玩家受到的伤害不会变成0。\ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13019&keyword=&tag=-1>`__
+   | 「雪花之光」的『这张卡的发动后，这次决斗中』部分也是效果，只在卡的发动时适用。\ `18/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21681&keyword=&tag=-1>`__
 
 -  | 这些描述应该当成前一段效果附加的效果处理。即使前一段效果处理时不适用，只要没被无效，这部分仍会适用。
    | 这些描述的处理不占用时点。
    | 例：
    | 「炼狱的消华」发动①效果，连锁发动「岔子」，不能加入手卡的场合，这个回合自己仍不能把「狱火机」怪兽以外的怪兽召唤·特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15237>`__
    | 「超重武者 拳-C」的②效果把自身特殊召唤就是效果处理完毕，「激流葬」不会错过时点，可以发动。\ `17/7/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21032>`__
+   | 「雪花之光」①效果进行抽卡后就是这个效果处理完毕，『这张卡的发动后，这次决斗中』部分的效果会立即适用，不占用时点。\ `18/1/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13616>`__
 
 -  | 对于永续魔法·陷阱卡等，处理时不在场上，效果完全不适用的场合，由于这些也是效果，也不会适用。
    | 例：
