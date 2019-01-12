@@ -5,9 +5,26 @@
 19/01
 =======
 
-| 1/7
-|
+1/7
+
 | 邮件：
 | 「No.66 霸键甲虫」的效果处理时，对象卡片变成里侧表示的场合，仍然对那个里侧表示的卡片适用。自身变成里侧表示的场合，无法持续取对象，这个效果不适用。
 | 「No.66 霸键甲虫」以作为装备卡的「龙骑兵团 方阵龙」为对象发动的效果适用中，「龙骑兵团 方阵龙」用自身效果特殊召唤到怪兽区域的场合，这个效果不再适用。
 | 「交通机人连接区」记述着『特殊召唤的怪兽效果不会被无效化』，那个怪兽效果的发动仍然会被「神之通告」无效。「闪刀机-黑寡妇抓锚」对其发动的场合，不能无效，结果不能夺取控制权。
+
+1/12
+
+| 数据库：
+| 「儚无水木」的效果不能在结束阶段发动。\ `19/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22395&keyword=&tag=-1>`__
+| 「儚无水木」发动后，对方只特殊召唤了攻击力0的怪兽的场合，由于没有回复基本分，回合结束时自己基本分会变成一半。\ `19/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22401&keyword=&tag=-1>`__
+| 「大逮捕」效果处理时，对象怪兽变成里侧表示的场合，仍然夺取控制权，那个怪兽之后反转成表侧表示的场合仍然不能攻击，不能发动效果。\ `19/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22385&keyword=&tag=-1>`__
+| 发动「大逮捕」，连锁发动「王宫的通告」的场合，由于卡的发动没有无效，仍然持续取对象。之后「王宫的通告」不再适用的场合，「大逮捕」的效果会适用，夺取控制权并让那个怪兽不能攻击，不能发动效果。\ `19/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22384&keyword=&tag=-1>`__
+| 「魔钟洞」的效果不影响怪兽，不受魔法效果影响的怪兽仍然不能发动效果，不能攻击宣言。\ `19/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22411&keyword=&tag=-1>`__
+| 「亡龙的旋律」的效果在宣言的卡处理后才会适用。宣言「旋风」的场合，发动「旋风」把它破坏，由于处理后不在场上，效果不适用，基本分不会变成一半。\ `19/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22408&keyword=&tag=-1>`__
+| 2张「亡龙的旋律」可以宣言相同卡名，发动那个卡片效果的场合结果基本分变成四分之一。\ `19/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22409&keyword=&tag=-1>`__
+| 「王宫的敕命」适用中，「亡龙的旋律」宣言卡名发动后，效果无效化。之后「王宫的敕命」不再适用的场合，其效果会恢复适用。\ `19/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22410&keyword=&tag=-1>`__
+| 「恐龙摔跤手·武术崇高龙」发动①效果的cost把自身送去墓地后，对方把这次发动无效的场合，由于已经为①效果的发动把自身送去墓地了，结束阶段仍然可以发动②效果。\ `19/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22418&keyword=&tag=-1>`__
+| 「技能抽取」适用中，用自身方法特殊召唤的「恐龙摔跤手·席拉腔骨龙」作为连接素材的场合，仍然只能用于「恐龙摔跤手」怪兽的连接召唤。\ `19/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22419&keyword=&tag=-1>`__
+| 「超量士 白光层」的②效果可以把同名卡送去墓地。\ `19/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22417&keyword=&tag=-1>`__
+
+.. note:: 目前效果处理部分记述『这张卡等级变成和...相同』且之前有其他效果处理的「死之代行者 乌拉诺斯」「幻想夺取者」「先史遗产 戈耳狄俄斯结合体」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11273&keyword=&tag=-1>`__ 「急袭猛禽-痛苦伯劳」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8187&keyword=&tag=-1>`__ 都可以选等级相同的怪兽。
