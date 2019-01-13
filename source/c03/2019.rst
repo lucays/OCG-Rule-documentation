@@ -28,3 +28,9 @@
 | 「超量士 白光层」的②效果可以把同名卡送去墓地。\ `19/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22417&keyword=&tag=-1>`__
 
 .. note:: 目前效果处理部分记述『这张卡等级变成和...相同』且之前有其他效果处理的「死之代行者 乌拉诺斯」「幻想夺取者」「先史遗产 戈耳狄俄斯结合体」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11273&keyword=&tag=-1>`__ 「急袭猛禽-痛苦伯劳」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8187&keyword=&tag=-1>`__ 都可以选等级相同的怪兽。
+
+1/13
+
+| 邮件：
+| 「群雄割据」的效果适用中，自己场上没有怪兽时，可以P召唤或用「灵魂补充」等同时特殊召唤多个不同种族的怪兽。
+| 「千查万别」的效果适用中，自己场上没有怪兽时，可以P召唤或用「灵魂补充」等同时特殊召唤多个相同种族的怪兽。
