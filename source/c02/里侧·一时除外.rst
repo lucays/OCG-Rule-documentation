@@ -174,14 +174,16 @@
 持续取对象
 ==========
 
-| 要和场上的卡持续取对象的效果发动的处理时，那张卡变成里侧的场合，若这个效果在处理时对里侧的卡也可以适用，则这个持续取对象的效果正常适用，否则不适用。
-| 对象的卡被一时除外的场合，由于离场因此不适用。
+| 发动要和场上的卡\ :ref:`持续取对象`\ 的效果，处理时作为对象的卡片变成里侧表示的场合，如果效果处理部分的文本对里侧的卡也可以适用，那么这个效果正常适用，否则不适用。
+| 发动效果的卡片自身变成里侧表示的场合，无法持续取对象，这个效果不适用。
+| 作为对象的卡被一时除外的场合，由于离场而不适用。
 | 例：
-| 「No.66 霸键甲虫」的效果发动时，连锁发动「月之书」使对象怪兽处理时变成里侧的场合，这个效果正常适用。
-| 「月舞的仪式」发动时，连锁发动「月之书」使对象怪兽处理时变成里侧的场合，这个效果正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13715&keyword=&tag=-1>`__
+| 「No.66 霸键甲虫」的效果发动时，连锁发动「月之书」使对象怪兽处理时变成里侧的场合，这个效果正常适用。使「No.66 霸键甲虫」自身变成里侧表示的场合，这个效果不适用。
 | 「魔族之链」发动时，连锁发动「月之书」使对象怪兽处理时变成里侧的场合，由于里侧的怪兽无法判断是否是效果怪兽，这个效果不适用。
+| 「月舞的仪式」发动时，连锁发动「月之书」使对象怪兽处理时变成里侧的场合，这个效果正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13715&keyword=&tag=-1>`__
+| 「大逮捕」效果处理时，对象怪兽变成里侧表示的场合，仍然夺取控制权，那个怪兽之后反转成表侧表示的场合仍然不能攻击，不能发动效果。\ `19/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22385&keyword=&tag=-1>`__
 
-.. attention:: 特别地，发动「暗之咒缚」时，连锁发动「月之书」使对象怪兽处理时变成里侧的场合，仍然适用效果，不能改变表示形式。翻开后不能攻击，并下降攻击力。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=31&keyword=&tag=-1>`__ 这个效果适用中，对象怪兽变成里侧表示，效果不再适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=30&keyword=&tag=-1>`__
+.. attention:: 特别地，发动「暗之咒缚」时，连锁发动「月之书」使对象怪兽处理时变成里侧的场合，仍然适用效果，不能改变表示形式。翻开后攻击力下降，不能攻击。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=31&keyword=&tag=-1>`__ 这个效果适用中，对象怪兽变成里侧表示，效果不再适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=30&keyword=&tag=-1>`__
 
 | 因卡的效果适用中而持续取对象的两张卡，其中一张变成里侧或被一时除外的时点，取对象关系消失。
 | 例：
@@ -190,11 +192,6 @@
 | 「No.45 灭亡之预言者」和其①效果持续取对象的怪兽，其中1张变成里侧表示的场合，「No.45 灭亡之预言者」的效果不再适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8426&keyword=&tag=-1>`__ \ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6260&keyword=&tag=-1>`__
 | 「No.66 霸键甲虫」的效果发动后变成里侧的场合，这个效果不再适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12818&keyword=&tag=-1>`__
 | 「增草剂」特殊召唤的怪兽在被一时除外的时点，由于怪兽从场上离开，「增草剂」被自身效果破坏。
-
--  | 「剑斗兽 马斗」「深渊死球」等的效果无效时，那个被持续取对象的怪兽效果恢复有效，但若「剑斗兽 马斗」「深渊死球」等重新适用，再度被无效。
-   | 以「旧神 诺登」为例，即使都是持续取对象，但有些效果适用与否与持续取对象无关。描述差异需要自行体会。
-   | 例：
-   | 「No.106 巨岩掌 巨手」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7426&keyword=&tag=-1>`__ 「No.45 灭亡之预言者」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19308&keyword=&tag=-1>`__ 等效果无效时，那个被持续取对象的怪兽效果仍无效，前者仍不能作表示形式的变更。
 
 效果无效
 ========

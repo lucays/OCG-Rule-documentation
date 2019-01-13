@@ -207,8 +207,11 @@ cost
    | 已经适用中，再被无效的场合，魔法·陷阱·怪兽都仍然保持取对象。
    | 例：
    | 「魔族之链」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14646&keyword=&tag=-1>`__ 「次元守护者」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7267&keyword=&tag=-1>`__ 「追走之翼」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17538&keyword=&tag=-1>`__ 等效果处理时被无效的场合，仍然保持取对象，不再无效时效果会再适用。
-   | 「No.45 灭亡之预言者」的效果处理时被无效，就不会持续取对象。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19307&keyword=&tag=-1>`__ 
-   | 「No.66 霸键甲虫」的效果适用中被「禁忌的圣杯」无效，仍然保持取对象，在回合结束后恢复适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12789>`__ 
+   | 「No.45 灭亡之预言者」的效果处理时被无效，就不会持续取对象。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19307&keyword=&tag=-1>`__ 无效本身并不是持续适用的，只在效果处理时适用1次，之后保持表侧表示就会持续取对象，因此这个效果适用后才被无效的场合，作为对象的怪兽仍然无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19308&keyword=&tag=-1>`__ 「No.106 巨岩掌 巨手」也是如此，并且仍不能变更表示形式。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7426&keyword=&tag=-1>`__
+   | 「No.66 霸键甲虫」的效果适用中被「禁忌的圣杯」无效，仍然保持取对象，在回合结束后恢复适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12789>`__
+
+-  | 「剑斗兽 马斗」「深渊死球」等记述『这个效果特殊召唤的怪兽的效果无效化』的持续取对象的效果，这部分也是持续适用的，被无效时对象怪兽恢复有效，之后如果「剑斗兽 马斗」「深渊死球」等效果重新适用，又会被无效。
+   | 「旧神 诺登」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13636&keyword=&tag=-1>`__ 「光之引导」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18119&keyword=&tag=-1>`__ 等记述『效果无效特殊召唤』的持续取对象的效果，这部分是在特殊召唤时适用的，不是持续适用的效果，被无效时对象怪兽仍然保持无效状态。
 
 不取对象
 --------
