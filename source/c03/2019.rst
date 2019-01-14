@@ -15,17 +15,17 @@
 1/12
 
 | 数据库：
-| 「儚无水木」的效果不能在结束阶段发动。\ `19/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22395&keyword=&tag=-1>`__
-| 「儚无水木」发动后，对方只特殊召唤了攻击力0的怪兽的场合，由于没有回复基本分，回合结束时自己基本分会变成一半。\ `19/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22401&keyword=&tag=-1>`__
-| 「大逮捕」效果处理时，对象怪兽变成里侧表示的场合，仍然夺取控制权，那个怪兽之后反转成表侧表示的场合仍然不能攻击，不能发动效果。\ `19/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22385&keyword=&tag=-1>`__
-| 发动「大逮捕」，连锁发动「王宫的通告」的场合，由于卡的发动没有无效，仍然持续取对象。之后「王宫的通告」不再适用的场合，「大逮捕」的效果会适用，夺取控制权并让那个怪兽不能攻击，不能发动效果。\ `19/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22384&keyword=&tag=-1>`__
-| 「魔钟洞」的效果不影响怪兽，不受魔法效果影响的怪兽仍然不能发动效果，不能攻击宣言。\ `19/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22411&keyword=&tag=-1>`__
-| 「亡龙的旋律」的效果在宣言的卡处理后才会适用。宣言「旋风」的场合，发动「旋风」把它破坏，由于处理后不在场上，效果不适用，基本分不会变成一半。\ `19/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22408&keyword=&tag=-1>`__
-| 2张「亡龙的旋律」可以宣言相同卡名，发动那个卡片效果的场合结果基本分变成四分之一。\ `19/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22409&keyword=&tag=-1>`__
-| 「王宫的敕命」适用中，「亡龙的旋律」宣言卡名发动后，效果无效化。之后「王宫的敕命」不再适用的场合，其效果会恢复适用。\ `19/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22410&keyword=&tag=-1>`__
-| 「恐龙摔跤手·武术崇高龙」发动①效果的cost把自身送去墓地后，对方把这次发动无效的场合，由于已经为①效果的发动把自身送去墓地了，结束阶段仍然可以发动②效果。\ `19/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22418&keyword=&tag=-1>`__
-| 「技能抽取」适用中，用自身方法特殊召唤的「恐龙摔跤手·席拉腔骨龙」作为连接素材的场合，仍然只能用于「恐龙摔跤手」怪兽的连接召唤。\ `19/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22419&keyword=&tag=-1>`__
-| 「超量士 白光层」的②效果可以把同名卡送去墓地。\ `19/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22417&keyword=&tag=-1>`__
+| 「儚无水木」的效果不能在结束阶段发动。\ `19/1/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22395&keyword=&tag=-1>`__
+| 「儚无水木」发动后，对方只特殊召唤了攻击力0的怪兽的场合，由于没有回复基本分，回合结束时自己基本分会变成一半。\ `19/1/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22401&keyword=&tag=-1>`__
+| 「大逮捕」效果处理时，对象怪兽变成里侧表示的场合，仍然夺取控制权，那个怪兽之后反转成表侧表示的场合仍然不能攻击，不能发动效果。\ `19/1/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22385&keyword=&tag=-1>`__
+| 发动「大逮捕」，连锁发动「王宫的通告」的场合，由于卡的发动没有无效，仍然持续取对象。之后「王宫的通告」不再适用的场合，「大逮捕」的效果会适用，夺取控制权并让那个怪兽不能攻击，不能发动效果。\ `19/1/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22384&keyword=&tag=-1>`__
+| 「魔钟洞」的效果不影响怪兽，不受魔法效果影响的怪兽仍然不能发动效果，不能攻击宣言。\ `19/1/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22411&keyword=&tag=-1>`__
+| 「亡龙的旋律」的效果在宣言的卡处理后才会适用。宣言「旋风」的场合，发动「旋风」把它破坏，由于处理后不在场上，效果不适用，基本分不会变成一半。\ `19/1/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22408&keyword=&tag=-1>`__
+| 2张「亡龙的旋律」可以宣言相同卡名，发动那个卡片效果的场合结果基本分变成四分之一。\ `19/1/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22409&keyword=&tag=-1>`__
+| 「王宫的敕命」适用中，「亡龙的旋律」宣言卡名发动后，效果无效化。之后「王宫的敕命」不再适用的场合，其效果会恢复适用。\ `19/1/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22410&keyword=&tag=-1>`__
+| 「恐龙摔跤手·武术崇高龙」发动①效果的cost把自身送去墓地后，对方把这次发动无效的场合，由于已经为①效果的发动把自身送去墓地了，结束阶段仍然可以发动②效果。\ `19/1/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22418&keyword=&tag=-1>`__
+| 「技能抽取」适用中，用自身方法特殊召唤的「恐龙摔跤手·席拉腔骨龙」作为连接素材的场合，仍然只能用于「恐龙摔跤手」怪兽的连接召唤。\ `19/1/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22419&keyword=&tag=-1>`__
+| 「超量士 白光层」的②效果可以把同名卡送去墓地。\ `19/1/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22417&keyword=&tag=-1>`__
 
 .. note:: 目前效果处理部分记述『这张卡等级变成和...相同』且之前有其他效果处理的「死之代行者 乌拉诺斯」「幻想夺取者」「先史遗产 戈耳狄俄斯结合体」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11273&keyword=&tag=-1>`__ 「急袭猛禽-痛苦伯劳」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8187&keyword=&tag=-1>`__ 都可以选等级相同的怪兽。
 
@@ -34,3 +34,14 @@
 | 邮件：
 | 「群雄割据」的效果适用中，自己场上没有怪兽时，可以P召唤或用「灵魂补充」等同时特殊召唤多个不同种族的怪兽。
 | 「千查万别」的效果适用中，自己场上没有怪兽时，可以P召唤或用「灵魂补充」等同时特殊召唤多个相同种族的怪兽。
+
+1/14
+
+| 邮件：
+| 场地魔法卡不存在时，里侧表示的「罪」怪兽或「地缚神」怪兽因战斗反转，被战斗破坏确定的场合，自身永续效果不适用，伤害计算后不会自坏，正常地在伤害步骤结束时因被战斗破坏送去墓地。
+| 场上表侧表示和里侧表示各存在1只「地缚神」怪兽，里侧表示的那只因战斗反转，被战斗破坏确定的场合，伤害计算后无种类效果也不适用，不会自坏，正常地在伤害步骤结束时因被战斗破坏送去墓地。表侧表示的那只在伤害计算后自坏。
+| 「虹天气 彩虹」效果无效时，不会让连接端的「天气」怪兽得到效果。
+| 「CNo.106 熔岩掌 巨手·红掌」「幻梦境」等，自身『得到以下效果』的文本不是效果，不会被无效。在效果无效的状态下，也可以发动得到的效果。
+
+| 数据库：
+| 「霞之谷的巨神鸟」发动效果，以「霞之谷的雷神鬼」为对象的场合，由于回到额外卡组，没有回到手卡，结果效果不适用，不能无效。\ `19/1/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8135&keyword=&tag=-1>`__
