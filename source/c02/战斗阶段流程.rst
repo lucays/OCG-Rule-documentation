@@ -385,6 +385,12 @@
    | 「冥界的魔王 哈·迪斯」攻击「杂草」，先代替破坏，结果没有被战斗破坏。
    | 「娱乐法师 秋千魔术家」被攻击力3000的「秘术眼灵摆龙」战斗破坏时，先计算战斗伤害，为500，此时永续效果仍适用中，不受这次战斗伤害。伤害结算之后，「娱乐法师 秋千魔术家」才确定被战斗破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15374&keyword=&tag=-1>`__
 
+-  | 记述『战斗破坏...怪兽』诱发的效果在这个时点判断是否满足条件，满足条件的场合在伤害步骤结束时发动。
+   | 例：
+   | 「涅槃之超魔导剑士」把原本持有者是对方的怪兽战斗破坏时，也可以发动②效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18713>`__ 「电子光虫-散热器蜣螂」的②效果也可以发动并适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18159>`__
+   | 当作通常怪兽处理的二重怪兽被战斗破坏，可以发动「救护部队」的②效果。当作效果怪兽处理的二重怪兽被战斗破坏，不能发动「救护部队」的②效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16640&keyword=&tag=-1>`__
+   | 不死族衍生物被战斗破坏时，可以发动「真红眼不尸龙」的效果。\ `18/9/21 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22142>`__
+
 .. _伤害计算后:
 
 伤害计算后
