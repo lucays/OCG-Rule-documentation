@@ -138,23 +138,22 @@
    判断依据不是让不让对方选。「强制转移」处理时选不受魔法效果影响的怪兽的场合，整个效果不处理，不交换怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13066>`__ 「玄化黑炎龙」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14236&keyword=&tag=-1>`__ 等也是如此。
 
 | 取除场上的X素材·指示物的效果影响那些X素材·指示物本身，不影响那个怪兽。
+| 在X怪兽下面重叠作为X素材，或给怪兽放置指示物的效果，都影响那个怪兽。
+| 已经放置了指示物的怪兽，再因其他效果不受影响的场合，那些指示物不会取除。
 | 例：
+| 「指示物吸除器」可以取除不受魔法效果影响的怪兽的指示物。
 | 「XYZ叠光延迟」以持有3个X素材以上的「No.86 英豪冠军 击灭枪王」为对象发动的场合效果正常适用，「No.86 英豪冠军 击灭枪王」的素材全部取除，回到额外卡组。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6890&keyword=&tag=-1>`__
-| 「指示物吸除器」可以取除放置在「荷鲁斯之黑炎龙 LV6」上的指示物。
+| 「「A」细胞重组装置」的①效果处理时，对象怪兽不受魔法效果影响的场合，只从卡组把1只「外星」怪兽送去墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19607>`__
+| 「升阶魔法-异晶人的魔力」的对象怪兽处理时不受魔法卡的效果影响的场合，这个效果不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12796>`__
+| 「星圣暴风」的②效果处理时场上的那个X怪兽不受魔法卡的效果影响的场合，这个效果不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13415>`__
+| 不受卡的效果影响的怪兽不能放置各种指示物。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19607>`__
+| 「方界胤 毗贾姆」的效果适用，已经放置了方界指示物的怪兽再因其他效果不受影响的场合，那些指示物不会取除，仍然不能攻击，效果无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19109>`__
 
-.. tip:: 规则上X素材和指示物有很多共性，可以放到一起理解。
+-  | 部分永续效果在效果处理途中不会立即适用，因此有一些特例：
+   | 「升阶魔法-削魂之力」以「急袭猛禽-究极猎鹰」为对象发动的场合效果正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11302&keyword=&tag=-1>`__
+   | 「XYZ苏生」以「急袭猛禽-究极猎鹰」为对象发动的场合效果正常适用。
 
--  | 在X怪兽下面重叠作为X素材，或给怪兽放置指示物的效果，都影响那个怪兽。
-   | 例：
-   | 「升阶魔法-异晶人的魔力」的对象怪兽处理时不受魔法卡的效果影响的场合，这个效果不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12796>`__
-   | 「星圣暴风」的②效果处理时场上的那个X怪兽不受魔法卡的效果影响的场合，这个效果不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13415>`__
-   | 不受卡的效果影响的怪兽不能放置各种指示物。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19607>`__
-
-   -  | 部分永续效果在效果处理途中不会立即适用，因此有一些特例：
-      | 「升阶魔法-削魂之力」以「急袭猛禽-究极猎鹰」为对象发动的场合效果正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11302&keyword=&tag=-1>`__
-      | 「XYZ苏生」以「急袭猛禽-究极猎鹰」为对象发动的场合效果正常适用。
-
-   .. note:: 为什么结果不一样？对于增加的效果，因为效果处理时要增加的X素材·指示物还不在场上，就只能作用在怪兽上了。
+.. note:: 为什么结果不一样？可以这样理解：对于增加的效果，因为效果处理时要增加的X素材·指示物还不在场上，就只能作用在怪兽上了。
 
 | 效果本身的特性可以被变更。
 | 例：
