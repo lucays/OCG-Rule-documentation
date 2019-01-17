@@ -17,6 +17,7 @@
 # sys.path.insert(0, os.path.abspath('.'))
 
 import sphinx_typlog_theme
+import datetime
 # from jupyter_sphinx_theme import *
 # init_theme()
 
@@ -82,13 +83,14 @@ pygments_style = None
 html_theme = 'sphinx_typlog_theme'
 html_theme_path = [sphinx_typlog_theme.get_path()]
 html_theme_options = {
-    'logo': 'logo.png',
+    'logo': 'logo.webp',
     'color': 'rgba(3, 172, 244, 0.8)',
     'description': 'OCG规则整理 by 碎冰',
     'github_user': 'lucays',
     'github_repo': 'ocg-rule',
     'canonical_url': 'https://ocg-rule.readthedocs.io',
-    'analytics_id': 'UA-131764005-1'
+    'analytics_id': 'UA-131764005-1',
+    'last_updated': (datetime.datetime.now() + datetime.timedelta(hours=8)).strftime("%Y-%m-%d %H:%M:%S"),
 }
 html_sidebars = {
     '**': [
@@ -127,13 +129,8 @@ html_static_path = ['.static']
 #
 html_favicon = '.static/favicon.ico'
 
-html_logo = '.static/logo.png'
+# html_logo = '.static/logo.webp'
 
-# If not None, a 'Last updated on:' timestamp is inserted at every page
-# bottom, using the given strftime format.
-# The empty string is equivalent to '%b %d, %Y'.
-#
-html_last_updated_fmt = '%Y-%m-%d %H:%M:%S'
 
 # -- Options for HTMLHelp output ---------------------------------------------
 
