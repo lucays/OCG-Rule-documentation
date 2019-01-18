@@ -272,7 +272,7 @@
 | 「电子龙·无限」\ `15/2/13 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15002&keyword=&tag=-1>`__\ 「鬼计惰天使」\ `14/7/31 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13399&keyword=&tag=-1>`__\ 「十二兽 蛇笞」\ `16/10/13 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8034&keyword=&tag=-1>`__\ 「十二兽的相克」\ `17/2/2 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8862&keyword=&tag=-1>`__\ 「星守之骑士 托勒密」\ `15/2/13 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15176&keyword=&tag=-1>`__\ 「升阶魔法-幻影骑士团的出击」\ `15/7/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19613&keyword=&tag=-1>`__\ 「电子光虫-核心菜粉蝶」\ `16/1/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18139&keyword=&tag=-1>`__\ 「月舞的仪式」\ `14/9/13 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13714&keyword=&tag=-1>`__\ 「No.38 希望魁龙 银河巨神」\ `15/12/18 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17985&keyword=&tag=-1>`__\ 「光波异邦臣」\ `16/10/7 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20007&keyword=&tag=-1>`__\ 「光虫基盘」\ `16/1/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=&tag=-1>`__\ 「发条拧紧」\ `14/11/14 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14143&keyword=>`__\ 「No.98 绝望皇 霍普勒斯」\ `16/5/13 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19250&keyword>`__\ 的效果处理时那些X怪兽变成里侧表示的场合，效果正常适用。
 
 | 让卡变成X怪兽的X素材的效果处理时，那卡变成里侧表示的场合仍正常在X怪兽下表侧重叠作为X素材。
-| 例：、
+| 例：
 | 场上表侧表示的「十二兽 蛇笞」的①效果发动，处理时这卡自身变成里侧表示的场合，正常在对象X怪兽下表侧表示重叠作为X素材。\ `16/10/13 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8034&keyword=>`__
 
 计数
