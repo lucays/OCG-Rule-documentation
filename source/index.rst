@@ -24,7 +24,7 @@ Welcome to ocg-rule's documentation!
 .. tip::
 
    | 由于文中基本不是用自问自答的方式介绍，搜索时不要用“怎样”“如何”等词，直接搜关键词即可。例如，不要搜“连锁怎么处理”，可以搜“连锁处理”。
-   | 如果问题比较基础，例如不清楚怎么融合召唤，这里搜不到的场合，可以去看\ `新大师完全规则书 <https://legacy.gitbook.com/book/warsier/new_master_rule/details>`__\ 。
+   | 如果问题比较基础，例如不清楚怎么融合召唤，这里搜不到的话，建议去看\ `新大师完全规则书 <https://legacy.gitbook.com/book/warsier/new_master_rule/details>`__\ 。
 
 | 相对pdf来说，epub文档更适合手机阅读，推荐用多看阅读打开。这两种格式的文档在电脑上都可以用Edge浏览器（win10 1709以上）打开。
 | pdf/epub文档只是下载时的网站内容，由于我一直在更新，推荐定期重新下载。
