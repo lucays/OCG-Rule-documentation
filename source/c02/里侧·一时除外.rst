@@ -59,7 +59,7 @@
 
 -  | 仪式召唤的怪兽变成里侧或被一时除外后，\ **仍然是仪式召唤的怪兽**\ 。\ `17/9/21 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=69&keyword=&tag=-1>`__ `17/10/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13294&keyword=&tag=-1>`__
 
--  | 灵摆召唤的怪兽变成里侧后，不再是灵摆召唤的怪兽。\ `14/11/14 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14266&keyword=&tag=-1>`__\ 被一时除外后，还是灵摆召唤的怪兽。\ `16/1/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18305&keyword=&tag=-1>`__
+-  | 灵摆召唤的怪兽变成里侧后，不再是灵摆召唤的怪兽。\ `14/11/14 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14266&keyword=&tag=-1>`__ 被一时除外后，还是灵摆召唤的怪兽。\ `16/1/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18305&keyword=&tag=-1>`__
 
 | 反转召唤的怪兽变成里侧后的裁定不太统一，详情见下例。一时除外后不再是反转召唤的怪兽。\ `16/1/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18306&keyword=&tag=-1>`__
 | 例：
@@ -237,7 +237,7 @@
 
 | 里侧的怪兽作为非公开情报，从控制者来看其攻击力·守备力就是卡片记载的数值。从双方的角度看其攻击力·守备力不是确定的数值。其他详见\ :ref:`攻守计算`\ 。
 | 例：
-| 「可变机兽 炮手龙」使用自身效果盖放在场上，此时其攻守是2800/2000，可以直接作为「影之卡组破坏病毒」等的cost。反转后其改变攻守的效果适用，攻守是1400/1000。这之后被一时除外的场合，由于从场上离开了，攻守恢复2800/2000。\ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6403&keyword=&tag=-1>`__\ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8802&keyword=&tag=-1>`__
+| 「可变机兽 炮手龙」使用自身效果盖放在场上，此时其攻守是2800/2000，可以直接作为「影之卡组破坏病毒」等的cost。反转后其改变攻守的效果适用，攻守是1400/1000。这之后被一时除外的场合，由于从场上离开了，攻守恢复2800/2000。\ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6403&keyword=&tag=-1>`__ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8802&keyword=&tag=-1>`__
 | 「黑蔷薇龙」S召唤成功时发动效果，发动「炼狱的落穴」作为连锁2，对「黑蔷薇龙」发动「月之书」作为连锁3，结算连锁2时里侧的「黑蔷薇龙」攻击力数值不确定，「炼狱的落穴」只能破坏攻击力2000以上的效果怪兽，因此效果不适用，结果连锁1的效果把场上的卡全部破坏。\ `14/11/27 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9068&keyword=&tag=-1>`__
 
 添加buff
@@ -264,8 +264,8 @@
 =========
 
 | 让卡变成X怪兽的X素材的效果，处理部分不要求仍为X怪兽的场合则正常适用。
-| 「十二兽的会局」\ `16/11/10 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12714&keyword=&tag=-1>`__\ 「十二兽 虎炮」\ `16/11/10 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7804&keyword=&tag=-1>`__\ 「十二兽的方合」\ `16/10/7 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20140&keyword=&tag=-1>`__\ 的效果处理时X怪兽变成里侧表示的场合，不符合效果文字中要求处理时也为X怪兽的条件，效果不适用。
-| 「电子龙·无限」\ `15/2/13 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15002&keyword=&tag=-1>`__\ 「鬼计惰天使」\ `14/7/31 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13399&keyword=&tag=-1>`__\ 「十二兽 蛇笞」\ `16/10/13 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8034&keyword=&tag=-1>`__\ 「十二兽的相克」\ `17/2/2 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8862&keyword=&tag=-1>`__\ 「星守之骑士 托勒密」\ `15/2/13 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15176&keyword=&tag=-1>`__\ 「升阶魔法-幻影骑士团的出击」\ `15/7/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19613&keyword=&tag=-1>`__\ 「电子光虫-核心菜粉蝶」\ `16/1/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18139&keyword=&tag=-1>`__\ 「月舞的仪式」\ `14/9/13 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13714&keyword=&tag=-1>`__\ 「No.38 希望魁龙 银河巨神」\ `15/12/18 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17985&keyword=&tag=-1>`__\ 「光波异邦臣」\ `16/10/7 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20007&keyword=&tag=-1>`__\ 「光虫基盘」\ `16/1/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=&tag=-1>`__\ 「发条拧紧」\ `14/11/14 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14143&keyword=>`__\ 「No.98 绝望皇 霍普勒斯」\ `16/5/13 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19250&keyword>`__\ 的效果处理时那些X怪兽变成里侧表示的场合，效果正常适用。
+| 「十二兽的会局」\ `16/11/10 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12714&keyword=&tag=-1>`__ 「十二兽 虎炮」\ `16/11/10 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7804&keyword=&tag=-1>`__ 「十二兽的方合」\ `16/10/7 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20140&keyword=&tag=-1>`__ 的效果处理时X怪兽变成里侧表示的场合，不符合效果文字中要求处理时也为X怪兽的条件，效果不适用。
+| 「电子龙·无限」\ `15/2/13 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15002&keyword=&tag=-1>`__ 「鬼计惰天使」\ `14/7/31 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13399&keyword=&tag=-1>`__ 「十二兽 蛇笞」\ `16/10/13 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8034&keyword=&tag=-1>`__ 「十二兽的相克」\ `17/2/2 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8862&keyword=&tag=-1>`__ 「星守之骑士 托勒密」\ `15/2/13 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15176&keyword=&tag=-1>`__ 「升阶魔法-幻影骑士团的出击」\ `15/7/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19613&keyword=&tag=-1>`__ 「电子光虫-核心菜粉蝶」\ `16/1/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18139&keyword=&tag=-1>`__ 「月舞的仪式」\ `14/9/13 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13714&keyword=&tag=-1>`__ 「No.38 希望魁龙 银河巨神」\ `15/12/18 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17985&keyword=&tag=-1>`__ 「光波异邦臣」\ `16/10/7 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20007&keyword=&tag=-1>`__ 「光虫基盘」\ `16/1/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=&tag=-1>`__ 「发条拧紧」\ `14/11/14 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14143&keyword=>`__ 「No.98 绝望皇 霍普勒斯」\ `16/5/13 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19250&keyword>`__ 的效果处理时那些X怪兽变成里侧表示的场合，效果正常适用。
 
 | 让卡变成X怪兽的X素材的效果处理时，那卡变成里侧表示的场合仍正常在X怪兽下表侧重叠作为X素材。
 | 例：
@@ -303,13 +303,13 @@
 
 -  自己通过「强制转移」「御用王」等永久转移控制权的效果夺取了对方怪兽的控制权后，变成里侧或被一时除外的场合，都仍回到我方场上。不会回到对方场上。\ `16/1/6 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17476&keyword=&tag=-1>`__
 
--  自己通过「抢夺」「灰篮鹰」等怪兽变成里侧或离场就破坏的装备卡夺取了对方怪兽的控制权后，变成里侧的场合，就这样一直留在自己场上。\ `15/7/17 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16310&keyword=&tag=-1>`__\ 在被一时除外后，返回自己场上的时点那个怪兽立即再回到对方场上。
+-  自己通过「抢夺」「灰篮鹰」等怪兽变成里侧或离场就破坏的装备卡夺取了对方怪兽的控制权后，变成里侧的场合，就这样一直留在自己场上。\ `15/7/17 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16310&keyword=&tag=-1>`__ 在被一时除外后，返回自己场上的时点那个怪兽立即再回到对方场上。
 
    .. note:: 持续取对象的效果也因为切断联系了而和装备卡一样处理。
 
 -  | 自己通过「精神操作」等暂时转移控制权的效果夺取了对方怪兽的控制权后，变成里侧后控制权无变化，在控制权变更效果结束适用的时点那个里侧怪兽才会回到对方场上。被一时除外的场合，在回到自己场上的时点即使控制权变更效果尚未结束，也立即回到对方场上。
    | 例：
-   | 「银河眼光子龙」\ `14/3/21 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11474&keyword=&tag=-1>`__\ 「彼岸的恶鬼 法尔法雷洛」「虫洞」\ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8811&keyword=&tag=-1>`__\ 「PSY 骨架王·Ω」
+   | 「银河眼光子龙」\ `14/3/21 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11474&keyword=&tag=-1>`__ 「彼岸的恶鬼 法尔法雷洛」「虫洞」\ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8811&keyword=&tag=-1>`__ 「PSY 骨架王·Ω」
 
    .. note::  官方卡片数据库和wiki在有的卡片写着先回自己场上再立即回对方场上，有的卡片只写着回对方场上，甚至对同一张卡记述也有不同。我倾向于都是先回自己场上再立即回对方场上，只是部分调整漏写了。除「急兔马」外，基本对游戏的进行没什么影响，不要太在意这个。
 

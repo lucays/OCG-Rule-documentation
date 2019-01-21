@@ -121,7 +121,7 @@
       | 类似地，等级下降到1以下的场合，结果是1。
       | 不过，有后续效果的场合，基本上后续效果不会适用，等级也不下降。
       | 例：
-      | 「锤鲨」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12944>`__\ 「龙落亲」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17005>`__\ 「方程式运动员 黑暗竞速者」\ `18/9/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9809&keyword=&tag=-1>`__ \ `18/9/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22099>`__\ 等级不够下降数时效果不能发动，发动后处理时不够的场合不能适用。
+      | 「锤鲨」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12944>`__ 「龙落亲」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17005>`__ 「方程式运动员 黑暗竞速者」\ `18/9/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9809&keyword=&tag=-1>`__ \ `18/9/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22099>`__ 等级不够下降数时效果不能发动，发动后处理时不够的场合不能适用。
       | 特别地，「EM 调级钟行李员」宣言5，以等级3的怪兽为对象发动效果时，连锁发动「妖怪的恶作剧」，自身等级下降到4，对象怪兽下降到1的场合，这个效果仍然适用，结果自身等级是1，对象怪兽等级上升到6。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19744>`__
 
 -  | 数值下降到0以下时，虽然结果按0处理，\ **累积计算时按实际数值计算**\ 。
@@ -190,7 +190,7 @@
 | 「混沌死灵师」「红莲魔兽」「原始太阳 赫利俄斯」「命运女郎」怪兽等效果持续影响自身的攻击力·守备力，「收缩」适用只是0/2=0，再计算「混沌死灵师」等效果，结果适用前后数值都一样。
 | 「守护神官 马哈德」和暗属性怪兽进行战斗的伤害步骤内，自身效果把攻击力加倍到5000，被「收缩」后攻击力是2500/2=1250。这个时点再计算，结果攻击力是1250*2=2500。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19234&keyword=&tag=-1>`__ 同样的还有「降龙之魔术师」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13056&keyword=&tag=-1>`__ 「蛇神 格」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19510>`__ 等。
 
-.. attention:: 「蛇神 格」等效果本身并不是 会反复计算的效果_ 。被「蛇神 格」把攻击力变成1500的「青眼白龙」再被「真龙的默示录」的①效果变成750的场合，「蛇神 格」的效果不会再计算，不会回到3000/2=1500。
+.. attention:: 「蛇神 格」等效果本身并不是\ 会反复计算的效果_\ 。被「蛇神 格」把攻击力变成1500的「青眼白龙」再被「真龙的默示录」的①效果变成750的场合，「蛇神 格」的效果不会再计算，不会回到3000/2=1500。
 
 -  | 如果是持续适用的，影响原本攻击力·守备力的效果，不会再度计算。
    | 例：

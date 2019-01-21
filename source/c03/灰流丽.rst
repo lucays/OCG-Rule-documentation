@@ -17,11 +17,11 @@
 
 具体的说
 
--  | 可以连锁「增殖的G」\ `17/1/14 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20473&keyword=&tag=-1>`__\ 「摇晃的目光」\ `17/1/19 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11509&keyword=&tag=-1>`__\ 「日全食之书」\ `17/1/19 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11500&keyword=&tag=-1>`__\ 「炎舞-「天玑」」等。
+-  | 可以连锁「增殖的G」\ `17/1/14 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20473&keyword=&tag=-1>`__ 「摇晃的目光」\ `17/1/19 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11509&keyword=&tag=-1>`__ 「日全食之书」\ `17/1/19 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11500&keyword=&tag=-1>`__ 「炎舞-「天玑」」等。
    | 若卡组不存在4星以下的兽战士族怪兽的场合，发动「炎舞-「天玑」」，不需要告知对方自己卡组没有可以检索的卡，对方仍然要选择是否发动「灰流丽」的效果。
    | 若卡组不存在P怪兽，互相场上的灵摆区域合计只有1张卡，发动「摇晃的目光」，仍然可以连锁「灰流丽」的效果。
 
--  | 可以连锁「青色眼睛的少女」的①或②效果、「坏兽的休眠中断」\ `17/1/19 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11507&keyword=&tag=-1>`__\ 等。
+-  | 可以连锁「青色眼睛的少女」的①或②效果、「坏兽的休眠中断」\ `17/1/19 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11507&keyword=&tag=-1>`__ 等。
    | 连锁「大宇宙」卡的发动时，由于此卡只能在那些效果处理时使其效果无效，不能把发动无效，结果「大宇宙」仍然留在场上。
    | 连锁「十二兽的会局」②效果的发动时，由于此卡没有破坏等能力，结果「十二兽的会局」仍然留在场上。
 
@@ -39,7 +39,7 @@
    | 「大熏风骑士 翠玉」发动回收并抽卡的效果，不是把卡片特殊召唤的效果，不能连锁「神之警告」。是从卡组把卡加入手卡的效果，可以连锁「灰流丽」的效果。
    | 持有「十二兽 鼠骑」的「十二兽 龙枪」发动②效果，不是把卡片特殊召唤的效果，不能连锁「灰流丽」的效果。
 
--  | 「刚地帝 格兰玛格」不是用地属性怪兽解放来上级召唤时发动效果的场合，由于发动时确定不可能抽卡，不能连锁「灰流丽」的效果。\ `17/1/14 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20547&keyword=&tag=-1>`__\ 「影依融合」从卡组选融合素材的效果是处理时确定的效果，可能因处理时有「奇妙XYZ」等发动而适用，因此可以被连锁。
+-  | 「刚地帝 格兰玛格」不是用地属性怪兽解放来上级召唤时发动效果的场合，由于发动时确定不可能抽卡，不能连锁「灰流丽」的效果。\ `17/1/14 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20547&keyword=&tag=-1>`__ 「影依融合」从卡组选融合素材的效果是处理时确定的效果，可能因处理时有「奇妙XYZ」等发动而适用，因此可以被连锁。
    | 例：
    | 4种类怪兽融合召唤的「狱火机 提耶拉」在融合召唤成功时发动效果，不能连锁「灰流丽」的效果。\ `17/1/19 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10690&keyword=&tag=-1>`__
    | 被自己卡的效果从手卡丢弃的「暗黑界的鬼神 凯勒特」发动效果，不能连锁「灰流丽」的效果。

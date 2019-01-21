@@ -62,9 +62,9 @@
    | 例：
    | 「同调变化」把「涅槃之超魔导剑士」特殊召唤，「XYZ调换」把「霸王黑龙 异色眼叛逆龙」特殊召唤等，都不是正规手续。
    | 「天刑王 黑天」的效果适用中，不能发动「星尘战士」等『当作同调召唤作特殊召唤』的效果。
-   | 「融合禁止区域」的效果适用中，「圣灵兽骑 火狮」可以用自身召唤手续出场，\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=65>`__\ 可以发动「假面变化」，\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13328>`__\ 不能发动「融合之门」等『当作融合召唤作特殊召唤』的效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9988>`__\
+   | 「融合禁止区域」的效果适用中，「圣灵兽骑 火狮」可以用自身召唤手续出场，\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=65>`__ 可以发动「假面变化」，\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13328>`__ 不能发动「融合之门」等『当作融合召唤作特殊召唤』的效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9988>`__\
 
-   .. attention:: 像「星光大道」这样，没有记述同调召唤，不是正规手续。「天刑王 黑天」的效果适用中也可以特殊召唤「星尘龙」，也因此受到 苏生限制_ ，送去墓地后不能发动自身②效果特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9554>`__\
+   .. attention:: 像「星光大道」这样，没有记述同调召唤，不是正规手续。「天刑王 黑天」的效果适用中也可以特殊召唤「星尘龙」，也因此受到\ 苏生限制_\ ，送去墓地后不能发动自身②效果特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9554>`__\
 
 -  | 「星尘龙·爆裂体」等，记述『用这张卡的效果才能·可以特殊召唤』并且有多个效果可以特殊召唤自身时，特别地，按前后顺序记载的第一个效果为其正规的召唤手续。
    | 例：
@@ -116,7 +116,7 @@
 | 「混沌帝龙 -终焉的使者-」即使通过自身的正规手续上场，由于自身召唤限制，送去墓地后也不能被「死者苏生」等效果特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14602&keyword=&tag=-1>`__\
 | 「星光大道」特殊召唤的「星尘龙」发动效果解放自身后，由于苏生限制未解除，回合的结束阶段时不能发动自身效果特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9554>`__\
 
-.. attention:: 不止特殊召唤怪兽才有召唤限制。「闪耀巨龙」等 通常召唤怪兽_ 也有召唤限制。
+.. attention:: 不止特殊召唤怪兽才有召唤限制。「闪耀巨龙」等\ 通常召唤怪兽_\ 也有召唤限制。
 
 .. _苏生限制:
 
@@ -130,7 +130,7 @@
 | 直接从手卡·卡组送去墓地的「电子化天使-那沙帝弥-」不能发动自身③效果把自身特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20041>`__\
 | 「辉剑鸟之影灵衣」的效果把「影灵衣的返魂术」加入手卡后，由于「影灵衣的返魂术」是把「影灵衣」怪兽仪式召唤，是正规召唤手续，因此可以把没有正规出场过的「辉剑鸟之影灵衣」从墓地仪式召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14410>`__\
 
-.. attention:: 一时除外『回到场上』不是特殊召唤 \ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9208>`__\ ，没有通过正规手续出场的特殊召唤怪兽仍然会因这样的效果回到场上。
+.. attention:: 一时除外『回到场上』不是特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9208>`__ 没有通过正规手续出场的特殊召唤怪兽仍然会因这样的效果回到场上。
 
 | 凡是通过正规手续上场的特殊召唤怪兽都解除了苏生限制。
 | \ **特殊召唤被无效**\ 的场合由于没有成功上场，苏生限制不会解除。
@@ -167,7 +167,7 @@ P召唤                                 ×                ○                   
 | 「天声的服从」把「光之创造神 哈拉克提」无视召唤条件特殊召唤的场合，发动「天声的服从」的玩家立即决斗胜利。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19404&keyword=&tag=-1>`__\
 | 「真红眼卡通龙」把特殊召唤怪兽无视召唤条件特殊召唤，那个怪兽之后被送去墓地的场合，不能用「死者苏生」等效果特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18257>`__\
 | 「永远的淑女 贝阿特丽切」把「彼岸的诗人 维吉尔」无视召唤条件特殊召唤后，那个「彼岸的诗人 维吉尔」再被送去墓地的场合，不能用「死者苏生」等效果特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16940>`__\
-| 「双雄攻击」要把墓地「M·HERO 暗爪」特殊召唤的场合，必须是用「假面变化」的效果特殊召唤的（「假面变化二型」「形态变化」等当作「假面变化」的特殊召唤也可以）。\ `18/12/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22339>`__\ 也就是说，这样特殊召唤后再送去墓地的场合，不能再用「双雄攻击」特殊召唤。
+| 「双雄攻击」要把墓地「M·HERO 暗爪」特殊召唤的场合，必须是用「假面变化」的效果特殊召唤的（「假面变化二型」「形态变化」等当作「假面变化」的特殊召唤也可以）。\ `18/12/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22339>`__ 也就是说，这样特殊召唤后再送去墓地的场合，不能再用「双雄攻击」特殊召唤。
 
 -  | 基本上，这样的效果不能无视苏生限制。
    | 例：
