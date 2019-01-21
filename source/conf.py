@@ -97,8 +97,8 @@ html_sidebars = {
         'logo.html',
         'docstatus.html',
         'github.html',
-        'globaltoc.html',
         'searchbox.html',
+        'globaltoc.html',
     ]
 }
 
