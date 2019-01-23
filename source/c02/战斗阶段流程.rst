@@ -2,22 +2,31 @@
 战斗阶段流程
 ============
 
-写在前面
+前言
 ========
 
 | 互相放弃优先权，主要阶段1结束后，回合玩家选择是否要进入战斗阶段。先攻第1回合玩家不能进行战斗阶段。
 | 即使没有能攻击的怪兽、没有怪兽，也能进入战斗阶段。
 | 战斗阶段被跳过或者不能进行的回合，也不能进入主要阶段2。
 
-| 在不能进行战斗阶段的回合，或在主要阶段2，基本上不能发动只能在战斗阶段内处理的效果，让怪兽能多次攻击、直接攻击、贯通、战斗伤害加倍·减半等效果也不能发动。不过，如果只作为附带的效果处理，可以发动。
-| 『不能进行战斗阶段』『不能攻击』等效果都可以发动。
+| 在不能进行战斗阶段的回合，或在主要阶段2中，需要在战斗阶段内才能处理的，让怪兽能多次攻击、直接攻击、贯通、战斗伤害加倍·减半等效果基本上不能发动。不过，如果只作为附带的效果处理，可以发动。
+| 不需要战斗阶段就能处理的效果，如记述有『不能进行战斗阶段』『不能攻击』等文本的效果可以发动。
 | 例：
 | 「电子鱼人-弓手」的效果\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13790>`__ 「回转调车」的①效果\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=118>`__ 「电子化天使-美朱濡-」的①效果\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19694>`__ 「嵌合狂暴龙」的④效果\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15011>`__ 「雷击坏兽 雷鸣龙王」的④效果\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19932>`__ 「阴之天气模样」\ `17/8/31 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8653>`__ 「女巫特露德」的②效果\ `18/5/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21877>`__ 可以发动。
 | 「仁王立」的②效果\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18024>`__ 「娱乐法师 秋千魔术家」的②效果\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15365>`__ 「DDD 怒涛王 凯撒」的①效果\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13535>`__ 「猪突猛进」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16582>`__ 「No.95 银河眼暗物质龙」的②效果\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14805>`__ 「虹彩之魔术师」的P效果\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20422>`__ 不能发动。
 | 「混沌战士 -开辟的使者-」的除外效果\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13110>`__ 「青眼亚白龙」的②效果\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17834>`__ 「灵魂补充」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13252>`__ 「同胞的牵绊」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13512>`__ 可以发动。
-| 在对方回合也能发动「沙尘之大龙卷」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20916>`__ 
+| 在对方回合也能发动「沙尘之大龙卷」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20916>`__
 
-.. note:: 『这个回合，...』的记述比较特别，在这个记述之前有其他效果处理的场合，这部分就是附带的效果处理，例如「女巫特露德」。没有其他效果处理，并且之后紧接着不能适用的效果，那么不能发动。例如「虹彩之魔术师」。能适用的场合，还是可以发动，例如「雷击坏兽 雷鸣龙王」。
+.. note::
+
+   | 『这个回合...』的记述比较特别，在这个记述之前有其他效果处理的场合，这部分就是附带的效果处理，例如「女巫特露德」。没有其他效果处理，并且之后紧接着不能适用的效果，那么不能发动。例如「虹彩之魔术师」。能适用的场合，还是可以发动，例如「雷击坏兽 雷鸣龙王」。
+   | 另外，类似地，不能攻击的怪兽也不能被这些效果取对象，不能直接攻击的怪兽也不能被让怪兽可以直接攻击的效果取对象。
+   | 不取对象的效果也不适用。
+   | 例：
+   | 「光之护封剑」的效果适用中，对方不能对其怪兽发动「病毒邮件」。 
+   | 「病毒邮件」不能以「安全地带」的效果持续取对象的怪兽为对象发动。
+   | 「No.11 巨眼」的效果发动时，\ :ref:`誓约`\ 适用而不能攻击的回合，不能连锁以其为对象发动「Em 秋千魔术家」的效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15829&keyword=&tag=-1>`__
+   | 「幻兽机 全球剑齿虎」等不能直接攻击的怪兽的攻击宣言时，发动「轮盘蜘蛛」掷出2的场合，效果不适用，仍然向怪兽攻击。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15829&keyword=&tag=-1>`__
 
 | 战斗阶段还分为4个步骤：开始步骤、战斗步骤、伤害步骤、结束步骤。
 | 其中，开始步骤又称战斗阶段开始时，结束步骤又称战斗阶段结束时。虽然就命名上看起来像是1个时点，但实际上\ **不是时点**\ ，应该理解成更小的阶段， 详见\ :ref:`时点`\ 。
@@ -62,7 +71,7 @@
    | 例：
    | 回合玩家X召唤「SNo.39 希望皇 霍普·电光皇」后，宣言结束主要阶段，非回合玩家也放弃优先权，进入战斗阶段的开始步骤后，回合玩家没有效果要发动的场合，必须放弃优先权来宣言要进入可以进行攻击宣言的战斗步骤，此时非回合玩家持有优先权，可以发动「十二兽 龙枪」等效果。发动的场合，连锁处理后，卷回到战斗阶段的开始步骤。
 
-.. tip:: 能用「强制脱出装置」等快速效果解决对方「SNo.39 希望皇 霍普·电光皇」等卡的最后时点就是开始步骤。战斗步骤内其攻击宣言前由于没有优先权的转移，不能发动快速效果。
+.. tip:: 能用「强制脱出装置」等\ :ref:`快速效果`\ 解决对方「SNo.39 希望皇 霍普·电光皇」等卡的最后时点就是开始步骤。战斗步骤内其攻击宣言前由于没有优先权的转移，不能发动\ :ref:`快速效果`\ 。
 
 -  双方玩家互相放弃发动卡的优先权，开始步骤终了后，进入战斗步骤。即使没有怪兽也不能直接进入结束步骤。
 
@@ -233,9 +242,13 @@
 
 -  | 进入伤害步骤的时点，攻击的怪兽当作\ **攻击过**\ 。
    | 例：
-   | 「急袭猛禽-穿刺伯劳」对对方怪兽进行攻击宣言，进入伤害步骤之后，即使对方怪兽不在场上存在，不进行伤害计算的场合，这个主要阶段2其②效果可以发动。
+   | 「RR-穿刺伯劳」攻击被无效的场合，主要阶段2不能发动②效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14860>`__ 战斗步骤内发生卷回后取消攻击的场合，也不能发动②效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14859>`__
+   | 「RR-穿刺伯劳」对对方怪兽进行攻击宣言，进入伤害步骤之后，即使对方怪兽不在场上存在，不进行伤害计算的场合，这个主要阶段2其②效果可以发动。
+   | 「真青眼究极龙」攻击「正义盟军 灾亡虫」，伤害步骤内其发动效果时，连锁发动「天罚」无效这个发动并破坏的场合，伤害步骤结束时「真青眼究极龙」的①效果可以发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19155>`__
 
-伤害步骤划分为5个时点：
+   .. attention:: 「真青眼究极龙」①效果的中文翻译没有记述『过』，但日文原文都是『攻撃し』。
+
+伤害步骤这样划分：
 
 .. figure:: ../.static/2.png
    :alt: 伤害步骤一览表.jpg
