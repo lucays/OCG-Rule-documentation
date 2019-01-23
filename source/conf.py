@@ -139,7 +139,7 @@ htmlhelp_basename = 'ocg-ruledoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
-
+latex_logo = '.static/pdf_cover.png'
 latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').
     #
