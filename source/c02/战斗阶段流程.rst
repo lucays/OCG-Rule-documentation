@@ -259,36 +259,41 @@
 
    伤害步骤一览表.jpg（作者：\ `lzsgodmax <https://www.baidu.com/p/lzsgodmax>`__\ ）
 
--  新大师规则没有改变伤害步骤的规则。这个表本身不够完善，与下文冲突的地方以下文为准。
+-  新大师规则中伤害步骤的规则没有变更。不过这个表本身不够完善，只适合速记，与下文冲突的地方以下文为准。
 
 | 伤害步骤内，只能发动以下效果：
 
-- 1速诱发：必发效果/自身被反转·破坏·战斗破坏·效果破坏·送去墓地·除外·加入手卡·特殊召唤/自身以外的卡片被破坏·战斗破坏的效果
+- 1速诱发：必发效果/自身表示形式变更、被反转、破坏、战斗·效果破坏、战斗破坏、效果破坏、解放、送去墓地、除外、加入手卡、特殊召唤/自身以外的卡片被破坏、战斗·效果破坏、战斗破坏诱发的效果
 
-.. attention:: 自身以外的卡片被效果破坏·送去墓地·加入手卡·特殊召唤等诱发的效果，在伤害步骤不能发动。
+.. attention::
 
-- 2速以上：反击陷阱/必发效果/把\ **发动**\ 无效的诱发即时效果·陷阱卡/增减怪兽的攻击力·守备力的效果
+   | 除了记述被战斗破坏诱发的效果，自身以外的卡片在其他场景中都不能发动。
+   | 比如，自身以外的卡片表示形式变更、被解放、送去墓地、除外、加入手卡、特殊召唤以及只能被效果破坏诱发的效果，在伤害步骤不能发动。
+   | 「地中族的战士」文本明确记述了『伤害步骤也能发动』，除此之外没有选发的自身以外卡片反转诱发的效果。
+   | 「宙读之魔术士」\ `16/12/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12906>`__ 「同路人」\ `17/1/26 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=4939>`__ 等记述了被战斗破坏诱发效果，即使伤害步骤内满足的是另一个条件（被效果破坏、送去墓地等），也能发动。
+
+- 2速以上：必发效果/反击陷阱/把\ **发动**\ 无效的怪兽·陷阱效果/增减怪兽的攻击力·守备力的效果
 
 .. attention:: 只把效果无效，发动不会无效的效果不能在伤害步骤内发动。
 
 | 例：
-| 伤害步骤内不能发动速攻魔法卡「我身作盾」，但可以发动陷阱卡「炸弹防御」。
-| 记述着『那个效果无效』的「灰流丽」由于只是把效果无效，不能无效发动，不能在伤害步骤内发动。记述着『那个发动无效』的「屋敷童」可以。
-| 「文具电子人 004」在伤害步骤发动效果特殊召唤后，「文具电子人 001」的②效果不能发动。
-| 「森罗」怪兽被战斗破坏送去墓地时，手卡的「森罗的贤树 将军树」的效果不能发动。
-| 「武神」怪兽被战斗破坏送去墓地时，手卡的「武神-御雷」的效果可以发动。
+| 「辉神鸟 贝努鸟」的②效果\ `17/10/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12395>`__ 「黯黑之魔王 迪亚波罗斯」的①效果\ `18/3/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13683>`__ 在伤害步骤内不能发动。
+| 「电子光虫-核心菜粉蝶」的②效果\ `16/1/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12327>`__ 「魔偶甜点·巧克力雏鸟」的①效果\ `16/4/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10583>`__ 在伤害步骤内不能发动。
+| 「辉神鸟 贝努鸟」的②效果\ `17/10/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12395>`__ 「黯黑之魔王 迪亚波罗斯」的①效果\ `18/3/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13683>`__ 在伤害步骤内不能发动。
+| 「森罗的贤树 将军树」的效果\ `18/11/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11050>`__ 「转生炎兽 羚羊」的①效果\ `18/12/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14240>`__ 在伤害步骤内不能发动。
+| 「玄化次元」的②效果\ `17/7/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13291>`__ 「PSY骨架王·Λ」的②效果\ `18/11/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14207>`__ 在伤害步骤内不能发动。
+| 「M·HERO 暗爪」的②效果\ `15/7/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11313>`__ 「小丑与锁鸟」的效果\ `17/12/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=9279>`__ 在伤害步骤内不能发动。
+| 「文具电子人 001」的②效果\ `14/4/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11254>`__ 「剑巫之圣像骑士」的③效果\ `18/7/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13933>`__ 在伤害步骤内不能发动。
+| 「机皇帝 神陆∞」的效果\ `16/4/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=9265>`__ 「废铁翼龙」的②效果\ `18/11/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14199>`__ 在伤害步骤内不能发动。
+| 「我身作盾」\ `17/2/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5675>`__ 在伤害步骤内不能发动，「炸弹防御」\ `18/2/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8842>`__ 和「幻变骚灵协议」的②效果\ `17/7/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13287>`__ 在伤害步骤内可以发动。
+| 记述『那个效果无效』的「灰流丽」\ `17/1/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12950>`__ 在伤害步骤内不能发动。记述『那个发动无效』的「屋敷童」\ `18/1/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13587>`__ 可以。
 
 -  | 增减怪兽的攻击力·守备力的2速效果只能在\ **伤害步骤开始时或伤害计算前**\ 发动。其他效果可以在任意时点发动。
    | 例：
    | 自己怪兽攻击对方的「蛇神 格」，自己的「收缩」要发动的场合只能在伤害计算前为止的时点发动。之后伤害计算时「蛇神 格」仍可以发动效果改变攻击力。
 
--  | 1个效果有多个诱发条件，只要这个效果能在伤害步骤发动，即使满足的是原本不能在伤害步骤发动的诱发条件，也能发动。
-   | 例：
-   | 伤害步骤内自己场上的卡被效果破坏的场合，也可以发动手卡「宙读之魔术士」的效果。\ `16/12/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12906>`__
-   | 伤害步骤内因效果把场上的怪兽送去自己墓地时，也可以发动「同路人」。\ `17/1/26 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=4939>`__
-
-| 记述『伤害步骤开始时』和『伤害计算前』的诱发效果，必须在进入对应时点后就组成连锁发动。\ :ref:`快速效果`\ 可以另开连锁发动。
-| 记述『伤害计算时』『伤害计算后』『伤害步骤结束时』发动的效果，必须组成连锁发动，即使是\ :ref:`快速效果`\ 也不能另开连锁发动。在连锁处理后，只能通过诱发效果或反击陷阱开连锁。
+| 记述『伤害步骤开始时』和『伤害计算前』的诱发类效果，必须在满足条件时组成连锁发动。而\ :ref:`快速效果`\ 可以另开连锁发动。
+| 记述『伤害计算时』『伤害计算后』『伤害步骤结束时』发动的效果，必须组成连锁发动，即使是\ :ref:`快速效果`\ 也不能另开连锁发动。在连锁处理后，只有诱发类效果才能开连锁发动。
 | 例：
 | 对方在伤害计算前发动「欧尼斯特」，增加攻击力后，这个时点我方仍可以发动「欧尼斯特」，结果我方怪兽攻击力更高。
 | 「蒲公英狮」因伤害计算时发动的「天罚」而被送去墓地，发动效果的场合，「自尊的咆哮」等不能在这时连锁发动。
