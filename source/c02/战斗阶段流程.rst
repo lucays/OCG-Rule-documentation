@@ -263,18 +263,22 @@
 
 | 伤害步骤内，只能发动以下效果：
 
-- 1速诱发：必发效果/自身表示形式变更、被反转、破坏、战斗·效果破坏、战斗破坏、效果破坏、解放、送去墓地、除外、加入手卡、特殊召唤/自身以外的卡片被破坏、战斗·效果破坏、战斗破坏诱发的效果
+- 1速诱发：必发效果/自身表示形式变更、被反转、破坏、战斗·效果破坏、战斗破坏、效果破坏、解放、送去墓地、除外、从场上离开、加入手卡、特殊召唤/自身以外的卡片被破坏、战斗·效果破坏、战斗破坏诱发的效果
 
 .. attention::
 
-   | 除了记述被战斗破坏诱发的效果，自身以外的卡片在其他场景中都不能发动。
-   | 比如，自身以外的卡片表示形式变更、被解放、送去墓地、除外、加入手卡、特殊召唤以及只能被效果破坏诱发的效果，在伤害步骤不能发动。
+   | 自身以外的卡片自身以外的卡片在其他场景中都不能发动。
+   | 具体地说，自身以外的卡片表示形式变更、被解放、送去墓地、除外、从场上离开、加入手卡、特殊召唤以及只能被效果破坏诱发的选发效果，在伤害步骤不能发动。
    | 「地中族的战士」文本明确记述了『伤害步骤也能发动』，除此之外没有选发的自身以外卡片反转诱发的效果。
-   | 「宙读之魔术士」\ `16/12/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12906>`__ 「同路人」\ `17/1/26 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=4939>`__ 等记述了被战斗破坏诱发效果，即使伤害步骤内满足的是另一个条件（被效果破坏、送去墓地等），也能发动。
+   | 「同路人」\ `17/1/26 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=4939>`__ 「闪刀姬-零衣」的②效果\ `18/2/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13670>`__ 等明确记述被战斗破坏可以发动的效果，即使伤害步骤内满足的是另一个条件（被效果送去墓地、从场上离开等），这些效果也能发动。
 
 - 2速以上：必发效果/反击陷阱/把\ **发动**\ 无效的怪兽·陷阱效果/增减怪兽的攻击力·守备力的效果
 
-.. attention:: 只把效果无效，发动不会无效的效果不能在伤害步骤内发动。
+.. tip::
+
+   | 「灰流丽」这样，记述『那个效果无效』的效果，不是把发动无效，结果不能在伤害步骤内发动。\ `17/1/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12950>`__
+   | 「屋敷童」这样，记述『那个发动无效』的效果，可以在伤害步骤内发动。\ `18/1/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13587>`__
+   | 此外，文本判断时，『发动的效果无效』是把效果无效，『效果的发动无效』是把发动无效。
 
 | 例：
 | 「辉神鸟 贝努鸟」的②效果\ `17/10/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12395>`__ 「黯黑之魔王 迪亚波罗斯」的①效果\ `18/3/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13683>`__ 在伤害步骤内不能发动。
@@ -282,11 +286,11 @@
 | 「辉神鸟 贝努鸟」的②效果\ `17/10/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12395>`__ 「黯黑之魔王 迪亚波罗斯」的①效果\ `18/3/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13683>`__ 在伤害步骤内不能发动。
 | 「森罗的贤树 将军树」的效果\ `18/11/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11050>`__ 「转生炎兽 羚羊」的①效果\ `18/12/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14240>`__ 在伤害步骤内不能发动。
 | 「玄化次元」的②效果\ `17/7/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13291>`__ 「PSY骨架王·Λ」的②效果\ `18/11/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14207>`__ 在伤害步骤内不能发动。
+| 「D-时间」\ `14/12/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6678>`__ 「PSY骨架加速器」的②效果\ `16/7/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12664>`__ 「究极宝玉阵」的②效果\ `17/11/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13487>`__ 在伤害步骤内不能发动。
 | 「M·HERO 暗爪」的②效果\ `15/7/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11313>`__ 「小丑与锁鸟」的效果\ `17/12/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=9279>`__ 在伤害步骤内不能发动。
 | 「文具电子人 001」的②效果\ `14/4/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11254>`__ 「剑巫之圣像骑士」的③效果\ `18/7/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13933>`__ 在伤害步骤内不能发动。
 | 「机皇帝 神陆∞」的效果\ `16/4/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=9265>`__ 「废铁翼龙」的②效果\ `18/11/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14199>`__ 在伤害步骤内不能发动。
 | 「我身作盾」\ `17/2/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5675>`__ 在伤害步骤内不能发动，「炸弹防御」\ `18/2/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8842>`__ 和「幻变骚灵协议」的②效果\ `17/7/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13287>`__ 在伤害步骤内可以发动。
-| 记述『那个效果无效』的「灰流丽」\ `17/1/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12950>`__ 在伤害步骤内不能发动。记述『那个发动无效』的「屋敷童」\ `18/1/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13587>`__ 可以。
 
 -  | 增减怪兽的攻击力·守备力的2速效果只能在\ **伤害步骤开始时或伤害计算前**\ 发动。其他效果可以在任意时点发动。
    | 例：
