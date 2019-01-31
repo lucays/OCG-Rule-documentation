@@ -141,7 +141,9 @@
    | 场上存在「技能抽取」「罪 青眼白龙」时，手卡「罪 青眼白龙」的效果没被无效，仍然不能特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9563>`__
    | 「沼地的魔神王」「心眼的女神」「寄生融合虫」等可以代替作为融合素材的无种类效果，在手卡·场上·墓地存在时都可以适用。在卡组存在的场合不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13184>`__ 被除外的状态也不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20116>`__
 
--  | 无种类效果同时满足条件时，和永续效果一样决定适用顺序。
+   .. attention:: 「地缚神」等数量限制效果本身没有记述『破坏』，这样被破坏不是被效果破坏。「地缚大神官」的效果适用中，只能让「地缚神」怪兽在没有场地魔法时不会被破坏。\ `16/8/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8760>`__
+
+-  | 同一玩家的多个无种类效果同时满足条件时，和永续效果一样，玩家可以自行决定适用顺序。
    | 例：
    | 自己场上2只里侧表示的「彼岸的诗人 维吉尔」被「停战协定」的效果反转的场合，选其中1个破坏，由于这个①效果本身没有记述『破坏』，这样被破坏不是被效果破坏，不能发动③效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17229>`__
 

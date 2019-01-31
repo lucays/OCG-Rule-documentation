@@ -88,7 +88,7 @@
    | 例：
    | 「拘束解放波」记述的是『选择自己场上表侧表示存在的1张装备魔法卡才能发动』，不能选择里侧表示的装备卡。
    | 「纳祭之魔」把里侧表示的「电子暗黑火炮」作为装备卡时，这个「电子暗黑火炮」送去墓地的场合，是作为装备卡送去墓地，可以发动③效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9219>`__
-   | 由于盖放的装备魔法卡是非公开情报，即使「铠狱龙-电子暗冥龙」③效果的cost没有要求表侧表示，也不能用盖放的装备魔法卡。\ `17/6/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8461>`__ 「纳祭之魔」的效果把里侧表示的怪兽当作装备卡给自身装备后，由于是公开情报，③效果的cost可以使用这个装备卡。\ `17/6/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12429&keyword=&tag=-1>`__
+   | 由于盖放的卡是非公开情报，即使「铠狱龙-电子暗冥龙」③效果的cost没有要求表侧表示，也不能用盖放的装备魔法卡。\ `17/6/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8461>`__ 不过，「纳祭之魔」等效果把里侧表示的怪兽当作装备卡给自身装备后，双方都能确认这是里侧表示的装备魔法卡（但对方从这个时点起不能确认这张里侧表示的卡的卡名等情报），因此③效果的cost可以使用这个装备卡。\ `17/6/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12429&keyword=&tag=-1>`__
    | 「纳祭之魔」把里侧表示的怪兽作为装备卡时，是盖放的装备魔法卡，「兰卡之虫惑魔」的③效果可以把那个怪兽回到对方手卡，后续效果正常适用。\ `17/7/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20855>`__
    | 「淘气仙星的灯光舞台」②效果可以选择「纳祭之魔」装备的里侧表示的装备卡为对象，结束阶段由于其不能发动，结果送去墓地。\ `17/9/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12473&keyword=&tag=-1>`__
 
