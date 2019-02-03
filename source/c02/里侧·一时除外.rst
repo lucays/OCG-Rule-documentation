@@ -321,7 +321,7 @@
    | 被一时除外的场合，在回到自己场上的时点即使控制权变更效果尚未结束，也立即回到对方场上。
    | 例：
    | 「银河眼光子龙」和因「敌人控制器」的效果被对方夺取控制权的怪兽为对象战斗时，发动自身效果都被除外的场合，战斗阶段结束时那个怪兽回到对方场上时立即回到自己场上。\ `14/3/21 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11474&keyword=&tag=-1>`__
-   | 「虫洞」把因「敌人控制器」的效果被对方夺取控制权的怪兽除外的场合，那个怪兽回到对方场上时立即回到自己场上。\ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8811&keyword=&tag=-1>`__ 
+   | 「虫洞」把因「敌人控制器」的效果被对方夺取控制权的怪兽除外的场合，那个怪兽回到场上时回到自己场上。\ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8811&keyword=&tag=-1>`__ 
    | 上级召唤的「太阳神之翼神龙-球体形」变成里侧表示后，下个回合的结束阶段也要归还控制权。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16155&keyword=&tag=-1>`__
 
 .. attention:: 
