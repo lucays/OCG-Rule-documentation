@@ -416,6 +416,7 @@
 -  | 同时处理没有其他含义。「因为同时处理，所以前段没正常适用时后段也会适用」这种想法\ **完全错误**\ 。
    | 例：
    | 「CNo.103 神葬零娘 暮永」的效果处理时没能造成伤害的场合，不会除外怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13573>`__
+   | 「黑蔷薇龙」的②效果的对象怪兽没有因这个效果变成表侧攻击表示的场合（如已经被「最终突击命令」变成攻击表示了等），攻击力不会变0。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7607&keyword=&tag=-1>`__
    | 以自身为对象发动「十二兽的会局」的①效果，连锁「旋风」把它破坏的场合，由于这个效果没能破坏作为对象的卡，结果不能特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20106>`__
    | 「冰火之魔导书」的效果处理时，没能送去墓地而是除外的场合，不会抽卡。\ `17/7/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20902&keyword=&tag=-1>`__ 选P怪兽结果加入额外卡组没能送去墓地的场合也不会抽卡。\ `17/7/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20866&keyword=&tag=-1>`__
 

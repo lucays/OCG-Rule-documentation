@@ -133,3 +133,27 @@
 
 | 邮件：
 | 「转生炎兽 堇色奇美拉」向「邪神 神之化身」攻击的场合，「邪神 神之化身」的效果在最后再度适用，结果「邪神 神之化身」的攻击力更高。和其他\ :ref:`会反复计算的效果`\ 的优先级仍调整中。
+
+2/9
+
+| 数据库：
+| 「守护神 艾克佐迪亚」可以解放2只「双价体」和1只其他怪兽来上级召唤。\ `19/2/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22458&keyword=&tag=-1>`__
+| 「守护神 艾克佐迪亚」在战斗破坏怪兽的伤害计算后从场上离开时，不会胜利。\ `19/2/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22456&keyword=&tag=-1>`__
+
+.. note:: 战斗破坏特定怪兽的条件，可以参考「幻煌龙的天涡」，通常是在伤害计算时判断是否符合条件，之后在伤害步骤结束时适用。
+
+| 「罪 调整」的②效果在伤害步骤不能发动。\ `19/2/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14373>`__
+| 「罪 领域」的②效果对墓地的「罪」怪兽也适用\ `19/2/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22451&keyword=&tag=-1>`__，对方手卡的也适用。\ `19/2/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22436&keyword=&tag=-1>`__
+| 发动「命运之一枚」时，连锁发动「岔子」的场合，这个效果完全不适用，不从卡组选卡片。\ `19/2/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22433&keyword=&tag=-1>`__
+| 自己魔法·陷阱卡区域有4张，从手卡发动「师徒的牵绊」的场合，由于没有空位盖放魔法·陷阱卡，只特殊召唤就是这个效果处理完毕。\ `19/2/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22444&keyword=&tag=-1>`__
+| 「黑混沌之魔术师·黑混沌极魔导」的①效果适用的回合，即使不受影响的怪兽也不能发动效果。\ `19/2/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22459&keyword=&tag=-1>`__
+
+.. tip:: 看起来压制效果发动的新卡都不影响怪兽了。
+
+| 「王宫的铁壁」的效果适用中，发动「罪 十字」的场合，结束阶段若「王宫的铁壁」的效果仍适用，就不除外，效果仍无效。之后的结束阶段会再适用这个除外的效果。\ `19/2/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22452&keyword=&tag=-1>`__
+
+.. note:: 所有仅记述『结束阶段...』而不是『这个回合的结束阶段...』的效果，都是在每个结束阶段都要处理。
+
+| 「方界缘起」的②效果适用的对象怪兽和对方怪兽同归于尽的场合，也会造成伤害。\ `19/2/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22434&keyword=&tag=-1>`__
+
+.. note:: 「E·HERO 新星主」等因为是自身持有这种效果，同归于尽导致自身从场上离开导致在伤害步骤结束时这些效果不能发动·适用。
