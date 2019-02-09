@@ -136,6 +136,9 @@
 
 2/9
 
+| wiki:
+| 因卡片效果变成暗属性·恶魔族的怪兽被「守护神 艾克佐迪亚」战斗破坏的场合，也会胜利。\ `19/2/9 <http://yugioh-wiki.net/index.php?%A1%D4%BC%E9%B8%EE%BF%C0%A5%A8%A5%AF%A5%BE%A5%C7%A5%A3%A5%A2%A1%D5>`__
+
 | 数据库：
 | 「守护神 艾克佐迪亚」可以解放2只「双价体」和1只其他怪兽来上级召唤。\ `19/2/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22458&keyword=&tag=-1>`__
 | 「守护神 艾克佐迪亚」在战斗破坏怪兽的伤害计算后从场上离开时，不会胜利。\ `19/2/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22456&keyword=&tag=-1>`__
