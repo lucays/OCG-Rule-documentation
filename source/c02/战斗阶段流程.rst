@@ -277,7 +277,7 @@
    | 「平行选择」\ `15/9/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8997>`__ 在伤害步骤内也能发动。
    | 「再开的大朵蔷薇」\ `14/10/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8792>`__ 「新宇侠的逆转」\ `15/7/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7163>`__ 「除草兽」\ `18/2/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=9037>`__ 在伤害步骤内不能发动。
 
-- 2速以上：必发效果/反击陷阱/把\ **发动**\ 无效的怪兽·陷阱效果/影响怪兽攻击力·守备力的效果
+- 2速以上：必发效果/反击陷阱/把\ **发动**\ 无效的效果/影响怪兽攻击力·守备力的效果
 
 .. tip::
 
@@ -285,7 +285,9 @@
    | 「屋敷童」这样，记述『那个发动无效』的效果，可以在伤害步骤内发动。\ `18/1/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13587>`__
    | 此外，文本判断时，『发动的效果无效』是把效果无效，『效果的发动无效』是把发动无效。
 
-.. attention:: 特别地，「No.59 背反之料理人」的②效果不能在伤害步骤发动。\ `16/5/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12548>`__
+.. attention::
+   | 特别地，「No.59 背反之料理人」的②效果不能在伤害步骤发动。\ `16/5/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12548>`__
+   | 「虹之古代都市」的『3张以上』效果不能在伤害步骤发动。\ `17/10/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7079>`__
 
 | 例：
 | 「辉神鸟 贝努鸟」的②效果\ `17/10/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12395>`__ 「黯黑之魔王 迪亚波罗斯」的①效果\ `18/3/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13683>`__ 在伤害步骤内不能发动。
@@ -297,7 +299,7 @@
 | 「M·HERO 暗爪」的②效果\ `15/7/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11313>`__ 「小丑与锁鸟」的效果\ `17/12/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=9279>`__ 在伤害步骤内不能发动。
 | 「文具电子人 001」的②效果\ `14/4/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11254>`__ 「剑巫之圣像骑士」的③效果\ `18/7/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13933>`__ 在伤害步骤内不能发动。
 | 「机皇帝 神陆∞」的效果\ `16/4/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=9265>`__ 「废铁翼龙」的②效果\ `18/11/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14199>`__ 在伤害步骤内不能发动。
-| 「我身作盾」\ `17/2/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5675>`__ 在伤害步骤内不能发动，「炸弹防御」\ `18/2/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8842>`__ 和「幻变骚灵协议」的②效果\ `17/7/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13287>`__ 在伤害步骤内可以发动。
+| 「我身作盾」\ `19/2/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5675>`__ 「炸弹防御」\ `18/2/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8842>`__ 和「幻变骚灵协议」的②效果\ `17/7/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13287>`__ 在伤害步骤内可以发动。
 
 -  「禁忌的圣杯」\ `17/12/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8213>`__ 等，影响怪兽攻击力·守备力的\ :ref:`快速效果`\ 如果没有特别说明，只能在\ **伤害步骤开始时或伤害计算前**\ 发动。
 
