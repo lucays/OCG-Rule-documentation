@@ -228,7 +228,7 @@
 
 | 数据库：
 | 1组连锁上发动2张「咒眼」魔法·陷阱卡，「太阴之咒眼」的②效果会组成连锁发动2次。\ `19/2/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22508&keyword=&tag=-1>`__
-| 「大宇宙」的效果适用中，「魔女术士」永续魔法仍能作为「魔女术士」丢弃手卡魔法卡cost的代替，结果被除外。\ `19/2/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22505&keyword=&tag=-1>`__
+| 「大宇宙」的效果适用中，「魔女术」永续魔法仍能作为「魔女术工匠」怪兽效果的丢弃手卡魔法卡cost的代替，结果被除外。\ `19/2/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22505&keyword=&tag=-1>`__
 | 「Sin 领域」的效果适用中，场上存在2只「罪 平行齿轮」的状况，也能从手卡特殊召唤「罪 真红眼黑龙」。特殊召唤后「罪 真红眼黑龙」的效果适用，选1只「罪 平行齿轮」破坏。\ `19/2/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22507&keyword=&tag=-1>`__
 
 2/27
@@ -257,3 +257,17 @@
 
 | wiki:
 | 对方把怪兽召唤·特殊召唤成功时，自己发动「暴君的暴力」解放自己怪兽使自己场上没有怪兽存在的场合，是否能连锁发动「PSY 骨架回路·α」的效果，调整中。\ `19/3/3 <yugioh-wiki.net/index.php?%A1%D4%A3%D0%A3%D3%A3%D9%A5%D5%A5%EC%A1%BC%A5%E0%A5%AE%A5%A2%A1%A6%A6%C1%A1%D5>`__
+
+3/4
+
+| 邮件：
+| 「虚无空间」的效果适用中，不能发动「长世国王恶魔」的②效果。
+| 「小丑与锁鸟」的效果适用中，可以发动「亡命左轮手枪龙」的②效果，处理时要抽卡的场合不适用，不抽卡。不能发动「森罗的仙树 凤凰木」的翻开卡组效果。
+
+| 数据库：
+| 「魔女术的合作」效果处理时对象怪兽变成里侧表示的场合，这个效果正常适用，那个怪兽翻开后可以作2次攻击，直到伤害步骤结束时对方不能发动魔法·陷阱卡。\ `19/3/4 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16075&keyword=&tag=-1>`__
+| 「咒眼之王 泽拉凯尔」的③效果处理时不能选效果已经被无效的怪兽。\ `19/3/4 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=25&keyword=&tag=-1>`__
+| 「死配之咒眼」的效果得到对方怪兽的控制权后，对方以「死配之咒眼」为对象发动「无限起动要塞 百万吨百臂狂风」的②效果的场合，那个怪兽的控制权归还。这个场合，只要自己魔法·陷阱区域有「太阴之咒眼」存在，那只怪兽仍当作「咒眼」怪兽使用。\ `19/3/4 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9208&keyword=&tag=-1>`__
+| 「融合识别」的效果适用后，发动「奇迹接触」的场合，由于「奇迹接触」返回卡组的怪兽不当作融合素材，这个效果把那个怪兽返回卡组的场合不能适用「融合识别」的效果当作其他卡名使用。\ `19/3/4 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17047&keyword=&tag=-1>`__
+
+.. note:: 不需要「融合」的融合怪兽，以「E·HERO 水波新宇侠」为例，可以把适用「融合识别」的效果的「新宇宙侠·水波海豚」当作「新宇宙侠·海洋海豚」作为融合素材回到卡组来特殊召唤。只是「奇迹接触」这张卡比较特别，和「融合咒印生物」类似，虽然要用到融合怪兽决定的融合素材，但是这些怪兽实际上不当作融合素材处理。
