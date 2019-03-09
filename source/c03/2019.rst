@@ -282,7 +282,7 @@
 
 | 数据库：
 | 「魔法都市 恩底弥翁」和「魔法都市的实验设施」各放置3个魔力指示物的场合，可以把这合计6个魔力指示物取除来特殊召唤「神圣魔导王 恩底弥翁」。\ `19/3/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22515&keyword=&tag=-1>`__
-| 放置了魔力指示物的「创圣魔导王 恩底弥翁」被战斗破坏的伤害计算后，「魔法都市的实验设施」取除其全部魔力指示物发动效果的场合，伤害步骤结束时「创圣魔导王 恩底弥翁」不满足③效果的发动条件，不能发动。\ `19/3/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22522&keyword=&tag=-1>`__
+| 放置了魔力指示物的「创圣魔导王 恩底弥翁」被战斗破坏的伤害计算后，「魔法都市的实验设施」取除其全部魔力指示物发动效果的场合，伤害步骤结束时「创圣魔导王 恩底弥翁」③效果不满足发动条件，不能发动。\ `19/3/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22522&keyword=&tag=-1>`__
 | 怪兽区域的「创圣魔导王 恩底弥翁」①效果发动后，处理时选「魔导耀士 破晓者」回到手卡的场合，由于结果回到额外卡组，那次发动不会无效，不会破坏，也不会给自身放置魔力指示物。\ `19/3/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22525&keyword=&tag=-1>`__
 | 怪兽区域的「创圣魔导王 恩底弥翁」①效果把墓地魔法·陷阱效果的发动无效的场合，由于墓地的卡片不能再破坏，之后不会给自身放置魔力指示物。\ `19/3/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22524&keyword=&tag=-1>`__
 | 自己墓地存在2张「魔力掌握」，发动「魔力统辖」的场合，给自己场上所有能放置魔力指示物的卡合计尽可能放置最多3个魔力指示物。例如可以给「魔法都市 恩底弥翁」放置3个魔力指示物，也可以分配给「魔法都市 恩底弥翁」2个，剩下1个给「魔法都市的实验设施」放置。\ `19/3/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22513&keyword=&tag=-1>`__
