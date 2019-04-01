@@ -114,7 +114,7 @@
    | 另外，在这个基础上，基本上效果无效类会先适用。
    | 例：
    | 对方场上存在「破戒蛮龙-破坏龙」「龙破坏之剑士-破坏剑士」，在对方回合发动「奇妙XYZ」把「DDD 双晓王 末法神」攻击表示X召唤时，先把对方场上的卡无效，不会变成守备表示。
-   | 对方场上存在2只「D·HERO 血魔 D」，发动「精神操作」得到1只控制权时，由于另1只的效果已经适用了，后得到的这只被无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9049>`__
+   | 对方场上存在2只「D-HERO 血魔 D」，发动「精神操作」得到1只控制权时，由于另1只的效果已经适用了，后得到的这只被无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9049>`__
    | 「魔兽犀战士」存在时，特殊召唤「彼岸」怪兽的场合，不会被自身效果破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9054>`__
    | 「技能抽取」适用中，召唤「隐藏的机壳杀手 物质主义」的场合，效果被无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13395>`__
 
