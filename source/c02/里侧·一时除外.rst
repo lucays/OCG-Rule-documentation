@@ -108,13 +108,22 @@
    | 例：
    | 「真龙剑皇 卓辉星·拼图」里侧表示上级召唤的场合，只能解放怪兽，反转不丢失情报，反转后①效果仍适用。\ `17/1/14 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20548&keyword=&tag=-1>`__
 
-| **用何效果特殊召唤的情报**\ 也在变成里侧或被一时除外后丢失。
+| **用何效果·方法特殊召唤的情报**\ 也在变成里侧后丢失。
+| 被一时除外后难以判断。涉及等级·攻守等变化的效果不适用。
 | 例：
+| 「凭依装着」怪兽用自身效果特殊召唤后，变成里侧表示或被一时除外的场合，得到的效果失去，不再适用。
+| 用自身方法特殊召唤的「方界兽 利刃之迦楼迪亚」被一时除外后，攻击力不会上升。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19093>`__
 | 「简易融合」特殊召唤的融合怪兽在变成里侧或被一时除外后不再是用「简易融合」的效果特殊召唤的怪兽，可以攻击，结束阶段时不会破坏。\ `16/11/17 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6499&keyword=&tag=-1>`__
 | 像「消战者」这样，从场上离开时除外的效果，被一时除外的效果适用的时点，由于也是从场上离开，先适用自身除外的效果，由于一时除外的效果实质上没能适用，结果不会再返回场上。\ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9456&keyword=&tag=-1>`__
 | 而变成里侧表示的「消战者」还在场上，因此由于情报丢失，那之后「消战者」从场上离开时不会被除外。\ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9455&keyword=&tag=-1>`__
+| 「疾行机人 OMK口香糖」发动①效果特殊召唤的战斗阶段内，被「银河眼光子龙」等一时除外再回到场上的场合，情报不丢失，②效果仍可以发动。\ `17/3/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8988&keyword=&tag=-1>`__
+| 「D-HERO 教义人」用自身召唤手续特殊召唤后，再被一时除外的场合，效果仍会正常发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7751&keyword=&tag=-1>`__ 
 
-.. attention:: 特别地，「疾行机人 OMK口香糖」发动①效果特殊召唤的战斗阶段内，被「银河眼光子龙」等一时除外再回到场上的场合，情报不丢失，②效果仍可以发动。\ `17/3/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8988&keyword=&tag=-1>`__
+-  | 用何效果·方法\ **召唤**\ 的情报在变成里侧表示后丢失。
+   | 被一时除外的场合，难以判断。涉及等级·攻守等变化的效果不适用。
+   | 例：
+   | 不用解放召唤的「迷雾恶魔」结束阶段仍然发动效果破坏，但「战栗之凶皇-始祖恶魔」攻守复原，不会破坏。
+   | 「轻盈水星」用②效果召唤后，变成里侧表示的场合③效果不再适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19376&keyword=&tag=-1>`__ 被一时除外的场合，仍然适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6211&keyword=&tag=-1>`__
 
 | 『这个回合召唤·特殊召唤』的情报不会因变成里侧·被一时除外而丢失。
 | 例：
