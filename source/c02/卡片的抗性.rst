@@ -128,10 +128,9 @@
 .. note:: 现在类似效果的新卡裁定都倾向不影响怪兽了。但以前的卡目前只有「SNo.0 希望之异热同心」改了裁定。
 
 -  「冤枉」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17508>`__ 「终焉的指名者」\ `17/6/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9546&keyword=&tag=-1>`__ 这样的描述也不影响怪兽，即使不受影响，也不能发动效果。
--  「混沌帝龙 -终焉的使者-」等『...发动的回合，自己不能发动效果』是\ :ref:`誓约`\ ，不是效果。不受影响也不能发动。
 -  「天魔大帝」给其他卡附加不让连锁能力的文本不影响那些卡\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18246&keyword=&tag=-1>`__\ ，并且这个状况对方不受影响的怪兽仍然不能连锁发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18245&keyword=&tag=-1>`__
 
--  | 『这个效果发动的回合...』不是效果，这种描述处理时，也会对不受效果影响的怪兽适用。
+-  | 「混沌帝龙 -终焉的使者-」等『这个效果/这张卡发动的回合...』是\ :ref:`誓约`\ ，不是效果，这种描述处理时，也会对不受效果影响的怪兽适用。
    | 例：
    | 「绝对魔法禁止区域」的效果适用中，以「真红眼黑龙」为对象发动「黑炎弹」让对方受到伤害的场合，「真红眼黑龙」也不能在这个回合攻击。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11859>`__
    | 「空气解密风暴」的效果发动后，自己场上其他不受魔法效果影响的怪兽也不能在这个回合攻击。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20878>`__
