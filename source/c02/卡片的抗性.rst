@@ -59,7 +59,7 @@
 -  | 类似的，「技能禁锢」「EM小判龙」等这样的效果，影响的不是作为对象的怪兽。
    | 例：
    | 「EM小判龙」的效果处理时，对象怪兽不受魔法卡的效果影响的场合仍正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12270>`__\ ，实际上影响的是进行过战斗的对方怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12269>`__
-   | 以不受陷阱卡的效果影响的怪兽为对象发动技能，仍会正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12980>`__ 其他不受陷阱卡的效果影响的怪兽以这个怪兽为对象发动效果，结果不会无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6161>`__
+   | 以不受陷阱卡的效果影响的怪兽为对象发动「技能禁锢」，仍会正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12980>`__ 其他不受陷阱卡的效果影响的怪兽以这个怪兽为对象发动效果，结果不会无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6161>`__
 
 .. _不受影响:
 
