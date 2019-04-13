@@ -478,3 +478,44 @@
 
 | wiki:
 | 「胜利蛇XX03」不在场上表侧表示存在时，其特殊召唤的衍生物是被效果破坏，可以发动「溢出龙」的效果。场上存在「幻兽机 协和金翅鸟」时，这些衍生物不会被效果破坏，但仍然消灭，这个场合不是被效果破坏。\ `19/4/6 <http://yugioh-wiki.net/index.php?%A1%D4%A5%D3%A5%AF%A5%C8%A5%EA%A1%BC%A1%A6%A5%D0%A5%A4%A5%D1%A1%BC%20%A3%D8%A3%D8%A3%B0%A3%B3%A1%D5#faq4>`__
+
+4/8
+
+| wiki:
+| 解放连接怪兽上级召唤的「守护神 艾克佐迪亚」的攻击力·守备力都是0。\ `19/4/8 <http://yugioh-wiki.net/index.php?%A1%D4%BC%E9%B8%EE%BF%C0%A5%A8%A5%AF%A5%BE%A5%C7%A5%A3%A5%A2%A1%D5#faq>`__
+
+| 邮件：
+| 对方场上存在「皇帝斗技场」和1只怪兽，我方场上没有怪兽的场合，我方可以连锁发动2张「活死人的呼声」，连锁2的效果处理特殊召唤成功后，连锁1的效果不适用。
+
+4/12
+
+| 邮件：
+| 2张「齿车街」也不能让等级7以上的怪兽不用解放上级召唤。2张「始祖神鸟 斯莫夫」也不行。但「解放朱顶红」和「齿车街」/「始祖神鸟 斯莫夫」/「入魔双蛇杖使」的效果可以都适用让等级7以上的怪兽不用解放上级召唤。
+
+4/12
+
+| 数据库：
+| 「遮攻幕帘」在多张卡同时被破坏时适用效果的场合只能代替选其中1张不被破坏，其他的仍然被破坏。\ `19/4/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14513>`__
+| 卡片被破坏时，「遮攻幕帘」和「复活的福音」这些可选的代替破坏效果不能都适用。例如，回合玩家先决定是否要使用「复活的福音」，不使用的场合，可以适用非回合玩家的「遮攻幕帘」的效果。\ `19/4/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22578>`__
+| 「神鸟的灵峰 厄尔布尔士山」的①效果，是在每次把鸟兽族怪兽召唤时都可以适用的效果。1回合1次的通常召唤使用这个效果减少1只解放后，使用这张卡②效果的场合仍可以适用①效果减少1只解放。\ `19/4/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22570&keyword=&tag=-1>`__
+| 在1个连锁上，1只「召命之神弓-阿波罗萨」③效果只能发动1次。（如果有2只，1个连锁上可以各发动1次）\ `19/4/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22594&keyword=&tag=-1>`__
+| 「召命之神弓-阿波罗萨」在自己场上只能存在1只，不能把这个作为连接素材送去墓地连接召唤第2只「召命之神弓-阿波罗萨」。（类似不能解放「坏兽」怪兽特殊召唤「坏兽」怪兽）\ `19/4/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22595&keyword=&tag=-1>`__
+| 「天邪鬼的诅咒」的效果适用中，「召命之神弓-阿波罗萨」的③效果处理时，会上升攻击力，结果后续无效不适用。回合结束后，回到下降那些攻击力的状态。\ `19/4/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22562&keyword=&tag=-1>`__
+| 「万用电表兵」的『和这张卡成为连接状态的连接怪兽全部破坏』『破坏的连接怪兽的所连接区的怪兽也全部破坏』都只能破坏1只怪兽的场合，不能连锁发动「反大革命」。\ `19/4/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22599&keyword=&tag=-1>`__
+| 用自身②效果特殊召唤的「德林加凶枪龙」从场上离开时会表侧表示除外，不能作为「极超辰醒」发动的cost。\ `19/4/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22582&keyword=&tag=-1>`__ 另外，也不能用衍生物。\ `19/4/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22591&keyword=&tag=-1>`__
+| 「魂之造型家」不能解放攻击力或守备力是？的怪兽。\ `19/4/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22598&keyword=&tag=-1>`__ 也不能解放连接怪兽。\ `19/4/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14478>`__ 也不能把攻击力或守备力是？的怪兽加入手卡。\ `19/4/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22597&keyword=&tag=-1>`__
+| 在1个连锁上多次用自己的效果让场上的卡回到手卡的场合，怪兽区域「魔妖仙兽 独眼群主」的②效果会自身组成连锁发动多次。\ `19/4/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22573&keyword=&tag=-1>`__
+| 「神鸟的烈战」和多个攻击力相同且最高的鸟兽族怪兽在自己场上存在时，对方可以任意选择攻击力最高的其中1只为攻击对象或效果对象。\ `19/4/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22555&keyword=&tag=-1>`__
+| P区域的「妖仙兽」也是怪兽卡，也计入「妖仙兽的风祀」的效果数量，这个效果处理时，只要有1张回到手卡，就可以抽卡。\ `19/4/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22592&keyword=&tag=-1>`__
+
+4/13
+
+| wiki:
+| 「万用电表兵」的『和这张卡成为连接状态的连接怪兽全部破坏』『破坏的连接怪兽的所连接区的怪兽也全部破坏』以及重复处理导致的破坏都不是同时进行。\ `19/4/13 <http://yugioh-wiki.net/index.php?%A1%D4%A5%DC%A5%EB%A5%C6%A5%B9%A5%BF%A1%BC%A1%D5#faq>`__
+
+| 邮件：
+| 「哥布林德伯格」的效果连锁，发动「强制脱出装置」使其回到手卡，处理时把「E·HERO 天空侠」特殊召唤的场合其效果是否还会错过时点，调整中。
+| 「废铁稻草人」发动时连锁用「旋风」破坏的场合，是否还会导致「翻倍机会」错过时点，调整中。
+| 「邪龙星 睚眦」的③效果发动时，连锁发动「虚拟世界」让「不死世界」发动，使其变成不死族的场合，这个效果能否特殊召唤「龙落亲」，调整中。
+
+.. note:: 18/11/28邮件要求发动时必须是幻龙族，这个调整说明处理时是否仍然得是幻龙族还在调整中。
