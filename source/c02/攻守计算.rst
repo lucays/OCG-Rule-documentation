@@ -199,7 +199,6 @@
 
 -  | 如果只适用1次，并且不是原本攻击力·守备力变成·交换的效果，由于计算在原本攻击力·守备力上进行，这些效果就会被抹消，不会再计算。只在这个场合固定住这个数值。
    | 例：
-   | 「来自地狱的使者」的效果只在召唤时适用1次，被「收缩」后攻击力是1300/2=650，此时攻击力被「收缩」固定住，再被无效也维持650。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8410>`__
    | 「娱乐法师 帽子戏法师」的③效果只在放置3个Em指示物时适用1次，之后即使取除指示物也保持3300。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15384&keyword=&tag=-1>`__ 被「收缩」后不影响守备力，攻击力是550。「收缩」不适用后攻击力回到1100，守备力仍是3300。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15381&keyword=&tag=-1>`__
    | 「黑羽-疾风之盖尔」的效果对怪兽适用后，再对那个怪兽发动「收缩」的场合，那个怪兽的攻击力是原本攻击力减半的数值。「收缩」不适用后，回到卡片记载的原本攻击力数值，守备力不恢复。以「青眼白龙」为例，攻守变化过程是3000/2500→1500/1250→1500/1250→3000/1250。\ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7944&keyword=&tag=-1>`__
    | 「闪刀姬-大黄蜂浮游单元」特殊召唤的攻击力·守备力都是1500的「闪刀姬衍生物」，被「收缩」后攻击力变成0，守备力维持1500。「收缩」不再适用后攻击力也维持0。\ `18/2/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21762&keyword=&tag=-1>`__
