@@ -634,3 +634,8 @@
 | 「物理分身」和「克隆复制」特殊召唤的衍生物，其原本攻击力·守备力是？，特殊召唤时的攻击力·守备力不是原本攻击力·守备力。\ `19/4/26 <http://yugioh-wiki.net/index.php?%B8%B5%A1%B9%A4%CE%B9%B6%B7%E2%CE%CF%A1%CA%BC%E9%C8%F7%CE%CF%A1%CB#faq>`__ 并且，特殊召唤时的等级也不是原本等级。\ `19/4/26 <http://yugioh-wiki.net/index.php?%A1%D4%A5%B0%A5%EA%A1%BC%A5%C7%A5%A3%A1%BC%A1%A6%A5%F4%A5%A7%A5%CE%A5%E0%A1%A6%A5%D5%A5%E5%A1%BC%A5%B8%A5%E7%A5%F3%A1%A6%A5%C9%A5%E9%A5%B4%A5%F3%A1%D5#faq>`__
 
 .. attention:: 实际上数据库早就记述了它们特殊召唤后的攻击力·守备力是原本攻击力·守备力\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6408&keyword=&tag=-1>`__ 。但种族·属性又不当作原本\ `18/4/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13016>`__ ，比较矛盾，还需要确认。
+
+4/27
+
+| wiki:
+| 自己场上用「魔界的警逻课 死亡警察」的效果放置了1个警逻指示物的「遮攻幕帘」和另1张魔法·陷阱卡被「鹰身女妖的羽毛扫」等效果同时破坏时，不能适用「遮攻幕帘」的效果代替那张魔法·陷阱卡的破坏，结果「遮攻幕帘」的警逻指示物取除，留在场上，那张魔法·陷阱卡被破坏。\ `19/4/27 <http://yugioh-wiki.net/index.php?%BF%C8%C2%E5%A4%EF%A4%EA#faq>`__
