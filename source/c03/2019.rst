@@ -631,7 +631,7 @@
 | 自己「夜雾的狙击手」的效果宣言的怪兽在对方场上里侧表示存在，被自己的效果反转的场合是否除外，调整中。如果在自己场上里侧表示存在，被对方的效果反转的场合是否除外，也调整中。\ `19/4/26 <http://yugioh-wiki.net/index.php?%A1%D4%CC%EB%CC%B8%A4%CE%A5%B9%A5%CA%A5%A4%A5%D1%A1%BC%A1%D5#faq>`__
 
 | 裁定变更：
-| 「物理分身」和「克隆复制」特殊召唤的衍生物，其原本攻击力·守备力是？，特殊召唤时的攻击力·守备力不是原本攻击力·守备力。\ `19/4/26 <http://yugioh-wiki.net/index.php?%B8%B5%A1%B9%A4%CE%B9%B6%B7%E2%CE%CF%A1%CA%BC%E9%C8%F7%CE%CF%A1%CB#faq>`__ 并且，特殊召唤时的等级也不是原本等级。\ `19/4/26 <http://yugioh-wiki.net/index.php?%A1%D4%A5%B0%A5%EA%A1%BC%A5%C7%A5%A3%A1%BC%A1%A6%A5%F4%A5%A7%A5%CE%A5%E0%A1%A6%A5%D5%A5%E5%A1%BC%A5%B8%A5%E7%A5%F3%A1%A6%A5%C9%A5%E9%A5%B4%A5%F3%A1%D5#faq>`__
+| \ :strike:`「物理分身」和「克隆复制」特殊召唤的衍生物，其原本攻击力·守备力是？，特殊召唤时的攻击力·守备力不是原本攻击力·守备力。`\ 并且，特殊召唤时的等级也不是原本等级。\ `19/4/26 <http://yugioh-wiki.net/index.php?%A1%D4%A5%B0%A5%EA%A1%BC%A5%C7%A5%A3%A1%BC%A1%A6%A5%F4%A5%A7%A5%CE%A5%E0%A1%A6%A5%D5%A5%E5%A1%BC%A5%B8%A5%E7%A5%F3%A1%A6%A5%C9%A5%E9%A5%B4%A5%F3%A1%D5#faq>`__
 
 .. attention:: 实际上数据库早就记述了它们特殊召唤后的攻击力·守备力是原本攻击力·守备力\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6408&keyword=&tag=-1>`__ 。但种族·属性又不当作原本\ `18/4/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13016>`__ ，比较矛盾，还需要确认。
 
@@ -681,3 +681,8 @@
 
 | 裁定变更：
 | 「长世国王恶魔」的②效果发动后，结果适用了加入手卡的效果的场合，这个回合可以发动「强欲而谦虚之壶」。（仍需再确认）
+
+5/2
+
+| 邮件：
+| 「物理分身」和「克隆复制」特殊召唤的衍生物，受到「No.107 银河眼时空龙」的效果影响时，攻击力变成原本数值的结果如何，再次调整中。
