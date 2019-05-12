@@ -12,6 +12,7 @@ Welcome to ocg-rule's documentation!
 
 | 游戏王OCG规则繁杂，中文资料大都比较陈旧，\ `新大师完全规则书 <https://legacy.gitbook.com/book/warsier/new_master_rule/details>`__\ 部分内容仍不够详细，因此我整理出了这个网站，方便查阅。
 | 由于内容较多，全部记住几乎是不可能的，我也记不住。只要碰到问题时知道在哪或要搜什么就行了。
+| 这个页面有本站的使用方法和注意事项，我的\ 联系方式_\ ，本站详细\ 目录_\ 和\ 部分文章介绍_\ ，请阅读了解后再查看其他内容，不要直接跳过。
 | 对某些内容有疑问、发现内容没有及时更新或者有错误，都可以通过下方的\ 联系方式_\ 联系我。
 
 | 本站\ **支持全站搜索**\ ，并且\ **支持电子书下载**\ 。
@@ -48,7 +49,7 @@ Welcome to ocg-rule's documentation!
 其他贡献者
 ===========
 
-感谢下列玩家给这些文章提供了邮件调整，或纠正了部分错误（或两者都有）：
+感谢下列玩家给这些文章提供了部分邮件调整，或纠正了一些不规范或错误的地方（或两者都有）：
 
 - 小红帽
 - 罗伽
@@ -76,14 +77,6 @@ Welcome to ocg-rule's documentation!
 | 也可以加入qq群：768881279
 | 或发邮件至：\ lucahhai@gmail.com\ /\ lucahhai@foxmail.com
 
-源代码
-=======
-
-| 这些文章用\ `restructureText <https://zh-sphinx-doc.readthedocs.io/en/latest/rest.html>`__\ 写就。
-| 所有内容的代码见：\ `lucays/ocg-rule <https://github.com/lucays/ocg-rule>`__\ 。
-| 网站界面主题的代码见：\ `lucays/sphinx-typlog-theme <https://github.com/lucays/sphinx-typlog-theme>`__\ 。
-| readthedocs托管文档的步骤参考\ `使用ReadtheDocs托管文档 <https://www.xncoding.com/2017/01/22/fullstack/readthedoc.html>`__\ 和\ `sphinx文档 <http://www.sphinx-doc.org/en/master/>`__\ 。
-
 目录
 =======
 
@@ -93,3 +86,41 @@ Welcome to ocg-rule's documentation!
 
    新大师规则变更点
    chapters/*
+
+源代码
+=======
+
+| 这些文章用\ `restructureText <https://zh-sphinx-doc.readthedocs.io/en/latest/rest.html>`__\ 写就。
+| 所有内容的代码见：\ `lucays/ocg-rule <https://github.com/lucays/ocg-rule>`__\ 。
+| 网站界面主题的代码见：\ `lucays/sphinx-typlog-theme <https://github.com/lucays/sphinx-typlog-theme>`__\ 。
+| readthedocs托管文档的步骤参考\ `使用ReadtheDocs托管文档 <https://www.xncoding.com/2017/01/22/fullstack/readthedoc.html>`__\ 和\ `sphinx文档 <http://www.sphinx-doc.org/en/master/>`__\ 。
+
+捐赠
+=======
+
+| 如果想支持我，可以扫以下二维码。
+| 请注意：
+
+-  捐赠不是必须的，并且即使捐赠了也不会得到特殊的服务。
+-  收到捐赠的只有我，如果要感谢其他玩家，请和他们联系（例如，在\ 联系方式_\ 中给出的qq群可以找到他们）。
+
+支付宝领红包：
+
+.. figure:: .static/donate/bouns.jpg
+   :width: 225px
+   :height: 260px
+   :align: left
+
+支付宝：
+
+.. figure:: .static/donate/alipay.jpg
+   :width: 225px
+   :height: 221px
+   :align: center
+
+微信：
+
+.. figure:: .static/donate/wechat.jpg
+   :width: 225px
+   :height: 223px
+   :align: right
