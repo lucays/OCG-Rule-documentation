@@ -352,7 +352,7 @@
 3/16
 
 | 邮件：
-| 场上攻击力比「刚鬼 大巨人食人魔」高但原本攻击力是0的怪兽（「破坏龙 甘多拉-烈光闪」等）所发动的效果，只要处理时不在场上表侧表示存在，「刚鬼 大巨人食人魔」就不受影响。原本攻击力是？的怪兽（「邪神 毁灭者」「超天新龙 异色眼革命龙」等）仍调整中。
+| 场上攻击力比「刚鬼 大巨人食人魔」高但原本攻击力是0的怪兽（「破坏龙 甘多拉-烈光闪」等）所发动的效果，只要处理时不在场上表侧表示存在，「刚鬼 大巨人食人魔」就不受影响。:strike:`原本攻击力是？的怪兽（「邪神 抹灭者」「超天新龙 异色眼革命龙」等）仍调整中。`
 
 3/17
 
@@ -768,3 +768,20 @@
 | 邮件：
 | 解放陷阱上级召唤的「真龙剑皇 卓辉星P」不受怪兽区域「苦纹样的土像」的③效果影响。
 | 解放怪兽上级召唤的「真龙剑皇 卓辉星P」不会被「灰篮鹰」的②效果夺取控制权或破坏。
+| 解放魔法上级召唤的「真龙剑皇 卓辉星P」仍会被「装甲电子翼」的效果破坏。
+| 「刚鬼 大巨人食人魔」会被墓地攻击力？的「邪神 抹灭者」发动的③效果破坏。
+
+5/18
+
+| 数据库：
+| 「TG 齿轮僵尸」可以取攻击力低于1000的「TG 钻头鱼」为对象发动①效果，特殊召唤后攻击力下降1000的结果是0（实际再下降900的状态）。\ `19/5/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22646&keyword=&tag=-1>`__
+| 「No.26 次元孔路 绕道章鱼」的①效果适用后，用怪兽攻击了的场合，不受影响的怪兽也不能再攻击。（『只能用1只怪兽攻击』不影响怪兽）此外，用不受影响的怪兽攻击的场合，那次攻击不会变成直接攻击。\ `19/5/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22641&keyword=&tag=-1>`__
+| 「No.26 次元孔路 绕道章鱼」的①效果适用后，不能直接攻击的「让步小快马」不能攻击。\ `19/5/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22642&keyword=&tag=-1>`__
+| 「命之水」特殊召唤的怪兽从场上离开后，就不是『这个效果特殊召唤的怪兽』，不能再发动效果。\ `19/5/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22662&keyword=&tag=-1>`__
+| 「命之水」特殊召唤的怪兽变成里侧表示的场合，就不是『这个效果特殊召唤的怪兽』，之后反转也不能再发动效果。\ `19/5/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22661&keyword=&tag=-1>`__
+| 「命之水」的效果处理时对象怪兽不在墓地存在的场合，不会特殊召唤怪兽，这个回合不能发动怪兽效果。\ `19/5/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22660&keyword=&tag=-1>`__
+| 「No.60 刻不知之杜加雷斯」的特殊召唤效果处理时，对象怪兽不在墓地存在的场合，不会特殊召唤怪兽，仍然跳过下个自己的主要阶段1。\ `19/5/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22640&keyword=&tag=-1>`__
+| 「No.76 谐调光师 渐变天乐斗士」的②效果处理时，对象怪兽不在墓地存在的场合，仍然取除X素材，不会特殊召唤怪兽。\ `19/5/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22639&keyword=&tag=-1>`__
+| 「占卜魔女 小光」的②效果可以取衍生物为对象发动，这个场合衍生物消灭，由于没有送去墓地，不会特殊召唤怪兽。\ `19/5/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22650&keyword=&tag=-1>`__
+| 「V·HERO 微光人」被「球体时限炸弹」的效果破坏，受到伤害的场合，由于是同时处理，不能发动自身的①效果。\ `19/5/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22657&keyword=&tag=-1>`__
+| 「V·HERO 微光人」被「破坏轮」的效果破坏，那之后受到伤害的场合，可以发动自身的①效果。\ `19/5/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22656&keyword=&tag=-1>`__
