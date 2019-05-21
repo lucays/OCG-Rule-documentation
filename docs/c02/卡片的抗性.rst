@@ -124,9 +124,9 @@
 
 | 「超融合」「狱火机·撒旦」等，记述『\ **不能对应这个效果的发动**\ 』这样不让连锁的文本时，不是效果。不受影响的怪兽也不能对其连锁。「天魔大帝」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18246&keyword=&tag=-1>`__ 这样赋予不能被连锁特性的也一样。
 | 「闪光No.39 希望皇 霍普·电光皇」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19270>`__ 「威光魔人」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9280>`__ 「召唤兽 卡利古拉」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8660&keyword=&tag=-1>`__ 这样，『对方不能把效果发动』『卡的效果不能发动』基本上是卡片效果产生的压制，不受效果影响的怪兽可以正常发动效果。
-| 特别地，「冲浪检察官」\ `17/10/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9917&keyword=&tag=-1>`__ 「No.67 平行骰子天堂锤手」\ `18/5/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9817>`__ 「复仇死者·战鬼」\ `18/9/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22115>`__ 「SNo.0 希望之异热同心」\ `18/6/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11069&keyword=&tag=-1>`__ 「E·HERO 秩序新宇侠」\ `18/10/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22181&keyword=&tag=-1>`__ 「转生炎兽 蜃景雄马」\ `18/12/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22310>`__ 「魔钟洞」\ `19/1/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14314>`__ 「黑混沌之魔术师·黑混沌极魔导」\ `19/2/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22459&keyword=&tag=-1>`__ 「天岩户」\ `19/4/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21258&keyword=&tag=-1>`__ 等的效果不影响怪兽。这些效果适用后，不受影响的怪兽仍然不能发动效果。
+| 特别地，「冲浪检察官」\ `17/10/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9917&keyword=&tag=-1>`__ 「No.67 平行骰子天堂锤手」\ `18/5/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9817>`__ 「复仇死者·战鬼」\ `18/9/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22115>`__ 「SNo.0 希望之异热同心」\ `18/6/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11069&keyword=&tag=-1>`__ 「E·HERO 秩序新宇侠」\ `18/10/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22181&keyword=&tag=-1>`__ 「转生炎兽 蜃景雄马」\ `18/12/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22310>`__ 「魔钟洞」\ `19/1/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14314>`__ 「黑混沌之魔术师·黑混沌极魔导」\ `19/2/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22459&keyword=&tag=-1>`__ 「天岩户」\ `19/4/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21258&keyword=&tag=-1>`__ 「命之水」\ `19/5/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22633&keyword=&tag=-1>`__ 等的效果不影响怪兽。这些效果适用后，不受影响的怪兽仍然不能发动效果。
 
-.. note:: 现在类似效果的新卡裁定都倾向不影响怪兽了。但以前的卡目前只有「SNo.0 希望之异热同心」改了裁定。（「天岩户」以前没有相关FAQ）
+.. note:: 可以看出第十期起新发售的卡片持有的这类效果都不影响怪兽。但旧卡目前只有「SNo.0 希望之异热同心」改了裁定。（「天岩户」以前没有相关FAQ）
 
 -  「冤枉」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17508>`__ 「终焉的指名者」\ `17/6/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9546&keyword=&tag=-1>`__ 这样的描述也不影响怪兽，即使不受影响，也不能发动效果。
 -  「天魔大帝」给其他卡附加不让连锁能力的文本不影响那些卡\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18246&keyword=&tag=-1>`__\ ，并且这个状况对方不受影响的怪兽仍然不能连锁发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18245&keyword=&tag=-1>`__
@@ -194,6 +194,8 @@
 ------------------
 
 | 部分效果发动时没有效果处理，可以无视这个抗性。
+| 此外，对于魔法·陷阱卡，如果在卡的发动时\ :ref:`持续取对象`\ 并且没有效果处理，也无视这个抗性。
+| 对于怪兽效果，只要取对象，即使发动时没有效果处理，也不能无视这个抗性。
 | 例：
 | 「幻创之混种恐龙」的效果适用的主要阶段，场上的恐龙族怪兽受对方「帝王的烈旋」「墓穴的指名者」「古遗物-勇士盾」等在发动时没有效果处理，且\ :ref:`不取对象`\ 的效果影响，也受「魔族之链」以及装备魔法等\ :ref:`持续取对象`\ 的\ **魔法·陷阱**\ 效果影响，不受「幻变骚灵·查询昆提兰那克」「No.106 巨岩掌 巨手」「神龙骑士 闪耀」等\ **取对象的怪兽效果**\ 影响，是否受「我我我枪手」的效果影响，调整中。
 | 「隐藏的机壳杀手 物质主义」会受到自己「超银河眼光波龙」的效果影响而不能直接攻击。
