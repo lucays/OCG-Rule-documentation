@@ -256,6 +256,7 @@
    | 「吸血鬼移地」等效果把场地魔法卡发动、「EM 天空魔术家」的②效果和「真龙战士 点火烈·炽热」的①效果把永续魔法卡发动的场合，「凤凰剑圣 基亚·弗里德」「暗黑黑炎龙」等效果不能发动。「淘气仙星·坎迪娜」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20802&keyword=&tag=-1>`__ 「王立魔法图书馆」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20506&keyword=&tag=-1>`__ 「魔术师的右手」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11939&keyword=&tag=-1>`__ 等效果不适用。
    | 「吸血鬼移地」等效果把场地魔法卡发动、「真龙战士 点火烈·炽热」的①效果把永续魔法卡发动的场合，「EM 天空魔术家」的①效果不能发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20507&keyword=&tag=-1>`__\
    | 「真龙战士 点火烈·炽热」的效果让魔法卡发动的场合，「大将军 紫炎」的效果不适用，之后还能再发动1次魔法·陷阱卡。
+   | 「大将军 紫炎」的效果适用中，对方已经发动了1次魔法·陷阱卡的场合，对方还能再用「真龙战士 点火烈·炽热」的效果来发动魔法卡。
 
    .. attention::
 
