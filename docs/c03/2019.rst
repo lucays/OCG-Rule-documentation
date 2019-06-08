@@ -884,5 +884,20 @@
 
 6/7
 
+| 数据库：
+| 「霸王城」的效果适用中，可以用「未来融合」的①效果把「邪心英雄」融合怪兽决定的融合素材送去墓地，可以用「未来融合」的②效果把「邪心英雄」融合怪兽融合召唤。\ `19/6/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22681&keyword=&tag=-1>`__
+| 「暗黑圣域」表侧表示存在的场合，「死之宣告」的②效果让「死之信息」卡当作「通灵盘」的效果在场上出现时，也可以适用「暗黑圣域」效果让「死之信息」卡在怪兽区域当作通常怪兽特殊召唤。\ `19/6/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22692&keyword=&tag=-1>`__
+| 「死之宣告」的②效果让「死之信息」卡当作「通灵盘」的效果在场上出现的场合，还得按照「通灵盘」确定的「E」「A」「T」「H」顺序出现。\ `19/6/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22691&keyword=&tag=-1>`__
+| 对方的「龙子」直接攻击的伤害步骤开始时，自己发动「抹杀之邪恶灵」的①效果把墓地的恶魔族·8星怪兽特殊召唤的场合，由于「龙子」不受怪兽效果影响，攻击对象不会转移，而伤害步骤没有卷回，因此继续直接攻击。\ `19/6/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22680&keyword=&tag=-1>`__
+| 「地缚地上绘」的②效果适用中，自己场上里侧守备表示的同调怪兽也可以用这个效果当作2只解放，\ `19/6/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22685&keyword=&tag=-1>`__ 不受魔法效果影响的同调怪兽不能当作2只解放。\ `19/6/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22683&keyword=&tag=-1>`__
+| 「帝王的烈旋」和「地缚地上绘」的效果适用的场合，可以用对方场上1只表侧表示的同调怪兽作为2只的数量解放来把「地缚神」怪兽上级召唤。（对方场上里侧的怪兽不能判断是否是同调怪兽，不能当作2只解放）\ `19/6/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22684&keyword=&tag=-1>`__
+| 对方场上只有「地缚地上绘」和1只「地缚神」怪兽，「超级运动员 无畏扣篮手」把那个「地缚神」怪兽战斗破坏，伤害计算后发动效果的场合，由于「地缚神」怪兽还在场上，「地缚地上绘」的①效果仍适用，不能成为效果的对象，而\ :ref:`确定被战斗破坏`\ 的怪兽也不能成为效果的对象，结果这个效果只能以自己场上的卡为对象发动。\ `19/6/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22676&keyword=&tag=-1>`__
+
 | 邮件：
 | 「时空混沌涡」「SNo.39 希望皇 霍普一」的效果破坏「奇迹之侏罗纪蛋」的场合，会被除外。
+
+6/8
+
+| 邮件：
+| 「幻兽机 倾转翼马」以盖放的「王宫的铁壁」为对象发动破坏并除外的效果，连锁发动这个「王宫的铁壁」的场合，如何处理，调整中。
+| 「时空混沌涡」「破坏龙 甘多拉」的破坏并除外效果发动时，连锁发动盖放的「王宫的铁壁」的场合，如何处理，调整中。
