@@ -778,9 +778,9 @@
 | 「TG 齿轮僵尸」可以取攻击力低于1000的「TG 钻头鱼」为对象发动①效果，特殊召唤后攻击力下降1000的结果是0（实际再下降900的状态）。\ `19/5/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22646&keyword=&tag=-1>`__
 | 「No.26 次元孔路 绕道章鱼」的①效果适用后，用怪兽攻击了的场合，不受影响的怪兽也不能再攻击。（『只能用1只怪兽攻击』不影响怪兽）此外，用不受影响的怪兽攻击的场合，那次攻击不会变成直接攻击。\ `19/5/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22641&keyword=&tag=-1>`__
 | 「No.26 次元孔路 绕道章鱼」的①效果适用后，不能直接攻击的「让步小快马」不能攻击。\ `19/5/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22642&keyword=&tag=-1>`__
-| 「命之水」特殊召唤的怪兽从场上离开后，就不是『这个效果特殊召唤的怪兽』，不能再发动效果。\ `19/5/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22662&keyword=&tag=-1>`__
-| 「命之水」特殊召唤的怪兽变成里侧表示的场合，就不是『这个效果特殊召唤的怪兽』，之后反转也不能再发动效果。\ `19/5/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22661&keyword=&tag=-1>`__
-| 「命之水」的效果处理时对象怪兽不在墓地存在的场合，不会特殊召唤怪兽，这个回合不能发动怪兽效果。\ `19/5/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22660&keyword=&tag=-1>`__
+| 「活命水」特殊召唤的怪兽从场上离开后，就不是『这个效果特殊召唤的怪兽』，不能再发动效果。\ `19/5/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22662&keyword=&tag=-1>`__
+| 「活命水」特殊召唤的怪兽变成里侧表示的场合，就不是『这个效果特殊召唤的怪兽』，之后反转也不能再发动效果。\ `19/5/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22661&keyword=&tag=-1>`__
+| 「活命水」的效果处理时对象怪兽不在墓地存在的场合，不会特殊召唤怪兽，这个回合不能发动怪兽效果。\ `19/5/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22660&keyword=&tag=-1>`__
 | 「No.60 刻不知之杜加雷斯」的特殊召唤效果处理时，对象怪兽不在墓地存在的场合，不会特殊召唤怪兽，仍然跳过下个自己的主要阶段1。\ `19/5/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22640&keyword=&tag=-1>`__
 | 「No.76 谐调光师 渐变天乐斗士」的②效果处理时，对象怪兽不在墓地存在的场合，仍然取除X素材，不会特殊召唤怪兽。\ `19/5/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22639&keyword=&tag=-1>`__
 | 「占卜魔女 小光」的②效果可以取衍生物为对象发动，这个场合衍生物消灭，由于没有送去墓地，不会特殊召唤怪兽。\ `19/5/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22650&keyword=&tag=-1>`__
@@ -808,7 +808,7 @@
 | 只要卡组存在「鹰身女郎」，「抹杀之指名者」发动时可以宣言「鹰身女郎」。这个场合场上的「鹰身女郎1」的『只要这张卡在场上表侧表示存在，风属性怪兽的攻击力上升300』效果无效。\ `19/5/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22631&keyword=&tag=-1>`__
 | 「No.97 龙影神 引力子龙」的效果处理时，额外卡组·墓地的龙族怪兽不足2只的场合，不会特殊召唤怪兽，不会重叠成X素材，这个回合自己仍然不能特殊召唤怪兽，自己的怪兽不能攻击宣言。\ `19/5/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22668&keyword=&tag=-1>`__
 | 「门之防壁」的效果适用中，不能发动「B・F・N」。「B・F・N」的效果处理时，「门之防壁」被特殊召唤的场合，只特殊召唤怪兽，不放置指示物，战斗阶段不会结束，发生战斗步骤的卷回。\ `19/5/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22667&keyword=&tag=-1>`__
-| 「命之水」特殊召唤的怪兽以外的怪兽适用了「禁忌的圣枪」效果的场合，仍然不能发动效果。\ `19/5/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22633&keyword=&tag=-1>`__
+| 「活命水」特殊召唤的怪兽以外的怪兽适用了「禁忌的圣枪」效果的场合，仍然不能发动效果。\ `19/5/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22633&keyword=&tag=-1>`__
 
 5/23
 
@@ -941,3 +941,20 @@
 | 「疾行机人 六角飞碟」「雷帝神」在「动作魔法-完全转弯」适用的回合中造成多少战斗伤害，调整中。\ `19/6/17 <http://yugioh-wiki.net/index.php?%A1%D4%A5%A2%A5%AF%A5%B7%A5%E7%A5%F3%A5%DE%A5%B8%A5%C3%A5%AF%A1%DD%A5%D5%A5%EB%A5%BF%A1%BC%A5%F3%A1%D5#faq>`__
 | 发动「伪爆炸五星」时，不能连锁发动「王宫的弹压」的效果。之后在伤害步骤内发动把怪兽特殊召唤的效果时，也不能连锁发动「王宫的弹压」的效果。即使「大宇宙」适用中「伪爆炸五星」发动后除外，在伤害计算后也可以发动效果。\ `19/6/17 <http://yugioh-wiki.net/index.php?%A1%D4%A5%D5%A5%A7%A5%A4%A5%AF%A1%A6%A5%A8%A5%AF%A5%B9%A5%D7%A5%ED%A1%BC%A5%B8%A5%E7%A5%F3%A1%A6%A5%DA%A5%F3%A5%BF%A1%D5#faq>`__
 | 「一族之规」在准备阶段时可以选择不解放怪兽把自身破坏。\ `19/6/17 <http://yugioh-wiki.net/index.php?%A1%D4%B0%EC%C2%B2%A4%CE%D9%DD%A1%D5#faq>`__
+
+6/20
+
+| wiki:
+| 「天变地异」适用中，我方发动「强欲而贪欲之壶」支付cost从卡组上方把10张卡里侧表示除外的场合，这个过程中对方可以看到除外了什么卡。\ `17/3/22 <http://yugioh-wiki.net/index.php?%A1%D4%C5%B7%CA%D1%C3%CF%B0%DB%A1%D5#faq>`__ 但是否可以要求我方放慢速度1张1张的除外卡来看清楚，调整中。\ `19/6/20 <http://yugioh-wiki.net/index.php?%A1%D4%C5%B7%CA%D1%C3%CF%B0%DB%A1%D5#faq>`__
+
+6/22
+
+| 数据库：
+| 「速射扳机」破坏怪兽和融合召唤不是同时进行。\ `19/6/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14621>`__
+| 「速射扳机」发动时，连锁发动「虚无空间」的场合，也不会破坏怪兽。\ `19/6/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22703&keyword=&tag=-1>`__
+| 「速射扳机」效果处理时，选的融合素材其中1只因其他卡的效果代替而没被破坏的场合，把剩下的那个破坏，不进行融合召唤。\ `19/6/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22704&keyword=&tag=-1>`__
+| 「速射扳机」效果处理时，「强制脱出装置」等效果导致一组融合素材都没有集齐的场合，不会破坏任何怪兽。\ `19/6/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22706&keyword=&tag=-1>`__
+| 只有「麻醉弹丸龙」「护木枪管龙」在场上存在，由于「护木枪管龙」不会被效果破坏，「速射扳机」不能发动。\ `19/6/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22705&keyword=&tag=-1>`__
+| 对方额外卡组只有1只表侧表示的P怪兽时，「银色弹丸龙」的①效果也可以发动。\ `19/6/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22711&keyword=&tag=-1>`__
+| 对方额外卡组没有卡时，「银色弹丸龙」的①效果不能发动。\ `19/6/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22712&keyword=&tag=-1>`__
+| 场上有「见习魔娘」存在，「校验和龙」的①效果把自身特殊召唤的场合，先适用「见习魔娘」的效果守备力上升500成2900，再回复1450基本分。\ `19/6/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22707&keyword=&tag=-1>`__
