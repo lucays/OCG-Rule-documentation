@@ -983,4 +983,4 @@ wiki：
 | 「霸王城」效果适用时，用「融合」来融合召唤的「邪心英雄」怪兽是正规出场，送去墓地后可以被无视召唤条件的「二重英雄攻击」的效果特殊召唤。\ `19/6/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22696&keyword=&tag=-1>`__
 
 | 裁定变更：
-| 「SNo.39 希望皇 霍普·电光皇」的①效果不影响怪兽。即使对方不受效果影响，也不能发动效果。\ `19/6/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19270&keyword=&tag=-1>`__
+| 「SNo.39 希望皇 霍普·电光皇」的①效果不影响怪兽。即使对方怪兽不受效果影响，也不能发动效果。\ `19/6/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19270&keyword=&tag=-1>`__
