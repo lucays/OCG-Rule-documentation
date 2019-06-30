@@ -996,8 +996,35 @@ wiki：
 | 「怪兽之门」「名推理」的效果处理时，「扰乱三人组」等效果导致没有可用的怪兽区域的场合，这个效果完全不适用，不会翻开卡组。
 | 「E－HERO 恶刃死魔」「天穹之圣像骑士」「No.97 龙影神 引力子龙」的②效果、「重装甲列车 铁狼」「机关傀儡-基冈提斯人偶」的①效果适用的场合，即使自己怪兽不受效果影响也不能攻击。
 
+| wiki:
+| 「速射扳机」的效果处理时，是否可以适用「影牢的咒缚」效果破坏对方怪兽来融合召唤，调整中。\ `19/6/27 <http://yugioh-wiki.net/index.php?%A1%D4%A5%E9%A5%D4%A5%C3%A5%C9%A1%A6%A5%C8%A5%EA%A5%AC%A1%BC%A1%D5#faq>`__
+
 | 数据库：
 
 | 裁定变更：
-| 记述『对方不能把怪兽的效果发动』『对方不能把卡的效果发动』的「外神 阿撒托斯」\ `19/6/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10976&keyword=&tag=-1>`__ 「三形金字塔·巨人王」\ `19/6/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18704&keyword=&tag=-1>`__ 「No.16 色之支配者」\ `19/6/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13350&keyword=&tag=-1>`__ 「暴君的暴言」\ `19/6/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12168&keyword=&tag=-1>`__ 「威光魔人」\ `19/6/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9280&keyword=&tag=-1>`__ 「幻龙星-嘲风」\ `19/6/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=80&keyword=&tag=-1>`__ 「龙破坏的剑士-破坏之剑士」\ `19/6/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17469&keyword=&tag=-1>`__ 「古代的齿车机械」\ `19/6/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7046&keyword=&tag=-1>`__ 「无形噬体·暴食」\ `19/6/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18296&keyword=&tag=-1>`__ 「异色眼陨火龙」\ `19/6/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16194&keyword=&tag=-1>`__ 「琰魔龙王 红莲魔·厄」\ `19/6/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16917&keyword=&tag=-1>`__ 「异怪之妖精 艾尔佛彼娅」\ `19/6/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9929&keyword=&tag=-1>`__ 等效果适用中，即使不受影响的怪兽也\ **不能**\ 发动效果。
-| 记述『怪兽不能把效果发动』的目前只有「修禅僧 元道」\ `19/6/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18234&keyword=&tag=-1>`__ 改为其效果适用中，不受影响的怪兽也不能发动效果。「EM 五虹之魔术师」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20981&keyword=&tag=-1>`__ 「苦痛的回廊」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9799&keyword=&tag=-1>`__ 「召唤兽 卡利古拉」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8660&keyword=&tag=-1>`__ 目前仍维持不受影响的怪兽可以发动效果的裁定。
+| 记述『对方不能把怪兽的效果发动』『对方不能把卡的效果发动』『怪兽不能把效果发动』的「外神 阿撒托斯」\ `19/6/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10976&keyword=&tag=-1>`__ 「三形金字塔·巨人王」\ `19/6/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18704&keyword=&tag=-1>`__ 「No.16 色之支配者」\ `19/6/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13350&keyword=&tag=-1>`__ 「暴君的暴言」\ `19/6/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12168&keyword=&tag=-1>`__ 「威光魔人」\ `19/6/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9280&keyword=&tag=-1>`__ 「幻龙星-嘲风」\ `19/6/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=80&keyword=&tag=-1>`__ 「龙破坏的剑士-破坏之剑士」\ `19/6/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17469&keyword=&tag=-1>`__ 「古代的齿车机械」\ `19/6/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7046&keyword=&tag=-1>`__ 「无形噬体·暴食」\ `19/6/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18296&keyword=&tag=-1>`__ 「异色眼陨火龙」\ `19/6/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16194&keyword=&tag=-1>`__ 「琰魔龙王 红莲魔·厄」\ `19/6/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16917&keyword=&tag=-1>`__ 「异怪之妖精 艾尔佛彼娅」\ `19/6/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9929&keyword=&tag=-1>`__ 「修禅僧 元道」\ `19/6/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18234&keyword=&tag=-1>`__ 等效果适用中，即使不受影响的怪兽也\ **不能**\ 发动效果。
+| 「苦痛的回廊」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9799&keyword=&tag=-1>`__ 目前仍维持不受影响的怪兽可以发动效果的裁定。
+
+6/28
+
+| 邮件：
+| 成为「梦幻崩影 凤凰」效果对象的盖放的陷阱卡连锁发动时，再连锁发动「红色重启」将其盖放的场合，在连锁1仍被「梦幻崩影 凤凰」的效果破坏。
+
+| 裁定变更：
+| 「合神龙 蒂迈欧」的③效果不能从墓地特殊召唤没有用正规手续出场的「传说的骑士」怪兽。
+
+| wiki:
+| 「速射扳机」发动时，可以连锁发动「反大革命」。\ `19/6/28 <http://yugioh-wiki.net/index.php?%A1%D4%A5%E9%A5%D4%A5%C3%A5%C9%A1%A6%A5%C8%A5%EA%A5%AC%A1%BC%A1%D5#faq>`__
+
+| 数据库：
+
+| 裁定变更：
+| 「EM 五虹之魔术师」的P效果适用中，不受影响的怪兽可以攻击，仍然不能发动效果。\ `19/6/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20981&keyword=&tag=-1>`__
+| 「召唤兽 卡利古拉」的效果适用中，发动1次怪兽效果后，不受影响的怪兽仍然不能发动效果。\ `19/6/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8660&keyword=&tag=-1>`__ （攻击1次后，不受影响的怪兽也不能攻击。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20234&keyword=&tag=-1>`__ ）
+
+6/30
+
+| 邮件：
+| 「奥西里斯的天空龙」召唤成功时，不受影响的怪兽也不能发动效果。
+| 自己场上存在持有X素材的「星辉士 夏三角」，自己把怪兽召唤·特殊召唤成功时，对方不受影响的怪兽也不能发动效果。
+| 「水龙-团簇」的①效果适用后，对方不受影响的怪兽也不能发动效果。
