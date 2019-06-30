@@ -892,6 +892,12 @@
 | 「地缚地上绘」的②效果适用中，自己场上里侧守备表示的同调怪兽也可以用这个效果当作2只解放，\ `19/6/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22685&keyword=&tag=-1>`__ 不受魔法效果影响的同调怪兽不能当作2只解放。\ `19/6/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22683&keyword=&tag=-1>`__
 | 「帝王的烈旋」和「地缚地上绘」的效果适用的场合，可以用对方场上1只表侧表示的同调怪兽作为2只的数量解放来把「地缚神」怪兽上级召唤。（对方场上里侧的怪兽不能判断是否是同调怪兽，不能当作2只解放）\ `19/6/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22684&keyword=&tag=-1>`__
 | 对方场上只有「地缚地上绘」和1只「地缚神」怪兽，「超级运动员 无畏扣篮手」把那个「地缚神」怪兽战斗破坏，伤害计算后发动效果的场合，由于「地缚神」怪兽还在场上，「地缚地上绘」的①效果仍适用，不能成为效果的对象，而\ :ref:`确定被战斗破坏`\ 的怪兽也不能成为效果的对象，结果这个效果只能以自己场上的卡为对象发动。\ `19/6/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22676&keyword=&tag=-1>`__
+| 对方怪兽直接攻击让自己受到伤害的伤害计算后，自己发动「伤害之门」把「No.26 次元孔路 绕道章鱼」特殊召唤，由于伤害发生时「No.26 次元孔路 绕道章鱼」还不在场上，那个②效果不能发动。\ `19/6/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22669&keyword=&tag=-1>`__
+| 「千年眼纳祭神」以对方墓地的「千年眼纳祭神」为对象发动效果，把同名卡装备的场合，「千年眼纳祭神」立刻被自己的效果无效，不能维持装备，作为装备的「千年眼纳祭神」破坏送去对方墓地。\ `19/6/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22670&keyword=&tag=-1>`__
+| 「水卜之魔导书」的效果适用后，发动「抹杀的指名者」把「水卜之魔导书」除外的场合，「水卜之魔导书」的『攻击力上升1000』效果仍然适用，『●』的效果可以发动，但是无效。\ `19/6/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22671&keyword=&tag=-1>`__
+| 自身效果被「墓穴的指名者」无效的怪兽，发动效果时，连锁发动「月之书」被盖放的场合，那个效果处理时仍然无效。\ `19/6/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22672&keyword=&tag=-1>`__
+| 「装弹枪管龙」攻击「暗黑人偶 妮可罗菲娅」的伤害步骤开始时发动③效果，对方连锁发动「抹杀之邪恶灵」的①效果转移攻击对象的场合，伤害计算进行后，「装弹枪管龙」的③效果处理时，得到「暗黑人偶 妮可罗菲娅」的控制权。\ `19/6/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22677&keyword=&tag=-1>`__
+| 「星星金币」发动时不能连锁「精灵之镜」。\ `19/6/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22675&keyword=&tag=-1>`__
 
 | 邮件：
 | 「时空混沌涡」「SNo.39 希望皇 霍普一」的效果破坏「奇迹之侏罗纪蛋」的场合，会被除外。
