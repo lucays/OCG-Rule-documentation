@@ -209,7 +209,7 @@ cost
    | 「淘气仙星的灯光舞台」的②效果适用中，发动「王宫的敕命」的场合，仍然保持取对象，「王宫的敕命」的效果不适用的场合又会恢复适用。\ `17/4/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16647>`__ 
    | 「No.66 霸键甲虫」的效果适用后被「禁忌的圣杯」无效，仍然保持取对象，在回合结束后恢复适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12789>`__
 
--  | 「剑斗兽 马斗」「深渊死球」等记述『这个效果特殊召唤的怪兽...』的持续取对象效果，这部分也是持续适用的，被无效时对象怪兽恢复正常，之后如果「剑斗兽 马斗」「深渊死球」等效果重新适用，又会被无效。
+-  | 「深渊死球」等记述『这个效果特殊召唤的怪兽...』的持续取对象效果，这部分也是持续适用的，被无效时对象怪兽恢复正常，之后如果「深渊死球」等效果重新适用，又会被无效。
    | 「旧神 诺登」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13636&keyword=&tag=-1>`__ 「光之引导」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18119&keyword=&tag=-1>`__ 等记述『效果无效特殊召唤』的效果虽然也持续取对象，但这部分在特殊召唤时已经适用，不是持续适用的效果。即使效果被无效，对象怪兽仍然保持无效状态。
    | 例：
    | 「亚马逊的意志」记述『这个效果特殊召唤的怪兽不能把表示形式变更，可以攻击的场合必须作出攻击』的效果是在特殊召唤的处理完毕后适用的。\ `17/11/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=9003>`__
