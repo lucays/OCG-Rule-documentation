@@ -1048,4 +1048,4 @@ wiki：
 | 数据库：
 
 | 文本变更导致的裁定变更：
-| 「剑斗兽 马斗」现在的文本是『效果无效特殊召唤』，在特殊召唤时已经适用，即使不再\:ref:`持续取对象`\ ，那个怪兽仍然无效，只是离场时不会回到卡组。\ `19/7/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22&keyword=&tag=-1>`__
+| 「剑斗兽 马斗」现在的文本是『效果无效特殊召唤』，在特殊召唤时已经适用，即使不再\ :ref:`持续取对象`\ ，那个怪兽仍然无效，只是离场时不会回到卡组。\ `19/7/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22&keyword=&tag=-1>`__
