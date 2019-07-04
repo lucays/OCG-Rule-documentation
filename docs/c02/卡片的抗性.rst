@@ -105,15 +105,23 @@
 | 「次元魔法」可以对不受魔法卡的效果影响的怪兽发动，结果不能解放，后续效果不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12847>`__
 | 「RR-起翼猎鹰」可以以「RR-究极猎鹰」为对象发动效果，结果攻击力是3600，可以战斗破坏「RR-究极猎鹰」。
 
-| 『对方不能攻击宣言』不影响怪兽，『怪兽不能攻击』影响怪兽。其他就按具体含义判断了。
+| 记述『自己·对方不能（用怪兽）攻击宣言』的效果不影响怪兽，即使不受影响的怪兽，也不能攻击宣言。
+| 记述『（自己·对方）怪兽不能攻击』或者仅记述『怪兽不能攻击宣言』的效果影响怪兽，如果不受影响，就可以攻击。其他就按具体含义判断了。
 | 例：
+| 「威吓之咆哮」适用中，不受影响的怪兽不能攻击。
 | 对「苦痛的回廊」适用中的怪兽发动「禁忌的圣枪」，则那个怪兽不再无效，可以攻击。回合结束后又回到无效且不能攻击的状态。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9799>`__
 | 「恐龙摔跤手·摔跤暴龙王」③效果适用后，对方要攻击的场合必须先用对象怪兽，不受影响也不能先攻击。\ `18/7/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22019>`__
 | 「召唤兽 卡利古拉」适用中，已经用1只怪兽攻击过后，不受影响的怪兽也不能攻击。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20234&keyword=&tag=-1>`__
-| 「威吓之咆哮」适用中，不受影响的怪兽不能攻击。
 | 「No.67 平行骰子天堂锤手」的效果适用后，不受影响的怪兽也不能攻击。\ `18/5/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9817>`__
+| 记述『自己不用那只怪兽不能攻击』的「圣像骑士的再集结」②效果发动后，不受影响的怪兽仍然可以攻击。\ `18/4/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21844>`__
 
-.. note:: 怪兽有攻击和攻击宣言，玩家只对应攻击宣言，没有「对方不能攻击」这样的说法。
+.. note::
+
+   | 怪兽有攻击和攻击宣言，玩家只对应攻击宣言，没有「对方不能攻击」这样的说法。
+   | 此外，「琰魔龙 红莲魔·葬」等记述『发动的回合，...怪兽不能攻击』的文本并不是效果，因此不受效果影响的怪兽仍然会因这段非效果文本而不能攻击。详见\ :ref:`誓约`\ 。
+   | 例：
+   | 「绝对魔法禁止区域」的效果适用中，以「真红眼黑龙」为对象发动「黑炎弹」让对方受到伤害的场合，「真红眼黑龙」也不能在这个回合攻击。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11859>`__
+   | 「空气解密风暴」的效果发动后，自己场上其他不受魔法效果影响的怪兽也不能在这个回合攻击。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20878>`__
 
 | 召唤手续以及效果发动时支付的cost都不是效果，可以用不受影响的怪兽。
 | 记述『玩家必须/プレイヤーは...なければならない』的效果基本上也不影响怪兽，详见\ :ref:`玩家必须`\ 。
@@ -125,16 +133,11 @@
 | 「超融合」「狱火机·撒旦」等，记述『\ **不能对应这个效果的发动**\ 』这样不让连锁的文本时，不是效果。不受影响的怪兽也不能对其连锁。
 | 记述『对方不能把怪兽的效果发动』『对方不能把卡的效果发动』的「水龙-团簇」「星辉士 夏三角」「冲浪检察官」\ `17/10/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9917&keyword=&tag=-1>`__ 「No.67 平行骰子天堂锤手」\ `18/5/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9817>`__ 「复仇死者·战鬼」\ `18/9/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22115>`__ 「SNo.0 希望之异热同心」\ `18/6/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11069&keyword=&tag=-1>`__ 「E·HERO 秩序新宇侠」\ `18/10/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22181&keyword=&tag=-1>`__ 「转生炎兽 蜃景雄马」\ `18/12/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22310>`__ 「魔钟洞」\ `19/1/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14314>`__ 「黑混沌之魔术师·黑混沌极魔导」\ `19/2/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22459&keyword=&tag=-1>`__ 「天岩户」\ `19/4/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21258&keyword=&tag=-1>`__ 「活命水」\ `19/5/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22633&keyword=&tag=-1>`__ 「幻层守护者」\ `19/6/24 <http://yugioh-wiki.net/index.php?%A1%D4%B8%B8%C1%D8%A4%CE%BC%E9%B8%EE%BC%D4%A5%A2%A5%EB%A5%DE%A5%C7%A5%B9%A1%D5#faq>`__ 「SNo.39 希望皇 霍普·电光皇」\ `19/6/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19270&keyword=&tag=-1>`__ 「外神 阿撒托斯」\ `19/6/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10976&keyword=&tag=-1>`__ 「召唤兽 卡利古拉」\ `19/6/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8660&keyword=&tag=-1>`__ 
   等的效果不影响怪兽。这些效果适用后，不受影响的怪兽仍然不能发动效果。
-| 记述『怪兽不能把效果发动』的「奥西里斯的天空龙」「修禅僧 元道」\ `19/6/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18234&keyword=&tag=-1>`__ 「EM 五虹之魔术师」\ `19/6/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20981&keyword=&tag=-1>`__ 基本上也一样，不受影响的怪兽仍然不能发动效果。
-| 不过，「苦痛的回廊」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9799&keyword=&tag=-1>`__ 等效果适用中，不受影响的怪兽仍然可以发动效果。
+| 记述『怪兽不能把效果发动』的「奥西里斯的天空龙」「修禅僧 元道」\ `19/6/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18234&keyword=&tag=-1>`__ 「EM 五虹之魔术师」\ `19/6/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20981&keyword=&tag=-1>`__ 也一样，不受影响的怪兽仍然不能发动效果。
 
 -  「冤枉」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17508>`__ 「终焉的指名者」\ `17/6/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9546&keyword=&tag=-1>`__ 这样的描述也不影响怪兽，即使不受影响，也不能发动效果。
 -  「天魔大帝」给其他卡附加不让连锁能力的文本不影响那些卡\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18246&keyword=&tag=-1>`__\ ，并且这个状况对方不受影响的怪兽仍然不能连锁发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18245&keyword=&tag=-1>`__
-
--  | 「混沌帝龙 -终焉的使者-」等『这个效果/这张卡发动的回合...』是\ :ref:`誓约`\ ，不是效果，这种描述处理时，也会对不受效果影响的怪兽适用。
-   | 例：
-   | 「绝对魔法禁止区域」的效果适用中，以「真红眼黑龙」为对象发动「黑炎弹」让对方受到伤害的场合，「真红眼黑龙」也不能在这个回合攻击。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11859>`__
-   | 「空气解密风暴」的效果发动后，自己场上其他不受魔法效果影响的怪兽也不能在这个回合攻击。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20878>`__
+-  「混沌帝龙 -终焉的使者-」等记述『发动的回合，...』的文本是\ :ref:`誓约`\ ，不是效果，因此不受效果影响的怪兽仍然会因这些非效果文本而受到限制。
 
 | 取除场上的X素材·指示物的效果影响那些X素材·指示物本身，不影响那个怪兽。
 | 在X怪兽下面重叠作为X素材，或给怪兽放置指示物的效果，都影响那个怪兽。
