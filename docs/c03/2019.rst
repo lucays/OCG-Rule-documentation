@@ -1101,3 +1101,50 @@ wiki：
 | 邮件：
 | 「连锁素材」效果适用的回合，是否可以对应「速射扳机」发动「反大革命」，调整中。
 | 「技能抽取」适用中，用「大逮捕」夺取「何鲁斯之黑炎龙 LV4」后，「技能抽取」被「旋风」破坏的场合，「何鲁斯之黑炎龙 LV4」自身的效果适用，之后又适用「禁忌的圣枪」效果的场合，由于自身效果，不会归还控制权，由于不受陷阱效果影响，可以攻击，但是仍然不能发动效果。
+
+7/10
+
+| wiki:
+| 无论用什么方法出场的「霸王眷龙 凶饿毒」得到「嵌合巨舰龙」的效果后，得到的那个①效果不会适用，攻击力都仍然是2800。\ `19/7/10 <http://yugioh-wiki.net/index.php?%A5%B3%A5%D4%A1%BC#faq>`__
+
+.. note:: 不过，记述『融合召唤的这张卡』这样的效果在被融合召唤的「凶饿毒融合龙」得到后仍然适用。\ `19/7/10 <http://yugioh-wiki.net/index.php?%A5%B3%A5%D4%A1%BC#faq>`__
+
+7/11
+
+| wiki:
+| 不能作为融合素材的怪兽，不能被「融合咒印生物」怪兽的效果解放。\ `19/7/11 <http://yugioh-wiki.net/index.php?%CD%BB%B9%E7%BC%F6%B0%F5%C0%B8%CA%AA#faq>`__
+
+7/12
+
+| 邮件：
+| 「手札抹杀」发动时，连锁发动「圣蛇的息吹」让墓地的「古代的机械箱」加入手卡，之后又被丢弃的场合，处理后能否发动效果，调整中。
+| 「手札抹杀」发动时，连锁发动「侵略的侵食崩坏」让通常召唤的「星遗物-『星杯』」和表侧表示的「永远之魂」回到手卡，又被丢弃的场合，处理后「星遗物-『星杯』」和「永远之魂」能否发动效果，调整中。
+| 「荒野的大龙卷」发动时，连锁发动「砂石飓风」让表侧表示的「永远之魂」回到手卡，又被盖放的场合，处理后「永远之魂」能否发动效果，调整中。
+
+| 数据库：
+| 「嘣床」发动之际，可以指定没有使用的EX怪兽区域。这个效果处理完之后，那个EX怪兽区域有怪兽特殊召唤的场合，「嘣床」的②效果会发动。\ `19/7/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22719&keyword=&tag=-1>`__
+| 「嘣床」的②效果处理时，指定的怪兽区域没有怪兽存在的场合，这个效果不适用，自身也不会回到手卡。\ `19/7/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22720&keyword=&tag=-1>`__
+| 和「仪式魔人 解放者」类似，「I：P伪装舞会莱娜」的②效果记述的『对方』指的是连接召唤怪兽的玩家来看的对方。连接召唤的怪兽控制权被对方用「精神操作」夺取的场合，仍然不会被对方（发动「精神操作」的玩家）的效果破坏。\ `19/7/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22734&keyword=&tag=-1>`__
+| 「格式弹涂鱼」适用①效果当作「海晶少女 水晶心」来作为素材把「海晶少女」怪兽连接召唤的场合，也会适用「海晶少女的斗海」的①效果。\ `19/7/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22731&keyword=&tag=-1>`__
+| 「恩惠之风」可以取墓地的融合怪兽等为对象发动效果，这个场合对象怪兽回到额外卡组，仍然恢复500基本分。\ `19/7/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22723&keyword=&tag=-1>`__
+| 「破械神 罗寂刹」的①效果可以选择不受效果影响的怪兽，结果不会进行连接召唤。\ `19/7/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22738&keyword=&tag=-1>`__
+| 「时空银河螺旋」的效果处理时，对象怪兽变成里侧表示的场合，直到回合结束时『不会被战斗破坏』仍然适用，『不受自身以外的卡的效果影响』不适用。\ `19/7/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22724&keyword=&tag=-1>`__
+| 「海晶少女雪花」的效果从额外卡组特殊召唤的怪兽，因自己发动的「强制转移」而让控制权转移给对方的场合，『这个效果特殊召唤的怪兽只要在自己场上存在，不受对方的效果影响』不再适用，即使之后控制权因其他效果归还也不会再适用。\ `19/7/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22726&keyword=&tag=-1>`__
+| 「海晶少女 妙晶心」的①效果适用后，结束阶段前不再在场上表侧表示存在的场合，被特殊召唤的怪兽失去装备对象而送去墓地。\ `19/7/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22739&keyword=&tag=-1>`__
+| 「团结的剑斗兽」效果处理时仍然可以选「活化石」的效果特殊召唤的「剑斗兽」怪兽，结果除外，仍然特殊召唤。\ `19/7/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22730&keyword=&tag=-1>`__
+| 「超重荒神 须佐之男-O」的效果盖放的「抽鬼心」可以发动，发动的场合由于从场上离开时会除外，只能选失去1000基本分。\ `19/7/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22728&keyword=&tag=-1>`__
+| 「灵魂召集」的效果适用中，对方发动「RUM-死亡双力」的场合，进行2次特殊召唤，送6张卡去墓地。\ `19/7/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22722&keyword=&tag=-1>`__
+| 「剑斗海战」的③效果对这个效果处理完后出场的「剑斗兽」怪兽也适用。\ `19/7/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22725&keyword=&tag=-1>`__
+| 「转生炎兽的超转生」在效果处理时进行特殊召唤，不能对应这次特殊召唤发动「升天的黑角笛」。\ `19/7/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22732&keyword=&tag=-1>`__
+| 「辉光龙 赛弗特龙」的效果发动时，不能把没有原本等级的「镜像沼泽人」送去墓地。\ `19/7/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22748&keyword=&tag=-1>`__
+| 「星云龙 尼布拉龙」的①效果处理时，只有1个怪兽区域可用的场合，2只怪兽都不特殊召唤，留在手卡。\ `19/7/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22747&keyword=&tag=-1>`__
+| 「剑斗排斥波」的②效果处理时，特殊召唤的怪兽变成里侧表示的场合，可以特殊召唤任意种族的「剑斗兽」怪兽。\ `19/7/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22729&keyword=&tag=-1>`__
+| 「剑斗兽 女斗」①效果适用后，被无效的场合，等级恢复成原本等级，卡名仍然是这个效果送去墓地的怪兽的卡名。\ `19/7/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22750&keyword=&tag=-1>`__
+| 同一连锁中特殊召唤了多次怪兽，「独法师」的②效果只会发动1次。\ `19/7/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22741&keyword=&tag=-1>`__
+
+7/13
+
+| wiki:
+| 和「接触融合」一样，「团结的剑斗兽」可以让不能作为融合素材的怪兽回到卡组来把融合怪兽无视召唤条件特殊召唤。\ `19/7/13 <http://yugioh-wiki.net/index.php?%A1%D4%C3%C4%B7%EB%A4%B9%A4%EB%B7%F5%C6%AE%BD%C3%A1%D5#faq>`__
+| 「剑斗兽 多米提安努斯」的②效果适用中，不受影响的怪兽的攻击对象仍然由其控制者选择。\ `19/7/13 <http://yugioh-wiki.net/index.php?%A1%D4%B7%F5%C6%AE%BD%C3%A5%C9%A5%DF%A5%C6%A5%A3%A5%A2%A5%CE%A5%B9%A1%D5#faq>`__ 「黑暗贵族」也是如此。\ `19/7/13 <http://yugioh-wiki.net/index.php?%A1%D4%A5%CE%A1%BC%A5%D6%A5%EB%A1%A6%A5%C9%A1%A6%A5%CE%A5%EF%A1%BC%A5%EB%A1%D5#faq>`__
+| 「剑斗海战」的①效果适用中，不受影响的怪兽仍然可以选择不攻击。\ `19/7/13 <http://yugioh-wiki.net/index.php?%A1%D4%B7%F5%C6%AE%B3%A4%C0%EF%A1%D5#faq>`__
