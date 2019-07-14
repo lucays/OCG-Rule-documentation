@@ -1136,7 +1136,7 @@ wiki：
 | 「灵魂召集」的效果适用中，对方发动「RUM-死亡双力」的场合，进行2次特殊召唤，送6张卡去墓地。\ `19/7/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22722&keyword=&tag=-1>`__
 | 「剑斗海战」的③效果对这个效果处理完后出场的「剑斗兽」怪兽也适用。\ `19/7/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22725&keyword=&tag=-1>`__
 | 「转生炎兽的超转生」在效果处理时进行特殊召唤，不能对应这次特殊召唤发动「升天的黑角笛」。\ `19/7/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22732&keyword=&tag=-1>`__
-| 「辉光龙 赛弗特龙」的效果发动时，不能把没有原本等级的「镜像沼泽人」送去墓地。\ `19/7/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22748&keyword=&tag=-1>`__
+| 「镜像沼泽人」送去墓地后是陷阱卡，「辉光龙 赛弗特龙」的效果发动时，不能把它送去墓地。\ `19/7/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22748&keyword=&tag=-1>`__
 | 「星云龙 尼布拉龙」的①效果处理时，只有1个怪兽区域可用的场合，2只怪兽都不特殊召唤，留在手卡。\ `19/7/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22747&keyword=&tag=-1>`__
 | 「剑斗排斥波」的②效果处理时，特殊召唤的怪兽变成里侧表示的场合，可以特殊召唤任意种族的「剑斗兽」怪兽。\ `19/7/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22729&keyword=&tag=-1>`__
 | 「剑斗兽 女斗」①效果适用后，被无效的场合，等级恢复成原本等级，卡名仍然是这个效果送去墓地的怪兽的卡名。\ `19/7/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22750&keyword=&tag=-1>`__
