@@ -1145,6 +1145,6 @@ wiki：
 7/13
 
 | wiki:
-| 和「接触融合」一样，「团结的剑斗兽」可以让不能作为融合素材的怪兽回到卡组来把融合怪兽无视召唤条件特殊召唤。\ `19/7/13 <http://yugioh-wiki.net/index.php?%A1%D4%C3%C4%B7%EB%A4%B9%A4%EB%B7%F5%C6%AE%BD%C3%A1%D5#faq>`__
+| 和「奇迹接触」「新宇融合」一样，「团结的剑斗兽」可以让不能作为融合素材的怪兽回到卡组来把融合怪兽无视召唤条件特殊召唤。\ `19/7/13 <http://yugioh-wiki.net/index.php?%A1%D4%C3%C4%B7%EB%A4%B9%A4%EB%B7%F5%C6%AE%BD%C3%A1%D5#faq>`__
 | 「剑斗兽 多米提安努斯」的②效果适用中，不受影响的怪兽的攻击对象仍然由其控制者选择。\ `19/7/13 <http://yugioh-wiki.net/index.php?%A1%D4%B7%F5%C6%AE%BD%C3%A5%C9%A5%DF%A5%C6%A5%A3%A5%A2%A5%CE%A5%B9%A1%D5#faq>`__ 「黑暗贵族」也是如此。\ `19/7/13 <http://yugioh-wiki.net/index.php?%A1%D4%A5%CE%A1%BC%A5%D6%A5%EB%A1%A6%A5%C9%A1%A6%A5%CE%A5%EF%A1%BC%A5%EB%A1%D5#faq>`__
 | 「剑斗海战」的①效果适用中，不受影响的怪兽仍然可以选择不攻击。\ `19/7/13 <http://yugioh-wiki.net/index.php?%A1%D4%B7%F5%C6%AE%B3%A4%C0%EF%A1%D5#faq>`__
