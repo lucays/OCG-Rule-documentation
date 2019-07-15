@@ -44,7 +44,7 @@
    | 「心灵崩坏」发动时，可以连锁发动「守墓的监视者」的效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11731&keyword=&tag=-1>`__
    | 「大宇宙」适用中，发动「愚蠢的埋葬」的场合，仍然可以连锁发动「灰流丽」的①效果。\ `17/3/24 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20543&keyword=&tag=-1>`__
 
-   .. attention:: 「死之卡组破坏病毒」「连锁破坏」这样把卡组的卡片破坏的效果发动时，也可以连锁发动「灰流丽」的①效果。
+   .. attention:: 「死之卡组破坏病毒」「连锁破坏」这样把卡组的卡片破坏的效果发动时，不能连锁发动「灰流丽」的①效果。
 
 | 即使包含的特定效果不是立即处理，也能对应。
 | 例：
