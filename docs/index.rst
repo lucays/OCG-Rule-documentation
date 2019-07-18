@@ -98,33 +98,3 @@ Welcome to ocg-rule's documentation!
 | 所有内容的代码见：\ `lucays/ocg-rule <https://github.com/lucays/ocg-rule>`__\ 。
 | 网站界面主题的代码见：\ `lucays/sphinx-typlog-theme <https://github.com/lucays/sphinx-typlog-theme>`__\ 。
 | readthedocs托管文档的步骤参考\ `使用ReadtheDocs托管文档 <https://www.xncoding.com/2017/01/22/fullstack/readthedoc.html>`__\ 和\ `sphinx文档 <http://www.sphinx-doc.org/en/master/>`__\ 。
-
-捐赠
-=======
-
-| 如果想支持我，可以扫以下二维码。
-| 请注意：
-
--  捐赠不是必须的，并且即使捐赠了也不会得到特殊的服务。
--  收到捐赠的只有我，如果要感谢\ 其他贡献者_\ ，请和他们联系（例如，在\ 联系方式_\ 中给出的qq群可以找到他们）。
-
-支付宝领红包：
-
-.. figure:: .static/donate/bouns.jpg
-   :width: 225px
-   :height: 260px
-   :align: left
-
-支付宝：
-
-.. figure:: .static/donate/alipay.jpg
-   :width: 225px
-   :height: 221px
-   :align: center
-
-微信：
-
-.. figure:: .static/donate/wechat.jpg
-   :width: 225px
-   :height: 223px
-   :align: right
