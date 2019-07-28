@@ -139,8 +139,8 @@ htmlhelp_basename = 'ocg-ruledoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
-latex_engine = 'xelatex'
-latex_use_xindy = False
+latex_engine = 'pdflatex'
+
 latex_logo = '.static/pdf_cover.png'
 latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').
@@ -160,9 +160,20 @@ latex_elements = {
     # 'figure_align': 'htbp',
     'sphinxsetup': 'attentionBorderColor={rgb}{0.012,0.663,0.957}, noteBorderColor={rgb}{0.012,0.663,0.957}, tipBorderColor={rgb}{1,0.412,0.706}',
     'preamble': r'''
-    \usepackage[UTF8]{ctex}
-    \newCJKfontfamily\gothic{IPAexGothic}
-    \newCJKfontfamily\mincho{IPAexMincho}
+    \hypersetup{unicode=true}
+    \usepackage{CJKutf8}
+    \DeclareUnicodeCharacter{00A0}{\nobreakspace}
+    \DeclareUnicodeCharacter{2203}{\ensuremath{\exists}}
+    \DeclareUnicodeCharacter{2200}{\ensuremath{\forall}}
+    \DeclareUnicodeCharacter{2286}{\ensuremath{\subseteq}}
+    \DeclareUnicodeCharacter{2713}{x}
+    \DeclareUnicodeCharacter{27FA}{\ensuremath{\Longleftrightarrow}}
+    \DeclareUnicodeCharacter{221A}{\ensuremath{\sqrt{}}}
+    \DeclareUnicodeCharacter{221B}{\ensuremath{\sqrt[3]{}}}
+    \DeclareUnicodeCharacter{2295}{\ensuremath{\oplus}}
+    \DeclareUnicodeCharacter{2297}{\ensuremath{\otimes}}
+    \begin{CJK}{UTF8}{gbsn}
+    \AtEndDocument{\end{CJK}}
     ''',
     'figure_align': 'H',
 }
