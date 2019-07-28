@@ -139,7 +139,6 @@ htmlhelp_basename = 'ocg-ruledoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
-latex_engine = 'pdflatex'
 
 latex_logo = '.static/pdf_cover.png'
 latex_elements = {
@@ -161,7 +160,7 @@ latex_elements = {
     'sphinxsetup': 'attentionBorderColor={rgb}{0.012,0.663,0.957}, noteBorderColor={rgb}{0.012,0.663,0.957}, tipBorderColor={rgb}{1,0.412,0.706}',
     'preamble': r'''
     \hypersetup{unicode=true}
-    \usepackage{CJKutf8}
+    \usepackage[UTF8]{ctex}
     \DeclareUnicodeCharacter{00A0}{\nobreakspace}
     \DeclareUnicodeCharacter{2203}{\ensuremath{\exists}}
     \DeclareUnicodeCharacter{2200}{\ensuremath{\forall}}
@@ -172,8 +171,6 @@ latex_elements = {
     \DeclareUnicodeCharacter{221B}{\ensuremath{\sqrt[3]{}}}
     \DeclareUnicodeCharacter{2295}{\ensuremath{\oplus}}
     \DeclareUnicodeCharacter{2297}{\ensuremath{\otimes}}
-    \begin{CJK}{UTF8}{gbsn}
-    \AtEndDocument{\end{CJK}}
     ''',
     'figure_align': 'H',
 }
