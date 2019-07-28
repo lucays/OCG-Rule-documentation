@@ -139,7 +139,7 @@ htmlhelp_basename = 'ocg-ruledoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
-latex_engine = 'platex'
+latex_engine = 'xelatex'
 latex_use_xindy = False
 latex_logo = '.static/pdf_cover.png'
 latex_elements = {
@@ -159,6 +159,10 @@ latex_elements = {
     #
     # 'figure_align': 'htbp',
     'sphinxsetup': 'attentionBorderColor={rgb}{0.012,0.663,0.957}, noteBorderColor={rgb}{0.012,0.663,0.957}, tipBorderColor={rgb}{1,0.412,0.706}',
+    'preamble': r'''
+    \usepackage[UTF8]{ctex}
+    \setCJKmainfont{ipaexm.ttf}
+    ''',
     'figure_align': 'H',
 }
 
