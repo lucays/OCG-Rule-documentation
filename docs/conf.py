@@ -157,16 +157,13 @@ latex_elements = {
     #
     # 'figure_align': 'htbp',
     'sphinxsetup': 'attentionBorderColor={rgb}{0.012,0.663,0.957}, noteBorderColor={rgb}{0.012,0.663,0.957}, tipBorderColor={rgb}{1,0.412,0.706}',
-    'papersize':'a4paper', # The font size ('10pt', '11pt' or '12pt').
-    'pointsize':'12pt','classoptions':',oneside','babel':'', #必須
-    'inputenc':'', #必須
-    'utf8extra':'', #必須
     'preamble': r'''
+    \usepackage[UTF8]{ctex}
     \usepackage{xeCJK}
     \usepackage{indentfirst}
     \setlength{\parindent}{2em}
     \XeTeXlinebreaklocale "zh"
-    \XeTeXlinebreakskip = 0pt plus 1pt
+    \XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
     ''',
     'figure_align': 'H',
 }
