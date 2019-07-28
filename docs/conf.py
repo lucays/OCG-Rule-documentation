@@ -161,7 +161,8 @@ latex_elements = {
     'sphinxsetup': 'attentionBorderColor={rgb}{0.012,0.663,0.957}, noteBorderColor={rgb}{0.012,0.663,0.957}, tipBorderColor={rgb}{1,0.412,0.706}',
     'preamble': r'''
     \usepackage[UTF8]{ctex}
-    \setCJKmainfont{ipaexm.ttf}
+    \newCJKfontfamily\gothic{IPAexGothic}
+    \newCJKfontfamily\mincho{IPAexMincho}
     ''',
     'figure_align': 'H',
 }
