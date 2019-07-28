@@ -159,18 +159,7 @@ latex_elements = {
     # 'figure_align': 'htbp',
     'sphinxsetup': 'attentionBorderColor={rgb}{0.012,0.663,0.957}, noteBorderColor={rgb}{0.012,0.663,0.957}, tipBorderColor={rgb}{1,0.412,0.706}',
     'preamble': r'''
-    \hypersetup{unicode=true}
-    \usepackage[UTF8]{ctex}
-    \DeclareUnicodeCharacter{00A0}{\nobreakspace}
-    \DeclareUnicodeCharacter{2203}{\ensuremath{\exists}}
-    \DeclareUnicodeCharacter{2200}{\ensuremath{\forall}}
-    \DeclareUnicodeCharacter{2286}{\ensuremath{\subseteq}}
-    \DeclareUnicodeCharacter{2713}{x}
-    \DeclareUnicodeCharacter{27FA}{\ensuremath{\Longleftrightarrow}}
-    \DeclareUnicodeCharacter{221A}{\ensuremath{\sqrt{}}}
-    \DeclareUnicodeCharacter{221B}{\ensuremath{\sqrt[3]{}}}
-    \DeclareUnicodeCharacter{2295}{\ensuremath{\oplus}}
-    \DeclareUnicodeCharacter{2297}{\ensuremath{\otimes}}
+    \usepackage[UTF8, scheme=plain, punct=plain, zihao=false]{ctex}
     ''',
     'figure_align': 'H',
 }
