@@ -159,14 +159,6 @@ latex_elements = {
     #
     # 'figure_align': 'htbp',
     'sphinxsetup': 'attentionBorderColor={rgb}{0.012,0.663,0.957}, noteBorderColor={rgb}{0.012,0.663,0.957}, tipBorderColor={rgb}{1,0.412,0.706}',
-    'preamble': r'''
-    \usepackage[UTF8]{ctex}
-    \usepackage{xeCJK}
-    \usepackage{indentfirst}
-    \setlength{\parindent}{2em}
-    \XeTeXlinebreaklocale "zh"
-    \XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
-    ''',
     'figure_align': 'H',
 }
 
