@@ -162,9 +162,9 @@ latex_elements = {
     'utf8extra': '',
     'preamble': r'''
     \usepackage[UTF8]{ctex}
-    \setCJKmainfont{.static/fonts/NotoSerifCJK-Light.ttc}
-    \setCJKsansfont{.static/fonts/NotoSerifCJK-Bold.ttc}
-    \setCJKmonofont{.static/fonts/NotoSerifCJK-Light.ttc}
+    \setCJKmainfont[Path=.static/fonts/]{NotoSerifCJK-Light.ttc}
+    \setCJKsansfont[Path=.static/fonts/]{NotoSerifCJK-Bold.ttc}
+    \setCJKmonofont[Path=.static/fonts/]{NotoSerifCJK-Light.ttc}
     \xeCJKsetcharclass{"2460}{"2469}{1}
     ''',
 }
