@@ -42,7 +42,6 @@ release = ''
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['sphinxcontrib.cjk']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['.templates']
@@ -158,14 +157,19 @@ latex_elements = {
     # 'figure_align': 'htbp',
     'sphinxsetup': 'attentionBorderColor={rgb}{0.012,0.663,0.957}, noteBorderColor={rgb}{0.012,0.663,0.957}, tipBorderColor={rgb}{1,0.412,0.706}',
     'papersize': 'a4paper',
-    'preamble': r'''
-        \usepackage[UTF8]{ctex}
-        \setCJKmainfont{MS Mincho}
-        \setCJKsansfont{MS Gothic}
-        \setromanfont{Arial Unicode MS}
-        \xeCJKsetcharclass{"2460}{"2469}{1}
-    ''',
     'figure_align': 'H',
+    'inputenc': '',
+    'utf8extra': '',
+    'preamble': r'''
+    \ProvidesPackage{zhfontcfg}
+    \usepackage{fontspec,xunicode}
+    \defaultfontfeatures{Mapping=tex-text}
+    \usepackage{xeCJK}
+    \setCJKmainfont{MS Mincho}
+    \setCJKsansfont{MS Gothic}
+    \setromanfont{Arial Unicode MS}
+    \xeCJKsetcharclass{"2460}{"2469}{1}
+    ''',
 }
 
 # Grouping the document tree into LaTeX files. List of tuples

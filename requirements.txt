@@ -1,2 +1,1 @@
-sphinxcontrib-cjk
 -e git+https://github.com/lucays/sphinx-typlog-theme.git#egg=sphinx-typlog-theme
