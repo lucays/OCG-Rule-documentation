@@ -161,10 +161,11 @@ latex_elements = {
     'inputenc': '',
     'utf8extra': '',
     'preamble': r'''
+    \usepackage{fontspec}
     \usepackage[UTF8]{ctex}
-    \setCJKmainfont{Source Han Serif SC}
-    \setCJKsansfont{Source Han Sans SC}
-    \setCJKmonofont{Source Han Sans SC}
+    \setCJKmainfont{Noto Serif CJK SC}
+    \setCJKsansfont{Noto Sans CJK SC}
+    \setCJKmonofont{Noto Sans Mono CJK SC}
     \xeCJKsetcharclass{"2460}{"2469}{1}
     ''',
 }
