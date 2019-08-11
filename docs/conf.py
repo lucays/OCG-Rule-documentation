@@ -126,12 +126,13 @@ html_static_path = ['.static']
 # pixels large.
 #
 html_favicon = '.static/favicon.ico'
-
+print(pwd)
 # html_logo = '.static/logo.webp'
-
-
+pwd = os.getcwd()
+print(pwd)
+print(pwd)
 # -- Options for HTMLHelp output ---------------------------------------------
-
+print(pwd)
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'ocg-ruledoc'
 
