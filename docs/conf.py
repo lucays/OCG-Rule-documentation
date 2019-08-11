@@ -161,13 +161,10 @@ latex_elements = {
     'inputenc': '',
     'utf8extra': '',
     'preamble': r'''
-    \ProvidesPackage{zhfontcfg}
-    \usepackage{fontspec,xunicode}
-    \defaultfontfeatures{Mapping=tex-text}
-    \usepackage{xeCJK}
-    \setCJKmainfont{MS Mincho}
-    \setCJKsansfont{MS Gothic}
-    \setromanfont{Arial Unicode MS}
+    \usepackage[UTF8]{ctex}
+    \setCJKmainfont{Source Han Serif SC}
+    \setCJKsansfont{Source Han Sans SC}
+    \setCJKmonofont{Source Han Sans SC}
     \xeCJKsetcharclass{"2460}{"2469}{1}
     ''',
 }
