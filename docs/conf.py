@@ -128,6 +128,7 @@ html_static_path = ['.static']
 html_favicon = '.static/favicon.ico'
 
 # html_logo = '.static/logo.webp'
+import os
 pwd = os.getcwd()
 print(pwd)
 print(pwd)
