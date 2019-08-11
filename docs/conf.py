@@ -126,7 +126,7 @@ html_static_path = ['.static']
 # pixels large.
 #
 html_favicon = '.static/favicon.ico'
-print(pwd)
+
 # html_logo = '.static/logo.webp'
 pwd = os.getcwd()
 print(pwd)
