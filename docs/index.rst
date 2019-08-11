@@ -22,7 +22,7 @@ Welcome to ocg-rule's documentation!
 | 从ygomobile内跳转到这，下列方式下载不了电子书没反应的话，可以长按复制本站网址：https://ocg-rule.readthedocs.io，用手机浏览器进入，就可以正常下载了。
 
 -  电脑版网页的搜索框在左侧边栏，点击侧边栏底部v:latest/v:master一行就能看到下载pdf/epub文档的选项，方便没有网络时查看。
--  手机版网页要先点击左上角，出现侧边栏和搜索框，再点击底部找到下载选项。
+-  手机版网页要先点击左上角，出现侧边栏，再点击底部找到下载选项。
 
 .. tip::
 
@@ -32,9 +32,9 @@ Welcome to ocg-rule's documentation!
    | 一些英文简称也不会翻译。例如，S·X·P对应同调·XYZ·灵摆，除了「同调解除」这样，卡名包含后者等情况，不会使用后者，不要搜『:strike:`同调·XYZ·灵摆`』。
    | 本站涉及的主要是疑难的规则和调整，如果是不清楚怎么召唤怪兽等，这里找不到答案的基础问题，还是要看\ `新大师完全规则书 <https://legacy.gitbook.com/book/warsier/new_master_rule/details>`__\ 。
 
-| 相对pdf而言，epub格式对文本重新排版了，更适合手机阅读。
+| pdf目前部分文字显示存在问题，epub没有这些问题，并且对文本重新排版了，更适合手机阅读。
 | 阅读器的话，手机上推荐多看阅读app（需下载安装），电脑上直接用windows10内置的Edge浏览器即可（无需下载软件）。
-| pdf/epub文档只是下载时的网站内容，由于我一直在更新，推荐定期重新下载。
+| pdf/epub文档只是下载时的网站内容，由于网站内容一直在更新，推荐定期重新下载。
 
 .. tip:: 想看更新记录？点击这里→\ `lucays/ocg-rule/commit <https://github.com/lucays/ocg-rule/commits/master>`__\ 。
 
@@ -98,3 +98,10 @@ Welcome to ocg-rule's documentation!
 | 所有内容的代码见：\ `lucays/ocg-rule <https://github.com/lucays/ocg-rule>`__\ 。
 | 网站界面主题的代码见：\ `lucays/sphinx-typlog-theme <https://github.com/lucays/sphinx-typlog-theme>`__\ 。
 | readthedocs托管文档的步骤参考\ `使用ReadtheDocs托管文档 <https://www.xncoding.com/2017/01/22/fullstack/readthedoc.html>`__\ 和\ `sphinx文档 <http://www.sphinx-doc.org/en/master/>`__\ 。
+
+广告相关
+==========
+
+| 本网站托管在readthedocs，一个可以免费发布文档的网站。我使用了第三方主题避免了官方主题的广告。
+| 不过，readthedocs最近发布了公告会逐渐给第三方主题也加上广告：\ `New Ad Format Coming to Read the Docs Community Sites <https://blog.readthedocs.com/fixed-footer-ad-all-themes/>`__\ 虽然目前本网站还没有广告，但是不确定什么时候就会被加上。
+| 请注意这些广告与我没有任何关系，我也无法再去除。
