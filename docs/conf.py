@@ -158,9 +158,13 @@ latex_elements = {
     #
     # 'figure_align': 'htbp',
     'sphinxsetup': 'attentionBorderColor={rgb}{0.012,0.663,0.957}, noteBorderColor={rgb}{0.012,0.663,0.957}, tipBorderColor={rgb}{1,0.412,0.706}',
+    'papersize': 'a4paper',
     'preamble': r'''
-    \\usepackage{xeCJK}
-    \\xeCJKsetcharclass{"2460}{"2469}{1}
+        \usepackage[UTF8]{ctex}
+        \setCJKmainfont{MS Mincho}
+        \setCJKsansfont{MS Gothic}
+        \setromanfont{Arial Unicode MS}
+        \xeCJKsetcharclass{"2460}{"2469}{1}
     ''',
     'figure_align': 'H',
 }
