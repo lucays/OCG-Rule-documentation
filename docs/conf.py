@@ -12,7 +12,7 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
-# import os
+import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
@@ -128,12 +128,9 @@ html_static_path = ['.static']
 html_favicon = '.static/favicon.ico'
 
 # html_logo = '.static/logo.webp'
-import os
-pwd = os.getcwd()
-print(pwd)
-print(pwd)
+
 # -- Options for HTMLHelp output ---------------------------------------------
-print(pwd)
+
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'ocg-ruledoc'
 
@@ -141,6 +138,7 @@ htmlhelp_basename = 'ocg-ruledoc'
 # -- Options for LaTeX output ------------------------------------------------
 
 latex_logo = '.static/pdf_cover.png'
+font_path = os.path.join(os.getcwd(), '.static', 'fonts')
 latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').
     #
@@ -162,13 +160,7 @@ latex_elements = {
     'figure_align': 'H',
     'inputenc': '',
     'utf8extra': '',
-    'preamble': r'''
-    \usepackage[UTF8]{ctex}
-    \setCJKmainfont[Path=.static/fonts/]{NotoSerifCJK-Light.ttc}
-    \setCJKsansfont[Path=.static/fonts/]{NotoSerifCJK-Bold.ttc}
-    \setCJKmonofont[Path=.static/fonts/]{NotoSerifCJK-Light.ttc}
-    \xeCJKsetcharclass{"2460}{"2469}{1}
-    ''',
+    'preamble': '\\usepackage[UTF8]{ctex}\n\\setCJKmainfont[Path=%s]{NotoSerifCJK-Light.ttc}\n\\setCJKsansfont[Path=%s]{NotoSerifCJK-Bold.ttc}\n\\setCJKmonofont[Path=%s]{NotoSerifCJK-Light.ttc}\n\\xeCJKsetcharclass{"2460}{"2469}{1}\n' % (font_path, font_path, font_path),
 }
 
 # Grouping the document tree into LaTeX files. List of tuples
