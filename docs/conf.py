@@ -138,7 +138,7 @@ htmlhelp_basename = 'ocg-ruledoc'
 # -- Options for LaTeX output ------------------------------------------------
 
 latex_logo = '.static/pdf_cover.png'
-font_path = os.path.join(os.getcwd(), '.static', 'fonts')
+font_path = os.path.join(os.getcwd(), '.static', 'fonts') + '/'
 latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').
     #
