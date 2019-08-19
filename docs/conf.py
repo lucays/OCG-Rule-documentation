@@ -160,7 +160,7 @@ latex_elements = {
     'figure_align': 'H',
     'inputenc': '',
     'utf8extra': '',
-    'preamble': '\\usepackage[UTF8]{ctex}\n\\xeCJKsetup{CJKspace=true}\n\\setCJKmainfont[Path=%s]{NotoSansCJK-DemiLight.ttc}\n\\setCJKsansfont[Path=%s]{NotoSansCJK-Bold.ttc}\n\\setCJKmonofont[Path=%s]{NotoSansCJK-DemiLight.ttc}\n\\xeCJKsetcharclass{`①}{`①}{1}\n\\xeCJKsetcharclass{`②}{`②}{1}\n\\xeCJKsetcharclass{`③}{`③}{1}\n\\xeCJKsetcharclass{`④}{`④}{1}\n' % (font_path, font_path, font_path),
+    'preamble': '\\usepackage[UTF8]{ctex}\n\\xeCJKsetup{CJKspace=true}\n\\setCJKmainfont[Path=%s]{NotoSansCJK-DemiLight.ttc}\n\\setCJKsansfont[Path=%s]{NotoSansCJK-Bold.ttc}\n\\setCJKmonofont[Path=%s]{NotoSansCJK-DemiLight.ttc}\n\\xeCJKsetcharclass{`①}{`⑤}{1}\n\\XeTeXcharclass`①=1\n' % (font_path, font_path, font_path),
 }
 
 # Grouping the document tree into LaTeX files. List of tuples
