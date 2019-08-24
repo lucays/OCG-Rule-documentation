@@ -102,6 +102,6 @@ Welcome to ocg-rule's documentation!
 广告相关
 ==========
 
-| 本网站托管在readthedocs，一个可以免费发布文档的网站。我使用了第三方主题避免了官方主题的广告。
-| 不过，readthedocs最近发布了公告会逐渐给第三方主题也加上广告：\ `New Ad Format Coming to Read the Docs Community Sites <https://blog.readthedocs.com/fixed-footer-ad-all-themes/>`__\ 虽然目前本网站还没有广告，但是不确定什么时候就会被加上。
+| 本网站托管在\ `readthedocs <https://readthedocs.org/>`__\ ，一个可以免费发布文档的网站。我使用了第三方主题避免了官方主题的广告。
+| 不过，readthedocs最近发布了公告会给第三方主题的项目网页也加上广告：\ `New Ad Format Coming to Read the Docs Community Sites <https://blog.readthedocs.com/fixed-footer-ad-all-themes/>`__\。
 | 请注意这些广告与我没有任何关系，我也无法再去除。
