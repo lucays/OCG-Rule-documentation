@@ -1504,7 +1504,7 @@ wiki：
 | 数据库：
 | 「拓扑篡改感染龙」在对方没有手卡时也会发动①效果，处理时自己选至少1张手卡丢弃，这个效果处理完毕。\ `19/9/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22791&keyword=&tag=-1>`__
 | 一时除外的怪兽受到「融合解除」的效果时，也可以特殊召唤融合素材。\ `19/9/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22795&keyword=&tag=-1>`__
-| 一时除外的怪兽受到「同调解除」的效果时，也可以特殊召唤融合素材。\ `19/9/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11372&keyword=&tag=-1>`__
+| 一时除外的怪兽受到「同调解除」的效果时，也可以特殊召唤S素材。\ `19/9/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11372&keyword=&tag=-1>`__
 | 「龙女仆 天风龙」的①效果不能取通常怪兽为对象发动，但可以取没有再1次召唤的二重怪兽为对象发动。\ `19/9/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22793&keyword=&tag=-1>`__
 | 连锁1发动特殊召唤怪兽的效果，连锁2发动「虚无空间」，连锁3发动「王之支配」①效果的场合，由于「虚无空间」的效果被变更，连锁1的效果正常适用。在连锁处理后，「虚无空间」会像发动完的通常陷阱一样送去墓地（不是因卡的效果送去墓地）。\ `19/9/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22792&keyword=&tag=-1>`__
 
