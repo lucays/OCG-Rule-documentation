@@ -1621,7 +1621,7 @@ wiki：
 | 宣言「晴天气 锈红」的「禁止令」和「王宫的敕命」在场上存在，把「王宫的敕命」送去墓地作为cost发动「晴天气 锈红」的①效果，「禁止令」的效果再次适用的场合，效果处理全不适用。
 
 | wiki：
-| 「衍生物收集者」的效果适用中，不能特殊召唤衍生物的状况，不能发动发动「原始生命态 尼比鲁」的①效果。\ `19/9/14 <http://yugioh-wiki.net/index.php?%A1%D4%B8%B6%BB%CF%C0%B8%CC%BF%C2%D6%A5%CB%A5%D3%A5%EB%A1%D5#faq>`__
+| 「衍生物收集者」的效果适用中，不能特殊召唤衍生物的状况，不能发动「原始生命态 尼比鲁」的①效果。\ `19/9/14 <http://yugioh-wiki.net/index.php?%A1%D4%B8%B6%BB%CF%C0%B8%CC%BF%C2%D6%A5%CB%A5%D3%A5%EB%A1%D5#faq>`__
 | 场上只存在「召唤僧」的状况，也能发动「原始生命态 尼比鲁」的①效果。效果处理全不适用。\ `19/9/14 <http://yugioh-wiki.net/index.php?%A1%D4%B8%B6%BB%CF%C0%B8%CC%BF%C2%D6%A5%CB%A5%D3%A5%EB%A1%D5#faq>`__
 | 场上只存在不受效果影响的怪兽的状况，也能发动「原始生命态 尼比鲁」的①效果。效果处理全不适用。\ `19/9/14 <http://yugioh-wiki.net/index.php?%A1%D4%B8%B6%BB%CF%C0%B8%CC%BF%C2%D6%A5%CB%A5%D3%A5%EB%A1%D5#faq>`__
 | 「原始生命态 尼比鲁」的①效果发动时，连锁发动「心灵崩坏」宣言「原始生命态 尼比鲁」的场合，只把表侧表示的怪兽全部解放，后续特殊召唤不适用。\ `19/9/14 <http://yugioh-wiki.net/index.php?%A1%D4%B8%B6%BB%CF%C0%B8%CC%BF%C2%D6%A5%CB%A5%D3%A5%EB%A1%D5#faq>`__
