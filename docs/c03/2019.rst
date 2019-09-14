@@ -1585,3 +1585,48 @@ wiki：
 | 裁定变更：
 | 「星守之骑士 托勒密」在结束阶段发动②效果后再被夺取控制权的场合，对方是否还能发动1次②效果，调整中。
 | 「技能抽取」和1只表侧表示的「Sin」怪兽以及1只里侧表示的「Sin」怪兽在场上存在，发动「停战协定」把里侧表示的那只翻开后，再发动「旋风」破坏「技能抽取」的场合，如果这2只「Sin」怪兽的控制者不是同一玩家，回合玩家的效果先适用，非回合玩家的破坏，如果是同一玩家，选1只破坏。
+
+9/13
+
+| wiki：
+| 「爬虫妖女·许德拉」的①效果处理时，对象怪兽攻击力已经是0的状况，不会特殊召唤，不会造成伤害。\ `19/9/13 <http://yugioh-wiki.net/index.php?%A1%D4%A5%EC%A5%D7%A5%C6%A5%A3%A5%EC%A5%B9%A1%A6%A5%D2%A5%E5%A5%C9%A5%E9%A1%D5#faq>`__
+
+| 数据库：
+| 场上存在「神影依 米德拉什」的状况，不能发动「原始生命态 尼比鲁」的①效果（先特殊召唤自身再特殊召唤衍生物，是2次特殊召唤）。\ `19/9/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22804&keyword=&tag=-1>`__
+| 「群雄割据」适用中，场上有岩石族以外的怪兽存在的场合，「原始生命态 尼比鲁」的效果不能发动。\ `19/9/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22802&keyword=&tag=-1>`__
+| 场上存在「召唤僧」的状况，也能发动「原始生命态 尼比鲁」的①效果。这个场合，把剩余的怪兽解放，只要解放了1只怪兽或者更多，就可以特殊召唤自身以及衍生物，如果没能解放怪兽，则不会特殊召唤。\ `19/9/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22810&keyword=&tag=-1>`__
+| 「亚空间物质传送装置」把怪兽除外以后，发动「时间女神的恶作剧」的场合，由于结束阶段被跳过，被除外的那只怪兽不会回场，仍然除外。\ `19/9/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22809&keyword=&tag=-1>`__
+| 「敌人操纵器」得到对方「女武神」怪兽的控制权，之后发动「时间女神的恶作剧」的场合，「敌人操纵器」适用的效果消失，得到控制权的怪兽归还给对方。\ `19/9/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22817&keyword=&tag=-1>`__
+| 「大宇宙」的效果适用中，发动「时间女神的恶作剧」的场合，虽然「时间女神的恶作剧」自身没有送去墓地，后续处理也仍然适用。\ `19/9/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22818&keyword=&tag=-1>`__
+| 「虚无空间」的效果适用中，也能发动手卡「未界域的大脚怪」的①效果。效果处理时把「未界域的大脚怪」以外的卡丢弃的场合，后续的特召以及抽卡的处理不适用，「未界域的大脚怪」留在手卡。\ `19/9/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22815&keyword=&tag=-1>`__
+| 没有可用怪兽区域的状况，也能发动手卡「未界域的大脚怪」的①效果。效果处理时把「未界域的大脚怪」以外的卡丢弃的场合，后续的特召以及抽卡的处理不适用，「未界域的大脚怪」留在手卡。\ `19/9/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22814&keyword=&tag=-1>`__
+| 「禁采令地精灵」的效果处理时，作为对象的怪兽变成里侧表示的场合，『这个回合，那只怪兽不能解放，也不能作为融合·同调·XYZ·连接召唤的素材』的效果仍然正常适用（翻开后也不能解放或作为融合·同调·XYZ·连接召唤的素材）。\ `19/9/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22800&keyword=&tag=-1>`__
+| 「时间潜行者停秒」的效果处理时，作为对象的怪兽变成里侧表示的场合，攻击力不会上升，后续处理不适用。\ `19/9/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22806&keyword=&tag=-1>`__
+| 对方「拷问巨人」特殊召唤时，是先特殊召唤衍生物后把自身在自己场上特殊召唤，是『从对方的手卡往自己场上只有怪兽1只特殊召唤的场合』，「一点着地」的①效果可以发动。\ `19/9/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22801&keyword=&tag=-1>`__
+| 对方把「女神诗蔻蒂的托宣」进行卡的发动时，无论对方场上是否只有「女武神」怪兽，都可以连锁「灰流丽」。\ `19/9/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22816&keyword=&tag=-1>`__
+| 「女神薇儿丹蒂的引导」②效果发动时也可以连锁「灰流丽」。\ `19/9/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22811&keyword=&tag=-1>`__
+| 宣言怪兽发动的「女神薇儿丹蒂的引导」②效果处理时翻开了仪式怪兽的场合，由于不能盖放（不能特殊召唤），结果加入手卡。\ `19/9/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22812&keyword=&tag=-1>`__
+| 「极星灵 阿尔维斯」的①效果发动时连锁发动「大宇宙」，怪兽没有送去墓地而是被除外的场合，不会特殊召唤「极神」怪兽。\ `19/9/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22799&keyword=&tag=-1>`__
+
+.. note:: 「虚无空间」等效果适用，不能把怪兽特殊召唤时，满足特定条件后必须特殊召唤的效果中，目前只有「未界域」怪兽和「长世国王恶魔」的效果可以发动。和「未界域」怪兽①效果描述接近的「连接苹果」仍然不能发动效果。
+
+| 裁定变更：
+| 「光之护封剑」发动后，第3个对方回合被「时间女神的恶作剧」的效果跳过的场合，「光之护封剑」不会破坏，仍然留在场上，并且『对方怪兽不能攻击宣言』的效果继续适用。\ `19/9/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22796&keyword=&tag=-1>`__
+
+9/14
+
+| 邮件：
+| 「小丑与锁鸟」的效果适用中，也能发动手卡「未界域的大脚怪」的①效果。效果处理时把「未界域的大脚怪」以外的卡丢弃的场合，也会特殊召唤，不会抽卡。
+| 宣言「寒冰手」的「禁止令」和「王宫的敕命」在场上存在，发动「寒冰手」的效果破坏「王宫的敕命」，「禁止令」的效果再次适用的场合，仍然可以特殊召唤「火焰手」。
+| 宣言「晴天气 锈红」的「禁止令」和「王宫的敕命」在场上存在，把「王宫的敕命」送去墓地作为cost发动「晴天气 锈红」的①效果，「禁止令」的效果再次适用的场合，后续处理也仍然适用。
+
+| wiki：
+| 「衍生物收集者」的效果适用中，不能特殊召唤衍生物的状况，不能发动发动「原始生命态 尼比鲁」的①效果。\ `19/9/14 <http://yugioh-wiki.net/index.php?%A1%D4%B8%B6%BB%CF%C0%B8%CC%BF%C2%D6%A5%CB%A5%D3%A5%EB%A1%D5#faq>`__
+| 场上只存在「召唤僧」的状况，也能发动「原始生命态 尼比鲁」的①效果。效果处理全不适用。\ `19/9/14 <http://yugioh-wiki.net/index.php?%A1%D4%B8%B6%BB%CF%C0%B8%CC%BF%C2%D6%A5%CB%A5%D3%A5%EB%A1%D5#faq>`__
+| 场上只存在不受效果影响的怪兽的状况，也能发动「原始生命态 尼比鲁」的①效果。效果处理全不适用。\ `19/9/14 <http://yugioh-wiki.net/index.php?%A1%D4%B8%B6%BB%CF%C0%B8%CC%BF%C2%D6%A5%CB%A5%D3%A5%EB%A1%D5#faq>`__
+| 「原始生命态 尼比鲁」的①效果发动时，连锁发动「心灵崩坏」宣言「原始生命态 尼比鲁」的场合，只把表侧表示的怪兽全部解放，后续特殊召唤不适用。\ `19/9/14 <http://yugioh-wiki.net/index.php?%A1%D4%B8%B6%BB%CF%C0%B8%CC%BF%C2%D6%A5%CB%A5%D3%A5%EB%A1%D5#faq>`__
+| 「原始生命态 尼比鲁」的①效果发动时，连锁发动「活死人的呼声」把「大天使 克里斯提亚」特殊召唤的场合，把包含其在内的表侧表示怪兽全部解放后，正常特殊召唤。\ `19/9/14 <http://yugioh-wiki.net/index.php?%A1%D4%B8%B6%BB%CF%C0%B8%CC%BF%C2%D6%A5%CB%A5%D3%A5%EB%A1%D5#faq>`__
+| 「阿瓦隆的魔女 摩根」破坏和把卡的效果发动无效是同时处理，破坏「女神的圣剑-鹰灵」的场合其②效果不会错过时点，可以发动。\ `19/9/14 <http://yugioh-wiki.net/index.php?%A1%D4%A5%A2%A5%F4%A5%A1%A5%ED%A5%F3%A4%CE%CB%E2%BD%F7%A5%E2%A5%EB%A5%AC%A5%F3%A1%D5#faq>`__
+
+| 数据库：
+| 「圣骑士 康尼厄斯」②效果是『把1只怪兽召唤』，和TCG不同，在OCG可以追加召唤「圣骑士」怪兽以外的怪兽。\ `19/9/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13984>`__
