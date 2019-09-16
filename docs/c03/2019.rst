@@ -1649,3 +1649,9 @@ wiki：
 | 邮件：
 | 自己「女神的圣弓-矢月」自身效果作为装备卡的状况，自己在战斗阶段发动「玄化升天」时，对方连锁发动「灰流丽」把这个效果无效的场合，「女神的圣弓-矢月」仍然会适用效果，装备怪兽可以攻击2次。
 | 「神圣光辉」的效果适用中，以「魔术礼帽」的效果表侧表示特殊召唤的「头奖壶7」为对象发动「妖精传姬-辉夜」的效果时，是否可以把卡组的「头奖壶7」送去墓地来把这个效果无效，调整中。
+
+| 数据库：
+| 自己怪兽区域存在2只「鹰身女郎」，魔法·陷阱卡区域作为装备卡存在1张「鹰身女郎」的状况，不能发动「鹰身女郎-凤凰之阵-」。\ `19/9/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13619&keyword=&tag=-1>`__
+| 「Sin 领域」被「旋风」的效果破坏，自己场上存在「Sin 青眼白龙」和「Sin 平行齿轮」的场合，自己可以任选1只怪兽破坏。\ `19/9/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22822&keyword=&tag=-1>`__
+| 「雷鸟龙-雷龙」的①效果把「雷劫龙-雷龙」特殊召唤的场合，由于这个效果发动时「雷劫龙-雷龙」还不在场上，①效果不会发动。\ `19/9/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22820&keyword=&tag=-1>`__
+| 对方额外卡组只有2张里侧表示的卡，自己墓地只有「装弹枪管狞猛龙」的场合，不能发动「枪刺处刑刃」。\ `19/9/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22821&keyword=&tag=-1>`__
