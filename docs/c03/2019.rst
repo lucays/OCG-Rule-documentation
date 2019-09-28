@@ -1747,7 +1747,7 @@ wiki：
 
 | 数据库：
 | 「跨界交融」的效果处理时自己怪兽不受效果影响的场合，效果处理正常适用；\ `19/9/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22828&keyword=&tag=-1>`__ 对方怪兽不受效果影响的场合，效果处理全不适用。\ `19/9/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22829&keyword=&tag=-1>`__
-| 自己手卡0张，场上有当作通常怪兽的二重怪兽存在的场合，「拉普提诺斯之超魔剑」的②效果可以发动，效果处理时会把二重怪兽再1次召唤。\ `19/9/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22827&keyword=&tag=-1>`__
+| 自己手卡0张，场上有当作通常怪兽的二重怪兽存在的场合，「拉普提诺斯之超魔剑」的②效果可以发动，在效果处理完毕时立即把二重怪兽再1次召唤。\ `19/9/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22827&keyword=&tag=-1>`__
 | 「升华骑士」和其装备的二重怪兽被对方发动的「崩界的守护龙」①效果同时破坏的场合，「升华骑士」的②效果可以发动。\ `19/9/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22826&keyword=&tag=-1>`__
 | 「超合魔兽 拉普提诺斯」的①效果适用中，手卡的「真化护法 主教」召唤成功的场合，已经是再1次召唤的状态，得到的效果可以发动。\ `19/9/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22830&keyword=&tag=-1>`__
 | 以「超合魔兽 拉普提诺斯」为对象发动「死者苏生」，连锁发动「活死人的呼声」把「真化护法 主教」特殊召唤的场合，这个时点是通常怪兽，之后「超合魔兽 拉普提诺斯」才特殊召唤成功，连锁处理后已经是再1次召唤状态的「真化护法 主教」也不能发动得到的效果。\ `19/9/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22825&keyword=&tag=-1>`__
