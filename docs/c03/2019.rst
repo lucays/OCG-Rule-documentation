@@ -1778,3 +1778,12 @@ wiki：
 
 | wiki:
 | 「智天之神星龙」特殊召唤的回合，发动「魂之灵摆」④效果的场合，在本身1次P召唤外，仍然只能再有1次P召唤。结果这个回合合计进行2次P召唤。\ `19/9/30 <http://yugioh-wiki.net/index.php?%A5%DA%A5%F3%A5%C7%A5%E5%A5%E9%A5%E0%BE%A4%B4%AD#faq>`__
+
+| 数据库：
+| 手卡的1只怪兽和额外卡组的1只灵摆怪兽同时灵摆召唤的场合，「一点着地」的效果不能发动。\ `19/9/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22834&keyword=&tag=-1>`__
+| 「时间潜行者 表盘修复师」的效果发动时，无论持有何种X素材，都可以连锁发动「灰流丽」的效果。\ `19/9/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22832&keyword=&tag=-1>`__
+| 「小丑与锁鸟」的效果适用中，也可以发动手卡「未界域的大脚怪」的①效果。效果处理时把「未界域的大脚怪」以外的怪兽丢弃的场合，只特殊召唤，不抽卡。\ `19/9/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22837&keyword=&tag=-1>`__
+| 「女武神长女」的②效果发动后，发动「时间女神的恶作剧」的场合，效果处理后「女武神长女」的②效果已经结束适用，攻击力恢复成1600。\ `19/9/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22836&keyword=&tag=-1>`__
+| 仍然可以把适用了「禁采令地精灵」效果的「电子龙」送去墓地来特殊召唤「嵌合要塞龙」（这不是融合召唤，这个场合是融合素材，不是融合召唤的素材）。\ `19/9/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22839&keyword=&tag=-1>`__
+| 「跃空垂耳兔飞行队」的效果处理时只是把自身从手卡特殊召唤，效果处理后再进行同调召唤。这个场合，「一点着地」的效果可以发动。\ `19/9/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22835&keyword=&tag=-1>`__
+| 「V・HERO 独善人」丢弃手卡的怪兽作为cost发动①效果时，「废车复活」不是连锁那个效果发动，而是在这个连锁处理完毕时发动。\ `19/9/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22833&keyword=&tag=-1>`__
