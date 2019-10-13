@@ -114,7 +114,7 @@
    | 「ABC-神龙歼灭者」效果处理部分只是『那些』，处理时可用怪兽区域不足的场合会选其中的部分怪兽特殊召唤，剩下的送去墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12475>`__
    | P区域「恩底弥翁的统领」的②效果是把自身和额外卡组的怪兽同时特殊召唤的效果，自己可用的怪兽区域只有1个的场合，这个效果不适用，不会特殊召唤怪兽，「恩底弥翁的统领」留在P区域，也不放置魔力指示物。\ `19/3/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22518&keyword=&tag=-1>`__
 
-   .. note:: 特别地，「星云龙 尼布拉龙」的①效果处理时，只有1个怪兽区域可用的场合，2只怪兽都不特殊召唤，留在手卡。\ `19/7/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22747&keyword=&tag=-1>`__
+   .. note:: 特别地，「星云龙 尼布拉龙」的①效果处理时，只有1个怪兽区域可用的场合，2只怪兽都不特殊召唤，留在手卡。\ `19/7/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22747&keyword=&tag=-1>`__ 另外，没有可用怪兽区域的场合也一样，不会送去墓地。19/7/15
 
    .. tip:: 「贪欲之壶」和「真源的帝王」②效果等的区别也是这样，前者效果处理部分明确记述了『5张』，处理时只剩4张或更少的场合这个效果完全不适用。后者效果处理部分没有记述具体数量，即使处理时只剩下1张也会适用。
 
