@@ -54,12 +54,9 @@
    | 「水晶翼同调龙」的效果破坏了怪兽让自己攻击力上升后，再被无效的场合，攻击力回到3000。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18191>`__
    | 「HSR 比剑骑手」的效果上升攻击力后，再被无效的场合，攻击力回到2000。效果恢复适用时，攻击力也是2000，之后再发动效果，会正常上升200攻击力。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16878>`__
    | 「魔海城 埃该翁」的效果除外了「幻影骑士团 断碎剑」，攻击力是2000，再被无效后，攻击力是0。无效效果结束适用后，「魔海城 埃该翁」的效果再度发动前，就这样保持0。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17272>`__
-   | 「鬼岩城」被「技能抽取」无效后，攻击力复原。「技能抽取」再不适用的场合，自身永续效果恢复适用，攻击力上升。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=45>`__
    | 「恶魔娘 莉莉丝」的效果只在召唤成功时适用1次，被「技能抽取」无效后，攻击力复原成2000。「技能抽取」再不适用的场合，攻击力仍是2000。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12542>`__
    | 「真魔兽 加泽特」的效果也只在召唤成功时适用1次，被「技能抽取」无效后，攻击力是0。「技能抽取」再不适用的场合，攻击力仍是0。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14300&keyword=&tag=-1>`__
-   | 「地中族邪界妖魔」\ `17/9/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21394&keyword=&tag=-1>`__ 「守墓的异能者」\ `18/7/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22050>`__ 也一样，「技能抽取」再不适用的场合，攻击力维持被无效而复原的数值。
-
-   .. note:: 「鬼岩城」和「地中族邪界妖魔」「守墓的异能者」的描述似乎没什么区别？这时卡与卡是不同的。
+   | 「地中族邪界妖魔」\ `17/9/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21394&keyword=&tag=-1>`__ 「守墓的异能者」\ `18/7/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22050>`__ 「鬼岩城」\ `19/10/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=45&keyword=&tag=-1>`__ 等也一样，被「技能抽取」无效后，「技能抽取」再不适用的场合，攻击力维持被无效而复原的数值。
 
 -  | 这个效果\ **只要能影响其他卡，即使处理时只影响自身**\ 的场合，被无效后那个效果仍然适用，不会复原。
    | 例：
