@@ -194,13 +194,15 @@
 -  | 发动的效果被无效时，没有其他记载的场合该卡不会移动。
    | 记述『效果无效并破坏』等时由于被破坏而送去墓地。如果在场上，则从场上送去墓地。
    | 例：
+   | 「机壳工具 丑恶」放置到P区域作魔法卡的发动时，对方场上存在「深渊鳞甲-蛟」的场合，「深渊鳞甲-蛟」的效果适用，「机壳工具 丑恶」卡的发动时的效果处理无效（「机壳工具 丑恶」在卡的发动时没有效果处理，所以其实是无意义无效），仍然留在场上，「深渊鳞甲-蛟」送去墓地。之后「机壳工具 丑恶」的效果恢复适用，再发动②效果的场合不会无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7742>`__\
+   | 「黑魔导阵」卡的发动时，连锁发动「灰流丽」效果的场合，「黑魔导阵」①效果无效，由于发动成功继续留在场上。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20542>`__\
    | 对应「死者苏生」的发动，连锁发动「王宫的弹压」的效果时，是破坏场上卡片的效果，因此可以连锁发动「星尘龙」的①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11582>`__\
    | 「诱饵人偶」把第2张「龙魂之城」发动时，由于发动时机不正确，效果无效并破坏，从场上送去墓地，可以发动③效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10996&keyword=&tag=-1>`__\
 
 | 这类效果只是把那次发动的效果无效，不会无效卡片的全部效果。
 | 例：
 | 「星际仙踪-翠玉都」发动①效果时，连锁发动「坏星坏兽 席兹奇埃鲁」的④效果的场合，只是把这1次的①效果无效。之后再发动①效果或者其他效果的场合都不会无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19860&keyword=&tag=-1>`__\
-| 「魔族之链」发动时，连锁发动「甲虫装机的宝珠」的效果的场合，只在连锁处理时无效1次效果，之后「魔族之链」的效果正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14646&keyword=&tag=-1>`__\
+| 「魔族之链」发动时，连锁发动「甲虫装机的宝珠」的效果的场合，由于「魔族之链」\ **在卡的发动时没有效果处理**\ ，结果仍然正常适用效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14646&keyword=&tag=-1>`__\
 | 「幻变骚灵协议」适用中，特殊召唤的「幻变骚灵」怪兽发动效果时，连锁发动「虫惑的落穴」的场合，由于那次效果不会被无效，结果不会破坏。\ `18/4/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10038&keyword=&tag=-1>`__\
 
 .. attention:: 类似记述『效果无效并破坏』的「炼狱的落穴」由于并不对应效果的发动，结果处理时会把怪兽的全部效果无效，并破坏。
