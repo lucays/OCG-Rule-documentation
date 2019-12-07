@@ -135,6 +135,8 @@
    | 例：
    | 「异色眼绝零龙」变成里侧后，送去墓地时，可以发动②效果。\ `15/6/19 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16189&keyword=&tag=-1>`__
 
+-  连接召唤的怪兽被一时除外后，\ **仍然是连接召唤的怪兽**\ 。\ `17/8/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21329>`__ \ `18/11/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22305>`__
+
 -  融合召唤的怪兽变成里侧或被一时除外后，\ **仍然是融合召唤的怪兽**\ 。\ `16/7/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19553&keyword=&tag=-1>`__
 
 -  仪式召唤的怪兽变成里侧或被一时除外后，\ **仍然是仪式召唤的怪兽**\ 。\ `17/9/21 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=69&keyword=&tag=-1>`__ `17/10/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13294&keyword=&tag=-1>`__
@@ -148,11 +150,12 @@
 用何出场
 ========
 
-| 上级·仪式·融合·S·X召唤的怪兽，变成里侧再反转或被一时除外后，\ **失去用何怪兽通常·特殊召唤的效果**\ 。
+| 上级·仪式·融合·S·X·连接召唤的怪兽，变成里侧再反转（连接怪兽不会变成里侧表示）或被一时除外后，\ **失去用何怪兽通常·特殊召唤的效果**\ 。
 | 例：
 | 表侧表示上级召唤的「真龙剑皇 卓辉星·拼图」变成里侧表示后，①效果不再适用。再反转的场合仍不适用。
 | 「炎龙星-狻猊」S召唤的「幻龙星-嘲风」在变成里侧再反转或被一时除外后，①效果和「炎龙星-狻猊」的③效果不再适用。
 | 用怪兽3只以上作为素材融合召唤的「魔玩具·军刀剑齿虎」在变成里侧或被一时除外后，其③效果不再适用。
+| 用「转生炎兽 炽热多头狮」为素材连接召唤的「转生炎兽 炽热多头狮」被一时除外后，②效果不能再发动。\ `18/7/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22007>`__
 
 -  | 但是，被解放的卡和素材等本身没有失去联系，对变成里侧再反转或被一时除外后的融合·S怪兽使用「融合解除」「同调解除」，\ **还能特殊召唤**\ 融合素材或S素材。\ `19/9/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22795&keyword=&tag=-1>`__ \ `19/9/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11372&keyword=&tag=-1>`__
    | 例：
