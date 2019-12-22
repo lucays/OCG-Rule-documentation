@@ -2667,15 +2667,15 @@ wiki：
 | 以2只怪兽为对象的「活回忆之羽衣精」的效果发动时，连锁发动「月之书」把其中1只对象怪兽变成里侧表示的场合，「活回忆之羽衣精」的效果正常适用，另1只对象怪兽变成里侧表示，自身特殊召唤。\ `19/12/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22930&keyword=&tag=-1>`__
 | 「眩月龙 塞勒格莱尔」的③效果处理时，对象怪兽变成里侧守备表示的场合，这个效果正常适用，自身回到手卡，得到对象怪兽的控制权。\ `19/12/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22931&keyword=&tag=-1>`__
 | 「解码语者·炽热之魂」的②效果发动时，不论对方基本分是多少，都可以连锁发动「神之警告」。\ `19/12/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22919&keyword=&tag=-1>`__
-| 「大宇宙」适用中，也可以发动「報復の隠し歯」。『选自己场上盖放的2张卡破坏，那次攻击无效』正常适用，后续不适用。\ `19/12/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22922&keyword=&tag=-1>`__
-| 以「哥布林突击部队」为对象发动「闇味鍋パーティー」的①效果，连锁发动「月之书」把「哥布林突击部队」变成里侧守备表示的场合，「闇味鍋パーティー」的效果也会适用。那个战斗阶段中「哥布林突击部队」是攻击表示的场合，攻击之际会适用「闇味鍋パーティー」的效果。\ `19/12/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22928&keyword=&tag=-1>`__
-| 可以取「幻变骚灵」连接怪兽为对象来发动手卡「オルターガイスト・フィジアラート」的①效果。\ `19/12/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22924&keyword=&tag=-1>`__
+| 「大宇宙」适用中，也可以发动「报复的隐齿」。『选自己场上盖放的2张卡破坏，那次攻击无效』正常适用，后续不适用。\ `19/12/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22922&keyword=&tag=-1>`__
+| 以「哥布林突击部队」为对象发动「暗味锅派对」的①效果，连锁发动「月之书」把「哥布林突击部队」变成里侧守备表示的场合，「暗味锅派对」的效果也会适用。那个战斗阶段中「哥布林突击部队」是攻击表示的场合，攻击之际会适用「闇味鍋パーティー」的效果。\ `19/12/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22928&keyword=&tag=-1>`__
+| 可以取「幻变骚灵」连接怪兽为对象来发动手卡「幻变骚灵·警报食人水妖」的①效果。\ `19/12/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22924&keyword=&tag=-1>`__
 | 「幻变骚灵·查询普卡」作为连接素材送去墓地把「幻变骚灵」怪兽连接召唤成功时，可以发动这个「幻变骚灵·查询普卡」的②效果。\ `19/12/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22917&keyword=&tag=-1>`__
-| 「オルターガイスト・フィジアラート」的①效果发动时，对方连锁发动「心灵崩坏」让这个「オルターガイスト・フィジアラート」丢弃去墓地的场合，不会特殊召唤，不过那个对象怪兽在这个回合仍然也当作「幻变骚灵」怪兽处理。\ `19/12/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22925&keyword=&tag=-1>`__
+| 「幻变骚灵·警报食人水妖」的①效果发动时，对方连锁发动「心灵崩坏」让这个「幻变骚灵·警报食人水妖」丢弃去墓地的场合，不会特殊召唤，不过那个对象怪兽在这个回合仍然也当作「幻变骚灵」怪兽处理。\ `19/12/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22925&keyword=&tag=-1>`__
 | 「卷怒重来」和装备怪兽同时破坏的场合，不能发动「卷怒重来」的②效果。\ `19/12/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22927&keyword=&tag=-1>`__
 | 不能解放攻击力0的怪兽作为cost发动「幻变骚灵·存储姬摩莉甘」的①效果。\ `19/12/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22926&keyword=&tag=-1>`__
 | 墓地的「永恒结合」除外自身发动②效果的回合，对象以外的怪兽即使不受效果影响也不能攻击宣言。\ `19/12/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22918&keyword=&tag=-1>`__
-| 不能以相同等级的怪兽为对象发动「変容王 ヘル・ゲル」的①效果。\ `19/12/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22923&keyword=&tag=-1>`__
+| 不能以相同等级的怪兽为对象发动「变容王 狱胶」的①效果。\ `19/12/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22923&keyword=&tag=-1>`__
 
 12/21
 
@@ -2685,3 +2685,12 @@ wiki：
 | wiki:
 | 「超魔导龙骑士-真红眼龙骑士」的融合素材是「黑魔术师」和「真红眼黑龙」或龙族效果怪兽。用「黑魔术师」和场上的「白色灵龙」或当作效果怪兽的龙族二重怪兽为融合素材把「超魔导龙骑士-真红眼龙骑士」融合召唤时，「白色灵龙」等由于作为效果怪兽成为融合素材，这个「超魔导龙骑士-真红眼龙骑士」的②效果1回合只能发动1次。\ `19/12/21 <http://yugioh-wiki.net/index.php?%A1%D4%C4%B6%CB%E2%C6%B3%CE%B5%B5%B3%BB%CE%A1%DD%A5%C9%A5%E9%A5%B0%A1%BC%A5%F3%A1%A6%A5%AA%A5%D6%A1%A6%A5%EC%A5%C3%A5%C9%A5%A2%A5%A4%A5%BA%A1%D5#faq2>`__
 | 自己场上·墓地「宝玉兽」卡合计不止7种类存在的场合（例如存在8种类「宝玉兽」卡），不能发动「虹之引力」，「究极宝玉神 虹龙」不能用自身记述的方法特殊召唤。\ `19/12/21 <http://yugioh-wiki.net/index.php?%A1%D4%C6%FA%A4%CE%B0%FA%CE%CF%A1%D5#faq>`__
+
+12/22
+
+| 邮件：
+| 「魔术礼帽」特殊召唤的「神数」魔法·陷阱卡可以作为「始祖龙」的融合素材。这个场合，可以发动「神数的神托」的「●融合」效果。
+| 我方「超合魔兽 拉普提诺斯」的①效果适用中，对方发动「背德之堕天使」，我方连锁发动「战线复归」，把「真化护法 主教」特殊召唤成功后，「背德之堕天使」的效果破坏「超合魔兽 拉普提诺斯」或「真化护法 主教」的场合，处理后都可以发动「真化护法 主教」的②效果。
+
+| wiki:
+| 「前托枪管龙」的③效果处理时，作为对象的场上那只怪兽已经不在场上表侧表示存在的场合，不会无效，也就不会特殊召唤怪兽。\ `19/12/22 <http://yugioh-wiki.net/index.php?%A1%D4%A5%F4%A5%A1%A5%EC%A5%EB%A5%A8%A5%F3%A5%C9%A1%A6%A5%C9%A5%E9%A5%B4%A5%F3%A1%D5#faq>`__
