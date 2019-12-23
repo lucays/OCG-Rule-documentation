@@ -92,6 +92,7 @@ Welcome to ocg-rule's documentation!
    :glob:
 
    新大师规则变更点
+   大师规则（2020年4月版）变更点
    chapters/*
 
 源代码
