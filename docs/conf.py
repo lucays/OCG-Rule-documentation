@@ -164,10 +164,10 @@ latex_elements = {
     'preamble': r'''
         \usepackage[UTF8]{ctex}
         \xeCJKsetup{CJKspace=true}
-        \xeCJKDeclareCharClass{CJK}{`①,`⑵,`Ⅲ,`☃}
+        \xeCJKDeclareCharClass{CJK}{`①,`②,`③,`④,`⑤}
         \setCJKmainfont[Path=%s,BoldFont={NotoSerifCJK-Bold.ttc},ItalicFont={NotoSerifCJK-Light.ttc}]{NotoSansCJK-Light.ttc}
         \setCJKsansfont[Path=%s,BoldFont={NotoSansCJK-Bold.ttc},ItalicFont={NotoSerifCJK-Light.ttc}]{NotoSansCJK-Light.ttc}
-        \setCJKmonofont[Path=%s,BoldFont={NotoSansCJK-Bold.ttc},ItalicFont={NotoSerifCJK-Light.ttc}]{NotoSansCJK-DemiLight.ttc}
+        \setCJKmonofont[Path=%s,BoldFont={NotoSansCJK-Bold.ttc},ItalicFont={NotoSerifCJK-Light.ttc}]{NotoSansCJK-Light.ttc}
     ''' % (font_path, font_path, font_path),
 }
 
