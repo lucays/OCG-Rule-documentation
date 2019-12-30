@@ -112,5 +112,5 @@
 | 作为装备卡的怪兽·陷阱卡离开魔法·陷阱卡区域时，回到原本的状态，可以发动·适用自身不作为装备卡时持有的效果了。
 | 例：
 | 「怨邪帝 盖乌斯」以作为装备卡的「强化支援机械·重装武器」为对象发动效果的场合，除外后是暗属性，后续效果正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12294>`__
-| 作为装备卡的「混沌之黒魔术师」从场上离开时，自身效果会适用，结果除外。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15320>`__
+| 作为装备卡的「混沌之黑魔术师」从场上离开时，自身效果会适用，结果除外。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15320>`__
 | 作为装备卡的「E·HERO 绝对零度侠」从场上离开时，对方场上的怪兽全部破坏的效果会发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7847>`__

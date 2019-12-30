@@ -279,7 +279,7 @@
    | 例：
    | 「风帝 莱扎」把「冰灵神 穆兰格雷斯」返回主卡组的场合，「冰灵神 穆兰格雷斯」的效果在那个瞬间适用，场上存在「技能抽取」的场合这个效果也仍然适用。\ `17/12/28 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12644&keyword=&tag=-1>`__
    | 「技能抽取」适用中「大天使 克里斯提亚」从场上送去墓地时，仍然回到卡组最上方。\ `17/4/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8219>`__
-   | 「技能抽取」适用中「混沌之黒魔术师」从场上离开时，仍然除外。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15321>`__
+   | 「技能抽取」适用中「混沌之黑魔术师」从场上离开时，仍然除外。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15321>`__
    | 「白之衣」在无效状态下离场，不造成伤害。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20333&keyword=&tag=-1>`__ 「女神的加护」也是如此。
    | 「活死人的呼声」在无效状态下离场，特殊召唤的怪兽不会被破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6393>`__
    | 「通灵盘」被「王宫的通告」无效后离场，「死之信息」卡不会送去墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=4626>`__
