@@ -161,9 +161,14 @@ latex_elements = {
     'sphinxsetup': 'attentionBorderColor={rgb}{0.012,0.663,0.957}, noteBorderColor={rgb}{0.012,0.663,0.957}, tipBorderColor={rgb}{1,0.412,0.706}',
     'papersize': 'a4paper',
     'figure_align': 'H',
-    'inputenc': '',
-    'utf8extra': '',
-    'preamble': '\\usepackage[UTF8]{ctex}\n\\xeCJKsetup{CJKspace=true}\n\\xeCJKsetcharclass{"2460}{"2469}{1}\n\\setCJKmainfont[Path=%s,BoldFont={NotoSansCJK-Bold.ttc},ItalicFont={NotoSerifCJK-Light.ttc}]{NotoSansCJK-DemiLight.ttc}\n\\setCJKsansfont[Path=%s]{NotoSansCJK-DemiLight.ttc}\n\\setCJKmonofont[Path=%s]{NotoSansCJK-DemiLight.ttc}\n' % (font_path, font_path, font_path),
+    'preamble': r'''
+        \usepackage[UTF8]{ctex}
+        \xeCJKsetup{CJKspace=true}
+        \xeCJKDeclareCharClass{CJK}{`①,`⑵,`Ⅲ,`☃}
+        \setCJKmainfont[Path=%s,BoldFont={NotoSerifCJK-Bold.ttc},ItalicFont={NotoSerifCJK-Light.ttc}]{NotoSansCJK-Light.ttc}
+        \setCJKsansfont[Path=%s,BoldFont={NotoSansCJK-Bold.ttc},ItalicFont={NotoSerifCJK-Light.ttc}]{NotoSansCJK-Light.ttc}
+        \setCJKmonofont[Path=%s,BoldFont={NotoSansCJK-Bold.ttc},ItalicFont={NotoSerifCJK-Light.ttc}]{NotoSansCJK-DemiLight.ttc}
+    ''' % (font_path, font_path, font_path),
 }
 
 # Grouping the document tree into LaTeX files. List of tuples
