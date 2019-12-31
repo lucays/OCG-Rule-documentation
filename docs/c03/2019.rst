@@ -382,7 +382,7 @@
 
 | 数据库：
 | 已经放置了魔力指示物的「魔导战士 破坏者」虽然最多只能放置1个，也是能放置魔力指示物的卡。（因为记述了放置魔力指示物的效果）\ `19/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14213&keyword=&tag=-1>`__
-| 「邪心英雄 地狱连魔」效果发动被无效的场合，第2次准备阶段也能发动效果把除外的自身特殊召唤。\ `19/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6826&keyword=&tag=-1>`__
+| 「E-HERO 地狱连魔」效果发动被无效的场合，第2次准备阶段也能发动效果把除外的自身特殊召唤。\ `19/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6826&keyword=&tag=-1>`__
 
 3/19
 
@@ -885,12 +885,12 @@
 6/7
 
 | 数据库：
-| 「霸王城」的效果适用中，可以用「未来融合」的①效果把「邪心英雄」融合怪兽决定的融合素材送去墓地，可以用「未来融合」的②效果把「邪心英雄」融合怪兽融合召唤。\ `19/6/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22681&keyword=&tag=-1>`__
+| 「霸王城」的效果适用中，可以用「未来融合」的①效果把「E-HERO」融合怪兽决定的融合素材送去墓地，可以用「未来融合」的②效果把「E-HERO」融合怪兽融合召唤。\ `19/6/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22681&keyword=&tag=-1>`__
 | 「暗黑圣域」表侧表示存在的场合，「死之宣告」的②效果让「死之信息」卡当作「通灵盘」的效果在场上出现时，也可以适用「暗黑圣域」效果让「死之信息」卡在怪兽区域当作通常怪兽特殊召唤。\ `19/6/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22692&keyword=&tag=-1>`__
 | 「死之宣告」的②效果让「死之信息」卡当作「通灵盘」的效果在场上出现的场合，还得按照「通灵盘」确定的「E」「A」「T」「H」顺序出现。\ `19/6/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22691&keyword=&tag=-1>`__
 | 对方的「龙子」直接攻击的伤害步骤开始时，自己发动「抹杀之邪恶灵」的①效果把墓地的恶魔族·8星怪兽特殊召唤的场合，由于「龙子」不受怪兽效果影响，攻击对象不会转移，而伤害步骤没有卷回，因此继续直接攻击。\ `19/6/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22680&keyword=&tag=-1>`__
-| 「地缚地上绘」的②效果适用中，自己场上里侧守备表示的同调怪兽也可以用这个效果当作2只解放，\ `19/6/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22685&keyword=&tag=-1>`__ 不受魔法效果影响的同调怪兽不能当作2只解放。\ `19/6/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22683&keyword=&tag=-1>`__
-| 「帝王的烈旋」和「地缚地上绘」的效果适用的场合，可以用对方场上1只表侧表示的同调怪兽作为2只的数量解放来把「地缚神」怪兽上级召唤。（对方场上里侧的怪兽不能判断是否是同调怪兽，不能当作2只解放）\ `19/6/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22684&keyword=&tag=-1>`__
+| 「地缚地上绘」的②效果适用中，自己场上里侧守备表示的S怪兽也可以用这个效果当作2只解放，\ `19/6/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22685&keyword=&tag=-1>`__ 不受魔法效果影响的S怪兽不能当作2只解放。\ `19/6/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22683&keyword=&tag=-1>`__
+| 「帝王的烈旋」和「地缚地上绘」的效果适用的场合，可以用对方场上1只表侧表示的S怪兽作为2只的数量解放来把「地缚神」怪兽上级召唤。（对方场上里侧的怪兽不能判断是否是S怪兽，不能当作2只解放）\ `19/6/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22684&keyword=&tag=-1>`__
 | 对方场上只有「地缚地上绘」和1只「地缚神」怪兽，「超级运动员 无畏扣篮手」把那个「地缚神」怪兽战斗破坏，伤害计算后发动效果的场合，由于「地缚神」怪兽还在场上，「地缚地上绘」的①效果仍适用，不能成为效果的对象，而\ :ref:`确定被战斗破坏`\ 的怪兽也不能成为效果的对象，结果这个效果只能以自己场上的卡为对象发动。\ `19/6/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22676&keyword=&tag=-1>`__
 | 对方怪兽直接攻击让自己受到伤害的伤害计算后，自己发动「伤害之门」把「No.26 次元孔路 绕道章鱼」特殊召唤，由于伤害发生时「No.26 次元孔路 绕道章鱼」还不在场上，那个②效果不能发动。\ `19/6/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22669&keyword=&tag=-1>`__
 | 「千年眼纳祭神」以对方墓地的「千年眼纳祭神」为对象发动效果，把同名卡装备的场合，「千年眼纳祭神」立刻被自己的效果无效，不能维持装备，作为装备的「千年眼纳祭神」破坏送去对方墓地。\ `19/6/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22670&keyword=&tag=-1>`__
@@ -990,7 +990,7 @@ wiki：
 | 「暗黑圣域」的效果特殊召唤的「死之信息」卡不计入「诅咒人偶 妮可罗菲娅」②效果的数量。\ `19/6/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22698&keyword=&tag=-1>`__
 | 里侧表示的魔法·陷阱卡不计入「诅咒人偶 妮可罗菲娅」②效果的数量。\ `19/6/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22699&keyword=&tag=-1>`__
 | 「邪心」选择抽1张卡发动时，可以连锁发动「精灵之镜」，选择其他效果发动时，不能连锁发动「精灵之镜」。\ `19/6/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22701&keyword=&tag=-1>`__
-| 「霸王城」效果适用时，用「融合」来融合召唤的「邪心英雄」怪兽是正规出场，送去墓地后可以被无视召唤条件的「二重英雄攻击」的效果特殊召唤。\ `19/6/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22696&keyword=&tag=-1>`__
+| 「霸王城」效果适用时，用「融合」来融合召唤的「E-HERO」怪兽是正规出场，送去墓地后可以被无视召唤条件的「二重英雄攻击」的效果特殊召唤。\ `19/6/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22696&keyword=&tag=-1>`__
 
 | 裁定变更：
 | 「SNo.39 希望皇 霍普·电光皇」的①效果不影响怪兽。即使对方怪兽不受效果影响，也不能发动效果。\ `19/6/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19270&keyword=&tag=-1>`__
@@ -1261,7 +1261,7 @@ wiki：
 | 「破坏龙」以攻击力为0的怪兽发动效果时，不能连锁发动「洁净栗子球」的效果。以变成装备卡的攻击力不为0的「暴风龙防人」为对象发动效果时，也可以连锁发动「洁净栗子球」的效果。
 
 | wiki:
-| :strike:`同调怪兽被一时除外后，也能对其发动「同调合击」。`
+| :strike:`S怪兽被一时除外后，也能对其发动「同调合击」。`
 
 8/4
 
@@ -1314,7 +1314,7 @@ wiki：
 | 「超雷龙-雷龙」和相同攻击力的「灵灭术师 海空」「D-HERO 血魔 D」战斗，互相都被战斗破坏的状况，不能除外墓地怪兽代替自身的破坏。
 
 | 裁定变更：
-| 同调怪兽被一时除外后，不能对其发动「同调合击」。
+| S怪兽被一时除外后，不能对其发动「同调合击」。
 
 8/10
 
@@ -1780,7 +1780,7 @@ wiki：
 | 「智天之神星龙」特殊召唤的回合，发动「魂之灵摆」④效果的场合，在本身1次P召唤外，仍然只能再有1次P召唤。结果这个回合合计进行2次P召唤。\ `19/9/30 <http://yugioh-wiki.net/index.php?%A5%DA%A5%F3%A5%C7%A5%E5%A5%E9%A5%E0%BE%A4%B4%AD#faq>`__
 
 | 数据库：
-| 手卡的1只怪兽和额外卡组的1只灵摆怪兽同时灵摆召唤的场合，「一点着地」的效果不能发动。\ `19/9/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22834&keyword=&tag=-1>`__
+| 手卡的1只怪兽和额外卡组的1只P怪兽同时灵摆召唤的场合，「一点着地」的效果不能发动。\ `19/9/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22834&keyword=&tag=-1>`__
 | 「时间潜行者 表盘修复师」的效果发动时，无论持有何种X素材，都可以连锁发动「灰流丽」的效果。\ `19/9/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22832&keyword=&tag=-1>`__
 | 「小丑与锁鸟」的效果适用中，也可以发动手卡「未界域的大脚怪」的①效果。效果处理时把「未界域的大脚怪」以外的怪兽丢弃的场合，只特殊召唤，不抽卡。\ `19/9/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22837&keyword=&tag=-1>`__
 | 「女武神长女」的②效果发动后，发动「时间女神的恶作剧」的场合，效果处理后「女武神长女」的②效果已经结束适用，攻击力恢复成1600。\ `19/9/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22836&keyword=&tag=-1>`__
@@ -2233,7 +2233,7 @@ wiki：
 | 「废铁信号灯」的效果处理时，没能把发动无效的场合，仍然会把自身盖放。\ `19/11/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22874&keyword=&tag=-1>`__
 | 不受魔法效果影响的怪兽的攻击宣言时，「笑容动作」的②效果也会发动。没丢弃的场合，战斗伤害正常加倍。丢弃了的场合，由于攻击不会被无效，结果继续攻击。\ `19/11/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22869&keyword=&tag=-1>`__
 | 「野兽眼灵摆龙」通过自身方法把P怪兽解放从额外卡组特殊召唤的场合，那些P怪兽也是融合素材，「灵摆次元」的①效果会发动，『●融合』效果适用。\ `19/11/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22868&keyword=&tag=-1>`__
-| 场上的「元素英雄 永生侠」和「元素英雄 羽翼侠」是属性相同的怪兽，不能用这两只为素材把「元素英雄 日出侠」融合召唤。墓地的「元素英雄 永生侠」和「元素英雄 羽翼侠」是属性不同的怪兽，可以用这两只为素材把「元素英雄 日出侠」融合召唤。\ `19/11/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22877&keyword=&tag=-1>`__
+| 场上的「E·HERO 永生侠」和「E·HERO 羽翼侠」是属性相同的怪兽，不能用这两只为素材把「E·HERO 日出侠」融合召唤。墓地的「E·HERO 永生侠」和「E·HERO 羽翼侠」是属性不同的怪兽，可以用这两只为素材把「E·HERO 日出侠」融合召唤。\ `19/11/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22877&keyword=&tag=-1>`__
 
 11/9
 
