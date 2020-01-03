@@ -24,7 +24,7 @@ import datetime
 # -- Project information -----------------------------------------------------
 
 project = 'ocg-rule'
-copyright = f'2018-{datetime.datetime.now().strftime("%Y")}, 碎冰'
+copyright = f'2018-{(datetime.datetime.now() + datetime.timedelta(hours=8)).strftime("%Y")}, 碎冰'
 author = '碎冰'
 
 # The short X.Y version
