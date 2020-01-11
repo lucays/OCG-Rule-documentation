@@ -29,6 +29,8 @@
 | 邮件：
 | 以「硼素死神 杰克南瓜」②效果特殊召唤的P怪兽为对象发动「灵摆切换」，这个P怪兽正常放置到P区域（没有从场上离开，不会除外）。
 | 自己场上没有可用的EX怪兽区域或连接端时，不能发动「净化光」（即使是在结束阶段才特殊召唤）。
+| 「神影依 米德拉什」的②效果适用中，「捕食植物 青锁龙森蚺」把「融合」送去墓地发动②效果时，连锁对其发动「无限泡影」的场合，这个回合还能进行1次特殊召唤，还能发动「强欲而谦虚之壶」。
+| 「神影依 米德拉什」的②效果适用中，「捕食植物 青锁龙森蚺」把「融合」送去墓地发动②效果时，可以连锁发动「替罪羊」「帝王的烈旋」。这个场合，「替罪羊」「帝王的烈旋」的效果适用后，「捕食植物 青锁龙森蚺」的②效果处理时，「融合」发动时的效果不适用，不会特殊召唤怪兽。
 
 | 数据库：
 | 不能以攻击力0的怪兽为对象发动「巨神封印之矢」。\ `20/01/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22938&keyword=&tag=-1&request_locale=ja>`__
@@ -43,7 +45,7 @@
 | 「电子界到临者@火灵天星」的连接端的自己主要怪兽区域全部有怪兽存在的场合，也能发动「电子界到临者@火灵天星」的④效果。这时，必须选择「电子界到临者@火灵天星」连接端的自己主要怪兽区域存在的怪兽为对象。\ `20/01/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22943&keyword=&tag=-1>`__
 | 可以取融合・S・X・连接怪兽为对象发动「星义旗舰兽」的①效果。这个效果处理时「星义旗舰兽」从手卡特殊召唤，对象怪兽回到额外卡组。\ `20/01/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22959&keyword=&tag=-1>`__
 | 自己没有手卡的场合，不能发动盖放的「空中鱼雷」。自己手卡只有1张「空中鱼雷」的场合， 不能发动那张「空中鱼雷」。\ `20/01/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22942&keyword=&tag=-1>`__
-| 「王宫的铁壁」的效果适用中，不能发动「真红莲星雨」。「真红莲星雨」发动时，连锁发动「王宫的铁壁」的场合，不会除外怪兽，因此双方场上的全部怪兽直到回合结束时都不受自身以外的效果影响。\ `20/01/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22940&keyword=&tag=-1>`__
+| 「王宫的铁壁」的①效果适用中，不能发动「真红莲星雨」。「真红莲星雨」发动时，连锁发动「王宫的铁壁」的场合，不会除外怪兽，因此双方场上的全部怪兽直到回合结束时都不受自身以外的效果影响。\ `20/01/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22940&keyword=&tag=-1>`__
 | 「机巧狐-宇迦之御魂稻荷」的②效果处理时，对象怪兽变成里侧守备表示的场合，这个效果不适用。\ `20/01/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22951&keyword=&tag=-1>`__
 | 「XYZ复活飞溅」效果特殊召唤的「黑鳍条枪兵」被战斗·效果破坏的场合，「义勇鲨枪兵」的②效果可以发动。\ `20/01/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22945&keyword=&tag=-1&request_locale=ja>`__
 | 原本持有者是自己的卡在对方场上被战斗·效果破坏的场合，「战华之孟-曹德」的①效果可以发动。\ `20/01/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22957&keyword=&tag=-1>`__
