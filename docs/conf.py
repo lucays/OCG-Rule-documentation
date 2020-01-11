@@ -165,9 +165,9 @@ latex_elements = {
         \usepackage[UTF8]{ctex}
         \xeCJKsetup{CJKspace=true}
         \xeCJKDeclareCharClass{CJK}{`①,`②,`③,`④,`⑤}
-        \setCJKmainfont[Path=%s,BoldFont={NotoSerifCJK-Bold.ttc},ItalicFont={NotoSerifCJK-Light.ttc}]{NotoSansCJK-Light.ttc}
-        \setCJKsansfont[Path=%s,BoldFont={NotoSansCJK-Bold.ttc},ItalicFont={NotoSerifCJK-Light.ttc}]{NotoSansCJK-Light.ttc}
-        \setCJKmonofont[Path=%s,BoldFont={NotoSansCJK-Bold.ttc},ItalicFont={NotoSerifCJK-Light.ttc}]{NotoSansCJK-Light.ttc}
+        \setCJKmainfont[Path=%s,BoldFont={NotoSerifCJK-Bold.ttc},ItalicFont={NotoSerifCJK-Light.ttc}]{NotoSansCJKsc-Light.otf}
+        \setCJKsansfont[Path=%s,BoldFont={NotoSansCJK-Bold.ttc},ItalicFont={NotoSerifCJK-Light.ttc}]{NotoSansCJKsc-Light.otf}
+        \setCJKmonofont[Path=%s,BoldFont={NotoSansCJK-Bold.ttc},ItalicFont={NotoSerifCJK-Light.ttc}]{NotoSansCJKsc-Light.otf}
     ''' % (font_path, font_path, font_path),
 }
 
