@@ -22,4 +22,34 @@
 1/9
 
 | 邮件：
-| | 「女神薇儿丹蒂的引导」的②效果宣言魔法·陷阱卡或怪兽卡发动时，能否连锁发动「王宫的弹压」的效果，仍调整中。
+| 「女神薇儿丹蒂的引导」的②效果宣言魔法·陷阱卡或怪兽卡发动时，能否连锁发动「王宫的弹压」的效果，仍调整中。
+
+1/10
+
+| 邮件：
+| 以「硼素死神 杰克南瓜」②效果特殊召唤的P怪兽为对象发动「灵摆切换」，这个P怪兽正常放置到P区域（没有从场上离开，不会除外）。
+| 自己场上没有可用的EX怪兽区域或连接端时，不能发动「净化光」（即使是在结束阶段才特殊召唤）。
+
+| 数据库：
+| 不能以攻击力0的怪兽为对象发动「巨神封印之矢」。\ `20/01/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22938&keyword=&tag=-1&request_locale=ja>`__
+| 「一点冲夺法」的①效果从额外卡组选怪兽时，可以选「连神龙」等不能被这个效果特殊召唤的怪兽。对方选的是相同种类的场合，对方选的怪兽送去墓地，我方选的「连神龙」不会特殊召唤，仍然留在额外卡组。\ `20/01/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22937&keyword=&tag=-1&request_locale=ja>`__
+| 攻击力和守备力都是「？」的怪兽不是攻击力和守备力相同的怪兽，「机巧狐-宇迦之御魂稻荷」的②效果不能把这种怪兽特殊召唤。\ `20/01/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22950&keyword=&tag=-1>`__
+| 对方把通常怪兽表侧表示特殊召唤的场合，只要攻击力不是0，就可以发动「朔夜时雨」的①效果。不过，是攻击力0的当作通常怪兽处理的二重怪兽的场合，也可以发动「朔夜时雨」的①效果。这个场合，那个二重怪兽效果无效，成为效果无效的效果怪兽（不再是通常怪兽了）。\ `20/01/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22948&keyword=&tag=-1>`__
+| 「宵星之骑士 吉尔苏」的②效果处理时，对方的没有可用的主要怪兽区域的场合，也不会在自己场上特殊召唤衍生物。\ `20/01/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22954&keyword=&tag=-1>`__
+| 对方把魔法·陷阱·怪兽的效果发动时，我方连锁发动「半龙女仆·耀光龙女」的②效果，对方再连锁发动「虚无空间」的场合，仍然把那次发动无效并破坏，「半龙女仆·耀光龙女」会回到额外卡组，但不会从额外卡组特殊召唤「半龙女仆·龙女管家」。\ `20/01/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22946&keyword=&tag=-1>`__
+| 因「朔夜时雨」的①效果受到伤害的玩家是对象怪兽的当前控制者。例如，对方的「青眼亚白龙」受到「朔夜时雨」的①效果影响后，我方再用「强制转移」得到其控制权，之后从我方场上离开的场合，受到伤害的玩家是我方。\ `20/01/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22947&keyword=&tag=-1>`__
+| 可以取魔法师族的融合・S・X・连接怪兽为对象发动「魔女术的守护灵」的①效果。这个效果处理时对象怪兽回到额外卡组的场合，也会从卡组把1张「魔女术」魔法卡加入手卡。\ `20/01/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22939&keyword=&tag=-1>`__
+| 把3只怪兽解放来发动「三位圣统者」的①效果的场合，可以连锁那个效果发动「灰流丽」的①效果。把1只或者2只怪兽解放来发动「三位圣统者」的①效果的场合，不能连锁发动「灰流丽」的①效果。\ `20/01/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22949&keyword=&tag=-1>`__
+| 「电子界到临者@火灵天星」的连接端的自己主要怪兽区域全部有怪兽存在的场合，也能发动「电子界到临者@火灵天星」的④效果。这时，必须选择「电子界到临者@火灵天星」连接端的自己主要怪兽区域存在的怪兽为对象。\ `20/01/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22943&keyword=&tag=-1>`__
+| 可以取融合・S・X・连接怪兽为对象发动「星义旗舰兽」的①效果。这个效果处理时「星义旗舰兽」从手卡特殊召唤，对象怪兽回到额外卡组。\ `20/01/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22959&keyword=&tag=-1>`__
+| 自己没有手卡的场合，不能发动盖放的「空中鱼雷」。自己手卡只有1张「空中鱼雷」的场合， 不能发动那张「空中鱼雷」。\ `20/01/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22942&keyword=&tag=-1>`__
+| 「王宫的铁壁」的效果适用中，不能发动「真红莲星雨」。「真红莲星雨」发动时，连锁发动「王宫的铁壁」的场合，不会除外怪兽，因此双方场上的全部怪兽直到回合结束时都不受自身以外的效果影响。\ `20/01/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22940&keyword=&tag=-1>`__
+| 「机巧狐-宇迦之御魂稻荷」的②效果处理时，对象怪兽变成里侧守备表示的场合，这个效果不适用。\ `20/01/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22951&keyword=&tag=-1>`__
+| 「XYZ复活飞溅」效果特殊召唤的「黑鳍条枪兵」被战斗·效果破坏的场合，「义勇鲨枪兵」的②效果可以发动。\ `20/01/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22945&keyword=&tag=-1&request_locale=ja>`__
+| 原本持有者是自己的卡在对方场上被战斗·效果破坏的场合，「战华之孟-曹德」的①效果可以发动。\ `20/01/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22957&keyword=&tag=-1>`__
+| 「破械童子 娑罗摩」的①效果以墓地的「破械」怪兽为对象发动的场合，可以连锁发动「神之警告」。以墓地的「破械」魔法・陷阱卡为对象发动的场合，不能连锁发动「神之警告」。\ `20/01/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22953&keyword=&tag=-1>`__
+| 「虚无空间」的①效果适用中，「破械童子 娑罗摩」的①效果要发动的场合，只能取墓地的「破械」魔法・陷阱卡为对象发动（墓地没有「破械」魔法・陷阱卡的场合不能发动）。\ `20/01/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22952&keyword=&tag=-1>`__
+| 我方卡的效果让原本持有者是我方的对方怪兽从场上离开，送去我方墓地的场合，「阿洛美勒丝之虫惑魔」的③效果可以发动。\ `20/01/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22944&keyword=&tag=-1>`__
+| 「超重机回送」的『●把这张卡在那只怪兽下面重叠作为XYZ素材』效果处理时，对象怪兽不受影响的场合，这个效果不适用，「超重机回送」仍留在魔法·陷阱卡区域。\ `20/01/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22941&keyword=&tag=-1>`__
+| 「深海哨兵」把对方手卡除外的场合，结束阶段回到对方手卡的处理是和「安卡栗子球」等结束阶段的处理一起，由控制者自选先后处理顺序，一个一个的进行。\ `20/01/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22958&keyword=&tag=-1>`__
+| 以当作永续陷阱的「V·HERO 微光人」为对象发动「战华之诡-贾文」的①效果时，连锁发动「V·HERO 微光人」的②效果把自身特殊召唤的场合，「战华之诡-贾文」的效果失去对象，不能把卡送去墓地，也不会把怪兽的攻击力减半。\ `20/01/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22955&keyword=&tag=-1>`__
