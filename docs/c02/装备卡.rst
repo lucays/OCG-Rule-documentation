@@ -61,7 +61,7 @@
 | 「金属化·魔法反射装甲」等作为装备卡的陷阱卡发动时，连锁发动「王宫的通告」的场合，效果无效而不能装备，因为是通常陷阱卡，在连锁处理后送去墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6396>`__
 | 例：
 | 「动力工具龙」装备有「球体时限炸弹」时，被破坏的场合，适用自身效果把1张自身装备的装备魔法卡送去墓地的场合，可以选这个「球体时限炸弹」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10997>`__
-| 「王宫的敕命」的效果适用中，作为装备卡的「龙骑兵团-方阵龙」发动的特殊召唤效果无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10061>`__
+| 「王宫的敕命」的①效果适用中，作为装备卡的「龙骑兵团-方阵龙」发动的特殊召唤效果无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10061>`__
 | 「幻变骚灵物化」装备中，发动「王宫的通告」的场合，「幻变骚灵物化」的效果无效，保持装备状态。之后「王宫的通告」的效果不再适用的场合「幻变骚灵物化」的效果又会恢复适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10477>`__
 
 .. attention::
