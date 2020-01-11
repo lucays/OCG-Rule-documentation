@@ -722,7 +722,7 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
    | 「虚无空间」的效果适用中，由于陷阱怪兽特殊召唤的结果是变成怪兽，作为陷阱卡时不能发动特殊召唤的效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18842>`__
    | 墓地「真源的帝王」的②效果发动时，不能连锁发动「屋敷童」的效果。\ `18/8/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22085>`__
 
-   .. tip:: 同样地，「魔术礼帽」也是从卡组把魔法·陷阱卡变成怪兽特殊召唤的效果，因此不能连锁发动「灰流丽」的效果。\ `18/8/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22086>`__
+   .. tip:: 同样地，「魔术礼帽」也是从卡组把魔法·陷阱卡变成怪兽特殊召唤的效果，因此不能连锁发动「灰流丽」的①效果。\ `18/8/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22086>`__
 
 -  | 盖放在魔法·陷阱卡区域的陷阱怪兽发动的处理时，不能特殊召唤或效果被无效的场合，若是永续陷阱，无意义留在魔法·陷阱卡区域，若是通常陷阱，送去墓地。
    | 即使之后不再被无效等场合，由于特殊召唤只在发动时适用，无意义留在魔法·陷阱卡区域的陷阱怪兽也不会再特殊召唤。

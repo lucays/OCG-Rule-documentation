@@ -30,8 +30,8 @@
 | 「沉眠于星遗物的深层」发动时，不选择对象的场合，不是包含把怪兽特殊召唤的效果，不能连锁发动「神之警告」。
 | 「自然的神星树」等永续陷阱卡的发动时，如果不同时发动把怪兽特殊召唤的效果，那么不能连锁发动「神之警告」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13786>`__
 | 「饼蛙」的②效果发动时，如果对应的是怪兽效果的发动，或P卡在P区域的发动，那么可以连锁发动「神之警告」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19625>`__
-| 「刚地帝 格兰玛格」不是用地属性怪兽解放来上级召唤时发动效果的场合，由于发动时确定不可能抽卡，不能连锁发动「灰流丽」的效果。\ `17/3/24 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20547&keyword=&tag=-1>`__
-| 4种类怪兽融合召唤的「狱火机 提耶拉」在融合召唤成功时发动效果，不能连锁发动「灰流丽」的效果。\ `17/3/24 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10690&keyword=&tag=-1>`__
+| 「刚地帝 格兰玛格」不是用地属性怪兽解放来上级召唤时发动效果的场合，由于发动时确定不可能抽卡，不能连锁发动「灰流丽」的①效果。\ `17/3/24 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20547&keyword=&tag=-1>`__
+| 4种类怪兽融合召唤的「狱火机 提耶拉」在融合召唤成功时发动效果，不能连锁发动「灰流丽」的①效果。\ `17/3/24 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10690&keyword=&tag=-1>`__
 | 墓地「森之番人 绿狒狒」的①效果发动时，可以连锁发动「屋敷童」的①效果。手卡「森之番人 绿狒狒」的①效果发动时，不能连锁发动「屋敷童」的①效果。\ `18/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21723>`__
 | 「狱火机·莉莉丝」的②效果对应墓地怪兽效果的发动而发动时，可以连锁发动「屋敷童」的①效果。对应墓地以外怪兽效果的发动而发动时，不能连锁发动「屋敷童」的①效果。\ `18/1/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7984>`__
 | 「小法师 水鱿火达磨」的③效果以墓地的怪兽为对象发动时，可以连锁发动「屋敷童」的①效果。以除外的怪兽为对象发动时，不能连锁发动「屋敷童」的①效果。\ `18/1/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10733>`__
