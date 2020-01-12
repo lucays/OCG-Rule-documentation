@@ -93,7 +93,7 @@ Welcome to ocg-rule's documentation!
 - Yuzuha
 - 日常的夏娜
 - 苍蓝
-- 青眼波涛
+- 青银波涛
 
 源代码
 =======
