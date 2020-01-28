@@ -224,7 +224,7 @@
 
 -  | 对怪兽攻击后，战斗步骤内不能再攻击该怪兽等的场合也会发生卷回。
    | 例：
-   | 「埋伏破坏者」在「技能抽取」适用中，向表侧表示的怪兽攻击，战斗步骤内「技能抽取」不适用的场合，发生战斗步骤的卷回。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12164>`__
+   | 「埋伏破坏者」在「技能抽取」的①效果适用中，向表侧表示的怪兽攻击，战斗步骤内「技能抽取」不适用的场合，发生战斗步骤的卷回。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12164>`__
    | 「E·HERO 宏伟侠」的②效果特殊召唤的怪兽向怪兽攻击时，对方发动「星级变化」把攻击对象怪兽等级下降到其等级以下的场合，发生战斗步骤的卷回。\ `18/12/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22375>`__
    | 对方怪兽攻击宣言时，自己发动「旗鼓堂堂」把「磁力指轮」给其他怪兽装备的场合，发生战斗步骤的卷回。即使是持有直接攻击能力的怪兽的直接攻击宣言时也是如此。
    | 持有直接攻击能力的怪兽的直接攻击宣言时，发动「仁王立」的②效果的场合，也发生战斗步骤的卷回。
@@ -235,7 +235,7 @@
 
 -  | 已经攻击宣言选择了攻击对象，再适用不能作为攻击对象的效果时，由于已经成为攻击对象，不会卷回。
    | 例：
-   | 「十二阵·签订」适用中，已经攻击后，卡片效果导致最高攻击力的怪兽发生变化的场合，已经成为攻击对象，不会卷回。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20160&keyword=&tag=-1>`__
+   | 「十二阵·签订」的效果适用中，已经攻击后，卡片效果导致最高攻击力的怪兽发生变化的场合，已经成为攻击对象，不会卷回。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20160&keyword=&tag=-1>`__
    | 「鬼计妖魔·阿鲁卡德」被「技能抽取」无效的状态，已经攻击后「技能抽取」被破坏的场合，已经选择攻击对象的那次攻击不会卷回。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8383&keyword=&tag=-1>`__
 
 | 卡的效果处理或连锁处理途中怪兽数量发生变化的场合，在那些处理\ **全部终了**\ 后发生卷回。处理完毕时有诱发效果或其他\ :ref:`快速效果`\ 要发动的场合，在那个效果处理结束后发生卷回。
@@ -434,7 +434,7 @@
    | 「心眼的祭殿」存在时，发动了「动作魔法-完全转弯」，战斗伤害仍然是1000。\ `17/12/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21>`__
    | 对1个「威风妖怪」怪兽发动2张「威风妖怪音波」，攻击力·守备力变成4倍，战斗伤害仍然只变成1半，不是1/4。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17398>`__
    | 「妖仙兽 镰贰太刀」装备「流星之弓-烨焰」时，都是不入连锁的效果，可以选用哪个效果直接攻击。选用「流星之弓-烨焰」的效果直接攻击时，战斗伤害就不会减半。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14049>`__
-   | 对方「伤害瘦身」适用中，自己「青眼混沌极龙」「炼装勇士·山铜狂战士」攻击时，给予2倍的战斗伤害，再被「伤害瘦身」的效果减半，最终互相抵消。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6122&keyword=&tag=-1>`__ \ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18767&keyword=&tag=-1>`__
+   | 对方「伤害瘦身」的效果适用中，自己「青眼混沌极龙」「炼装勇士·山铜狂战士」攻击时，给予2倍的战斗伤害，再被「伤害瘦身」的效果减半，最终互相抵消。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6122&keyword=&tag=-1>`__ \ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18767&keyword=&tag=-1>`__
    | 「动作魔法-完全转弯」发动时，由于效果在发动时不会立即适用，可以连锁发动第2张，结果仍然只是加倍。「动作魔法-完全转弯」已经适用的回合，不能再发动第2张。\ `17/12/5 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21650&keyword=&tag=-1>`__
    | 「动作魔法-完全转弯」发动后，「异色眼灵摆龙」攻击时造成的战斗伤害仍然只是加倍。\ `17/12/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11315&keyword=&tag=-1>`__
    | 「动作魔法-完全转弯」发动后，「青眼混沌极龙」攻击时，给予2倍的战斗伤害，再被「动作魔法-完全转弯」加倍，结果战斗伤害变成4倍。\ `18/4/26 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12895>`__

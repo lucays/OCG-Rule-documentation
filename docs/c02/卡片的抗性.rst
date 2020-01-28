@@ -40,7 +40,7 @@
 
 -  | 『不会成为效果对象』这样的效果不影响怪兽。
    | 例：
-   | 「失落世界」适用中，解放怪兽·永续魔法上级召唤的「真龙剑皇 卓辉星·拼图」发动②效果时，仍然不能选择衍生物以外的场上的怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7517>`__
+   | 「失落世界」的效果适用中，解放怪兽·永续魔法上级召唤的「真龙剑皇 卓辉星·拼图」发动②效果时，仍然不能选择衍生物以外的场上的怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7517>`__
    | 以受到「禁忌的圣枪」影响的怪兽为对象发动「安全地带」的场合，那个怪兽仍然不会成为对方效果的对象，其他效果全不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10683&keyword=&tag=-1>`__
    | 「极星天 古尔薇格」的②效果适用中，「黑羽-重装铠翼鸦」的③效果仍然不能选其连接端的「极神」怪兽作为效果的对象，只可以攻击「极星天 古尔薇格」。\ `18/11/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22303>`__
    | 对不受魔法效果影响的对方怪兽发动「禁忌的圣衣」，不能下降攻击力，后续全不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6142>`__
@@ -70,7 +70,7 @@
 | 不受影响指不受其他卡的效果影响。
 | 进入这个状态后，持续适用中的效果会消失。
 | 例：
-| 对「苦痛的回廊」适用中的怪兽发动「禁忌的圣枪」，则那个怪兽不再无效，可以攻击。回合结束后又回到无效且不能攻击的状态。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9799>`__
+| 对「苦痛的回廊」的效果适用中的怪兽发动「禁忌的圣枪」，则那个怪兽不再无效，可以攻击。回合结束后又回到无效且不能攻击的状态。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9799>`__
 | 对「再临的帝王」\ `18/2/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13230>`__ 「机壳的牲祭」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13593>`__ 装备的怪兽发动「禁忌的圣枪」，这个回合那个怪兽不可以作为2只的数量解放了。
 | 对被「墓穴的指名者」无效的怪兽发动「禁忌的圣枪」，那个怪兽也不再被无效。
 
@@ -95,7 +95,7 @@
 | 这种怪兽仍然会被战斗破坏。也不受『不会被战斗破坏』的效果影响。
 | 例：
 | 「RR-究极猎鹰」不会受到「RR-战备」的效果影响，还是会被战斗破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9815>`__
-| 「和睦的使者」适用中，不受陷阱影响的怪兽也会被战斗破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12849>`__
+| 「和睦的使者」的①效果适用中，不受陷阱影响的怪兽也会被战斗破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12849>`__
 
 | 取对象这个行为本身不是效果，不受影响的怪兽也可以成为效果的对象。
 | 即使影响不了，也可以对不受影响的怪兽发动效果，这个场合结果不适用。
@@ -108,10 +108,10 @@
 | 记述『自己·对方不能（用怪兽）攻击宣言』的效果不影响怪兽，即使不受影响的怪兽，也不能攻击宣言。
 | 记述『（自己·对方）怪兽不能攻击』或者仅记述『怪兽不能攻击宣言』的效果影响怪兽，如果不受影响，就可以攻击。其他就按具体含义判断了。
 | 例：
-| 「威吓之咆哮」适用中，不受影响的怪兽不能攻击。
-| 对「苦痛的回廊」适用中的怪兽发动「禁忌的圣枪」，则那个怪兽不再无效，可以攻击。回合结束后又回到无效且不能攻击的状态。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9799>`__
+| 「威吓之咆哮」的效果适用中，不受影响的怪兽不能攻击。
+| 对「苦痛的回廊」的效果适用中的怪兽发动「禁忌的圣枪」，则那个怪兽不再无效，可以攻击。回合结束后又回到无效且不能攻击的状态。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9799>`__
 | 「恐龙摔跤手·摔跤暴龙王」③效果适用后，对方要攻击的场合必须先用对象怪兽，不受影响也不能先攻击。\ `18/7/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22019>`__
-| 「召唤兽 卡利古拉」适用中，已经用1只怪兽攻击过后，不受影响的怪兽也不能攻击。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20234&keyword=&tag=-1>`__
+| 「召唤兽 卡利古拉」的效果适用中，已经用1只怪兽攻击过后，不受影响的怪兽也不能攻击。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20234&keyword=&tag=-1>`__
 | 「No.67 平行骰子天堂锤手」的效果适用后，不受影响的怪兽也不能攻击。\ `18/5/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9817>`__
 | 记述『自己不用那只怪兽不能攻击』的「圣像骑士的再集结」②效果发动后，不受影响的怪兽仍然可以攻击。\ `18/4/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21844>`__
 
@@ -182,7 +182,7 @@
 | 在不入连锁无效的「技能抽取」等适用中出场时，先适用「技能抽取」等效果，结果效果被无效。
 | 此外，同一时点有无效类效果和其他不入连锁效果适用的场合无效类效果优先适用。
 | 例：
-| 「技能抽取」适用中，解放永续魔法·永续陷阱上级召唤的「真龙剑皇 卓辉星·拼图」效果无效。之后「技能抽取」不适用的场合，这个「真龙剑皇 卓辉星·拼图」①效果正常适用，不受魔法·陷阱卡的效果影响。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9472>`__
+| 「技能抽取」的①效果适用中，解放永续魔法·永续陷阱上级召唤的「真龙剑皇 卓辉星·拼图」效果无效。之后「技能抽取」不适用的场合，这个「真龙剑皇 卓辉星·拼图」①效果正常适用，不受魔法·陷阱卡的效果影响。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9472>`__
 | 对方场上存在「破戒蛮龙-破坏龙」「龙破坏之剑士-破坏剑士」，自己在对方回合发动「奇妙XYZ」把「DDD 双晓王 末法神」表侧攻击表示X召唤的场合，「破戒蛮龙-破坏龙」「龙破坏之剑士-破坏剑士」先被无效，「DDD 双晓王 末法神」不会变成守备表示。
 
 | 自身永续效果不受效果影响的场合，被战斗破坏的伤害计算后由于永续效果不适用而失去抗性。
@@ -226,7 +226,7 @@
    | 例：
    | 「代理龙」不能选不受其他卡的效果影响的怪兽来代替破坏。\ `17/4/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20948>`__
    | 「荷鲁斯之黑炎龙 LV6」被破坏的场合可以把墓地的「复活的福音」除外来代替破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18424>`__
-   | 「大宇宙」适用中，「动力工具龙」被破坏的场合可以作为代替把其装备的1张装备魔法卡送去墓地，此时装备魔法卡结果被除外。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6529>`__
+   | 「大宇宙」的②效果适用中，「动力工具龙」被破坏的场合可以作为代替把其装备的1张装备魔法卡送去墓地，此时装备魔法卡结果被除外。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6529>`__
    | 「No.101 寂静荣誉方舟骑士」被破坏时，作为代替取除作为X素材的「影依蜥蜴」的场合，「影依蜥蜴」是被「No.101 寂静荣誉方舟骑士」的效果送去墓地，因此可以发动②效果。
 
 -  | 『被破坏的场合，\ **可以**\ 作为代替把～～破坏』不能选不会被效果破坏的卡作为代替，也不能选确定要被破坏的卡。
@@ -234,7 +234,7 @@
    | 总之，不能是确定被破坏的卡，并且必须能让代替破坏的效果正常处理。
    | 例：
    | 「代理龙」不能选不会被效果破坏的怪兽来代替破坏。\ `17/4/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20949>`__
-   | 「海龙神的加护」适用中，「武装海洋猎手」不能破坏自己场上表侧表示存在的1只3星以下的水属性怪兽来代替自身破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8815>`__
+   | 「海龙神的加护」的效果适用中，「武装海洋猎手」不能破坏自己场上表侧表示存在的1只3星以下的水属性怪兽来代替自身破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8815>`__
    | 发动「激流葬」，「六武众」怪兽全部确定破坏，不能互相代替，结果全部破坏送去墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6529>`__
    | 「幻影剑」和其对象怪兽都要被破坏的场合，「幻影剑」的效果不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17672>`__
    | 作为装备魔法卡处理的「怀抱圣剑的王后 桂妮薇儿」和装备怪兽都要被破坏时，其代替破坏的效果不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13767>`__
