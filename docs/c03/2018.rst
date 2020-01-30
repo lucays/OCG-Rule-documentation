@@ -897,14 +897,15 @@
 | 「龙族·封印的壶」「DNA改造手术」（宣言：龙族）适用中，不受陷阱影响的「救世魔龙」攻击里侧守备表示的「壶魔人」，被战斗破坏的伤害计算后发动反转效果，自身仍然会变成攻击表示。结果不会被「救世魔龙」的效果破坏。
 
 | 重复确认：
-| 持有11个X素材的「鬼计惰天使」发动①效果，作为cost取除X素材的时点是否立即胜利，调整中。
-| 「盟军·次世代鸟人兵」发动效果，支付cost让「被封印的艾克佐迪亚」回到手卡，集齐5种类的场合是否立即胜利，调整中。
-| 「DNA改造手术」的效果适用中，「魔天使 蔷薇之巫师」特殊召唤的手续中集齐「被封印的」5种类达成特殊胜利的场合在哪个时点胜利，调整中。
-| 「不知火流 传承之阵」以自身效果特殊召唤的「亡龙之战栗-死欲龙」为对象发动效果的场合，如何处理，调整中。
+| :strike:`持有11个X素材的「鬼计惰天使」发动①效果，作为cost取除X素材的时点是否立即胜利，调整中。`
+| :strike:`「盟军·次世代鸟人兵」发动效果，支付cost让「被封印的艾克佐迪亚」回到手卡，集齐5种类的场合是否立即胜利，调整中。`
+| :strike:`「DNA改造手术」的效果适用中，「魔天使 蔷薇之巫师」特殊召唤的手续中集齐「被封印的」5种类达成特殊胜利的场合在哪个时点胜利，调整中。`
+| :strike:`「不知火流 传承之阵」以自身效果特殊召唤的「亡龙之战栗-死欲龙」为对象发动效果的场合，如何处理，调整中。`
 | 怪兽效果的发动被无效的场合，「召唤兽 卡利古拉」「冲浪检察官」等效果仍然计为1次。所以「命运之抽卡」目前是特殊裁定。
 | 「时械神 梅塔伊恩」让怪兽回到额外卡组的场合仍然计入造成伤害的数量。
 
 .. attention:: 
+
    | 回到手卡的效果让怪兽回到额外卡组的场合，目前只有「时械神 梅塔伊恩」仍然正常处理后续效果。
    | 例：
    | 「怪兽调换」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14027>`__ 「霞之谷的雷神鬼」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8131>`__ 「DDD 怒涛坏薙王 恺撒末日神」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16475>`__ 「宇宙城 哥尔加」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7949>`__ 「巨龙振翅」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12317>`__ 「冰结界的虎王 雪虎」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12969>`__ 「灵魂鸟神 彦孔雀」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7730>`__ 「鹰身舞者」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12704>`__ 
