@@ -20,6 +20,7 @@
 .. note::
 
    | 『这个回合...』的记述比较特别，在这个记述之前有其他效果处理的场合，这部分就是附带的效果处理，例如「女巫特露德」。没有其他效果处理，并且之后紧接着不能适用的效果，那么不能发动。例如「虹彩之魔术师」。能适用的场合，还是可以发动，例如「雷击坏兽 雷鸣龙王」。
+   | 特别地，「魔孔石人」的效果\ `17/11/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8619>`__ 「钻头战士」的直接攻击效果\ `17/11/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8652>`__ 「超重忍者 忍足-A·C」的②效果\ `16/10/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12779>`__ 以及「流星龙」的①效果在不能进行战斗阶段的回合或主要阶段2不能发动。
    | 另外，跳过战斗阶段不是不能进行，「冰灵神 穆兰格雷斯」等效果让战斗阶段被跳过的回合，还是可以发动「水精鳞-巨齿深渊鲨」的2次攻击效果。\ `13/1/12 <http://yugioh-wiki.net/index.php?%A1%D4%BF%E5%C0%BA%CE%DA%A1%DD%A5%E1%A5%AC%A5%ED%A5%A2%A5%D3%A5%B9%A1%D5#faq>`__
 
 -  | 类似地，不能攻击的怪兽也不能被这些效果取对象，不能直接攻击的怪兽也不能被让怪兽可以直接攻击的效果取对象。
