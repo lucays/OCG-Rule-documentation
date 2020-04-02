@@ -48,6 +48,7 @@
 
 -  | 不是效果所以在发动时会立即适用。
    | 例：
+   | 「替罪羊」发动时，不能连锁发动「战线复归」。
    | 「假面变色龙」的效果发动时，不能连锁发动「影蜥蜴」的效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9813>`__
    | 「No.11 巨眼」的效果发动时，自身在这个回合不能攻击，不能连锁发动「EM 秋千魔术家」的效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9283>`__
    | 「真红眼融合」发动时，不能连锁「连续魔法」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9608>`__
@@ -113,6 +114,7 @@
 
 -  | 只要受限制的特殊召唤没有实际让怪兽出场，就不会计数。
    | 例：
+   | 「死者苏生」发动时，可以连锁发动「替罪羊」，结果「死者苏生」的效果处理不适用。
    | 自己「融合」的效果处理时，没有成功特殊召唤融合怪兽的场合，这个回合自己仍然可以发动「帝王的烈旋」。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10972&keyword=&tag=-1>`__
    | 自己把「闪刀姬-雫空」连接召唤之际，对方发动「神之通告」无效这次连接召唤的场合，这个回合自己仍然可以发动「帝王的烈旋」。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10462&keyword=&tag=-1>`__
    | 自己进行的P召唤被「神之宣告」无效后，这个回合自己还可以发动「EM 额外射手」的P效果。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19016&keyword=&tag=-1>`__
