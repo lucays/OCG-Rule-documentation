@@ -695,3 +695,36 @@
 | 以用4只怪兽为素材特殊召唤的「嵌合超载龙」（原本攻击力3200）为对象发动「伯吉斯异兽·怪诞虫」的场合，下个回合其攻击力回到3200。
 | 以用4只怪兽为素材特殊召唤的「嵌合超载龙」（原本攻击力3200）为对象发动「收缩」的场合，下个回合其攻击力仍然是0。
 | 用4只怪兽为素材连接召唤的「召命之神弓-阿波罗萨」发动了3次③效果后，攻击力是800的状态，和适用了「混沌的使者」效果的怪兽战斗的场合，伤害计算后攻击力回到800。
+
+4/17
+
+| 数据库：
+| 把2张卡送去墓地发动「禁忌的一滴」后，效果处理时对方场上只存在1只效果怪兽的场合，「禁忌的一滴」的效果不适用，那只怪兽的攻击力不会减半，效果不会无效。\ `20/4/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23011&keyword=&tag=-1>`__
+| 『从自己的卡组·墓地选持有送去墓地的怪兽的攻击力以下的攻击力的1只「ドラグマ」怪兽或者「アルバスの落胤」加入手卡』不能适用的场合，不能发动「天底的使徒」。\ `20/4/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23010&keyword=&tag=-1>`__
+| 卡组内不存在装备魔法也不存在战士族怪兽的状况，也能发动「焰圣骑士导-罗兰」的①效果，在结束阶段若卡组内仍不存在装备魔法，也不能把战士族怪兽加入手卡。若不存在战士族怪兽，则只把装备魔法卡送去墓地。\ `20/4/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23006&keyword=&tag=-1>`__
+| 「技能抽取」的①效果适用中，「螺旋融合」的①效果把「龙魔道骑士 盖亚」特殊召唤的场合，由于「龙魔道骑士 盖亚」的①效果无效，不当做「龙骑士 盖亚」，所以攻击力不会上升，战斗阶段内不能向怪兽攻击2次。\ `20/4/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23008&keyword=&tag=-1>`__
+| 「大宇宙」的②效果适用中，「教导的大神祇官」的②效果处理时，双方把额外卡组的2只怪兽除外。\ `20/4/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22998&keyword=&tag=-1>`__
+| 「悦乐之堕天使」的①效果发动时，连锁发动「虚无空间」的场合，效果处理全不适用，不会从卡组选等级不同的「堕天使」怪兽。\ `20/4/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23002&keyword=&tag=-1>`__ 连锁发动「岔子」的场合也是如此。\ `20/4/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23001&keyword=&tag=-1>`__
+| 和文本描述不同，「旋坏之贯破黄蜂巢」在X召唤成功的回合只是不能作为X召唤的素材，仍会因「永界王战 欧姆刚德王」的③效果在其下重叠作为X素材。\ `20/4/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23013&keyword=&tag=-1>`__
+| 对方「教导国家 教导龙国」的③效果处理时，我方从额外卡组把「虚光之宣告者」送去墓地的场合，是因对方的效果送去墓地，可以发动②效果。\ `20/4/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23009&keyword=&tag=-1>`__
+| 「巨石遗物·富尔」的①效果不能以相同等级的怪兽为对象发动。\ `20/4/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23005&keyword=&tag=-1>`__
+| 里侧表示的持有X素材的「六花圣 力量女神花圈」被解放的场合也可以发动②效果。\ `20/4/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23007&keyword=&tag=-1>`__
+| 「机巧辰-高暗御津羽靇」的③效果可以选攻击力是0或者「？」的怪兽。这个场合不回复基本分，把怪兽除外即是这个效果处理完毕。\ `20/4/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23003&keyword=&tag=-1>`__
+| 「虚无空间」的①效果适用中，也可以发动「焰圣骑士-阿斯托尔福」的②效果。发动后第2次的自己准备阶段，「虚无空间」的①效果仍然适用中的场合，「焰圣骑士-阿斯托尔福」保持被除外的状态，不会选战士族·炎属性怪兽特殊召唤。\ `20/4/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22999&keyword=&tag=-1>`__
+| 「教导的铁锤 特奥」的③效果可以对攻击力0的怪兽发动，这个场合自身攻击力仍然上升600，对象怪兽的攻击力下降600的结果仍是0。\ `20/4/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22997&keyword=&tag=-1>`__
+| 「龙狸灯」和连接怪兽进行战斗的伤害计算时不能发动②效果。\ `20/4/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23004&keyword=&tag=-1>`__
+
+4/21
+
+| 数据库：
+| 「暗黑骑士 盖亚本源」的③效果可以对「特拉戈迪亚」发动。这个状况，「特拉戈迪亚」的攻击力变成0，之后手卡数量变动的场合，只有守备力随之变动，攻击力保持0。\ `20/4/21 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23014&keyword=&tag=-1>`__
+
+4/23
+
+| 数据库：
+| 「起爆兽 火神炮龙」的怪兽效果处理时，作为对象的怪兽或者自身不在场上存在的场合，不会破坏另1只怪兽，也不会给与伤害。\ `20/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10309&keyword=&tag=-1>`__
+
+4/26
+
+| 数据库：
+| 「雪暴」是让在场上发动的魔法卡的效果无效，因此，对作为装备卡处理的「奇动装置 无许可因子」发动的场合，只有『●装备的这张卡特殊召唤』效果在处理时会被无效化。\ `20/4/26 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23012&keyword=&tag=-1>`__
