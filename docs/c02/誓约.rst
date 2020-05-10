@@ -170,10 +170,10 @@
 ============
 
 -  | 「熔岩魔神」等『把这张卡特殊召唤的回合，...』
-   | 这种描述\ **不是效果**\ ，不会被无效。\ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9538>`__
-   | 同1回合只能选择1个行动进行，不能全部进行。\ `16/8/25 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8607>`__
-   | 特殊召唤被无效的回合，这种描述也适用。\ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9536>`__
-   | 被「死者苏生」等效果特殊召唤的回合也适用。\ `16/8/25 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8607>`__
+   | 这种描述\ **不是效果**\ ，不会被无效。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5496>`__
+   | 同1回合只能选择1个行动进行，不能全部进行。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5496>`__
+   | 特殊召唤被无效的回合，这种描述不适用。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5496>`__
+   | 被「死者苏生」等效果特殊召唤的回合也适用。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5496>`__
 
 -  | 「超重武者 法螺贝-E」等『这个方法特殊召唤成功的回合，...』
    | 特殊召唤成功时才适用，是\ **效果**\ 。\ `14/11/15 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11528>`__
