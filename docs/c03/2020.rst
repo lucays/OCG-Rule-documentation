@@ -728,3 +728,26 @@
 
 | 数据库：
 | 「雪暴」是让在场上发动的魔法卡的效果无效，因此，对作为装备卡处理的「奇动装置 无许可因子」发动的场合，只有『●装备的这张卡特殊召唤』效果在处理时会被无效化。\ `20/4/26 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23012&keyword=&tag=-1>`__
+
+20/05
+=========
+
+5/14
+
+| 数据库：
+| 用自身记述的召唤手续把「拷问巨人」特殊召唤之际，可以发动「神之宣告」。这时只有「拷问巨人」被破坏，先特殊召唤的「拷问衍生物」不会被破坏，这个回合还能进行通常召唤。\ `20/5/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7054&keyword=&tag=-1>`__
+| 「水晶机巧-量子白晶」的效果把「电磁石战士β」特殊召唤并进行S召唤，连锁处理完毕时「电磁石战士β」已经在墓地，不能发动①效果。\ `20/5/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19582&keyword=&tag=-1>`__
+| 主要阶段1开始时发动「强欲而金满之壶」时，可以把包含这张「强欲而金满之壶」在内的卡送去墓地作为cost连锁发动「禁忌的一滴」，结果对方不能连锁发动魔法卡。\ `20/5/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8576&keyword=&tag=-1>`__
+| 把当作怪兽卡使用的陷阱怪兽送去墓地作为cost发动「禁忌的一滴」时，对方不能连锁发动的是陷阱卡。\ `20/5/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8410&keyword=&tag=-1>`__
+| 只在自己额外卡组有卡名不同的怪兽，且对方额外卡组有2张以上卡时才能发动「教导的大神祇官」的②效果。\ `20/5/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7728&keyword=&tag=-1>`__
+| 「教导的大神祇官」的②效果处理时，一方玩家额外卡组不足2张的场合那个玩家从额外卡组把卡送去墓地的处理不进行，另一方玩家从额外卡组把卡送去墓地的处理仍然进行。\ `20/5/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7626&keyword=&tag=-1>`__
+| 「死者苏生」发动时，对其发动「雪暴」的场合，「死者苏生」的效果无效，处理后回到手卡。这个回合再发动「死者苏生」的场合，因为是同名卡，效果无效，且因为不再是「雪暴」的效果对象，处理后会送去墓地。\ `20/5/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9536&keyword=&tag=-1>`__
+| 「大宇宙」的②效果适用中，「双龙卷」发动时，对其发动「雪暴」的场合，「双龙卷」的效果无效，处理后被除外，不会回到手卡。\ `20/5/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10226&keyword=&tag=-1>`__
+| 「大宇宙」的②效果适用中，发动「天底的使徒」的场合，从额外卡组把怪兽除外就是这个效果处理完毕。这个回合自己仍然不能从额外卡组特殊召唤怪兽。\ `20/5/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=295&keyword=&tag=-1>`__
+| 「教导的惩罚」的效果处理时，对象怪兽变成里侧表示的场合，无法判断攻击力，不会从额外卡组把卡送去墓地，也不会破坏对象怪兽，直到下次的自己回合的结束时自己仍然不能从额外卡组把怪兽特殊召唤。\ `20/5/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8230&keyword=&tag=-1>`__
+| 发动了「连锁素材」的回合，发动「阿不思的落胤」①效果的场合，可以把正确的融合素材从自己的手卡·卡组·场上·墓地除外来融合召唤。这个场合，必须包含这张「阿不思的落胤」，且不能用这张卡以外的自己场上的怪兽作为融合素材。\ `20/5/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8222&keyword=&tag=-1>`__
+| 发动了「连锁素材」的回合，发动「幻奏的歌姬 索普拉诺」②效果的场合，可以把正确的融合素材从自己的手卡·卡组·场上·墓地除外来融合召唤。这个场合，必须包含这张「幻奏的歌姬 索普拉诺」。\ `20/5/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14872&keyword=&tag=-1>`__
+| 「混沌魔龙 混沌支配者」的①效果把「光道弓手 费莉丝」送去墓地的场合，「光道弓手 费莉丝」的①效果会发动。\ `20/5/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7792&keyword=&tag=-1>`__
+| 把效果怪兽以外的怪兽解放来把「天幻之龙轮」发动的场合，也能把效果怪兽以外的怪兽特殊召唤。\ `20/5/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6265&keyword=&tag=-1>`__
+
+.. note:: 旧卡的相关调整都是2020年4月版大师规则下数据库旧条目的对应修改。
