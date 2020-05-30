@@ -714,7 +714,7 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 | 陷阱怪兽破坏送去墓地后是陷阱卡，「机皇帝」怪兽这样记述『怪兽送去墓地』诱发的效果不能发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10830>`__
 | 记述『战斗破坏怪兽』诱发的效果不要求在墓地仍然是怪兽，「血腥魔兽人帝王」把陷阱怪兽战斗破坏的场合，可以发动效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19151>`__
 
--  | 陷阱怪兽被一时除外的场合，就不再是怪兽卡，回到怪兽区域的时点由于陷阱卡不能在怪兽区域存在，立即送去墓地。不当作被效果送去墓地。
+-  | 陷阱怪兽被一时除外的场合，就不再是怪兽，回到怪兽区域的时点由于陷阱卡不能在怪兽区域存在，立即送去墓地。不当作被效果送去墓地。
    | 例：
    | 「银河眼光子龙」的效果让「阿匹卜之化神」和自身除外的场合，回到场上的时点「阿匹卜之化神」立即送去墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11586&keyword=&tag=-1>`__
    | 「潜海奇袭」可以把「金属反射史莱姆」作为cost除外，之后回到场上的时点立即送去墓地。\ `17/6/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8194>`__
