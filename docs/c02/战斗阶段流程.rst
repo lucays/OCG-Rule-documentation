@@ -190,7 +190,7 @@
 | 攻击宣言被无效的场合，那个怪兽已经攻击宣言了，没有其他效果时不能再次攻击。这还不是『攻击过』，『攻击过』的介绍见 伤害步骤_。
 | 例：
 | 「青眼亚白龙」攻击被无效的回合，那个主要阶段2不能发动效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17833&keyword=&tag=-1>`__
-| 「红莲魔龙」攻击被无效的回合，那个结束阶段不会被自己的效果破坏。\ `17/10/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7398&keyword=&tag=-1>`__
+| 自己怪兽的攻击被无效的回合，那个结束阶段也不会被自己「红莲魔龙」的②效果破坏。\ `17/10/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7398&keyword=&tag=-1>`__
 
 | 直接攻击宣言被无效或终止等的场合，只要没有进行伤害计算，当作没有直接攻击。
 | 例：
