@@ -28,7 +28,7 @@ copyright = f'2018-{(datetime.datetime.now() + datetime.timedelta(hours=8)).strf
 author = '碎冰'
 
 # The short X.Y version
-version = ''
+version = '2020.4'
 # The full version, including alpha/beta/rc tags
 release = ''
 
@@ -141,7 +141,7 @@ htmlhelp_basename = 'ocg-ruledoc'
 # -- Options for LaTeX output ------------------------------------------------
 
 latex_logo = '.static/pdf_cover.png'
-font_path = os.path.join(os.getcwd(), '.static', 'fonts') + '/'
+font_path = os.path.join(os.getcwd(), 'fonts') + '/'
 latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').
     #
