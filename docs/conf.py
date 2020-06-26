@@ -145,10 +145,13 @@ latex_elements = {
     'sphinxsetup': 'attentionBorderColor={rgb}{0.012,0.663,0.957}, noteBorderColor={rgb}{0.012,0.663,0.957}, tipBorderColor={rgb}{1,0.412,0.706}',
     'papersize': 'a4paper',
     'figure_align': 'H',
+    'extraclassoptions': 'openany,oneside',
     'preamble': r'''
         \usepackage[UTF8]{ctex}
+        \usepackage{ulem}
+        \newcommand*{\DUrolestrike}{\sout}
         \xeCJKsetup{CJKspace=true}
-        \xeCJKDeclareCharClass{CJK}{`①,`②,`③,`④,`⑤}
+        \xeCJKDeclareCharClass{CJK}{`①,`②,`③,`④,`⑤,`⇄}
         \setCJKmainfont[Path=%s,BoldFont={NotoSerifCJKsc-Bold.otf},ItalicFont={NotoSerifCJKsc-Light.otf}]{NotoSansCJKsc-Light.otf}
         \setCJKsansfont[Path=%s,BoldFont={NotoSansCJKsc-Bold.otf},ItalicFont={NotoSerifCJKsc-Light.otf}]{NotoSansCJKsc-Light.otf}
         \setCJKmonofont[Path=%s,BoldFont={NotoSansMonoCJKsc-Bold.otf},ItalicFont={NotoSansMonoCJKsc-Regular.otf}]{NotoSansMonoCJKsc-Regular.otf}
@@ -159,9 +162,13 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'ocg-rule.tex', 'ocg-rule Documentation',
+    ('pdf_index', 'ocg-rule.tex', 'ocg-rule Documentation',
      '碎冰', 'manual'),
 ]
+
+latex_show_pagerefs = True
+
+latex_show_urls = 'footnote'
 
 # -- Options for manual page output ------------------------------------------
 
