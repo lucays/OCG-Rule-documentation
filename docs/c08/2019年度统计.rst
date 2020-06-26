@@ -12,22 +12,22 @@
 概览
 =======
 
-.. figure:: .static/2019_statistic/1.png
+.. figure:: ../.static/2019_statistic/1.png
    :alt: 2019年度总访问量
 
 Google Analytics的用户数统计不准确，不过访问量是基本准确的，本站年度访问量是11万。
 
-.. figure:: .static/2019_statistic/2.png
+.. figure:: ../.static/2019_statistic/2.png
    :alt: 2019年度访问量的地理分布
 
 不知这个统计是否计算了VPN，总之大陆地区访问量占了总访问量的89%。
 
-.. figure:: .static/2019_statistic/3.png
+.. figure:: ../.static/2019_statistic/3.png
    :alt: 2019年度访问量的设备分布
 
 手机访问量占了89%（ygomobile接入了本站）。
 
-.. figure:: .static/2019_statistic/4.png
+.. figure:: ../.static/2019_statistic/4.png
    :alt: 2019年度访问量的网页分布
 
 | ygomobile接入的url是本站master版本（首页说过，master与latest目前没有任何区别），而点击本站网址http://ocg-rule.readthedocs.io默认会进入latest版本，因此master版本基本是ygomobile用户在访问。
@@ -37,31 +37,31 @@ Google Analytics的用户数统计不准确，不过访问量是基本准确的�
 详细统计
 =========
 
-.. figure:: .static/2019_statistic/5.png
+.. figure:: ../.static/2019_statistic/5.png
    :alt: 2019年度访问量前九的城市
 
 | not set是Google未统计到，所以这个截图实际是前九名。
 | 郑州访问量第一，有一部分因素是我所在的C萌FW战队队员一部分在郑州的缘故。
 | Chuo City是日本的城市，这个原因我就不了解了...
 
-.. figure:: .static/2019_statistic/6.png
+.. figure:: ../.static/2019_statistic/6.png
    :alt: 2019年度访问量前九的手机
 
 一些手机型号统计。注意苹果手机没有ygomobile，不过这个排名似乎是合计了苹果所有型号的数量。
 
-.. figure:: .static/2019_statistic/7.png
+.. figure:: ../.static/2019_statistic/7.png
    :alt: 2019年度访问量前九的网页
 
 就这个访问量来说，读者们还是对基本规则不过关呀~
 
-.. figure:: .static/2019_statistic/8.png
+.. figure:: ../.static/2019_statistic/8.png
    :alt: 2019年度平均网页加载时间国际分布
 
 | 上图是本站平均网页加载时间的地理分布，颜色越深表示加载时间越长。
 | 由于本项目实际托管在海外网站，所以这些数据很不好看。但网站本身不是我做的，所以我只能从字体缓存之类的入手优化，这样只要第一次进入加载好之后，访问本站其他页面的速度其实还是挺快的。
 | 不过实际上日本访问本站的平均加载时间最久，达到了17秒以上...
 
-.. figure:: .static/2019_statistic/9.png
+.. figure:: ../.static/2019_statistic/9.png
    :alt: 2019年度平均网页加载时间国内分布
 
 国内加载时间最长的地方花了50秒才能加载好，加载时间最短的地方只需要2.7秒就能加载好，这个目前很难优化，只能说因地区和宽带服务商而异吧...

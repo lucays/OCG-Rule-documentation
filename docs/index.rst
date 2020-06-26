@@ -71,9 +71,7 @@ Welcome to ocg-rule's documentation!
    :maxdepth: 3
    :glob:
 
-   新大师规则变更点
    chapters/*
-   2019年度统计
 
 联系方式
 ========

@@ -13,7 +13,7 @@
 
 .. note:: 官方规则并没有召唤限制和苏生限制这两个词，是玩家们在现有规则调整的基础上概括创造的。
 
-.. figure:: ../.static/c01/Special_Summer_Monster_1.jpg
+.. figure:: ../.static/c02/Special_Summer_Monster_1.jpg
    :width: 250px
    :height: 365px
    :alt: 特殊召唤怪兽.png
