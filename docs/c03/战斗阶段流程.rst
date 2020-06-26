@@ -276,7 +276,7 @@
 
 伤害步骤这样划分：
 
-.. figure:: ../.static/c02/Battle_Phase_1.png
+.. figure:: ../.static/c03/Battle_Phase_1.png
    :alt: 伤害步骤一览表.jpg
 
    伤害步骤一览表.jpg（作者：\ `lzsgodmax <https://www.baidu.com/p/lzsgodmax>`__\ ）
