@@ -275,6 +275,7 @@
 | 「PSY骨架超载」的①效果把「黑龙忍者」里侧表示除外的场合，「黑龙忍者」的②效果不会发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18732>`__
 | 「吞食百万的暴食兽」的效果把「地灵神 格兰索尔」里侧表示除外的场合，「地灵神 格兰索尔」的效果在从场上离开的时点立即适用。\ `18/1/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10458>`__
 | 对方发动「強制脱出装置」让自己的「E·HERO 绝对零度侠」\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7850&keyword=&tag=-1>`__ 「星尘战士」\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14470&keyword=&tag=-1>`__ 「超电导战机 皇神磁炮王」\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19431&keyword=&tag=-1>`__ 「魔玩具·冒失鬼」\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20387&keyword=&tag=-1>`__ 「超机怪虫·对观突触虫」\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21262>`__ 回到额外卡组的场合，「星尘战士」的③效果、「超电导战机 皇神磁炮王」的②效果、「魔玩具·冒失鬼」的②效果、「超机怪虫·对观突触虫」的②效果都不能发动。
+| 作为装备卡存在的「灵神」怪兽和「混沌之黒魔术师」从场上离开时，「灵神」怪兽的②效果和「混沌之黒魔术师」的③效果仍然会适用。
 
 -  | 这类无种类效果在无效状态下也会适用。不过，类似的魔法·陷阱卡的不入连锁效果，在无效状态下不适用。
    | 例：
