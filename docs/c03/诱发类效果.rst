@@ -235,7 +235,7 @@
    | 例：
    | 「宝玉兽」怪兽控制权被对方得到的场合，不能发动「究极宝玉阵」的②效果。19/8/17
 
--  | 里侧表示的状态从场上离开，由于在场上时是非公开情报，不能判断这张卡是\ **从场上**\ 离开的，这种效果不能发动。
+-  | 里侧表示的状态从场上离开，由于在场上时是非公开情报，不能判断这张卡是\ **从场上**\ 离开的。
    | 例：
    | 「黑洞」把自己场上里侧的「E·HERO 绝对零度侠」破坏的场合，「E·HERO 绝对零度侠」的效果不满足发动条件，不能发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7851>`__
 
@@ -274,17 +274,24 @@
 | 怪兽区域·P区域的「魔术师」P怪兽被「毁灭咒文-死亡终极咒」的效果里侧表示除外的场合，「星霜之灵摆读阵」的②效果也会发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20414>`__
 | 「PSY骨架超载」的①效果把「黑龙忍者」里侧表示除外的场合，「黑龙忍者」的②效果不会发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18732>`__
 | 「吞食百万的暴食兽」的效果把「地灵神 格兰索尔」里侧表示除外的场合，「地灵神 格兰索尔」的效果在从场上离开的时点立即适用。\ `18/1/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10458>`__
+| 原本持有者是我方的「灵神」怪兽从对方场上离开适用②效果的场合，是对方下个回合的战斗阶段被跳过。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12262&keyword=&tag=-1>`__
+| 作为装备卡存在的「灵神」怪兽从场上离开时，「灵神」怪兽的②效果仍然会适用。\ `12/4/23 <http://yugioh-wiki.net/index.php?%CE%EE%BF%C0#faq2>`__
 
 -  | 这类无种类效果在无效状态下也会适用。不过，类似的魔法·陷阱卡的不入连锁效果，在无效状态下不适用。
    | 例：
    | 「风帝 莱扎」把「冰灵神 穆兰格雷斯」返回主卡组的场合，「冰灵神 穆兰格雷斯」的效果在那个瞬间适用，场上存在「技能抽取」的场合这个效果也仍然适用。\ `17/12/28 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12644&keyword=&tag=-1>`__
+   | 「魔法抵消器」在场上存在时，作为装备卡存在的「灵神」怪兽从场上离开的场合，②效果会被无效。\ `14/4/5 <http://yugioh-wiki.net/index.php?%CE%EE%BF%C0#faq2>`__
    | 「技能抽取」的①效果适用中「大天使 克里斯提亚」从场上送去墓地时，仍然回到卡组最上方。\ `17/4/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8219>`__
    | 「技能抽取」的①效果适用中「混沌之黑魔术师」从场上离开时，仍然除外。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15321>`__
    | 「白之衣」在无效状态下离场，不造成伤害。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20333&keyword=&tag=-1>`__ 「女神的加护」也是如此。
    | 「活死人的呼声」在无效状态下离场，特殊召唤的怪兽不会被破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6393>`__
    | 「通灵盘」被「王宫的通告」无效后离场，「死之信息」卡不会送去墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=4626>`__
 
-.. note:: 魔法·陷阱卡被无效的处理本就和怪兽被无效的处理不一样。例如「王宫的通告」「王宫的敕命」「陷阱无力化」等适用中，魔法·陷阱卡在场上发动效果，处理时即使不在场上也被无效。
+.. note::
+
+   魔法·陷阱卡被无效的处理本就和怪兽被无效的处理不一样。例如「王宫的通告」「王宫的敕命」「陷阱无力化」等适用中，魔法·陷阱卡在场上发动效果，处理时即使不在场上也被无效。
+
+   另外，「秘仪之力EX-暗之支配者」的『●里：』效果是从场上被破坏时立即适用的效果，无效状态下被破坏的场合不适用。
 
 特权
 ------------------
