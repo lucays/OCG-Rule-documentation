@@ -281,7 +281,7 @@
 -  | 这类无种类效果在无效状态下也会适用。不过，类似的魔法·陷阱卡的不入连锁效果，在无效状态下不适用。
    | 例：
    | 「风帝 莱扎」把「冰灵神 穆兰格雷斯」返回主卡组的场合，「冰灵神 穆兰格雷斯」的效果在那个时点立即适用，场上存在「技能抽取」的场合这个效果也仍然适用。\ `17/12/28 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12644&keyword=&tag=-1>`__
-   | 「魔法抵消器」在场上存在时，作为装备卡存在的「灵神」怪兽从场上离开的场合，②效果会被无效。\ `14/4/5 <http://yugioh-wiki.net/index.php?%CE%EE%BF%C0#faq2>`__
+   | 作为装备卡存在的「灵神」怪兽从场上离开时，即使场上存在「王宫的敕命」，其②效果仍然作为怪兽效果而适用，跳过下次的自己回合的战斗阶段。
    | 「技能抽取」的①效果适用中「大天使 克里斯提亚」从场上送去墓地时，仍然回到卡组最上方。\ `17/4/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8219>`__
    | 「技能抽取」的①效果适用中「混沌之黑魔术师」从场上离开时，仍然除外。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15321>`__
    | 「白之衣」在无效状态下离场，不造成伤害。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20333&keyword=&tag=-1>`__ 「女神的加护」也是如此。
