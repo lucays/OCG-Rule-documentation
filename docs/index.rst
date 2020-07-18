@@ -44,7 +44,7 @@ Welcome to ocg-rule's documentation!
 | 本站使用的卡名和效果文本等基本上是NW论坛XYZ龙加农的翻译版本，在此表示感谢。
 | 卡查可以直接使用\ `ygocore <http://ygocore.ys168.com/>`__\ /\ `ygomobile <https://www.taptap.com/app/37972>`__\ 等游戏软件的卡组编辑功能。
 | 也可以用\ `ourocg在线卡查 <http://www.ourocg.cn/>`__\ ，注意要在首页最下方改成优先使用NW文本。
-| 或者用\ **微信小程序-游戏王查卡器**\，同样要在\ **我的-中文译名偏好**\ 中调整为NWBBS版本。
+| 或者用\ **微信小程序-游戏王查卡器**\ ，同样要在\ **我的-中文译名偏好**\ 中调整为NWBBS版本。
 
 .. note:: 只是我没有精力配CN版翻译重写，这段话没有比较两种翻译孰优孰劣的意思。
 
@@ -57,12 +57,12 @@ Welcome to ocg-rule's documentation!
 
 部分文章的标题不容易看出介绍了什么，下面是主要内容解释。
 
-| 不懂新大师规则？→\ :ref:`新大师规则变更点`\。
-| 想知道事务局最近调整了哪些卡的规则？→\ :ref:`2019`\。
-| 对时点、取对象这些基础概念不熟悉？→\ :ref:`基本用语`\。
-| 「灰流丽」和「星尘龙」有什么区别？→\ :ref:`效果处理的不确定性`\。
-| 为什么特殊召唤后不能发动「强欲而谦虚之壶」，发动过其他魔法·陷阱效果还能再发动「雪花之光」？→\ :ref:`誓约`\。
-| 错过时点是什么，手卡诱发有什么特点，非公开情报要注意什么，多个效果同时满足条件该怎么排序？→\ :ref:`诱发类效果`\。
+| 不懂新大师规则？→\ :ref:`新大师规则变更点`\ 。
+| 想知道事务局最近调整了哪些卡的规则？→\ :ref:`2019`\ 。
+| 对时点、取对象这些基础概念不熟悉？→\ :ref:`基本用语`\ 。
+| 「灰流丽」和「星尘龙」有什么区别？→\ :ref:`效果处理的不确定性`\ 。
+| 为什么特殊召唤后不能发动「强欲而谦虚之壶」，发动过其他魔法·陷阱效果还能再发动「雪花之光」？→\ :ref:`誓约`\ 。
+| 错过时点是什么，手卡诱发有什么特点，非公开情报要注意什么，多个效果同时满足条件该怎么排序？→\ :ref:`诱发类效果`\ 。
 
 目录
 =======
@@ -106,5 +106,5 @@ Welcome to ocg-rule's documentation!
 
 | 本项目托管在\ `readthedocs <https://readthedocs.org/>`__\ ，一个可以免费发布文档的网站。
 | 以前，readthedocs只会给使用官方主题的项目网页加上广告，只要使用自己编写的第三方主题（例如本网站），就不会有广告。
-| 不过，readthedocs公告宣布现在会给所有项目加上广告：\ `New Ad Format Coming to Read the Docs Community Sites <https://blog.readthedocs.com/fixed-footer-ad-all-themes/>`__\。
+| 不过，readthedocs公告宣布现在会给所有项目加上广告：\ `New Ad Format Coming to Read the Docs Community Sites <https://blog.readthedocs.com/fixed-footer-ad-all-themes/>`__\ 。
 | 请注意这些广告与我没有任何关系，我也无法再去除。
