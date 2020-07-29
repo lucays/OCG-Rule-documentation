@@ -1435,3 +1435,10 @@
 | 特殊召唤的「混沌幻影」发动①效果，得到了「幻奏的音女 阿莉娅」的卡名·效果的场合，得到的「幻奏的音女 阿莉娅」的①效果也会适用。\ `20/7/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15593&keyword=&tag=-1>`__
 | 虽然目前「幻透翼」怪兽都是S怪兽，「霸王白龙 异色眼辉翼龙」仍然不是需要S怪兽为素材的S怪兽，自己场上只有它存在，对方发动怪兽效果时，自己不能发动「废铁信号灯」。\ `20/7/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13123&keyword=&tag=-1>`__
 | 「人造人-念力震慑者」的①效果在召唤·反转召唤成功时才适用，可以发动「升天的角笛」「神之宣告」把对它的召唤·反转召唤无效。\ `20/7/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6391&keyword=&tag=-1>`__ \ `20/7/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10832&keyword=&tag=-1>`__
+
+7/29
+
+| 裁定变更：
+| 「装弹枪管狞猛龙」的③效果把「影依的原核」卡的发动无效的场合，在连锁处理完毕时送去墓地的那张「影依的原核」不能发动②效果。
+
+.. note:: 「影依的原核」现在只是因卡的发动被无效的魔法·陷阱卡会送去墓地这条规则而送去墓地，不再是因卡的效果送去墓地。
