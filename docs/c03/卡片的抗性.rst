@@ -42,7 +42,7 @@
    | 例：
    | 「失落世界」的效果适用中，解放怪兽·永续魔法上级召唤的「真龙剑皇 卓辉星·拼图」发动②效果时，仍然不能选择衍生物以外的场上的怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7517>`__
    | 以受到「禁忌的圣枪」影响的怪兽为对象发动「安全地带」的场合，那个怪兽仍然不会成为对方效果的对象，其他效果全不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10683&keyword=&tag=-1>`__
-   | 「极星天 古尔薇格」的②效果适用中，「BF-重装铠翼鸦」的③效果仍然不能选其连接端的「极神」怪兽作为效果的对象，只可以攻击「极星天 古尔薇格」。\ `18/11/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22303>`__
+   | 「极星天 古尔薇格」的②效果适用中，「BF-重装铠翼鸦」的③效果仍然不能选择其连接端的「极神」怪兽作为效果的对象，只可以选择「极星天 古尔薇格」。\ `18/11/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22303>`__
    | 对不受魔法效果影响的对方怪兽发动「禁忌的圣衣」，不能下降攻击力，后续全不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6142>`__
 
 -  | 『不会成为攻击对象』这样的效果基本上影响的是其他怪兽，\ **不是怪兽自身**\ 。不受效果影响的怪兽可以攻击不会成为攻击对象的怪兽（包括「双穹之骑士 阿斯特拉姆」等『对方不能选择其他怪兽成为攻击对象』适用时的其他怪兽），其攻击对象也不会因卡片效果被转移。
