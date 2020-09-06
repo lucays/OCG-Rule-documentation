@@ -132,6 +132,12 @@
 | 反转过的「无形噬体·暴食」被一时除外的场合，①效果不适用。\ `16/1/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18306&keyword=&tag=-1>`__
 | 反转过的「芳香炉」被一时除外的场合，不再是反转过的怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15687>`__
 
+.. note::
+
+   | 变成里侧的特殊召唤怪兽的反转召唤被无效的场合，也失去用其他方式特殊召唤的情报。
+   | 例：
+   | X召唤的「异色眼绝零龙」因「月之书」的效果变成里侧表示，之后反转召唤被「神之宣告」的效果无效的场合，也不能发动②效果。
+
 | 特殊召唤的怪兽变成里侧或被一时除外后，\ **仍然是特殊召唤的怪兽**\ 。\ `15/6/11 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=213&keyword=&tag=-1>`__
 | 例：
 | 特殊召唤的怪兽变成里侧表示或被一时除外后，仍然会被「升灵术师 奘玄」的效果破坏。
