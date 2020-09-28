@@ -1981,3 +1981,18 @@
 | 通常召唤的「尸龙子」把自身和「暗钢龙 暗钢」的①效果特殊召唤的怪兽以及1只手卡的怪兽为S素材进行S召唤时，「暗钢龙 暗钢」的①效果特殊召唤的怪兽被除外。
 | 得到了「No.45 灭亡之预言者」卡名·效果的「CX 冀望皇 异晶人」以1张表侧表示的卡为对象发动了得到的「No.45 灭亡之预言者」的①效果后，下次的对方结束阶段失去得到的这个效果时，作为对象的卡恢复有效。
 | 得到了「未界域-幽魔里亚大陆」卡名·效果的「拟似空间」以自己场上1只「未界域」怪兽为对象发动得到的「未界域-幽魔里亚大陆」的②效果后，结束阶段失去这个得到的效果时，作为对象的怪兽恢复不能直接攻击，可以成为攻击对象的状态。
+
+9/27
+
+| 数据库：
+| 「流星辉巧群」的效果不能把攻击力0的仪式怪兽仪式召唤。\ `20/9/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13922&keyword=&tag=-1>`__
+| 「流星辉巧群」的效果处理时不能解放攻击力0的怪兽。\ `20/9/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13918&keyword=&tag=-1>`__
+|「法典之守护者 艾华斯」用自身①效果装备给对方的怪兽，得到控制权后，被破坏的场合，那只怪兽的控制权归还给对方，可以发动效果了。\ `20/9/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6061&keyword=&tag=-1>`__
+| 「龙辉巧-右枢α」把效果发动的回合，自己不能发动「名推理」或者「怪兽之门」。发动「名推理」或者「怪兽之门」但没能特殊召唤怪兽的回合，才可以发动「龙辉巧-右枢α」。\ `20/9/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13608&keyword=&tag=-1>`__
+| 「神圣法典」的效果进行融合召唤时，要把「大贤者」怪兽融合召唤，用「大贤者」怪兽装备着的当作装备卡使用的怪兽卡为融合素材的场合，如果这张是魔法师族怪兽，另外的融合素材可以都不是魔法师族怪兽。\ `20/9/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7050&keyword=&tag=-1>`__
+| 「龙仪巧-天龙流星=DRA」的③效果发动时，作为cost除外的怪兽不能有攻击力0或攻击力？的怪兽。\ `20/9/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13827&keyword=&tag=-1>`__
+
+9/28
+
+| 数据库：
+| 「手札交换」的效果让双方交换了1张手卡后，「PSY 骨架王·Ω」的①效果把那张原本持有者是我方的对方手卡除外的场合，下个自己的准备阶段那张卡仍然回到对方手卡。\ `20/9/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16758&keyword=&tag=-1>`__
