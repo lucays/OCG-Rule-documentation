@@ -7,8 +7,7 @@
 
 .. sidebar:: 规则书
 
-   | 2017新大师规则完全规则书→\ `gitbook <https://warsier.gitbooks.io/new_master_rule>`__
-   | 2014大师规则3完全规则书→\ `gitbook <https://warsier.gitbooks.io/yugioh_master_rule_3/content/>`__
+   \ **最新**\ 完全规则书→\ `ocg-rulebook <https://ocg-rulebook.readthedocs.io/>`__ 
 
 | 游戏王OCG规则繁杂，中文资料大多比较陈旧，规则书部分内容仍不够详细，因此我整理出了这个网站，方便查阅。
 | 新手需要注意：开始玩这个游戏\ **不需要**\ 看完本站所有内容。并且，即使看完并通晓这些规则，也只代表你可能成为规则大师，并不意味着你变成高玩，这两者没有必然联系。实际上，很多厉害的玩家也不清楚一些复杂的规则。
