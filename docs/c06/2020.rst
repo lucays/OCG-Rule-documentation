@@ -2351,7 +2351,7 @@
 | 「能力吸收石」在结束阶段发动效果取除了全部的魔石指示物后，由于有怪兽效果发动而又放置魔石指示物的场合，在这个阶段内是否会再次发动取除魔石指示物的效果，调整中。\ `20/11/9 <https://yugioh-wiki.net/index.php?%A1%D4%C7%BD%CE%CF%B5%DB%BC%FD%C0%D0%A1%D5#faq3>`__
 
 | 数据库：
-| 以自身①效果适用攻击力上升到5300的「访问码语者」为对象发动「禁忌的一滴」，其攻击力变成2650，效果无效。回合结束后攻击力回到2300。\ `20/11/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23127&keyword=&tag=-1>`__
+| 自身①效果适用攻击力上升到5300的「访问码语者」适用就「禁忌的一滴」的①效果后，其攻击力变成2650，效果无效。回合结束后攻击力回到2300。\ `20/11/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23127&keyword=&tag=-1>`__
 | 可以用对方场上不受其他怪兽效果影响的「伯吉斯异兽·奇虾」为素材连接召唤「闭锁世界的冥神」。\ `20/11/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23132&keyword=&tag=-1>`__
 | 「电脑堺豸-豸豸」的①效果从卡组把卡送去墓地和把自身特殊召唤的处理同时进行，因此把「电脑堺媛-娘娘」送去墓地的场合，处理后也不能发动「电脑堺媛-娘娘」的①效果。另外，「电脑堺悟-老老」的①效果处理把「电脑堺媛-娘娘」送去墓地并特殊召唤自身后，又从墓地选「电脑堺」怪兽特殊召唤的场合，如果是3星怪兽怪兽，处理后可以发动「电脑堺媛-娘娘」的①效果。\ `20/11/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23126&keyword=&tag=-1>`__
 | 「强欲而金满之壶」的发动被「神之宣告」无效或效果被「灰流丽」无效的场合，这个回合自己可以正常用卡的效果抽卡。\ `20/11/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23139&keyword=&tag=-1>`__
