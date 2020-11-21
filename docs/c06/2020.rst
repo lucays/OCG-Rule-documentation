@@ -2435,6 +2435,7 @@
 11/20
 
 | 数据库：
+| 「冰结界的虎王 雪虎」的文本改为这个卡名的效果1回合只能使用1次，同时明确了①效果不能以自身为对象发动。\ `20/11/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7970>`__
 | 「冰结界的虎将 韦恩」的③效果适用中，当作陷阱卡使用的陷阱怪兽与不当作陷阱卡使用的陷阱怪兽从场上送去对方墓地的场合都会被除外，P怪兽从P区域送去对方墓地的场合不会被除外。\ `20/11/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23143&keyword=&tag=-1>`__
 | 发动「三叉龙的鼓动」时，即使自己场上只有1种「冰结界」S怪兽，也可以连锁发动「屋敷童」的①效果。\ `20/11/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23145&keyword=&tag=-1>`__
 | 自己没有手卡的场合，墓地「冰结界的照魔师」的③效果也可以适用，把自身除外作为代替来发动「冰结界的军师」的①效果。\ `20/11/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23142&keyword=&tag=-1>`__
@@ -2443,3 +2444,8 @@
 | 自己场上存在「魔轰神 安德剌斯」，自己发动「愚蠢的埋葬」，对方连锁发动「灰流丽」的①效果的场合，由于「魔轰神 安德剌斯」的②效果是另开连锁的诱发效果，因此在「愚蠢的埋葬」的①效果被无效后，这个连锁处理完毕时可以发动「魔轰神 安德剌斯」的②效果。\ `20/11/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23105&keyword=&tag=-1>`__
 
 .. note:: 「魔轰神 安德剌斯」这个条目是对已有条目的更新，去掉了错过时点一词。
+
+11/21
+
+| wiki:
+| 「冰结界的霜精」的②效果处理时，可以把和自身相同等级的怪兽从卡组送去墓地。\ `20/11/20 <https://yugioh-wiki.net/index.php?%A1%D4%C9%B9%B7%EB%B3%A6%A4%CE%C1%FA%C0%BA%A1%D5#faq2>`__
