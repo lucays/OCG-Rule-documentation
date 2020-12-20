@@ -352,7 +352,7 @@
 3/16
 
 | 邮件：
-| 场上攻击力比「刚鬼 大巨人食人魔」高但原本攻击力是0的怪兽（「破坏龙 甘多拉-烈光闪」等）所发动的效果，只要处理时不在场上表侧表示存在，「刚鬼 大巨人食人魔」就不受影响。:strike:`原本攻击力是？的怪兽（「邪神 抹灭者」「超天新龙 异色眼革命龙」等）仍调整中。`
+| 场上攻击力比「刚鬼 大巨人食人魔」高但原本攻击力是0的怪兽（「破坏龙 甘多拉-烈光闪」等）所发动的效果，只要处理时不在场上表侧表示存在，「刚鬼 大巨人食人魔」就不受影响。:strike:`原本攻击力是?的怪兽（「邪神 抹灭者」「超天新龙 异色眼革命龙」等）仍调整中。`
 
 3/17
 
@@ -478,7 +478,7 @@
 .. note:: 从第九期描述起，『怪兽卡』也包括魔法·陷阱卡区域和P区域的怪兽卡，如「宝玉兽 红玉兽」「龙骑兵团疾驰」「魔导研究所」「星霜之灵摆读阵」等，『怪兽』仅指怪兽区域的怪兽卡，如「异色眼幻象龙」等。
 
 | wiki:
-| 原本攻击力是？的「影武者狸衍生物」受到「No.107 银河眼时空龙」的效果影响时，攻击力变成原本数值的结果是0。\ `19/4/5 <http://yugioh-wiki.net/index.php?%A1%D4%A3%CE%A3%EF.%A3%B1%A3%B0%A3%B7%20%B6%E4%B2%CF%B4%E3%A4%CE%BB%FE%B6%F5%CE%B5%A1%D5#faq>`__
+| 原本攻击力是?的「影武者狸衍生物」受到「No.107 银河眼时空龙」的效果影响时，攻击力变成原本数值的结果是0。\ `19/4/5 <http://yugioh-wiki.net/index.php?%A1%D4%A3%CE%A3%EF.%A3%B1%A3%B0%A3%B7%20%B6%E4%B2%CF%B4%E3%A4%CE%BB%FE%B6%F5%CE%B5%A1%D5#faq>`__
 
 4/6
 
@@ -512,7 +512,7 @@
 | 「天邪鬼的诅咒」的效果适用中，「召命之神弓-阿波罗萨」的③效果处理时，会上升攻击力，结果后续无效不适用。回合结束后，回到下降那些攻击力的状态。\ `19/4/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22562&keyword=&tag=-1>`__
 | 「万用电表兵」的『和这张卡成为连接状态的连接怪兽全部破坏』『破坏的连接怪兽的所连接区的怪兽也全部破坏』都只能破坏1只怪兽的场合，不能连锁发动「反大革命」。\ `19/4/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22599&keyword=&tag=-1>`__
 | 用自身②效果特殊召唤的「德林加凶枪龙」从场上离开时会表侧表示除外，不能作为「极超辰醒」发动的cost。\ `19/4/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22582&keyword=&tag=-1>`__ 另外，也不能用衍生物。\ `19/4/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22591&keyword=&tag=-1>`__
-| 「魂之造型家」不能解放攻击力或守备力是？的怪兽。\ `19/4/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22598&keyword=&tag=-1>`__ 也不能解放连接怪兽。\ `19/4/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14478>`__ 也不能把攻击力或守备力是？的怪兽加入手卡。\ `19/4/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22597&keyword=&tag=-1>`__
+| 「魂之造型家」不能解放攻击力或守备力是?的怪兽。\ `19/4/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22598&keyword=&tag=-1>`__ 也不能解放连接怪兽。\ `19/4/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14478>`__ 也不能把攻击力或守备力是?的怪兽加入手卡。\ `19/4/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22597&keyword=&tag=-1>`__
 | 在1个连锁上多次用自己的效果让场上的卡回到手卡的场合，怪兽区域「魔妖仙兽 独眼群主」的②效果会自身组成连锁发动多次。\ `19/4/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22573&keyword=&tag=-1>`__
 | 「神鸟的烈战」和多个攻击力相同且最高的鸟兽族怪兽在自己场上存在时，对方可以任意选择攻击力最高的其中1只为攻击对象或效果对象。\ `19/4/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22555&keyword=&tag=-1>`__
 | P区域的「妖仙兽」也是怪兽卡，也计入「妖仙兽的风祀」的效果数量，这个效果处理时，只要有1张回到手卡，就可以抽卡。\ `19/4/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22592&keyword=&tag=-1>`__
@@ -631,7 +631,7 @@
 | 自己「夜雾的狙击手」的效果宣言的怪兽在对方场上里侧表示存在，被自己的效果反转的场合是否除外，调整中。如果在自己场上里侧表示存在，被对方的效果反转的场合是否除外，也调整中。\ `19/4/26 <http://yugioh-wiki.net/index.php?%A1%D4%CC%EB%CC%B8%A4%CE%A5%B9%A5%CA%A5%A4%A5%D1%A1%BC%A1%D5#faq>`__
 
 | 裁定变更：
-| \ :strike:`「物理分身」和「克隆复制」特殊召唤的衍生物，其原本攻击力·守备力是？，特殊召唤时的攻击力·守备力不是原本攻击力·守备力。`\ 并且，特殊召唤时的等级也不是原本等级。\ `19/4/26 <http://yugioh-wiki.net/index.php?%A1%D4%A5%B0%A5%EA%A1%BC%A5%C7%A5%A3%A1%BC%A1%A6%A5%F4%A5%A7%A5%CE%A5%E0%A1%A6%A5%D5%A5%E5%A1%BC%A5%B8%A5%E7%A5%F3%A1%A6%A5%C9%A5%E9%A5%B4%A5%F3%A1%D5#faq>`__
+| \ :strike:`「物理分身」和「克隆复制」特殊召唤的衍生物，其原本攻击力·守备力是?，特殊召唤时的攻击力·守备力不是原本攻击力·守备力。`\ 并且，特殊召唤时的等级也不是原本等级。\ `19/4/26 <http://yugioh-wiki.net/index.php?%A1%D4%A5%B0%A5%EA%A1%BC%A5%C7%A5%A3%A1%BC%A1%A6%A5%F4%A5%A7%A5%CE%A5%E0%A1%A6%A5%D5%A5%E5%A1%BC%A5%B8%A5%E7%A5%F3%A1%A6%A5%C9%A5%E9%A5%B4%A5%F3%A1%D5#faq>`__
 
 .. attention:: 实际上数据库早就记述了它们特殊召唤后的攻击力·守备力是原本攻击力·守备力\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6408&keyword=&tag=-1>`__ 。但种族·属性又不当作原本\ `18/4/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13016>`__ ，比较矛盾，还需要确认。
 
