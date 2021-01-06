@@ -312,8 +312,9 @@
 
 .. attention::
 
-   | 特别地，「No.59 背反之料理人」的②效果\ `16/5/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12548>`__ 和「D-HERO 敌托邦人」的②效果\ `16/6/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12705>`__ 以及「虹之古代都市」的『●3张以上』效果\ `17/10/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7079>`__ 不能在伤害步骤发动。
-   | 另外，伤害步骤内「天融星 怪奇」的①效果\ `18/5/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13831>`__ 和「寄生融合虫」的②效果\ `16/10/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12744>`__ 等，直接进行召唤·仪式召唤·融合召唤·S召唤·X召唤·LINK召唤的效果在伤害步骤内不能发动，已经发动这类效果的场合处理时也不会适用，详见\ 效果处理中进行伤害计算_\ 。
+   | 特别地，「虹之古代都市」的『●3张以上』效果\ `17/10/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7079>`__ 不能在伤害步骤内发动。
+   | 此外，「No.59 背反之料理人」的②效果\ `16/5/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12548>`__ 「D-HERO 敌托邦人」的②效果\ `16/6/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12705>`__ 「黄金乡的守护者」的①效果\ `20/3/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=15128>`__ 这样先进行其他效果处理后改变攻击力·守备力的效果不能在伤害步骤发动。
+   | 「天融星 怪奇」的①效果\ `18/5/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13831>`__ 和「寄生融合虫」的②效果\ `16/10/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12744>`__ 等，直接进行召唤·仪式召唤·融合召唤·S召唤·X召唤·LINK召唤的效果在伤害步骤内也不能发动，已经发动这类效果的场合处理时也不会适用进行这些召唤·特殊召唤，详见\ 效果处理中进行伤害计算_\ 。
 
 | 例：
 | 「辉神鸟 贝努鸟」的②效果\ `17/10/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12395>`__ 「黯黑之魔王 迪亚波罗斯」的①效果\ `18/3/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13683>`__ 在伤害步骤内不能发动。
