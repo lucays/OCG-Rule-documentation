@@ -167,7 +167,7 @@ latex_elements = {
         \usepackage{ulem}
         \newcommand*{\DUrolestrike}{\sout}
         \xeCJKsetup{CJKspace=true}
-        \xeCJKDeclareCharClass{CJK}{`①,`②,`③,`④,`⑤,`⇄}
+        \xeCJKDeclareCharClass{CJK}{`①,`②,`③,`④,`⑤,`⇄,`●,`∀}
         \setCJKmainfont[Path=%s,BoldFont={NotoSerifCJKsc-Bold.otf},ItalicFont={NotoSerifCJKsc-Light.otf}]{NotoSansCJKsc-Light.otf}
         \setCJKsansfont[Path=%s,BoldFont={NotoSansCJKsc-Bold.otf},ItalicFont={NotoSerifCJKsc-Light.otf}]{NotoSansCJKsc-Light.otf}
         \setCJKmonofont[Path=%s,BoldFont={NotoSansMonoCJKsc-Bold.otf},ItalicFont={NotoSansMonoCJKsc-Regular.otf}]{NotoSansMonoCJKsc-Regular.otf}
