@@ -5,13 +5,11 @@
 前言
 ========
 
-| 第九期变更点解说：\ `NW论坛 <http://bbs.newwise.com/thread-821853-1-1.html>`__\
-| 第十期变更点解说： \ :ref:`新大师规则变更点`\
-| 新大师规则书中\ `特殊召唤部分 <https://warsier.gitbooks.io/new_master_rule/content/3/32/321/3213.html>`__\
+OCG完全规则书 \ `特殊召唤怪兽 <https://ocg-rulebook.readthedocs.io/zh_CN/latest/c02/%E5%8D%A1%E7%89%87.html#id37>`__\
 
 本文介绍自第九期起，在怪兽情报描述框内，最上方种族的右侧记述『特殊召唤』的怪兽的规则，以及召唤限制和苏生限制。
 
-.. note:: 官方规则并没有召唤限制和苏生限制这两个词，是玩家们在现有规则调整的基础上概括创造的。
+.. note:: 官方规则并没有召唤限制和苏生限制这两个名词，是玩家们在现有规则调整的基础上概括创造的，即非公式用语。
 
 .. figure:: ../.static/c02/Special_Summer_Monster_1.jpg
    :width: 250px
@@ -25,7 +23,7 @@
 特殊召唤怪兽
 ============
 
-\ `新大师规则手册 <http://www.yugioh-card.com/japan/howto/data/rulebook_new_master_rule_ver1.0.pdf>`__\ 中这样介绍：
+\ `规则手册 <https://www.yugioh-card.com/japan/howto/data/rulebook_masterrule20200401_ver1.0.pdf>`__\ 中这样介绍：
 
    不能通常召唤到场上，根据卡片指定的特别的手续才能出现在场上的怪兽是特殊召唤怪兽。
 
