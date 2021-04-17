@@ -320,5 +320,4 @@
 | 「旋风」不能以自身为对象发动。\ `17/3/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=4909>`__\
 | 「背德的堕天使」效果处理时不能选自身。场上只有这1张卡时不能发动。\ `16/8/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12730>`__\
 | 「堕天使」怪兽的效果发动，适用「背德的堕天使」的效果的场合，处理时可以破坏自身。
-| 「冰火之魔导书」不能把自身送去墓地。\ `17/4/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13101>`__\
-| 「创造之魔导书」得到「冰火之魔导书」的效果的场合，处理时不能把自身送去墓地。\ `17/7/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20867&keyword=&tag=-1>`__\
+| 「创造之魔导书」得到「冰火之魔导书」的效果的场合，处理时也不能把自身送去墓地。\ `17/7/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20867&keyword=&tag=-1>`__\
