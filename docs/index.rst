@@ -16,10 +16,10 @@ Welcome to ocg-rule's documentation!
 
 .. sidebar:: 实用链接
 
-   | \ **最新**\ 完全规则书中文翻译→ https://ocg-rulebook.readthedocs.io 
-   | 卡查网站→ https://ygocdb.com
-   | 官方卡片数据库（日文）→ https://www.db.yugioh-card.com/yugiohdb/?request_locale=ja
-   | 游戏王卡wiki（日文）→ http://yugioh-wiki.net
+   | 完全规则书翻译：https://ocg-rulebook.rtfd.io 
+   | 卡查：https://ygocdb.com
+   | 官方卡片数据库（日文）：https://www.db.yugioh-card.com/yugiohdb/?request_locale=ja
+   | 游戏王卡wiki（日文）：http://yugioh-wiki.net
 
 | 游戏王OCG规则繁杂，中文资料大多比较陈旧，规则书部分内容仍不够详细，因此我整理出了这个网站，方便查阅。
 | 本站内容较多，全部记住几乎不可能，如果你是新手，须知开始玩这个游戏\ **不需要**\ 看完本站所有内容。可以先粗略浏览个大概，碰到问题时知道在哪查或要搜什么一般就可以了。此外，即使看完并通晓这些规则，也只代表你可能成为规则大师，并不代表你就是高玩了，这两者没有必然联系。实际上，很多高玩也不清楚一些复杂的规则。
