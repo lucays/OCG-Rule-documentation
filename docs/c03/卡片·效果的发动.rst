@@ -236,20 +236,20 @@
 | 「大将军 紫炎」在对方场上存在，自己魔法·陷阱卡的发动被无效的场合，这个回合自己仍然可以再发动1次魔法·陷阱卡。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11730>`__\
 | 「召唤兽 卡利古拉」在场上存在，自己怪兽效果发动被无效的场合，这个回合自己怪兽的效果不可以再发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7813&keyword=&tag=-1>`__\
 
-.. attention:: 特别地，「命运的抽卡」的裁定中统一化，这张卡发动后，魔法·陷阱·怪兽的效果发动被无效的场合，这个回合还能再发动1次。\ `18/12/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22342&keyword=&tag=-1>`__\
+.. attention:: 特别地，「命运的抽卡」\ `18/12/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22342&keyword=&tag=-1>`__ 「交错之魂」\ `20/12/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=15838>`__ 这类『只能有1次把魔法·陷阱·怪兽的效果发动』文本的裁定中统一化，魔法·陷阱·怪兽的效果发动被无效的场合，这个回合还能再发动1次。
 
 也可以概括为下面这个表：
 
 ==================================== ================ ======================
-发动无效的场合                           怪兽           魔法·陷阱
+发动无效的场合                         怪兽效果          魔法·陷阱
 ==================================== ================ ======================
-发动计数                                 1                0             
-使用计数                                 1                1               
+发动计数                                 1                0（卡的发动）     
+使用计数                                 1                1（效果的使用）    
 ==================================== ================ ======================
 
 .. attention::
 
-   | 特别地，「RUM-七皇之剑」记述的是『适用』次数。即使效果被无效的场合，还能再发动1张。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13164>`__ ，可以连锁发动「连续魔法」，由于只会适用1次，结果在「连续魔法」的效果适用后，连锁1的自身效果不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=241>`__
+   | 特别地，「RUM-七皇之剑」「粗人舞导」等记述的是『适用』次数。即使效果被无效的场合，还能再发动1张。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13164>`__ ，可以连锁发动「连续魔法」，由于只会适用1次，结果在「连续魔法」的效果适用后，连锁1的自身效果不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=241>`__
    | 另外，只要没被无效，即使处理时因「虚无空间」等不适用等情况，这次决斗中也不能再发动。
 
 .. _`在效果处理中发动魔法·陷阱卡`:
