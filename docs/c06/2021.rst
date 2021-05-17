@@ -96,7 +96,7 @@
 | 「友情-真“艾”-」的①效果是每1个属性1回合各能选择1次。也就是说，自己把地属性的「地石人@火灵天星」特殊召唤成功并选择发动了『●地·水』的效果，那个回合中自己再把水属性的「水海龙@火灵天星」特殊召唤成功的场合，可以再选择发动1次『●地·水』的效果。\ `21/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23181&keyword=&tag=-1>`__
 | 「电子界到临者@火灵天星」的攻击宣言时也能发动「默默妖@火灵天星」的①效果。那个场合，「默默妖@火灵天星」自身从手卡特殊召唤，攻击不会被无效。\ `21/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23185&keyword=&tag=-1>`__
 | 对方场上存在「M·HERO 暗爪」，自己发动「凶导的白骑士」的②效果的场合，从自己额外卡组送去墓地的卡不去墓地而除外，后续的效果处理不适用。\ `21/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23189&keyword=&tag=-1>`__
-| 自己场上存在「M·HERO 暗爪」，自己发动「凶导的白骑士」的②效果的场合，自己从额外卡组把1只怪兽送去墓地，再从对方额外卡组选1只怪兽除外，，结果攻击力只上升自己从额外卡组送去墓地的那只怪兽攻击力的一半数值。\ `21/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23190&keyword=&tag=-1>`__
+| 自己场上存在「M·HERO 暗爪」，自己发动「凶导的白骑士」的②效果的场合，自己从额外卡组把1只怪兽送去墓地，再从对方额外卡组选1只怪兽除外，结果攻击力只上升自己从额外卡组送去墓地的那只怪兽攻击力的一半数值。\ `21/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23190&keyword=&tag=-1>`__
 | 在持有「ZS-武装贤者」作为XYZ素材的「No.39 希望皇 霍普」上面重叠，把「混沌No.39 希望皇 霍普雷」X召唤的场合，「ZS-武装贤者」的②效果不适用。\ `21/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23178&keyword=&tag=-1>`__
 | 「ZW-天马双翼剑」的④效果是不入连锁的任意适用的效果。在对方场上的怪兽发动的效果处理时，可以选这个效果适用，把那个发动的效果无效。\ `21/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23179&keyword=&tag=-1>`__
 | 「龙装合体 龙王霍普雷」的①效果把「ZW-天马双翼剑」给自己装备的场合，由于是当作「ZW-天马双翼剑」自身的③效果来装备，「龙装合体 龙王霍普雷」的攻击力会上升1000。\ `21/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23186&keyword=&tag=-1>`__
