@@ -108,7 +108,6 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
    | 「三刃戟海龙神」对攻击力不足800的怪兽发动效果，结果是0，效果仍被无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9809&keyword=&tag=-1>`__
    | 「黑羽龙」在攻击力0时受到效果伤害也会作为代替放置指示物。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9809&keyword=&tag=-1>`__ 可以对攻击力低的怪兽发动效果，取除全部指示物，那个怪兽攻击力下降到0，造成攻击力数值的伤害。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9808&keyword=&tag=-1>`__
    | 「捕食植物 奇美拉大花草」的②效果处理时对方怪兽攻击力不足1000的场合，结果是0，自身仍然上升1000攻击力。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7514>`__
-   | 「幻奏的音女 唐唐」的②效果处理时，对象怪兽攻击力不足500的场合，结果是0，仍然造成500伤害。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15615>`__
    | 「禁忌的圣枪」以攻击力0的怪兽为对象发动效果，后续也正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12476>`__
    | 对方场上的怪兽攻击力全是0的场合，「CNo.39 希望皇 霍普雷」也可以发动效果，自身上升500。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11844>`__
    | 「光辉终结龙」和攻击力·守备力不足1500的怪兽战斗也会发动效果，但和攻击力·守备力都是0的怪兽战斗时不能发动效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7675>`__
@@ -117,6 +116,7 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
 
       | 部分后续效果不适用的场合，攻击力也不下降。
       | 例：
+      | 幻奏的音女 唐唐」的②效果处理时，作为对象的「幻奏」怪兽攻击力不足500的场合，「幻奏的音女 唐唐」的效果完全不适用。
       | 「超级运动员 四分卫球员」攻击力不足800的场合不能发动②效果，处理时不足的场合全不适用，不会下降攻击力。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17226>`__
       | 「隆隆隆石人-黄金形态」攻击力不足1500的场合，作为必发效果会发动，不下降攻击力，不会无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12916>`__
       | 「光与暗之龙」攻击力·守备力不足500的场合，作为必发效果会发动，但效果都不适用，不会无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6357&keyword=&tag=-1>`__
