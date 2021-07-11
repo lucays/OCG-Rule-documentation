@@ -2615,7 +2615,7 @@ wiki：
 | 数据库：
 | 场上·墓地只有「龙骑士 黑魔术师」和「黑魔术师」存在，墓地的「魂之仆人」的②效果发动的场合，只抽1张卡。\ `19/11/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22867&keyword=&tag=-1>`__
 | 解放卡名当作「黑魔术师」的「黑幻想之魔术师」，发动「魔术师的配合」的①效果时，处理时只能把「黑魔术少女」特殊召唤。手卡和墓地没有「黑魔术少女」的场合，不能解放「黑幻想之魔术师」来发动「魔术师的配合」的①效果。\ `19/11/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22878&keyword=&tag=-1>`__
-| 自己发动「超魔导师-黑魔术师徒」②效果时，对方连锁发动「D.D.乌鸦」的效果导致自己手卡·卡组·墓地没有集齐「黑魔术师」「黑魔术少女」的场合，不会特殊召唤怪兽。\ `19/11/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22882&keyword=&tag=-1>`__
+| 自己发动「超魔导师-黑魔术师徒」②效果时，对方连锁发动「D.D.乌鸦」的①效果导致自己手卡·卡组·墓地没有集齐「黑魔术师」「黑魔术少女」的场合，不会特殊召唤怪兽。\ `19/11/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22882&keyword=&tag=-1>`__
 | 即使P区域没有卡，也能发动「EM弹出」。这个场合抽卡之后，失去手卡数*1000的基本分。\ `19/11/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22871&keyword=&tag=-1>`__
 | 「黑魔术的秘仪」的效果要把8星的「黑混沌之魔术师·黑混沌极魔导」仪式召唤时，解放的怪兽不能是7星「黑魔术师」+8星「青眼白龙」的组合。如果没有「黑魔术师」以外的7星以下怪兽，不能发动「黑魔术的秘仪」。\ `19/11/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22879&keyword=&tag=-1>`__
 | 「超魔导师-黑魔术师徒」的①效果抽到「玩具魔术师」的场合，由于是怪兽卡，不能当作魔法卡盖放。\ `19/11/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22883&keyword=&tag=-1>`__
