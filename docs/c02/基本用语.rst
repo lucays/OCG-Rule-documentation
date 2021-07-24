@@ -415,7 +415,7 @@ cost
 
 | 例：
 | 「青色眼睛的少女」被选择作为攻击对象时发动效果，连锁发动「月之书」把它变成里侧守备表示的场合，处理时把自身变成表侧攻击表示，把「青眼白龙」特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12856&keyword=&tag=-1>`__
-| 「光的护封剑」把里侧守备表示的怪兽反转成表侧守备表示，不是表示形式变更，「电子光虫-核心菜粉蝶」的②效果不会发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18141&keyword=&tag=-1>`__
+| 「光之护封剑」把里侧守备表示的怪兽反转成表侧守备表示，不是表示形式变更，「电子光虫-核心菜粉蝶」的②效果不会发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18141&keyword=&tag=-1>`__
 
 .. note:: 也就是说，表示形式变更是攻击表示⇄守备表示。不是里侧表示⇄表侧表示。
 
