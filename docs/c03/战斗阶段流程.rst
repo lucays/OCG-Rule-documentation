@@ -414,7 +414,7 @@
 .. attention::
 
    | 特别地，「虹之古代都市」的『●3张以上』效果\ `17/10/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7079>`__ 不能在伤害步骤内发动。
-   | 此外，「No.59 背反之料理人」的②效果\ `16/5/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12548>`__ 「D-HERO 敌托邦人」的②效果\ `16/6/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12705>`__ 「黄金乡的守护者」的①效果\ `20/3/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=15128>`__ 这样先进行其他效果处理后改变攻击力·守备力的效果不能在伤害步骤发动。
+   | 此外，「No.59 背反之料理人」的②效果\ `16/5/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12548>`__ 「D-HERO 敌托邦人」的②效果\ `16/6/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12705>`__ 「黄金乡的守护者」的①效果\ `20/3/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=15128>`__ 「来自天龙座的降诞」\ `20/9/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8429&request_locale=ja>`__ 等不能在伤害步骤发动。
    | 「No.3 地狱蝉王」的②效果\ `21/5/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=15386&request_locale=ja>`_ 「水晶幻透翼同调龙」的①效果\ `21/5/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16379>`_ 这样直接连锁其他效果来发动的效果，虽然也会影响怪兽的攻击力·守备力，不能把发动无效，在伤害步骤仍然不能发动。
    | 「天融星 怪奇」的①效果\ `18/5/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13831>`__ 和「寄生融合虫」的②效果\ `16/10/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12744>`__ 等，直接进行召唤·仪式召唤·融合召唤·S召唤·X召唤·LINK召唤的效果在伤害步骤内也不能发动，已经发动这类效果的场合处理时也不会适用进行这些召唤·特殊召唤，详见\ 效果处理中进行伤害计算_\ 。
 
