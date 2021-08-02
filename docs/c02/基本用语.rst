@@ -731,8 +731,10 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 | 「霸王眷龙 凶饿毒」的效果不能以衍生物为对象发动。\ `17/7/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20876>`__ 「N·黑暗豹」也不能。\ `17/4/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11257>`__
 | 把「锁龙蛇-骷髅四面鬼」连接召唤时，可以用卡名不同的衍生物。\ `17/11/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12629>`__
 
+.. _陷阱怪兽:
+
 陷阱怪兽
-========
+===========
 
 | 「量子猫」「机壳的冻结」等，发动后变成怪兽特殊召唤的陷阱卡，称陷阱怪兽。
 | 「量子猫」这样，记述『这张卡也当作陷阱卡使用』的陷阱怪兽，在怪兽区域存在时既是怪兽卡也是陷阱卡。
