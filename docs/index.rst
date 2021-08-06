@@ -69,7 +69,7 @@ Welcome to ocg-rule's documentation!
 ===========
 
 | 直接在每篇文章网页底部评论即可。
-| 如果对规则有一定了解且有兴趣，可以加入qq群：768881279（有加群问题，不建议萌新加群）
+| 如果对规则有一定了解且有兴趣，可以加入qq群：768881279（暂时闭群中）
 | 或发邮件至：\ lucahhai@gmail.com\ /\ lucahhai@foxmail.com
 
 .. _其他贡献者:
