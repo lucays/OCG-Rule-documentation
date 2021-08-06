@@ -1903,7 +1903,7 @@ wiki：
 | 数据库：
 | 场上存在「神影依 米德拉什」的状况，不能发动「原始生命态 尼比鲁」的①效果（先特殊召唤自身再特殊召唤衍生物，是2次特殊召唤）。\ `19/9/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22804&keyword=&tag=-1>`__
 | 「群雄割据」的效果适用中，场上有岩石族以外的怪兽存在的场合，「原始生命态 尼比鲁」的效果不能发动。\ `19/9/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22802&keyword=&tag=-1>`__
-| 场上存在「召唤僧」的状况，也能发动「原始生命态 尼比鲁」的①效果。这个场合，把剩余的怪兽解放，只要解放了1只怪兽或者更多，就可以特殊召唤自身以及衍生物，如果没能解放怪兽，则不会特殊召唤。\ `19/9/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22810&keyword=&tag=-1>`__
+| :strike:`场上存在「召唤僧」的状况，也能发动「原始生命态 尼比鲁」的①效果。`这个场合，把剩余的怪兽解放，只要解放了1只怪兽或者更多，就可以特殊召唤自身以及衍生物，如果没能解放怪兽，则不会特殊召唤。\ `19/9/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22810&keyword=&tag=-1>`__
 | 「亚空间物质传送装置」把怪兽除外以后，发动「时间女神的恶作剧」的场合，由于结束阶段被跳过，被除外的那只怪兽不会回场，仍然除外。\ `19/9/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22809&keyword=&tag=-1>`__
 | 「敌人操纵器」得到对方「女武神」怪兽的控制权，之后发动「时间女神的恶作剧」的场合，「敌人操纵器」适用的效果消失，得到控制权的怪兽归还给对方。\ `19/9/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22817&keyword=&tag=-1>`__
 | 「大宇宙」的②效果适用中，发动「时间女神的恶作剧」的场合，虽然「时间女神的恶作剧」自身没有送去墓地，后续处理也仍然适用。\ `19/9/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22818&keyword=&tag=-1>`__
