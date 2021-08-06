@@ -20,14 +20,14 @@ Welcome to ocg-rule's documentation!
 其他贡献者
 ===========
 
-感谢下列玩家给本站文章提供了大量的邮件调整，纠正了一些不规范或错误的描述：
+感谢下列裁判/玩家一直以来（或曾经）给本站文章提供了大量的邮件调整，纠正了一些不规范或错误的描述：
 
-- 电子界红帽客
-- 罗伽
-- 円環のことわり
+- \ `电子界红帽客 <https://space.bilibili.com/13126837/>`__\
+- \ `罗伽 <http://weibo.com/u/5657709179>`__\
+- \ `円環のことわり <https://space.bilibili.com/750745>`__\
 - 日常的夏娜
 - 苍蓝
-- 青银波涛
+- \ `青银波涛 <https://tieba.baidu.com/home/main?un=%E9%9D%92%E9%93%B6%E6%B3%A2%E6%B6%9B&from=tieba>`__\
 - Yuzuha
 
 源代码
