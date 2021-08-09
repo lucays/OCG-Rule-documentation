@@ -580,7 +580,7 @@
 
 -  | 记述『战斗破坏...怪兽』诱发的效果在被战斗破坏确定的这个时点判断是否满足条件，满足条件的场合在伤害步骤结束时发动。
    | 例：
-   | 「真红眼不尸龙」被战斗破坏时，由于永续效果在伤害计算后不适用，结果不能发动P区域「EM 笑容魔术家」的①效果。
+   | 「真红眼不尸龙」被战斗破坏时，由于永续效果在被战斗破坏确定时不适用，结果不能发动P区域「EM 笑容魔术家」的①效果。
    | 「涅槃之超魔导剑士」把原本持有者是自己的怪兽战斗破坏时，也可以发动②效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18713>`__ 「电子光虫-散热器蜣螂」的②效果也可以发动并适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18159>`__
    | 当作通常怪兽处理的二重怪兽被战斗破坏，可以发动「救护部队」的②效果。当作效果怪兽处理的二重怪兽被战斗破坏，不能发动「救护部队」的②效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16640&keyword=&tag=-1>`__
    | 不死族衍生物被战斗破坏时，可以发动「真红眼不尸龙」的效果。\ `18/9/21 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22142>`__
