@@ -193,22 +193,24 @@
    | 例：
    | 对方主要阶段，对方发动卡的效果，自己场上的「真龙拳士 雾动轰·铁拳」的效果连锁发动，效果处理时从卡组把「真龙皇的复活」在自己场上发动的场合，这组连锁处理完毕时才能发动「真龙皇的复活」的①或②效果。
 
--  | 『魔法·陷阱卡发动的场合』效果在连锁处理完毕时基本上不会发动·适用。
-   | 例：
-   | 「吸血鬼移地」等效果把场地魔法卡发动、「EM 天空魔术家」的②效果和「真龙战士 点火烈·炽热」的①效果把永续魔法卡发动的场合，「凤凰剑圣 基亚·弗里德」「暗黑黑炎龙」等效果不能发动。「淘气仙星·坎迪娜」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20802&keyword=&tag=-1>`__ 「王立魔法图书馆」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20506&keyword=&tag=-1>`__ 「魔术师的右手」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11939&keyword=&tag=-1>`__ 等效果不适用。
-   | 「吸血鬼移地」等效果把场地魔法卡发动、「真龙战士 点火烈·炽热」的①效果把永续魔法卡发动的场合，「EM 天空魔术家」的①效果不能发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20507&keyword=&tag=-1>`__\
+| 「弹出式翻页」等效果把魔法·陷阱卡发动后，『魔法·陷阱卡发动的场合』效果在连锁处理完毕时基本上不会发动·适用。
+| 不过，「自然蔷薇鞭」或「大将军 紫炎」等计数效果照常计算。
+| 例：
+| 对方「自然蔷薇鞭」或者「大将军 紫炎」的效果适用中，我方通过「尸界的班西」的②效果把「不死世界」发动的场合，这个回合我方不能再发动其他魔法·陷阱卡。
+| 「吸血鬼移地」等效果把场地魔法卡发动、「EM 天空魔术家」的②效果和「真龙战士 点火烈·炽热」的①效果把永续魔法卡发动的场合，「凤凰剑圣 基亚·弗里德」「暗黑黑炎龙」等效果不能发动。「淘气仙星·坎迪娜」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20802&keyword=&tag=-1>`__ 「王立魔法图书馆」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20506&keyword=&tag=-1>`__ 「魔术师的右手」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11939&keyword=&tag=-1>`__ 等效果不适用。
+| 「吸血鬼移地」等效果把场地魔法卡发动、「真龙战士 点火烈·炽热」的①效果把永续魔法卡发动的场合，「EM 天空魔术家」的①效果不能发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20507&keyword=&tag=-1>`__\
 
-   .. attention::
+.. attention::
 
-      | 特别地，「吸血鬼移地」「弹出式翻页」等效果把场地魔法卡发动的场合，「妖精龙 古代妖」的抽卡效果会发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8110&keyword=&tag=-1>`__\
-      | 只在「EM 天空魔术家」自身②效果把魔法卡发动的场合，其①效果会发动使自身攻击力上升。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20508&keyword=&tag=-1>`__\
+   | 特别地，「吸血鬼移地」「弹出式翻页」等效果把场地魔法卡发动的场合，「妖精龙 古代妖」的抽卡效果会发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8110&keyword=&tag=-1>`__\
+   | 只在「EM 天空魔术家」自身②效果把魔法卡发动的场合，其①效果会发动使自身攻击力上升。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20508&keyword=&tag=-1>`__\
 
 -  | 当魔法·陷阱卡不能发动的场合，不能通过效果把魔法·陷阱卡发动。
    | 例：
+   | 「大将军 紫炎」的效果适用中，还没发动魔法·陷阱卡的回合，也不能发动「弹出式翻页」。
    | 「人造人-念力震慑者」的①效果适用中，「真龙拳士 雾动轰·铁拳」的效果只能把「真龙」永续陷阱加入手卡。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20504&keyword=&tag=-1>`__\
    | 「魔封的芳香」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11016&keyword=&tag=-1>`__ 「大寒波」「封魔的咒印」「闪光No.0 希望之异热同心」等效果适用中，即使是不受效果影响的「真龙战士 点火烈·炽热」的效果，也只能把「真龙」永续魔法加入手卡。
    | 「埋伏破坏」「久远之魔术师 米拉」「超次元机器人 银河破坏王」的效果发动时，可以连锁发动「真龙拳士 雾动轰·铁拳」的效果来发动陷阱卡。
-   | 「大将军 紫炎」的效果适用中，还没发动魔法·陷阱卡的回合，也不能发动「弹出式翻页」。
 
 .. _`发动后不能留在场上的魔法·陷阱卡`:
 

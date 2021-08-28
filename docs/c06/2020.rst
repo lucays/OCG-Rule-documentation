@@ -42,7 +42,7 @@
 | 数据库：
 | 不能以从额外卡组特殊召唤的攻击力0的怪兽为对象发动「巨神封印之矢」。\ `20/1/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22938&keyword=&tag=-1&request_locale=ja>`__
 | 「一点冲夺法」的①效果从额外卡组选怪兽时，可以选「连神龙」等不能被这个效果特殊召唤的怪兽。对方选的是相同种类的场合，对方选的怪兽送去墓地，我方选的「连神龙」不会特殊召唤，仍然留在额外卡组。\ `20/1/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22937&keyword=&tag=-1&request_locale=ja>`__
-| 攻击力和守备力都是「？」的怪兽不是攻击力和守备力相同的怪兽，「机巧狐-宇迦之御魂稻荷」的②效果不能把这种怪兽特殊召唤。\ `20/1/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22950&keyword=&tag=-1>`__
+| 攻击力和守备力都是『？』的怪兽不是攻击力和守备力相同的怪兽，「机巧狐-宇迦之御魂稻荷」的②效果不能把这种怪兽特殊召唤。\ `20/1/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22950&keyword=&tag=-1>`__
 | 对方把通常怪兽表侧表示特殊召唤的场合，只要攻击力不是0，就可以发动「朔夜时雨」的①效果。不过，是攻击力0的当作通常怪兽处理的二重怪兽的场合，也可以发动「朔夜时雨」的①效果。这个场合，那个二重怪兽效果无效，成为效果无效的效果怪兽（不再是通常怪兽了）。\ `20/1/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22948&keyword=&tag=-1>`__
 | 「宵星之骑士 吉尔苏」的②效果处理时，对方的没有可用的主要怪兽区域的场合，也不会在自己场上特殊召唤衍生物。\ `20/1/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22954&keyword=&tag=-1>`__
 | 对方把魔法·陷阱·怪兽的效果发动时，我方连锁发动「半龙女仆·耀光龙女」的②效果，对方再连锁发动「虚无空间」的场合，仍然把那次发动无效并破坏，「半龙女仆·耀光龙女」会回到额外卡组，但不会从额外卡组特殊召唤「半龙女仆·龙女管家」。\ `20/1/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22946&keyword=&tag=-1>`__
@@ -843,7 +843,7 @@
 | 对方「教导国家 教导龙国」的③效果处理时，我方从额外卡组把「虚光之宣告者」送去墓地的场合，是因对方的效果送去墓地，可以发动②效果。\ `20/4/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23009&keyword=&tag=-1>`__
 | 「巨石遗物·富尔」的①效果不能以相同等级的怪兽为对象发动。\ `20/4/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23005&keyword=&tag=-1>`__
 | 里侧表示的持有X素材的「六花圣 力量女神花圈」被解放的场合也可以发动②效果。\ `20/4/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23007&keyword=&tag=-1>`__
-| 「机巧辰-高暗御津羽靇」的③效果可以选攻击力是0或者「？」的怪兽。这个场合不回复基本分，把怪兽除外即是这个效果处理完毕。\ `20/4/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23003&keyword=&tag=-1>`__
+| 「机巧辰-高暗御津羽靇」的③效果可以选攻击力是0或者『？』的怪兽。这个场合不回复基本分，把怪兽除外即是这个效果处理完毕。\ `20/4/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23003&keyword=&tag=-1>`__
 | 「虚无空间」的①效果适用中，也可以发动「焰圣骑士-阿斯托尔福」的②效果。发动后第2次的自己准备阶段，「虚无空间」的①效果仍然适用中的场合，「焰圣骑士-阿斯托尔福」保持被除外的状态，不会选战士族·炎属性怪兽特殊召唤。\ `20/4/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22999&keyword=&tag=-1>`__
 | 「教导的铁锤 特奥」的③效果可以对攻击力0的怪兽发动，这个场合自身攻击力仍然上升600，对象怪兽的攻击力下降600的结果仍是0。\ `20/4/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22997&keyword=&tag=-1>`__
 | 「龙狸灯」和连接怪兽进行战斗的伤害计算时不能发动②效果。\ `20/4/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23004&keyword=&tag=-1>`__
