@@ -86,7 +86,7 @@ html_theme_path = [sphinx_typlog_theme.get_path()]
 html_theme_options = {
     'logo': 'logo.webp',
     'color': 'rgba(3, 172, 244, 0.8)',
-    'description': '游戏王OCG规则整理 by 碎冰',
+    'description': '游戏王规则调整',
     'github_user': 'lucays',
     'github_repo': 'ocg-rule',
     'canonical_url': 'https://ocg-rule.readthedocs.io',
