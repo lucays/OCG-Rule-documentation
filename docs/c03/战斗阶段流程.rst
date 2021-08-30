@@ -388,46 +388,46 @@
 
 伤害步骤内，只能发动以下效果：
 
-- 1速诱发：必发效果/自身表示形式变更、被反转、破坏、战斗·效果破坏、战斗破坏、效果破坏、解放、送去墓地、除外、从场上离开、加入手卡、特殊召唤/自身以外的卡片被战斗破坏、战斗·效果破坏诱发的效果等
+| 1速诱发：必发效果/自身表示形式变更、被反转、破坏、战斗·效果破坏、战斗破坏、效果破坏、解放、送去墓地、除外、从场上离开、加入手卡、特殊召唤/自身以外的卡片被战斗破坏、战斗·效果破坏诱发的效果等
 
-   .. note::
+.. note::
 
-      | 可以看出，自身发生各种变化诱发的效果基本上都能发动，自身以外的卡片发生其他变化诱发的效果，在伤害步骤不能发动。
-      | 具体地说，自身以外的卡片表示形式变更、被解放、送去墓地、除外、从场上离开、加入手卡、特殊召唤以及只能被效果破坏诱发的选发效果等，在伤害步骤不能发动。
-      | 「地中族的战士」文本明确记述了『伤害步骤也能发动』，除此之外没有选发的自身以外卡片反转诱发的效果。
-      | 「同路人」\ `17/1/26 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=4939>`__ 「闪刀姬-零衣」的②效果\ `18/2/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13670>`__ 等明确记述被战斗破坏可以发动的效果，即使伤害步骤内满足的是另一个条件（被效果送去墓地、从场上离开等），这些效果也能发动。
+   | 可以看出，自身发生各种变化诱发的效果基本上都能发动，自身以外的卡片发生其他变化诱发的效果，在伤害步骤不能发动。
+   | 具体地说，自身以外的卡片表示形式变更、被解放、送去墓地、除外、从场上离开、加入手卡、特殊召唤以及只能被效果破坏诱发的选发效果等，在伤害步骤不能发动。
+   | 「地中族的战士」文本明确记述了『伤害步骤也能发动』，除此之外没有选发的自身以外卡片反转诱发的效果。
+   | 「同路人」\ `17/1/26 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=4939>`__ 「闪刀姬-零衣」的②效果\ `18/2/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13670>`__ 等明确记述被战斗破坏可以发动的效果，即使伤害步骤内满足的是另一个条件（被效果送去墓地、从场上离开等），这些效果也能发动。
 
-   .. attention::
+.. attention::
 
-      | 自身以外的卡片被破坏诱发的效果，在旧文本下的裁定不统一。
-      | 「森之番人 绿狒狒」等不能发动的效果在复刻后改成了『被效果破坏才能发动』。这个状况被\ :ref:`控制权变更`\ 时没有怪兽区域可用等效果以外的破坏的场合也不能发动了。
-      | 例：
-      | 「平行选择」\ `15/9/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8997>`__ 在伤害步骤内也能发动。
-      | 「再开的大朵蔷薇」\ `14/10/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8792>`__ 「新宇侠的逆转」\ `15/7/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7163>`__ 「除草兽」\ `18/2/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=9037>`__ 在伤害步骤内不能发动。
+   | 自身以外的卡片被破坏诱发的效果，在旧文本下的裁定不统一。
+   | 「森之番人 绿狒狒」等不能发动的效果在复刻后改成了『被效果破坏才能发动』。这个状况被\ :ref:`控制权变更`\ 时没有怪兽区域可用等效果以外的破坏的场合也不能发动了。
+   | 例：
+   | 「平行选择」\ `15/9/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8997>`__ 在伤害步骤内也能发动。
+   | 「再开的大朵蔷薇」\ `14/10/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8792>`__ 「新宇侠的逆转」\ `15/7/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7163>`__ 「除草兽」\ `18/2/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=9037>`__ 在伤害步骤内不能发动。
 
-- 2速以上：必发效果/反击陷阱/把\ **发动无效**\ 的效果/影响怪兽攻击力·守备力的效果
+| 2速以上：必发效果/反击陷阱/把\ **发动无效**\ 的效果/影响怪兽攻击力·守备力的效果
 
-   .. tip::
+.. tip::
 
-      | 「灰流丽」这样，记述『那个效果无效』的效果，不是把发动无效，结果不能在伤害步骤内发动。\ `17/1/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12950>`__
-      | 「屋敷童」这样，记述『那个发动无效』的效果，可以在伤害步骤内发动。\ `18/1/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13587>`__
-      | 文本判断时，『发动的\ **效果无效**\ 』是把效果无效，『效果的\ **发动无效**\ 』是把发动无效。
+   | 「灰流丽」这样，记述『那个效果无效』的效果，不是把发动无效，结果不能在伤害步骤内发动。\ `17/1/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12950>`__
+   | 「屋敷童」这样，记述『那个发动无效』的效果，可以在伤害步骤内发动。\ `18/1/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13587>`__
+   | 文本判断时，『发动的\ **效果无效**\ 』是把效果无效，『效果的\ **发动无效**\ 』是把发动无效。
 
-   -  | 『...发动时才能发动』的效果处理如果不会把卡片·效果的发动无效，即使会影响攻击力·守备力，也不能在伤害步骤发动。
-      | 例：
-      | 「No.3 地狱蝉王」的②效果\ `21/5/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=15386&request_locale=ja>`_ 「水晶幻透翼同调龙」的①效果\ `21/5/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16379>`_ 「Jo－P.U.N.K. 蜘蛛夫人」的②效果\ `21/8/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16726&request_locale=ja>`_ 「No－P.U.N.K. 鬼能乐」的③效果\ `21/8/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16729&request_locale=ja>`_ 在伤害步骤不能发动。
+-  | 『...发动时才能发动』的效果处理如果不会把卡片·效果的发动无效，即使会影响攻击力·守备力，也不能在伤害步骤发动。
+   | 例：
+   | 「No.3 地狱蝉王」的②效果\ `21/5/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=15386&request_locale=ja>`_ 「水晶幻透翼同调龙」的①效果\ `21/5/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16379>`_ 「Jo－P.U.N.K. 蜘蛛夫人」的②效果\ `21/8/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16726&request_locale=ja>`_ 「No－P.U.N.K. 鬼能乐」的③效果\ `21/8/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16729&request_locale=ja>`_ 在伤害步骤不能发动。
 
-   -  「禁忌的圣杯」\ `17/12/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8213>`__ 等，影响怪兽攻击力·守备力的\ :ref:`快速效果`\ 如果没有特别说明，只能在\ **伤害步骤开始时或伤害计算前**\ 发动。
+-  「禁忌的圣杯」\ `17/12/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8213>`__ 等，影响怪兽攻击力·守备力的\ :ref:`快速效果`\ 如果没有特别说明，只能在\ **伤害步骤开始时或伤害计算前**\ 发动。
 
-   -  | 「银幕之镜壁」这样持有不入连锁影响攻击力·守备力的效果的永续陷阱，只能在伤害步骤开始时和伤害计算前进行卡的发动。即使是「凭依解放」这样在伤害计算时适用的效果也是如此。\ `20/7/4 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11596>`__
-      | 其他永续陷阱在伤害步骤内不能只进行卡的发动，有可以发动的效果满足条件时，才能发动那个效果并进行卡的发动。
-      | 例：
-      | 「真龙的默示录」只在卡的发动的同一\ :ref:`连锁块`\ 发动①效果的场合，才能在伤害步骤内发动。\ `17/1/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12984>`__
+-  | 「银幕之镜壁」这样持有不入连锁影响攻击力·守备力的效果的永续陷阱，只能在伤害步骤开始时和伤害计算前进行卡的发动。即使是「凭依解放」这样在伤害计算时适用的效果也是如此。\ `20/7/4 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11596>`__
+   | 其他永续陷阱在伤害步骤内不能只进行卡的发动，有可以发动的效果满足条件时，才能发动那个效果并进行卡的发动。
+   | 例：
+   | 「真龙的默示录」只在卡的发动的同一\ :ref:`连锁块`\ 发动①效果的场合，才能在伤害步骤内发动。\ `17/1/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12984>`__
 
-   .. attention::
+.. attention::
 
-      | 特别地，「虹之古代都市」的『●3张以上』效果\ `17/10/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7079>`__ 不能在伤害步骤内发动。
-      | 此外，「No.59 背反之料理人」的②效果\ `16/5/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12548>`__ 「D-HERO 敌托邦人」的②效果\ `16/6/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12705>`__ 「黄金乡的守护者」的①效果\ `20/3/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=15128>`__ 「来自天龙座的降诞」\ `20/9/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8429&request_locale=ja>`__ 等例外地不能在伤害步骤发动。
+   | 特别地，「虹之古代都市」的『●3张以上』效果\ `17/10/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7079>`__ 不能在伤害步骤内发动。
+   | 此外，「No.59 背反之料理人」的②效果\ `16/5/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12548>`__ 「D-HERO 敌托邦人」的②效果\ `16/6/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12705>`__ 「黄金乡的守护者」的①效果\ `20/3/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=15128>`__ 「来自天龙座的降诞」\ `20/9/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8429&request_locale=ja>`__ 等例外地不能在伤害步骤发动。
 
 | 例：
 | 「辉神鸟 贝努鸟」的②效果\ `17/10/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12395>`__ 「黯黑之魔王 迪亚波罗斯」的①效果\ `18/3/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13683>`__ 在伤害步骤内不能发动。
