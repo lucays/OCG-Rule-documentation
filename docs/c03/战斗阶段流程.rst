@@ -432,8 +432,7 @@
 | 例：
 | 「辉神鸟 贝努鸟」的②效果\ `17/10/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12395>`__ 「黯黑之魔王 迪亚波罗斯」的①效果\ `18/3/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13683>`__ 在伤害步骤内不能发动。
 | 「电子光虫-核心菜粉蝶」的②效果\ `16/1/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12327>`__ 「魔偶甜点·巧克力雏鸟」的①效果\ `16/4/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10583>`__ 在伤害步骤内不能发动。
-| 「辉神鸟 贝努鸟」的②效果\ `17/10/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12395>`__ 「黯黑之魔王 迪亚波罗斯」的①效果\ `18/3/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13683>`__ 在伤害步骤内不能发动。
-| 「森罗的贤树 将军树」的效果\ `18/11/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11050>`__ 「转生炎兽 羚羊」的①效果\ `18/12/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14240>`__ 在伤害步骤内不能发动。
+| 「森罗的贤树 舍曼将军树」的效果\ `18/11/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11050>`__ 「转生炎兽 羚羊」的①效果\ `18/12/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14240>`__ 在伤害步骤内不能发动。
 | 「玄化次元」的②效果\ `17/7/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13291>`__ 「PSY骨架王·Λ」的②效果\ `18/11/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14207>`__ 在伤害步骤内不能发动。
 | 「D-时间」\ `14/12/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6678>`__ 「PSY骨架加速器」的②效果\ `16/7/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12664>`__ 「究极宝玉阵」的②效果\ `17/11/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13487>`__ 在伤害步骤内不能发动。
 | 「M·HERO 暗爪」的②效果\ `15/7/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11313>`__ 「小丑与锁鸟」的效果\ `17/12/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=9279>`__ 在伤害步骤内不能发动。
