@@ -30,7 +30,7 @@ author = '碎冰'
 # The short X.Y version
 version = '2020.4'
 # The full version, including alpha/beta/rc tags
-release = ''
+release = version
 
 
 # -- General configuration ---------------------------------------------------
