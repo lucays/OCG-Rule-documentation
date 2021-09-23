@@ -1,2 +1,3 @@
-sphinx_rtd_theme
-git+https://github.com/readthedocs/readthedocs-sphinx-search@master
+sphinx-version-warning
+readthedocs-sphinx-search
+git+https://github.com/lucays/sphinx-typlog-theme@master

@@ -28,7 +28,7 @@ author = '碎冰'
 # The short X.Y version
 version = '2017.4'
 # The full version, including alpha/beta/rc tags
-release = ''
+release = version
 
 
 # -- General configuration ---------------------------------------------------
@@ -42,6 +42,7 @@ release = ''
 # ones.
 extensions = [
     'sphinx_search.extension',
+    'versionwarning.extension',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -162,7 +163,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    ('pdf_index', 'ocg-rule.tex', 'ocg-rule Documentation',
+    ('index', 'ocg-rule.tex', 'ocg-rule Documentation',
      '碎冰', 'manual'),
 ]
 
