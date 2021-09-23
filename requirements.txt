@@ -1,2 +1,3 @@
+sphinx-version-warning
 git+https://github.com/lucays/sphinx-typlog-theme@master
 git+https://github.com/readthedocs/readthedocs-sphinx-search@master
