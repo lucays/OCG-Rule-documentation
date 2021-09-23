@@ -179,7 +179,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    ('pdf_index', 'ocg-rule.tex', 'ocg-rule Documentation',
+    ('index', 'ocg-rule.tex', 'ocg-rule Documentation',
      '碎冰', 'manual'),
 ]
 

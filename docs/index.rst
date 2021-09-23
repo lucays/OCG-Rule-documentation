@@ -7,6 +7,8 @@
 Welcome to ocg-rule's documentation!
 ====================================
 
+前言
+===========
 
 .. role:: strike
    :class: strike
@@ -28,14 +30,7 @@ Welcome to ocg-rule's documentation!
 .. tip::
 
    | 由于本站内容较多，如果你是新手，须知玩这个游戏\ **不需要**\ 看完所有内容。初期粗略浏览个大概，碰到问题时知道在哪查或者可以搜什么就可以了。并且，即使你通晓了这些规则，也只能成为规则大师，并不代表你就是高玩了，这两者没有必然联系。
-   | 此外，本站涉及的主要是疑难的规则和调整，如果是不清楚怪兽的各种召唤等，这里找不到答案的\ **基础问题，还是得先看**\ \ `**规则书** <https://ocg-rulebook.rtfd.io>`__\ 。
-
-联系方式
-===========
-
-| 直接在有问题的网页底部评论即可。
-| 如果对规则有一定了解且有兴趣，可以加入qq群：768881279（暂时闭群中）
-| 或发邮件至我的邮箱：\ lucahhai@gmail.com\ /\ lucahhai@foxmail.com
+   | 此外，本站涉及的主要是疑难的规则和调整，如果是不清楚怪兽的各种召唤等，这里找不到答案的\ **基础问题，还是得先看**\ \ `规则书 <https://ocg-rulebook.rtfd.io>`__\ 。
 
 站内搜索
 ============
@@ -57,6 +52,15 @@ Welcome to ocg-rule's documentation!
 
 | 从ygomobile内跳转到这，以上方式下载不了没反应的话，可以长按复制本站网址：https://ocg-rule.rtfd.io，用手机浏览器进入，就可以正常下载了。
 | 电子书只是下载时的网站内容，与最新内容可能存在差异，\ **建议不定时重新下载**\ 。
+
+.. _联系方式:
+
+联系方式
+===========
+
+| 直接在有问题的网页底部评论即可。
+| 如果对规则有一定了解且有兴趣，可以加入qq群：768881279（暂时闭群中）
+| 或发邮件至我的邮箱：\ lucahhai@gmail.com\ /\ lucahhai@foxmail.com
 
 .. _其他贡献者:
 
@@ -88,3 +92,12 @@ Welcome to ocg-rule's documentation!
 | 以前，readthedocs只会给使用官方主题的项目网页加上广告，只要使用自己编写的第三方主题（例如本网站），就不会有广告。
 | 不过，readthedocs公告宣布现在会给所有项目加上广告：\ `New Ad Format Coming to Read the Docs Community Sites <https://blog.readthedocs.com/fixed-footer-ad-all-themes/>`__\ 。
 | 请注意这些广告与我没有任何关系，我也无法再去除。
+
+目录
+========
+
+.. toctree::
+   :maxdepth: 3
+   :glob:
+
+   chapters/*
