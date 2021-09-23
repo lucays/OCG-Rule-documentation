@@ -28,7 +28,7 @@ copyright = f'2018-{(datetime.datetime.now() + datetime.timedelta(hours=8)).strf
 author = '碎冰'
 
 # The short X.Y version
-version = '2020.4'
+version = 'latest'
 # The full version, including alpha/beta/rc tags
 release = version
 
