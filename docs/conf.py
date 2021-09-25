@@ -28,7 +28,7 @@ copyright = f'2018-{(datetime.datetime.now() + datetime.timedelta(hours=8)).strf
 author = '碎冰'
 
 # The short X.Y version
-version = 'latest'
+version = '2020.4'
 # The full version, including alpha/beta/rc tags
 release = ''
 
@@ -179,7 +179,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    ('index', 'ocg-rule.tex', 'ocg-rule Documentation',
+    ('pdf_index', 'ocg-rule.tex', 'ocg-rule Documentation',
      '碎冰', 'manual'),
 ]
 
