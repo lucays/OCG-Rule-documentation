@@ -16,7 +16,7 @@ import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
-import sphinx_rtd_theme
+import sphinx_typlog_theme
 import datetime
 
 # -- Project information -----------------------------------------------------
@@ -28,7 +28,7 @@ author = '碎冰'
 # The short X.Y version
 version = '2017.4'
 # The full version, including alpha/beta/rc tags
-release = ''
+release = '2017.4'
 
 
 # -- General configuration ---------------------------------------------------
@@ -76,15 +76,26 @@ pygments_style = None
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-html_theme = "sphinx_rtd_theme"
-html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
-
-html_static_path = ['_static']
-html_js_files = ['js/expand_tabs.js']
-html_logo = '.static/logo.webp'
+html_theme = 'sphinx_typlog_theme'
+html_theme_path = [sphinx_typlog_theme.get_path()]
 html_theme_options = {
-    'logo_only': True,
-    'display_version': False,
+    'logo': 'logo.webp',
+    'color': 'rgba(3, 172, 244, 0.8)',
+    'description': '游戏王规则调整',
+    'github_user': 'lucays',
+    'github_repo': 'ocg-rule',
+    'canonical_url': 'https://ocg-rule.readthedocs.io',
+    'analytics_id': 'UA-131764005-1',
+    'last_updated': (datetime.datetime.now() + datetime.timedelta(hours=8)).strftime("%Y-%m-%d %H:%M:%S"),
+}
+html_sidebars = {
+    '**': [
+        'logo.html',
+        'docstatus.html',
+        'github.html',
+        'searchbox.html',
+        'globaltoc.html',
+    ]
 }
 
 html_static_path = ['.static']
@@ -124,7 +135,7 @@ htmlhelp_basename = 'ocg-ruledoc'
 
 # -- Options for LaTeX output ------------------------------------------------
 
-latex_logo = '.static/pdf_cover.png'
+# latex_logo = '.static/pdf_cover.png'
 font_path = os.path.join(os.getcwd(), 'fonts') + '/'
 latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').
