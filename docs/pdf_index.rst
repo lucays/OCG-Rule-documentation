@@ -7,8 +7,6 @@
 Welcome to ocg-rule's documentation!
 ====================================
 
-目录
-========
 
 .. toctree::
    :maxdepth: 3
