@@ -44,7 +44,6 @@ release = ''
 # ones.
 extensions = [
     'sphinx_search.extension',
-    'versionwarning.extension',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
