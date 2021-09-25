@@ -36,7 +36,7 @@ Welcome to ocg-rule's documentation!
    | 此外，本站涉及的主要是疑难的规则和调整，如果是不清楚怪兽的各种召唤等，这里找不到答案的\ **基础问题，还是得先看**\ \ `规则书 <https://ocg-rulebook.rtfd.io>`__\ 。
 
 站内搜索
-============
+-------------
 
 | 本站支持站内搜索。点击侧边栏搜索框即可进行搜索。
 | 由于基本不用问答方式介绍，搜索时应该直接搜关键词。例如，应当搜『伤害步骤』，不要搜『:strike:`伤害步骤是什么`』。
@@ -47,7 +47,7 @@ Welcome to ocg-rule's documentation!
 .. attention:: 本站内容支持\ :strike:`删除样式`\ ，用于过时的faq，但是浮动搜索框显示的结果不包含样式，如果是\ :ref:`OCG事务局FAQ`\ 章节下的结果，需要点击进入原文确认。
 
 下载电子书
-=============
+-------------
 
 | 电脑版网页的搜索框在左侧边栏，点击侧边栏底部v:latest那行就会出现下载pdf/epub文档的选项，方便没有网络时查看。
 | 手机版网页要先点击左上角，出现侧边栏，再点击底栏找到下载选项。
@@ -59,14 +59,14 @@ Welcome to ocg-rule's documentation!
 .. _联系方式:
 
 联系方式
-===========
+-----------
 
 | 直接在有问题的网页底部评论即可。
 | 如果对规则有一定了解且有兴趣，可以加入qq群：768881279（暂时闭群中）
 | 或发邮件至我的邮箱：\ lucahhai@gmail.com\ /\ lucahhai@foxmail.com
 
 其他贡献者
-===========
+-------------
 
 感谢下列玩家给这些文章提供了部分邮件调整，或纠正了一些不规范或错误的地方或两者都有（不分先后）：
 
@@ -79,7 +79,7 @@ Welcome to ocg-rule's documentation!
 - 青银波涛
 
 源代码
-=======
+---------
 
 | 这些文章用\ `restructureText <https://zh-sphinx-doc.readthedocs.io/en/latest/rest.html>`__\ 写就。
 | 所有内容的代码见：\ `lucays/ocg-rule <https://github.com/lucays/ocg-rule>`__\ 。
@@ -87,7 +87,7 @@ Welcome to ocg-rule's documentation!
 | readthedocs托管文档的步骤参考\ `使用ReadtheDocs托管文档 <https://www.xncoding.com/2017/01/22/fullstack/readthedoc.html>`__\ 和\ `sphinx文档 <http://www.sphinx-doc.org/en/master/>`__\ 。
 
 广告相关
-==========
+-----------
 
 | 本项目托管在\ `readthedocs <https://readthedocs.org/>`__\ ，一个可以免费发布文档的网站。
 | 以前，readthedocs只会给使用官方主题的项目网页加上广告，只要使用自己编写的第三方主题（例如本网站），就不会有广告。
