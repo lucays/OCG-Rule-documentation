@@ -2788,3 +2788,43 @@
 
 | 邮件：
 | 发动「魔术礼帽」特殊召唤后，可以发动手卡「机巧狐-宇迦之御魂稻荷」的①效果。
+
+| 数据库：
+| 「青眼喷气龙」的③效果可以让进行战斗的对方怪兽回到手卡。这个场合，战斗中止，这只「青眼喷气龙」也不能再攻击。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23399&keyword=&tag=-1>`_
+| 「龙之支配者-龙之独裁者-」的③效果适用时，仍然是对方决定要不要用怪兽攻击，要用哪个怪兽攻击，决定攻击怪兽后，我方来选择攻击对象。另外，发生战斗步骤的卷回时，在对方决定仍要攻击后，也由我方来选择攻击对象。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23398&keyword=&tag=-1>`_
+| 「冰水帝 钠铬辉石精」的②效果适用时，二重怪兽在再1次召唤的回合可以发动效果（是这个回合召唤的怪兽）。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23397&keyword=&tag=-1>`_
+| 「磁石战士ε」的①效果处理时，由于自身变成送去墓地的怪兽同名卡，之后特殊召唤怪兽时不能选那只作为cost送去墓地的怪兽。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23396&keyword=&tag=-1>`_
+| 「暗叛逆XYZ龙」的①效果让「OZ之主」的攻击力变成一半（即2100），自身攻击力上升至4600后，发动「机怪兽 达莱特龙」①效果的场合，场上「暗叛逆XYZ龙」「OZ之主」的攻击力和原本攻击力各相差2100，结果「机怪兽 达莱特龙」的原本攻击力变成4200。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23395&keyword=&tag=-1>`_
+| 「青眼暴君龙」发动③效果后，再次攻击被战斗破坏送去墓地的场合，伤害步骤结束时也不能再次发动③效果。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23394&keyword=&tag=-1>`_
+| 「恐啡肽狂龙·钉状龙女王」的②效果处理时，变成和「恐啡肽狂龙残虐」发动时的效果相同的场合，由于本身是怪兽效果，可以正常破坏不受陷阱效果影响的怪兽。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23393&keyword=&tag=-1>`_
+| 「恐啡肽狂龙·乔斯坦伯格隐形翼龙」的①效果适用时，陷阱效果发动仍然需要支付基本分。「长眠不醒的噩梦」这类永续陷阱即使是在卡的发动同时使用效果也要支付基本分。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23392&keyword=&tag=-1>`_
+| 1组连锁上对方多次特殊召唤了怪兽，处理后「相剑大邪-七星龙渊」的②效果发动的场合，在效果处理时选那些怪兽其中1只除外。这个效果发动时，不需要告知对方是对应哪次特殊召唤来发动的。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23391&keyword=&tag=-1>`_
+| 「伊吕波红叶」①效果处理时，被无效的场合，不会得到『●场上的全部表侧表示怪兽变成宣言的属性』效果。这个效果处理时没被无效，之后被无效的场合，已经得到了这个效果，但是效果无效。后续如果恢复有效，场上全部表侧表示怪兽又会变成宣言的属性。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23390&keyword=&tag=-1>`_
+| 怪兽区域「DDD 赦俿王 死亡机降神」的②效果处理时，自身不在怪兽区域存在的场合，如果自己场上存在表侧表示的「契约书」卡，仍要破坏1张，这个效果处理完毕，对方怪兽卡留在对方场上；如果是对方怪兽卡不在对方场上的场合，仍要进行『这张卡2个超量素材取除或自己场上1张「契约书」卡破坏』的处理，都不能进行的场合这个效果处理完毕，能进行的场合进行处理后这个效果处理完毕。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23389&keyword=&tag=-1>`_
+| 「究极融合」的①效果破坏卡片的数量会计算里侧守备表示作为融合素材的「青眼白龙」「青眼究极龙」。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23388&keyword=&tag=-1>`_
+| 即使对方场上没有怪兽，也可以发动「冰水底 铬离子少女摇篮」的②效果。处理时对方场上仍没有怪兽的场合，只下降对象怪兽的攻击力。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23387&keyword=&tag=-1>`_
+| 和自己场上的「DDD」怪兽相同种类（融合·同调·超量·连接）的怪兽由对方特殊召唤后，即使是因「天龙雪狱」等效果，这些怪兽都不在场上存在的场合，也能发动「特许权的契约书类」的①效果，并会正常适用。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23386&keyword=&tag=-1>`_
+| 要发动「恐啡肽狂龙逆转」的场合必须满足对应反击陷阱的发动条件，但不需要支付cost。例如，魔法卡发动时，可以除外「魔法干扰阵」来发动它，但不能除外「盗贼的七道具」。要除外「势不可挡」来发动它的场合，自己场上必须有等级7以上的上级召唤的怪兽表侧表示存在。而「重力崩坏」的『把自己场上1只表侧表示的同调怪兽送去墓地』是cost，可以不支付这个cost来发动它，也不需要场上存在表侧表示的S怪兽。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23385&keyword=&tag=-1>`_
+| 因对方「暗黑神鸟 斯摩夫」④效果或者自己「左腕的代偿」发动后，自己不能盖放卡片的状况，也可以发动「不给糖就搞鬼计」。这个场合，对方不支付2000基本分，直接进行『没支付的场合』的效果处理。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23384&keyword=&tag=-1>`_
+| 从墓地发动「混沌凤凰神 奈芙提斯」①效果的场合，可以连锁发动「屋敷童」的①效果。从手卡发动的场合不可以。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23383&keyword=&tag=-1>`_
+| 「EM 异色眼光凤凰」把怪兽区域的自身解放发动①效果的场合，不能连锁发动怪兽区域「DDD 赦俿王 死亡机降神」的②效果。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23381&keyword=&tag=-1>`_
+| 自己怪兽区域只存在1只「战吼斗士·福蒂亚」，被战斗破坏时，适用「战吼的奇岩」③效果作为代替把自身送去墓地的场合，由于结果没被战斗破坏，这只「战吼斗士·福蒂亚」可以在伤害计算后发动①效果。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23380&keyword=&tag=-1>`_
+| 对方场上存在「大将军 紫炎」，自己已经发动过1次魔法卡的回合，还能发动「真龙战士 点火烈·炽热」的效果，处理时只能把「真龙」永续魔法卡加入手卡，不能发动。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23379&keyword=&tag=-1>`_
+| 「金满而谦虚之壶」发动被无效的回合，自己可以用卡的效果抽卡。发动成功，效果无效的场合，这个回合自己不能用卡的效果抽卡。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23378&keyword=&tag=-1>`_
+| 「阿拉弥赛亚之仪」发动被无效的回合，自己可以把特殊召唤的怪兽以外的场上的怪兽的效果发动。发动成功，效果无效的场合，这个回合自己不能把特殊召唤的怪兽以外的场上的怪兽的效果发动。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23377&keyword=&tag=-1>`_
+| 「休息一回」在场上存在时，特殊召唤的怪兽发动效果，处理时变成里侧表示的场合，这个效果不会无效，正常适用。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23376&keyword=&tag=-1>`_
+| 自己场上「灵神」怪兽被破坏，那个②效果让下个自己回合的战斗阶段跳过的场合，也可以在这个回合的战斗阶段结束时发动「时间女神的恶作剧」。由于要跳到的战斗阶段也要被跳过，这个场合最终跳到下个自己回合的结束阶段。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23375&keyword=&tag=-1>`_
+| 「真正之光」的『●从卡组选同名卡不在自己的场上·墓地存在的1张有「青眼白龙」的卡名记述的魔法·陷阱卡在自己场上盖放』效果处理时，可以选这个时点在场上盖放的的魔法·陷阱卡的同名卡。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23374&keyword=&tag=-1>`_
+| 「D-HERO 毁灭凤凰人」的③效果发动时，连锁发动「墓穴的指名者」无效的场合，这个效果无效，下个回合的准备阶段也不会特殊召唤怪兽。「D-HERO 毁灭凤凰人」的③效果发动并适用后，再才发动「墓穴的指名者」除外同名卡的场合，下个回合的准备阶段会正常特殊召唤怪兽。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23373&keyword=&tag=-1>`_
+| 「电脑堺门-朱雀」②效果以等级3以下的怪兽为对象发动的场合，处理时只能选上升3，不能选下降。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23370&keyword=&tag=-1>`_
+| 「吸入暗阴的魔镜」在场上存在时，墓地或场上的暗属性怪兽发动效果后，处理时变成里侧表示的场合，那个发动的效果仍然无效。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23369&keyword=&tag=-1>`_
+
+10/16
+--------
+
+| 邮件：
+| 不能除外墓地的「恐啡肽狂龙逆转」来发动「恐啡肽狂龙逆转」。
+
+| 数据库：
+| 怪兽区域「DDD 赦俿王 死亡机降神」的②效果可以对应P区域的怪兽卡以及魔法·陷阱卡区域作为装备卡或永续魔法等存在的怪兽卡发动的效果来发动。\ `21/10/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16849>`_
+
