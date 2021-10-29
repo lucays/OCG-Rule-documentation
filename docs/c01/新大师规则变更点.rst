@@ -11,7 +11,7 @@
 | `NW论坛：OCG第10期 <http://bbs.newwise.com/thread-907107-1-1.html>`__
 | `下载官方新大师规则手册（日文） <http://www.yugioh-card.com/japan/howto/data/rulebook_new_master_rule_ver1.0.pdf>`__
 | `新大师完全规则书（中文） <https://warsier.gitbooks.io/new_master_rule/content/>`__
-| `在线卡查（中文） <http://www.ourocg.cn/>`__\ ，需要在网页底部调整翻译版本为NW优先。
+| `百鸽卡查（中文） <https://ygocdb.com/>`__\ ，需要在网页底部调整翻译版本为NW优先。
 | 用微信卡查时，需要在\ **微信小程序-游戏王查卡器-我的-中文译名设置-当前偏好**\ 中调整为NWBBS。
 
 新增2个EX区域
