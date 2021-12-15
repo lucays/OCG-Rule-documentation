@@ -2991,7 +2991,7 @@
 | 由于「圣天树的开花」在卡的发动时必须进行①效果的处理，不能在伤害计算时进行卡的发动（要发动②效果必须在伤害步骤之外先进行卡的发动）。\ `20/12/9 <https://yugioh-wiki.net/index.php?%A1%D4%C0%BB%C5%B7%BC%F9%A4%CE%B3%AB%B2%D6%A1%D5#faq>`__
 
 | 数据库：
-| 「伯吉斯异兽」陷阱卡发动②效果从墓地特殊召唤时，由于不是把怪兽特殊召唤，「龙血公 吸血鬼」的③效果不能发动。\ `20/12/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23154&keyword=&tag=-1>`__
+| 「伯吉斯异兽」陷阱卡发动②效果从墓地特殊召唤时，由于不是从墓地把怪兽特殊召唤，「龙血公 吸血鬼」的③效果不能发动。\ `20/12/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23154&keyword=&tag=-1>`__
 
 12/10
 --------
