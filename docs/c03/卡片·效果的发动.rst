@@ -56,7 +56,7 @@
 | 例：
 | 「No.16 色之支配者」宣言了魔法·陷阱卡的场合，可以进行魔法·陷阱效果的发动。\ `17/3/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=9860>`__\
 | 「深渊死球」的效果适用中，不能发动魔法卡的场合，可以进行魔法效果的发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12601&keyword=&tag=-1>`__\
-| 「CNo.39 希望皇 霍普雷·胜光」向装备着无效状态的「机壳的牲祭」的怪兽攻击，怪兽被战斗破坏后「机壳的牲祭」的③效果可以发动。15/5/11
+| 「混沌No.39 希望皇 霍普雷·胜光」向装备着无效状态的「机壳的牲祭」的怪兽攻击，怪兽被战斗破坏后「机壳的牲祭」的③效果可以发动。15/5/11
 
 .. attention::
 
@@ -171,7 +171,7 @@
 
 .. attention::
 
-   | 特别地，「RUM-七皇之剑」「粗人舞导」等记述的是『适用』次数。即使效果被无效的场合，还能再发动1张。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13164>`__ ，可以连锁发动「连续魔法」，由于只会适用1次，结果在「连续魔法」的效果适用后，连锁1的自身效果不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=241>`__
+   | 特别地，「升阶魔法-七皇之剑」「粗人舞导」等记述的是『适用』次数。即使效果被无效的场合，还能再发动1张。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13164>`__ ，可以连锁发动「连续魔法」，由于只会适用1次，结果在「连续魔法」的效果适用后，连锁1的自身效果不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=241>`__
    | 另外，只要没被无效，即使处理时因「虚无空间」等不适用等情况，这次决斗中也不能再发动。
 
 .. _`在效果处理中发动魔法·陷阱卡`:
@@ -197,13 +197,13 @@
 | 不过，「自然蔷薇鞭」或「大将军 紫炎」等计数效果照常计算。
 | 例：
 | 对方「自然蔷薇鞭」或者「大将军 紫炎」的效果适用中，我方通过「尸界的班西」的②效果把「不死世界」发动的场合，这个回合我方不能再发动其他魔法·陷阱卡。
-| 「吸血鬼移地」等效果把场地魔法卡发动、「EM 天空魔术家」的②效果和「真龙战士 点火烈·炽热」的①效果把永续魔法卡发动的场合，「凤凰剑圣 基亚·弗里德」「暗黑黑炎龙」等效果不能发动。「淘气仙星·坎迪娜」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20802&keyword=&tag=-1>`__ 「王立魔法图书馆」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20506&keyword=&tag=-1>`__ 「魔术师的右手」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11939&keyword=&tag=-1>`__ 等效果不适用。
-| 「吸血鬼移地」等效果把场地魔法卡发动、「真龙战士 点火烈·炽热」的①效果把永续魔法卡发动的场合，「EM 天空魔术家」的①效果不能发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20507&keyword=&tag=-1>`__\
+| 「吸血鬼移地」等效果把场地魔法卡发动、「娱乐伙伴 天空魔术家」的②效果和「真龙战士 点火烈·炽热」的①效果把永续魔法卡发动的场合，「凤凰剑圣 基亚·弗里德」「暗黑黑炎龙」等效果不能发动。「淘气仙星·坎迪娜」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20802&keyword=&tag=-1>`__ 「王立魔法图书馆」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20506&keyword=&tag=-1>`__ 「魔术师的右手」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11939&keyword=&tag=-1>`__ 等效果不适用。
+| 「吸血鬼移地」等效果把场地魔法卡发动、「真龙战士 点火烈·炽热」的①效果把永续魔法卡发动的场合，「娱乐伙伴 天空魔术家」的①效果不能发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20507&keyword=&tag=-1>`__\
 
 .. attention::
 
    | 特别地，「吸血鬼移地」「弹出式翻页」等效果把场地魔法卡发动的场合，「妖精龙 古代妖」的抽卡效果会发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8110&keyword=&tag=-1>`__\
-   | 只在「EM 天空魔术家」自身②效果把魔法卡发动的场合，其①效果会发动使自身攻击力上升。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20508&keyword=&tag=-1>`__\
+   | 只在「娱乐伙伴 天空魔术家」自身②效果把魔法卡发动的场合，其①效果会发动使自身攻击力上升。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20508&keyword=&tag=-1>`__\
 
 -  | 当魔法·陷阱卡不能发动的场合，不能通过效果把魔法·陷阱卡发动。
    | 例：

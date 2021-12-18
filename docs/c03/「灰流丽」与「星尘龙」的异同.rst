@@ -4,7 +4,6 @@
 「灰流丽」与「星尘龙」的异同
 ==============================
 
-
 前言
 =========
 
@@ -14,13 +13,13 @@
 | 对方场上没有从额外卡组特殊召唤的怪兽，自己发动「影依融合」时，由于这个效果处理时可能因「紧急同调」等效果让对方场上出现从额外卡组特殊召唤的怪兽，结果对方仍然可以连锁发动「灰流丽」的①效果。\ `17/3/24 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20586&keyword=&tag=-1>`__
 | 对方发动「PSY骨架装备·γ」的①效果时，即使这时墓地没有「PSY骨架驱动者」，也可以连锁发动「屋敷童」的①效果。\ `18/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10463>`__
 
-| 「星尘龙」「Em 伤害杂耍人」这样不是记述『包含...』，而是记述『持有..』或直接记述『把卡片破坏』『给与伤害』等的效果，只能对应发动时\ **一定会**\ 那样处理的效果。进一步地，「反大革命」这样，只能对应发动时一定会破坏2张以上卡片的效果。
+| 「星尘龙」「娱乐法师 伤害杂耍人」这样不是记述『包含...』，而是记述『持有..』或直接记述『把卡片破坏』『给与伤害』等的效果，只能对应发动时\ **一定会**\ 那样处理的效果。进一步地，「反大革命」这样，只能对应发动时一定会破坏2张以上卡片的效果。
 | 例：
 | 「次元魔法」这样处理时可以不破坏卡片的效果发动时，「替罪的黑暗」不能对应发动。\ `19/2/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22442&keyword=&tag=-1>`__
 | 「潜行狙击手」等，根据骰子或硬币的结果决定是否要破坏卡片的效果发动时，「星尘龙」的①效果不能对应发动。若双方场上都有怪兽，「时间魔术师」不论结果如何都会破坏卡片，这时是一定会破坏卡片的效果，可以连锁发动「星尘龙」的①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7407>`__
 | 「奥西里斯之天空龙」的④效果根据处理时怪兽最后的攻击力决定是否要破坏怪兽，即使攻击力2000以下的怪兽攻击表示召唤·特殊召唤让这个效果发动时，也不能连锁发动「星尘龙」的①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11914>`__
-| 「炎天祸 桑伯恩」给与伤害的效果是可以选择不进行的，不能连锁发动「Em 伤害杂耍人」的①效果。\ `18/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22209>`__
-| 「星见兽 加里斯」的效果不一定会造成伤害，不能连锁发动「Em 高跷射手」的②效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=66>`__
+| 「炎天祸 桑伯恩」给与伤害的效果是可以选择不进行的，不能连锁发动「娱乐法师 伤害杂耍人」的①效果。\ `18/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22209>`__
+| 「星见兽 加里斯」的效果不一定会造成伤害，不能连锁发动「娱乐法师 高跷射手」的②效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=66>`__
 
 『包含...』
 =============
@@ -72,7 +71,7 @@
 | 例：
 | 「炎舞-「瑶光」」发动时，不选择对象不丢弃手卡的场合，就没有发动那个破坏效果，不能连锁发动「星尘龙」的①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10216>`__
 | 「No.90 银河眼光子卿」的②效果发动时，取除的X素材不是「银河」卡的场合，就只能无效，不能破坏，不能连锁发动「破坏干扰」。是的场合，可以连锁发动「破坏干扰」。\ `18/5/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21890>`__
-| 「一时休战」的效果适用中，发动「破坏轮」时，一定不会造成伤害，不能连锁发动「Em 伤害杂耍人」的①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15398>`__
+| 「一时休战」的效果适用中，发动「破坏轮」时，一定不会造成伤害，不能连锁发动「娱乐法师 伤害杂耍人」的①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15398>`__
 
 -  | 部分效果的发动时，根据游戏的状况，也能判断处理结果。
    | 例：
@@ -81,11 +80,11 @@
    | 自己「古遗物 巨怒剑」的破坏效果发动时，对方场上表侧表示的卡只有怪兽卡的状况，可以连锁发动「我身作盾」，既有怪兽卡还有魔法·陷阱卡的状况，就不能发动了。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13169>`__
    | 「无差别崩坏」的效果由于在处理时不能确定会破坏怪兽，基本上不能连锁发动「我身作盾」。但如果场上有等级1的怪兽，由于无论点数多少都会被破坏，就可以连锁发动「我身作盾」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20860>`__
    | 「零-最大」发动时，如果场上没有比取对象的怪兽攻击力更低的怪兽，那么不能连锁发动「星尘龙」的①效果。有的场合才能发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=192>`__
-   | 对方「药物引发的副作用」的效果适用中，对方发动「礼品卡」的场合，是给与伤害的效果，可以连锁发动「EM 雨衣山羊」的①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17573>`__
+   | 对方「药物引发的副作用」的效果适用中，对方发动「礼品卡」的场合，是给与伤害的效果，可以连锁发动「娱乐伙伴 雨衣山羊」的①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17573>`__
 
 | 不能对应在效果处理时不会立即处理的效果。
 | 例：
-| 「Em 秋千魔术家」的②效果把卡破坏的处理是在战斗阶段结束时，不能对应发动「星尘龙」的①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15370>`__
+| 「娱乐法师 秋千魔术家」的②效果把卡破坏的处理是在战斗阶段结束时，不能对应发动「星尘龙」的①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15370>`__
 | 「刻印之调停者」的②效果也不是在效果处理时破坏卡片，不能对应发动「星尘龙」的①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17479>`__
 
 | 不能对应可以变成或适用其他效果的效果。

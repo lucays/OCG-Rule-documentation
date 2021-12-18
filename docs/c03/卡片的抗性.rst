@@ -42,13 +42,13 @@
    | 例：
    | 「失落世界」的效果适用中，解放怪兽·永续魔法上级召唤的「真龙剑皇 卓辉星·拼图」发动②效果时，仍然不能选择衍生物以外的场上的怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7517>`__
    | 以受到「禁忌的圣枪」影响的怪兽为对象发动「安全地带」的场合，那个怪兽仍然不会成为对方效果的对象，其他效果全不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10683&keyword=&tag=-1>`__
-   | 「极星天 古尔薇格」的②效果适用中，「BF-重装铠翼鸦」的③效果仍然不能选择其连接端的「极神」怪兽作为效果的对象，只可以选择「极星天 古尔薇格」。\ `18/11/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22303>`__
+   | 「极星天 古尔薇格」的②效果适用中，「黑羽-重装铠翼鸦」的③效果仍然不能选择其连接端的「极神」怪兽作为效果的对象，只可以选择「极星天 古尔薇格」。\ `18/11/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22303>`__
    | 对不受魔法效果影响的对方怪兽发动「禁忌的圣衣」，不能下降攻击力，后续全不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6142>`__
 
 -  | 『不会成为攻击对象』这样的效果基本上影响的是其他怪兽，\ **不是怪兽自身**\ 。不受效果影响的怪兽可以攻击不会成为攻击对象的怪兽（包括「双穹之骑士 阿斯特拉姆」等『对方不能选择其他怪兽成为攻击对象』适用时的其他怪兽），其攻击对象也不会因卡片效果被转移。
    | 不过，「传说的渔人」「守护者·凯丝特」这样，怪兽区域只有它们时，对方的攻击变成直接攻击的效果，不影响怪兽。不受效果影响的怪兽也不能选择它们作为攻击对象，没有其他怪兽时也变成直接攻击。
    | 例：
-   | 受到「R・R・R」的效果影响的「RR」怪兽仍然可以成为受到「禁忌的圣枪」影响的怪兽的攻击对象，但不能成为其效果的对象。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20381>`__
+   | 受到「R・R・R」的效果影响的「急袭猛禽」怪兽仍然可以成为受到「禁忌的圣枪」影响的怪兽的攻击对象，但不能成为其效果的对象。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20381>`__
    | 「R・R・R」的对象怪兽在处理时不受其他卡的效果影响的场合，「R・R・R」的效果正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20381&keyword=&tag=-1>`__
    | 不受其他卡效果影响的怪兽攻击宣言时，对方发动「工作列车 红色信号」的效果的场合，发生战斗步骤的卷回，重新选择攻击对象或者放弃攻击。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13550&keyword=&tag=-1>`__
 
@@ -57,9 +57,9 @@
       | 特别地，「磁力指轮」的记述不影响怪兽，不受效果影响的怪兽也必须攻击其装备的怪兽。18/8/17
       | 另外，「黑暗贵族」的『对方怪兽的攻击对象由这张卡的控制者选择』效果不影响怪兽，即使是不受效果影响的怪兽，攻击对象仍然会改为由我方选择。但「地缚灵的引诱」以及要求『正确对象』的「换位」是影响怪兽的效果，不能改变不受效果影响的怪兽的攻击对象。
 
--  | 类似的，「技能禁锢」「EM小判龙」等这样的效果，影响的不是作为对象的怪兽。
+-  | 类似的，「技能禁锢」「娱乐伙伴小判龙」等这样的效果，影响的不是作为对象的怪兽。
    | 例：
-   | 「EM小判龙」的效果处理时，对象怪兽不受魔法卡的效果影响的场合仍正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12270>`__\ ，实际上影响的是进行过战斗的对方怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12269>`__
+   | 「娱乐伙伴小判龙」的效果处理时，对象怪兽不受魔法卡的效果影响的场合仍正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12270>`__\ ，实际上影响的是进行过战斗的对方怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12269>`__
    | 以不受陷阱卡的效果影响的怪兽为对象发动「技能禁锢」，仍会正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12980>`__ 其他不受陷阱卡的效果影响的怪兽以这个怪兽为对象发动效果，结果不会无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6161>`__
 
 .. _不受影响:
@@ -83,7 +83,7 @@
    | 以「小龙探物摆」的效果特殊召唤的怪兽为对象发动「神龙骑士 闪耀」的效果，结束阶段那个怪兽仍然破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14278>`__
    | 「青天霹雳」特殊召唤的「毒蛇神 维诺米纳迦」仍然会回到卡组。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=123&keyword=&tag=-1>`__
    | 之前已经适用的「突进」「收缩」等魔法·陷阱卡的效果不会被「侵略的泛发感染」清除。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12121&keyword=&tag=-1>`__
-   | 「地龙星-狴犴」为素材S召唤「BF-重装铠翼鸦」时，「地龙星-狴犴」的效果适用，再「BF-重装铠翼鸦」的①效果适用而不受影响的场合，仍然就这样不会被战斗破坏。\ `18/6/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7459>`__
+   | 「地龙星-狴犴」为素材S召唤「黑羽-重装铠翼鸦」时，「地龙星-狴犴」的效果适用，再「黑羽-重装铠翼鸦」的①效果适用而不受影响的场合，仍然就这样不会被战斗破坏。\ `18/6/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7459>`__
 
    -  | 「深渊死球」「废铁油带」「活化石」这样\ **特殊召唤怪兽并持续取对象**\ 的魔法·陷阱卡，附加的『这个效果特殊召唤的怪兽』其实是持续影响那个怪兽的效果。此外，注意区分「古代的机械苏生」和「深渊死球」等的描述区别，「古代的机械苏生」这样的不是持续影响怪兽的效果。
       | 例：
@@ -94,16 +94,16 @@
 
 | 这种怪兽仍然会被战斗破坏。也不受『不会被战斗破坏』的效果影响。
 | 例：
-| 「RR-究极猎鹰」不会受到「RR-战备」的效果影响，还是会被战斗破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9815>`__
+| 「急袭猛禽-究极猎鹰」不会受到「急袭猛禽-战备」的效果影响，还是会被战斗破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9815>`__
 | 「和睦的使者」的①效果适用中，不受陷阱影响的怪兽也会被战斗破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12849>`__
 
 | 取对象这个行为本身不是效果，不受影响的怪兽也可以成为效果的对象。
 | 即使影响不了，也可以对不受影响的怪兽发动效果，这个场合结果不适用。
 | 其他见\ 对象抗性_\ 。
 | 例：
-| 「RR-究极猎鹰」的②效果发动时，可以连锁发动「神之通告」，既不会把那个发动无效，也不会把它破坏。
+| 「急袭猛禽-究极猎鹰」的②效果发动时，可以连锁发动「神之通告」，既不会把那个发动无效，也不会把它破坏。
 | 「次元魔法」可以对不受魔法卡的效果影响的怪兽发动，结果不能解放，后续效果不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12847>`__
-| 「RR-起翼猎鹰」可以以「RR-究极猎鹰」为对象发动效果，结果攻击力是3600，可以战斗破坏「RR-究极猎鹰」。
+| 「急袭猛禽-起翼猎鹰」可以以「急袭猛禽-究极猎鹰」为对象发动效果，结果攻击力是3600，可以战斗破坏「急袭猛禽-究极猎鹰」。
 
 | 记述『自己·对方不能（用怪兽）攻击宣言』的效果不影响怪兽，即使不受影响的怪兽，也不能攻击宣言。
 | 记述『（自己·对方）怪兽不能攻击』或者仅记述『怪兽不能攻击宣言』的效果影响怪兽，如果不受影响，就可以攻击。其他就按具体含义判断了。
@@ -126,14 +126,14 @@
 | 召唤手续以及效果发动时支付的cost都不是效果，可以用不受影响的怪兽。
 | 记述『玩家必须/プレイヤーは...なければならない』的效果基本上也不影响怪兽，详见\ :ref:`玩家必须`\ 。
 | 例：
-| 自己手卡的「海龟坏兽 加美西耶勒」可以解放对方场上的「RR-究极猎鹰」。
-| 「神鸟攻击」可以解放「RR-究极猎鹰」来发动。
+| 自己手卡的「海龟坏兽 加美西耶勒」可以解放对方场上的「急袭猛禽-究极猎鹰」。
+| 「神鸟攻击」可以解放「急袭猛禽-究极猎鹰」来发动。
 | 「帝王的烈旋」是让对方的怪兽进入可以被我方解放的状态，此时不能解放受到「禁忌的圣枪」影响的怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13201&keyword=&tag=-1>`__ 「黯黑世界-暗影敌托邦-」也一样不能。\ `18/3/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21789&keyword=&tag=-1>`__
 
 | 「超融合」「狱火机·撒旦」等，记述『\ **不能对应这个效果的发动**\ 』这样不让连锁的文本时，不是效果。不受影响的怪兽也不能对其连锁。
-| 记述『对方不能把怪兽的效果发动』『对方不能把卡的效果发动』的「水龙-团簇」「星辉士 夏三角」「冲浪检察官」\ `17/10/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9917&keyword=&tag=-1>`__ 「No.67 平行骰子天堂锤手」\ `18/5/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9817>`__ 「复仇死者·战鬼」\ `18/9/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22115>`__ 「SNo.0 希望之异热同心」\ `18/6/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11069&keyword=&tag=-1>`__ 「E·HERO 秩序新宇侠」\ `18/10/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22181&keyword=&tag=-1>`__ 「转生炎兽 蜃景雄马」\ `18/12/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22310>`__ 「魔钟洞」\ `19/1/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14314>`__ 「黑混沌之魔术师·黑混沌极魔导」\ `19/2/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22459&keyword=&tag=-1>`__ 「天岩户」\ `19/4/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21258&keyword=&tag=-1>`__ 「活命水」\ `19/5/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22633&keyword=&tag=-1>`__ 「幻层守护者」\ `19/6/24 <http://yugioh-wiki.net/index.php?%A1%D4%B8%B8%C1%D8%A4%CE%BC%E9%B8%EE%BC%D4%A5%A2%A5%EB%A5%DE%A5%C7%A5%B9%A1%D5#faq>`__ 「SNo.39 希望皇 霍普·电光皇」\ `19/6/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19270&keyword=&tag=-1>`__ 「外神 阿撒托斯」\ `19/6/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10976&keyword=&tag=-1>`__ 「召唤兽 卡利古拉」\ `19/6/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8660&keyword=&tag=-1>`__ 
+| 记述『对方不能把怪兽的效果发动』『对方不能把卡的效果发动』的「水龙-团簇」「星辉士 夏三角」「冲浪检察官」\ `17/10/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9917&keyword=&tag=-1>`__ 「No.67 平行骰子天堂锤手」\ `18/5/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9817>`__ 「复仇死者·战鬼」\ `18/9/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22115>`__ 「闪光No.0 希望之异热同心」\ `18/6/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11069&keyword=&tag=-1>`__ 「元素英雄 秩序新宇侠」\ `18/10/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22181&keyword=&tag=-1>`__ 「转生炎兽 蜃景雄马」\ `18/12/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22310>`__ 「魔钟洞」\ `19/1/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14314>`__ 「黑混沌之魔术师·黑混沌极魔导」\ `19/2/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22459&keyword=&tag=-1>`__ 「天岩户」\ `19/4/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21258&keyword=&tag=-1>`__ 「活命水」\ `19/5/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22633&keyword=&tag=-1>`__ 「幻层守护者」\ `19/6/24 <http://yugioh-wiki.net/index.php?%A1%D4%B8%B8%C1%D8%A4%CE%BC%E9%B8%EE%BC%D4%A5%A2%A5%EB%A5%DE%A5%C7%A5%B9%A1%D5#faq>`__ 「闪光No.39 希望皇 霍普·电光皇」\ `19/6/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19270&keyword=&tag=-1>`__ 「外神 阿撒托斯」\ `19/6/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10976&keyword=&tag=-1>`__ 「召唤兽 卡利古拉」\ `19/6/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8660&keyword=&tag=-1>`__ 
   等的效果不影响怪兽。这些效果适用后，不受影响的怪兽仍然不能发动效果。
-| 记述『怪兽不能把效果发动』的「奥西里斯的天空龙」「修禅僧 元道」\ `19/6/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18234&keyword=&tag=-1>`__ 「EM 五虹之魔术师」\ `19/6/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20981&keyword=&tag=-1>`__ 也一样，不受影响的怪兽仍然不能发动效果。
+| 记述『怪兽不能把效果发动』的「奥西里斯的天空龙」「修禅僧 元道」\ `19/6/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18234&keyword=&tag=-1>`__ 「娱乐伙伴 五虹之魔术师」\ `19/6/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20981&keyword=&tag=-1>`__ 也一样，不受影响的怪兽仍然不能发动效果。
 
 -  「冤枉」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17508>`__ 「终焉的指名者」\ `17/6/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9546&keyword=&tag=-1>`__ 这样的描述也不影响怪兽，即使不受影响，也不能发动效果。
 -  「天魔大帝」给其他卡附加不让连锁能力的文本不影响那些卡\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18246&keyword=&tag=-1>`__\ ，并且这个状况对方不受影响的怪兽仍然不能连锁发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18245&keyword=&tag=-1>`__
@@ -154,8 +154,8 @@
 .. note:: 为什么结果不一样？可以这样理解：对于增加的效果，因为效果处理时要增加的X素材·指示物还不在场上，就只能作用在怪兽上了。
 
 -  | 部分\ :ref:`永续效果`\ 在效果处理途中不会立即适用，因此有一些特例：
-   | 「升阶魔法-削魂之力」以「RR-究极猎鹰」为对象发动的场合效果正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11302&keyword=&tag=-1>`__
-   | 「XYZ苏生」以「RR-究极猎鹰」为对象发动的场合效果正常适用。
+   | 「升阶魔法-削魂之力」以「急袭猛禽-究极猎鹰」为对象发动的场合效果正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11302&keyword=&tag=-1>`__
+   | 「XYZ苏生」以「急袭猛禽-究极猎鹰」为对象发动的场合效果正常适用。
 
 | 效果本身的特性可以被变更。
 | 例：
@@ -195,8 +195,8 @@
 | 自身永续效果不受效果影响的场合，被战斗破坏的伤害计算后由于永续效果不适用而失去抗性。
 | 因其他效果而不受影响的怪兽在这个时点仍然不受影响。
 | 例：
-| 「EM小判龙」的P效果取对象的怪兽战斗破坏了「沉默魔术师 LV8」，结果在伤害计算后被除外，没能战斗破坏的场合由于不受魔法影响，不会除外。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12269&keyword=&tag=-1>`__
-| 「EM小判龙」的P效果取对象的怪兽战斗破坏了自身效果适用的「神龙骑士 闪耀」的场合，伤害计算后「神龙骑士 闪耀」不会被除外。
+| 「娱乐伙伴小判龙」的P效果取对象的怪兽战斗破坏了「沉默魔术师 LV8」，结果在伤害计算后被除外，没能战斗破坏的场合由于不受魔法影响，不会除外。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12269&keyword=&tag=-1>`__
+| 「娱乐伙伴小判龙」的P效果取对象的怪兽战斗破坏了自身效果适用的「神龙骑士 闪耀」的场合，伤害计算后「神龙骑士 闪耀」不会被除外。
 
 .. attention:: 特别地，有「十二兽 蛇笞」作为X素材的「十二兽」X怪兽战斗破坏了「真龙剑皇 卓辉星·拼图」，即使其①效果是无种类效果，仍不适用，伤害计算后被除外。
 
