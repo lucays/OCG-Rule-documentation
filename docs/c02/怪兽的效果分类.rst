@@ -15,13 +15,13 @@
 | 在自己的主要阶段，回合玩家得到\ :ref:`优先权`\ ，且没有其他卡需要进行发动和处理时可以宣言发动的怪兽效果为起动效果。
 | 起动效果速度是1。不能连锁其他效果。
 | 例：
-| 「霸王眷龙 暗黑亚龙」的『②：这张卡在墓地存在，自己场上没有怪兽存在的场合才能发动』是起动效果。
+| 「`霸王眷龙 暗黑亚龙`_」的『②：这张卡在墓地存在，自己场上没有怪兽存在的场合才能发动』是起动效果。
 
 .. attention:: 有\ *场合*\ 两字不代表就是诱发效果。
 
 | 已经发动的起动效果，即使在发动的怪兽发生离开场上等场所移动的情况下效果也会处理。但是，记载『只要这张卡在场上表侧表示存在』的怪兽要求在发动时和处理时都在怪兽区域表侧表示存在，所以效果不适用。
 | 例：
-| 「僵尸之主」的效果发动，连锁发动「幽鬼兔」的效果而导致其被破坏的场合，不会把怪兽特殊召唤。
+| 「`僵尸之主`_」的效果发动，连锁发动「`幽鬼兔`_」的效果而导致其被破坏的场合，不会把怪兽特殊召唤。
 
 .. note:: 在第九期文本后，不再使用『只要这张卡在场上表侧表示存在』，而是变成，在效果处理部分记述『这张卡在场上表侧表示存在的场合』。诱发效果·诱发即时效果也是一样，不再赘述。
 
@@ -32,7 +32,7 @@
 | 只要满足发动条件，基本上在对方回合也能发动诱发效果。
 | 诱发效果的速度是1。特别地，在同一时点有多个诱发效果要发动时，会组成连锁发动。
 | 例：
-| 发动「影灵衣的降魔镜」，解放「影灵衣术士 施里特」，仪式召唤「三叉龙之影灵衣」的场合，「影灵衣术士 施里特」和「三叉龙之影灵衣」的效果可以组成连锁发动。
+| 发动「`影灵衣的降魔镜`_」，解放「`影灵衣术士 施里特`_」，仪式召唤「`三叉龙之影灵衣`_」的场合，「`影灵衣术士 施里特`_」和「`三叉龙之影灵衣`_」的效果可以组成连锁发动。
 
 这类效果比较复杂，更多内容详见\ :ref:`诱发类效果`\ 。
 
@@ -57,9 +57,9 @@
    『...发动的\ **场合**\ ，...才能发动』这种描述不是诱发即时效果，而是诱发效果。原因详见\ :ref:`『时』与『场合』`\ 。
 
    | 在\ :ref:`战斗步骤`\ 和\ :ref:`伤害步骤`\ 发动的效果难以判断效果分类。必发的是诱发效果，选发的调整不统一，只能查单卡调整。
-   | 效果分类不一样，会导致一些状况的结果不一样。比如「高速战士」效果的发动被「光与暗之龙」等无效，不能立即再发动。「灵魂龙」「银河眼光子龙」作为诱发即时效果没有这个限制，可以立即再发动。详见\ :ref:`诱发类效果`\ 。
+   | 效果分类不一样，会导致一些状况的结果不一样。比如「`高速战士`_」效果的发动被「`光与暗之龙`_」等无效，不能立即再发动。「`灵魂龙`_」「`银河眼光子龙`_」作为诱发即时效果没有这个限制，可以立即再发动。详见\ :ref:`诱发类效果`\ 。
    | 例：
-   | 「高速战士」「水晶翼同调龙」「中断反抗军」等是诱发效果，「灵魂龙」「银河眼光子龙」「闪光No.39 希望皇 霍普·电光皇」「注射天使莉莉」等是诱发即时效果。
+   | 「`高速战士`_」「`水晶翼同调龙`_」「`中断反抗军`_」等是诱发效果，「`灵魂龙`_」「`银河眼光子龙`_」「`闪光No.39 希望皇 霍普·电光皇`_」「`注射天使莉莉`_」等是诱发即时效果。
 
 -  效果本身没有特别说明的话，伤害步骤内基本上不能发动诱发即时效果。但是，以下两类诱发即时效果可以发动。
 
@@ -68,8 +68,8 @@
 
 -  | 伤害步骤内确定被战斗破坏的怪兽不能发动选发的诱发即时效果。必发的会发动，但不一定会适用。
    | 例：
-   | 「神影依 舍金纳迦」在被战斗破坏的伤害计算后不能发动①效果。\ `14/9/4 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13562&keyword=&tag=-1>`__
-   | 「光与暗之龙」在被战斗破坏的伤害计算后，怪兽效果·魔法·陷阱卡的发动时其效果也会发动，但是由于不能下降攻击力·守备力而不适用，那次发动不会无效。\ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12735>`__
+   | 「`神影依 舍金纳迦`_」在被战斗破坏的伤害计算后不能发动①效果。\ `14/9/4 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13562&keyword=&tag=-1>`__
+   | 「`光与暗之龙`_」在被战斗破坏的伤害计算后，怪兽效果·魔法·陷阱卡的发动时其效果也会发动，但是由于不能下降攻击力·守备力而不适用，那次发动不会无效。\ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12735>`__
 
 .. _永续效果:
 
@@ -82,111 +82,111 @@
 | 为了发动效果而支付cost的时点，满足适用条件的永续效果也会立即适用。
 | 特别地，怪兽的召唤手续满足永续效果的适用条件时，永续效果是在那次召唤·反转召唤·特殊召唤成功时适用。
 | 例：
-| 「幻变骚灵·泛在羽衣精」以「淘气仙星·曼珠诗华」为对象发动效果，支付cost时，立即适用「淘气仙星·曼珠诗华」的效果，造成200伤害。
-| 「技能抽取」被「非常食」当作发动cost送去墓地的时点，自己场上有其他怪兽时，「彼岸」怪兽立即被自身效果破坏。
-| 把自己的场地魔法送去墓地，发动新的场地魔法时，如果对方没有场地魔法，在送去墓地的时点「地缚神」怪兽\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8335>`__ 和「罪」怪兽\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9561>`__ 立即被自身效果破坏。
-| 「淘气仙星·施南」在我方场上存在，对方「退行手雷破坏者」召唤手续除外了怪兽的场合，在特殊召唤成功时，才适用「淘气仙星 施南」的效果造成伤害。\ `18/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21740>`__
-| 「暗黑界的龙神 格拉法」让「暗黑界」怪兽回到手卡来特殊召唤的场合，「淘气仙星·曼珠诗华」的②效果在这次特殊召唤成功时才适用，给与200伤害。在这次特殊召唤之际，连锁「雷王」的效果发动，让场上的「幻变骚灵」卡回到手卡来把「幻变骚灵·泛在羽衣精」发动①效果时，「淘气仙星·曼珠诗华」的②效果仍会在支付「幻变骚灵·泛在羽衣精」①效果的cost时立即适用，给与200伤害。
+| 「`幻变骚灵·泛在羽衣精`_」以「`淘气仙星·曼珠诗华`_」为对象发动效果，支付cost时，立即适用「`淘气仙星·曼珠诗华`_」的效果，造成200伤害。
+| 「`技能抽取`_」被「`非常食`_」当作发动cost送去墓地的时点，自己场上有其他怪兽时，「`彼岸`_」怪兽立即被自身效果破坏。
+| 把自己的场地魔法送去墓地，发动新的场地魔法时，如果对方没有场地魔法，在送去墓地的时点「`地缚神`_」怪兽\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8335&request_locale=ja>`__ 和「`罪`_」怪兽\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9561&request_locale=ja>`__ 立即被自身效果破坏。
+| 「`淘气仙星·施南`_」在我方场上存在，对方「`退行手雷破坏者`_」召唤手续除外了怪兽的场合，在特殊召唤成功时，才适用「`淘气仙星 施南`_」的效果造成伤害。\ `18/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21740&request_locale=ja>`__
+| 「`暗黑界的龙神 格拉法`_」让「`暗黑界`_」怪兽回到手卡来特殊召唤的场合，「`淘气仙星·曼珠诗华`_」的②效果在这次特殊召唤成功时才适用，给与200伤害。在这次特殊召唤之际，连锁「`雷王`_」的效果发动，让场上的「`幻变骚灵`_」卡回到手卡来把「`幻变骚灵·泛在羽衣精`_」发动①效果时，「`淘气仙星·曼珠诗华`_」的②效果仍会在支付「`幻变骚灵·泛在羽衣精`_」①效果的cost时立即适用，给与200伤害。
 
-.. attention:: 也存在「真魔兽 加泽特」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14300&keyword=&tag=-1>`__ 「地中族邪界妖魔」\ `17/9/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21394&keyword=&tag=-1>`__ 等，只在召唤·特殊召唤的时点适用1次的永续效果。效果被无效让攻击力复原后，效果再恢复适用的场合，攻击力也保持当前数值，不会再改变。
+.. attention:: 也存在「`真魔兽 加泽特`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14300&keyword=&tag=-1&request_locale=ja>`__ 「`地中族邪界妖魔`_」\ `17/9/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21394&keyword=&tag=-1&request_locale=ja>`__ 等，只在召唤·特殊召唤的时点适用1次的永续效果。效果被无效让攻击力复原后，效果再恢复适用的场合，攻击力也保持当前数值，不会再改变。
 
 -  | 『每次把...发动』『成为效果的对象时』适用的永续效果，在那些效果处理完毕时才适用。
    | 例：
-   | 以「削魂的死灵」为对象发动效果时，其不会立即破坏，而是在效果处理完毕时破坏。以其为对象发动「月之书」的场合，由于变成里侧表示了，结果不会被破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9199&keyword=&tag=-1>`__ 不过，「技能抽取」的①效果适用中，「削魂的死灵」被装备卡装备，持续取对象时，发动「非常食」把「技能抽取」当作cost送去墓地的时点，其立即破坏。
-   | 以「真红眼钢炎龙」为对象发动「强制脱出装置」的场合，由于效果处理完毕时「真红眼钢炎龙」已经不在场上，效果不适用，结果不造成伤害。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15434>`__
-   | 以「自然甲虫」为对象发动「突进」，先上升700攻击力，1100/1800的状态，交换原本攻击力·守备力，1800/400的状态，再加上「突进」上升的数值，结果是2500/400。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7>`__
+   | 以「`削魂的死灵`_」为对象发动效果时，其不会立即破坏，而是在效果处理完毕时破坏。以其为对象发动「`月之书`_」的场合，由于变成里侧表示了，结果不会被破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9199&keyword=&tag=-1&request_locale=ja>`__ 不过，「`技能抽取`_」的①效果适用中，「`削魂的死灵`_」被装备卡装备，持续取对象时，发动「`非常食`_」把「`技能抽取`_」当作cost送去墓地的时点，其立即破坏。
+   | 以「`真红眼钢炎龙`_」为对象发动「`强制脱出装置`_」的场合，由于效果处理完毕时「`真红眼钢炎龙`_」已经不在场上，效果不适用，结果不造成伤害。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15434&request_locale=ja>`__
+   | 以「`自然甲虫`_」为对象发动「`突进`_」，先上升700攻击力，1100/1800的状态，交换原本攻击力·守备力，1800/400的状态，再加上「`突进`_」上升的数值，结果是2500/400。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7&request_locale=ja>`__
 
-   .. attention:: 不过，『适用之际』的效果，像「机甲要塞」的②效果等，是在效果处理前适用。
+   .. attention:: 不过，『适用之际』的效果，像「`机甲要塞`_」的②效果等，是在效果处理前适用。
 
 -  | 怪兽一旦不在怪兽区域表侧表示存在，其永续效果立即不适用。
    | 需要满足条件才能适用的永续效果，在那些条件不满足的时点，也立即不适用。
    | 例：
-   | 以持有5个X素材的「No.86 英豪冠军 击灭枪王」为对象发动「XYZ叠光延迟」，由于去除X素材的效果不影响X怪兽，「No.86 英豪冠军 击灭枪王」的X素材全部取除，这个时点其永续效果立即不适用，结果正常适用「XYZ叠光延迟」的后续效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6890&keyword=&tag=-1>`__
+   | 以持有5个X素材的「`No.86 英豪冠军 击灭枪王`_」为对象发动「`XYZ叠光延迟`_」，由于去除X素材的效果不影响X怪兽，「`No.86 英豪冠军 击灭枪王`_」的X素材全部取除，这个时点其永续效果立即不适用，结果正常适用「`XYZ叠光延迟`_」的后续效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6890&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 伤害步骤内怪兽确定被战斗破坏时，其永续效果不适用。
    | 例：
-   | 「闪光No.39 希望皇 霍普·电光皇」与「永远的淑女 贝阿特丽切」相杀，确定被战斗破坏的时点「闪光No.39 希望皇 霍普·电光皇」的①效果作为永续效果不再适用，伤害步骤结束时可以发动「永远的淑女 贝阿特丽切」的②效果。\ `15/12/24 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8328&keyword=&tag=-1>`__
-   | 里侧表示的「彼岸」怪兽被战斗反转，被战斗破坏的场合，因永续效果不适用，伤害计算后不会自坏，结果正常被战斗破坏送去墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17032>`__
+   | 「`闪光No.39 希望皇 霍普·电光皇`_」与「`永远的淑女 贝阿特丽切`_」相杀，确定被战斗破坏的时点「`闪光No.39 希望皇 霍普·电光皇`_」的①效果作为永续效果不再适用，伤害步骤结束时可以发动「`永远的淑女 贝阿特丽切`_」的②效果。\ `15/12/24 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8328&keyword=&tag=-1>`__
+   | 里侧表示的「`彼岸`_」怪兽被战斗反转，被战斗破坏的场合，因永续效果不适用，伤害计算后不会自坏，结果正常被战斗破坏送去墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17032&request_locale=ja>`__
 
-   .. note:: 自坏指因自身效果而被破坏。像「地缚神」这样，因记述『在自己场上只能有1只表侧表示存在』的无分类效果被破坏时，由于本身没有记述『破坏』，这样破坏不是被效果破坏，『战斗·效果破坏』诱发的效果不能发动，仅记述『破坏』诱发的效果可以发动。
+   .. note:: 自坏指因自身效果而被破坏。像「`地缚神`_」这样，因记述『在自己场上只能有1只表侧表示存在』的无分类效果被破坏时，由于本身没有记述『破坏』，这样破坏不是被效果破坏，『战斗·效果破坏』诱发的效果不能发动，仅记述『破坏』诱发的效果可以发动。
 
 在效果处理途中满足条件的场合，目前\ **无法判断**\ 永续效果能否立即适用。
 
 -  | 『效果无效』的效果基本上不会立即适用。
    | 例：
-   | 「停战协定」把里侧的「人造人-念力震慑者」反转，会继续给予对方效果伤害。\ `15/6/25 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10072&keyword=&tag=-1>`__
-   | 「幻变骚灵协议」效果适用中，被「技能抽取」等效果无效的「幻变骚灵·网络傀儡师」发动效果，把「幻变骚灵协议」送去墓地的场合，后续处理正常进行，仍会特殊召唤怪兽。\ `18/09/03 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=193&keyword=&tag=-1>`__
+   | 「`停战协定`_」把里侧的「`人造人-念力震慑者`_」反转，会继续给予对方效果伤害。\ `15/6/25 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10072&keyword=&tag=-1>`__
+   | 「`幻变骚灵协议`_」效果适用中，被「`技能抽取`_」等效果无效的「`幻变骚灵·网络傀儡师`_」发动效果，把「`幻变骚灵协议`_」送去墓地的场合，后续处理正常进行，仍会特殊召唤怪兽。\ `18/09/03 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=193&keyword=&tag=-1&request_locale=ja>`__
 
    .. attention::
 
-      | 特别地，「王家长眠之谷」在处理途中适用的场合，会让涉及墓地的效果不适用。
+      | 特别地，「`王家长眠之谷`_」在处理途中适用的场合，会让涉及墓地的效果不适用。
       | 例：
-      | 对方场上存在「王家长眠之谷」，自己场上存在「封印师 明晴」「魔法封印咒符」和宣言恐龙族的「DNA改造手术」，以「封印师 明晴」和墓地1只怪兽为对象发动「辉龙星-蚣蝮」「食魂窃蛋龙」②效果的场合，「封印师 明晴」破坏的时点「魔法封印咒符」也被破坏，「王家长眠之谷」的效果适用，不会从墓地特殊召唤怪兽。19/10/11
-      | 「幻变骚灵协议」「王家长眠之谷」的②效果适用中，「幻变骚灵·网络傀儡师」发动效果，处理时把「幻变骚灵协议」送去墓地的场合，这个效果不适用（不是无效）。\ `17/11/02 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14915&keyword=&tag=-1>`__
+      | 对方场上存在「`王家长眠之谷`_」，自己场上存在「`封印师 明晴`_」「`魔法封印咒符`_」和宣言恐龙族的「`DNA改造手术`_」，以「`封印师 明晴`_」和墓地1只怪兽为对象发动「`辉龙星-蚣蝮`_」「`食魂窃蛋龙`_」②效果的场合，「`封印师 明晴`_」破坏的时点「`魔法封印咒符`_」也被破坏，「`王家长眠之谷`_」的效果适用，不会从墓地特殊召唤怪兽。19/10/11
+      | 「`幻变骚灵协议`_」「`王家长眠之谷`_」的②效果适用中，「`幻变骚灵·网络傀儡师`_」发动效果，处理时把「`幻变骚灵协议`_」送去墓地的场合，这个效果不适用（不是无效）。\ `17/11/02 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14915&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 同时处理的效果，前一部分处理后，即使满足条件的场合，自身的永续效果多数不适用。
    | 例：
-   | 「停战协定」把里侧的「人造人-念力震慑者」反转，会继续给予对方效果伤害。\ `15/6/25 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10072&keyword=&tag=-1>`__
-   | 「DDD 坏薙王 深渊末日神」的P效果把「DDD 神托王 达克」特殊召唤的场合，「DDD 神托王 达克」的效果不会立即适用，仍然受到伤害。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13506>`__
-   | 「娱乐伙伴 颠倒蛙」以盖放的「指挥骑士」为对象发动怪兽效果，翻开后先继续处理交换攻击力·守备力，1900/1200的状态，处理完才适用「指挥骑士」的效果，结果攻击力·守备力是2300/1200。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13223&keyword=&tag=-1>`__
+   | 「`停战协定`_」把里侧的「`人造人-念力震慑者`_」反转，会继续给予对方效果伤害。\ `15/6/25 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10072&keyword=&tag=-1>`__
+   | 「`DDD 坏薙王 深渊末日神`_」的P效果把「`DDD 神托王 达克`_」特殊召唤的场合，「`DDD 神托王 达克`_」的效果不会立即适用，仍然受到伤害。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13506&request_locale=ja>`__
+   | 「`娱乐伙伴 颠倒蛙`_」以盖放的「`指挥骑士`_」为对象发动怪兽效果，翻开后先继续处理交换攻击力·守备力，1900/1200的状态，处理完才适用「`指挥骑士`_」的效果，结果攻击力·守备力是2300/1200。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13223&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 不同时处理的效果，前一部分处理后，满足条件的场合，目前无法判断。
    | 例：
-   | 「混沌无限」的效果处理时让里侧表示的「虚无魔人」变成表侧表示的场合，「虚无魔人」的效果立即适用，特殊召唤的处理不进行。\ `18/2/1 <http://yugioh-wiki.net/index.php?%A1%D4%A5%AB%A5%AA%A5%B9%A1%A6%A5%A4%A5%F3%A5%D5%A5%A3%A5%CB%A5%C6%A5%A3%A1%D5#faq>`__
-   | 「升阶魔法-削魂之力」以「急袭猛禽-究极猎鹰」为对象发动的场合，特殊召唤后「急袭猛禽-究极猎鹰」的效果不会立即适用，正常进行XYZ召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11302>`__
-   | 「地缚神 维拉科查·拉斯卡」召唤成功时发动效果，让场地魔法回到卡组的场合，自身效果不会立即适用，而是在效果处理完毕时适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9006&keyword=&tag=-1>`__
-   | 对方场上没有场地魔法，自己发动「虚拟世界」把当前的场地魔法送去墓地时，「罪」怪兽立即被破坏，再发动新的场地魔法。\ `17/7/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14639>`__ 此外，这个场合「地缚神 维拉科查·拉斯卡」也一样立即被破坏。
+   | 「`混沌无限`_」的效果处理时让里侧表示的「`虚无魔人`_」变成表侧表示的场合，「`虚无魔人`_」的效果立即适用，特殊召唤的处理不进行。\ `18/2/1 <http://yugioh-wiki.net/index.php?%A1%D4%A5%AB%A5%AA%A5%B9%A1%A6%A5%A4%A5%F3%A5%D5%A5%A3%A5%CB%A5%C6%A5%A3%A1%D5#faq>`__
+   | 「`升阶魔法-削魂之力`_」以「`急袭猛禽-究极猎鹰`_」为对象发动的场合，特殊召唤后「`急袭猛禽-究极猎鹰`_」的效果不会立即适用，正常进行XYZ召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11302&request_locale=ja>`__
+   | 「`地缚神 维拉科查·拉斯卡`_」召唤成功时发动效果，让场地魔法回到卡组的场合，自身效果不会立即适用，而是在效果处理完毕时适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9006&keyword=&tag=-1&request_locale=ja>`__
+   | 对方场上没有场地魔法，自己发动「`虚拟世界`_」把当前的场地魔法送去墓地时，「`罪`_」怪兽立即被破坏，再发动新的场地魔法。\ `17/7/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14639&request_locale=ja>`__ 此外，这个场合「`地缚神 维拉科查·拉斯卡`_」也一样立即被破坏。
 
 -  | 已经持续适用中的效果，基本上会立即对效果处理途中（无论是否同时处理）满足条件的卡片适用。
    | 例：
-   | 「不死之魔王 骸骨恶魔」的效果适用中，里侧表示的守备力2000以下的不死族怪兽被「蓄积硫酸的落穴」翻开的场合不会被破坏，保持表侧守备表示。\ `15/8/2 <http://yugioh-wiki.net/index.php?%A1%D4%A5%A2%A5%F3%A5%C7%A5%C3%A5%C8%A1%A6%A5%B9%A5%AB%A5%EB%A1%A6%A5%C7%A1%BC%A5%E2%A5%F3%A1%D5#faq>`__
-   | 「超合魔兽 拉普提诺斯」的效果适用中「暗黑女武神」被「恩底弥翁的仆从」的P效果特殊召唤的场合，立即是再1次召唤得到了效果的状态，会放置魔力指示物。\ `19/3/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22532&keyword=&tag=-1>`__
-   | 里侧表示的守备力2000以下的「狱火机」怪兽被「蓄积硫酸的落穴」的效果翻开的场合，可以适用墓地「炼狱的死徒」的②效果作为破坏的代替而除外。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14206>`__
-   | 「武神帝-迦具土」在场上存在时，「蓄积硫酸的落穴」翻开「武神-倭」的场合，可以适用「武神帝-迦具土」的效果作为破坏的代替而取除1个X素材。
+   | 「`不死之魔王 骸骨恶魔`_」的效果适用中，里侧表示的守备力2000以下的不死族怪兽被「`蓄积硫酸的落穴`_」翻开的场合不会被破坏，保持表侧守备表示。\ `15/8/2 <http://yugioh-wiki.net/index.php?%A1%D4%A5%A2%A5%F3%A5%C7%A5%C3%A5%C8%A1%A6%A5%B9%A5%AB%A5%EB%A1%A6%A5%C7%A1%BC%A5%E2%A5%F3%A1%D5#faq>`__
+   | 「`超合魔兽 拉普提诺斯`_」的效果适用中「`暗黑女武神`_」被「`恩底弥翁的仆从`_」的P效果特殊召唤的场合，立即是再1次召唤得到了效果的状态，会放置魔力指示物。\ `19/3/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22532&keyword=&tag=-1&request_locale=ja>`__
+   | 里侧表示的守备力2000以下的「`狱火机`_」怪兽被「`蓄积硫酸的落穴`_」的效果翻开的场合，可以适用墓地「`炼狱的死徒`_」的②效果作为破坏的代替而除外。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14206&request_locale=ja>`__
+   | 「`武神帝-迦具土`_」在场上存在时，「`蓄积硫酸的落穴`_」翻开「`武神-倭`_」的场合，可以适用「`武神帝-迦具土`_」的效果作为破坏的代替而取除1个X素材。
 
 | 多个永续效果同时适用时，回合玩家的永续效果先适用，同一玩家的永续效果基本上可以自选适用顺序。部分情况，特定适用顺序明显有利的场合，只能以那个顺序适用。
 | 另外，效果无效和不受影响的效果会优先适用。
 | 例：
-| 「隐藏的机壳杀手 物质主义」在场上存在时，发动「技能抽取」的场合，不会被无效。
-| 「技能抽取」的①效果适用中，召唤「隐藏的机壳杀手 物质主义」的场合，效果被无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13395>`__
-| 回合玩家用「星态龙」攻击装备了「重力炮」的怪兽时，无效和不受影响是同一优先级的永续效果，结果回合玩家的效果先适用，「星态龙」不受「重力炮」的效果影响，不会被无效。
-| 对方场上存在「破戒蛮龙-破坏龙」「龙破坏之剑士-破坏剑士」，在对方回合发动「奇妙XYZ」把「DDD 双晓王 末法神」攻击表示X召唤时，先把对方场上的卡无效，不会变成守备表示。
-| 对方场上存在2只「命运英雄 血魔-D」，发动「精神操作」得到1只控制权时，由于另1只的效果已经适用了，后得到的这只被无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9049>`__
-| 「魔兽犀战士」存在时，特殊召唤「彼岸」怪兽的场合，不会被自身效果破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9054>`__
+| 「`隐藏的机壳杀手 物质主义`_」在场上存在时，发动「`技能抽取`_」的场合，不会被无效。
+| 「`技能抽取`_」的①效果适用中，召唤「`隐藏的机壳杀手 物质主义`_」的场合，效果被无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13395&request_locale=ja>`__
+| 回合玩家用「`星态龙`_」攻击装备了「`重力炮`_」的怪兽时，无效和不受影响是同一优先级的永续效果，结果回合玩家的效果先适用，「`星态龙`_」不受「`重力炮`_」的效果影响，不会被无效。
+| 对方场上存在「`破戒蛮龙-破坏龙`_」「`龙破坏之剑士-破坏剑士`_」，在对方回合发动「`奇妙XYZ`_」把「`DDD 双晓王 末法神`_」攻击表示X召唤时，先把对方场上的卡无效，不会变成守备表示。
+| 对方场上存在2只「`命运英雄 血魔-D`_」，发动「`精神操作`_」得到1只控制权时，由于另1只的效果已经适用了，后得到的这只被无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9049&request_locale=ja>`__
+| 「`魔兽犀战士`_」存在时，特殊召唤「`彼岸`_」怪兽的场合，不会被自身效果破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9054&request_locale=ja>`__
 
-.. attention:: 虽然上面用了「技能抽取」等不入连锁的魔法·陷阱卡的效果举例，这些本身并不是永续效果，只有怪兽效果才有分类。
+.. attention:: 虽然上面用了「`技能抽取`_」等不入连锁的魔法·陷阱卡的效果举例，这些本身并不是永续效果，只有怪兽效果才有分类。
 
 .. _无种类效果:
 
 无种类效果
 ==========
 
-| 不属于「永续效果」「起动效果」「诱发效果」「诱发即时效果」中任意一种的怪兽效果称为无种类效果。
-| 基本上无种类效果不入连锁。特别地，「巴比伦栗子」的③效果是需要发动的无种类效果。\ `21/6/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16401&request_locale=ja>`__
+| 不属于「永续效果」「`起动效果`_」「`诱发效果`_」「诱发即时效果」中任意一种的怪兽效果称为无种类效果。
+| 基本上无种类效果不入连锁。特别地，「`巴比伦栗子`_」的③效果是需要发动的无种类效果。\ `21/6/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16401&request_locale=ja>`__
 
 -  | 无种类效果属于怪兽效果。因此\ **可以被无效**\ 。
    | 例：
-   | 场上效果无效状态的「影灵衣之术士 施里特」的①效果不适用。
-   | 「王家长眠之谷」的②效果适用中，墓地「暗黑界的龙神 格拉法」把自身特殊召唤的效果会被无效且不能使用，不能只让怪兽回到手卡。\ `16/12/17 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20408&keyword=&tag=-1>`__
+   | 场上效果无效状态的「`影灵衣之术士 施里特`_」的①效果不适用。
+   | 「`王家长眠之谷`_」的②效果适用中，墓地「`暗黑界的龙神 格拉法`_」把自身特殊召唤的效果会被无效且不能使用，不能只让怪兽回到手卡。\ `16/12/17 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20408&keyword=&tag=-1>`__
    | 如何判断一只怪兽的召唤手续是不是怪兽效果→\ :ref:`特殊召唤怪兽`\ 。
 
 -  | 无种类效果基本上不需要发动=不入连锁。与永续效果的区别是\ **即使不在场上表侧表示存在**\ 也\ **可能适用**\ 。
    | 被战斗破坏确定时，无种类效果是否仍适用\ **难以判断**\ 。
    | 例：
-   | 解放怪兽·永续陷阱上级召唤的「真龙剑皇 卓辉星·拼图」被战斗破坏的伤害计算后，自身无种类效果不适用。
-   | 场上已经表侧表示存在1只效果被无效的「地缚神」怪兽，用「天威之龙鬼神」攻击里侧表示的「地缚神」怪兽，其被战斗破坏的场合，也会在伤害计算后就因数量限制破坏送去墓地，「天威之龙鬼神」的②效果不会发动。
-   | 场上存在「技能抽取」「罪 青眼白龙」时，手卡「罪 青眼白龙」的效果没被无效，仍然不能特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9563>`__
-   | 「沼地的魔神王」「心眼的女神」「寄生融合虫」等可以代替作为融合素材的无种类效果，在手卡·场上·墓地存在时都可以适用。在卡组存在的场合不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13184>`__ 被除外的状态也不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20116>`__
+   | 解放怪兽·永续陷阱上级召唤的「`真龙剑皇 卓辉星·拼图`_」被战斗破坏的伤害计算后，自身无种类效果不适用。
+   | 场上已经表侧表示存在1只效果被无效的「`地缚神`_」怪兽，用「`天威之龙鬼神`_」攻击里侧表示的「`地缚神`_」怪兽，其被战斗破坏的场合，也会在伤害计算后就因数量限制破坏送去墓地，「`天威之龙鬼神`_」的②效果不会发动。
+   | 场上存在「`技能抽取`_」「`罪 青眼白龙`_」时，手卡「`罪 青眼白龙`_」的效果没被无效，仍然不能特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9563&request_locale=ja>`__
+   | 「`沼地的魔神王`_」「`心眼的女神`_」「`寄生融合虫`_」等可以代替作为融合素材的无种类效果，在手卡·场上·墓地存在时都可以适用。在卡组存在的场合不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13184&request_locale=ja>`__ 被除外的状态也不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20116&request_locale=ja>`__
 
-   .. attention:: 「地缚神」等数量限制效果本身没有记述『破坏』，这样被破坏不是被效果破坏。「地缚大神官」的效果适用中，是让「地缚神」怪兽在没有场地魔法时不会被破坏。\ `16/8/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8760>`__
+   .. attention:: 「`地缚神`_」等数量限制效果本身没有记述『破坏』，这样被破坏不是被效果破坏。「`地缚大神官`_」的效果适用中，是让「`地缚神`_」怪兽在没有场地魔法时不会被破坏。\ `16/8/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8760&request_locale=ja>`__
 
 -  | 和永续效果一样，多个无种类效果同时满足条件时，回合玩家的优先适用，同一玩家可以自行决定适用顺序。
    | 例：
-   | 自己场上2只里侧表示的「彼岸的诗人 维吉尔」被「停战协定」的效果反转的场合，选其中1个破坏，由于这个①效果本身没有记述『破坏』，这样被破坏不是被效果破坏，不能发动③效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17229>`__
+   | 自己场上2只里侧表示的「`彼岸的诗人 维吉尔`_」被「`停战协定`_」的效果反转的场合，选其中1个破坏，由于这个①效果本身没有记述『破坏』，这样被破坏不是被效果破坏，不能发动③效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17229&request_locale=ja>`__
 
 -  | 无种类效果在效果处理途中满足条件的场合，基本上可以立即适用。
    | 例：
-   | 「暗黑女武神」被「恩底弥翁的仆从」的P效果特殊召唤的场合，自身效果立即适用，是通常怪兽，不能放置魔力指示物。\ `19/3/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22532&keyword=&tag=-1>`__
+   | 「`暗黑女武神`_」被「`恩底弥翁的仆从`_」的P效果特殊召唤的场合，自身效果立即适用，是通常怪兽，不能放置魔力指示物。\ `19/3/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22532&keyword=&tag=-1&request_locale=ja>`__
 
 -  以下是一些无种类效果的例子：
 
@@ -197,3 +197,96 @@
    -  『在自己场上只能有1只表侧表示存在』
    -  『这张卡可以代替1只融合素材怪兽』
    -  『用～～为素材的XYZ怪兽得到以下效果』
+
+.. _`隐藏的机壳杀手 物质主义`: https://ygocdb.com/?search=隐藏的机壳杀手+物质主义
+.. _`地缚神 维拉科查·拉斯卡`: https://ygocdb.com/?search=地缚神+维拉科查·拉斯卡
+.. _`恩底弥翁的仆从`: https://ygocdb.com/?search=恩底弥翁的仆从
+.. _`幻变骚灵·泛在羽衣精`: https://ygocdb.com/?search=幻变骚灵·泛在羽衣精
+.. _`神影依 舍金纳迦`: https://ygocdb.com/?search=神影依+舍金纳迦
+.. _`武神-倭`: https://ygocdb.com/?search=武神-倭
+.. _`幻变骚灵协议`: https://ygocdb.com/?search=幻变骚灵协议
+.. _`注射天使莉莉`: https://ygocdb.com/?search=注射天使莉莉
+.. _`影灵衣术士 施里特`: https://ygocdb.com/?search=影灵衣术士+施里特
+.. _`奇妙XYZ`: https://ygocdb.com/?search=奇妙XYZ
+.. _`罪`: https://ygocdb.com/?search=罪
+.. _`月之书`: https://ygocdb.com/?search=月之书
+.. _`星态龙`: https://ygocdb.com/?search=星态龙
+.. _`淘气仙星 施南`: https://ygocdb.com/?search=淘气仙星+施南
+.. _`地中族邪界妖魔`: https://ygocdb.com/?search=地中族邪界妖魔
+.. _`王家长眠之谷`: https://ygocdb.com/?search=王家长眠之谷
+.. _`中断反抗军`: https://ygocdb.com/?search=中断反抗军
+.. _`命运英雄 血魔-D`: https://ygocdb.com/?search=命运英雄+血魔-D
+.. _`虚拟世界`: https://ygocdb.com/?search=虚拟世界
+.. _`幻变骚灵·网络傀儡师`: https://ygocdb.com/?search=幻变骚灵·网络傀儡师
+.. _`DDD 神托王 达克`: https://ygocdb.com/?search=DDD+神托王+达克
+.. _`地缚神`: https://ygocdb.com/?search=地缚神
+.. _`寄生融合虫`: https://ygocdb.com/?search=寄生融合虫
+.. _`指挥骑士`: https://ygocdb.com/?search=指挥骑士
+.. _`虚无魔人`: https://ygocdb.com/?search=虚无魔人
+.. _`彼岸的诗人 维吉尔`: https://ygocdb.com/?search=彼岸的诗人+维吉尔
+.. _`食魂窃蛋龙`: https://ygocdb.com/?search=食魂窃蛋龙
+.. _`混沌无限`: https://ygocdb.com/?search=混沌无限
+.. _`暗黑界的龙神 格拉法`: https://ygocdb.com/?search=暗黑界的龙神+格拉法
+.. _`光与暗之龙`: https://ygocdb.com/?search=光与暗之龙
+.. _`武神帝-迦具土`: https://ygocdb.com/?search=武神帝-迦具土
+.. _`暗黑界`: https://ygocdb.com/?search=暗黑界
+.. _`不死之魔王 骸骨恶魔`: https://ygocdb.com/?search=不死之魔王+骸骨恶魔
+.. _`封印师 明晴`: https://ygocdb.com/?search=封印师+明晴
+.. _`幻变骚灵`: https://ygocdb.com/?search=幻变骚灵
+.. _`精神操作`: https://ygocdb.com/?search=精神操作
+.. _`影灵衣之术士 施里特`: https://ygocdb.com/?search=影灵衣之术士+施里特
+.. _`突进`: https://ygocdb.com/?search=突进
+.. _`水晶翼同调龙`: https://ygocdb.com/?search=水晶翼同调龙
+.. _`机甲要塞`: https://ygocdb.com/?search=机甲要塞
+.. _`幽鬼兔`: https://ygocdb.com/?search=幽鬼兔
+.. _`炼狱的死徒`: https://ygocdb.com/?search=炼狱的死徒
+.. _`巴比伦栗子`: https://ygocdb.com/?search=巴比伦栗子
+.. _`狱火机`: https://ygocdb.com/?search=狱火机
+.. _`破戒蛮龙-破坏龙`: https://ygocdb.com/?search=破戒蛮龙-破坏龙
+.. _`龙破坏之剑士-破坏剑士`: https://ygocdb.com/?search=龙破坏之剑士-破坏剑士
+.. _`强制脱出装置`: https://ygocdb.com/?search=强制脱出装置
+.. _`人造人-念力震慑者`: https://ygocdb.com/?search=人造人-念力震慑者
+.. _`僵尸之主`: https://ygocdb.com/?search=僵尸之主
+.. _`升阶魔法-削魂之力`: https://ygocdb.com/?search=升阶魔法-削魂之力
+.. _`重力炮`: https://ygocdb.com/?search=重力炮
+.. _`银河眼光子龙`: https://ygocdb.com/?search=银河眼光子龙
+.. _`XYZ叠光延迟`: https://ygocdb.com/?search=XYZ叠光延迟
+.. _`蓄积硫酸的落穴`: https://ygocdb.com/?search=蓄积硫酸的落穴
+.. _`DDD 坏薙王 深渊末日神`: https://ygocdb.com/?search=DDD+坏薙王+深渊末日神
+.. _`起动效果`: https://ygocdb.com/?search=起动效果
+.. _`削魂的死灵`: https://ygocdb.com/?search=削魂的死灵
+.. _`真红眼钢炎龙`: https://ygocdb.com/?search=真红眼钢炎龙
+.. _`魔法封印咒符`: https://ygocdb.com/?search=魔法封印咒符
+.. _`超合魔兽 拉普提诺斯`: https://ygocdb.com/?search=超合魔兽+拉普提诺斯
+.. _`雷王`: https://ygocdb.com/?search=雷王
+.. _`三叉龙之影灵衣`: https://ygocdb.com/?search=三叉龙之影灵衣
+.. _`真魔兽 加泽特`: https://ygocdb.com/?search=真魔兽+加泽特
+.. _`地缚大神官`: https://ygocdb.com/?search=地缚大神官
+.. _`技能抽取`: https://ygocdb.com/?search=技能抽取
+.. _`沼地的魔神王`: https://ygocdb.com/?search=沼地的魔神王
+.. _`淘气仙星·施南`: https://ygocdb.com/?search=淘气仙星·施南
+.. _`急袭猛禽-究极猎鹰`: https://ygocdb.com/?search=急袭猛禽-究极猎鹰
+.. _`辉龙星-蚣蝮`: https://ygocdb.com/?search=辉龙星-蚣蝮
+.. _`永远的淑女 贝阿特丽切`: https://ygocdb.com/?search=永远的淑女+贝阿特丽切
+.. _`影灵衣的降魔镜`: https://ygocdb.com/?search=影灵衣的降魔镜
+.. _`魔兽犀战士`: https://ygocdb.com/?search=魔兽犀战士
+.. _`心眼的女神`: https://ygocdb.com/?search=心眼的女神
+.. _`非常食`: https://ygocdb.com/?search=非常食
+.. _`暗黑女武神`: https://ygocdb.com/?search=暗黑女武神
+.. _`No.86 英豪冠军 击灭枪王`: https://ygocdb.com/?search=No.86+英豪冠军+击灭枪王
+.. _`闪光No.39 希望皇 霍普·电光皇`: https://ygocdb.com/?search=闪光No.39+希望皇+霍普·电光皇
+.. _`DDD 双晓王 末法神`: https://ygocdb.com/?search=DDD+双晓王+末法神
+.. _`天威之龙鬼神`: https://ygocdb.com/?search=天威之龙鬼神
+.. _`退行手雷破坏者`: https://ygocdb.com/?search=退行手雷破坏者
+.. _`诱发效果`: https://ygocdb.com/?search=诱发效果
+.. _`淘气仙星·曼珠诗华`: https://ygocdb.com/?search=淘气仙星·曼珠诗华
+.. _`灵魂龙`: https://ygocdb.com/?search=灵魂龙
+.. _`彼岸`: https://ygocdb.com/?search=彼岸
+.. _`霸王眷龙 暗黑亚龙`: https://ygocdb.com/?search=霸王眷龙+暗黑亚龙
+.. _`真龙剑皇 卓辉星·拼图`: https://ygocdb.com/?search=真龙剑皇+卓辉星·拼图
+.. _`高速战士`: https://ygocdb.com/?search=高速战士
+.. _`自然甲虫`: https://ygocdb.com/?search=自然甲虫
+.. _`娱乐伙伴 颠倒蛙`: https://ygocdb.com/?search=娱乐伙伴+颠倒蛙
+.. _`DNA改造手术`: https://ygocdb.com/?search=DNA改造手术
+.. _`罪 青眼白龙`: https://ygocdb.com/?search=罪+青眼白龙
+.. _`停战协定`: https://ygocdb.com/?search=停战协定

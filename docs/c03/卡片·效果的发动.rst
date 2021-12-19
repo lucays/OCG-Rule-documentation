@@ -6,12 +6,12 @@
 ========
 
 | 本文中，『卡的发动』指魔法·陷阱卡的发动，『效果的发动』指魔法·陷阱·怪兽效果的发动。
-| 「No.16 色之支配者」「自然之森」等记述『卡的发动』的效果涉及怪兽卡的场合，对应怪兽效果的发动。
+| 「`No.16 色之支配者`_」「`自然之森`_」等记述『卡的发动』的效果涉及怪兽卡的场合，对应怪兽效果的发动。
 | 例：
-| 把对方怪兽效果的发动无效的场合，可以发动「自然之森」的效果。
-| 「三眼怪」「黑森林的魔女」把怪兽加入手卡的回合，那个怪兽及同名卡即使在P区域也不能发动效果。
+| 把对方怪兽效果的发动无效的场合，可以发动「`自然之森`_」的效果。
+| 「`三眼怪`_」「`黑森林的魔女`_」把怪兽加入手卡的回合，那个怪兽及同名卡即使在P区域也不能发动效果。
 
-.. attention:: 不过，「阻挡十字军」让P区域的P卡回到手卡的回合，那个P怪兽可以发动效果。
+.. attention:: 不过，「`阻挡十字军`_」让P区域的P卡回到手卡的回合，那个P怪兽可以发动效果。
 
 | 虽然下文中介绍什么是『效果的发动』时，与『卡的发动』做了严格的区分。但这两者实际上不是对立关系。
 | 卡的发动时，必定发动了效果。因此，『效果的发动』其实分为『卡的发动时伴随的效果的发动』和『卡的发动之外状况的效果的发动』。
@@ -28,10 +28,10 @@
 | 魔法·陷阱卡从手卡表侧放置到魔法·陷阱卡区域、场地区域、灵摆区域，或让场上盖放状态的魔法·陷阱卡变成表侧表示发动的行为，称为卡的发动。
 | 以下是卡的发动的例子：
 
--  把盖放在场上的「禁忌的圣枪」变成表侧来发动
--  从手卡发动「台风」
+-  把盖放在场上的「`禁忌的圣枪`_」变成表侧来发动
+-  从手卡发动「`台风`_」
 
-.. attention:: 即使写从手卡，也是放在场上，或者说从场上发动的。「琰魔龙王 红莲魔·厄」的①效果适用的回合，也不能从手卡发动「台风」。
+.. attention:: 即使写从手卡，也是放在场上，或者说从场上发动的。「`琰魔龙王 红莲魔·厄`_」的①效果适用的回合，也不能从手卡发动「`台风`_」。
 
 | 卡的发动的顺序如下：
 | 1. 从手卡把魔法·陷阱卡表侧表示放到魔法·陷阱卡·场地·P区域，或把盖放的魔法·陷阱卡翻开成表侧表示
@@ -43,36 +43,36 @@
 
    | 1和2两步的顺序不会影响游戏进行，cost在发动前确定。
    | 例：
-   | 攻击力2900的「绝望天王星」和攻击力4000的怪兽战斗的伤害计算时，发动「自尊的咆哮」的场合，需要支付1100基本分。（「绝望天王星」不会先因自身②效果上升300攻击力）
-   | 自己发动了「水泡幻像」的回合，自己的因自身②效果攻击力是1800的「特拉戈迪亚」和对方的因自身①效果攻击力是2500的「召唤兽 普尔加托里奥」战斗的伤害计算时，自己从手卡发动「自尊的咆哮」的场合，需要支付700基本分。（之后「特拉戈迪亚」和「召唤兽 普尔加托里奥」再因自身效果改变攻击力）
+   | 攻击力2900的「`绝望天王星`_」和攻击力4000的怪兽战斗的伤害计算时，发动「`自尊的咆哮`_」的场合，需要支付1100基本分。（「`绝望天王星`_」不会先因自身②效果上升300攻击力）
+   | 自己发动了「`水泡幻像`_」的回合，自己的因自身②效果攻击力是1800的「`特拉戈迪亚`_」和对方的因自身①效果攻击力是2500的「`召唤兽 普尔加托里奥`_」战斗的伤害计算时，自己从手卡发动「`自尊的咆哮`_」的场合，需要支付700基本分。（之后「`特拉戈迪亚`_」和「`召唤兽 普尔加托里奥`_」再因自身效果改变攻击力）
 
 | 卡的发动时，必须发动效果。因此记述『效果的发动时，...才能发动』『发动的效果无效』等效果也可以对应卡的发动。
 | 例：
-| 「台风」发动时可以连锁「流天类星龙」的效果，把这次卡的发动无效。这个场合是卡的发动被无效，可以发动「力天使 女武神」等效果，也是效果的发动被无效，可以发动「魔女的一击」\ `18/10/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14156>`__ 等效果。
-| 永续陷阱卡的发动后，效果处理时对方场上「深渊鳞甲-鲸鱼」的效果也会适用，只在这个陷阱卡的效果处理时无效1次，之后由于「深渊鳞甲-鲸鱼」送去墓地，那个永续陷阱留在场上，不再被无效。假如发动的是「深渊死球」，卡的发动时那次效果无效，不能特殊召唤，之后效果恢复适用，自己不能发动魔法卡，就这样留在场上。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12936&keyword=&tag=-1>`__\
-| 魔法·陷阱卡的发动后，效果处理时可以适用「魔轰神兽 尤尼科」的效果，把那些效果无效并破坏。\ `16/3/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8575>`__\
+| 「`台风`_」发动时可以连锁「`流天类星龙`_」的效果，把这次卡的发动无效。这个场合是卡的发动被无效，可以发动「`力天使 女武神`_」等效果，也是效果的发动被无效，可以发动「`魔女的一击`_」\ `18/10/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14156&request_locale=ja>`__ 等效果。
+| 永续陷阱卡的发动后，效果处理时对方场上「`深渊鳞甲-鲸鱼`_」的效果也会适用，只在这个陷阱卡的效果处理时无效1次，之后由于「`深渊鳞甲-鲸鱼`_」送去墓地，那个永续陷阱留在场上，不再被无效。假如发动的是「`深渊死球`_」，卡的发动时那次效果无效，不能特殊召唤，之后效果恢复适用，自己不能发动魔法卡，就这样留在场上。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12936&keyword=&tag=-1&request_locale=ja>`__\
+| 魔法·陷阱卡的发动后，效果处理时可以适用「`魔轰神兽 尤尼科`_」的效果，把那些效果无效并破坏。\ `16/3/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8575&request_locale=ja>`__\
 
 | 『魔法·陷阱卡不能发动』的状况，魔法·陷阱的效果可以发动。
 | 例：
-| 「No.16 色之支配者」宣言了魔法·陷阱卡的场合，可以进行魔法·陷阱效果的发动。\ `17/3/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=9860>`__\
-| 「深渊死球」的效果适用中，不能发动魔法卡的场合，可以进行魔法效果的发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12601&keyword=&tag=-1>`__\
-| 「混沌No.39 希望皇 霍普雷·胜光」向装备着无效状态的「机壳的牲祭」的怪兽攻击，怪兽被战斗破坏后「机壳的牲祭」的③效果可以发动。15/5/11
+| 「`No.16 色之支配者`_」宣言了魔法·陷阱卡的场合，可以进行魔法·陷阱效果的发动。\ `17/3/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=9860&request_locale=ja>`__\
+| 「`深渊死球`_」的效果适用中，不能发动魔法卡的场合，可以进行魔法效果的发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12601&keyword=&tag=-1&request_locale=ja>`__\
+| 「`混沌No.39 希望皇 霍普雷·胜光`_」向装备着无效状态的「`机壳的牲祭`_」的怪兽攻击，怪兽被战斗破坏后「`机壳的牲祭`_」的③效果可以发动。15/5/11
 
 .. attention::
 
-   | 特别地，「魔法抵消器」「人造人-念力王者」的裁定和文本不符：
-   | 「魔法抵消器」的效果适用中，已经在场上表侧表示存在的魔法卡的效果也不能发动。墓地的魔法卡的效果可以发动。\ `16/2/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5594>`__
-   | 「人造人-念力王者」的效果适用中，已经在场上表侧表示存在的陷阱卡的效果不能发动，墓地的陷阱卡的效果可以发动。18/2/8
+   | 特别地，「`魔法抵消器`_」「`人造人-念力王者`_」的裁定和文本不符：
+   | 「`魔法抵消器`_」的效果适用中，已经在场上表侧表示存在的魔法卡的效果也不能发动。墓地的魔法卡的效果可以发动。\ `16/2/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5594&request_locale=ja>`__
+   | 「`人造人-念力王者`_」的效果适用中，已经在场上表侧表示存在的陷阱卡的效果不能发动，墓地的陷阱卡的效果可以发动。18/2/8
 
 | 魔法·陷阱卡在发动之际，就\ **已经在场上**\ ，可以确定卡名。只是在这时，\ **不会立即适用效果**\ ，而是按照\ :ref:`连锁基础`\ 规则，按顺序轮到它处理时才开始适用。
 | 例：
-| 「黑音速」从手卡发动时，就是自己场上表侧表示的陷阱卡，可以取其和另1张表侧魔法·陷阱卡为对象，连锁发动「DDD 极智王 混沌默示神」的效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17820>`__\
-| 我方的「天空的圣域」发动，对方连锁发动「旋风」，由于「天空的圣域」已经在场上存在，我方可以连锁发动「神罚」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10698&keyword=&tag=-1>`__\
-| 我方的「珀耳修斯的神域」发动，对方连锁发动「旋风」，由于①效果还没适用，我方不能连锁发动「神罚」。\ `17/9/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21418&keyword=&tag=-1>`__\
-| 「卡通王国」卡的发动时③效果还不适用，对方可以连锁以「卡通」怪兽为对象发动卡片效果。\ `17/7/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15864>`__\
-| 我方「龙神阵·略图」的③效果发动，连锁发动「幽丽的幻泷」的场合，「龙神阵·略图」的效果处理时可以选「幽丽的幻泷」破坏，之后正常处理效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7634&keyword=&tag=-1>`__\
+| 「`黑音速`_」从手卡发动时，就是自己场上表侧表示的陷阱卡，可以取其和另1张表侧魔法·陷阱卡为对象，连锁发动「`DDD 极智王 混沌默示神`_」的效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17820&request_locale=ja>`__\
+| 我方的「`天空的圣域`_」发动，对方连锁发动「`旋风`_」，由于「`天空的圣域`_」已经在场上存在，我方可以连锁发动「`神罚`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10698&keyword=&tag=-1&request_locale=ja>`__\
+| 我方的「`珀耳修斯的神域`_」发动，对方连锁发动「`旋风`_」，由于①效果还没适用，我方不能连锁发动「`神罚`_」。\ `17/9/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21418&keyword=&tag=-1&request_locale=ja>`__\
+| 「`卡通王国`_」卡的发动时③效果还不适用，对方可以连锁以「`卡通`_」怪兽为对象发动卡片效果。\ `17/7/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15864&request_locale=ja>`__\
+| 我方「`龙神阵·略图`_」的③效果发动，连锁发动「`幽丽的幻泷`_」的场合，「`龙神阵·略图`_」的效果处理时可以选「`幽丽的幻泷`_」破坏，之后正常处理效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7634&keyword=&tag=-1&request_locale=ja>`__\
 
-.. attention:: 特别地，「漆黑的能量石」记述的是『这张卡发动的场合，给这张卡放置3个魔力指示物来发动』，这段文字放在带编号的效果之前，不是效果，在发动时就立即放置魔力指示物。
+.. attention:: 特别地，「`漆黑的能量石`_」记述的是『这张卡发动的场合，给这张卡放置3个魔力指示物来发动』，这段文字放在带编号的效果之前，不是效果，在发动时就立即放置魔力指示物。
 
 .. _效果的发动:
 
@@ -82,10 +82,10 @@
 | 上述卡的发动中没有提到的其他发动的状况，例如发动已经在场上表侧表示的，或手卡·墓地等的魔法·陷阱·怪兽的效果的行为，称为效果的发动。
 | 以下是效果的发动的例子：
 
--  P区域·手卡的「慧眼之魔术师」发动效果
--  墓地的「炼装反击」发动效果
--  被破坏送墓的「古遗物的神智」发动效果
--  魔法·陷阱卡区域的「永远之魂」因其他卡的效果回到手卡后发动③效果
+-  P区域·手卡的「`慧眼之魔术师`_」发动效果
+-  墓地的「`炼装反击`_」发动效果
+-  被破坏送墓的「`古遗物的神智`_」发动效果
+-  魔法·陷阱卡区域的「`永远之魂`_」因其他卡的效果回到手卡后发动③效果
 
 .. note::
 
@@ -93,52 +93,52 @@
    | 因此，卡的发动其实也是效果的发动。换句话说，上面这段话仅指『卡的发动之外状况的效果的发动』。而广义上『效果的发动』=『卡的发动』+『卡的发动之外状况的效果的发动』。
 
    | 「幽鬼兔」记述的是『场上的\ **已是**\ 表侧表示存在的魔法·陷阱卡的效果发动时』，因此不能对应卡的发动，只能对应『卡的发动之外状况的场上效果的发动』。
-   | 「饼蛙」记述的『怪兽效果·魔法·陷阱卡发动时』对应怪兽效果的发动和魔法·陷阱卡的发动。
-   | 「流天类星龙」记述的『魔法·陷阱·怪兽效果发动时』对应怪兽效果的发动和魔法·陷阱效果的发动，「电子龙·无限」的记述直接简化成了『卡的效果发动时』。这种对应面最广。
+   | 「`饼蛙`_」记述的『怪兽效果·魔法·陷阱卡发动时』对应怪兽效果的发动和魔法·陷阱卡的发动。
+   | 「`流天类星龙`_」记述的『魔法·陷阱·怪兽效果发动时』对应怪兽效果的发动和魔法·陷阱效果的发动，「`电子龙·无限`_」的记述直接简化成了『卡的效果发动时』。这种对应面最广。
 
 | 『魔法·陷阱卡的发动时，...才能发动』不能对应魔法·陷阱效果的发动。
 | 例：
-| 「永远之魂」卡的发动同时进行①效果的发动，则可以被「神之警告」把卡的发动无效，只进行卡的发动时，不能连锁发动「神之警告」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14820>`__\
-| 「未来融合」在卡的发动时，不是包含把怪兽特殊召唤的效果，不能连锁「神之警告」。之后发动①效果或②效果时，也不能连锁「神之警告」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8460>`__\
+| 「`永远之魂`_」卡的发动同时进行①效果的发动，则可以被「`神之警告`_」把卡的发动无效，只进行卡的发动时，不能连锁发动「`神之警告`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14820&request_locale=ja>`__\
+| 「`未来融合`_」在卡的发动时，不是包含把怪兽特殊召唤的效果，不能连锁「`神之警告`_」。之后发动①效果或②效果时，也不能连锁「`神之警告`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8460&request_locale=ja>`__\
 
-.. tip:: 也就是说，「神之警告」对应不了「未来融合」，同样也对应不了「炼狱的虚梦」等。
+.. tip:: 也就是说，「`神之警告`_」对应不了「`未来融合`_」，同样也对应不了「`炼狱的虚梦`_」等。
 
 | 『效果不能发动』的状况，也不能进行卡的发动。
 | 例：
-| 「乌合之行进」发动的回合，也不能进行卡的发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9207>`__\
-| 「封魔之矢」发动后，也不能进行卡的发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16131>`__\
-| 「琰魔龙王 红莲魔·厄」的①效果适用时，也不能进行卡的发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16923>`__\
-| 等级7以上的「魔界剧团」怪兽在场上存在，「魔界台本「魔王的降临」」发动时，由于『对方不能对应这张卡的发动把效果发动』，对方不能连锁发动「神之宣告」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19812>`__\
-| 「兽神·武尔坎」让P区域的P卡回到手卡的回合，可以召唤这个P怪兽，由于不能发动这张卡的效果，也不能放置到P区域。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7842&keyword=&tag=-1>`__\
+| 「`乌合之行进`_」发动的回合，也不能进行卡的发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9207&request_locale=ja>`__\
+| 「`封魔之矢`_」发动后，也不能进行卡的发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16131&request_locale=ja>`__\
+| 「`琰魔龙王 红莲魔·厄`_」的①效果适用时，也不能进行卡的发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16923&request_locale=ja>`__\
+| 等级7以上的「`魔界剧团`_」怪兽在场上存在，「`魔界台本「魔王的降临」`_」发动时，由于『对方不能对应这张卡的发动把效果发动』，对方不能连锁发动「`神之宣告`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19812&request_locale=ja>`__\
+| 「`兽神·武尔坎`_」让P区域的P卡回到手卡的回合，可以召唤这个P怪兽，由于不能发动这张卡的效果，也不能放置到P区域。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7842&keyword=&tag=-1&request_locale=ja>`__\
 
-.. attention:: 「破坏剑-武器破坏之剑」这种『已是表侧表示存在的魔法·陷阱卡不能把效果发动』记述才不封锁卡的发动。因为卡的发动时还不是『已是表侧表示存在』。
+.. attention:: 「`破坏剑-武器破坏之剑`_」这种『已是表侧表示存在的魔法·陷阱卡不能把效果发动』记述才不封锁卡的发动。因为卡的发动时还不是『已是表侧表示存在』。
 
 综合
 =====
 
 | 永续·装备·场地魔法卡的效果，除非明确记述是卡的发动时进行的效果处理，否则不能在卡的发动同一\ :ref:`连锁块`\ 发动自身的效果。
-| 永续陷阱的效果，只要满足发动条件，可以在卡的发动同一\ :ref:`连锁块`\ 进行效果的发动。这时，满足条件的场合「神之警告」等也可以连锁发动。
+| 永续陷阱的效果，只要满足发动条件，可以在卡的发动同一\ :ref:`连锁块`\ 进行效果的发动。这时，满足条件的场合「`神之警告`_」等也可以连锁发动。
 | 例：
-| 「黑魔导阵」的①效果是在卡的发动时进行的效果处理，因此其发动时，包含从卡组把卡加入手卡的效果，可以连锁发动「灰流丽」的①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20542>`__\
-| 「永远之魂」卡的发动同时进行①效果的发动，则可以被「神之警告」把卡的发动无效，只进行卡的发动时，不能连锁发动「神之警告」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14820>`__\
-| 「十二兽的会局」在卡的发动时不能同时发动特殊召唤的效果。因此不能对其卡的发动连锁「神之警告」。
-| 「超营养太阳」作为卡的发动时的效果处理，包含怪兽特殊召唤的效果，因此可以对这次卡的发动连锁「神之警告」。
-| 「大宇宙」作为卡的发动时的效果处理，即使处理时可以选不特殊召唤，这本身仍然是个可以把怪兽特殊召唤的效果，因此可以对这次卡的发动连锁「神之警告」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10239>`__\
+| 「`黑魔导阵`_」的①效果是在卡的发动时进行的效果处理，因此其发动时，包含从卡组把卡加入手卡的效果，可以连锁发动「`灰流丽`_」的①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20542&request_locale=ja>`__\
+| 「`永远之魂`_」卡的发动同时进行①效果的发动，则可以被「`神之警告`_」把卡的发动无效，只进行卡的发动时，不能连锁发动「`神之警告`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14820&request_locale=ja>`__\
+| 「`十二兽的会局`_」在卡的发动时不能同时发动特殊召唤的效果。因此不能对其卡的发动连锁「`神之警告`_」。
+| 「`超营养太阳`_」作为卡的发动时的效果处理，包含怪兽特殊召唤的效果，因此可以对这次卡的发动连锁「`神之警告`_」。
+| 「`大宇宙`_」作为卡的发动时的效果处理，即使处理时可以选不特殊召唤，这本身仍然是个可以把怪兽特殊召唤的效果，因此可以对这次卡的发动连锁「`神之警告`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10239&request_locale=ja>`__\
 
 | 永续陷阱在卡的发动的连锁上，要进行效果的发动的场合，只能在卡的发动时决定1次。之后在这个连锁上由于效果未适用，不能发动效果。
 | 例：
-| 「王宫的弹压」卡的发动同时发动效果，这个连锁上其他效果使其再度满足发动条件的场合，也不能再发动第2次。
-| 「湿润之风」卡的发动同时不进行①或②效果的发动，若以其为对象连锁发动「宇宙旋风」，不能再作为连锁3发动其的①或②效果。
-| 「湿润之风」卡的发动同时只能发动①②效果其中的1个。已经表侧表示时可以在同一连锁上把2个效果都发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15752>`__\
-| 「女武神的契约书」在准备阶段进行卡的发动时，同时可以选发动①或③效果，不能都发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13428>`__\
-| 「失落的圣域」在卡的发动时必须处理①效果，因此这个连锁块不能同时发动③效果。\ `21/8/7 <https://yugioh-wiki.net/index.php?%CC%B5%B8%FA#faq>`_
+| 「`王宫的弹压`_」卡的发动同时发动效果，这个连锁上其他效果使其再度满足发动条件的场合，也不能再发动第2次。
+| 「`湿润之风`_」卡的发动同时不进行①或②效果的发动，若以其为对象连锁发动「`宇宙旋风`_」，不能再作为连锁3发动其的①或②效果。
+| 「`湿润之风`_」卡的发动同时只能发动①②效果其中的1个。已经表侧表示时可以在同一连锁上把2个效果都发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15752&request_locale=ja>`__\
+| 「`女武神的契约书`_」在准备阶段进行卡的发动时，同时可以选发动①或③效果，不能都发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13428&request_locale=ja>`__\
+| 「`失落的圣域`_」在卡的发动时必须处理①效果，因此这个连锁块不能同时发动③效果。\ `21/8/7 <https://yugioh-wiki.net/index.php?%CC%B5%B8%FA#faq>`_
 
 -  | 特别地，也有在卡的发动时不能适用效果的永续陷阱。
    | 例：
-   | 「阳炎光轮」的『可以通过把场上表侧表示存在的这张卡送去墓地，从自己墓地选择「阳炎光轮」以外的1张名字带有「阳炎」的卡加入手卡』的效果，由于需要把自身送去墓地，「阳炎光轮」发动时这个效果不适用。需要在卡片发动完毕之后另开连锁发动。「灵神统一」也是如此。\ `18/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21699>`__\
-   | 除了「溯洸的炼狱」这种每次特定阶段的描述，记述『每次...发动』的「光之回弹」\ `16/1/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7643>`__ 「卖棺者」\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5492>`__ 等效果不能在卡的发动时发动效果，而「电子召唤爆破器」复刻后的描述直接加上了『这张卡已在魔法与陷阱区域存在的状态』。
+   | 「`阳炎光轮`_」的『可以通过把场上表侧表示存在的这张卡送去墓地，从自己墓地选择「`阳炎光轮`_」以外的1张名字带有「`阳炎`_」的卡加入手卡』的效果，由于需要把自身送去墓地，「`阳炎光轮`_」发动时这个效果不适用。需要在卡片发动完毕之后另开连锁发动。「`灵神统一`_」也是如此。\ `18/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21699&request_locale=ja>`__\
+   | 除了「`溯洸的炼狱`_」这种每次特定阶段的描述，记述『每次...发动』的「`光之回弹`_」\ `16/1/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7643&request_locale=ja>`__ 「`卖棺者`_」\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5492&request_locale=ja>`__ 等效果不能在卡的发动时发动效果，而「`电子召唤爆破器`_」复刻后的描述直接加上了『这张卡已在魔法与陷阱区域存在的状态』。
 
-.. attention:: 特别地，「虚无空间」的②效果不能在卡的发动同时进行发动。此外由于描述不同，「捕食惑星」「潜海奇袭」也不能在卡的发动时进行效果的发动。
+.. attention:: 特别地，「`虚无空间`_」的②效果不能在卡的发动同时进行发动。此外由于描述不同，「`捕食惑星`_」「`潜海奇袭`_」也不能在卡的发动时进行效果的发动。
 
 发动·使用次数
 --------------
@@ -151,14 +151,14 @@
 | 魔法·陷阱卡的发动被无效的场合，当作没有发动过那张卡，但那次卡发动时的效果使用了1次。
 | 魔法·陷阱·怪兽效果的发动被无效的场合，当作没有发动过那个效果，但那个效果仍然使用了1次。此外，计算怪兽效果发动次数时，仍然计为1次。
 | 例：
-| 记述『这个卡名的卡在1回合只能发动1张』的「同盟格纳库」卡的发动被无效，不计卡的发动次数，还能再发动。
-| 记述『这个卡名的①效果1回合只能使用1次』的「影灵衣的返魂术」卡的发动被「神之宣告」无效，①效果使用了1次，因此这个回合不能再发动。\ `14/11/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11580>`__\
-| 记述『这个卡名的①②的效果1回合各能使用1次』的「雪花之光」卡的发动被「神之宣告」无效，①效果也使用了1次，因此这个回合不能再发动。\ `18/2/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9424&keyword=&tag=-1>`__
-| 自己主要阶段对方把怪兽效果发动，被我方用「神之通告」等把那个发动无效的场合，当作对方没有发动过怪兽效果，自己不能发动「三战之才」。
-| 「大将军 紫炎」在对方场上存在，自己魔法·陷阱卡的发动被无效的场合，这个回合自己仍然可以再发动1次魔法·陷阱卡。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11730>`__\
-| 「召唤兽 卡利古拉」在场上存在，自己怪兽效果发动被无效的场合，这个回合自己怪兽的效果不可以再发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7813&keyword=&tag=-1>`__\
+| 记述『这个卡名的卡在1回合只能发动1张』的「`同盟格纳库`_」卡的发动被无效，不计卡的发动次数，还能再发动。
+| 记述『这个卡名的①效果1回合只能使用1次』的「`影灵衣的返魂术`_」卡的发动被「`神之宣告`_」无效，①效果使用了1次，因此这个回合不能再发动。\ `14/11/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11580&request_locale=ja>`__\
+| 记述『这个卡名的①②的效果1回合各能使用1次』的「`雪花之光`_」卡的发动被「`神之宣告`_」无效，①效果也使用了1次，因此这个回合不能再发动。\ `18/2/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9424&keyword=&tag=-1&request_locale=ja>`__
+| 自己主要阶段对方把怪兽效果发动，被我方用「`神之通告`_」等把那个发动无效的场合，当作对方没有发动过怪兽效果，自己不能发动「`三战之才`_」。
+| 「`大将军 紫炎`_」在对方场上存在，自己魔法·陷阱卡的发动被无效的场合，这个回合自己仍然可以再发动1次魔法·陷阱卡。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11730&request_locale=ja>`__\
+| 「`召唤兽 卡利古拉`_」在场上存在，自己怪兽效果发动被无效的场合，这个回合自己怪兽的效果不可以再发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7813&keyword=&tag=-1&request_locale=ja>`__\
 
-.. attention:: 特别地，「命运之抽卡」\ `18/12/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22342&keyword=&tag=-1>`__ 「交错之魂」\ `20/12/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=15838>`__ 这类『只能有1次把魔法·陷阱·怪兽的效果发动』文本的裁定中统一化，魔法·陷阱·怪兽的效果发动被无效的场合，不会计数，这个回合还能再发动1次。
+.. attention:: 特别地，「`命运之抽卡`_」\ `18/12/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22342&keyword=&tag=-1&request_locale=ja>`__ 「`交错之魂`_」\ `20/12/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=15838&request_locale=ja>`__ 这类『只能有1次把魔法·陷阱·怪兽的效果发动』文本的裁定中统一化，魔法·陷阱·怪兽的效果发动被无效的场合，不会计数，这个回合还能再发动1次。
 
 也可以概括为下面这个表：
 
@@ -171,75 +171,207 @@
 
 .. attention::
 
-   | 特别地，「升阶魔法-七皇之剑」「粗人舞导」等记述的是『适用』次数。即使效果被无效的场合，还能再发动1张。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13164>`__ ，可以连锁发动「连续魔法」，由于只会适用1次，结果在「连续魔法」的效果适用后，连锁1的自身效果不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=241>`__
-   | 另外，只要没被无效，即使处理时因「虚无空间」等不适用等情况，这次决斗中也不能再发动。
+   | 特别地，「`升阶魔法-七皇之剑`_」「`粗人舞导`_」等记述的是『适用』次数。即使效果被无效的场合，还能再发动1张。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13164&request_locale=ja>`__ ，可以连锁发动「`连续魔法`_」，由于只会适用1次，结果在「`连续魔法`_」的效果适用后，连锁1的自身效果不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=241&request_locale=ja>`__
+   | 另外，只要没被无效，即使处理时因「`虚无空间`_」等不适用等情况，这次决斗中也不能再发动。
 
 .. _`在效果处理中发动魔法·陷阱卡`:
 
 在效果处理中发动魔法·陷阱卡
 ============================
 
-.. attention:: 「慧眼之魔术师」等效果记述的是『放置』，不是发动，与这段解说无关。
+.. attention:: 「`慧眼之魔术师`_」等效果记述的是『放置』，不是发动，与这段解说无关。
 
-| 「弹出式翻页」等效果把魔法·陷阱卡发动，这个效果处理完毕时卡的发动成功，记述『这张卡发动时』『作为这张卡的发动时的效果处理』的效果不适用。由于只是在卡发动时的效果处理，之后也不会另开连锁发动。
+| 「`弹出式翻页`_」等效果把魔法·陷阱卡发动，这个效果处理完毕时卡的发动成功，记述『这张卡发动时』『作为这张卡的发动时的效果处理』的效果不适用。由于只是在卡发动时的效果处理，之后也不会另开连锁发动。
 | 并且，如果那个效果必须处理，却不满足条件本应不能发动的场合，由于这个场合不会适用，仍然可以这样来发动。
 | 例：
-| 「终焉之地」的效果把「卡通王国」发动，「卡通王国」发动时的时点还在「终焉之地」的效果处理途中，其①效果不能在「终焉之地」的效果处理途中适用，即使卡组不足3张，也可以这样来发动。\ `15/5/15 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15855&keyword=&tag=-1>`__ 这次场地魔法卡的发动不会被「魔宫的贿赂」等连锁。
-| 自己卡组没有「神数」怪兽的场合，也可以用「弹出式翻页」发动「神数的神托」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15007>`__
+| 「`终焉之地`_」的效果把「`卡通王国`_」发动，「`卡通王国`_」发动时的时点还在「`终焉之地`_」的效果处理途中，其①效果不能在「`终焉之地`_」的效果处理途中适用，即使卡组不足3张，也可以这样来发动。\ `15/5/15 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15855&keyword=&tag=-1>`__ 这次场地魔法卡的发动不会被「`魔宫的贿赂`_」等连锁。
+| 自己卡组没有「`神数`_」怪兽的场合，也可以用「`弹出式翻页`_」发动「`神数的神托`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15007&request_locale=ja>`__
 
-.. note:: 『这张卡发动时』『作为这张卡的发动时的效果处理』两种描述没有区别。「炎舞-「天玑」」复刻后描述从前者改成了后者。
+.. note:: 『这张卡发动时』『作为这张卡的发动时的效果处理』两种描述没有区别。「`炎舞-「天玑」`_」复刻后描述从前者改成了后者。
 
 -  | 同样的，卡的效果把永续陷阱卡发动的场合，那个永续陷阱卡在卡的发动时能够同时进行效果的发动的场合，也不能在那个效果处理时插入作效果的发动，只能延后另开连锁发动。
    | 例：
-   | 对方主要阶段，对方发动卡的效果，自己场上的「真龙拳士 雾动轰·铁拳」的效果连锁发动，效果处理时从卡组把「真龙皇的复活」在自己场上发动的场合，这组连锁处理完毕时才能发动「真龙皇的复活」的①或②效果。
+   | 对方主要阶段，对方发动卡的效果，自己场上的「`真龙拳士 雾动轰·铁拳`_」的效果连锁发动，效果处理时从卡组把「`真龙皇的复活`_」在自己场上发动的场合，这组连锁处理完毕时才能发动「`真龙皇的复活`_」的①或②效果。
 
-| 「弹出式翻页」等效果把魔法·陷阱卡发动后，『魔法·陷阱卡发动的场合』效果在连锁处理完毕时基本上不会发动·适用。
-| 不过，「自然蔷薇鞭」或「大将军 紫炎」等计数效果照常计算。
+| 「`弹出式翻页`_」等效果把魔法·陷阱卡发动后，『魔法·陷阱卡发动的场合』效果在连锁处理完毕时基本上不会发动·适用。
+| 不过，「`自然蔷薇鞭`_」或「`大将军 紫炎`_」等计数效果照常计算。
 | 例：
-| 对方「自然蔷薇鞭」或者「大将军 紫炎」的效果适用中，我方通过「尸界的班西」的②效果把「不死世界」发动的场合，这个回合我方不能再发动其他魔法·陷阱卡。
-| 「吸血鬼移地」等效果把场地魔法卡发动、「娱乐伙伴 天空魔术家」的②效果和「真龙战士 点火烈·炽热」的①效果把永续魔法卡发动的场合，「凤凰剑圣 基亚·弗里德」「暗黑黑炎龙」等效果不能发动。「淘气仙星·坎迪娜」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20802&keyword=&tag=-1>`__ 「王立魔法图书馆」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20506&keyword=&tag=-1>`__ 「魔术师的右手」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11939&keyword=&tag=-1>`__ 等效果不适用。
-| 「吸血鬼移地」等效果把场地魔法卡发动、「真龙战士 点火烈·炽热」的①效果把永续魔法卡发动的场合，「娱乐伙伴 天空魔术家」的①效果不能发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20507&keyword=&tag=-1>`__\
+| 对方「`自然蔷薇鞭`_」或者「`大将军 紫炎`_」的效果适用中，我方通过「`尸界的班西`_」的②效果把「`不死世界`_」发动的场合，这个回合我方不能再发动其他魔法·陷阱卡。
+| 「`吸血鬼移地`_」等效果把场地魔法卡发动、「`娱乐伙伴 天空魔术家`_」的②效果和「`真龙战士 点火烈·炽热`_」的①效果把永续魔法卡发动的场合，「`凤凰剑圣 基亚·弗里德`_」「`暗黑黑炎龙`_」等效果不能发动。「`淘气仙星·坎迪娜`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20802&keyword=&tag=-1&request_locale=ja>`__ 「`王立魔法图书馆`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20506&keyword=&tag=-1&request_locale=ja>`__ 「`魔术师的右手`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11939&keyword=&tag=-1&request_locale=ja>`__ 等效果不适用。
+| 「`吸血鬼移地`_」等效果把场地魔法卡发动、「`真龙战士 点火烈·炽热`_」的①效果把永续魔法卡发动的场合，「`娱乐伙伴 天空魔术家`_」的①效果不能发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20507&keyword=&tag=-1&request_locale=ja>`__\
 
 .. attention::
 
-   | 特别地，「吸血鬼移地」「弹出式翻页」等效果把场地魔法卡发动的场合，「妖精龙 古代妖」的抽卡效果会发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8110&keyword=&tag=-1>`__\
-   | 只在「娱乐伙伴 天空魔术家」自身②效果把魔法卡发动的场合，其①效果会发动使自身攻击力上升。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20508&keyword=&tag=-1>`__\
+   | 特别地，「`吸血鬼移地`_」「`弹出式翻页`_」等效果把场地魔法卡发动的场合，「`妖精龙 古代妖`_」的抽卡效果会发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8110&keyword=&tag=-1&request_locale=ja>`__\
+   | 只在「`娱乐伙伴 天空魔术家`_」自身②效果把魔法卡发动的场合，其①效果会发动使自身攻击力上升。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20508&keyword=&tag=-1&request_locale=ja>`__\
 
 -  | 当魔法·陷阱卡不能发动的场合，不能通过效果把魔法·陷阱卡发动。
    | 例：
-   | 「大将军 紫炎」的效果适用中，还没发动魔法·陷阱卡的回合，也不能发动「弹出式翻页」。
-   | 「人造人-念力震慑者」的①效果适用中，「真龙拳士 雾动轰·铁拳」的效果只能把「真龙」永续陷阱加入手卡。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20504&keyword=&tag=-1>`__\
-   | 「魔封的芳香」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11016&keyword=&tag=-1>`__ 「大寒波」「封魔的咒印」「闪光No.0 希望之异热同心」等效果适用中，即使是不受效果影响的「真龙战士 点火烈·炽热」的效果，也只能把「真龙」永续魔法加入手卡。
-   | 「埋伏破坏」「久远之魔术师 米拉」「超次元机器人 银河破坏王」的效果发动时，可以连锁发动「真龙拳士 雾动轰·铁拳」的效果来发动陷阱卡。
+   | 「`大将军 紫炎`_」的效果适用中，还没发动魔法·陷阱卡的回合，也不能发动「`弹出式翻页`_」。
+   | 「`人造人-念力震慑者`_」的①效果适用中，「`真龙拳士 雾动轰·铁拳`_」的效果只能把「`真龙`_」永续陷阱加入手卡。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20504&keyword=&tag=-1&request_locale=ja>`__\
+   | 「`魔封的芳香`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11016&keyword=&tag=-1&request_locale=ja>`__ 「`大寒波`_」「`封魔的咒印`_」「`闪光No.0 希望之异热同心`_」等效果适用中，即使是不受效果影响的「`真龙战士 点火烈·炽热`_」的效果，也只能把「`真龙`_」永续魔法加入手卡。
+   | 「`埋伏破坏`_」「`久远之魔术师 米拉`_」「`超次元机器人 银河破坏王`_」的效果发动时，可以连锁发动「`真龙拳士 雾动轰·铁拳`_」的效果来发动陷阱卡。
 
 .. _`发动后不能留在场上的魔法·陷阱卡`:
 
 发动后不能留在场上的魔法·陷阱卡
 ===============================
 
-本段介绍像「激流葬」这样的，在发动的连锁处理完毕时需要送去墓地的魔法·陷阱卡的一些注意事项。
+本段介绍像「`激流葬`_」这样的，在发动的连锁处理完毕时需要送去墓地的魔法·陷阱卡的一些注意事项。
 
 | 这种魔法·陷阱卡在连锁途中不能从场上回到手卡·卡组，可以被破坏·除外·送去墓地·变成X素材。
 | 例：
-| 「激流葬」发动时，不能以这张通常陷阱卡为对象发动「凤翼的暴风」。
-| 以盖放的「旋风」为对象发动「凤翼的暴风」，连锁发动这张「旋风」的场合，这张「旋风」不会回到卡组，在连锁处理完毕时正常送去墓地。
-| 「魔偶甜点后·后冠提拉米苏」的效果发动时，对方连锁发动「旋风」的场合，这个效果处理时不能选这张「旋风」。
-| 对方场上只有盖放的「强欲之瓶」，自己「爆龙剑士 点火星·日珥」的①效果发动时，那个「强欲之瓶」连锁发动的场合，效果处理时只能选自身回到额外卡组。
-| 我方「龙神阵·略图」的③效果发动，连锁发动「幽丽的幻泷」的场合，「龙神阵·略图」的效果处理时可以选「幽丽的幻泷」破坏，之后正常处理效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7634&keyword=&tag=-1>`__\
-| 「无限起动要塞 百万吨百臂狂风」的②效果以盖放的「替罪羊」为对象发动后，这个「替罪羊」连锁发动的场合，仍然变成X素材。\ `19/2/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22494&keyword=&tag=-1>`__\
+| 「`激流葬`_」发动时，不能以这张通常陷阱卡为对象发动「`凤翼的暴风`_」。
+| 以盖放的「`旋风`_」为对象发动「`凤翼的暴风`_」，连锁发动这张「`旋风`_」的场合，这张「`旋风`_」不会回到卡组，在连锁处理完毕时正常送去墓地。
+| 「`魔偶甜点后·后冠提拉米苏`_」的效果发动时，对方连锁发动「`旋风`_」的场合，这个效果处理时不能选这张「`旋风`_」。
+| 对方场上只有盖放的「`强欲之瓶`_」，自己「`爆龙剑士 点火星·日珥`_」的①效果发动时，那个「`强欲之瓶`_」连锁发动的场合，效果处理时只能选自身回到额外卡组。
+| 我方「`龙神阵·略图`_」的③效果发动，连锁发动「`幽丽的幻泷`_」的场合，「`龙神阵·略图`_」的效果处理时可以选「`幽丽的幻泷`_」破坏，之后正常处理效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7634&keyword=&tag=-1&request_locale=ja>`__\
+| 「`无限起动要塞 百万吨百臂狂风`_」的②效果以盖放的「`替罪羊`_」为对象发动后，这个「`替罪羊`_」连锁发动的场合，仍然变成X素材。\ `19/2/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22494&keyword=&tag=-1&request_locale=ja>`__\
 
-.. attention:: 「龙星的九支」等，把卡的发动无效的场合，魔法·陷阱卡已经不在场上，后续正常适用，从未知区域回到卡组。
+.. attention:: 「`龙星的九支`_」等，把卡的发动无效的场合，魔法·陷阱卡已经不在场上，后续正常适用，从未知区域回到卡组。
 
 -  | 特别地，发动后会变成装备卡或持续在当前区域表侧表示存在的魔法·陷阱卡，在连锁途中可以从场上回到手卡·卡组。
    | 例：
-   | 「地中族的决战」「机壳的冻结」发动时，不能以它们为对象连锁发动「凤翼的爆风」或「幻变骚灵·泛在羽衣精」的①效果。
-   | 「光之护封剑」「幻变骚灵物化」发动时，可以取它们为对象发动「凤翼的爆风」或「幻变骚灵·泛在羽衣精」的①效果。
+   | 「`地中族的决战`_」「`机壳的冻结`_」发动时，不能以它们为对象连锁发动「`凤翼的爆风`_」或「`幻变骚灵·泛在羽衣精`_」的①效果。
+   | 「`光之护封剑`_」「`幻变骚灵物化`_」发动时，可以取它们为对象发动「`凤翼的爆风`_」或「`幻变骚灵·泛在羽衣精`_」的①效果。
 
 | 这种魔法·陷阱卡若含有破坏卡片等效果，不能破坏自身。除自身以外没有能够破坏的卡时不能发动。
 | 例：
-| 「风暴」破坏数目不计自身。
-| 「大风暴」不会破坏自身。\ `15/1/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=4891>`__\
-| 「旋风」不能以自身为对象发动。\ `17/3/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=4909>`__\
-| 「背德的堕天使」效果处理时不能选自身。场上只有这1张卡时不能发动。\ `16/8/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12730>`__\
-| 「堕天使」怪兽的效果发动，适用「背德的堕天使」的效果的场合，处理时可以破坏自身。
-| 「创造之魔导书」得到「冰火之魔导书」的效果的场合，处理时也不能把自身送去墓地。\ `17/7/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20867&keyword=&tag=-1>`__\
+| 「`风暴`_」破坏数目不计自身。
+| 「`大风暴`_」不会破坏自身。\ `15/1/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=4891&request_locale=ja>`__\
+| 「`旋风`_」不能以自身为对象发动。\ `17/3/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=4909&request_locale=ja>`__\
+| 「`背德的堕天使`_」效果处理时不能选自身。场上只有这1张卡时不能发动。\ `16/8/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12730&request_locale=ja>`__\
+| 「`堕天使`_」怪兽的效果发动，适用「`背德的堕天使`_」的效果的场合，处理时可以破坏自身。
+| 「`创造之魔导书`_」得到「`冰火之魔导书`_」的效果的场合，处理时也不能把自身送去墓地。\ `17/7/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20867&keyword=&tag=-1&request_locale=ja>`__\
+
+.. _`真龙`: https://ygocdb.com/?search=真龙
+.. _`淘气仙星·坎迪娜`: https://ygocdb.com/?search=淘气仙星·坎迪娜
+.. _`幻变骚灵·泛在羽衣精`: https://ygocdb.com/?search=幻变骚灵·泛在羽衣精
+.. _`粗人舞导`: https://ygocdb.com/?search=粗人舞导
+.. _`风暴`: https://ygocdb.com/?search=风暴
+.. _`影灵衣的返魂术`: https://ygocdb.com/?search=影灵衣的返魂术
+.. _`黑森林的魔女`: https://ygocdb.com/?search=黑森林的魔女
+.. _`真龙皇的复活`: https://ygocdb.com/?search=真龙皇的复活
+.. _`虚无空间`: https://ygocdb.com/?search=虚无空间
+.. _`天空的圣域`: https://ygocdb.com/?search=天空的圣域
+.. _`闪光No.0 希望之异热同心`: https://ygocdb.com/?search=闪光No.0+希望之异热同心
+.. _`妖精龙 古代妖`: https://ygocdb.com/?search=妖精龙+古代妖
+.. _`封魔之矢`: https://ygocdb.com/?search=封魔之矢
+.. _`魔界台本「魔王的降临」`: https://ygocdb.com/?search=魔界台本「魔王的降临」
+.. _`湿润之风`: https://ygocdb.com/?search=湿润之风
+.. _`无限起动要塞 百万吨百臂狂风`: https://ygocdb.com/?search=无限起动要塞+百万吨百臂狂风
+.. _`神之宣告`: https://ygocdb.com/?search=神之宣告
+.. _`娱乐伙伴 天空魔术家`: https://ygocdb.com/?search=娱乐伙伴+天空魔术家
+.. _`灰流丽`: https://ygocdb.com/?search=灰流丽
+.. _`弹出式翻页`: https://ygocdb.com/?search=弹出式翻页
+.. _`大将军 紫炎`: https://ygocdb.com/?search=大将军+紫炎
+.. _`终焉之地`: https://ygocdb.com/?search=终焉之地
+.. _`炎舞-「天玑」`: https://ygocdb.com/?search=炎舞-「天玑」
+.. _`乌合之行进`: https://ygocdb.com/?search=乌合之行进
+.. _`破坏剑-武器破坏之剑`: https://ygocdb.com/?search=破坏剑-武器破坏之剑
+.. _`黑魔导阵`: https://ygocdb.com/?search=黑魔导阵
+.. _`古遗物的神智`: https://ygocdb.com/?search=古遗物的神智
+.. _`光之回弹`: https://ygocdb.com/?search=光之回弹
+.. _`光之护封剑`: https://ygocdb.com/?search=光之护封剑
+.. _`背德的堕天使`: https://ygocdb.com/?search=背德的堕天使
+.. _`炼装反击`: https://ygocdb.com/?search=炼装反击
+.. _`魔法抵消器`: https://ygocdb.com/?search=魔法抵消器
+.. _`三眼怪`: https://ygocdb.com/?search=三眼怪
+.. _`爆龙剑士 点火星·日珥`: https://ygocdb.com/?search=爆龙剑士+点火星·日珥
+.. _`深渊鳞甲-鲸鱼`: https://ygocdb.com/?search=深渊鳞甲-鲸鱼
+.. _`幽丽的幻泷`: https://ygocdb.com/?search=幽丽的幻泷
+.. _`尸界的班西`: https://ygocdb.com/?search=尸界的班西
+.. _`凤凰剑圣 基亚·弗里德`: https://ygocdb.com/?search=凤凰剑圣+基亚·弗里德
+.. _`替罪羊`: https://ygocdb.com/?search=替罪羊
+.. _`神之通告`: https://ygocdb.com/?search=神之通告
+.. _`溯洸的炼狱`: https://ygocdb.com/?search=溯洸的炼狱
+.. _`水泡幻像`: https://ygocdb.com/?search=水泡幻像
+.. _`阳炎`: https://ygocdb.com/?search=阳炎
+.. _`魔偶甜点后·后冠提拉米苏`: https://ygocdb.com/?search=魔偶甜点后·后冠提拉米苏
+.. _`真龙拳士 雾动轰·铁拳`: https://ygocdb.com/?search=真龙拳士+雾动轰·铁拳
+.. _`十二兽的会局`: https://ygocdb.com/?search=十二兽的会局
+.. _`琰魔龙王 红莲魔·厄`: https://ygocdb.com/?search=琰魔龙王+红莲魔·厄
+.. _`激流葬`: https://ygocdb.com/?search=激流葬
+.. _`力天使 女武神`: https://ygocdb.com/?search=力天使+女武神
+.. _`混沌No.39 希望皇 霍普雷·胜光`: https://ygocdb.com/?search=混沌No.39+希望皇+霍普雷·胜光
+.. _`魔术师的右手`: https://ygocdb.com/?search=魔术师的右手
+.. _`凤翼的暴风`: https://ygocdb.com/?search=凤翼的暴风
+.. _`凤翼的爆风`: https://ygocdb.com/?search=凤翼的爆风
+.. _`No.16 色之支配者`: https://ygocdb.com/?search=No.16+色之支配者
+.. _`魔界剧团`: https://ygocdb.com/?search=魔界剧团
+.. _`卡通`: https://ygocdb.com/?search=卡通
+.. _`机壳的牲祭`: https://ygocdb.com/?search=机壳的牲祭
+.. _`深渊死球`: https://ygocdb.com/?search=深渊死球
+.. _`封魔的咒印`: https://ygocdb.com/?search=封魔的咒印
+.. _`大风暴`: https://ygocdb.com/?search=大风暴
+.. _`黑音速`: https://ygocdb.com/?search=黑音速
+.. _`禁忌的圣枪`: https://ygocdb.com/?search=禁忌的圣枪
+.. _`自尊的咆哮`: https://ygocdb.com/?search=自尊的咆哮
+.. _`大宇宙`: https://ygocdb.com/?search=大宇宙
+.. _`捕食惑星`: https://ygocdb.com/?search=捕食惑星
+.. _`埋伏破坏`: https://ygocdb.com/?search=埋伏破坏
+.. _`失落的圣域`: https://ygocdb.com/?search=失落的圣域
+.. _`DDD 极智王 混沌默示神`: https://ygocdb.com/?search=DDD+极智王+混沌默示神
+.. _`卖棺者`: https://ygocdb.com/?search=卖棺者
+.. _`大寒波`: https://ygocdb.com/?search=大寒波
+.. _`阻挡十字军`: https://ygocdb.com/?search=阻挡十字军
+.. _`强欲之瓶`: https://ygocdb.com/?search=强欲之瓶
+.. _`召唤兽 普尔加托里奥`: https://ygocdb.com/?search=召唤兽+普尔加托里奥
+.. _`机壳的冻结`: https://ygocdb.com/?search=机壳的冻结
+.. _`人造人-念力震慑者`: https://ygocdb.com/?search=人造人-念力震慑者
+.. _`卡通王国`: https://ygocdb.com/?search=卡通王国
+.. _`兽神·武尔坎`: https://ygocdb.com/?search=兽神·武尔坎
+.. _`流天类星龙`: https://ygocdb.com/?search=流天类星龙
+.. _`阳炎光轮`: https://ygocdb.com/?search=阳炎光轮
+.. _`饼蛙`: https://ygocdb.com/?search=饼蛙
+.. _`不死世界`: https://ygocdb.com/?search=不死世界
+.. _`暗黑黑炎龙`: https://ygocdb.com/?search=暗黑黑炎龙
+.. _`未来融合`: https://ygocdb.com/?search=未来融合
+.. _`潜海奇袭`: https://ygocdb.com/?search=潜海奇袭
+.. _`神数的神托`: https://ygocdb.com/?search=神数的神托
+.. _`冰火之魔导书`: https://ygocdb.com/?search=冰火之魔导书
+.. _`龙神阵·略图`: https://ygocdb.com/?search=龙神阵·略图
+.. _`神之警告`: https://ygocdb.com/?search=神之警告
+.. _`命运之抽卡`: https://ygocdb.com/?search=命运之抽卡
+.. _`珀耳修斯的神域`: https://ygocdb.com/?search=珀耳修斯的神域
+.. _`魔宫的贿赂`: https://ygocdb.com/?search=魔宫的贿赂
+.. _`幻变骚灵物化`: https://ygocdb.com/?search=幻变骚灵物化
+.. _`超营养太阳`: https://ygocdb.com/?search=超营养太阳
+.. _`交错之魂`: https://ygocdb.com/?search=交错之魂
+.. _`雪花之光`: https://ygocdb.com/?search=雪花之光
+.. _`永远之魂`: https://ygocdb.com/?search=永远之魂
+.. _`地中族的决战`: https://ygocdb.com/?search=地中族的决战
+.. _`女武神的契约书`: https://ygocdb.com/?search=女武神的契约书
+.. _`龙星的九支`: https://ygocdb.com/?search=龙星的九支
+.. _`召唤兽 卡利古拉`: https://ygocdb.com/?search=召唤兽+卡利古拉
+.. _`三战之才`: https://ygocdb.com/?search=三战之才
+.. _`灵神统一`: https://ygocdb.com/?search=灵神统一
+.. _`炼狱的虚梦`: https://ygocdb.com/?search=炼狱的虚梦
+.. _`魔封的芳香`: https://ygocdb.com/?search=魔封的芳香
+.. _`漆黑的能量石`: https://ygocdb.com/?search=漆黑的能量石
+.. _`同盟格纳库`: https://ygocdb.com/?search=同盟格纳库
+.. _`特拉戈迪亚`: https://ygocdb.com/?search=特拉戈迪亚
+.. _`电子龙·无限`: https://ygocdb.com/?search=电子龙·无限
+.. _`吸血鬼移地`: https://ygocdb.com/?search=吸血鬼移地
+.. _`电子召唤爆破器`: https://ygocdb.com/?search=电子召唤爆破器
+.. _`超次元机器人 银河破坏王`: https://ygocdb.com/?search=超次元机器人+银河破坏王
+.. _`魔女的一击`: https://ygocdb.com/?search=魔女的一击
+.. _`久远之魔术师 米拉`: https://ygocdb.com/?search=久远之魔术师+米拉
+.. _`台风`: https://ygocdb.com/?search=台风
+.. _`王立魔法图书馆`: https://ygocdb.com/?search=王立魔法图书馆
+.. _`自然之森`: https://ygocdb.com/?search=自然之森
+.. _`升阶魔法-七皇之剑`: https://ygocdb.com/?search=升阶魔法-七皇之剑
+.. _`王宫的弹压`: https://ygocdb.com/?search=王宫的弹压
+.. _`创造之魔导书`: https://ygocdb.com/?search=创造之魔导书
+.. _`堕天使`: https://ygocdb.com/?search=堕天使
+.. _`自然蔷薇鞭`: https://ygocdb.com/?search=自然蔷薇鞭
+.. _`神数`: https://ygocdb.com/?search=神数
+.. _`绝望天王星`: https://ygocdb.com/?search=绝望天王星
+.. _`真龙战士 点火烈·炽热`: https://ygocdb.com/?search=真龙战士+点火烈·炽热
+.. _`旋风`: https://ygocdb.com/?search=旋风
+.. _`连续魔法`: https://ygocdb.com/?search=连续魔法
+.. _`慧眼之魔术师`: https://ygocdb.com/?search=慧眼之魔术师
+.. _`神罚`: https://ygocdb.com/?search=神罚
+.. _`魔轰神兽 尤尼科`: https://ygocdb.com/?search=魔轰神兽+尤尼科
+.. _`宇宙旋风`: https://ygocdb.com/?search=宇宙旋风
+.. _`人造人-念力王者`: https://ygocdb.com/?search=人造人-念力王者

@@ -35,7 +35,7 @@
 
    | 部分老卡的翻译有误，需要根据日文原文判断。
    | 例：
-   | 「炎舞-「开阳」」的日文原文记述着『このカードを発動したターン、...』，应该翻译成『这张卡发动过的回合，...』，目前的翻译『这张卡发动的回合，...』有误。
+   | 「`炎舞-「开阳」`_」的日文原文记述着『このカードを発動したターン、...』，应该翻译成『这张卡发动过的回合，...』，目前的翻译『这张卡发动的回合，...』有误。
 
 只能选一个的描述
 ------------------
@@ -48,10 +48,10 @@
 
 -  | 不是效果所以在发动时会立即适用。
    | 例：
-   | 「替罪羊」发动时，不能连锁发动「战线复归」。
-   | 「假面变色龙」的效果发动时，不能连锁发动「影蜥蜴」的效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9813>`__
-   | 「No.11 巨眼」的效果发动时，自身在这个回合不能攻击，不能连锁发动「娱乐伙伴 秋千魔术家」的效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9283>`__
-   | 「真红眼融合」发动时，不能连锁「连续魔法」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9608>`__
+   | 「`替罪羊`_」发动时，不能连锁发动「`战线复归`_」。
+   | 「`假面变色龙`_」的效果发动时，不能连锁发动「`影蜥蜴`_」的效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9813&request_locale=ja>`__
+   | 「`No.11 巨眼`_」的效果发动时，自身在这个回合不能攻击，不能连锁发动「`娱乐伙伴 秋千魔术家`_」的效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9283&request_locale=ja>`__
+   | 「`真红眼融合`_」发动时，不能连锁「`连续魔法`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9608&request_locale=ja>`__
 
 -  | 这个发动被无效的场合，这种描述不再适用。
    | 例：
@@ -67,59 +67,59 @@
 
    -  | 可以选择不进行的效果被无效的场合，由于没有进行，可以发动这类效果。
       | 例：
-      | 「天声的服从」这样，处理时才选择效果适用的效果，被「灰流丽」无效的场合，不会选任何效果适用，这个回合可以发动「强欲而谦虚之壶」。\ `17/8/4 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6417>`__
+      | 「`天声的服从`_」这样，处理时才选择效果适用的效果，被「`灰流丽`_」无效的场合，不会选任何效果适用，这个回合可以发动「`强欲而谦虚之壶`_」。\ `17/8/4 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6417&request_locale=ja>`__
 
 -  | 效果被改写的场合，由于这种描述不是效果，不会被改写。
    | 例：
-   | 对方把「强欲而谦虚之壶」发动，自己连锁「妖精传姬-塔利娅」的②效果发动的场合，这个回合对方仍然不能特殊召唤怪兽。\ `16/7/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19695&keyword=>`__
+   | 对方把「`强欲而谦虚之壶`_」发动，自己连锁「`妖精传姬-塔利娅`_」的②效果发动的场合，这个回合对方仍然不能特殊召唤怪兽。\ `16/7/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19695&keyword=>`__
 
 -  | 这种描述不是效果，应该看成效果附带的其他处理，其他卡得到这些效果的场合，也要处理这个部分。
    | 例：
-   | 自己的「混沌幻影」得到「混沌帝龙 -终焉的使者-」的卡名和效果后，由于这次效果发动，即这个回合已经发动过卡的效果，因此得到的「混沌帝龙 -终焉的使者-」的效果不能发动。`15/1/1 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14600>`__
+   | 自己的「`混沌幻影`_」得到「`混沌帝龙 -终焉的使者-`_」的卡名和效果后，由于这次效果发动，即这个回合已经发动过卡的效果，因此得到的「`混沌帝龙 -终焉的使者-`_」的效果不能发动。`15/1/1 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14600>`__
 
 .. tip:: 如果不关心特殊召唤次数和被无效等细节内容，可以忽略下面这部分，直接点击跳到→\ 都能进行的描述_\ 。
 
 特殊召唤计数
 ~~~~~~~~~~~~~
 
-对于「神影依 米德拉什」这样，计算特殊召唤次数的效果而言，有如下规则
+对于「`神影依 米德拉什`_」这样，计算特殊召唤次数的效果而言，有如下规则
 
 -  只要没有实际把怪兽特殊召唤到场上过，就不会计数。
 
--  | 必须特殊召唤2次的行动不能进行。那些效果处理时「神影依 米德拉什」的②效果才适用的场合，如果第1次的特殊召唤已经确定了要特殊召唤的怪兽，还能进行第1次的特殊召唤，否则完全不会特殊召唤怪兽。
+-  | 必须特殊召唤2次的行动不能进行。那些效果处理时「`神影依 米德拉什`_」的②效果才适用的场合，如果第1次的特殊召唤已经确定了要特殊召唤的怪兽，还能进行第1次的特殊召唤，否则完全不会特殊召唤怪兽。
    | 例：
-   | 「神影依 米德拉什」的②效果适用中，不能发动「升阶魔法-七皇之剑」「高等纹章术」。\ `14/5/26 <http://yugioh-wiki.net/index.php?%A1%D4%A5%A8%A5%EB%A5%B7%A5%E3%A5%C9%A1%BC%A5%EB%A1%A6%A5%DF%A5%C9%A5%E9%A1%BC%A5%B7%A5%E5%A1%D5#faq>`__ 不能把「拷问巨人」特殊召唤。\ `17/11/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9801>`__
-   | 发动「高等纹章术」，连锁发动「活死人的呼声」把「神影依 米德拉什」特殊召唤的场合，「高等纹章术」的效果只处理到第1次特殊召唤成功，这个时点效果处理完毕，后续特殊召唤不进行。
-   | 发动「升阶魔法-七皇之剑」，连锁发动「活死人的呼声」把「神影依 米德拉什」特殊召唤的场合，不会特殊召唤任何怪兽。
+   | 「`神影依 米德拉什`_」的②效果适用中，不能发动「`升阶魔法-七皇之剑`_」「`高等纹章术`_」。\ `14/5/26 <http://yugioh-wiki.net/index.php?%A1%D4%A5%A8%A5%EB%A5%B7%A5%E3%A5%C9%A1%BC%A5%EB%A1%A6%A5%DF%A5%C9%A5%E9%A1%BC%A5%B7%A5%E5%A1%D5#faq>`__ 不能把「`拷问巨人`_」特殊召唤。\ `17/11/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9801&request_locale=ja>`__
+   | 发动「`高等纹章术`_」，连锁发动「`活死人的呼声`_」把「`神影依 米德拉什`_」特殊召唤的场合，「`高等纹章术`_」的效果只处理到第1次特殊召唤成功，这个时点效果处理完毕，后续特殊召唤不进行。
+   | 发动「`升阶魔法-七皇之剑`_」，连锁发动「`活死人的呼声`_」把「`神影依 米德拉什`_」特殊召唤的场合，不会特殊召唤任何怪兽。
 
 .. _`誓约_特殊召唤被无效`:
 
 特殊召唤被无效
 ..........................................
 
-对于「闪刀姬-燎里」「灵兽使 蕾拉」这样，限制玩家1回合只能特殊召唤1次同名卡的文本而言，有如下规则
+对于「`闪刀姬-燎里`_」「`灵兽使 蕾拉`_」这样，限制玩家1回合只能特殊召唤1次同名卡的文本而言，有如下规则
 
 -  | 只要没有实际把怪兽特殊召唤到场上过，就不会计数。
    | 例：
-   | 手卡的「堕天使 莫斯提马」发动①效果被对方的「审判女士」的①效果无效后，这个回合手卡的「堕天使 莫斯提马」还能再次发动①效果。
-   | P区域「恩底弥翁的仆从」发动的②效果被对方连锁发动的「灰流丽」的①效果无效后，这个回合P区域的「恩底弥翁的仆从」还能再次发动②效果。
-   | P区域的「恩底弥翁的仆从」的②效果发动时，可以连锁以墓地另1只「恩底弥翁的仆从」为对象发动「活死人的呼声」。这个「活死人的呼声」把墓地的「恩底弥翁的仆从」特殊召唤成功的场合，连锁1的「恩底弥翁的仆从」的P效果不适用。
-   | 自己把「闪刀姬-雫空」连接召唤之际，对方发动「神之通告」无效这次连接召唤的场合，这个回合自己仍然可以发动「帝王的烈旋」。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10462&keyword=&tag=-1>`__
+   | 手卡的「`堕天使 莫斯提马`_」发动①效果被对方的「`审判女士`_」的①效果无效后，这个回合手卡的「`堕天使 莫斯提马`_」还能再次发动①效果。
+   | P区域「`恩底弥翁的仆从`_」发动的②效果被对方连锁发动的「`灰流丽`_」的①效果无效后，这个回合P区域的「`恩底弥翁的仆从`_」还能再次发动②效果。
+   | P区域的「`恩底弥翁的仆从`_」的②效果发动时，可以连锁以墓地另1只「`恩底弥翁的仆从`_」为对象发动「`活死人的呼声`_」。这个「`活死人的呼声`_」把墓地的「`恩底弥翁的仆从`_」特殊召唤成功的场合，连锁1的「`恩底弥翁的仆从`_」的P效果不适用。
+   | 自己把「`闪刀姬-雫空`_」连接召唤之际，对方发动「`神之通告`_」无效这次连接召唤的场合，这个回合自己仍然可以发动「`帝王的烈旋`_」。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10462&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 由于是限制次数，1次特殊召唤多张是允许的。
    | 例：
-   | 把多个怪兽P召唤时，可以把2只「灵兽使的长老」特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13926>`__
-   | 「堕天使 路西法」的①效果要把多只「堕天使」怪兽特殊召唤的场合，可以把2只「堕天使 特斯卡特利波卡」特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6900>`__
+   | 把多个怪兽P召唤时，可以把2只「`灵兽使的长老`_」特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13926&request_locale=ja>`__
+   | 「`堕天使 路西法`_」的①效果要把多只「`堕天使`_」怪兽特殊召唤的场合，可以把2只「`堕天使 特斯卡特利波卡`_」特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6900&request_locale=ja>`__
 
-对于「帝王的烈旋」「强欲而谦虚之壶」「青色眼睛的激临」「幻变骚灵 多功能诈骗者」「风魔女-冰铃」这样，涉及特殊召唤限制的誓约文本而言，有如下规则
+对于「`帝王的烈旋`_」「`强欲而谦虚之壶`_」「`青色眼睛的激临`_」「`幻变骚灵 多功能诈骗者`_」「`风魔女-冰铃`_」这样，涉及特殊召唤限制的誓约文本而言，有如下规则
 
 -  | 只要受限制的特殊召唤没有实际让怪兽出场，就不会计数。
    | 例：
-   | 「死者苏生」发动时，可以连锁发动「替罪羊」，结果「死者苏生」的效果处理不适用。
-   | 自己「融合」的效果处理时，没有成功特殊召唤融合怪兽的场合，这个回合自己仍然可以发动「帝王的烈旋」。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10972&keyword=&tag=-1>`__
-   | 自己把「闪刀姬-雫空」连接召唤之际，对方发动「神之通告」无效这次连接召唤的场合，这个回合自己仍然可以发动「帝王的烈旋」。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10462&keyword=&tag=-1>`__
-   | 自己进行的P召唤被「神之宣告」无效后，这个回合自己还可以发动「娱乐伙伴 额外射手」的P效果。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19016&keyword=&tag=-1>`__
-   | 自己「超重武者 魂-C」的①效果发动或效果被对方的「天罚」或「技能抽取」无效后，这个回合自己仍然可以发动「毛绒动物·鼠」的①效果。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15600&keyword=&tag=-1>`__
+   | 「`死者苏生`_」发动时，可以连锁发动「`替罪羊`_」，结果「`死者苏生`_」的效果处理不适用。
+   | 自己「`融合`_」的效果处理时，没有成功特殊召唤融合怪兽的场合，这个回合自己仍然可以发动「`帝王的烈旋`_」。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10972&keyword=&tag=-1&request_locale=ja>`__
+   | 自己把「`闪刀姬-雫空`_」连接召唤之际，对方发动「`神之通告`_」无效这次连接召唤的场合，这个回合自己仍然可以发动「`帝王的烈旋`_」。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10462&keyword=&tag=-1&request_locale=ja>`__
+   | 自己进行的P召唤被「`神之宣告`_」无效后，这个回合自己还可以发动「`娱乐伙伴 额外射手`_」的P效果。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19016&keyword=&tag=-1&request_locale=ja>`__
+   | 自己「`超重武者 魂-C`_」的①效果发动或效果被对方的「`天罚`_」或「`技能抽取`_」无效后，这个回合自己仍然可以发动「`毛绒动物·鼠`_」的①效果。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15600&keyword=&tag=-1&request_locale=ja>`__
 
 都能进行的描述
 -----------------
@@ -131,52 +131,121 @@
 3. 『\ **这个回合**\ ...』
 
 | 例：
-| 从额外卡组特殊召唤过怪兽的回合，仍然可以发动「冥帝从骑 哀多斯」的②效果。\ `15/10/16 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16968&keyword=>`__
-| 自己其他怪兽直接攻击过的回合的主要阶段2，仍然可以发动「银河眼光波龙」的①效果。\ `16/5/13 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19259&keyword=&tag=-1>`__
+| 从额外卡组特殊召唤过怪兽的回合，仍然可以发动「`冥帝从骑 哀多斯`_」的②效果。\ `15/10/16 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16968&keyword=>`__
+| 自己其他怪兽直接攻击过的回合的主要阶段2，仍然可以发动「`银河眼光波龙`_」的①效果。\ `16/5/13 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19259&keyword=&tag=-1>`__
 
 -  | 这些描述，都是卡的\ **效果**\ ，所以在效果处理时才适用。不论发动被无效，还是效果被无效，都不会适用。
    | 例：
-   | 2个「炼狱之骑士 多禄某」的效果可以组成连锁发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19620>`__
-   | 「雷帝家臣 密特拉」的效果被「魔轰神兽 尤尼科」无效，这个回合可以从额外卡组特殊召唤怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14959>`__
-   | 「励辉士 入魔蝇王」发动被「光与暗之龙」，或者效果被「技能抽取」无效，这个回合对方玩家受到的伤害不会变成0。\ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13019&keyword=&tag=-1>`__
-   | 「雪花之光」的『这张卡的发动后，这次决斗中』部分也是效果，只在卡的发动时适用。\ `18/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21681&keyword=&tag=-1>`__
+   | 2个「`炼狱之骑士 多禄某`_」的效果可以组成连锁发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19620&request_locale=ja>`__
+   | 「`雷帝家臣 密特拉`_」的效果被「`魔轰神兽 尤尼科`_」无效，这个回合可以从额外卡组特殊召唤怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14959&request_locale=ja>`__
+   | 「`励辉士 入魔蝇王`_」发动被「`光与暗之龙`_」，或者效果被「`技能抽取`_」无效，这个回合对方玩家受到的伤害不会变成0。\ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13019&keyword=&tag=-1>`__
+   | 「`雪花之光`_」的『这张卡的发动后，这次决斗中』部分也是效果，只在卡的发动时适用。\ `18/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21681&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 这些描述应该当成前一段效果附加的效果处理。即使前一段效果处理时不适用，只要没被无效，这部分仍会适用。
    | 这些描述的处理不占用时点。
    | 例：
-   | 「炼狱的消华」发动①效果，连锁发动「岔子」，不能加入手卡的场合，这个回合自己仍不能把「狱火机」怪兽以外的怪兽召唤·特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15237>`__
-   | 「超重武者 拳-C」的②效果把自身特殊召唤就是效果处理完毕，「激流葬」不会错过时点，可以发动。\ `17/7/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21032>`__
-   | 「雪花之光」①效果进行抽卡后就是这个效果处理完毕，『这张卡的发动后，这次决斗中』部分的效果会立即适用，不占用时点。\ `18/1/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13616>`__
+   | 「`炼狱的消华`_」发动①效果，连锁发动「`岔子`_」，不能加入手卡的场合，这个回合自己仍不能把「`狱火机`_」怪兽以外的怪兽召唤·特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15237&request_locale=ja>`__
+   | 「`超重武者 拳-C`_」的②效果把自身特殊召唤就是效果处理完毕，「`激流葬`_」不会错过时点，可以发动。\ `17/7/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21032&request_locale=ja>`__
+   | 「`雪花之光`_」①效果进行抽卡后就是这个效果处理完毕，『这张卡的发动后，这次决斗中』部分的效果会立即适用，不占用时点。\ `18/1/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13616&request_locale=ja>`__
 
 -  | 对于永续魔法·陷阱卡等，处理时不在场上，效果完全不适用的场合，由于这些也是效果，也不会适用。
    | 例：
-   | 「惊天动地」的效果发动后，处理时不在场上的场合，这个回合仍可以从卡组把卡送去墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13632&keyword=&tag=-1>`__
-   | 「炼狱的消华」的①效果发动后，处理时不在场上的场合，这个回合自己仍可以把「狱火机」怪兽以外的怪兽召唤·特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15240&keyword=&tag=-1>`__
-   | P区域「魔界剧团-圆熟女主演」的效果发动后，处理时不在场上的场合，这个回合自己仍可以把「魔界剧团」P怪兽以外的怪兽特殊召唤。\ `18/6/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21937>`__
+   | 「`惊天动地`_」的效果发动后，处理时不在场上的场合，这个回合仍可以从卡组把卡送去墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13632&keyword=&tag=-1&request_locale=ja>`__
+   | 「`炼狱的消华`_」的①效果发动后，处理时不在场上的场合，这个回合自己仍可以把「`狱火机`_」怪兽以外的怪兽召唤·特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15240&keyword=&tag=-1&request_locale=ja>`__
+   | P区域「`魔界剧团-圆熟女主演`_」的效果发动后，处理时不在场上的场合，这个回合自己仍可以把「`魔界剧团`_」P怪兽以外的怪兽特殊召唤。\ `18/6/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21937&request_locale=ja>`__
 
 『发动的场合/発動した場合，...』
 ---------------------------------
 
-| 「花札卫-月花见-」「哥布林德伯格」等，这种描述也是效果，被无效的场合不适用。
+| 「`花札卫-月花见-`_」「`哥布林德伯格`_」等，这种描述也是效果，被无效的场合不适用。
 | 这种描述会占用时点，和前一段效果不是\ :ref:`同时处理`\ 。
 | 其他处理和上面\ 都能进行的描述_\ 一致。
 | 例：
-| 「哥布林德伯格」的效果把「元素英雄 天空侠」特殊召唤后，还要处理变成守备表示的效果，结果「元素英雄 天空侠」特殊召唤时发动的效果\ :ref:`错过时点`\ ，不能发动。
-| 「花札卫-月花见-」的①效果被「灰流丽」无效的场合，『这个效果发动的场合，下次的自己回合的抽卡阶段跳过』被无效，下次正常抽卡。\ `17/3/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9465&keyword=&tag=-1>`__
-| 「电子界量子龙」的②效果让融合怪兽等回到额外卡组，没有回到手卡的场合，『这个效果发动的场合，这张卡只再1次可以继续攻击』仍适用，可以再度攻击。\ `18/10/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22179&keyword=&tag=-1>`__
+| 「`哥布林德伯格`_」的效果把「`元素英雄 天空侠`_」特殊召唤后，还要处理变成守备表示的效果，结果「`元素英雄 天空侠`_」特殊召唤时发动的效果\ :ref:`错过时点`\ ，不能发动。
+| 「`花札卫-月花见-`_」的①效果被「`灰流丽`_」无效的场合，『这个效果发动的场合，下次的自己回合的抽卡阶段跳过』被无效，下次正常抽卡。\ `17/3/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9465&keyword=&tag=-1&request_locale=ja>`__
+| 「`电子界量子龙`_」的②效果让融合怪兽等回到额外卡组，没有回到手卡的场合，『这个效果发动的场合，这张卡只再1次可以继续攻击』仍适用，可以再度攻击。\ `18/10/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22179&keyword=&tag=-1&request_locale=ja>`__
 
-.. attention:: 「红莲魔龙之壶」「线性加农炮」「天魔神 恩莱兹」等『发动的场合，...』，原文是『発動する場合，...』，不能按照这段介绍处理，而是和『发动的回合，...』一样处理。换句话说，以示区别的话，「花札卫-月花见-」「哥布林德伯格」等其实应该翻译成『发动过的场合，...』。
+.. attention:: 「`红莲魔龙之壶`_」「`线性加农炮`_」「`天魔神 恩莱兹`_」等『发动的场合，...』，原文是『発動する場合，...』，不能按照这段介绍处理，而是和『发动的回合，...』一样处理。换句话说，以示区别的话，「`花札卫-月花见-`_」「`哥布林德伯格`_」等其实应该翻译成『发动过的场合，...』。
 
 特殊召唤誓约
 ============
 
--  | 「熔岩魔神」等『把这张卡特殊召唤的回合，...』
-   | 这种描述\ **不是效果**\ ，不会被无效。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5496>`__
-   | 同1回合只能选择1个行动进行，不能全部进行。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5496>`__
-   | 特殊召唤被无效的回合，这种描述不适用。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5496>`__
-   | 被「死者苏生」等效果特殊召唤的回合也适用。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5496>`__
+-  | 「`熔岩魔神`_」等『把这张卡特殊召唤的回合，...』
+   | 这种描述\ **不是效果**\ ，不会被无效。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5496&request_locale=ja>`__
+   | 同1回合只能选择1个行动进行，不能全部进行。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5496&request_locale=ja>`__
+   | 特殊召唤被无效的回合，这种描述不适用。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5496&request_locale=ja>`__
+   | 被「`死者苏生`_」等效果特殊召唤的回合也适用。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5496&request_locale=ja>`__
 
--  | 「超重武者 法螺贝-E」等『这个方法特殊召唤成功的回合，...』
+-  | 「`超重武者 法螺贝-E`_」等『这个方法特殊召唤成功的回合，...』
    | 特殊召唤成功时才适用，是\ **效果**\ 。\ `14/11/15 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11528>`__
    | 某些行动是否进行过并不限制这种卡能否特殊召唤。\ `15/7/17 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16442>`__
-   | 特殊召唤成功时怪兽已经在场上存在，「技能抽取」适用时会被无效。\ `15/2/13 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14890&keyword=&tag=-1>`__
+   | 特殊召唤成功时怪兽已经在场上存在，「`技能抽取`_」适用时会被无效。\ `15/2/13 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14890&keyword=&tag=-1>`__
+
+.. _`超重武者 拳-C`: https://ygocdb.com/?search=超重武者+拳-C
+.. _`堕天使 莫斯提马`: https://ygocdb.com/?search=堕天使+莫斯提马
+.. _`狱火机`: https://ygocdb.com/?search=狱火机
+.. _`元素英雄 天空侠`: https://ygocdb.com/?search=元素英雄+天空侠
+.. _`励辉士 入魔蝇王`: https://ygocdb.com/?search=励辉士+入魔蝇王
+.. _`熔岩魔神`: https://ygocdb.com/?search=熔岩魔神
+.. _`花札卫-月花见-`: https://ygocdb.com/?search=花札卫-月花见-
+.. _`恩底弥翁的仆从`: https://ygocdb.com/?search=恩底弥翁的仆从
+.. _`强欲而谦虚之壶`: https://ygocdb.com/?search=强欲而谦虚之壶
+.. _`炎舞-「开阳」`: https://ygocdb.com/?search=炎舞-「开阳」
+.. _`替罪羊`: https://ygocdb.com/?search=替罪羊
+.. _`幻变骚灵 多功能诈骗者`: https://ygocdb.com/?search=幻变骚灵+多功能诈骗者
+.. _`神之通告`: https://ygocdb.com/?search=神之通告
+.. _`闪刀姬-燎里`: https://ygocdb.com/?search=闪刀姬-燎里
+.. _`炼狱之骑士 多禄某`: https://ygocdb.com/?search=炼狱之骑士+多禄某
+.. _`线性加农炮`: https://ygocdb.com/?search=线性加农炮
+.. _`天魔神 恩莱兹`: https://ygocdb.com/?search=天魔神+恩莱兹
+.. _`冥帝从骑 哀多斯`: https://ygocdb.com/?search=冥帝从骑+哀多斯
+.. _`灵兽使的长老`: https://ygocdb.com/?search=灵兽使的长老
+.. _`风魔女-冰铃`: https://ygocdb.com/?search=风魔女-冰铃
+.. _`光与暗之龙`: https://ygocdb.com/?search=光与暗之龙
+.. _`毛绒动物·鼠`: https://ygocdb.com/?search=毛绒动物·鼠
+.. _`堕天使 路西法`: https://ygocdb.com/?search=堕天使+路西法
+.. _`混沌帝龙 -终焉的使者-`: https://ygocdb.com/?search=混沌帝龙+-终焉的使者-
+.. _`灵兽使 蕾拉`: https://ygocdb.com/?search=灵兽使+蕾拉
+.. _`娱乐伙伴 额外射手`: https://ygocdb.com/?search=娱乐伙伴+额外射手
+.. _`激流葬`: https://ygocdb.com/?search=激流葬
+.. _`天罚`: https://ygocdb.com/?search=天罚
+.. _`闪刀姬-雫空`: https://ygocdb.com/?search=闪刀姬-雫空
+.. _`拷问巨人`: https://ygocdb.com/?search=拷问巨人
+.. _`岔子`: https://ygocdb.com/?search=岔子
+.. _`惊天动地`: https://ygocdb.com/?search=惊天动地
+.. _`神之宣告`: https://ygocdb.com/?search=神之宣告
+.. _`魔界剧团`: https://ygocdb.com/?search=魔界剧团
+.. _`超重武者 法螺贝-E`: https://ygocdb.com/?search=超重武者+法螺贝-E
+.. _`审判女士`: https://ygocdb.com/?search=审判女士
+.. _`技能抽取`: https://ygocdb.com/?search=技能抽取
+.. _`灰流丽`: https://ygocdb.com/?search=灰流丽
+.. _`影蜥蜴`: https://ygocdb.com/?search=影蜥蜴
+.. _`战线复归`: https://ygocdb.com/?search=战线复归
+.. _`升阶魔法-七皇之剑`: https://ygocdb.com/?search=升阶魔法-七皇之剑
+.. _`红莲魔龙之壶`: https://ygocdb.com/?search=红莲魔龙之壶
+.. _`青色眼睛的激临`: https://ygocdb.com/?search=青色眼睛的激临
+.. _`堕天使 特斯卡特利波卡`: https://ygocdb.com/?search=堕天使+特斯卡特利波卡
+.. _`堕天使`: https://ygocdb.com/?search=堕天使
+.. _`天声的服从`: https://ygocdb.com/?search=天声的服从
+.. _`电子界量子龙`: https://ygocdb.com/?search=电子界量子龙
+.. _`哥布林德伯格`: https://ygocdb.com/?search=哥布林德伯格
+.. _`死者苏生`: https://ygocdb.com/?search=死者苏生
+.. _`No.11 巨眼`: https://ygocdb.com/?search=No.11+巨眼
+.. _`连续魔法`: https://ygocdb.com/?search=连续魔法
+.. _`雷帝家臣 密特拉`: https://ygocdb.com/?search=雷帝家臣+密特拉
+.. _`活死人的呼声`: https://ygocdb.com/?search=活死人的呼声
+.. _`融合`: https://ygocdb.com/?search=融合
+.. _`娱乐伙伴 秋千魔术家`: https://ygocdb.com/?search=娱乐伙伴+秋千魔术家
+.. _`雪花之光`: https://ygocdb.com/?search=雪花之光
+.. _`混沌幻影`: https://ygocdb.com/?search=混沌幻影
+.. _`妖精传姬-塔利娅`: https://ygocdb.com/?search=妖精传姬-塔利娅
+.. _`超重武者 魂-C`: https://ygocdb.com/?search=超重武者+魂-C
+.. _`魔轰神兽 尤尼科`: https://ygocdb.com/?search=魔轰神兽+尤尼科
+.. _`炼狱的消华`: https://ygocdb.com/?search=炼狱的消华
+.. _`真红眼融合`: https://ygocdb.com/?search=真红眼融合
+.. _`银河眼光波龙`: https://ygocdb.com/?search=银河眼光波龙
+.. _`魔界剧团-圆熟女主演`: https://ygocdb.com/?search=魔界剧团-圆熟女主演
+.. _`假面变色龙`: https://ygocdb.com/?search=假面变色龙
+.. _`高等纹章术`: https://ygocdb.com/?search=高等纹章术
+.. _`神影依 米德拉什`: https://ygocdb.com/?search=神影依+米德拉什
+.. _`帝王的烈旋`: https://ygocdb.com/?search=帝王的烈旋
