@@ -152,7 +152,7 @@
 | 回合玩家用「`星态龙`_」攻击装备了「`重力炮`_」的怪兽时，无效和不受影响是同一优先级的永续效果，结果回合玩家的效果先适用，「`星态龙`_」不受「`重力炮`_」的效果影响，不会被无效。
 | 对方场上存在「`破戒蛮龙-破坏龙`_」「`龙破坏之剑士-破坏剑士`_」，在对方回合发动「`奇妙XYZ`_」把「`DDD 双晓王 末法神`_」攻击表示X召唤时，先把对方场上的卡无效，不会变成守备表示。
 | 对方场上存在2只「`命运英雄 血魔-D`_」，发动「`精神操作`_」得到1只控制权时，由于另1只的效果已经适用了，后得到的这只被无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9049&request_locale=ja>`__
-| 「`魔兽犀战士`_」存在时，特殊召唤「`彼岸`_」怪兽的场合，不会被自身效果破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9054&request_locale=ja>`__
+| 「`魔犀族战士`_」存在时，特殊召唤「`彼岸`_」怪兽的场合，不会被自身效果破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9054&request_locale=ja>`__
 
 .. attention:: 虽然上面用了「`技能抽取`_」等不入连锁的魔法·陷阱卡的效果举例，这些本身并不是永续效果，只有怪兽效果才有分类。
 
@@ -269,7 +269,7 @@
 .. _`辉龙星-蚣蝮`: https://ygocdb.com/?search=辉龙星-蚣蝮
 .. _`永远的淑女 贝阿特丽切`: https://ygocdb.com/?search=永远的淑女+贝阿特丽切
 .. _`影灵衣的降魔镜`: https://ygocdb.com/?search=影灵衣的降魔镜
-.. _`魔兽犀战士`: https://ygocdb.com/?search=魔兽犀战士
+.. _`魔犀族战士`: https://ygocdb.com/?search=魔犀族战士
 .. _`心眼的女神`: https://ygocdb.com/?search=心眼的女神
 .. _`非常食`: https://ygocdb.com/?search=非常食
 .. _`暗黑女武神`: https://ygocdb.com/?search=暗黑女武神
