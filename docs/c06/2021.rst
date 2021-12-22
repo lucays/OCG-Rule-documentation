@@ -3330,7 +3330,7 @@
 | 数据库：
 | 对方场上存在多只「`人偶城堡`_」，我方怪兽也必须用可以攻击的怪兽攻击。这个场合，对方来选我方攻击哪1只「`人偶城堡`_」。这个攻击宣言时，这只「`人偶城堡`_」可以发动③效果，把对象怪兽特殊召唤，这时由于还存在其他的「`人偶城堡`_」，不进行攻击对象转移的处理。这个效果处理后，发生战斗步骤的卷回。\ `21/12/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23475&keyword=&tag=-1&request_locale=ja>`_
 | 「`战吼斗士·温托`_」自身和对方怪兽进行战斗的伤害计算时，支付800基本分发动①效果时，对方连锁发动「`现金返还`_」，结果「`战吼斗士·温托`_」回到卡组，战斗终止，没有实际进行伤害计算的状况，主要阶段2可以发动「`战场的惨剧`_」的①效果，结束阶段不能发动其②效果。\ `21/12/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23474&keyword=&tag=-1&request_locale=ja>`_
-| 「`编号系觉醒`_」的『从额外卡组选4只「`No.`_」X怪兽』效果处理时，可以选「`未来No.0 未来皇 霍普`_」（当作阶级1）。这个效果无论哪个处理都不能选「`未来No.0 未来皇 霍普`_」。\ `21/12/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23473&keyword=&tag=-1&request_locale=ja>`_
+| 「`编号系觉醒`_」的『从额外卡组选4只「`No.`_」X怪兽』效果处理时，可以选「`未来No.0 未来皇 霍普`_」（当作阶级1）。这个效果无论哪个处理都不能选「`No.XX 无限之达克霍普`_」。\ `21/12/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23473&keyword=&tag=-1&request_locale=ja>`_
 
 12/18
 --------
@@ -5249,7 +5249,6 @@
 .. _`娱乐伙伴 宝剑鱼`: https://ygocdb.com/?search=娱乐伙伴+宝剑鱼
 .. _`破坏龙 甘多拉-烈光闪`: https://ygocdb.com/?search=破坏龙+甘多拉-烈光闪
 .. _`召唤神 艾克佐迪亚`: https://ygocdb.com/?search=召唤神+艾克佐迪亚
-
 .. _`No.4 猛毒刺胞 隐形水母怪`: https://ygocdb.com/?search=No.4+猛毒刺胞+隐形水母怪
 .. _`魔术师的右手`: https://ygocdb.com/?search=魔术师的右手
 .. _`炼装勇士·钢人`: https://ygocdb.com/?search=炼装勇士·钢人
@@ -5279,3 +5278,4 @@
 .. _`魔术师之杖`: https://ygocdb.com/?search=魔术师之杖
 .. _`娱乐伙伴 天空魔术家`: https://ygocdb.com/?search=娱乐伙伴+天空魔术家
 .. _`铠皇龙-电子暗黑终结龙`: https://ygocdb.com/?search=铠皇龙-电子暗黑终结龙
+.. _`No.XX 无限之达克霍普`: https://ygocdb.com/?search=No.XX+无限之达克霍普
