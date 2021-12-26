@@ -105,15 +105,20 @@ def add_cdb_link(texts: str) -> str:
                     if is_card and not name.endswith('_」'):
                         card_names.append(name)
                     card_name = []
+
+    old_card_link_names = set(re.findall('.. _`(.*?)`: ', texts))
     tail_texts = set()
     names = {}
     for card_name in set(card_names):
         name = ' '.join(card_name[1:-1].strip().split())
         new_name = f'「`{name}`_」'
         names[card_name] = new_name
+        if name in old_card_link_names:
+            continue
         tail_texts.add(f'.. _`{name}`: https://ygocdb.com/?search={name.replace(" ", "+")}\n')
     if not names:
         return texts
+
     new_texts = []
     part_texts = []
     for line in texts.split('\n'):
@@ -128,7 +133,7 @@ def add_cdb_link(texts: str) -> str:
             continue
         else:
             part_texts.append(line)
-    if part_texts:
+    if [i.strip() for i in part_texts if i.strip()]:
         part_texts = ''.join(part_texts)
         for old, new in names.items():
             part_texts = part_texts.replace(old, new)
