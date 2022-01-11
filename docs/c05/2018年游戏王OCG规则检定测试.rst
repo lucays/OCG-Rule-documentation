@@ -40,7 +40,7 @@
 
 4.  | 以下效果能在伤害步骤发动的是？
     | A. 「`灰流丽`_」
-    | B. 「`屋敷童子`_」
+    | B. 「`屋敷童`_」
     | C. 「`幽鬼兔`_」
     | D. 「`浮幽樱`_」
     | E. 以上都不能
@@ -465,7 +465,7 @@
 .. _`我我我首领`: https://ygocdb.com/?search=我我我首领
 .. _`相互碰撞的灵魂`: https://ygocdb.com/?search=相互碰撞的灵魂
 .. _`重编码存活`: https://ygocdb.com/?search=重编码存活
-.. _`屋敷童子`: https://ygocdb.com/?search=屋敷童子
+.. _`屋敷童`: https://ygocdb.com/?search=屋敷童
 .. _`漫画英雄 亚瑟王`: https://ygocdb.com/?search=漫画英雄+亚瑟王
 .. _`淘气仙星·那耳姬丝`: https://ygocdb.com/?search=淘气仙星·那耳姬丝
 .. _`亚马逊的叫声`: https://ygocdb.com/?search=亚马逊的叫声
