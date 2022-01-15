@@ -21,6 +21,76 @@
 | 我方发动「`三战之才`_」，得到对方「`幽鬼兔`_」的控制权后，对方发动「`No.76 谐调光师 渐变天乐斗士`_」③效果时，我方连锁发动这只「`幽鬼兔`_」①效果的场合，不能破坏这只「`No.76 谐调光师 渐变天乐斗士`_」。
 | 「`转生炎兽 独角兔`_」解放自身以「`马格努姆弹丸龙`_」为对象发动①效果时，如果场上没有其他怪兽，不能连锁发动「`马格努姆弹丸龙`_」的①效果。
 
+1/12
+-------
+
+| 邮件：
+| 自己卡组只有5张卡从上到下按顺序是ABCDE的状况，自己发动「`天变地异`_」，把卡组顺序改成EDCBA后，对方发动「`现世与冥界的逆转`_」的场合，放置到墓地卡的顺序是ABCDE。
+| 对方的「`寄生虫 帕拉赛德`_」反转后发动效果，向上混入我方卡组后，我方卡组上方5张卡按顺序是ABCDE（其中B是这只「`寄生虫 帕拉赛德`_」）的状况，对方发动「`现世与冥界的逆转`_」的场合，这只「`寄生虫 帕拉赛德`_」放置到对方墓地的最上面。
+| 1组连锁上自己场上的表侧表示的多只炎属性怪兽在不同时点被对方的效果破坏的场合，「`炎天祸 桑伯恩`_」的①效果发动时，不需要告知对方这个效果是对应哪只怪兽破坏来发动，而是在效果处理时，自身特殊召唤之后，从那些怪兽中选1只，来给与对方伤害。
+| 「`鲜花女男爵`_」发动②效果后的回合内，因「`机巧蹄-天迦久御雷`_」的②效果变成装备卡，又被「`机巧蹄-天迦久御雷`_」的③效果特殊召唤的场合，这个回合内仍然不能再次发动②效果，但是下个回合可以发动②效果。
+| 「`鲜花女男爵`_」发动②效果后的回合内，因「`银河眼光子龙`_」的②效果被一时除外后回到场上，这个回合内仍然不能再次发动②效果，但是下个回合可以发动②效果。
+
+| 裁定变更：
+| 对方场上存在「`真艾克佐迪亚`_」和4种类「`被封印`_」通常怪兽，自己场上只有1张「`访问码语者`_」的状况，这只「`访问码语者`_」把自身除外发动②效果时，我方立即决斗胜利。
+
+| wiki:
+| 「`无限起动要塞 百万吨百臂狂风`_」②效果的处理时，自己那只对象怪兽不在墓地存在的场合，这个效果完全不适用；对方场上那张卡离开对方场上的场合，只把自己墓地那只X怪兽特殊召唤。\ `22/1/12 <https://yugioh-wiki.net/index.php?%A1%D4%CC%B5%B8%C2%B5%AF%C6%B0%CD%D7%BA%C9%A5%E1%A5%AC%A5%C8%A5%F3%A5%B2%A5%A4%A5%EB%A1%D5#faq>`_
+| 「`无限起动要塞 百万吨百臂狂风`_」以自己墓地1只X怪兽和对方场上1只不受效果影响的怪兽发动②效果的场合，只把墓地的那只X怪兽特殊召唤。\ `22/1/12 <https://yugioh-wiki.net/index.php?%A1%D4%CC%B5%B8%C2%B5%AF%C6%B0%CD%D7%BA%C9%A5%E1%A5%AC%A5%C8%A5%F3%A5%B2%A5%A4%A5%EB%A1%D5#faq>`_
+
+1/14
+-------
+
+| 邮件：
+| 场上存在「`王家长眠之谷`_」，我方场上存在3种「`冰结界`_」S怪兽，对方手卡·场上·墓地都存在卡片的状况，我方不能发动「`三叉龙的鼓动`_」。
+| 我方发动了「`愚蠢的重葬`_」，这个回合我方不能盖放魔法·陷阱卡的状况，对方可以对我方场上也当做陷阱卡使用的陷阱怪兽发动「`月之书`_」。我方不能以对方场上也当做陷阱卡使用的陷阱怪兽为对象发动「`月之书`_」。
+
+| 数据库：
+| 「`席取-六双丸`_」的①效果处理时，可以适用「`No.67 平行骰子天堂锤手`_」的②效果把骰子数目改成7。这个场合，这个效果完全不适用，「`席取-六双丸`_」也不会送去墓地。\ `22/1/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23527&keyword=&tag=-1&request_locale=ja>`_
+| 双方额外卡组都没有卡，我方场上存在融合怪兽是「`捕食植物 犀角龙`_」，对方场上存在从额外卡组特殊召唤的「`鲜花女男爵`_」的状况，也可以对这2只怪兽发动「`烙印丧失`_」。这2只怪兽回到持有者的额外卡组，结束阶段『双方各自可以从自身的额外卡组把以「`阿不思的落胤`_」为融合素材的1只融合怪兽特殊召唤』处理仍会正常适用。\ `22/1/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23535&keyword=&tag=-1&request_locale=ja>`_
+| 作为「`烙印丧失`_」效果对象的2只怪兽，在这个效果处理时有1只不在怪兽区域存在的场合，剩下那只仍会回到持有者卡组。另外，即使都不在怪兽区域存在，『双方各自可以从自身的额外卡组把以「`阿不思的落胤`_」为融合素材的1只融合怪兽特殊召唤』处理仍会适用。\ `22/1/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23534&keyword=&tag=-1&request_locale=ja>`_
+| 场上存在「`不死世界`_」的状况，发动P区域「`捕食植物 土瓶草蟾蜍`_」的①效果，把P区域的「`捕食植物 黏菖蒲螳螂`_」当作融合素材使用的场合，「`捕食植物 黏菖蒲螳螂`_」的种族当作植物族使用。\ `22/1/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23533&keyword=&tag=-1&request_locale=ja>`_
+| 我方的怪兽区域存在2只「`兽带斗神`_」怪兽，分别装备了1张「`兽带斗神“跃鱼”霹雳一`_」，从而分别得到了其②效果的状况，由于「`兽带斗神“跃鱼”霹雳一`_」的②效果1回合只能使用1次，这个效果无论是「`兽带斗神“跃鱼”霹雳一`_」自身发动，还是装备的怪兽发动，都当作使用了1次「`兽带斗神“跃鱼”霹雳一`_」的②效果，因此1个回合内只能有1只怪兽发动「`兽带斗神“跃鱼”霹雳一`_」文本记载的②效果。\ `22/1/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23532&keyword=&tag=-1&request_locale=ja>`_
+| 「`捕食霸种融合`_」的①效果处理时，也可以适用P区域「`捕食植物 黏菖蒲螳螂`_」的①效果。那个场合，可以用自己怪兽区域·对方怪兽区域·自己P区域的怪兽作为融合素材进行融合召唤。但是，自己怪兽区域·自己的P区域的暗属性怪兽必须要有2只以上作为融合素材。\ `22/1/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23531&keyword=&tag=-1&request_locale=ja>`_
+| 「`反转壶`_」的①效果处理时，场上没有其他怪兽，或者只有连接怪兽这样不能把任何怪兽变成里侧守备表示的场合，这个效果完全不适用。另外，只要有1只怪兽被变成里侧守备表示，就会进行后续的处理。\ `22/1/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23530&keyword=&tag=-1&request_locale=ja>`_
+| 「`异色眼灵摆读龙`_」的②效果处理时，自身变成里侧守备表示的场合，由于还在怪兽区域，这个效果仍正常适用，表侧表示放置到我方的P区域，并把上一个连锁块的效果无效。\ `22/1/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23529&keyword=&tag=-1&request_locale=ja>`_
+| 尽管「`深渊龙 白界转生龙`_」自身记述的出场方法不是融合召唤，因这个方法送去墓地的怪兽也是融合素材，①效果会正常适用可以向怪兽作出多次攻击。\ `22/1/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23528&keyword=&tag=-1&request_locale=ja>`_
+| 「`轨迹之魔术师`_」的①效果适用后，通过「`智天之神星龙`_」「`灵摆返场`_」「`魂之灵摆`_」「`额外灵摆`_」的效果成功P召唤的场合，『这个回合自己只要P召唤不成功，不能把怪兽的效果发动，自己的P区域的卡的效果无效化』效果就不再适用。\ `22/1/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23526&keyword=&tag=-1&request_locale=ja>`_
+| 相同攻击力的怪兽进行战斗的场合，在伤害计算时可以决定是否适用「`圆盘斗技场 兽带斗神环形擂台`_」的②效果。适用的场合，我方怪兽不会被破坏（伤害计算后再从卡组把1张「`兽带斗神`_」卡或「`无尽机关 银星系统`_」送去墓地）。这个伤害步骤结束时，如果对方怪兽被战斗破坏，可以发动「`圆盘斗技场 兽带斗神环形擂台`_」的③效果。这样，「`圆盘斗技场 兽带斗神环形擂台`_」的②③效果在同1次战斗中可以都适用。\ `22/1/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23525&keyword=&tag=-1&request_locale=ja>`_
+| 结束阶段进行「`烙印丧失`_」的『双方各自可以从自身的额外卡组把以「`阿不思的落胤`_」为融合素材的1只融合怪兽特殊召唤』处理时，由之前发动这个效果的玩家在可以进行效果的发动·或处理的时点来进行这个处理。这个效果处理时，先是回合玩家选择是否特殊召唤怪兽，特殊召唤怪兽的场合，非回合玩家确认了特殊召唤的怪兽后，再选择是否进行特殊召唤。双方都进行特殊召唤的场合，这2只怪兽当作在同一时点特殊召唤的怪兽。\ `22/1/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23524&keyword=&tag=-1&request_locale=ja>`_
+| 在连锁3以上发动「`惊心供应链`_」时，才能连锁发动「`灰流丽`_」的①效果。\ `22/1/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23523&keyword=&tag=-1&request_locale=ja>`_
+| 「`兽带斗神`_」怪兽的效果被无效的场合，其用自身效果装备的怪兽卡会被破坏，因其他卡的效果装备的怪兽卡不会被破坏。例如，「`兽带斗神“公爵”竺域星`_」用自身①效果把「`兽带斗神“百合”胃宿二`_」装备后，自身效果被无效的场合，当作装备卡的「`兽带斗神“百合”胃宿二`_」会被破坏。而「`兽带斗神起身`_」的效果把「`兽带斗神“公牛”毕宿一`_」从墓地特殊召唤并从手卡把「`兽带斗神“王者”轩辕十四`_」装备的状况，即使那只「`兽带斗神“公牛”毕宿一`_」的效果被无效，当作装备卡的「`兽带斗神“王者”轩辕十四`_」也不会被破坏。\ `22/1/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23522&keyword=&tag=-1&request_locale=ja>`_
+| 对方场上存在「`暗钢龙 暗钢`_」和「`暗钢龙 暗钢`_」的效果特殊召唤的，适用了『从场上离开的场合回到持有者卡组最下面』效果的怪兽，以这2只怪兽为对象发动「`典当的魔物账簿`_」的场合，「`暗钢龙 暗钢`_」直到结束阶段除外，另1只怪兽回到持有者的卡组最下面。另外，无论哪只怪兽都是因这个效果而从场上离开，因此对方回复2000基本分。\ `22/1/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23521&keyword=&tag=-1&request_locale=ja>`_
+| 「`额外灵摆`_」的①效果适用后，这个回合就不能再发动第2张「`额外灵摆`_」。即使用这个效果进行的P召唤被无效也是如此。\ `22/1/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23520&keyword=&tag=-1&request_locale=ja>`_
+| 「`异色眼灵摆读龙`_」是『用仪式召唤以及从手卡的灵摆召唤才能特殊召唤』，因此，仪式召唤这张卡的场合，只要仪式魔法卡的效果允许，也可以从手卡以外的地方来特殊召唤。例如，「`异色眼降临`_」的效果可以从墓地把这张卡仪式召唤，「`高尚仪式术`_」的效果可以从卡组把这张卡仪式召唤。仪式召唤的这张卡不当做P召唤的怪兽。而要P召唤这张卡的场合，在可以P召唤等级7的怪兽的状况可以从手卡把这张卡P召唤（额外卡组表侧表示的这张卡不能被P召唤），这个场合不当做仪式召唤的怪兽。基本上只能用这两种方式特殊召唤「`异色眼灵摆读龙`_」，但也可以用类似于「`青天霹雳`_」这样的『无视召唤条件特殊召唤』的效果，把手卡·卡组的「`异色眼灵摆读龙`_」，以及用这两种方法特殊召唤后（正规出场后），送去墓地·表侧表示加入额外卡组的「`异色眼灵摆读龙`_」特殊召唤。\ `22/1/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23519&keyword=&tag=-1&request_locale=ja>`_
+
+1/15
+-------
+
+| 邮件：
+| 我方把怪兽P召唤后，再发动「`轨迹之魔术师`_」①效果的场合，『这个回合自己只要P召唤不成功，不能把怪兽的效果发动，自己的P区域的卡的效果无效化』效果仍然适用。
+
+| 数据库：
+| 「`席取-六双丸`_」的①效果是在怪兽区域发动的诱发效果，在对方战斗阶段的开始步骤会强制发动，在额外怪兽区域存在的状况也会发动。这个效果处理时，「`席取-六双丸`_」不在主要怪兽区域存在的场合，效果完全不适用，也不会掷骰子。这个效果处理时，「`席取-六双丸`_」往出现的数目字所对应的区域移动1次，而不是按出现数目移动那个次数。只在这个效果的处理让「`席取-六双丸`_」的X素材数量从6以下变成7以上时，自己决斗胜利，其他方法让它的X素材变成7以上的场合不会胜利。这个效果处理时，要移动到的那个区域存在的怪兽不受效果影响，或者那个区域不能使用的场合，「`席取-六双丸`_」也会送去墓地。\ `22/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17158&request_locale=ja>`_
+| 「`轨迹之魔术师`_」①效果的『这个回合自己只要P召唤不成功，不能把怪兽的效果发动，自己的P区域的卡的效果无效化』部分是作为这个效果的处理而适用。发动这张卡的①效果后，这个回合结束的场合，或者自己成功进行了P召唤的场合，『这个回合自己只要P召唤不成功，不能把怪兽的效果发动，自己的P区域的卡的效果无效化』才会不再适用。\ `22/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17159&request_locale=ja>`_
+| 「`反转壶`_」的①效果处理时，『从手卡把魔法·陷阱卡盖放』这样盖放的卡不需要给对方确认。\ `22/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17142&request_locale=ja>`_
+| 通过仪式召唤或者从手卡的P召唤都可以特殊召唤「`异色眼灵摆读龙`_」，都是其正规出场方式。\ `22/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17145&request_locale=ja>`_
+| 「`深渊龙 白界转生龙`_」通过『●』的方法作为特殊召唤的手续送去墓地的怪兽也当作融合素材使用。（因此不能把场上的「`深渊龙 白界转生龙`_」送去墓地来特殊召唤新的「`深渊龙 白界转生龙`_」）\ `22/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17146&request_locale=ja>`_
+| 「`惊心供应链`_」在连锁3以上发动的场合，满足条件的『●』的处理全部会进行。多个『●』的处理进行的场合，按照文本顺序依次处理，都不是同时进行。其中任意1个『●』的处理不能进行的场合，后续处理仍会进行。\ `22/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17179&request_locale=ja>`_
+| 和「`鬼青蛙`_」的③效果等处理类似，「`额外灵摆`_」的①效果处理时不会立即进行P召唤，而是在这个效果处理后，自己主要阶段可以分别进行通常的P召唤和用这个效果进行的P召唤，此外先进行哪次P召唤都可以（在进行P召唤时宣言是通常的P召唤还是用这个效果进行的P召唤即可）。\ `22/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17163&request_locale=ja>`_
+| 「`无尽机关 银星系统`_」的②效果处理时，作为对象的2张卡之中任意1张不在墓地存在的场合，这个效果完全不适用。\ `22/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17165&request_locale=ja>`_ 「`凶导剧作术`_」的②效果也是如此。\ `22/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17184&request_locale=ja>`_
+| 「`不朽之龙`_」的①效果处理时，自身不在怪兽区域存在的场合，这个效果完全不适用，不会从卡组把1只不死族怪兽送去墓地。另外，这个效果送去墓地的怪兽的等级必须和这张卡的原本等级不同，必须和在怪兽区域的这张卡当前的等级不同。\ `22/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17152&request_locale=ja>`_
+| 「`英豪冠军 辉剑王`_」的②效果在主要阶段2以及不能进行战斗阶段的回合不能发动。\ `22/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17155&request_locale=ja>`_
+| 「`彩排`_」的①效果在「`音响战士`_」P怪兽卡往P区域发动之际不适用，因为这不是『「`音响战士`_」卡持有的效果』的发动。\ `22/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17173&request_locale=ja>`_ 「`音响放大器`_」的①效果也是如此。\ `22/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11610&request_locale=ja>`_
+| 「`不死的祟灵`_」的①效果处理时，如果不能特殊召唤衍生物，这个效果完全不适用，不会从墓地除外不死族怪兽。\ `22/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17187&request_locale=ja>`_
+| 「`外法之骑士`_」的②效果处理时，作为对象的2张卡其中1张不在场上存在的场合，自身控制权仍然转移给对方，剩下那张作为对象的卡回到持有者手卡；作为对象的2张卡都不在场上存在的场合，自身控制权仍然转移给对方，这个效果处理完毕；自身不在自己场上存在的场合，这个效果不适用；自身在自己场上里侧表示存在的场合，以里侧表示的状态把控制权转移给对方，进行后续的处理。\ `22/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17135&request_locale=ja>`_
+| 「`能朋克 鹿角仙音`_」的①效果处理时，自身或者作为cost给对方观看的那只怪兽不在手卡存在的场合，这个效果完全不适用。\ `22/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17134&request_locale=ja>`_
+| 「`恐啡肽狂龙·狂飙霸王龙`_」的①效果适用时即使是不受怪兽效果影响的怪兽也不能发动效果。\ `22/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17149&request_locale=ja>`_
+| 「`恐啡肽狂龙·狂飙霸王龙`_」的③效果这样『被破坏』发动但没有记述具体场所的效果，是从在被破坏后最初送去的场所发动的效果。\ `22/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17149&request_locale=ja>`_ 「`月天气 彩虹`_」的③效果\ `22/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17161&request_locale=ja>`_ 怪兽区域「`娱乐伙伴 粗鲁先生`_」的①效果\ `22/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17113&request_locale=ja>`_ 等也是如此。
+| P区域「`音响战士 摇滚乐队`_」的②效果处理时，对方攻击怪兽不在怪兽区域存在或者这张卡不在P区域存在的场合，这个效果不适用，不会破坏任何卡片。\ `22/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17153&request_locale=ja>`_
+| 「`光之法理灵媒`_」的①效果『必须向这张卡作出攻击』是影响怪兽的效果，不受影响的怪兽可以不攻击这张卡。\ `22/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5083&request_locale=ja>`_
+| P区域「`音响战士 吉他乐手`_」的①效果处理时，作为对象的卡或者自身不在场上存在的场合，这个效果不适用，不会有卡片回到手卡。\ `22/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17132&request_locale=ja>`_
+
 .. _`转生炎兽 独角兔`: https://ygocdb.com/?search=转生炎兽+独角兔
 .. _`光之护封剑`: https://ygocdb.com/?search=光之护封剑
 .. _`圣夜的煌龙`: https://ygocdb.com/?search=圣夜的煌龙
@@ -29,3 +99,68 @@
 .. _`三战之才`: https://ygocdb.com/?search=三战之才
 .. _`No.76 谐调光师 渐变天乐斗士`: https://ygocdb.com/?search=No.76+谐调光师+渐变天乐斗士
 .. _`幽鬼兔`: https://ygocdb.com/?search=幽鬼兔
+.. _`访问码语者`: https://ygocdb.com/?search=访问码语者
+.. _`真艾克佐迪亚`: https://ygocdb.com/?search=真艾克佐迪亚
+.. _`鲜花女男爵`: https://ygocdb.com/?search=鲜花女男爵
+.. _`寄生虫 帕拉赛德`: https://ygocdb.com/?search=寄生虫+帕拉赛德
+.. _`音响战士 吉他乐手`: https://ygocdb.com/?search=音响战士+吉他乐手
+.. _`No.67 平行骰子天堂锤手`: https://ygocdb.com/?search=No.67+平行骰子天堂锤手
+.. _`魂之灵摆`: https://ygocdb.com/?search=魂之灵摆
+.. _`炎天祸 桑伯恩`: https://ygocdb.com/?search=炎天祸+桑伯恩
+.. _`异色眼降临`: https://ygocdb.com/?search=异色眼降临
+.. _`灵摆返场`: https://ygocdb.com/?search=灵摆返场
+.. _`兽带斗神“公牛”毕宿一`: https://ygocdb.com/?search=兽带斗神“公牛”毕宿一
+.. _`深渊龙 白界转生龙`: https://ygocdb.com/?search=深渊龙+白界转生龙
+.. _`暗钢龙 暗钢`: https://ygocdb.com/?search=暗钢龙+暗钢
+.. _`冰结界`: https://ygocdb.com/?search=冰结界
+.. _`王家长眠之谷`: https://ygocdb.com/?search=王家长眠之谷
+.. _`兽带斗神“公爵”竺域星`: https://ygocdb.com/?search=兽带斗神“公爵”竺域星
+.. _`典当的魔物账簿`: https://ygocdb.com/?search=典当的魔物账簿
+.. _`银河眼光子龙`: https://ygocdb.com/?search=银河眼光子龙
+.. _`惊心供应链`: https://ygocdb.com/?search=惊心供应链
+.. _`兽带斗神起身`: https://ygocdb.com/?search=兽带斗神起身
+.. _`能朋克 鹿角仙音`: https://ygocdb.com/?search=能朋克+鹿角仙音
+.. _`光之法理灵媒`: https://ygocdb.com/?search=光之法理灵媒
+.. _`天变地异`: https://ygocdb.com/?search=天变地异
+.. _`灰流丽`: https://ygocdb.com/?search=灰流丽
+.. _`彩排`: https://ygocdb.com/?search=彩排
+.. _`捕食植物 黏菖蒲螳螂`: https://ygocdb.com/?search=捕食植物+黏菖蒲螳螂
+.. _`无限起动要塞 百万吨百臂狂风`: https://ygocdb.com/?search=无限起动要塞+百万吨百臂狂风
+.. _`智天之神星龙`: https://ygocdb.com/?search=智天之神星龙
+.. _`席取-六双丸`: https://ygocdb.com/?search=席取-六双丸
+.. _`月之书`: https://ygocdb.com/?search=月之书
+.. _`异色眼灵摆读龙`: https://ygocdb.com/?search=异色眼灵摆读龙
+.. _`月天气 彩虹`: https://ygocdb.com/?search=月天气+彩虹
+.. _`不死世界`: https://ygocdb.com/?search=不死世界
+.. _`轨迹之魔术师`: https://ygocdb.com/?search=轨迹之魔术师
+.. _`三叉龙的鼓动`: https://ygocdb.com/?search=三叉龙的鼓动
+.. _`兽带斗神“百合”胃宿二`: https://ygocdb.com/?search=兽带斗神“百合”胃宿二
+.. _`额外灵摆`: https://ygocdb.com/?search=额外灵摆
+.. _`愚蠢的重葬`: https://ygocdb.com/?search=愚蠢的重葬
+.. _`高尚仪式术`: https://ygocdb.com/?search=高尚仪式术
+.. _`青天霹雳`: https://ygocdb.com/?search=青天霹雳
+.. _`圆盘斗技场 兽带斗神环形擂台`: https://ygocdb.com/?search=圆盘斗技场+兽带斗神环形擂台
+.. _`烙印丧失`: https://ygocdb.com/?search=烙印丧失
+.. _`现世与冥界的逆转`: https://ygocdb.com/?search=现世与冥界的逆转
+.. _`捕食霸种融合`: https://ygocdb.com/?search=捕食霸种融合
+.. _`机巧蹄-天迦久御雷`: https://ygocdb.com/?search=机巧蹄-天迦久御雷
+.. _`音响战士 摇滚乐队`: https://ygocdb.com/?search=音响战士+摇滚乐队
+.. _`被封印`: https://ygocdb.com/?search=被封印
+.. _`兽带斗神“王者”轩辕十四`: https://ygocdb.com/?search=兽带斗神“王者”轩辕十四
+.. _`兽带斗神`: https://ygocdb.com/?search=兽带斗神
+.. _`阿不思的落胤`: https://ygocdb.com/?search=阿不思的落胤
+.. _`外法之骑士`: https://ygocdb.com/?search=外法之骑士
+.. _`恐啡肽狂龙·狂飙霸王龙`: https://ygocdb.com/?search=恐啡肽狂龙·狂飙霸王龙
+.. _`捕食植物 土瓶草蟾蜍`: https://ygocdb.com/?search=捕食植物+土瓶草蟾蜍
+.. _`捕食植物 犀角龙`: https://ygocdb.com/?search=捕食植物+犀角龙
+.. _`不朽之龙`: https://ygocdb.com/?search=不朽之龙
+.. _`鬼青蛙`: https://ygocdb.com/?search=鬼青蛙
+.. _`娱乐伙伴 粗鲁先生`: https://ygocdb.com/?search=娱乐伙伴+粗鲁先生
+.. _`凶导剧作术`: https://ygocdb.com/?search=凶导剧作术
+.. _`不死的祟灵`: https://ygocdb.com/?search=不死的祟灵
+.. _`兽带斗神“跃鱼”霹雳一`: https://ygocdb.com/?search=兽带斗神“跃鱼”霹雳一
+.. _`音响战士`: https://ygocdb.com/?search=音响战士
+.. _`音响放大器`: https://ygocdb.com/?search=音响放大器
+.. _`英豪冠军 辉剑王`: https://ygocdb.com/?search=英豪冠军+辉剑王
+.. _`反转壶`: https://ygocdb.com/?search=反转壶
+.. _`无尽机关 银星系统`: https://ygocdb.com/?search=无尽机关+银星系统
