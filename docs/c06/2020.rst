@@ -2865,7 +2865,7 @@
 | 「`交错之魂`_」的①效果把对方场上的怪兽解放作上级召唤后，自己把幻神兽族怪兽以外的魔法·陷阱·怪兽的效果发动被无效的场合，还能再发动1次。\ `20/12/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=15838&request_locale=ja>`__
 | 自己把「`千年眼幻想师`_」的①效果发动后，对方连锁发动「`月之书`_」把「`眼纳祭神`_」融合怪兽盖放，自己场上不存在表侧表示的「`眼纳祭神`_」融合怪兽或「`纳祭之魔`_」的场合，由于可以被选的卡不存在，这个效果不适用。\ `20/12/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10768&keyword=&tag=-1&request_locale=ja>`__
 | 「`超电导波 雷击炮`_」把陷阱怪兽破坏的场合，由于送去墓地后是陷阱卡，不会计入抽卡数量。\ `20/12/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23160&keyword=&tag=-1&request_locale=ja>`__
-| 「`千年的血族`_」的②效果处理时，作为对象的怪兽不在对方墓地存在的场合，对方依然可以从卡组选1只攻击力是？以外的怪兽。选的场合加入手卡，没选的场合不能特殊召唤怪兽，这个效果处理完毕。\ `20/12/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23157&keyword=&tag=-1&request_locale=ja>`__
+| 「`千年的血族`_」的②效果处理时，作为对象的怪兽不在对方墓地存在的场合，对方依然可以从卡组选1只攻击力是『？』以外的怪兽。选的场合加入手卡，没选的场合不能特殊召唤怪兽，这个效果处理完毕。\ `20/12/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23157&keyword=&tag=-1&request_locale=ja>`__
 | 不能对已经被无效的怪兽发动「`神手粉碎拳`_」。\ `20/12/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23159&keyword=&tag=-1&request_locale=ja>`__
 
 12/21
