@@ -1481,3 +1481,6 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 .. _`梦幻崩影·哥布林`: https://ygocdb.com/?search=梦幻崩影·哥布林
 .. _`真红眼溯刻龙`: https://ygocdb.com/?search=真红眼溯刻龙
 .. _`雷帝家臣 密特拉`: https://ygocdb.com/?search=雷帝家臣+密特拉
+.. _`星圣·北河三`: https://ygocdb.com/?search=星圣·北河三
+.. _`星圣·草帽星系`: https://ygocdb.com/?search=星圣·草帽星系
+.. _`神之警告`: https://ygocdb.com/?search=神之警告
