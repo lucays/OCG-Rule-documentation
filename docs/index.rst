@@ -58,7 +58,7 @@ Welcome to ocg-rule's documentation!
 ------------
 
 | 直接在有问题的网页底部评论即可。
-| 如果对规则有一定了解且有兴趣，可以加入qq群：768881279（暂时闭群中）
+| 如果对规则有一定了解且有兴趣，可以加入qq群：768881279
 | 或发邮件至我的邮箱：\ lucahhai@gmail.com\ /\ lucahhai@foxmail.com
 
 .. _其他贡献者:
@@ -75,6 +75,12 @@ Welcome to ocg-rule's documentation!
 - 苍蓝
 - \ `青银波涛 <https://tieba.baidu.com/home/main?un=%E9%9D%92%E9%93%B6%E6%B3%A2%E6%B6%9B&from=tieba>`__\
 - Yuzuha
+
+关于引用
+----------
+
+| 本站内容可以随意引用原文，是否标明出处也随意。
+| 不过，如果你有自己的进一步的理解，请务必\ **不要**\ 声称来自本站。
 
 源代码
 ---------
