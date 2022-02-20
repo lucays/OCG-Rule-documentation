@@ -255,6 +255,74 @@
 | 数据库：
 | 对方把魔法卡发动时，连锁发动怪兽区域「`异色眼灵摆读龙`_」的②效果，把魔法卡的效果无效后特殊召唤「`异色眼风雷龙`_」的场合，由于魔法卡的发动没被无效，还要占用时点在无效状态下处理，因此「`异色眼风雷龙`_」的①效果错过时点不能发动。\ `22/2/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23535&keyword=&tag=-1&request_locale=ja>`_
 
+2/13
+-------
+
+| wiki:
+| 不能解放攻击力是0的「`太阳神之翼神龙`_」来发动「`太阳神合一`_」的②效果。\ `22/2/13 <https://yugioh-wiki.net/index.php?%A1%D4%C2%C0%CD%DB%BF%C0%B9%E7%B0%EC%A1%D5#faq2>`_
+
+2/14
+-------
+
+| 邮件：
+| 「`根绝机皇神`_」发动时，即使作为对象的3只「`机皇`_」怪兽都没有正规出场过，处理时只能加入手卡的状况，也可以连锁发动「`神之警告`_」。
+
+| 数据库：
+| 我方手卡是7张以上的状况，发动「`时间女神的恶作剧`_」的场合，跳过了结束阶段，也不会进行手卡调整，不需要丢弃手卡到变成6张为止。\ `22/2/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23447&keyword=&tag=-1&request_locale=ja>`_
+
+2/18
+-------
+
+| wiki:
+| 「`拟似空间`_」发动效果，得到「`源数网络`_」的卡名和效果后，要发动得到的①效果来把「`源数混沌仪式`_」送去墓地变成相同效果的场合，也只能在自己场上的表侧表示的「`混沌No.1 混沌源数门-空`_」被怪兽的效果破坏的回合才能这样发动。如果不满足这个条件，不能把「`源数混沌仪式`_」送去墓地来发动这个效果。\ `22/2/18 <https://yugioh-wiki.net/index.php?%A1%D4%B5%BC%BB%F7%B6%F5%B4%D6%A1%D5#faq>`_
+
+| 数据库：
+| 怪兽区域「`霸王门 无限`_」的①效果处理时，自身和作为这个效果对象的卡片其中1张不在场上的场合，这个效果不适用，剩下那张卡不会破坏。但如果都在场上，因「`闪珖龙 星尘`_」等效果其中1张不会被效果破坏的场合，剩下那张卡仍然会被破坏。由于只破坏了1张卡，后续特殊召唤仍然不会进行。\ `22/2/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23575&keyword=&tag=-1&request_locale=ja>`_
+| 「`永远之魂`_」卡的发动时，连锁发动卡片效果把它破坏的场合，由于也是场上表侧表示的状态下从场上离开，之后「`永远之魂`_」会发动③效果把自己场上的怪兽全部破坏。但如果「`永远之魂`_」卡的发动被无效并破坏，由于不当作表侧表示的状态从场上离开，不会发动③效果。\ `22/2/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23574&keyword=&tag=-1&request_locale=ja>`_
+| 「`急袭猛禽-痛苦伯劳`_」的①效果不能以攻击力或守备力有1个是0的怪兽为对象发动。\ `22/2/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23573&keyword=&tag=-1&request_locale=ja>`_
+| 「`加速同调星尘龙`_」的②效果特殊召唤的「`星尘龙`_」也会适用『这个回合，这个效果同调召唤的怪兽不受对方发动的效果影响』效果。\ `22/2/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23568&keyword=&tag=-1&request_locale=ja>`_
+| 「`防火龙·暗流体-新电磁泄密风`_」发动②效果，同时当作光属性和暗属性怪兽后，效果被无效的场合，就不再当作光属性怪兽，只是暗属性怪兽。即使效果不再无效的场合，也不会恢复光属性。\ `22/2/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23567&keyword=&tag=-1&request_locale=ja>`_
+| 「`防火龙·暗流体-新电磁泄密风`_」发动②效果，同时当作暗·水·风3个属性的怪兽后，把「`DNA移植手术`_」发动的场合，在「`DNA移植手术`_」的效果适用中，只当作「`DNA移植手术`_」宣言的属性。「`DNA移植手术`_」不再适用的场合，恢复为暗·水·风3个属性。\ `22/2/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23566&keyword=&tag=-1&request_locale=ja>`_
+| 「`御前试合`_」的效果适用中，「`防火龙·暗流体-新电磁泄密风`_」的②效果也可以发动。效果处理让自身变成持有多种属性的怪兽后，在这个效果处理完毕时立即送去墓地。\ `22/2/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23565&keyword=&tag=-1&request_locale=ja>`_
+| 「`传说的剑斗士 混沌战士`_」的①效果被无效，或者那个发动被无效的场合，可以通常抽卡。但是，如果没有被无效，而是适用了「`误捕`_」等『不能用抽卡以外的方法从卡组把卡加入手卡』效果的场合，既不能『从卡组把1张仪式魔法卡加入手卡』，也不能进行通常抽卡。\ `22/2/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23564&keyword=&tag=-1&request_locale=ja>`_
+| 我方手卡存在2张「`传说的剑斗士 混沌战士`_」，在抽卡阶段的抽卡前，它们可以组成连锁发动①效果。但是，这个效果的处理是在自己可以进行通常抽卡的状况下，替换那次通常抽卡而进行的处理。因此，连锁2的效果如果正常适用，连锁1的效果处理时，自己已经不能通常抽卡，这个效果就不会适用。\ `22/2/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23571&keyword=&tag=-1&request_locale=ja>`_
+| 「`霸王龙之魂`_」的②效果发动时，作为cost只能把怪兽区域当作怪兽存在的1只「`霸王龙 扎克`_」除外。不能把P区域或者魔法·陷阱卡区域的「`霸王龙 扎克`_」除外。\ `22/2/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23563&keyword=&tag=-1&request_locale=ja>`_
+| 「`护宝炮妖爆破！`_」可以指定对方存在通常怪兽的主要怪兽区域来发动。这个场合，那只通常怪兽不能直接攻击。\ `22/2/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23562&keyword=&tag=-1&request_locale=ja>`_
+| 「`转生断绝`_」的『从墓地回到卡组的卡不回到卡组从游戏中除外』效果适用中，我方把「`神炎龙 赫界龙`_」融合召唤的场合，也可以发动①效果，使用墓地的怪兽作为融合素材，不会回到卡组而是表侧表示被除外，之后正常从额外卡组把融合怪兽融合召唤。\ `22/2/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23561&keyword=&tag=-1&request_locale=ja>`_
+| 我方融合召唤的「`冰剑龙 幻冰龙`_」因对方「`怪粉坏兽 加达拉`_」或「`闭锁世界的冥神`_」等的召唤手续而从场上离开的场合，也是因对方从场上离开，可以发动③效果。\ `22/2/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23560&keyword=&tag=-1&request_locale=ja>`_
+| 对方场上的，原本持有者是我方的融合召唤的「`冰剑龙 幻冰龙`_」不管是因对方还是因我方从场上离开，都不能发动③效果。这个效果只有在原本持有者的控制下，因原本持有者来看的对方从场上离开的状况才能发动。\ `22/2/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23555&keyword=&tag=-1&request_locale=ja>`_
+| 我方场上不存在怪兽，对方场上存在风属性怪兽，且场上存在「`御前试合`_」的状况，由于双方都不能在对方场上特殊召唤风属性以外的怪兽，因此，只有我方卡组存在风属性的「`怪粉坏兽 加达拉`_」和其他不同卡名的「`坏兽`_」怪兽的场合，才可以发动「`遭受妨碍的坏兽安眠`_」。这样发动后，由于处理时会破坏对方那只风属性怪兽，之后也可以把「`怪粉坏兽 加达拉`_」以外的「`坏兽`_」怪兽特殊召唤到对方场上。此外，「`御前试合`_」的效果适用中，双方场上都存在风属性怪兽的状况，由于双方场上都不能特殊召唤风属性以外的怪兽，而风属性的「`坏兽`_」怪兽只有「`怪粉坏兽 加达拉`_」，因此这时不能发动「`遭受妨碍的坏兽安眠`_」。\ `22/2/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23558&keyword=&tag=-1&request_locale=ja>`_
+| 我方场上不存在怪兽，对方场上存在不死族怪兽，且场上存在「`群雄割据`_」的状况，由于双方都不能在对方场上特殊召唤不死族以外的怪兽，而目前没有不死族的「`坏兽`_」怪兽，因此双方都不能发动「`遭受妨碍的坏兽安眠`_」。\ `22/2/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23559&keyword=&tag=-1&request_locale=ja>`_
+| 「`电脑堺都-九龙`_」发动时，不管发动时的自己场上的「`电脑堺门`_」卡数量是多少，既可以连锁发动「`灰流丽`_」的①效果，也可以连锁发动「`应战的G`_」的①效果。此外，由于「`灰流丽`_」「`应战的G`_」的①效果都是直接连锁对应的卡片·效果而发动的效果，这个场合只能发动其中1个。\ `22/2/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23557&keyword=&tag=-1&request_locale=ja>`_
+| 得到了「`装弹枪管龙`_」效果或者「`访问码语者`_」效果的「`霸王眷龙 凶饿毒`_」发动得到的「`装弹枪管龙`_」的②效果或者「`访问码语者`_」的效果时，因为「`装弹枪管龙`_」的②效果文本记述了『对方不能对应这个效果的发动把卡的效果发动』，「`访问码语者`_」的文本也记述了『对方不能对应这张卡的效果的发动把效果发动』，「`霸王眷龙 凶饿毒`_」得到这些效果时，那些效果也保持这样的性质，因此对方都不能连锁发动卡片效果。\ `22/2/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23556&keyword=&tag=-1&request_locale=ja>`_
+| 作为「`冀望乡-异晶人界-`_」的②效果对象的对方怪兽是持有X素材的X怪兽的场合，那只对方怪兽在我方X怪兽下面重叠作为X素材，原本持有的X素材都送去墓地。\ `22/2/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23572&keyword=&tag=-1&request_locale=ja>`_
+| 和「`大混战模式-加入`_」持续取对象的怪兽变得不受魔法效果影响的场合，仍然持续取对象，不过『1回合最多2次不会被战斗破坏』效果不再适用。这个状况那只怪兽被战斗破坏的场合，『让造成破坏的玩家回复2000基本分』处理仍然会适用。\ `22/2/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23569&keyword=&tag=-1&request_locale=ja>`_
+| 「`唤醒你沉睡的元素英雄`_」的效果被无效化的场合，①效果让攻击力上升的部分不再适用，回到原本的攻击力。但是，仍然可以对怪兽作出多次攻击。\ `22/2/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23570&keyword=&tag=-1&request_locale=ja>`_
+
+.. attention:: 「`唤醒你沉睡的元素英雄`_」的①效果是永续效果，类似文本的「`流天类星龙`_」「`古代的机械超巨人`_」等裁定都是无效状态不能多次攻击，不再无效后又可以多次攻击的状态。这里也许只是录入错误？
+
+2/19
+-------
+
+| 数据库：
+| 「`加速同调星尘龙`_」的②效果处理时，只进行『从额外卡组把1只「`星尘龙`_」当作S召唤作特殊召唤』处理。这个效果处理完毕后，再立即用我方场上的怪兽作为素材进行S召唤。\ `22/2/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17253&request_locale=ja>`_
+| 「`防火龙·暗流体-新电磁泄密风`_」②效果在伤害步骤的伤害步骤开始时到伤害计算前也可以发动。这个效果可以把和它属性相同的怪兽送去墓地，这个场合攻击力也会正常上升。\ `22/2/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17263&request_locale=ja>`_
+| 「`决斗塔 阿尔卡特拉斯`_」的①效果处理时，双方玩家可以从自身的卡组选出1只怪兽（即使玩家手卡没有可以特殊召唤的怪兽，也可以从卡组选出1只怪兽）。如果都不选，这个效果就这样处理完毕；如果只有1个玩家选了怪兽，那个玩家可以从手卡把1只怪兽特殊召唤并可以直接攻击；双方玩家都选了怪兽，攻击力相同的场合，都可以从手卡把1只怪兽特殊召唤。\ `22/2/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17244&request_locale=ja>`_
+| 「`灵魂能量最大级！！`_」的②效果处理完毕时，再立即可以把1只「`欧贝利斯克之巨神兵`_」召唤。这个场合，也必须按照「`欧贝利斯克之巨神兵`_」的召唤手续把3只怪兽解放。\ `22/2/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17245&request_locale=ja>`_
+| 1组连锁上满足多个「`决斗学园`_」的『●』效果发动条件的场合，这个连锁处理后，那些『●』效果可以组成连锁发动。\ `22/2/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17246&request_locale=ja>`_
+| 双方玩家有1个卡组数量不足5张的场合，不能发动「`拯救的桥梁`_」。\ `22/2/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17249&request_locale=ja>`_
+| 「`伟大之魂`_」的『②：自己场上有10星以上的龙族·暗属性同调怪兽存在，怪兽的效果发动时，把墓地的这张卡除外才能发动。那个效果无效，选自己场上1只同调怪兽那个攻击力直到下个回合的结束时上升2000』效果在伤害步骤不能发动。\ `22/2/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17251&request_locale=ja>`_
+| 「`叠光网络`_」的第1个『●』效果不能以没有等级的X怪兽或者连接怪兽为对象发动。第2个『●』效果不是影响怪兽的效果，即使是不受魔法效果影响的X怪兽也会被加入持有者手卡。\ `22/2/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17254&request_locale=ja>`_
+| 「`进入境智网！`_」的①效果处理时，从手卡特殊召唤的怪兽可以是通常怪兽。\ `22/2/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17262&request_locale=ja>`_
+| 「`蓝泪的天使`_」的①效果不能以效果已经被无效化的怪兽等为对象来发动。另外，所选择的怪兽的控制者来看的对方必须持有手卡，没有手卡的场合不能以那只怪兽为对象来发动。\ `22/2/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17264&request_locale=ja>`_
+| 「`命运的囚人`_」可以在卡的发动时同一连锁块进行①效果的发动，也可以只作卡的发动。第1个『●』效果适用时，原本卡名和宣言的卡相同的卡，其发动的效果以及不入连锁在场上适用的效果会被无效化。\ `22/2/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17265&request_locale=ja>`_
+
+2/20
+-------
+
+| wiki:
+| 「`始祖守护者 提拉斯`_」的破坏效果处理时，自身不在场上存在的场合，也是没有X素材的状况，这个效果不适用。\ `22/2/20 <https://yugioh-wiki.net/index.php?%A1%D4%BB%CF%C1%C4%A4%CE%BC%E9%B8%EE%BC%D4%A5%C6%A5%A3%A5%E9%A5%B9%A1%D5#faq3>`_
+
 .. _`转生炎兽 独角兔`: https://ygocdb.com/?search=转生炎兽+独角兔
 .. _`光之护封剑`: https://ygocdb.com/?search=光之护封剑
 .. _`圣夜的煌龙`: https://ygocdb.com/?search=圣夜的煌龙
@@ -437,3 +505,55 @@
 .. _`闪刀空域-零区`: https://ygocdb.com/?search=闪刀空域-零区
 .. _`闪刀姬`: https://ygocdb.com/?search=闪刀姬
 .. _`异色眼风雷龙`: https://ygocdb.com/?search=异色眼风雷龙
+.. _`神之警告`: https://ygocdb.com/?search=神之警告
+.. _`唤醒你沉睡的元素英雄`: https://ygocdb.com/?search=唤醒你沉睡的元素英雄
+.. _`转生断绝`: https://ygocdb.com/?search=转生断绝
+.. _`霸王龙 扎克`: https://ygocdb.com/?search=霸王龙+扎克
+.. _`蓝泪的天使`: https://ygocdb.com/?search=蓝泪的天使
+.. _`永远之魂`: https://ygocdb.com/?search=永远之魂
+.. _`闪珖龙 星尘`: https://ygocdb.com/?search=闪珖龙+星尘
+.. _`急袭猛禽-痛苦伯劳`: https://ygocdb.com/?search=急袭猛禽-痛苦伯劳
+.. _`机皇`: https://ygocdb.com/?search=机皇
+.. _`星尘龙`: https://ygocdb.com/?search=星尘龙
+.. _`闭锁世界的冥神`: https://ygocdb.com/?search=闭锁世界的冥神
+.. _`防火龙·暗流体-新电磁泄密风`: https://ygocdb.com/?search=防火龙·暗流体-新电磁泄密风
+.. _`霸王龙之魂`: https://ygocdb.com/?search=霸王龙之魂
+.. _`欧贝利斯克之巨神兵`: https://ygocdb.com/?search=欧贝利斯克之巨神兵
+.. _`拯救的桥梁`: https://ygocdb.com/?search=拯救的桥梁
+.. _`坏兽`: https://ygocdb.com/?search=坏兽
+.. _`进入境智网！`: https://ygocdb.com/?search=进入境智网！
+.. _`神炎龙 赫界龙`: https://ygocdb.com/?search=神炎龙+赫界龙
+.. _`冀望乡-异晶人界-`: https://ygocdb.com/?search=冀望乡-异晶人界-
+.. _`护宝炮妖爆破！`: https://ygocdb.com/?search=护宝炮妖爆破！
+.. _`时间女神的恶作剧`: https://ygocdb.com/?search=时间女神的恶作剧
+.. _`源数混沌仪式`: https://ygocdb.com/?search=源数混沌仪式
+.. _`古代的机械超巨人`: https://ygocdb.com/?search=古代的机械超巨人
+.. _`拟似空间`: https://ygocdb.com/?search=拟似空间
+.. _`应战的G`: https://ygocdb.com/?search=应战的G
+.. _`大混战模式-加入`: https://ygocdb.com/?search=大混战模式-加入
+.. _`传说的剑斗士 混沌战士`: https://ygocdb.com/?search=传说的剑斗士+混沌战士
+.. _`太阳神合一`: https://ygocdb.com/?search=太阳神合一
+.. _`DNA移植手术`: https://ygocdb.com/?search=DNA移植手术
+.. _`加速同调星尘龙`: https://ygocdb.com/?search=加速同调星尘龙
+.. _`装弹枪管龙`: https://ygocdb.com/?search=装弹枪管龙
+.. _`误捕`: https://ygocdb.com/?search=误捕
+.. _`电脑堺都-九龙`: https://ygocdb.com/?search=电脑堺都-九龙
+.. _`御前试合`: https://ygocdb.com/?search=御前试合
+.. _`太阳神之翼神龙`: https://ygocdb.com/?search=太阳神之翼神龙
+.. _`伟大之魂`: https://ygocdb.com/?search=伟大之魂
+.. _`决斗学园`: https://ygocdb.com/?search=决斗学园
+.. _`群雄割据`: https://ygocdb.com/?search=群雄割据
+.. _`根绝机皇神`: https://ygocdb.com/?search=根绝机皇神
+.. _`遭受妨碍的坏兽安眠`: https://ygocdb.com/?search=遭受妨碍的坏兽安眠
+.. _`怪粉坏兽 加达拉`: https://ygocdb.com/?search=怪粉坏兽+加达拉
+.. _`命运的囚人`: https://ygocdb.com/?search=命运的囚人
+.. _`源数网络`: https://ygocdb.com/?search=源数网络
+.. _`始祖守护者 提拉斯`: https://ygocdb.com/?search=始祖守护者+提拉斯
+.. _`灵魂能量最大级！！`: https://ygocdb.com/?search=灵魂能量最大级！！
+.. _`混沌No.1 混沌源数门-空`: https://ygocdb.com/?search=混沌No.1+混沌源数门-空
+.. _`决斗塔 阿尔卡特拉斯`: https://ygocdb.com/?search=决斗塔+阿尔卡特拉斯
+.. _`霸王门 无限`: https://ygocdb.com/?search=霸王门+无限
+.. _`流天类星龙`: https://ygocdb.com/?search=流天类星龙
+.. _`霸王眷龙 凶饿毒`: https://ygocdb.com/?search=霸王眷龙+凶饿毒
+.. _`叠光网络`: https://ygocdb.com/?search=叠光网络
+.. _`电脑堺门`: https://ygocdb.com/?search=电脑堺门

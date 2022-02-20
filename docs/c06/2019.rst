@@ -2973,7 +2973,7 @@ wiki：
 | 自己怪兽的攻击宣言时，自己发动「`娱乐伙伴 打鼓金刚`_」或「`决斗融合`_」时，对方连锁发动「`报复的隐齿`_」，变成结束阶段的场合，连锁处理后，那个怪兽攻击力是没有上升的状态。\ `19/12/26 <http://yugioh-wiki.net/index.php?%A1%D4%CA%F3%C9%FC%A4%CE%B1%A3%A4%B7%BB%F5%A1%D5#faq>`__
 
 | 裁定变更：
-| 抽卡阶段抽卡前，「`流星日珥`_」「`魔法爆破`_」发动时，连锁发动「`灰流丽`_」的场合，无效后还能进行通常抽卡。\ `19/12/26 <http://yugioh-wiki.net/index.php?%C4%CC%BE%EF%A4%CE%A5%C9%A5%ED%A1%BC#faq>`__
+| 抽卡阶段抽卡前，发动「`流星日珥`_」「`魔法爆破`_」的效果被「`骷髅大王`_」的①效果等无效的场合，还能进行通常抽卡。\ `19/12/26 <http://yugioh-wiki.net/index.php?%C4%CC%BE%EF%A4%CE%A5%C9%A5%ED%A1%BC#faq>`__
 
 12/27
 --------
@@ -4410,3 +4410,4 @@ wiki：
 .. _`御前试合`: https://ygocdb.com/?search=御前试合
 .. _`破坏剑-龙破坏之剑`: https://ygocdb.com/?search=破坏剑-龙破坏之剑
 .. _`破坏龙 甘多拉-烈光闪`: https://ygocdb.com/?search=破坏龙+甘多拉-烈光闪
+.. _`骷髅大王`: https://ygocdb.com/?search=骷髅大王
