@@ -16,10 +16,7 @@ import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
-import sphinx_typlog_theme
 import datetime
-# from jupyter_sphinx_theme import *
-# init_theme()
 
 # -- Project information -----------------------------------------------------
 
@@ -71,7 +68,7 @@ language = 'zh_CN'
 exclude_patterns = []
 
 # The name of the Pygments (syntax highlighting) style to use.
-pygments_style = None
+pygments_style = "sphinx"
 
 
 # -- Options for HTML output -------------------------------------------------
@@ -81,26 +78,17 @@ pygments_style = None
 # html_theme = "sphinx_rtd_theme"
 # html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
-html_theme = 'sphinx_typlog_theme'
-html_theme_path = [sphinx_typlog_theme.get_path()]
+html_theme = 'furo'
+html_logo = ".static/logo.webp"
 html_theme_options = {
-    'logo': 'logo.webp',
-    'color': 'rgba(3, 172, 244, 0.8)',
-    'description': '游戏王规则调整',
-    'github_user': 'lucays',
-    'github_repo': 'ocg-rule',
-    'canonical_url': 'https://ocg-rule.readthedocs.io',
-    'analytics_id': 'UA-131764005-1',
-    'last_updated': (datetime.datetime.now() + datetime.timedelta(hours=8)).strftime("%Y-%m-%d %H:%M:%S"),
-}
-html_sidebars = {
-    '**': [
-        'logo.html',
-        'docstatus.html',
-        'github.html',
-        'searchbox.html',
-        'globaltoc.html',
-    ]
+    "light_css_variables": {
+        "color-brand-primary": "#03a9f4",
+        "color-brand-content": "#03a9f4",
+    },
+    "dark_css_variables": {
+        "color-brand-primary": "#03a9f4",
+        "color-brand-content": "#03a9f4",
+    },
 }
 
 html_static_path = ['.static']

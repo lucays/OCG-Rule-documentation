@@ -1,3 +1,3 @@
 docutils<0.18
 readthedocs-sphinx-search
-git+https://github.com/lucays/sphinx-typlog-theme@master
+furo
