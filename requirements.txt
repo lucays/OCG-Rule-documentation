@@ -1,2 +1,2 @@
 readthedocs-sphinx-search
-furo
+git+https://github.com/lucays/furo.git@main

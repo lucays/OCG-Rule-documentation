@@ -21,7 +21,8 @@ import datetime
 # -- Project information -----------------------------------------------------
 
 project = 'ocg-rule'
-copyright = f'2018-{(datetime.datetime.now() + datetime.timedelta(hours=8)).strftime("%Y")}, 碎冰'
+current_time = datetime.datetime.now() + datetime.timedelta(hours=8)
+copyright = f'2018-{current_time.strftime("%Y")}, 碎冰. Last updated: {current_time.strftime("%Y-%m-%d %H:%M:%S")}'
 author = '碎冰'
 
 # The short X.Y version
@@ -80,18 +81,32 @@ pygments_style = "sphinx"
 
 html_theme = 'furo'
 html_logo = ".static/logo.webp"
+html_title = "OCG Rule"
+html_permalinks_icon = "¶"
+
 html_theme_options = {
+    "navigation_with_keys": True,
     "light_css_variables": {
         "color-brand-primary": "#03a9f4",
         "color-brand-content": "#03a9f4",
+        "color-link": "rgba(0,0,0,.95)",
+        "color-foreground-primary": "rgba(0,0,0,.8)",
     },
     "dark_css_variables": {
         "color-brand-primary": "#03a9f4",
         "color-brand-content": "#03a9f4",
+        "color-link": "#ffffffcc",
+        "color-foreground-primary": "#ffffffcc"
     },
+    "announcement": '你当前查看的不是最新版本，最新版本点击<a class="reference internal" href="https://ocg-rule.rtfd.io"><span class="std std-ref">这里</span></a>',
 }
 
 html_static_path = ['.static']
+
+html_css_files = [
+    'css/custom.css',
+]
+
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
