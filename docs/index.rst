@@ -15,10 +15,10 @@ Welcome to ocg-rule's documentation!
 
 .. sidebar:: 实用链接
 
-   | 完全规则书翻译：https://ocg-rulebook.rtfd.io 
-   | 中文卡查：https://ygocdb.com
-   | 官方卡片数据库（日文）：https://www.db.yugioh-card.com/yugiohdb/?request_locale=ja
-   | 游戏王卡wiki（日文）：http://yugioh-wiki.net
+   | \ `官方完全规则书（中文翻译） <https://ocg-rulebook.rtfd.io>`__
+   | \ `中文卡查 <https://ygocdb.com>`__
+   | \ `官方卡片数据库（日文） <https://www.db.yugioh-card.com/yugiohdb/?request_locale=ja&request_locale=ja>`__
+   | \ `游戏王卡wiki（日文） <http://yugioh-wiki.net>`__
 
 | 游戏王OCG规则繁杂，其他中文资料不够详尽，本站可能是目前最全面的中文参考资料。
 | 本站使用的卡名和效果文本等基本上是NW论坛\ `XYZ龙加农 <https://bbs.newwise.com/?68956>`__\ 的翻译版本，在此表示感谢。
@@ -30,7 +30,7 @@ Welcome to ocg-rule's documentation!
 .. tip::
 
    | 由于本站内容较多，如果你是新手，须知玩这个游戏\ **不需要**\ 看完所有内容。初期粗略浏览个大概，碰到问题时知道在哪查或者可以搜什么就可以了。并且，即使你通晓了这些规则，也只能成为规则大师，并不代表你就是高玩了，这两者没有必然联系。
-   | 此外，本站涉及的主要是疑难的规则和调整，如果是不清楚怪兽的各种召唤等，这里找不到答案的\ **基础问题，还是得先看**\ \ `规则书 <https://ocg-rulebook.rtfd.io>`__\ 。
+   | 此外，本站涉及的主要是疑难的规则和调整，如果是不清楚怪兽的各种召唤等，这里找不到答案的\ **基础问题，还是得先看**\ \ `官方完全规则书（中文翻译） <https://ocg-rulebook.rtfd.io>`__\ 。
 
 站内搜索
 ------------

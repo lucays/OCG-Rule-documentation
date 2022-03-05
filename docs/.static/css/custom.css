@@ -26,6 +26,14 @@ h6 {
     font-size: 1em;
 }
 
+html {
+    scroll-behavior: auto;
+}
+
+article {
+    font-size: medium;
+}
+
 .line-block {
     display: block;
     margin-bottom: 1em;
@@ -36,9 +44,5 @@ h6 {
 }
 
 .headerlink {
-    color: rgba(0,0,0,.24);
-}
-
-article {
-    font-size: medium;
+    color: rgba(0, 0, 0, .24);
 }
