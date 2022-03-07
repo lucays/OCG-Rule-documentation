@@ -323,3 +323,7 @@
 .. _`No.4 猛毒刺胞 隐形水母怪`: https://ygocdb.com/?search=No.4+猛毒刺胞+隐形水母怪
 .. _`邪神 恐惧之源`: https://ygocdb.com/?search=邪神+恐惧之源
 .. _`御前试合`: https://ygocdb.com/?search=御前试合
+.. _`铁兽战线 克拉斯`: https://ygocdb.com/?search=铁兽战线+克拉斯
+.. _`铁兽战线 姬特`: https://ygocdb.com/?search=铁兽战线+姬特
+.. _`铁兽战线 徒花之费莉吉特`: https://ygocdb.com/?search=铁兽战线+徒花之费莉吉特
+.. _`铁兽的抗战`: https://ygocdb.com/?search=铁兽的抗战
