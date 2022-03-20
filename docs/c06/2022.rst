@@ -556,6 +556,68 @@
 | 把「`升阶魔法-七皇之剑`_」作为cost送去墓地发动了「`异晶人的混沌抽卡`_」的效果，那个处理时适用了「`升阶魔法-七皇之剑`_」发动时的效果处理，把X怪兽当作X召唤特殊召唤后，是用「`异晶人的混沌抽卡`_」的效果把X怪兽特殊召唤，不是「`升阶魔法`_」魔法卡的效果。结果「`冀望乡-异晶人界-`_」的②效果不能发动。\ `22/3/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19693&keyword=&tag=-1&request_locale=ja>`_
 | 我方场上表侧表示存在「`黑曜岩龙`_」的状况，我方发动「`歌冰丽月`_」，从手卡把等级4以下的暗属性的天使族·魔法师族·鸟兽族·兽战士族怪兽特殊召唤，并且把「`歌冰丽月`_」装备的场合，由于结果是对暗属性的装备怪兽持续取对象，「`黑曜岩龙`_」的『以自己场上的暗属性怪兽1只为对象的魔法·陷阱卡的效果无效并破坏』效果会适用，把「`歌冰丽月`_」的效果无效并破坏。\ `22/3/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21563&keyword=&tag=-1&request_locale=ja>`_
 
+3/14
+-------
+
+| 邮件：
+| 「`黑曜岩龙`_」让「`歌冰丽月`_」效果无效并破坏的场合，是在「`歌冰丽月`_」的『那之后，可以让场上的龙族怪兽全部回到持有者手卡』适用后再无效并破坏。另外，如果这只「`黑曜岩龙`_」因卡的效果变成龙族的场合，效果如何处理，调整中。
+| 我方手卡存在1只「`调皮宝贝·火灯娃`_」，我方场上存在「`调皮宝贝·水滴娃`_」和「`调皮宝贝·脉冲娃`_」，我方额外卡组只存在1只「`闭锁世界的冥神`_」，对方场上存在「`I：P伪装舞会莱娜`_」的状况，我方可以发动「`进入境智网！`_」来连接召唤「`闭锁世界的冥神`_」。
+| 「`星级爆破`_」让手卡的「`神兽王 巴巴罗斯`_」的等级变成4以下的状况，召唤这只「`神兽王 巴巴罗斯`_」的场合不能适用其自身的①效果，因此攻击力也不会变成1900；召唤这只「`神兽王 巴巴罗斯`_」的场合仍然可以用③的方法把3只怪兽解放来召唤，这样上级召唤成功时，可以发动手卡「`幻想夺取者`_」的①效果。
+| 对方用「`电子龙`_」攻击我方里侧守备表示的「`火之迦具土`_」，对方受到战斗伤害的场合，「`火之迦具土`_」的效果也会发动。在下个回合（我方回合）抽卡阶段的抽卡前，「`火之迦具土`_」的效果让对方丢弃了「`招财猫王`_」，「`招财猫王`_」发动效果的场合，我方不能进行通常抽卡，直接进入结束阶段。
+
+| wiki:
+| 墓地只存在1只「`六花`_」怪兽没有其他怪兽的状况，不能解放植物族怪兽来发动「`六花深深`_」（只能不解放怪兽来发动「`六花深深`_」）\ `22/3/18 <https://yugioh-wiki.net/index.php?%A1%D4%CF%BB%B2%D6%BF%BC%A1%B9%A1%D5#faq>`_
+
+3/18
+-------
+
+| 数据库：
+| 「`白银之城的龙饰灯`_」等文本记述的『自己的通常陷阱卡的效果让怪兽从场上离开的场合』，指的是自己通常陷阱卡的效果让怪兽区域的卡被破坏·除外·回到手卡·回到卡组等，从场上离开的状况。当作怪兽特殊召唤的魔法·陷阱卡以及衍生物也包含在内。另外，怪兽移动到魔法·陷阱卡区域、或者变成X怪兽的X素材的状况，不是从场上离开。\ `22/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23614&keyword=&tag=-1&request_locale=ja>`_
+| 「`群豪之弓引-西园`_」的②效果不是确定要把卡片破坏的效果，不能连锁发动「`邪恶★双子轻松通关`_」的『●要让场上的卡破坏的魔法·陷阱·怪兽的效果发动时才能发动』效果。\ `22/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23613&keyword=&tag=-1&request_locale=ja>`_
+| 「`群豪之破坏者-男爵`_」的②效果处理时，对象卡片相邻的魔法·陷阱卡区域存在卡片或者不能使用的场合，对象卡片加入额外卡组。\ `22/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23612&keyword=&tag=-1&request_locale=ja>`_
+| 怪兽区域的「`群豪之创始者-大公`_」以融合·S·X·连接怪兽为对象发动①效果的场合，由于对象怪兽会回到额外卡组，没有回到手卡，『给与对方那个攻击力数值的伤害。那之后，这张卡的攻击力上升给与的伤害一半数值』效果不适用。\ `22/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23611&keyword=&tag=-1&request_locale=ja>`_
+| 怪兽区域的「`群豪之聚-幻中`_」的①效果处理时，所要放置区的卡破坏的场合，如果这张卡是衍生物，在持有原本攻击力的场合，对方也会失去那个攻击力数值的基本分。\ `22/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23610&keyword=&tag=-1&request_locale=ja>`_
+| 「`白银之城的狂时钟`_」的①效果适用后，即使在自己场上没有「`拉比林斯迷宫`_」怪兽存在时先盖放了通常陷阱，之后「`拉比林斯迷宫`_」怪兽才出现在自己场上的场合，这张通常陷阱也会变得可以在盖放的回合发动。\ `22/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23609&keyword=&tag=-1&request_locale=ja>`_
+| 可以对「`废铁稻草人`_」发动「`黑暗中的陷阱`_」，也可以在「`废铁稻草人`_」发动时连锁发动「`拉比林斯迷宫连环阵`_」。这些场合「`黑暗中的陷阱`_」「`拉比林斯迷宫连环阵`_」在发动后也会重新盖放。\ `22/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23608&keyword=&tag=-1&request_locale=ja>`_
+| 不能对「`附锁链的爆弹`_」等发动后会变成装备卡的陷阱卡发动「`黑暗中的陷阱`_」，也不能在这样的陷阱卡发动时连锁发动「`拉比林斯迷宫连环阵`_」。\ `22/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23607&keyword=&tag=-1&request_locale=ja>`_
+| 不能对发动后会当作怪兽特殊召唤的陷阱卡发动「`黑暗中的陷阱`_」，也不能在这样的陷阱卡发动时连锁发动「`拉比林斯迷宫连环阵`_」。\ `22/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23606&keyword=&tag=-1&request_locale=ja>`_
+| 「`黑暗中的陷阱`_」「`拉比林斯迷宫连环阵`_」的效果是，适用其他通常陷阱卡片记述的，发动时的效果处理。必须满足这些通常陷阱的发动条件，且不会支付这些效果处理的cost。由于「`爆裂龙息`_」等效果处理会因cost不同而变化，如果不支付，无法进行效果处理，因此不能对这样的陷阱卡发动「`黑暗中的陷阱`_」，也不能在这样的陷阱卡发动时连锁发动「`拉比林斯迷宫连环阵`_」。\ `22/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23605&keyword=&tag=-1&request_locale=ja>`_
+| 可以对「`XYZ苏生`_」发动「`黑暗中的陷阱`_」，也可以在「`XYZ苏生`_」发动时连锁发动「`拉比林斯迷宫连环阵`_」。结果效果会正常适用，在X怪兽特殊召唤后在其下重叠作为X素材。\ `22/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23604&keyword=&tag=-1&request_locale=ja>`_
+| 不能对「`王家的财宝`_」发动「`黑暗中的陷阱`_」，也不能在「`王家的财宝`_」发动时连锁发动「`拉比林斯迷宫连环阵`_」。\ `22/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23603&keyword=&tag=-1&request_locale=ja>`_
+| 宣言魔法卡发动「`暗之卡组破坏病毒`_」时，也可以连锁发动「`拉比林斯迷宫连环阵`_」。这个场合可以宣言魔法卡也可以宣言陷阱卡并正常适用。\ `22/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23602&keyword=&tag=-1&request_locale=ja>`_
+| 场上表侧表示存在「`白银之迷宫城`_」时，发动盖放的「`拉比林斯迷宫欢迎`_」，连锁发动「`拉比林斯迷宫连环阵`_」的场合，「`拉比林斯迷宫连环阵`_」的效果处理时，由于不是「`拉比林斯迷宫欢迎`_」通常陷阱卡，不能加上『●选场上1张卡破坏』效果。\ `22/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23601&keyword=&tag=-1&request_locale=ja>`_
+| 「`白银之城的拉比林斯`_」的②效果把「`废铁稻草人`_」盖放后，在自己场上存在恶魔族怪兽的状态发动了这张「`废铁稻草人`_」，因自身效果再次盖放的场合，『这个效果盖放的卡在自己场上没有恶魔族怪兽存在的场合不能发动』效果不再适用。\ `22/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23600&keyword=&tag=-1&request_locale=ja>`_
+| 发动盖放的「`拉比林斯迷宫欢迎`_」，连锁发动「`虚拟世界`_」把「`白银之迷宫城`_」发动的场合，「`拉比林斯迷宫欢迎`_」的效果处理时也可以加上『●选场上1张卡破坏』效果。\ `22/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23599&keyword=&tag=-1&request_locale=ja>`_
+| 我方发动卡片效果得到「`群豪之巫女-东云`_」控制权的场合，也是『怪兽区域的这张卡向其他的怪兽区域移动的场合』，我方可以发动这只「`群豪之巫女-东云`_」的②效果。\ `22/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23591&keyword=&tag=-1&request_locale=ja>`_
+| 「`群豪之统治者-公爵`_」的②效果得到对方怪兽的控制权后，那只怪兽变成里侧表示的场合，『不能攻击宣言，不能把效果发动，也当作「`群豪`_」怪兽使用』效果不再适用，我方再把这只怪兽变成表侧表示的场合，可以发动效果，可以攻击宣言，不当做「`群豪`_」怪兽。\ `22/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23590&keyword=&tag=-1&request_locale=ja>`_
+| 「`群豪世界-百识公国`_」的①效果或者怪兽区域「`群豪之聚-幻中`_」的①效果处理让「`宝玉兽`_」怪兽当作永续魔法卡在魔法·陷阱卡区域表侧表示放置后，那些卡可以被「`宝玉兽 红玉兽`_」的效果特殊召唤。\ `22/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23589&keyword=&tag=-1&request_locale=ja>`_
+| 「`白银之城的魔神像`_」的②效果『只在攻击宣言时才能作卡的发动的1张通常陷阱卡』，指的是对方怪兽攻击宣言时才能发动的「`炸裂装甲`_」、双方魔法师族怪兽攻击宣言时才能发动的「`魔术师的法阵`_」以及直接攻击宣言时才能发动的「`波纹防护罩 -波浪之力-`_」等通常陷阱卡。此外，由于选择攻击对象不止是在攻击宣言时才能进行，怪兽被选择作为攻击对象时才能发动的「`仇恨炸弹`_」不在此列，怪兽的攻击宣言时从墓地发动的「`幻影骑士团 影佑`_」不是陷阱卡的发动，也不包含在内。\ `22/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23588&keyword=&tag=-1&request_locale=ja>`_
+| 墓地发动的陷阱卡的效果让怪兽从场上离开的场合，也可以发动「`白银之城的拉比林斯`_」等怪兽的③效果。\ `22/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23586&keyword=&tag=-1&request_locale=ja>`_
+| 发动了多张「`神碑的锋芒`_」等「`神碑`_」速攻魔法后，『这张卡的发动后，下次的自己战斗阶段跳过』效果适用了多次的场合，也只跳过下1次的自己战斗阶段。（在下1次的自己战斗阶段这些效果都适用，跳过这次战斗阶段，变成结束阶段。）另外，这个处理是我方在主要阶段1结束时，决定要进入战斗阶段的场合才会适用。如果因卡的效果在这个回合不能进行战斗阶段，也不能跳过这次战斗阶段，而是跳过下1次自己可以进行的战斗阶段。\ `22/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23585&keyword=&tag=-1&request_locale=ja>`_
+
+3/19
+-------
+
+| 邮件：
+| 「`幻兽机 黑猎鹰`_」解放衍生物发动效果时，可以选择里侧表示的怪兽为对象来发动。（之前数据库错误的写着这个效果只能对表侧表示的怪兽发动，目前已修正）
+| 在连锁1发动「`连锁治愈`_」时，可以连锁发动「`拉比林斯迷宫连环阵`_」，结果这张「`拉比林斯迷宫连环阵`_」（在连锁2发动）加入卡组。在连锁3发动「`连锁治愈`_」时，可以连锁发动「`拉比林斯迷宫连环阵`_」，结果这张「`拉比林斯迷宫连环阵`_」（在连锁4发动）加入手卡。
+| 「`歌冰丽月`_」正确的装备对象是『手卡1只4星以下的天使族·魔法师族·鸟兽族·兽战士族怪兽』，场上「`妖精传姬-辛德瑞拉`_」的②效果处理时，不能选卡组的「`歌冰丽月`_」给自身装备。
+
+| 数据库：
+| 怪兽区域的「`群豪之聚-幻中`_」的①效果处理时，所要放置区有卡存在的场合，破坏和放置在同1时点进行，这次破坏不当作卡的效果破坏。\ `22/3/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17355&request_locale=ja>`_
+| 「`电子化天使-美朱濡-`_」的①效果处理时，『从额外卡组特殊召唤的对方场上的怪兽全部破坏，给与对方破坏的怪兽数量×1000伤害』没能正常适用的场合，也会适用『这个回合，这张卡在同1次的战斗阶段中可以作2次攻击』的效果。\ `22/3/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6827&keyword=&tag=-1&request_locale=ja>`_
+
+3/20
+-------
+
+| 邮件：
+| 场上表侧表示存在「`白银之迷宫城`_」时，发动盖放的「`拉比林斯迷宫欢迎欢送`_」，效果处理时没能无效那次攻击的场合，也可以加上『●选场上1张卡破坏』效果。
+| 场上表侧表示存在「`白银之迷宫城`_」时，发动盖放的「`拉比林斯迷宫欢迎`_」，效果处理时没能特殊召唤怪兽的场合，也可以加上『●选场上1张卡破坏』效果。
+| 场上表侧表示存在「`白银之迷宫城`_」时，发动盖放的「`拉比林斯迷宫欢迎`_」，对方连锁发动「`灰流丽`_」或「`DDD 咒血王 赛弗里德`_」①效果的场合，由于「`拉比林斯迷宫欢迎`_」的效果无效，「`白银之迷宫城`_」的①效果不适用，不能加上『●选场上1张卡破坏』效果。
+| 场上表侧表示存在「`白银之迷宫城`_」时，以这张「`白银之迷宫城`_」为对象发动盖放的「`拉比林斯迷宫欢迎欢送`_」，「`白银之迷宫城`_」先被破坏的场合，不能再加上『●选场上1张卡破坏』效果。
+| 场上表侧表示存在「`白银之迷宫城`_」和「`王宫的敕命`_」时，以这张「`王宫的敕命`_」为对象发动盖放的「`拉比林斯迷宫欢迎欢送`_」，「`王宫的敕命`_」被破坏的场合，「`白银之迷宫城`_」的效果恢复适用，可以加上『●选场上1张卡破坏』效果。
+| 「`群豪之破坏者-男爵`_」的②效果处理时，对象卡片相邻的魔法·陷阱卡区域存在卡片或者不能使用的状况，对象卡片加入额外卡组的场合，不当作被破坏，不能发动「`无形噬体溶解`_」的②效果。
+
 .. _`转生炎兽 独角兔`: https://ygocdb.com/?search=转生炎兽+独角兔
 .. _`光之护封剑`: https://ygocdb.com/?search=光之护封剑
 .. _`圣夜的煌龙`: https://ygocdb.com/?search=圣夜的煌龙
@@ -952,3 +1014,55 @@
 .. _`GO-DDD 神零王 零神·零儿`: https://ygocdb.com/?search=GO-DDD+神零王+零神·零儿
 .. _`模拘摄星人 模仿者`: https://ygocdb.com/?search=模拘摄星人+模仿者
 .. _`备份秘书`: https://ygocdb.com/?search=备份秘书
+.. _`群豪`: https://ygocdb.com/?search=群豪
+.. _`调皮宝贝·火灯娃`: https://ygocdb.com/?search=调皮宝贝·火灯娃
+.. _`宝玉兽`: https://ygocdb.com/?search=宝玉兽
+.. _`仇恨炸弹`: https://ygocdb.com/?search=仇恨炸弹
+.. _`虚拟世界`: https://ygocdb.com/?search=虚拟世界
+.. _`魔术师的法阵`: https://ygocdb.com/?search=魔术师的法阵
+.. _`调皮宝贝·水滴娃`: https://ygocdb.com/?search=调皮宝贝·水滴娃
+.. _`火之迦具土`: https://ygocdb.com/?search=火之迦具土
+.. _`DDD 咒血王 赛弗里德`: https://ygocdb.com/?search=DDD+咒血王+赛弗里德
+.. _`星级爆破`: https://ygocdb.com/?search=星级爆破
+.. _`白银之城的拉比林斯`: https://ygocdb.com/?search=白银之城的拉比林斯
+.. _`废铁稻草人`: https://ygocdb.com/?search=废铁稻草人
+.. _`拉比林斯迷宫欢迎`: https://ygocdb.com/?search=拉比林斯迷宫欢迎
+.. _`幻影骑士团 影佑`: https://ygocdb.com/?search=幻影骑士团+影佑
+.. _`暗之卡组破坏病毒`: https://ygocdb.com/?search=暗之卡组破坏病毒
+.. _`群豪之巫女-东云`: https://ygocdb.com/?search=群豪之巫女-东云
+.. _`调皮宝贝·脉冲娃`: https://ygocdb.com/?search=调皮宝贝·脉冲娃
+.. _`群豪之统治者-公爵`: https://ygocdb.com/?search=群豪之统治者-公爵
+.. _`拉比林斯迷宫连环阵`: https://ygocdb.com/?search=拉比林斯迷宫连环阵
+.. _`无形噬体溶解`: https://ygocdb.com/?search=无形噬体溶解
+.. _`群豪之弓引-西园`: https://ygocdb.com/?search=群豪之弓引-西园
+.. _`幻想夺取者`: https://ygocdb.com/?search=幻想夺取者
+.. _`白银之城的龙饰灯`: https://ygocdb.com/?search=白银之城的龙饰灯
+.. _`XYZ苏生`: https://ygocdb.com/?search=XYZ苏生
+.. _`炸裂装甲`: https://ygocdb.com/?search=炸裂装甲
+.. _`群豪之破坏者-男爵`: https://ygocdb.com/?search=群豪之破坏者-男爵
+.. _`黑暗中的陷阱`: https://ygocdb.com/?search=黑暗中的陷阱
+.. _`附锁链的爆弹`: https://ygocdb.com/?search=附锁链的爆弹
+.. _`群豪之聚-幻中`: https://ygocdb.com/?search=群豪之聚-幻中
+.. _`群豪世界-百识公国`: https://ygocdb.com/?search=群豪世界-百识公国
+.. _`幻兽机 黑猎鹰`: https://ygocdb.com/?search=幻兽机+黑猎鹰
+.. _`邪恶★双子轻松通关`: https://ygocdb.com/?search=邪恶★双子轻松通关
+.. _`电子龙`: https://ygocdb.com/?search=电子龙
+.. _`神兽王 巴巴罗斯`: https://ygocdb.com/?search=神兽王+巴巴罗斯
+.. _`拉比林斯迷宫`: https://ygocdb.com/?search=拉比林斯迷宫
+.. _`六花`: https://ygocdb.com/?search=六花
+.. _`连锁治愈`: https://ygocdb.com/?search=连锁治愈
+.. _`六花深深`: https://ygocdb.com/?search=六花深深
+.. _`拉比林斯迷宫欢迎欢送`: https://ygocdb.com/?search=拉比林斯迷宫欢迎欢送
+.. _`神碑`: https://ygocdb.com/?search=神碑
+.. _`I：P伪装舞会莱娜`: https://ygocdb.com/?search=I：P伪装舞会莱娜
+.. _`神碑的锋芒`: https://ygocdb.com/?search=神碑的锋芒
+.. _`王家的财宝`: https://ygocdb.com/?search=王家的财宝
+.. _`波纹防护罩 -波浪之力-`: https://ygocdb.com/?search=波纹防护罩+-波浪之力-
+.. _`白银之城的魔神像`: https://ygocdb.com/?search=白银之城的魔神像
+.. _`爆裂龙息`: https://ygocdb.com/?search=爆裂龙息
+.. _`群豪之创始者-大公`: https://ygocdb.com/?search=群豪之创始者-大公
+.. _`宝玉兽 红玉兽`: https://ygocdb.com/?search=宝玉兽+红玉兽
+.. _`白银之城的狂时钟`: https://ygocdb.com/?search=白银之城的狂时钟
+.. _`王宫的敕命`: https://ygocdb.com/?search=王宫的敕命
+.. _`白银之迷宫城`: https://ygocdb.com/?search=白银之迷宫城
+.. _`招财猫王`: https://ygocdb.com/?search=招财猫王

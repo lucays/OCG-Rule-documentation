@@ -254,7 +254,7 @@
 从场上离开
 ~~~~~~~~~~~~
 
-| 卡片从场上移动到场外，就是从场上离开，也简称离场。
+| 卡片从场上移动到场外，就是从场上离开，有时候简称离场。
 | 变成里侧守备表示、装备卡、X素材、控制权转移等的场合，不是从场上离开。
 
 .. attention::
@@ -287,6 +287,11 @@
    | 因「`纳祭之魔`_」等效果变成装备卡的「`元素英雄 绝对零度侠`_」从场上离开的场合，也会发动效果，由「`元素英雄 绝对零度侠`_」的原本持有者发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7847&keyword=&tag=-1&request_locale=ja>`__
 
    .. note:: 控制权转移后从场上离开，由于会回到原本持有者，这类效果由原本控制者发动。
+
+-  | 场上的衍生物被消灭，也是从场上离开。
+   | 例：
+   | 「`幻煌龙衍生物`_」因卡的效果被除外的场合，可以发动「`冰水浸蚀`_」的②效果。
+   | 因「`自然调整`_」的效果，变成调整的衍生物从场上离开的场合，也会发动「`黑面波波`_」的效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9464&keyword=&tag=-1&request_locale=ja>`__
 
 | 卡片从场上回到手卡后，也能发动自身从场上离开后诱发的效果。
 | 例：
@@ -1004,3 +1009,7 @@
 .. _`神影依·拿非利`: https://ygocdb.com/?search=神影依·拿非利
 .. _`寄生虫 帕拉赛德`: https://ygocdb.com/?search=寄生虫+帕拉赛德
 .. _`强烈的打落`: https://ygocdb.com/?search=强烈的打落
+.. _`黑面波波`: https://ygocdb.com/?search=黑面波波
+.. _`幻煌龙衍生物`: https://ygocdb.com/?search=幻煌龙衍生物
+.. _`自然调整`: https://ygocdb.com/?search=自然调整
+.. _`冰水浸蚀`: https://ygocdb.com/?search=冰水浸蚀
