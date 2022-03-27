@@ -239,6 +239,7 @@
 | 这种魔法·陷阱卡若含有破坏卡片等效果，不能破坏自身。除自身以外没有能够破坏的卡时不能发动。
 | 例：
 | 「`风暴`_」破坏数目不计自身。
+| 场上表侧表示存在「`白银之迷宫城`_」时，发动盖放的「`拉比林斯迷宫欢迎`_」，加上的『●选场上1张卡破坏』效果适用时，不能选「`拉比林斯迷宫欢迎`_」自身破坏。
 | 「`大风暴`_」不会破坏自身。\ `15/1/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=4891&request_locale=ja>`__\
 | 「`旋风`_」不能以自身为对象发动。\ `17/3/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=4909&request_locale=ja>`__\
 | 「`背德的堕天使`_」效果处理时不能选自身。场上只有这1张卡时不能发动。\ `16/8/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12730&request_locale=ja>`__\
