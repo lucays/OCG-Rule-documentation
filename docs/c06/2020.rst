@@ -876,7 +876,7 @@
 | 「`虚无空间`_」的①效果适用中，也可以发动「`宇宙的法则`_」。对方盖放了陷阱卡的场合，也不会把「`人造人-念力震慑者`_」特殊召唤。\ `20/5/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23017&keyword=&tag=-1&request_locale=ja>`__
 | 「`超雷龙-雷龙`_」的①效果适用中，也可以发动「`宇宙的法则`_」。对方没有盖放陷阱卡的场合，也不会把「`人造人-念力震慑者`_」加入手卡。\ `20/5/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23016&keyword=&tag=-1&request_locale=ja>`__
 | 自己场上没有「`机皇`_」怪兽存在，「`机皇兵厂 助奏`_」被送去墓地的场合也可以发动②效果，在结束阶段再处理。\ `20/5/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23021&keyword=&tag=-1&request_locale=ja>`__
-| 「`大宇宙`_」的②效果适用中，也可以发动「`与宇宙的交信`_」的②效果。这个场合不去墓地而被除外，不会抽卡。\ `20/5/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23015&keyword=&tag=-1&request_locale=ja>`__
+| :strike:`「大宇宙」的②效果适用中，也可以发动「与宇宙的交信」的②效果。这个场合不去墓地而被除外，不会抽卡。`
 | 「`念力电子巨人`_」的②效果处理时，对方那只效果怪兽变成里侧表示的场合，这个效果正常适用，那个怪兽当作永续陷阱卡使用在魔法·陷阱卡区域表侧表示放置。\ `20/5/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23018&keyword=&tag=-1&request_locale=ja>`__
 
 5/30

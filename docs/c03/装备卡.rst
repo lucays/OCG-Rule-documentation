@@ -196,3 +196,5 @@
 .. _`甲虫装机 吉咖螳螂`: https://ygocdb.com/?search=甲虫装机+吉咖螳螂
 .. _`妖仙兽`: https://ygocdb.com/?search=妖仙兽
 .. _`降格处分`: https://ygocdb.com/?search=降格处分
+.. _`纳祭之魔·阿尼玛`: https://ygocdb.com/?search=纳祭之魔·阿尼玛
+.. _`冰剑龙 幻冰龙`: https://ygocdb.com/?search=冰剑龙+幻冰龙
