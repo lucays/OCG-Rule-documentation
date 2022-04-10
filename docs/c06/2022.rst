@@ -682,6 +682,9 @@
 | wiki:
 | 不能除外没有守备力的连接怪兽来发动「`狂战士断碎`_」。\ `22/3/30 <https://yugioh-wiki.net/index.php?%A1%D4%A5%D0%A1%BC%A5%B5%A1%BC%A5%AB%A1%BC%A5%AF%A5%E9%A5%C3%A5%B7%A5%E5%A1%D5#faq>`_
 
+| 数据库：
+| 「`卡片守卫`_」的『选择的卡被破坏的场合，作为代替把1个守卫指示物取除』效果只能在选择的卡被战斗·效果破坏时适用。\ `22/3/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8526&request_locale=ja>`_
+
 3/31
 -------
 
@@ -752,6 +755,11 @@
 | 「`迅疾三分利`_」的①效果把「`终焉之恶魔 迪米斯`_」加入手卡后，『这张卡的发动后，直到回合结束时自己不能把这个效果加入手卡的怪兽以及那些同名怪兽通常召唤·特殊召唤，那些怪兽效果不能发动』效果适用的状况，不能从手卡仪式召唤「`终焉之恶魔 迪米斯`_」和「`终焉之王 迪米斯`_」，可以发动送去墓地的「`终焉之恶魔 迪米斯`_」的③效果，可以发动「`死者苏生`_」把对方墓地的「`终焉之恶魔 迪米斯`_」特殊召唤。
 
 | 数据库：
+| 不能对效果已经被无效化的怪兽或者效果怪兽以外的怪兽发动P区域「`DD 猛犬`_」的①效果。\ `22/4/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=15181&request_locale=ja>`_
+| 「`恶魔娘 萝莉丝`_」①效果在卡组的数量为0的情况下不能发动。另外，卡组数量为1的状况下把①效果发动的场合，只能选择3张卡作为对象，不能选择6张卡作为对象。\ `22/4/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17552&request_locale=ja>`_
+| 怪兽区域「`霸王紫龙 异色眼猛毒龙`_」的①效果可以对攻击力是0的怪兽发动。\ `22/4/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13131&request_locale=ja>`_
+| 如果作为「`电子界时钟龙`_」融合素材的连接标记合计数量比自己卡组数量多，不能发动「`电子界时钟龙`_」的①效果。\ `22/4/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13921&request_locale=ja>`_
+| 我方选择发动「`法老的审判`_」的『●自己墓地有「`友情 YU-JYO`_」存在的场合，对方玩家直到回合结束时变成不能作怪兽的盖放·召唤·反转召唤·特殊召唤·效果怪兽的效果发动』效果的场合，虽然文本没有写，还会把对方场上存在的怪兽的效果无效化。\ `22/4/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5753&request_locale=ja>`_
 | 场上存在「`神碑之泉`_」「`魔封的芳香`_」的状况，在对方回合不能从手卡发动「`神碑`_」速攻魔法。\ `22/4/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23633&keyword=&tag=-1&request_locale=ja>`_
 | 场上表侧表示存在「`白银之迷宫城`_」时，发动盖放的「`拉比林斯迷宫欢迎`_」，特殊召唤了「`白银之城的拉比林斯`_」后，适用「`白银之迷宫城`_」的①效果再破坏了对方怪兽的场合，处理后可以发动「`白银之城的拉比林斯`_」的③效果。\ `22/4/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23632&keyword=&tag=-1&request_locale=ja>`_
 | 怪兽区域「`群豪之创始者-大公`_」的①效果可以对攻击力是0或者？的怪兽发动。\ `22/4/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23631&keyword=&tag=-1&request_locale=ja>`_
@@ -763,6 +771,15 @@
 | 「`白银之城的魔神像`_」和因卡片效果变成恶魔族的「`人偶城堡`_」在场上存在时，对方怪兽也必须向「`人偶城堡`_」作出攻击。\ `22/4/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23624&keyword=&tag=-1&request_locale=ja>`_
 | 「`虚拟世界`_」把「`白银之迷宫城`_」发动时，「`虚拟世界`_」发动的时点「`白银之迷宫城`_」还不在场上，结果处理后不能发动「`白银之迷宫城`_」的②效果。\ `22/4/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23623&keyword=&tag=-1&request_locale=ja>`_
 | 「`勇猛眼灵摆龙`_」在场上存在时，攻击力0的怪兽发动效果，处理时变成里侧表示的场合，那个发动的效果仍然无效。\ `22/4/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23622&keyword=&tag=-1&request_locale=ja>`_
+
+| 裁定变更：
+| 只在1次受到3000以上的战斗伤害时，才能在伤害计算后发动「`地狱暴风`_」。\ `22/4/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6090&request_locale=ja>`_
+
+.. note::
+
+   | 1次伤害计算可能发生多次战斗伤害。
+   | 例：
+   | 「`传说的渔人三世`_」的③效果发动后，自己用装备了「`脆刃之剑`_」攻击力是3500的「`亚马逊剑士`_」攻击对方攻击表示的攻击力是1600的怪兽的场合，「`脆刃之剑`_」的②效果适用，双方受到3500-1600=1900战斗伤害，此时对方受到的这次战斗伤害会因「`传说的渔人三世`_」的③效果适用而变成1900*2=3800，接着我方「`亚马逊剑士`_」的①效果适用，对方再受到1900战斗伤害，结果对方受到5700战斗伤害。
 
 .. _`转生炎兽 独角兔`: https://ygocdb.com/?search=转生炎兽+独角兔
 .. _`光之护封剑`: https://ygocdb.com/?search=光之护封剑
@@ -1293,3 +1310,12 @@
 .. _`魔封的芳香`: https://ygocdb.com/?search=魔封的芳香
 .. _`广告标语`: https://ygocdb.com/?search=广告标语
 .. _`潜海奇袭II`: https://ygocdb.com/?search=潜海奇袭II
+.. _`友情 YU-JYO`: https://ygocdb.com/?search=友情+YU-JYO
+.. _`卡片守卫`: https://ygocdb.com/?search=卡片守卫
+.. _`DD 猛犬`: https://ygocdb.com/?search=DD+猛犬
+.. _`电子界时钟龙`: https://ygocdb.com/?search=电子界时钟龙
+.. _`地狱暴风`: https://ygocdb.com/?search=地狱暴风
+.. _`亚马逊剑士`: https://ygocdb.com/?search=亚马逊剑士
+.. _`恶魔娘 萝莉丝`: https://ygocdb.com/?search=恶魔娘+萝莉丝
+.. _`法老的审判`: https://ygocdb.com/?search=法老的审判
+.. _`脆刃之剑`: https://ygocdb.com/?search=脆刃之剑
