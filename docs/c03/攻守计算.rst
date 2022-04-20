@@ -282,7 +282,7 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
 -  | 如果是持续适用的，并且是影响攻击力·守备力的效果，也会再计算。
    | 例：
    | 「`红莲魔兽 塔·伊沙`_」\ `19/3/8 <http://yugioh-wiki.net/index.php?%A1%D4%B9%C8%CF%A1%CB%E2%BD%C3%20%A5%C0%A1%A6%A5%A4%A1%BC%A5%B6%A1%D5#faq>`__ 「`原始太阳 赫利俄斯`_」\ `19/3/8 <http://yugioh-wiki.net/index.php?%A1%D4%B8%B6%BB%CF%C2%C0%CD%DB%A5%D8%A5%EA%A5%AA%A5%B9%A1%D5#faq>`__ 「`混沌死灵师`_」「`命运女郎`_」等怪兽的效果持续影响的是自身的「攻击力·守备力」，「原本攻击力·守备力」在场上按0处理，「`收缩`_」的①效果适用只是0/2=0，再计算它们自身的效果，结果「`收缩`_」的①效果适用前后「攻击力·守备力」不会变化。
-   | 「`守护神官 马哈德`_」和暗属性怪兽进行战斗的伤害步骤内，自身效果把攻击力加倍到5000，被「`收缩`_」后攻击力是2500/2=1250。这个时点再计算，结果攻击力是1250*2=2500。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19234&keyword=&tag=-1&request_locale=ja>`__ 同样的还有「`降龙之魔术师`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13056&keyword=&tag=-1&request_locale=ja>`__ 「`蛇神 格`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19510&request_locale=ja>`__ 等。
+   | 「`守护神官 马哈德`_」和暗属性怪兽进行战斗的伤害步骤内，自身效果把攻击力加倍到5000，被「`收缩`_」后原本攻击力变成2500/2=1250。这个时点再计算，结果攻击力是1250*2=2500。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19234&keyword=&tag=-1&request_locale=ja>`__ 同样的还有「`降龙之魔术师`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13056&keyword=&tag=-1&request_locale=ja>`__ 「`蛇神 格`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19510&request_locale=ja>`__ 等。
 
    .. attention::
 
