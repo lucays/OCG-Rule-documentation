@@ -39,7 +39,7 @@
 | 数据库：
 | 不能以从额外卡组特殊召唤的攻击力0的怪兽为对象发动「`巨神封印之矢`_」。\ `20/1/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22938&keyword=&tag=-1&request_locale=ja>`__
 | 「`一点冲夺法`_」的①效果从额外卡组选怪兽时，可以选「`连神龙`_」等不能被这个效果特殊召唤的怪兽。对方选的是相同种类的场合，对方选的怪兽送去墓地，我方选的「`连神龙`_」不会特殊召唤，仍然留在额外卡组。\ `20/1/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22937&keyword=&tag=-1&request_locale=ja>`__
-| 攻击力和守备力都是『？』的怪兽不是攻击力和守备力相同的怪兽，「`机巧狐-宇迦之御魂稻荷`_」的②效果不能把这种怪兽特殊召唤。\ `20/1/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22950&keyword=&tag=-1&request_locale=ja>`__
+| 攻击力和守备力都是『？』的怪兽不是攻击力和守备力数值相同的怪兽，「`机巧狐-宇迦之御魂稻荷`_」的②效果不能把这种怪兽特殊召唤。\ `20/1/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22950&keyword=&tag=-1&request_locale=ja>`__
 | 对方把通常怪兽表侧表示特殊召唤的场合，只要攻击力不是0，就可以发动「`朔夜时雨`_」的①效果。不过，是攻击力0的当作通常怪兽处理的二重怪兽的场合，也可以发动「`朔夜时雨`_」的①效果。这个场合，那个二重怪兽效果无效，成为效果无效的效果怪兽（不再是通常怪兽了）。\ `20/1/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22948&keyword=&tag=-1&request_locale=ja>`__
 | 「`宵星之骑士 吉尔苏`_」的②效果处理时，对方的没有可用的主要怪兽区域的场合，也不会在自己场上特殊召唤衍生物。\ `20/1/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22954&keyword=&tag=-1&request_locale=ja>`__
 | 对方把魔法·陷阱·怪兽的效果发动时，我方连锁发动「`半龙女仆·耀光龙女`_」的②效果，对方再连锁发动「`虚无空间`_」的场合，仍然把那次发动无效并破坏，「`半龙女仆·耀光龙女`_」会回到额外卡组，但不会从额外卡组特殊召唤「`半龙女仆·龙女管家`_」。\ `20/1/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22946&keyword=&tag=-1&request_locale=ja>`__
