@@ -77,7 +77,7 @@
    | 例：
    | 自己场上有攻击力1500以上怪兽表侧表示存在的场合，对方发动「`死之卡组破坏病毒`_」时，我方可以连锁发动「`我身作盾`_」。有2只以上的场合，可以连锁发动「`星光大道`_」。自己场上只有里侧表示怪兽或没有怪兽存在时，「`我身作盾`_」「`星光大道`_」不能连锁发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14572&request_locale=ja>`__
    | 「`真龙皇 阿耆尼马兹德·消灭`_」的①效果由于在处理时才选要破坏手卡还是场上的怪兽，基本上不能连锁发动「`我身作盾`_」。但如果手卡只有这1张，也就是效果处理时必须破坏场上怪兽的状况，可以连锁发动「`我身作盾`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18723&request_locale=ja>`__
-   | 自己「`古遗物 巨怒剑`_」的破坏效果发动时，对方场上表侧表示的卡只有怪兽卡的状况，可以连锁发动「`我身作盾`_」，既有怪兽卡还有魔法·陷阱卡的状况，就不能发动了。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13169&request_locale=ja>`__
+   | 自己「`古遗物 巨怒剑`_」的破坏效果发动时，对方场上表侧表示的卡只有怪兽的状况，可以连锁发动「`我身作盾`_」，既有怪兽还有魔法·陷阱卡的状况，就不能发动了。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13169&request_locale=ja>`__
    | 「`无差别崩坏`_」的效果由于在处理时不能确定会破坏怪兽，基本上不能连锁发动「`我身作盾`_」。但如果场上有等级1的怪兽，由于无论点数多少都会被破坏，就可以连锁发动「`我身作盾`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20860&request_locale=ja>`__
    | 「`零-最大`_」发动时，如果场上没有比取对象的怪兽攻击力更低的怪兽，那么不能连锁发动「`星尘龙`_」的①效果。有的场合才能发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=192&request_locale=ja>`__
    | 对方「`药物引发的副作用`_」的效果适用中，对方发动「`礼品卡`_」的场合，是给与伤害的效果，可以连锁发动「`娱乐伙伴 雨衣山羊`_」的①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17573&request_locale=ja>`__
