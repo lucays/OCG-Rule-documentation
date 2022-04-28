@@ -87,6 +87,7 @@
 | 从额外卡组特殊召唤的怪兽变成里侧表示后，发动「`影依融合`_」的场合不能从卡组选融合素材。\ `14/6/5 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13284&keyword=&tag=-1>`__
 | 从墓地特殊召唤的怪兽变成里侧表示后，再反转的场合不会因「`太阳的祭坛`_」的效果上升攻击力。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9488&keyword=&tag=-1&request_locale=ja>`__
 | 从墓地特殊召唤的，因「`亚空间物质传送装置`_」等效果被一时除外后回到场上的怪兽，仍然是从墓地特殊召唤的怪兽，我方回合可以发动「`救祓少女阿门武装`_」。\ `21/8/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23329&keyword=&tag=-1&request_locale=ja>`_
+| 从额外卡组特殊召唤的怪兽被一时除外后回到场上的场合，仍然当作从额外卡组特殊召唤的怪兽。从额外卡组特殊召唤的怪兽变成里侧守备表示的场合，从这个时点起不再当作从额外卡组特殊召唤的怪兽。（再变成表侧表示的场合也不是从额外卡组特殊召唤的怪兽。）\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23645&keyword=&tag=-1&request_locale=ja>`_
 
 -  | 直接从这些场所里侧表示特殊召唤的怪兽，因为反转本身不会丢失情报，反转后仍然是从这些场所特殊召唤的怪兽。
    | 例：

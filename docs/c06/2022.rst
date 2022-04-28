@@ -840,6 +840,7 @@
 | 自己魔法·陷阱卡区域存在「`群雄割据`_」「`王宫的通告`_」「`十二兽的会局`_」，怪兽区域存在龙族和兽战士族怪兽的状况，对「`王宫的通告`_」发动「`十二兽的会局`_」①效果的场合，如何处理效果，调整中。
 
 | 数据库：
+| 「`英豪冠军 铁手套王`_」的②效果可以取攻击力0的怪兽为对象来发动。\ `22/4/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17156&request_locale=ja>`_
 | 虽然「`元素英雄 泥球侠`_」卡片没有记述任何效果，由于它本身分类是效果怪兽，仍然可以对其发动「`异色眼假面龙`_」的①效果这样的效果。\ `22/4/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18588&keyword=&tag=-1&request_locale=ja>`_
 | 自己卡组数量是1张时，也可以正常发动「`娱乐伙伴阵容更换`_」并适用效果。自己卡组没有卡时，不能发动「`娱乐伙伴阵容更换`_」。发动「`娱乐伙伴阵容更换`_」后，处理时自己卡组没有卡的场合，自己决斗败北。\ `22/4/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15192&keyword=&tag=-1&request_locale=ja>`_
 | 「`六武众-矢一`_」发动效果，处理时被「`技能抽取`_」无效的场合，这个回合这只「`六武众-矢一`_」仍然不能攻击宣言；「`六武众-矢一`_」发动效果并正常适用后，适用「`技能抽取`_」而被无效的场合也是如此。\ `22/4/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10502&keyword=&tag=-1&request_locale=ja>`_
@@ -881,6 +882,17 @@
 | 「`分离的烙印`_」的①效果对象，可以都是我方墓地的怪兽，或者都是对方墓地的怪兽。\ `22/4/23 <https://yugioh-wiki.net/index.php?%A1%D4%CA%AC%A4%AB%A4%C4%DF%E0%B0%F5%A1%D5#faq1>`_
 
 | 数据库：
+| 「`珠泪哀歌族·梅洛人鱼`_」\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17414&request_locale=ja>`_\ 「`珠泪哀歌族·小美人鱼`_」\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17416&request_locale=ja>`_\ 「`珠泪哀歌族·塞壬人鱼`_」\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17415&request_locale=ja>`_\ 的①效果在卡组数量在2张以下的场合不能发动，这个效果处理时卡组数量才变成2张以下的场合，卡组的卡都会送去墓地。它们的②效果处理时，如果让融合怪兽作为融合素材回到额外卡组，回到额外卡组的融合怪兽不能被这个效果处理融合召唤。
+| 我方把「`噬腐复仇死者`_」用自身②效果特殊召唤后，只要这只「`噬腐复仇死者`_」在怪兽区域表侧表示存在，即使是在对方的怪兽区域，也是我方适用『不是「`复仇死者`_」怪兽不能特殊召唤』效果。\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17426&request_locale=ja>`_\ 「`六花的白姬`_」也是一样。\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17429&request_locale=ja>`_
+| 不能把卡片记载的原本攻击力是0或者『？』的怪兽解放来发动「`复仇死者·噬腐鬼`_」的①效果。\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17442&request_locale=ja>`_
+| 「`宝石骑士女郎·玫钻`_」的①效果在每个对方回合，自己场上的某只或者某些「`宝石骑士`_」怪兽第1次要被效果破坏时适用1次，不是对每1只怪兽各适用1次。「`宝石骑士女郎·玫钻`_」的②效果在1组连锁上可以发动多次。\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17446&request_locale=ja>`_
+| 「`简易接触`_」的『自己的场上以及墓地没有「`元素英雄 新宇侠`_」存在的场合』只在这个效果处理时进行判断。如果这个效果处理时场上·墓地有1处存在「`元素英雄 新宇侠`_」，特殊召唤的怪兽就不会适用『不能攻击，效果无效化，结束阶段回到持有者的额外卡组』效果，即使之后场上·墓地都不存在「`元素英雄 新宇侠`_」了也不会再变化；如果这个效果处理时场上·墓地都不存在「`元素英雄 新宇侠`_」，特殊召唤的怪兽就会适用『不能攻击，效果无效化，结束阶段回到持有者的额外卡组』效果，即使之后场上·墓地出现了「`元素英雄 新宇侠`_」也不会再变化。\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17454&request_locale=ja>`_
+| 「`融合超涡`_」的①效果处理时，对象怪兽不在场上表侧表示存在的场合，这个效果完全不适用，也不会选怪兽给对方观看。\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17455&request_locale=ja>`_
+| 「`分散融合`_」的发动时不会取效果对象，这个效果把融合怪兽融合召唤成功后，持续取那只融合怪兽为对象。\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17464&request_locale=ja>`_
+| 「`六花来来`_」在场上存在时，要把植物族怪兽解放发动「`六花`_」卡的效果的场合，可以解放对方场上表侧表示的不是植物族的怪兽。不过，不能解放不受魔法卡的效果影响的对方怪兽。这样把对方怪兽解放的场合，那只怪兽不当做因卡片效果从场上离开。\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17468&request_locale=ja>`_
+| 作为「`月女神之镞`_」卡的发动的cost，可以把融合·P怪兽送去墓地。这个场合，这个效果的对象可以是融合怪兽也可以是P怪兽。作为cost把S·P怪兽、X·P怪兽送去墓地的场合也一样。\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17469&request_locale=ja>`_
+| 除了「`鲜花花剑`_」的①效果和③效果以外的效果，不能把「`鲜花花剑`_」给怪兽装备。\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16387&request_locale=ja>`_
+| 「`克隆复制`_」的效果特殊召唤的「`克隆衍生物`_」是通常怪兽，不持有原本的种族·属性·等级·攻击力·守备力。\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5574&request_locale=ja>`_
 | 「`攻击诱导铠甲`_」的『●以那只攻击怪兽以外的自己或者对方场上1只怪兽为对象才能发动。攻击对象转移为那只怪兽进行伤害计算。』效果发动时，不能以已经成为攻击对象的那只怪兽为对象发动。\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5487&request_locale=ja>`_
 | 「`恶醒师 奈特梅尔特`_」的①效果可以把攻击力『？』的怪兽解放来把攻击力『？』的怪兽作为相同攻击力的怪兽特殊召唤。守备力是？的也一样。\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17440&request_locale=ja>`_
 | 自己把墓地陷阱卡的效果发动的场合，「`白银之迷宫城`_」的②效果不能发动。\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23647&keyword=&tag=-1&request_locale=ja>`_
@@ -888,7 +900,37 @@
 | 从额外卡组特殊召唤的怪兽被一时除外后回到场上的场合，仍然当作从额外卡组特殊召唤的怪兽。从额外卡组特殊召唤的怪兽变成里侧守备表示的场合，从这个时点起不再当作从额外卡组特殊召唤的怪兽。（再变成表侧表示的场合也不是从额外卡组特殊召唤的怪兽。）\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23645&keyword=&tag=-1&request_locale=ja>`_
 | 场上表侧表示存在「`白银之迷宫城`_」时，发动「`拉比林斯迷宫欢迎`_」，对方连锁发动「`虚无空间`_」的场合，虽然不能把怪兽特殊召唤，仍然可以加上『●选场上1张卡破坏』效果。\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23644&keyword=&tag=-1&request_locale=ja>`_
 | 场上表侧表示存在「`白银之迷宫城`_」时，发动盖放的「`拉比林斯迷宫欢迎`_」，对方连锁发动「`DDD 咒血王 赛弗里德`_」①效果把「`拉比林斯迷宫欢迎`_」的效果无效的场合，由于「`拉比林斯迷宫欢迎`_」的效果无效，「`白银之迷宫城`_」的①效果不适用，不能加上『●选场上1张卡破坏』效果。\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23643&keyword=&tag=-1&request_locale=ja>`_
-| 怪兽效果的发动时，或者在P区域把P怪兽卡当作魔法卡发动时，连锁把「`饼蛙`_」的②效果发动的场合，不论是连锁什么怪兽卡来发动，都可以接着连锁发动「`神之警告`_」或「`屋敷童`_」的①效果。\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19625&keyword=&tag=-1&request_locale=ja>`_
+| 怪兽卡的怪兽效果的发动时，或者在P区域把P怪兽卡当作魔法卡发动时，连锁把「`饼蛙`_」的②效果发动的场合，不论是连锁什么怪兽卡来发动，都可以接着连锁发动「`神之警告`_」或「`屋敷童`_」的①效果。\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19625&keyword=&tag=-1&request_locale=ja>`_
+
+4/25
+-------
+
+| wiki:
+| 「`救祓少女·马尔法`_」的①效果发动时，连锁发动「`增殖的G`_」①效果的场合，由于「`救祓少女·马尔法`_」和「`救祓少女·埃莉丝`_」的特殊召唤在同1时点进行，「`增殖的G`_」的①效果适用只抽1张卡。\ `22/4/25 <https://yugioh-wiki.net/index.php?%A1%D4%A5%A8%A5%AF%A5%BD%A5%B7%A5%B9%A5%BF%A1%BC%A1%A6%A5%DE%A5%EB%A5%D5%A5%A1%A1%D5#faq>`_
+
+4/26
+-------
+
+| 邮件：
+| 对方场上表侧表示存在这个回合发动过效果的「`吞食百万的暴食兽`_」和其他怪兽的状况，由于不能解放「`吞食百万的暴食兽`_」，而「`俱利伽罗天童`_」的召唤手续是解放发动过效果的全部怪兽，结果不能特殊召唤「`俱利伽罗天童`_」。
+| 我方怪兽区域存在「`华丽金星`_」，对方场地区域存在「`王家长眠之谷`_」的状态，我方以墓地的「`拉比林斯迷宫欢迎`_」和被除外的「`拉比林斯迷宫连环阵`_」合计2张卡为对象发动「`拉比林斯迷宫布置`_」的场合，只会让被除外的「`拉比林斯迷宫连环阵`_」回到卡组，之后可以从卡组选1张「`拉比林斯迷宫`_」卡以外的通常陷阱卡在自己场上盖放。
+| 我方魔法·陷阱卡区域存在「`幻变骚灵协议`_」，对方场地区域存在「`王家长眠之谷`_」的状态，我方以「`防火龙`_」为对象发动了「`幻变骚灵·警报食人水妖`_」的①效果，这只「`防火龙`_」在这个回合也当作「`幻变骚灵`_」怪兽使用后，以场上的「`青眼白龙`_」和墓地的「`青眼亚白龙`_」为对象发动①效果的场合，只有场上的那只「`青眼白龙`_」会回到持有者手卡。
+| 我方怪兽区域存在「`华丽金星`_」，对方场地区域存在「`王家长眠之谷`_」的状态，我方以墓地的「`No.2 源数之门-贰`_」「`No.3 源数之门-叁`_」「`No.4 源数之门-肆`_」和被除外的「`源数网络`_」「`No.1 源数之门-壹`_」合计5张卡为对象发动「`源数混沌仪式`_」的场合，进行『从额外卡组把1只「`混沌No.1000 梦幻虚神 原数天灵`_」变成攻击力10000/守备力1000特殊召唤』处理，只有被除外的「`源数网络`_」和「`No.1 源数之门-壹`_」这2张卡会变成X素材。
+
+4/27
+-------
+
+| 邮件：
+| 这个回合发动了效果的怪兽，因卡的效果变成里侧表示后再反转成表侧表示的场合，不再当作这个回合发动过效果，不会因「`俱利伽罗天童`_」的召唤手续而被解放。
+| 我方场上存在「`魔轰神兽 尤尼科`_」和「`命运英雄 血魔-D`_」，对方场上的「`召唤师 阿莱斯特`_」发动②效果，处理时双方手卡相同的场合，尽管这只「`召唤师 阿莱斯特`_」已经因「`命运英雄 血魔-D`_」的①效果而无效化，也会因「`魔轰神兽 尤尼科`_」的效果而被破坏。
+| 我方场上存在「`魔轰神兽 尤尼科`_」，对方场上的「`召唤师 阿莱斯特`_」发动②效果，我方连锁发动「`灰流丽`_」的①效果，处理时双方手卡相同的场合，尽管这只「`召唤师 阿莱斯特`_」的②效果已经因「`灰流丽`_」的①效果被无效，也会因「`魔轰神兽 尤尼科`_」的效果而被破坏。
+| 我方没有手卡时，发动「`格式弹涂鱼`_」的②效果，连锁发动「`来自星遗物中的觉醒`_」把「`转生炎兽 烽火猞猁`_」连接召唤后，「`格式弹涂鱼`_」的②效果处理从卡组将「`并行超越龙`_」加入手卡的场合，处理后可以发动手卡中「`并行超越龙`_」的①效果。
+| 我方没有手卡时，墓地存在「`青眼白龙`_」的状况，以被除外的「`青眼喷气龙`_」为对象发动P区域「`终焉龙 混沌帝`_」的①效果把它加入手卡的场合，处理后可以发动手卡「`青眼喷气龙`_」的①效果。
+| 「`大天使 克里斯提亚`_」的②效果发动时，连锁发动「`饼蛙`_」②效果的场合，「`大天使 克里斯提亚`_」被破坏，因自身④效果回到卡组最上方的场合，不会再被盖放到场上。
+
+| wiki:
+| P区域「`娱乐伙伴 额外射手`_」的效果发动后，这个回合也可以发动「`额外灵摆`_」，但也不能进行P召唤。「`魂之灵摆`_」的④效果发动后，这个回合不能发动「`额外灵摆`_」。\ `22/4/27 <https://yugioh-wiki.net/index.php?%A1%D4%A3%C5%A3%D8%A3%D0%A1%D5#faq>`_
+| 可以对因自身效果当作通常怪兽的「`元素英雄 次新宇侠`_」或「`圣骑士 莫德雷德`_」发动「`无限泡影`_」。这个场合，它们不再是通常怪兽，而是效果被无效的效果怪兽。\ `22/4/27 <https://yugioh-wiki.net/index.php?%A1%D4%CC%B5%B8%C2%CB%A2%B1%C6%A1%D5#faq>`_
 
 .. _`转生炎兽 独角兔`: https://ygocdb.com/?search=转生炎兽+独角兔
 .. _`光之护封剑`: https://ygocdb.com/?search=光之护封剑
@@ -1486,3 +1528,44 @@
 .. _`抹杀之指名者`: https://ygocdb.com/?search=抹杀之指名者
 .. _`舍利军贯`: https://ygocdb.com/?search=舍利军贯
 .. _`无畏军贯-鲑鱼子级一号舰`: https://ygocdb.com/?search=无畏军贯-鲑鱼子级一号舰
+.. _`珠泪哀歌族·梅洛人鱼`: https://ygocdb.com/?search=珠泪哀歌族·梅洛人鱼
+.. _`终焉龙 混沌帝`: https://ygocdb.com/?search=终焉龙+混沌帝
+.. _`幻变骚灵`: https://ygocdb.com/?search=幻变骚灵
+.. _`吞食百万的暴食兽`: https://ygocdb.com/?search=吞食百万的暴食兽
+.. _`鲜花花剑`: https://ygocdb.com/?search=鲜花花剑
+.. _`融合超涡`: https://ygocdb.com/?search=融合超涡
+.. _`防火龙`: https://ygocdb.com/?search=防火龙
+.. _`圣骑士 莫德雷德`: https://ygocdb.com/?search=圣骑士+莫德雷德
+.. _`青眼喷气龙`: https://ygocdb.com/?search=青眼喷气龙
+.. _`召唤师 阿莱斯特`: https://ygocdb.com/?search=召唤师+阿莱斯特
+.. _`青眼白龙`: https://ygocdb.com/?search=青眼白龙
+.. _`来自星遗物中的觉醒`: https://ygocdb.com/?search=来自星遗物中的觉醒
+.. _`珠泪哀歌族·小美人鱼`: https://ygocdb.com/?search=珠泪哀歌族·小美人鱼
+.. _`No.4 源数之门-肆`: https://ygocdb.com/?search=No.4+源数之门-肆
+.. _`救祓少女·马尔法`: https://ygocdb.com/?search=救祓少女·马尔法
+.. _`宝石骑士`: https://ygocdb.com/?search=宝石骑士
+.. _`简易接触`: https://ygocdb.com/?search=简易接触
+.. _`格式弹涂鱼`: https://ygocdb.com/?search=格式弹涂鱼
+.. _`复仇死者`: https://ygocdb.com/?search=复仇死者
+.. _`青眼亚白龙`: https://ygocdb.com/?search=青眼亚白龙
+.. _`宝石骑士女郎·玫钻`: https://ygocdb.com/?search=宝石骑士女郎·玫钻
+.. _`月女神之镞`: https://ygocdb.com/?search=月女神之镞
+.. _`No.1 源数之门-壹`: https://ygocdb.com/?search=No.1+源数之门-壹
+.. _`珠泪哀歌族·塞壬人鱼`: https://ygocdb.com/?search=珠泪哀歌族·塞壬人鱼
+.. _`并行超越龙`: https://ygocdb.com/?search=并行超越龙
+.. _`混沌No.1000 梦幻虚神 原数天灵`: https://ygocdb.com/?search=混沌No.1000+梦幻虚神+原数天灵
+.. _`娱乐伙伴 额外射手`: https://ygocdb.com/?search=娱乐伙伴+额外射手
+.. _`六花的白姬`: https://ygocdb.com/?search=六花的白姬
+.. _`克隆衍生物`: https://ygocdb.com/?search=克隆衍生物
+.. _`转生炎兽 烽火猞猁`: https://ygocdb.com/?search=转生炎兽+烽火猞猁
+.. _`元素英雄 次新宇侠`: https://ygocdb.com/?search=元素英雄+次新宇侠
+.. _`No.2 源数之门-贰`: https://ygocdb.com/?search=No.2+源数之门-贰
+.. _`No.3 源数之门-叁`: https://ygocdb.com/?search=No.3+源数之门-叁
+.. _`拉比林斯迷宫布置`: https://ygocdb.com/?search=拉比林斯迷宫布置
+.. _`魔轰神兽 尤尼科`: https://ygocdb.com/?search=魔轰神兽+尤尼科
+.. _`救祓少女·埃莉丝`: https://ygocdb.com/?search=救祓少女·埃莉丝
+.. _`克隆复制`: https://ygocdb.com/?search=克隆复制
+.. _`复仇死者·噬腐鬼`: https://ygocdb.com/?search=复仇死者·噬腐鬼
+.. _`噬腐复仇死者`: https://ygocdb.com/?search=噬腐复仇死者
+.. _`分散融合`: https://ygocdb.com/?search=分散融合
+.. _`幻变骚灵·警报食人水妖`: https://ygocdb.com/?search=幻变骚灵·警报食人水妖
