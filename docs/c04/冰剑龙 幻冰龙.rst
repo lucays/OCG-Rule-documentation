@@ -46,7 +46,7 @@
 | 「`黯黑世界-暗影敌托邦-`_」的②效果适用中，对方把这张卡作为cost发动效果，结果这张卡从场上离开的场合，也是『因对方从场上离开』。
 | 融合召唤的这张卡成为对方「`大逮捕`_」的①效果等对象，处理时对方没有可用怪兽区域，导致这张卡破坏送去墓地的场合，不是因对方送去墓地，不能发动③效果。
 | 融合召唤的这张卡成为对方「`纳祭之魔`_」的①效果等对象，处理时「`纳祭之魔`_」不在场上表侧表示，导致这张卡装备失败送去墓地的场合，不是因对方送去墓地，不能发动③效果。\ `22/1/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23547&keyword=&tag=-1&request_locale=ja>`_
-| 因对方「`坏兽`_」怪兽或「`闭锁世界的冥神`_」等的召唤手续召唤·特殊召唤的手续而从场上离开的场合，也可以发动这个效果。\ `22/2/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23560&keyword=&tag=-1&request_locale=ja>`__
+| 因对方「`坏兽`_」怪兽或「`闭锁世界的冥神`_」等的召唤·特殊召唤的手续而从场上离开的场合，也可以发动这个效果。\ `22/2/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23560&keyword=&tag=-1&request_locale=ja>`__
 
 - | 如果这张卡不在原本持有者场上，不管是因哪一方玩家从场上离开，都不能发动这个效果。\ `22/2/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23555&keyword=&tag=-1&request_locale=ja>`__
 
