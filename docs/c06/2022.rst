@@ -1059,7 +1059,7 @@
 | 数据库：
 | 「`神碑`_」速攻魔法卡的效果处理时，「`古遗物-圣枪`_」等『不能把卡除外』效果适用的场合，只有把卡除外的处理不进行。如「`神碑的锋芒`_」可以正常把「`神碑`_」卡加入手卡。且下次自己的战斗阶段仍然跳过。\ `22/5/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23664&keyword=&tag=-1&request_locale=ja>`_
 | 「`森与觉醒的春化精`_」的①效果把「`亚马逊王女`_」从卡组送去墓地后，送去墓地的卡名是「`亚马逊女王`_」，因此那之后不能特殊召唤这只当作「`亚马逊女王`_」的「`亚马逊王女`_」，只能特殊召唤卡名不是「`亚马逊女王`_」的怪兽。\ `22/5/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23663&keyword=&tag=-1&request_locale=ja>`_
-| 发动后会再把自身盖放的「`废铁稻草人`_」等通常陷阱卡，在进行卡的发动时，不能以它们为对象发动「`星圣·昴星团`_」「`凤翼的爆风`_」等回到手卡·卡组的效果。此外，「库拉莉亚之虫惑魔」的②效果适用时，自己发动的「洞」通常陷阱卡以及「落穴」通常陷阱卡也一样。\ `22/5/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23662&keyword=&tag=-1&request_locale=ja>`_
+| 发动后会再把自身盖放的「`废铁稻草人`_」等通常陷阱卡，在进行卡的发动时，不能以它们为对象发动「`星圣·昴星团`_」「`凤翼的爆风`_」等回到手卡·卡组的效果。此外，「`库拉莉亚之虫惑魔`_」的②效果适用时，自己发动的「`洞`_」通常陷阱卡以及「`落穴`_」通常陷阱卡也一样。\ `22/5/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23662&keyword=&tag=-1&request_locale=ja>`_
 | 发动后会把自身变成怪兽的装备卡的「`附锁链的回力镖`_」等通常陷阱卡，在进行卡的发动时，也可以以它们为对象发动「`星圣·昴星团`_」「`凤翼的爆风`_」等回到手卡·卡组的效果。\ `22/5/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23661&keyword=&tag=-1&request_locale=ja>`_
 | 宣言「`舍利军贯`_」发动的「`真实之名`_」的效果处理时，翻出的卡片是卡组的卡片，「`赤舍利军贯`_」当作「`舍利军贯`_」使用。因此，翻到「`舍利军贯`_」「`赤舍利军贯`_」的场合，也会进行『宣言的卡的场合』的处理；宣言「`赤舍利军贯`_」发动的「`真实之名`_」的效果处理时，翻到「`舍利军贯`_」「`赤舍利军贯`_」的场合，进行『不是的场合』的处理。\ `22/5/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23660&keyword=&tag=-1&request_locale=ja>`_
 | 回合玩家发动「`过浅的墓穴`_」，双方都特殊召唤了1只怪兽的场合，「`忘我画派`_」的①效果不能发动。\ `22/5/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23659&keyword=&tag=-1&request_locale=ja>`_
@@ -1769,3 +1769,6 @@
 .. _`异次元的落穴`: https://ygocdb.com/?search=异次元的落穴
 .. _`现世离`: https://ygocdb.com/?search=现世离
 .. _`忘我画派`: https://ygocdb.com/?search=忘我画派
+.. _`洞`: https://ygocdb.com/?search=洞
+.. _`落穴`: https://ygocdb.com/?search=落穴
+.. _`库拉莉亚之虫惑魔`: https://ygocdb.com/?search=库拉莉亚之虫惑魔
