@@ -386,3 +386,6 @@
 .. _`洞`: https://ygocdb.com/?search=洞
 .. _`落穴`: https://ygocdb.com/?search=落穴
 .. _`库拉莉亚之虫惑魔`: https://ygocdb.com/?search=库拉莉亚之虫惑魔
+.. _`拉比林斯迷宫欢迎`: https://ygocdb.com/?search=拉比林斯迷宫欢迎
+.. _`白银之迷宫城`: https://ygocdb.com/?search=白银之迷宫城
+.. _`废铁稻草人`: https://ygocdb.com/?search=废铁稻草人
