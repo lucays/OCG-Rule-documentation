@@ -12,7 +12,7 @@
 | 即使没有能攻击的怪兽、没有怪兽，也能进入战斗阶段。
 | 战斗阶段被跳过或者不能进行的回合，也不能进入主要阶段2。
 
-| 在不能进行战斗阶段的回合，或在主要阶段2中，需要在战斗阶段内才能处理的，让怪兽能多次攻击、直接攻击、贯通、战斗伤害加倍·减半等效果基本上不能发动。不过，如果只作为附带的效果处理，可以发动。
+| 在不能进行战斗阶段的回合，或在主要阶段2中，需要在战斗阶段内才能处理的，让怪兽能多次攻击、直接攻击、贯通、战斗伤害加倍·减半等效果基本上不能发动。不过，如果只作为附带的效果处理，基本上可以发动。
 | 不需要战斗阶段就能处理的效果，如记述有『不能进行战斗阶段』『不能攻击』等文本的效果可以发动。
 | 例：
 | 「`电子鱼人-弓手`_」的效果\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13790&request_locale=ja>`__ 「`回转调车`_」的①效果\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=118&request_locale=ja>`__ 「`电子化天使-美朱濡-`_」的①效果\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19694&request_locale=ja>`__ 「`嵌合狂暴龙`_」的④效果\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15011&request_locale=ja>`__ 「`雷击坏兽 雷鸣龙王`_」的④效果\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19932&request_locale=ja>`__ 「`阴之天气模样`_」\ `17/8/31 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8653&request_locale=ja>`__ 「`女巫特露德`_」的②效果\ `18/5/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21&request_locale=ja877&request_locale=ja>`__ 可以发动。
@@ -22,8 +22,7 @@
 
 .. note::
 
-   | 『这个回合...』的记述比较特别，在这个记述之前有其他效果处理的场合，这部分就是附带的效果处理，例如「`女巫特露德`_」。没有其他效果处理，并且之后紧接着不能适用的效果，那么不能发动。例如「`虹彩之魔术师`_」。能适用的场合，还是可以发动，例如「`雷击坏兽 雷鸣龙王`_」。
-   | 特别地，「`魔孔石人`_」的效果\ `17/11/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8619&request_locale=ja>`__ 「`钻头战士`_」的直接攻击效果\ `17/11/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8652&request_locale=ja>`__ 「`超重忍者 忍足-A·C`_」的②效果\ `16/10/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12779&request_locale=ja>`__ 以及「`流星龙`_」的①效果在不能进行战斗阶段的回合或主要阶段2不能发动。
+   | 记述『这个回合...』等文本的效果能否发动详见\ :ref:`效果的附加处理`\ 。
    | 另外，跳过战斗阶段不是不能进行，「`冰灵神 穆兰格雷斯`_」等效果让战斗阶段被跳过的回合，还是可以发动「`水精鳞-巨齿深渊鲨`_」的2次攻击效果。\ `13/1/12 <http://yugioh-wiki.net/index.php?%A1%D4%BF%E5%C0%BA%CE%DA%A1%DD%A5%E1%A5%AC%A5%ED%A5%A2%A5%D3%A5%B9%A1%D5#faq>`__
 
 -  | 类似地，不能攻击的怪兽也不能被这些效果取对象，不能直接攻击的怪兽也不能被让怪兽可以直接攻击的效果取对象。
