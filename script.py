@@ -93,7 +93,6 @@ def add_cdb_url(texts: str) -> str:
     stack = []
     card_names, card_name = [], []
     for line in texts.split('\n'):
-        line = f'{line}\n'
         if need_skip(line):
             continue
         for char in line:
@@ -114,29 +113,42 @@ def add_cdb_url(texts: str) -> str:
                         card_names.append(name)
                     card_name = []
 
+    card_names_dict = {}
+    for card_name in card_names:
+        card_name = card_name[1:-1].strip('`_')
+        card_names_dict[f'「{card_name}」'] = f'「`{card_name}`_」'
+
     have_url_card_names = set(re.findall('.. _`(.*?)`: ', texts))
     tail_texts = set()
 
-    for card_name in card_names:
+    new_texts = []
+    for line in texts.strip().split('\n'):
+        if need_skip(line):
+            new_texts.append(line)
+            continue
+        for old, new in card_names_dict.items():
+            line = line.replace(old, new)
+        new_texts.append(line)
+
+    for card_name in card_names_dict:
         card_name = card_name[1:-1].strip('`_')
-        texts.replace(f'「{card_name}」', f'「`{card_name}`_」')
         if card_name not in have_url_card_names:
             tail_texts.add(f'.. _`{card_name}`: https://ygocdb.com/?search={card_name.replace(" ", "+")}')
 
+    if not have_url_card_names and tail_texts:
+        new_texts.append('\n')
     if tail_texts:
-        texts = texts.strip()
-        texts += '\n'
-        texts += '\n'.join(list(tail_texts))
-        texts += '\n'
-    return texts
+        new_texts.extend(tail_texts)
+    return '\n'.join(new_texts).strip() + '\n'
 
 
 def do_one(file: Path) -> None:
-    texts = file.read_text(encoding='utf8')
-    texts = replace_en_name(texts)
+    old_texts = file.read_text(encoding='utf8')
+    texts = replace_en_name(old_texts)
     texts = add_cdb_url(texts)
     texts = add_jp_locale_in_db_url(texts)
-    file.write_text(texts, encoding='utf8')
+    if texts != old_texts:
+        file.write_text(texts, encoding='utf8')
 
 
 def do_all() -> None:
