@@ -1,9 +1,8 @@
-import os
+
 import re
+from pathlib import Path
 
-docs_path = os.path.join(os.getcwd(), 'docs')
-
-names = {
+NEED_REPLACED_NAMES = {
     '「E·HERO': '「元素英雄',
     '「D-HERO': '「命运英雄',
     '「C·HERO': '「对极英雄',
@@ -43,7 +42,7 @@ names = {
     '「P.U.N.K.': '「朋克'
 }
 
-not_card_names = (
+NOT_CARD_NAMES = (
     '攻击力',
     '守备力',
     '原本攻击力',
@@ -62,7 +61,7 @@ not_card_names = (
 
 def replace_en_name(texts: str) -> str:
     texts = texts.replace('\n\n\n', '\n\n')
-    for key, value in names.items():
+    for key, value in NEED_REPLACED_NAMES.items():
         texts = texts.replace(key, value)
     return texts
 
@@ -79,7 +78,7 @@ def add_jp_locale_in_db_url(texts: str) -> str:
     return texts
 
 
-def add_cdb_link(texts: str) -> str:
+def add_cdb_url(texts: str) -> str:
 
     def need_skip(line: str) -> bool:
         if ':strike:' in line or '\ *' in line or line.startswith('.. _`'):
@@ -102,78 +101,49 @@ def add_cdb_link(texts: str) -> str:
                 if not stack:
                     name = ''.join(card_name)
                     is_card = True
-                    for not_card_name in not_card_names:
+                    for not_card_name in NOT_CARD_NAMES:
                         if not_card_name in name:
                             is_card = False
                             break
-                    if is_card and not name.endswith('_」'):
+                    if is_card:
                         card_names.append(name)
                     card_name = []
 
-    old_card_link_names = set(re.findall('.. _`(.*?)`: ', texts))
+    have_url_card_names = set(re.findall('.. _`(.*?)`: ', texts))
     tail_texts = set()
-    names = {}
-    for card_name in set(card_names):
-        name = ' '.join(card_name[1:-1].strip().split())
-        new_name = f'「`{name}`_」'
-        names[card_name] = new_name
-        if name in old_card_link_names:
-            continue
-        tail_texts.add(f'.. _`{name}`: https://ygocdb.com/?search={name.replace(" ", "+")}\n')
-    if not names:
-        return texts
 
-    new_texts = []
-    part_texts = []
-    for line in texts.split('\n'):
-        line = f'{line}\n'
-        if need_skip(line):
-            part_texts = ''.join(part_texts)
-            for old, new in names.items():
-                part_texts = part_texts.replace(old, new)
-            new_texts.append(part_texts)
-            new_texts.append(line)
-            part_texts = []
-            continue
-        else:
-            part_texts.append(line)
-    if [i.strip() for i in part_texts if i.strip()]:
-        part_texts = ''.join(part_texts)
-        for old, new in names.items():
-            part_texts = part_texts.replace(old, new)
-        new_texts.append(part_texts)
+    for card_name in card_names:
+        card_name = card_name[1:-1].strip('`_')
+        texts.replace(f'「{card_name}」', f'「`{card_name}`_」')
+        if card_name not in have_url_card_names:
+            tail_texts.add(f'.. _`{card_name}`: https://ygocdb.com/?search={card_name.replace(" ", "+")}')
 
-    results = ''.join(new_texts)
     if tail_texts:
-        results += ''.join(list(tail_texts))
-    return results
+        texts = texts.strip()
+        if not have_url_card_names:
+            texts += '\n'
+        texts += '\n'.join(list(tail_texts))
+        texts += '\n'
+    return texts
 
 
-def do_one(filepath: str) -> None:
-    with open(filepath, 'r', encoding='utf8') as f:
-        try:
-            texts = ''.join(f.readlines())
-        except:
-            print(filepath, 'read exception')
-            return None
-        texts = replace_en_name(texts)
-        texts = add_cdb_link(texts)
-        texts = add_jp_locale_in_db_url(texts)
-    with open(filepath, 'w', encoding='utf8') as f:
-        f.write(texts)
+def do_one(file: Path) -> None:
+    texts = file.read_text(encoding='utf8')
+    texts = replace_en_name(texts)
+    texts = add_cdb_url(texts)
+    texts = add_jp_locale_in_db_url(texts)
+    file.write_text(texts, encoding='utf8')
 
 
 def do_all() -> None:
-    for filename in os.listdir(docs_path):
-        filepath = os.path.join(docs_path, filename)
-        if os.path.isdir(filepath):
-            for rst_file in os.listdir(filepath):
-                rst_path = os.path.join(filepath, rst_file)
-                if not rst_path.endswith('.rst'):
-                    continue
-                do_one(rst_path)
-        if os.path.isfile(filepath) and filepath.endswith('.rst'):
-            do_one(filepath)
+    docs_path = Path(__file__).parent / 'docs'
+    for sub_path in docs_path.iterdir():
+        if sub_path.is_file() and sub_path.name.endswith('.rst'):
+            do_one(sub_path)
+        elif sub_path.is_dir():
+            for file in sub_path.iterdir():
+                if file.name.endswith('.rst'):
+                    do_one(file)
 
 
 if __name__ == '__main__':
