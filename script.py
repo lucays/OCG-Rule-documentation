@@ -39,7 +39,11 @@ NEED_REPLACED_NAMES = {
     '「RR': '「急袭猛禽',
     '「LL': '「抒情歌鸲',
     '「H·C': '「英豪挑战者',
-    '「P.U.N.K.': '「朋克'
+    '「P.U.N.K.': '「朋克',
+    '「Evil★Twin’s': '「邪恶★双子克星',
+    '「Evil★Twins': '「邪恶★双子星',
+    '「Live☆Twin': '「直播☆双子',
+    '「Evil★Twin': '「邪恶★双子',
 }
 
 NOT_CARD_NAMES = (
@@ -120,8 +124,7 @@ def add_cdb_url(texts: str) -> str:
 
     if tail_texts:
         texts = texts.strip()
-        if not have_url_card_names:
-            texts += '\n'
+        texts += '\n'
         texts += '\n'.join(list(tail_texts))
         texts += '\n'
     return texts
