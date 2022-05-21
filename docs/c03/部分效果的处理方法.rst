@@ -1,0 +1,354 @@
+===================
+部分效果的处理方法
+===================
+
+| 下文提到的多步效果，指的是像「`幻变骚灵·网络傀儡师`_」的②效果这样，『作为对象的场上的卡送去墓地』『作为对象的墓地的怪兽特殊召唤』需要分步进行的处理。
+| 例：
+| 「`毒蛇供物`_」记述的是『那1只自己的爬虫类族怪兽和那2张对方的卡破坏』，是1步处理，不是多步处理。
+| 「`废铁双生龙`_」记述的是『选择的自己的卡破坏，选择的对方的卡回到手卡』，『选择的自己的卡破坏』『选择的对方的卡回到手卡』是需要分步进行的处理。
+
+.. _同时处理:
+
+同时处理
+===========
+
+| 需要分步进行的效果处理，从时点上而言，可能在同1个时点进行，也可能不是。
+| 在1个时点进行的效果处理，即使存在多步处理，也是同时处理。
+| 文本上，多步效果之间被『那之后』『再』等记述隔开的场合，就不是同时处理。
+| 此外，进行融合召唤·仪式召唤的效果，或者「`假面变化`_」等把特定融合怪兽特殊召唤的效果，虽然文本没有『那之后』『再』等记述，素材送去墓地和融合召唤·仪式召唤也不是同时处理。
+| S召唤·连接召唤·以及「`坏兽`_」怪兽等的召唤手续，和这些怪兽特殊召唤成功的时点也不是同1个。
+| 例：
+| 「`成金哥布林`_」的①效果处理时，『自己从卡组抽1张』『那之后，对方回复1000基本分』不是同时进行。\ `20/3/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=4895&request_locale=ja>`__
+| 「`梦幻崩影·独角兽`_」的①效果处理时，『那张卡回到持有者卡组』和『再让自己可以从卡组抽1张』不是同时进行。\ `18/1/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13601&request_locale=ja>`__
+| 虽然不是融合召唤，但「`天极辉舰-熊斗龙巧`_」只能通过「`天斗辉巧极`_」的效果特殊召唤，「`天斗辉巧极`_」的『从自己的手卡·场上把「`北极天熊北斗星`_」和「`龙辉巧-扶筐增二`_」各1张除外』的处理与『把1只「`天极辉舰-熊斗龙巧`_」从额外卡组特殊召唤』的处理不是同时进行。\ `21/7/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16552&request_locale=ja>`_
+| 特殊召唤「`拷问巨人`_」时，把衍生物特殊召唤和把自身特殊召唤也不在1个时点进行。\ `20/3/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7386&request_locale=ja>`__
+
+.. attention:: 即使是第九期之后的效果文本，也存在「`变形壶`_」这样，记述是『有手卡的玩家把那些手卡全部丢弃。双方从卡组抽5张』，没有『那之后』『再』等记述，但丢弃和抽卡的处理不是同时进行的例子。\ `22/4/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=4597&request_locale=ja>`__\ 此外，「幻创龙 奇幻龙人神」的①效果处理时，『自己从卡组抽出对方场上的连接怪兽的数量＋1张』和『选对方场上的连接怪兽数量的自己手卡回到卡组』也不是同时进行。\ `21/2/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14097&request_locale=ja>`__
+
+-  | 同时处理不会导致诱发类效果\ :ref:`错过时点`\ 。
+   | 例：
+   | 「`十二兽的会局`_」把「`水龙星-赑屃`_」破坏时，由于破坏和特殊召唤是同时处理，所以「`水龙星-赑屃`_」的①效果不会错过时点，可以发动。
+
+-  | 同时处理的效果让双方同时决斗败北的场合，决斗平局。
+   | 例：
+   | 「`手札抹杀`_」的效果处理时，双方卡组数量都小于要抽的数量的场合，决斗平局。
+   | 「`试胆竞速`_」的效果适用中，自己基本分7500，对方基本分8000的状态，自己发动「`火炎地狱`_」，给对方造成伤害和自己受到伤害同时进行，结果对方基本分7000，自己因「`试胆竞速`_」的效果不受伤害。
+   | 「`试胆竞速`_」的效果适用中，自己基本分7500，对方基本分8000的状态，对方以攻击力1000的怪兽为对象发动「`破坏轮`_」，由于两个伤害不同时进行，对方基本分是7000后，自己不再受到「`试胆竞速`_」效果的保护，结果也受到1000伤害。
+   | 「`倍倍伤害`_」发动后，受到战斗伤害和造成效果伤害是同时适用的，如果自己基本分变成0，对方基本分也会变成0的状况，结果平局。\ `18/12/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22368&keyword=&tag=-1&request_locale=ja>`__
+   | 「`淘气仙星·福克希维琪`_」造成效果伤害后让「`淘气仙星的灯光舞台`_」也造成效果伤害的场合，也是同时造成的伤害。\ `17/12/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21673&request_locale=ja>`__ 但本身造成了2次伤害，「`噩梦之拷问室`_」的效果会连锁发动2次。\ `17/7/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20805&request_locale=ja>`__ 「`DDD 反骨王 列奥尼达`_」从手卡发动效果时选择回复其中1次受到伤害的数值，也就是回复200基本分，不能回复两次。\ `17/12/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6135&request_locale=ja>`__
+
+-  | 记述『这张卡在场上·墓地存在，○○时·的场合（才能）发动』的效果，在『○○时·的场合』之前的时点就必须在场上·墓地存在，否则不能发动。
+   | 不过『这张卡在手卡存在，○○时·的场合（才能）发动』的效果没有这个限制。
+   | 例：
+   | 「`电脑堺豸-豸豸`_」的①效果，『「`电脑堺`_」卡从卡组送去墓地』和『这张卡特殊召唤』同时进行，从卡组把「`电脑堺姬-娘娘`_」送去墓地的场合，这个特殊召唤成功时也不能发动「`电脑堺姬-娘娘`_」的①效果。而「`电脑堺悟-老老`_」的①效果中，『「`电脑堺`_」卡从卡组送去墓地』处理把「`电脑堺姬-娘娘`_」从卡组送去墓地后，进行了『那之后，可以从自己墓地选和送去墓地的卡卡名不同的1只「`电脑堺`_」怪兽效果无效守备表示特殊召唤』处理的场合，这次特殊召唤成功时，可以发动「`电脑堺姬-娘娘`_」的①效果。\ `20/11/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23126&keyword=&tag=-1&request_locale=ja>`__
+   | 以「`丽之魔妖-妲姬`_」为S素材，把「`魔妖`_」怪兽S召唤的场合，由于S素材送去墓地和S怪兽S召唤不在同1时点进行，这次S召唤成功时，可以发动这只作为S素材送去墓地的「`丽之魔妖-妲姬`_」的②效果。\ `18/8/3 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22368&keyword=&tag=-1&request_locale=ja>`__
+   | 「`黯黑之魔王 迪亚波罗斯`_」把自身解放来发动③效果的场合，处理不能发动①效果。\ `18/5/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9000&keyword=&tag=-1&request_locale=ja>`__
+   | 「`恶王 阿里曼`_」把自身解放来发动②效果，这个效果处理把「`黯黑之魔王 迪亚波罗斯`_」加入手卡的场合，处理后也可以从手卡发动这只「`黯黑之魔王 迪亚波罗斯`_」的①效果。\ `18/3/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=293&keyword=&tag=-1&request_locale=ja>`__
+
+-  | 即使在同1个时点进行处理，如果文本本身有先后顺序，实际处理仍然按照文本顺序先后进行。
+   | 也就是说，像「`光道猎犬 雷光`_」的①效果这样，实际处理是先破坏，后把卡组的卡送墓。
+   | 此外，即使文本没有先后顺序，双方玩家都要进行处理的场合，由回合玩家先进行。
+   | 例：
+   | 「`手札断杀`_」效果处理时，回合玩家先把2张手卡送去墓地，非回合玩家可以确认后再决定把哪2张手卡送去墓地。「`暗黑界的取引`_」等效果也是如此处理。
+   | 「`次元要塞兵器`_」攻击里侧守备表示的「`光道猎犬 雷光`_」，反转时发动效果，尽管破坏和从卡组把卡送墓是同时处理，破坏「`次元要塞兵器`_」后就可以正常从卡组上面把3张卡送去墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19832&request_locale=ja>`__
+   | 自己P区域有「`贵龙之魔术师`_」和「`慧眼之魔术师`_」，「`慧眼之魔术师`_」发动效果，尽管自身破坏和选卡放置是同时处理，这个效果处理中被破坏的时点「`贵龙之魔术师`_」的P效果立即适用，破坏并加入额外卡组。然后再从卡组选「`慧眼之魔术师`_」以外的1只「`魔術師`_」P怪兽在P区域放置。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16206&request_locale=ja>`__
+   | 以对方场上「`古代的机械巨人`_」为对象发动墓地「`电子化天使-那沙帝弥-`_」的③效果，处理时自己怪兽区域只有1个可用的场合，「`电子化天使-那沙帝弥-`_」特殊召唤后「`古代的机械巨人`_」被破坏。不是被效果破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20179&request_locale=ja>`__
+
+多步效果的适用
+================
+
+如果把多步效果的每1步记为A、B、...，现行的效果文本有以下几种记述：
+
+『A，B』
+----------
+
+这类记述指的是，「`黑蔷薇龙`_」的②效果这样，『那只对方的守备表示怪兽变成表侧攻击表示』『那个攻击力直到回合结束时变成0』，多步效果之间用『，』隔开的文本。
+
+-  | 基本上，这类效果各步处理在同1个时点进行。
+   | 但是，如果前1步没能成功适用，后1步也不适用。
+   | 例：
+   | 「`混沌No.103 神葬零娘 暮永`_」的效果处理时没能造成伤害的场合，不会除外怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13573&request_locale=ja>`__
+   | 「`黑蔷薇龙`_」的②效果的对象怪兽没有因这个效果变成表侧攻击表示的场合（如已经被「`最终突击命令`_」变成攻击表示了等），攻击力不会变0。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7607&keyword=&tag=-1&request_locale=ja>`__
+   | 以自身为对象发动「`十二兽的会局`_」的①效果，连锁「`旋风`_」把它破坏的场合，由于这个效果没能破坏作为对象的卡，结果不能特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20106&request_locale=ja>`__
+   | 「`冰火之魔导书`_」的效果处理时，没能送去墓地而是除外的场合，不会抽卡。\ `17/7/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20902&keyword=&tag=-1&request_locale=ja>`__ 选P怪兽结果加入额外卡组没能送去墓地的场合也不会抽卡。\ `17/7/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20866&keyword=&tag=-1&request_locale=ja>`__
+
+-  | 基本上，即使处理时后1步不能适用的场合，前1步也会适用。
+   | 不过，如果前后效果有关联，也可能前1步也不适用。
+   | 例：
+   | 「`宝玉的牵绊`_」的①效果处理时，卡组只存在1种「`宝玉兽`_」怪兽的场合，也不会从卡组把1只「`宝玉兽`_」怪兽加入手卡。
+   | 「`铁兽的抗战`_」的效果处理时，因「`活死人的呼声`_」等效果，「`神影依·米德拉什`_」的②效果适用的场合，「`铁兽的抗战`_」的①效果处理完全不适用，不会把任何怪兽特殊召唤。\ `21/4/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23222&keyword=&tag=-1&request_locale=ja>`_
+   | 宣言兽族的「`轮回独断`_」①效果适用中，我方发动「`铁兽的抗战`_」，那个效果处理时可以选因「`轮回独断`_」①效果变成兽族的怪兽从墓地特殊召唤，之后由于在场上不再是兽族怪兽，如果不能全部作为素材来连接召唤「`铁兽`_」怪兽，那么不进行连接召唤，就这样留在场上。\ `21/6/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23286&keyword=&tag=-1&request_locale=ja>`_
+
+『A。那之后/再B』
+---------------------
+
+这类记述指的是，「`成金哥布林`_」这样，『自己从卡组抽1张』『对方回复1000基本分』，多步效果之间用『那之后』隔开的文本。
+以及「`阿拉弥赛亚之仪`_」这样，『在自己场上把1只「`勇者衍生物`_」（天使族·地·4星·攻/守2000）特殊召唤』『可以再从卡组选1张「`命运之旅路`_」在自己的魔法与陷阱区域表侧表示放置』，多步效果之间用『再』隔开的文本。
+
+-  | 这类效果各步处理不在同1个时点进行。
+   | 如果前1步没能成功适用，后1步也不适用。
+   | 这个场合，在前1步处理完的时点就是这个效果处理完毕的时点。
+   | 例：
+   | 「`速攻稻草人`_」的①效果处理时，没能把那次攻击无效的场合，战斗阶段也不会结束。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12933&keyword=&tag=-1&request_locale=ja>`__
+   | 「`阿拉弥赛亚之仪`_」的①效果处理时，因「`虚无空间`_」等效果适用，没能特殊召唤「`勇者衍生物`_」的场合，也不能放置「`命运之旅路`_」。\ `21/11/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23449&keyword=&tag=-1&request_locale=ja>`__
+   | 「`除雪机关车 急速除雪车`_」的①效果处理时，因「`旋风`_」等效果，自己场上不存在魔法·陷阱卡的场合，特殊召唤成功时这个效果处理完毕，后续破坏不再处理，可以发动「`激流葬`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13043&request_locale=ja>`__
+   | 「`破坏轮`_」把「`水龙星-赑屃`_」破坏，由于「`水龙星-赑屃`_」的攻击力是0，「`破坏轮`_」参照攻击力给予伤害的后续效果不再处理，把「`水龙星-赑屃`_」破坏的时点就处理完毕，结果「`水龙星-赑屃`_」的①效果不会错过时点，可以发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14813&keyword=&tag=-1&request_locale=ja>`__
+
+.. attention:: 特别地，「`光与暗之龙`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6347&keyword=&tag=-1&request_locale=ja>`__\ 「`命运英雄 恐惧人`_」\ `16/11/26 <https://yugioh-wiki.net/index.php?%A1%D4%A3%C4%A1%DD%A3%C8%A3%C5%A3%D2%A3%CF%20%A5%C9%A5%EC%A5%C3%A5%C9%A5%AC%A5%A4%A1%D5#faq>`__\ 没能把卡破坏的场合，虽然不是同时处理，也会把怪兽特殊召唤。
+
+-  | 基本上，即使处理时后1步不能适用的场合，前1步也会适用。
+   | 不过，如果前后效果有关联，也可能前1步也不适用。
+   | 例：
+   | 「`光之召集`_」的①效果处理时，墓地的光属性怪兽比自己手卡数要少的场合，这个效果完全不适用，也不会丢弃手卡。\ `09/3/14 <https://yugioh-wiki.net/index.php?%A1%D4%B8%F7%A4%CE%BE%A4%BD%B8%A1%D5#faq>`__
+   | 「`六花绚烂`_」的①效果处理时，卡组不存在和已有的「`六花`_」怪兽的卡名不同但原本等级相同的植物族怪兽的场合，也可以从卡组把1只「`六花`_」怪兽加入手卡。（有的场合，前段处理只能从符合条件的「`六花`_」怪兽中选）
+   | 解放植物族怪兽发动「`六花绚烂`_」时，连锁发动「`针虫的巢窟`_」，结果卡组只剩下1只植物族怪兽的场合，『从卡组把1只「`六花`_」怪兽加入手卡』的处理仍然进行，『再把和加入手卡的怪兽是卡名不同并是原本等级相同的1只植物族怪兽从卡组加入手卡』的处理不进行。\ `20/3/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22995&keyword=&tag=-1&request_locale=ja>`__
+
+『A。B』
+-----------
+
+这类记述指的是，「`光道猎犬 雷光`_」这样，『可以选场上1张卡破坏』『从自己卡组上面把3张卡送去墓地』，多步效果之间用『。』隔开的文本。
+
+-  | 这类效果各步处理在同1个时点进行。
+   | 并且，每步适用互相独立，互不影响，即使前1步没能成功适用，后1步也会适用。
+   | 例：
+   | 「`无偿交换`_」的①效果处理时，没能把那个发动无效并破坏的场合，对方仍会抽卡。\ `17/4/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17304&keyword=&tag=-1&request_locale=ja>`__
+   | 「`生者之书-禁断的咒术-`_」的①效果处理时，作为对象的自己怪兽不在墓地存在的场合，虽然不会特殊召唤，仍然会把对方墓地的卡除外。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5430&request_locale=ja>`__
+   | 「`半龙女仆·耀光龙女`_」的②效果处理时，没能把那个发动无效并破坏的场合，自己仍然会回到额外卡组并特殊召唤「`半龙女仆·龙女管家`_」。\ `20/1/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22965&keyword=&tag=-1&request_locale=ja>`__
+
+『以下效果适用』等含有多个『●』的文本
+--------------------------------------
+
+这类记述指的是，「`交织绵羊`_」这样，含有多个『●』，在1次效果处理中可能适用多步的文本。
+
+-  | 这类效果各步处理不在同1个时点进行，而是按照文本顺序先后进行。
+   | 不过，每步适用互相独立，互不影响，即使前1个『●』没能成功适用，后1个『●』也会适用。
+   | 例：
+   | 「`圣邪之彩色玻璃花窗`_」的效果处理时，先决定是否要进行『●天使族：』的处理，处理的场合，处理后再决定是否要进行『●恶魔族：』的处理。不是在处理前一起决定。
+   | 在「`交织绵羊`_」的连接端把融合怪兽特殊召唤的场合，「`交织绵羊`_」发动效果，『●融合：』的效果处理把墓地的「`虹光之宣告者`_」在「`交织绵羊`_」另一边的连接端特殊召唤的场合，可以继续进行之后的『●S：』的效果处理。
+   | 在「`交织绵羊`_」的连接端把融合怪兽特殊召唤的场合，「`交织绵羊`_」发动效果，『●融合：』的效果处理把墓地的「`纳祭之魔`_」在「`交织绵羊`_」另一边的连接端特殊召唤的场合，不能违反文本顺序进行之前的『●仪式：』的效果处理。
+   | 「`摇晃的目光`_」的①效果处理时，破坏了2张卡，但因「`物质龙`_」等效果没能造成伤害的场合，也会正常再进行『●2张以上：』的处理。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15559&keyword=&tag=-1&request_locale=ja>`__
+   | 「`月光小夜曲舞踊`_」的①效果处理时，因「`虚无空间`_」等效果适用，没能特殊召唤的场合，也会正常再进行『●作为对象的怪兽的攻击力上升对方场上的怪兽数量×500』的处理。\ `18/11/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22236&keyword=&tag=-1&request_locale=ja>`__
+
+.. attention:: 『这个回合』『○○发动过的回合』『○○发动后』基本上不是需要分步处理的效果，『○○发动的场合』是。详见\ :ref:`效果的附加处理`\ 。
+
+特定记述的处理
+================
+
+『那些卡』
+------------
+
+| 这类记述的效果处理时，即使原定的『那些卡』中的部分卡变得不存在，这个效果也正常适用。
+| 如果全部不存在，那么效果不适用。
+| 例：
+| 「`暗之量产工厂`_」的①效果记述的是『那些怪兽加入手卡』，这个效果处理时，作为对象的2只怪兽其中1只不在墓地存在的场合，也会把另1只怪兽加入手卡。\ `15/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6129&request_locale=ja>`__
+| 「`不知火流 燕之太刀`_」的①效果记述的是『那些卡破坏』，这个效果处理时，作为对象的2张卡其中1张不在场上存在的场合，另1张仍然破坏。这个场合也会进行把怪兽除外的处理。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17412&keyword=&tag=-1&request_locale=ja>`__
+| 「`不知火流 燕之太刀`_」的①效果记述的是『那些卡破坏』，这个效果处理时，作为对象的2张卡都不在场上存在的场合，不会破坏卡片，也不会把怪兽除外。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17411&keyword=&tag=-1&request_locale=ja>`__
+
+『那○张卡』
+-------------
+
+| 这类记述的效果处理时，如果原定的『那○张卡』中的部分卡变得不存在，这个效果不适用。
+| 变成里侧表示仍然是『那○张卡』，效果会正常适用。
+| 其中一部分存在，但是因不受影响等状况，不会正常适用这个效果的场合，剩下的卡仍然会适用这个效果，但这1步当作没有正常适用，后续处理不进行。
+| 例：
+| 「`凶导剧作术`_」的②效果记述的是『那2只怪兽之内1只加入手卡，另1只回到卡组最下面』，这个效果处理时，作为对象的2只怪兽其中1只不在墓地存在的场合，这个效果就不会适用。\ `22/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17184&request_locale=ja>`__
+| 「`灵摆区`_」的①效果记述的是『那2张卡破坏』，这个效果处理时，作为对象的2张卡其中1张不在P区域存在的场合，不会破坏任何卡，『这个回合双方不能作灵摆召唤以外的特殊召唤』也不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16400&keyword=&tag=-1&request_locale=ja>`__
+| 「`灵摆区`_」的①效果记述的是『那2张卡破坏』，这个效果处理时，作为对象的2张卡其中1张因「`闪珖龙 星尘`_」的效果等，不会被这个效果破坏的场合，剩下那张仍然破坏。由于没有破坏2张卡，『这个回合双方不能作灵摆召唤以外的特殊召唤』仍不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16638&keyword=&tag=-1&request_locale=ja>`__
+| 「`黑魔族复活之棺`_」的①效果记述的是『那2只怪兽送去墓地』，这个效果处理时，作为对象的2只怪兽其中1只不在场上存在的场合，不会把任何怪兽送去墓地，也不会把怪兽特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13358&keyword=&tag=-1&request_locale=ja>`__
+| 「`黑魔族复活之棺`_」的①效果记述的是『那2只怪兽送去墓地』，这个效果处理时，作为对象的2只怪兽其中1只变成里侧守备表示的场合，正常把这2只怪兽送去墓地，正常从卡组把怪兽特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=42&keyword=&tag=-1&request_locale=ja>`__
+| 「`黑魔族复活之棺`_」的①效果记述的是『那2只怪兽送去墓地』，这个效果处理时，作为对象的2只怪兽其中1只不受陷阱效果影响的场合，剩下那只怪兽送去墓地，之后不会把怪兽特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13357&keyword=&tag=-1&request_locale=ja>`__
+
+『A和B』
+----------
+
+| 对A和B这2个整体而言，相当于它们被并入『那○张卡』。
+| 如果A和B本身还能细化，再按细化记述分别归类处理。
+| 例：
+| 「`反射镜力启动`_」的②效果记述的是『那张卡和这张卡在自己场上盖放』，这个效果处理时，「`反射镜力启动`_」不在墓地存在的场合，不会盖放任何卡。\ `18/4/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21855&keyword=&tag=-1&request_locale=ja>`__
+| 「`霸王门 无限`_」的①效果记述的是『那张卡和这张卡破坏』，这个效果处理时，这2张卡之中有1张不在场上存在的场合，不会破坏任何卡，也不会特殊召唤怪兽。此外，其中1张因「`闪珖龙 星尘`_」的效果等，不会被这个效果破坏的场合，剩下那张仍然破坏。由于没有破坏2张卡，仍然不会特殊召唤怪兽。\ `22/2/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23575&keyword=&tag=-1&request_locale=ja>`__
+| 「`毒蛇供物`_」的①效果记述的是『那1只自己的爬虫类族怪兽和那2张对方的卡破坏』，这个效果处理时，作为对象的3张卡之中有1张不再在场上存在的场合，不会破坏任何卡。此外，如果只是其中1张不受陷阱效果影响的状况，剩下的卡仍然破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11369&keyword=&tag=-1&request_locale=ja>`__
+
+.. note:: 虽然看起来「`毒蛇供物`_」的①效果和『那3张卡破坏』没什么区别，不过这个效果处理时作为对象的卡其中1张控制权变更的场合，或者自己的那张卡种族变更或变成里侧表示的场合，也不会破坏任何卡。
+
+『A以及B』
+------------
+
+| 对A和B这2个整体而言，相当于它们被并入『那些卡』。
+| 如果A和B本身还能细化，再按细化记述分别归类处理。
+| 例：
+| 「`黑色花园`_」的②效果记述的是『这张卡以及场上的植物族怪兽全部破坏』，这个效果处理时，没有植物族怪兽的场合，自身破坏，也会特殊召唤对象怪兽；\ `18/11/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22262&keyword=&tag=-1&request_locale=ja>`__\ 场上存在植物族怪兽，其中1只在处理时变成里侧表示的场合，自身和其他表侧表示的全部破坏，仍会特殊召唤怪兽；\ `18/11/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22259&keyword=&tag=-1&request_locale=ja>`__\ 场上存在植物族怪兽，其中1只在处理时不受魔法效果影响，没被破坏的场合，自身和其他表侧表示的植物族怪兽仍会被破坏，由于没有全部破坏，『全部破坏的场合，作为对象的怪兽特殊召唤』不适用。\ `18/11/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22260&keyword=&tag=-1&request_locale=ja>`__
+| 「`真红莲超新星龙`_」的②效果记述的是『这张卡以及对方场上的卡全部除外』，这个效果处理时，自身不在场上存在的场合，也会把对方场上的卡全部除外。\ `21/12/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23498&keyword=&tag=-1&request_locale=ja>`__
+
+『全部』
+------------
+
+| 基本上，记述『全部○○』的效果，只要有1只适用，就当作正常适用了这步效果。
+| 不过，「`黑色花园`_」的②效果明确记述了『全部破坏的场合，作为对象的怪兽特殊召唤』，这个场合只在它和表侧表示的植物族怪兽都被破坏的场合才会适用。
+| 例：
+| 「遭受妨碍的坏兽安眠」的①效果处理时，只要破坏了1只怪兽，就会特殊召唤「坏兽」怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=116&keyword=&tag=-1&request_locale=ja>`__\ 没有破坏任何怪兽的场合，才不能特殊召唤「坏兽」怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8000&keyword=&tag=-1&request_locale=ja>`__
+| 「激流苏生」的效果处理时，被破坏的怪兽之中有1只不在墓地存在，或者不能被特殊召唤的场合，也会把其他怪兽特殊召唤，也会给与对方那个数量×500的数值的伤害。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12715&keyword=&tag=-1&request_locale=ja>`__
+| 「灵摆风暴」的①效果处理时，只要破坏了1张卡，就可以选对方场上1张魔法·陷阱卡破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17401&keyword=&tag=-1&request_locale=ja>`__\ 没有破坏任何卡的场合，才不能选对方场上1张魔法·陷阱卡破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17400&keyword=&tag=-1&request_locale=ja>`__
+
+.. attention:: 特别地，「`再爆裂`_」的效果处理时，只要有1只怪兽因不受魔法效果影响等，没被这个效果破坏的场合，就不能特殊召唤怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7996&keyword=&tag=-1&request_locale=ja>`__
+
+『尽可能』
+------------
+
+| 基本上，记述『尽可能○○』的效果，只要能适用1张，就当作会正常适用，可以发动这类效果。
+| 不过，「地狱的暴走召唤」等，让『对方尽可能○○』的效果，如果我方不能判断对方是否可以进行，『对方尽可能○○』即使不能适用，也可以发动这类效果。
+| 例：
+| 场上存在「召唤僧」这样不能被解放的怪兽时，只要场上还存在其他可以解放的怪兽，就可以发动「`原始生命态 尼比鲁`_」的①效果。这个效果处理只把可以解放的怪兽全部解放。只要解放了1只以上怪兽，就会特殊召唤「`原始生命态 尼比鲁`_」。没能解放任何怪兽的场合，不会特殊召唤，「`原始生命态 尼比鲁`_」留在手卡。\ `22/3/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22810&keyword=&tag=-1&request_locale=ja>`__
+| 场上存在「虚无空间」时，也可以发动「超量叠光延迟」。这个场合，只让对方的X怪兽回到额外卡组，不会特殊召唤怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13717&keyword=&tag=-1&request_locale=ja>`__
+| 对方怪兽的直接攻击宣言时，即使对方手卡·卡组·墓地没有这只攻击怪兽的同名怪兽，我方也可以发动「方界轮回」。这个场合，只把那个攻击怪兽的攻击力变成0，放置方界指示物，变得不能攻击，效果无效。我方还可以再正常特殊召唤「方界」怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19210&keyword=&tag=-1&request_locale=ja>`__
+| 对方没有手卡时，额外连接状态的「拓扑篡改感染龙」也不能发动②效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21896&keyword=&tag=-1&request_locale=ja>`__
+
+.. tip:: 可以看出，基本上『全部○○』『尽可能○○』的处理是一致的。
+
+『回到手卡』『回到卡组』
+------------------------
+
+| 融合怪兽等，适用『回到手卡』『回到卡组』的效果时，会回到额外卡组。
+| 这个场合，『回到手卡』的效果当作没有正常适用，后续处理不适用；『回到卡组』的效果当作正常适用，后续处理正常适用。
+| 例：
+| 「`灵魂鸟神 彦孔雀`_」的①效果处理时，如果作为对象的怪兽都回到额外卡组的场合，由于没有回到手卡，不能从手卡特殊召唤怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7730&request_locale=ja>`__
+| 「`转生炎兽 猎鹰`_」的②效果处理时，对象怪兽是连接怪兽，回到额外卡组的场合，由于没有回到手卡，『这张卡从墓地特殊召唤』的处理不适用。\ `18/8/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22043&request_locale=ja>`__
+| 「真龙的觉醒」的①效果处理时，场上的卡只有1只X怪兽，回到额外卡组的场合，也可以从卡组把1只「龙剑士」怪兽或者「龙魔王」怪兽无视召唤条件特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18108&keyword=&tag=-1&request_locale=ja>`__
+| 「贪欲之壶」的①效果处理时，对象怪兽全部回到额外卡组的场合，不会洗切卡组，仍然会抽2张卡。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10593&keyword=&tag=-1&request_locale=ja>`__
+
+.. attention:: 特别地，「时械神 梅塔伊恩」的③效果记述的是『这张卡以外的场上的怪兽全部回到持有者手卡，给与对方回去数量×300伤害』，回到额外卡组的怪兽也会计入『回去数量』。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10991&keyword=&tag=-1&request_locale=ja>`__
+
+能否发动的判定
+================
+
+必发效果
+----------
+
+| 即使效果完全不能适用，或者一部分不能适用，也必须发动这类效果。
+| 效果处理时，是多步效果的场合，按\ 多步效果的适用_\ 来决定是否适用。
+| 例：
+| 对方场上不存在怪兽时，特殊召唤「月华龙 黑蔷薇」的场合，也会发动①效果，这个场合不取对象。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13125&keyword=&tag=-1&request_locale=ja>`__
+| 对方场上存在「神殿守护者」时，我方「变形壶」反转的场合也会发动①效果，这个场合我方仍然要把手卡全部丢弃，并且我方不会抽卡。\ `12/7/18 <https://yugioh-wiki.net/index.php?%A1%D4%BF%C0%C5%C2%A4%F2%BC%E9%A4%EB%BC%D4%A1%D5#faq>`__
+
+选发效果
+----------
+
+| 这类效果如果不是多步效果，在不能适用的场合，不能发动。
+| 是多步效果的场合，如果第1步不能适用，仍然不能发动。
+| 第2步以后，按照文本顺序，如果有处理时必须适用的效果，在不能适用的场合，基本上不能发动。
+| 可以不适用的效果，在不能适用的场合，可以发动，处理时这步不适用。后续处理按\ 多步效果的适用_\ 来决定是否适用。
+| 例：
+| 我方场上存在「神殿守护者」时，对方只在除「手札抹杀」以外没有手卡的场合，才能发动「手札抹杀」。\ `wiki <https://yugioh-wiki.net/index.php?%A1%D4%BF%C0%C5%C2%A4%F2%BC%E9%A4%EB%BC%D4%A1%D5#faq>`__
+| 场上存在「虚无空间」时，不能发动「遭受妨碍的坏兽安眠」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19910&keyword=&tag=-1&request_locale=ja>`__
+| 对方怪兽区域存在「雷王」时，也可以发动「闪刀空域-零区」的①效果，处理时如果翻开的卡没有「闪刀」卡，全部回到卡组洗切；翻开了「闪刀」卡的场合，也不能加入手卡，仍然全部回到卡组洗切，那之后作为对象的卡仍会送去墓地。\ `18/2/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21758&keyword=&tag=-1&request_locale=ja>`__
+
+.. _`虚无空间`: https://ygocdb.com/?search=虚无空间
+.. _`无偿交换`: https://ygocdb.com/?search=无偿交换
+.. _`手札抹杀`: https://ygocdb.com/?search=手札抹杀
+.. _`勇者衍生物`: https://ygocdb.com/?search=勇者衍生物
+.. _`霸王门 无限`: https://ygocdb.com/?search=霸王门+无限
+.. _`北极天熊北斗星`: https://ygocdb.com/?search=北极天熊北斗星
+.. _`暗之量产工厂`: https://ygocdb.com/?search=暗之量产工厂
+.. _`光与暗之龙`: https://ygocdb.com/?search=光与暗之龙
+.. _`激流葬`: https://ygocdb.com/?search=激流葬
+.. _`变形壶`: https://ygocdb.com/?search=变形壶
+.. _`月光小夜曲舞踊`: https://ygocdb.com/?search=月光小夜曲舞踊
+.. _`命运英雄 恐惧人`: https://ygocdb.com/?search=命运英雄+恐惧人
+.. _`闪珖龙 星尘`: https://ygocdb.com/?search=闪珖龙+星尘
+.. _`成金哥布林`: https://ygocdb.com/?search=成金哥布林
+.. _`反射镜力启动`: https://ygocdb.com/?search=反射镜力启动
+.. _`混沌No.103 神葬零娘 暮永`: https://ygocdb.com/?search=混沌No.103+神葬零娘+暮永
+.. _`古代的机械巨人`: https://ygocdb.com/?search=古代的机械巨人
+.. _`凶导剧作术`: https://ygocdb.com/?search=凶导剧作术
+.. _`慧眼之魔术师`: https://ygocdb.com/?search=慧眼之魔术师
+.. _`魔術師`: https://ygocdb.com/?search=魔術師
+.. _`纳祭之魔`: https://ygocdb.com/?search=纳祭之魔
+.. _`光道猎犬 雷光`: https://ygocdb.com/?search=光道猎犬+雷光
+.. _`物质龙`: https://ygocdb.com/?search=物质龙
+.. _`DDD 反骨王 列奥尼达`: https://ygocdb.com/?search=DDD+反骨王+列奥尼达
+.. _`除雪机关车 急速除雪车`: https://ygocdb.com/?search=除雪机关车+急速除雪车
+.. _`黑魔族复活之棺`: https://ygocdb.com/?search=黑魔族复活之棺
+.. _`噩梦之拷问室`: https://ygocdb.com/?search=噩梦之拷问室
+.. _`旋风`: https://ygocdb.com/?search=旋风
+.. _`黯黑之魔王 迪亚波罗斯`: https://ygocdb.com/?search=黯黑之魔王+迪亚波罗斯
+.. _`再爆裂`: https://ygocdb.com/?search=再爆裂
+.. _`半龙女仆·龙女管家`: https://ygocdb.com/?search=半龙女仆·龙女管家
+.. _`幻变骚灵·网络傀儡师`: https://ygocdb.com/?search=幻变骚灵·网络傀儡师
+.. _`水龙星-赑屃`: https://ygocdb.com/?search=水龙星-赑屃
+.. _`魔妖`: https://ygocdb.com/?search=魔妖
+.. _`黑蔷薇龙`: https://ygocdb.com/?search=黑蔷薇龙
+.. _`十二兽的会局`: https://ygocdb.com/?search=十二兽的会局
+.. _`试胆竞速`: https://ygocdb.com/?search=试胆竞速
+.. _`丽之魔妖-妲姬`: https://ygocdb.com/?search=丽之魔妖-妲姬
+.. _`拷问巨人`: https://ygocdb.com/?search=拷问巨人
+.. _`淘气仙星的灯光舞台`: https://ygocdb.com/?search=淘气仙星的灯光舞台
+.. _`龙辉巧-扶筐增二`: https://ygocdb.com/?search=龙辉巧-扶筐增二
+.. _`电脑堺姬-娘娘`: https://ygocdb.com/?search=电脑堺姬-娘娘
+.. _`灵摆区`: https://ygocdb.com/?search=灵摆区
+.. _`电脑堺豸-豸豸`: https://ygocdb.com/?search=电脑堺豸-豸豸
+.. _`黑色花园`: https://ygocdb.com/?search=黑色花园
+.. _`阿拉弥赛亚之仪`: https://ygocdb.com/?search=阿拉弥赛亚之仪
+.. _`手札断杀`: https://ygocdb.com/?search=手札断杀
+.. _`淘气仙星·福克希维琪`: https://ygocdb.com/?search=淘气仙星·福克希维琪
+.. _`倍倍伤害`: https://ygocdb.com/?search=倍倍伤害
+.. _`梦幻崩影·独角兽`: https://ygocdb.com/?search=梦幻崩影·独角兽
+.. _`破坏轮`: https://ygocdb.com/?search=破坏轮
+.. _`恶王 阿里曼`: https://ygocdb.com/?search=恶王+阿里曼
+.. _`假面变化`: https://ygocdb.com/?search=假面变化
+.. _`火炎地狱`: https://ygocdb.com/?search=火炎地狱
+.. _`半龙女仆·耀光龙女`: https://ygocdb.com/?search=半龙女仆·耀光龙女
+.. _`贵龙之魔术师`: https://ygocdb.com/?search=贵龙之魔术师
+.. _`次元要塞兵器`: https://ygocdb.com/?search=次元要塞兵器
+.. _`坏兽`: https://ygocdb.com/?search=坏兽
+.. _`电脑堺悟-老老`: https://ygocdb.com/?search=电脑堺悟-老老
+.. _`虹光之宣告者`: https://ygocdb.com/?search=虹光之宣告者
+.. _`天斗辉巧极`: https://ygocdb.com/?search=天斗辉巧极
+.. _`命运之旅路`: https://ygocdb.com/?search=命运之旅路
+.. _`天极辉舰-熊斗龙巧`: https://ygocdb.com/?search=天极辉舰-熊斗龙巧
+.. _`废铁双生龙`: https://ygocdb.com/?search=废铁双生龙
+.. _`冰火之魔导书`: https://ygocdb.com/?search=冰火之魔导书
+.. _`不知火流 燕之太刀`: https://ygocdb.com/?search=不知火流+燕之太刀
+.. _`光之召集`: https://ygocdb.com/?search=光之召集
+.. _`交织绵羊`: https://ygocdb.com/?search=交织绵羊
+.. _`电脑堺`: https://ygocdb.com/?search=电脑堺
+.. _`生者之书-禁断的咒术-`: https://ygocdb.com/?search=生者之书-禁断的咒术-
+.. _`圣邪之彩色玻璃花窗`: https://ygocdb.com/?search=圣邪之彩色玻璃花窗
+.. _`真红莲超新星龙`: https://ygocdb.com/?search=真红莲超新星龙
+.. _`幻创龙 奇幻龙人神`: https://ygocdb.com/?search=幻创龙+奇幻龙人神
+.. _`摇晃的目光`: https://ygocdb.com/?search=摇晃的目光
+.. _`毒蛇供物`: https://ygocdb.com/?search=毒蛇供物
+.. _`速攻稻草人`: https://ygocdb.com/?search=速攻稻草人
+.. _`最终突击命令`: https://ygocdb.com/?search=最终突击命令
+.. _`电子化天使-那沙帝弥-`: https://ygocdb.com/?search=电子化天使-那沙帝弥-
+.. _`暗黑界的取引`: https://ygocdb.com/?search=暗黑界的取引
+.. _`铁兽`: https://ygocdb.com/?search=铁兽
+.. _`宝玉的牵绊`: https://ygocdb.com/?search=宝玉的牵绊
+.. _`闪刀`: https://ygocdb.com/?search=闪刀
+.. _`龙剑士`: https://ygocdb.com/?search=龙剑士
+.. _`贪欲之壶`: https://ygocdb.com/?search=贪欲之壶
+.. _`神殿守护者`: https://ygocdb.com/?search=神殿守护者
+.. _`灵摆风暴`: https://ygocdb.com/?search=灵摆风暴
+.. _`超量叠光延迟`: https://ygocdb.com/?search=超量叠光延迟
+.. _`真龙的觉醒`: https://ygocdb.com/?search=真龙的觉醒
+.. _`铁兽的抗战`: https://ygocdb.com/?search=铁兽的抗战
+.. _`闪刀空域-零区`: https://ygocdb.com/?search=闪刀空域-零区
+.. _`地狱的暴走召唤`: https://ygocdb.com/?search=地狱的暴走召唤
+.. _`召唤僧`: https://ygocdb.com/?search=召唤僧
+.. _`方界轮回`: https://ygocdb.com/?search=方界轮回
+.. _`六花`: https://ygocdb.com/?search=六花
+.. _`针虫的巢窟`: https://ygocdb.com/?search=针虫的巢窟
+.. _`时械神 梅塔伊恩`: https://ygocdb.com/?search=时械神+梅塔伊恩
+.. _`灵魂鸟神 彦孔雀`: https://ygocdb.com/?search=灵魂鸟神+彦孔雀
+.. _`龙魔王`: https://ygocdb.com/?search=龙魔王
+.. _`神影依·米德拉什`: https://ygocdb.com/?search=神影依·米德拉什
+.. _`遭受妨碍的坏兽安眠`: https://ygocdb.com/?search=遭受妨碍的坏兽安眠
+.. _`活死人的呼声`: https://ygocdb.com/?search=活死人的呼声
+.. _`激流苏生`: https://ygocdb.com/?search=激流苏生
+.. _`轮回独断`: https://ygocdb.com/?search=轮回独断
+.. _`拓扑篡改感染龙`: https://ygocdb.com/?search=拓扑篡改感染龙
+.. _`转生炎兽 猎鹰`: https://ygocdb.com/?search=转生炎兽+猎鹰
+.. _`原始生命态 尼比鲁`: https://ygocdb.com/?search=原始生命态+尼比鲁
+.. _`方界`: https://ygocdb.com/?search=方界
+.. _`宝玉兽`: https://ygocdb.com/?search=宝玉兽
+.. _`六花绚烂`: https://ygocdb.com/?search=六花绚烂
+.. _`月华龙 黑蔷薇`: https://ygocdb.com/?search=月华龙+黑蔷薇
+.. _`雷王`: https://ygocdb.com/?search=雷王
