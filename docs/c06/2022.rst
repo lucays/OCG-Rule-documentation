@@ -1066,6 +1066,25 @@
 | 对方「`现世离`_」的①效果把我方墓地的怪兽盖放在我方场上时，也是『对方把1只怪兽守备表示盖放时』，我方可以发动「`异次元的落穴`_」。\ `22/5/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23658&keyword=&tag=-1&request_locale=ja>`_
 | 「`原始生命态 尼比鲁`_」的①效果把怪兽衍生物解放的场合，也会计算那些衍生物的原本攻击力。如解放「`勇者衍生物`_」的场合，原本攻击力·守备力会各自计入2000/2000。\ `22/5/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23657&keyword=&tag=-1&request_locale=ja>`_
 
+5/20
+-------
+
+| 邮件：
+| 自己场上存在「`代理龙`_」和1只装备着「`强化支援机械·重装武器`_」的怪兽，这只怪兽要被战斗·效果破坏时，「`强化支援机械·重装武器`_」的①效果强制适用作为代替把自身破坏。结果「`代理龙`_」的①效果不会适用。
+
+| wiki:
+| 支付2000基本分，把手卡全部给对方观看发动「`红莲之指名者`_」时，可以连锁再支付2000基本分并把手卡全部给对方观看发动第2张「`红莲之指名者`_」。\ `22/5/20 <https://yugioh-wiki.net/index.php?%B8%F8%B3%AB#faq>`_
+
+| 数据库：
+| 「`次元吸引者`_」①效果适用中的回合，「`亚马逊的秘术`_」的②效果也可以正常发动并适用。这个场合，把额外卡组那只「`亚马逊`_」怪兽除外。\ `22/5/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23672&keyword=&tag=-1&request_locale=ja>`_
+| 「`命运怀抱的爆弹`_」发动时，只在对方场上攻击力最高的怪兽的原本攻击力不是0或者『？』的场合，才能连锁发动「`地狱的冷枪`_」。\ `22/5/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23671&keyword=&tag=-1&request_locale=ja>`_
+| 「`绝望与希望的逆转`_」的①效果处理时，场上的陷阱怪兽被送去墓地的场合，不会计入『最多有被这个效果各送去对方墓地的怪兽数量』。\ `22/5/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23670&keyword=&tag=-1&request_locale=ja>`_
+| 「`绝望与希望的逆转`_」的①效果处理时，先是回合玩家选好要特殊召唤的怪兽，再是非回合玩家确定要特殊召唤的怪兽，然后互相再把这些确定的怪兽特殊召唤到各自的怪兽区域。\ `22/5/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23669&keyword=&tag=-1&request_locale=ja>`_
+| 「`绝望与希望的逆转`_」发动时，可以连锁发动「`屋敷童`_」的①效果。\ `22/5/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23668&keyword=&tag=-1&request_locale=ja>`_
+| 以守备表示的怪兽为对象发动「`变形斗士·变换装置`_」时，可以连锁发动「`灰流丽`_」的①效果。\ `22/5/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23667&keyword=&tag=-1&request_locale=ja>`_
+| 「`现世与冥界的逆转`_」不是从卡组把卡送去墓地，或者墓地的卡回到卡组的效果。不能发动「`古尖兵 凯尔柏克`_」「`古卫兵 阿基多`_」的①效果。\ `22/5/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23666&keyword=&tag=-1&request_locale=ja>`_
+| 「`现世与冥界的逆转`_」发动后，这个连锁上发动「`宿神像 凯尔多`_」「`剑神官 姆多拉`_」②效果的场合，由于这个时点「`现世与冥界的逆转`_」在场上表侧表示存在，因此对象最多可以是5张。\ `22/5/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23665&keyword=&tag=-1&request_locale=ja>`_
+
 .. _`转生炎兽 独角兔`: https://ygocdb.com/?search=转生炎兽+独角兔
 .. _`光之护封剑`: https://ygocdb.com/?search=光之护封剑
 .. _`圣夜的煌龙`: https://ygocdb.com/?search=圣夜的煌龙
@@ -1772,3 +1791,16 @@
 .. _`洞`: https://ygocdb.com/?search=洞
 .. _`落穴`: https://ygocdb.com/?search=落穴
 .. _`库拉莉亚之虫惑魔`: https://ygocdb.com/?search=库拉莉亚之虫惑魔
+.. _`古尖兵 凯尔柏克`: https://ygocdb.com/?search=古尖兵+凯尔柏克
+.. _`亚马逊的秘术`: https://ygocdb.com/?search=亚马逊的秘术
+.. _`剑神官 姆多拉`: https://ygocdb.com/?search=剑神官+姆多拉
+.. _`命运怀抱的爆弹`: https://ygocdb.com/?search=命运怀抱的爆弹
+.. _`变形斗士·变换装置`: https://ygocdb.com/?search=变形斗士·变换装置
+.. _`宿神像 凯尔多`: https://ygocdb.com/?search=宿神像+凯尔多
+.. _`亚马逊`: https://ygocdb.com/?search=亚马逊
+.. _`地狱的冷枪`: https://ygocdb.com/?search=地狱的冷枪
+.. _`次元吸引者`: https://ygocdb.com/?search=次元吸引者
+.. _`古卫兵 阿基多`: https://ygocdb.com/?search=古卫兵+阿基多
+.. _`绝望与希望的逆转`: https://ygocdb.com/?search=绝望与希望的逆转
+.. _`代理龙`: https://ygocdb.com/?search=代理龙
+.. _`强化支援机械·重装武器`: https://ygocdb.com/?search=强化支援机械·重装武器
