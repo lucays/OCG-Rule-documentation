@@ -953,7 +953,6 @@
 .. _`强欲而贪欲之壶`: https://ygocdb.com/?search=强欲而贪欲之壶
 .. _`鬼签`: https://ygocdb.com/?search=鬼签
 .. _`影依融合`: https://ygocdb.com/?search=影依融合
-.. _`Live☆Twin 姬丝基勒`: https://ygocdb.com/?search=Live☆Twin+姬丝基勒
 .. _`魔王 迪亚波罗斯`: https://ygocdb.com/?search=魔王+迪亚波罗斯
 .. _`神影依·拿非利`: https://ygocdb.com/?search=神影依·拿非利
 .. _`寄生虫 帕拉赛德`: https://ygocdb.com/?search=寄生虫+帕拉赛德
@@ -964,6 +963,7 @@
 .. _`冰水浸蚀`: https://ygocdb.com/?search=冰水浸蚀
 .. _`命运女郎·沃特莉`: https://ygocdb.com/?search=命运女郎·沃特莉
 .. _`直播☆双子 璃拉`: https://ygocdb.com/?search=直播☆双子+璃拉
-.. _`次元魔法`: https://ygocdb.com/?search=次元魔法.. _`邪恶★双子星 姬丝基勒·璃拉`: https://ygocdb.com/?search=邪恶★双子星+姬丝基勒·璃拉
+.. _`次元魔法`: https://ygocdb.com/?search=次元魔法
+.. _`邪恶★双子星 姬丝基勒·璃拉`: https://ygocdb.com/?search=邪恶★双子星+姬丝基勒·璃拉
 .. _`邪恶★双子星 姬丝基勒`: https://ygocdb.com/?search=邪恶★双子星+姬丝基勒
 .. _`直播☆双子 姬丝基勒`: https://ygocdb.com/?search=直播☆双子+姬丝基勒

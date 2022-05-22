@@ -182,7 +182,7 @@
 『全部』
 ------------
 
-| 基本上，记述『全部○○』的效果，只要有1只适用，就当作正常适用了这步效果。
+| 基本上，记述『全部○○』的效果，只要有1张适用，就当作正常适用了这步效果。
 | 不过，「`黑色花园`_」的②效果明确记述了『全部破坏的场合，作为对象的怪兽特殊召唤』，这个场合只在它和表侧表示的植物族怪兽都被破坏的场合才会适用。
 | 例：
 | 「`遭受妨碍的坏兽安眠`_」的①效果处理时，只要破坏了1只怪兽，就会特殊召唤「`坏兽`_」怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=116&keyword=&tag=-1&request_locale=ja>`__\ 没有破坏任何怪兽的场合，才不能特殊召唤「`坏兽`_」怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8000&keyword=&tag=-1&request_locale=ja>`__
