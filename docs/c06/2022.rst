@@ -1032,6 +1032,9 @@
    | 当作「`古代的机械巨人`_」使用的「`元素英雄 棱镜侠`_」和「`古代的机械巨人-究极重击`_」在内的3只怪兽为素材作融合召唤的「`古代的机械超巨人`_」的②效果也适用，在同1次的战斗阶段中可以作出2次以上攻击。\ `17/11/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11915&keyword=&tag=-1&request_locale=ja>`_
    | 因「`黯黑世界-暗影敌托邦-`_」的①效果等，当作暗属性的卡名不同的怪兽为素材连接召唤的「`魔界的警逻课 死亡警察`_」也会得到『●』效果。\ `18/6/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21965&keyword=&tag=-1&request_locale=ja>`_
 
+| wiki:
+| 以对方场上里侧表示怪兽为对象发动了「`灵魂交错`_」的回合，也可以通过自身①效果解放自己1只战士族或天使族怪兽来特殊召唤「`电子化芭蕾练习裙`_」。\ `22/5/12 <https://yugioh-wiki.net/index.php?%A1%D4%A5%AF%A5%ED%A5%B9%A1%A6%A5%BD%A5%A6%A5%EB%A1%D5#faq>`_
+
 5/14
 --------
 
@@ -1074,6 +1077,7 @@
 
 | wiki:
 | 支付2000基本分，把手卡全部给对方观看发动「`红莲之指名者`_」时，可以连锁再支付2000基本分并把手卡全部给对方观看发动第2张「`红莲之指名者`_」。\ `22/5/20 <https://yugioh-wiki.net/index.php?%B8%F8%B3%AB#faq>`_
+| 以对方场上恶魔族怪兽为对象发动了「`灵魂交错`_」的回合，由于「`电子化芭蕾练习裙`_」的①效果只能解放战士族或天使族怪兽，结果不能通过这个效果来特殊召唤「`电子化芭蕾练习裙`_」。\ `22/5/20 <https://yugioh-wiki.net/index.php?%A1%D4%A5%AF%A5%ED%A5%B9%A1%A6%A5%BD%A5%A6%A5%EB%A1%D5#faq>`_
 
 | 数据库：
 | 「`次元吸引者`_」①效果适用中的回合，「`亚马逊的秘术`_」的②效果也可以正常发动并适用。这个场合，把额外卡组那只「`亚马逊`_」怪兽除外。\ `22/5/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23672&keyword=&tag=-1&request_locale=ja>`_
@@ -1084,6 +1088,35 @@
 | 以守备表示的怪兽为对象发动「`变形斗士·变换装置`_」时，可以连锁发动「`灰流丽`_」的①效果。\ `22/5/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23667&keyword=&tag=-1&request_locale=ja>`_
 | 「`现世与冥界的逆转`_」不是从卡组把卡送去墓地，或者墓地的卡回到卡组的效果。不能发动「`古尖兵 凯尔柏克`_」「`古卫兵 阿基多`_」的①效果。\ `22/5/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23666&keyword=&tag=-1&request_locale=ja>`_
 | 「`现世与冥界的逆转`_」发动后，这个连锁上发动「`宿神像 凯尔多`_」「`剑神官 姆多拉`_」②效果的场合，由于这个时点「`现世与冥界的逆转`_」在场上表侧表示存在，因此对象最多可以是5张。\ `22/5/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23665&keyword=&tag=-1&request_locale=ja>`_
+
+5/23
+-------
+
+| wiki:
+| 以对方场上里侧表示的怪兽为对象发动了「`灵魂交错`_」的回合，不能发动「`暗之卡组破坏病毒`_」。\ `22/5/23 <https://yugioh-wiki.net/index.php?%A1%D4%A5%AF%A5%ED%A5%B9%A1%A6%A5%BD%A5%A6%A5%EB%A1%D5#faq>`_
+
+5/26
+-------
+
+| 数据库：
+| 「`淀神 阿匹卜`_」的『自己场上有其他的永续陷阱卡存在的场合，可以再选最多有那个数量的对方场上的表侧表示的卡那个效果直到回合结束时无效』效果处理时，怪兽区域也当作陷阱卡使用的陷阱怪兽如「`始源的帝王`_」会计入这个数量，不当作陷阱卡使用的陷阱怪兽如「`真源的帝王`_」不计数。\ `22/5/26 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23673&keyword=&tag=-1&request_locale=ja>`_
+
+5/27
+-------
+
+| 邮件：
+| 我方以对方场上的「`转生炎兽 火凤凰`_」为对象发动「`精神操作`_」，我方连锁发动「`活死人的呼声`_」特殊召唤了连接怪兽的场合，这个连锁处理后，在我方场上的这只「`转生炎兽 火凤凰`_」不能发动③效果。
+| 我方场上存在「`钢铁袭击者`_」，我方「`影星轨道兵器 着陆九头蛇`_」的①效果发动时，对方连锁发动「`雷破`_」破坏了「`影星轨道兵器 着陆九头蛇`_」，之后「`影星轨道兵器 着陆九头蛇`_」的①效果才破坏卡的场合，仍然不能发动「`钢铁袭击者`_」的②效果。
+| 我方场上存在「`钢铁袭击者`_」，我方「`威胁的人造人-念力震慑者`_」解放自身发动②效果，破坏了对方场上的陷阱卡的场合，仍然不能发动「`钢铁袭击者`_」的②效果。
+
+| wiki:
+| 对方抽卡阶段的抽卡前，我方多只「`魔王 迪亚波罗斯`_」的②效果必须组成连锁发动。对方抽卡阶段的抽卡前，我方「`魔王 迪亚波罗斯`_」A的②效果发动时，我方连锁发动「`敌人控制器`_」得到对方「`魔王 迪亚波罗斯`_」B控制权的场合，处理后这只「`魔王 迪亚波罗斯`_」B也不能再发动②效果。\ `22/5/27 <https://yugioh-wiki.net/index.php?%A1%D4%CB%E2%B2%A6%A5%C7%A5%A3%A5%A2%A5%DC%A5%ED%A5%B9%A1%D5#faq2>`_
+
+5/28
+-------
+
+| wiki:
+| 即使自己卡组不存在等级3以下的通常怪兽，也可以发动「`魔之试衣间`_」。\ `22/5/28 <https://yugioh-wiki.net/index.php?%A1%D4%CB%E2%A4%CE%BB%EE%C3%E5%C9%F4%B2%B0%A1%D5#faq>`_
 
 .. _`转生炎兽 独角兔`: https://ygocdb.com/?search=转生炎兽+独角兔
 .. _`光之护封剑`: https://ygocdb.com/?search=光之护封剑
@@ -1804,3 +1837,14 @@
 .. _`绝望与希望的逆转`: https://ygocdb.com/?search=绝望与希望的逆转
 .. _`代理龙`: https://ygocdb.com/?search=代理龙
 .. _`强化支援机械·重装武器`: https://ygocdb.com/?search=强化支援机械·重装武器
+.. _`魔王 迪亚波罗斯`: https://ygocdb.com/?search=魔王+迪亚波罗斯
+.. _`始源的帝王`: https://ygocdb.com/?search=始源的帝王
+.. _`影星轨道兵器 着陆九头蛇`: https://ygocdb.com/?search=影星轨道兵器+着陆九头蛇
+.. _`转生炎兽 火凤凰`: https://ygocdb.com/?search=转生炎兽+火凤凰
+.. _`真源的帝王`: https://ygocdb.com/?search=真源的帝王
+.. _`雷破`: https://ygocdb.com/?search=雷破
+.. _`淀神 阿匹卜`: https://ygocdb.com/?search=淀神+阿匹卜
+.. _`精神操作`: https://ygocdb.com/?search=精神操作
+.. _`威胁的人造人-念力震慑者`: https://ygocdb.com/?search=威胁的人造人-念力震慑者
+.. _`电子化芭蕾练习裙`: https://ygocdb.com/?search=电子化芭蕾练习裙
+.. _`钢铁袭击者`: https://ygocdb.com/?search=钢铁袭击者
