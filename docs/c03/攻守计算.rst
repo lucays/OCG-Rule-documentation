@@ -81,6 +81,7 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
    | 「`暗叛逆XYZ龙`_」的效果适用后，再被无效的场合，两个怪兽攻击力就那样不会复原。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13409&keyword=&tag=-1&request_locale=ja>`__
    | 「`女巫特露德`_」的③效果以自身为对象发动，上升攻击力后，再被无效的场合，维持上升400的状态不会复原。\ `18/5/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12439&request_locale=ja>`__
    | 「`猫鲨`_」的效果把自身攻击力·守备力变成1000/1000，因「`魁炎星王-宋虎`_」的效果无效后，还是这样不会复原。
+   | 「`黄金卿 黄金国巫妖`_」的②效果是让特殊召唤的不死族怪兽上升1000攻击力·守备力的效果，即使特殊召唤的是自身，在「`技能抽取`_」适用中也不会复原。\ `20/3/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22976&keyword=&tag=-1&request_locale=ja>`__
 
 .. attention::
 
@@ -609,3 +610,4 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
 .. _`合成魔兽 加泽特`: https://ygocdb.com/?search=合成魔兽+加泽特
 .. _`小世界现象`: https://ygocdb.com/?search=小世界现象
 .. _`太阳神之翼神龙`: https://ygocdb.com/?search=太阳神之翼神龙
+.. _`黄金卿 黄金国巫妖`: https://ygocdb.com/?search=黄金卿+黄金国巫妖
