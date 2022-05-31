@@ -68,12 +68,16 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
 -  | 这个效果\ **只能影响自身**\ 的场合，被无效后不再适用，攻击力·守备力复原。
    | 之后又不再被无效的场合，若是持续适用的效果则恢复适用，若不是则不会恢复。
    | 例：
-   | 「`水晶翼同调龙`_」的效果破坏了怪兽让自己攻击力上升后，再被无效的场合，攻击力回到3000。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18191&request_locale=ja>`__
+   | 「`水晶翼同调龙`_」的①效果破坏了怪兽让自己攻击力上升后，再被无效的场合，攻击力回到3000。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18191&request_locale=ja>`__
    | 「`高速疾行机人 比剑骑手`_」的效果上升攻击力后，再被无效的场合，攻击力回到2000。效果恢复适用时，攻击力也是2000，之后再发动效果，会正常上升200攻击力。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16878&request_locale=ja>`__
    | 「`魔海城 埃该翁`_」的效果除外了「`幻影骑士团 断碎剑`_」，攻击力是2000，再被无效后，攻击力是0。无效效果结束适用后，「`魔海城 埃该翁`_」的效果再度发动前，就这样保持0。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17272&request_locale=ja>`__
    | 「`恶魔娘 莉莉丝`_」的效果只在召唤成功时适用1次，被「`技能抽取`_」无效后，攻击力复原成2000。「`技能抽取`_」再不适用的场合，攻击力仍是2000。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12542&request_locale=ja>`__
    | 「`真魔兽 加泽特`_」的效果也只在召唤成功时适用1次，被「`技能抽取`_」无效后，攻击力是0。「`技能抽取`_」再不适用的场合，攻击力仍是0。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14300&keyword=&tag=-1&request_locale=ja>`__
    | 「`地中族邪界妖魔`_」\ `17/9/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21394&keyword=&tag=-1&request_locale=ja>`__ 「`守墓的异能者`_」\ `18/7/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22050&request_locale=ja>`__ 「`鬼岩城`_」\ `19/10/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=45&keyword=&tag=-1&request_locale=ja>`__ 等也一样，被「`技能抽取`_」无效后，「`技能抽取`_」再不适用的场合，攻击力维持被无效而复原的数值。
+   | 「`魔玩具·链绵羊`_」的②效果把自身特殊召唤并上升800攻击力后，发动「`技能抽取`_」的场合，「`魔玩具·链绵羊`_」的效果无效，攻击力回到2000。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15108&keyword=&tag=-1&request_locale=ja>`__
+   | 「`双汇编亚龙`_」的①效果把自身特殊召唤，攻击力变成一半后，发动「`技能抽取`_」的场合，「`双汇编亚龙`_」的效果无效，攻击力回到原本数值。之后「`技能抽取`_」不再适用的场合，也不会再变成一半。\ `17/7/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21126&keyword=&tag=-1&request_locale=ja>`__
+
+   .. attention:: 特别地，「`多尔·多拉`_」的①效果把自身特殊召唤，攻击力·守备力变成1000后，发动「`技能抽取`_」的场合，「`多尔·多拉`_」的效果无效，攻击力·守备力仍保持1000的状态。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13174&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 这个效果\ **只要能影响其他卡，即使处理时只影响自身**\ 的场合，被无效后那个效果仍然适用，不会复原。
    | 例：
@@ -611,3 +615,6 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
 .. _`小世界现象`: https://ygocdb.com/?search=小世界现象
 .. _`太阳神之翼神龙`: https://ygocdb.com/?search=太阳神之翼神龙
 .. _`黄金卿 黄金国巫妖`: https://ygocdb.com/?search=黄金卿+黄金国巫妖
+.. _`魔玩具·链绵羊`: https://ygocdb.com/?search=魔玩具·链绵羊
+.. _`多尔·多拉`: https://ygocdb.com/?search=多尔·多拉
+.. _`双汇编亚龙`: https://ygocdb.com/?search=双汇编亚龙
