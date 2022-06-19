@@ -205,7 +205,7 @@
 .. tip:: 可以看出，基本上『全部○○』『尽可能○○』的处理是一致的。
 
 『回到手卡』『回到卡组』
-------------------------
+--------------------------
 
 | 融合怪兽等，适用『回到手卡』『回到卡组』的效果时，会回到额外卡组。
 | 这个场合，『回到手卡』的效果当作没有正常适用，后续处理不适用；『回到卡组』的效果当作正常适用，后续处理正常适用。
@@ -215,7 +215,9 @@
 | 「`真龙的觉醒`_」的①效果处理时，场上的卡只有1只X怪兽，回到额外卡组的场合，也可以从卡组把1只「`龙剑士`_」怪兽或者「`龙魔王`_」怪兽无视召唤条件特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18108&keyword=&tag=-1&request_locale=ja>`__
 | 「`贪欲之壶`_」的①效果处理时，对象怪兽全部回到额外卡组的场合，不会洗切卡组，仍然会抽2张卡。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10593&keyword=&tag=-1&request_locale=ja>`__
 
-.. attention:: 特别地，「`时械神 梅塔伊恩`_」的③效果记述的是『这张卡以外的场上的怪兽全部回到持有者手卡，给与对方回去数量×300伤害』，回到额外卡组的怪兽也会计入『回去数量』。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10991&keyword=&tag=-1&request_locale=ja>`__
+.. attention:: 特别地，「`时械神 梅塔伊恩`_」的③效果记述的是『这张卡以外的场上的怪兽全部回到持有者手卡，给与对方回去数量×300伤害』，回到额外卡组的怪兽也会计入『回去数量』。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10991&keyword=&tag=-1&request_locale=ja>`__ 此外，「`地缚神 维拉科查·拉斯卡`_」「`武力解除`_」等仅记述『回去数量』的效果也一样。作为对照，「`至爱接触`_」「`魔妖仙兽 独眼群主`_」「`火车`_」「`时械神 加百利恩`_」等记述『回到卡组的场合』『回到卡组的数量』的效果，在回到额外卡组的场合，不会适用或计数。
+
+.. note:: 以上仅是这类记述作为效果处理时的处理方法。在作为cost或召唤手续时的处理方法不一样。详见\ :ref:`怪兽的召唤手续`\ 。
 
 能否发动的判定
 ================
@@ -352,3 +354,9 @@
 .. _`六花绚烂`: https://ygocdb.com/?search=六花绚烂
 .. _`月华龙 黑蔷薇`: https://ygocdb.com/?search=月华龙+黑蔷薇
 .. _`雷王`: https://ygocdb.com/?search=雷王
+.. _`魔妖仙兽 独眼群主`: https://ygocdb.com/?search=魔妖仙兽+独眼群主
+.. _`武力解除`: https://ygocdb.com/?search=武力解除
+.. _`时械神 加百利恩`: https://ygocdb.com/?search=时械神+加百利恩
+.. _`火车`: https://ygocdb.com/?search=火车
+.. _`地缚神 维拉科查·拉斯卡`: https://ygocdb.com/?search=地缚神+维拉科查·拉斯卡
+.. _`至爱接触`: https://ygocdb.com/?search=至爱接触
