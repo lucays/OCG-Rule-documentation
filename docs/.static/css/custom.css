@@ -46,3 +46,13 @@ article {
 .headerlink {
     color: rgba(0, 0, 0, .24);
 }
+
+#search-results > ul > li > a {
+    font-weight: bold;
+    font-size: 1.6em;
+}
+
+#search-results > ul > li > div > div > a {
+    font-weight: bold;
+    font-size: larger;
+}
