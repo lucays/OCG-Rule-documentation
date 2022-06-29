@@ -86,7 +86,7 @@ def add_jp_locale_in_db_url(texts: str) -> str:
 def add_cdb_url(texts: str) -> str:
 
     def need_skip(line: str) -> bool:
-        if ':strike:' in line or '\ *' in line or line.startswith('.. _`'):
+        if ':strike:' in line or '\ *' in line or '**' in line or line.startswith('.. _`'):
             return True
         return False
 
