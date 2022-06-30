@@ -270,6 +270,7 @@
    | 对方以我方场上的「`灰篮短吻鳄`_」为对象发动「`精神操作`_」，我方连锁发动「`灰篮战斗`_」，把「`精神操作`_」的效果变成『作为对象的1只怪兽破坏』，结果「`灰篮短吻鳄`_」被破坏的场合，是被魔法卡的效果破坏，可以发动①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19598&keyword=&tag=-1&request_locale=ja>`__
    | 「`王战的支配`_」的①效果发动时，不能连锁发动「`灰流丽`_」。\ `19/8/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22759&keyword=&tag=-1&request_locale=ja>`__
    | 对方场上存在「`神殿守护者`_」时，我方「`No.75 惑乱之风言暗影`_」的①效果不能发动。\ `18/5/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21888&keyword=&tag=-1&request_locale=ja>`__
+   | 即使我方场上没有盖放的魔法·陷阱卡，对方怪兽的效果发动后，我方「`魔界剧场「奇幻剧场」`_」的②效果仍会适用，结果由于没有可以破坏的魔法·陷阱卡，那只怪兽的效果不适用。\ `18/6/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21934&keyword=&tag=-1&request_locale=ja>`__
    | 对方「`XX-剑士 加特姆士`_」的①效果发动时，我方也可以连锁发动「`暗黑界的洗脑`_」的①效果，就结果来说「`XX-剑士 加特姆士`_」的①效果处理在改写前后没有区别。\ `17/4/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20378&keyword=&tag=-1&request_locale=ja>`__
 
 -  | \ :ref:`誓约`\ 文本不是效果，即使效果被改写也仍然适用。
@@ -286,7 +287,7 @@
    | 例：
    | 「`虚无空间`_」发动时，连锁发动「`王战的支配`_」①效果的场合，「`虚无空间`_」卡发动时的效果处理会进行『双方玩家各自从卡组抽1张』的处理，这个连锁处理后「`虚无空间`_」像处理完的通常陷阱卡一样送去墓地，不是因卡的效果而送去墓地。\ `19/9/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22792&keyword=&tag=-1&request_locale=ja>`__
 
--  | 不受效果影响的怪兽发动的效果也会被改写。
+-  | 不受效果影响的怪兽发动的效果也可以被改写。
    | 例：
    | 解放怪兽·永续陷阱上级召唤的「`真龙剑皇 卓辉星·拼图`_」发动②效果，连锁发动「`暗黑界的洗脑`_」的效果的场合，结果效果会改变。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20904&keyword=&tag=-1&request_locale=ja>`__
 
@@ -463,3 +464,4 @@
 .. _`无败将军 弗里德`: https://ygocdb.com/?search=无败将军+弗里德
 .. _`虚无空间`: https://ygocdb.com/?search=虚无空间
 .. _`被埋葬的牲祭`: https://ygocdb.com/?search=被埋葬的牲祭
+.. _`魔界剧场「奇幻剧场」`: https://ygocdb.com/?search=魔界剧场「奇幻剧场」
