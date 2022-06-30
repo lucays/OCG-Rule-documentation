@@ -257,6 +257,43 @@
 | 自己场上存在「`魔轰神兽 尤尼科`_」和「`白翼之魔术师`_」，对方以我方场上的魔法师族·暗属性怪兽为对象发动效果，处理时双方手卡相同的场合，「`魔轰神兽 尤尼科`_」的效果适用，「`白翼之魔术师`_」的P效果不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7516&keyword=&tag=-1&request_locale=ja>`__
 | 「`技能抽取`_」在场上存在，发动「`星尘充能战士`_」的①效果时，也可以连锁发动「`灰流丽`_」的效果。\ `22/6/8 <https://yugioh-wiki.net/index.php?%A1%D4%B3%A5%CE%AE%A4%A6%A4%E9%A4%E9%A1%D5#faq>`_
 
+发动的效果改写
+=================
+
+| 「`王战的支配`_」的①效果这样的效果，改写了对应效果的处理。
+
+-  | 结果是对应的效果处理被改写，「`王战的支配`_」的①效果等本身并不包含改写的效果处理。
+   | 但在不能进行改写的处理时，仍然不能发动改写的效果。
+   | 此外，要被改写的效果和改写后的效果可以完全一致。
+   | 例：
+   | 对方发动通常魔法卡时，我方连锁发动「`暗之取引`_」，把对方通常魔法卡的效果变成『对方随机把手卡丢弃1张』后，我方手卡「`暗黑界的魔神 雷恩`_」被对方这张通常魔法卡的效果丢弃的场合，会发动自身①效果特殊召唤，然后会发动②效果。
+   | 对方以我方场上的「`灰篮短吻鳄`_」为对象发动「`精神操作`_」，我方连锁发动「`灰篮战斗`_」，把「`精神操作`_」的效果变成『作为对象的1只怪兽破坏』，结果「`灰篮短吻鳄`_」被破坏的场合，是被魔法卡的效果破坏，可以发动①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19598&keyword=&tag=-1&request_locale=ja>`__
+   | 「`王战的支配`_」的①效果发动时，不能连锁发动「`灰流丽`_」。\ `19/8/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22759&keyword=&tag=-1&request_locale=ja>`__
+   | 对方场上存在「`神殿守护者`_」时，我方「`No.75 惑乱之风言暗影`_」的①效果不能发动。\ `18/5/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21888&keyword=&tag=-1&request_locale=ja>`__
+   | 对方「`XX-剑士 加特姆士`_」的①效果发动时，我方也可以连锁发动「`暗黑界的洗脑`_」的①效果，就结果来说「`XX-剑士 加特姆士`_」的①效果处理在改写前后没有区别。\ `17/4/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20378&keyword=&tag=-1&request_locale=ja>`__
+
+-  | \ :ref:`誓约`\ 文本不是效果，即使效果被改写也仍然适用。
+   | \ :ref:`效果的附加处理`\ 是卡的效果，在被改写的场合不适用。
+   | 例：
+   | 对方发动「`强欲而谦虚之壶`_」时，我方连锁发动「`妖精传姬-塔利娅`_」②效果的场合，这个回合对方仍然不能特殊召唤怪兽。\ `17/3/24 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19695&keyword=>`__
+   | 对方发动「`被埋葬的牲祭`_」时，我方连锁发动「`妖精传姬-塔利娅`_」②效果的场合，这个回合对方仍然可以特殊召唤怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8714&keyword=&tag=-1&request_locale=ja>`__
+
+-  | 取对象的效果被改写的场合，如果改写后的效果不取对象，就不再是取对象的效果。
+   | 例：
+   | 对方以「`无败将军 弗里德`_」为对象发动「`精神操作`_」，我方连锁发动「`古遗物-恒常剑`_」的『那个效果变成○○』效果的场合，「`精神操作`_」不再是以「`无败将军 弗里德`_」为对象发动的效果，不会被无效并破坏，会进行『选对方场上1张魔法·陷阱卡破坏』的处理。
+
+-  | 永续魔法·陷阱卡的发动被改写的场合，在连锁处理后会像处理完的通常魔法·陷阱卡一样送去墓地。
+   | 例：
+   | 「`虚无空间`_」发动时，连锁发动「`王战的支配`_」①效果的场合，「`虚无空间`_」卡发动时的效果处理会进行『双方玩家各自从卡组抽1张』的处理，这个连锁处理后「`虚无空间`_」像处理完的通常陷阱卡一样送去墓地，不是因卡的效果而送去墓地。\ `19/9/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22792&keyword=&tag=-1&request_locale=ja>`__
+
+-  | 不受效果影响的怪兽发动的效果也会被改写。
+   | 例：
+   | 解放怪兽·永续陷阱上级召唤的「`真龙剑皇 卓辉星·拼图`_」发动②效果，连锁发动「`暗黑界的洗脑`_」的效果的场合，结果效果会改变。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20904&keyword=&tag=-1&request_locale=ja>`__
+
+-  | 「`白银之迷宫城`_」给其他卡追加效果的场合，即使那张卡的效果被改写，追加的效果仍会适用。
+   | 例：
+   | 场上表侧表示存在「`白银之迷宫城`_」时，发动盖放的「`拉比林斯迷宫欢迎`_」，对方连锁发动「`妖精传姬-塔利娅`_」的②效果，结果「`拉比林斯迷宫欢迎`_」的效果变成『选对方场上1只表侧表示怪兽变成里侧守备表示』的场合，这个效果适用后，可以再适用「`白银之迷宫城`_」的①效果，进行『●选场上1张卡破坏』的处理。
+
 .. _`旧神 诺登`: https://ygocdb.com/?search=旧神+诺登
 .. _`蒲公英狮`: https://ygocdb.com/?search=蒲公英狮
 .. _`漆黑之魔王 LV8`: https://ygocdb.com/?search=漆黑之魔王+LV8
@@ -407,3 +444,22 @@
 .. _`十二兽 马剑`: https://ygocdb.com/?search=十二兽+马剑
 .. _`帝王海马`: https://ygocdb.com/?search=帝王海马
 .. _`星尘充能战士`: https://ygocdb.com/?search=星尘充能战士
+.. _`No.75 惑乱之风言暗影`: https://ygocdb.com/?search=No.75+惑乱之风言暗影
+.. _`灰篮战斗`: https://ygocdb.com/?search=灰篮战斗
+.. _`白银之迷宫城`: https://ygocdb.com/?search=白银之迷宫城
+.. _`神殿守护者`: https://ygocdb.com/?search=神殿守护者
+.. _`灰篮短吻鳄`: https://ygocdb.com/?search=灰篮短吻鳄
+.. _`王战的支配`: https://ygocdb.com/?search=王战的支配
+.. _`暗黑界的洗脑`: https://ygocdb.com/?search=暗黑界的洗脑
+.. _`妖精传姬-塔利娅`: https://ygocdb.com/?search=妖精传姬-塔利娅
+.. _`古遗物-恒常剑`: https://ygocdb.com/?search=古遗物-恒常剑
+.. _`强欲而谦虚之壶`: https://ygocdb.com/?search=强欲而谦虚之壶
+.. _`暗黑界的魔神 雷恩`: https://ygocdb.com/?search=暗黑界的魔神+雷恩
+.. _`精神操作`: https://ygocdb.com/?search=精神操作
+.. _`拉比林斯迷宫欢迎`: https://ygocdb.com/?search=拉比林斯迷宫欢迎
+.. _`暗之取引`: https://ygocdb.com/?search=暗之取引
+.. _`XX-剑士 加特姆士`: https://ygocdb.com/?search=XX-剑士+加特姆士
+.. _`真龙剑皇 卓辉星·拼图`: https://ygocdb.com/?search=真龙剑皇+卓辉星·拼图
+.. _`无败将军 弗里德`: https://ygocdb.com/?search=无败将军+弗里德
+.. _`虚无空间`: https://ygocdb.com/?search=虚无空间
+.. _`被埋葬的牲祭`: https://ygocdb.com/?search=被埋葬的牲祭
