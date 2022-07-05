@@ -8,10 +8,10 @@
 ========
 
 | 相关链接：
-| `NW论坛：OCG第10期 <http://bbs.newwise.com/thread-907107-1-1.html>`__
-| `下载官方新大师规则手册（日文） <http://www.yugioh-card.com/japan/howto/data/rulebook_new_master_rule_ver1.0.pdf>`__
+| `NW论坛：OCG第10期 <https://bbs.newwise.com/thread-907107-1-1.html>`__
+| `下载官方新大师规则手册（日文） <https://www.yugioh-card.com/japan/howto/data/rulebook_new_master_rule_ver1.0.pdf>`__
 | `新大师完全规则书（中文） <https://warsier.gitbooks.io/new_master_rule/content/>`__
-| `百鸽卡查（中文） <https://ygocdb.com/>`__\ ，需要在网页底部调整翻译版本为NW优先。
+| `百鸽卡查（中文） <https://ygocdb.com/>`__\
 | 用微信卡查时，需要在\ **微信小程序-游戏王查卡器-我的-中文译名设置-当前偏好**\ 中调整为NWBBS。
 
 | 本文是2017年的规则改动介绍，其中关于从额外卡组特殊召唤的部分在\ :ref:`大师规则（2020年4月版）变更点`\ \ **已被大幅修改**\ 。
@@ -254,7 +254,7 @@ X召唤的步骤现在是，先把X素材移动到可用的EX区域或连接端�
 .. _`光波分光`: https://ygocdb.com/?search=光波分光
 .. _`健忘`: https://ygocdb.com/?search=健忘
 .. _`闪刀姬-雫空`: https://ygocdb.com/?search=闪刀姬-雫空
-.. _`リンク先`: https://ygocdb.com/?search=リンク先
+.. _`リンク先`: https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=1&sess=1&rp=20&keyword=%E3%83%AA%E3%83%B3%E3%82%AF%E5%85%88&stype=2&ctype=&othercon=2&starfr=&starto=&pscalefr=&pscaleto=&linkmarkerfr=&linkmarkerto=&link_m=2&atkfr=&atkto=&deffr=&defto=&request_locale=ja
 .. _`惊异灵摆`: https://ygocdb.com/?search=惊异灵摆
 .. _`荒野的大龙卷`: https://ygocdb.com/?search=荒野的大龙卷
 .. _`时空警察`: https://ygocdb.com/?search=时空警察
@@ -275,6 +275,6 @@ X召唤的步骤现在是，先把X素材移动到可用的EX区域或连接端�
 .. _`海龟坏兽 加美西耶勒`: https://ygocdb.com/?search=海龟坏兽+加美西耶勒
 .. _`纹章兽`: https://ygocdb.com/?search=纹章兽
 .. _`日全食之书`: https://ygocdb.com/?search=日全食之书
-.. _`游戏王 VRAINS`: https://ygocdb.com/?search=游戏王+VRAINS
+.. _`游戏王 VRAINS`: https://www.tv-tokyo.co.jp/anime/yugioh-vrains/
 .. _`高等纹章术`: https://ygocdb.com/?search=高等纹章术
 .. _`降格处分`: https://ygocdb.com/?search=降格处分
