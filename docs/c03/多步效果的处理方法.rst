@@ -53,6 +53,16 @@
    | 「`次元要塞兵器`_」攻击里侧守备表示的「`光道猎犬 雷光`_」，反转时发动效果，尽管破坏和从卡组把卡送墓是同时处理，破坏「`次元要塞兵器`_」后就可以正常从卡组上面把3张卡送去墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19832&request_locale=ja>`__
    | 自己P区域有「`贵龙之魔术师`_」和「`慧眼之魔术师`_」，「`慧眼之魔术师`_」发动效果，尽管自身破坏和选卡放置是同时处理，这个效果处理中被破坏的时点「`贵龙之魔术师`_」的P效果立即适用，破坏并加入额外卡组。然后再从卡组选「`慧眼之魔术师`_」以外的1只「`魔術師`_」P怪兽在P区域放置。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16206&request_locale=ja>`__
    | 以对方场上「`古代的机械巨人`_」为对象发动墓地「`电子化天使-那沙帝弥-`_」的③效果，处理时自己怪兽区域只有1个可用的场合，「`电子化天使-那沙帝弥-`_」特殊召唤后「`古代的机械巨人`_」被破坏。不是被效果破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20179&request_locale=ja>`__
+   | 「`救祓少女·马尔法`_」的①效果处理时，我方主怪兽区域只有1个可用区域的场合，只从手卡把这张卡特殊召唤，这个效果处理完毕，不会从卡组特殊召唤怪兽。\ `22/7/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23802&keyword=&tag=-1&request_locale=ja>`_
+
+-  | 在同1时点实际进行了多次特殊召唤·抽卡等行动的场合，基本上只计为1次。
+   | 但是，基本分伤害按多次计算。
+   | 例：
+   | 「`真红眼溯刻龙`_」的①效果发动时，连锁发动「`增殖的G`_」的①效果的场合，当作只有1次特殊召唤，处理后只抽1张卡。
+   | 「`魔兽的大饵`_」的①效果把自己额外卡组15张卡里侧除外，并随机选对方额外卡组15张卡除外的场合，「`魂吸收`_」只发动1次。
+   | 「`传说的渔人三世`_」的③效果发动后，自己用装备了「`脆刃之剑`_」攻击力是3500的「`亚马逊剑士`_」攻击对方攻击表示的攻击力是1600的怪兽的场合，「`脆刃之剑`_」的②效果适用，双方受到3500-1600=1900战斗伤害，此时对方受到的这1次战斗伤害会因「`传说的渔人三世`_」的③效果适用而变成1900*2=3800，接着我方「`亚马逊剑士`_」的①效果适用，对方再受到1900战斗伤害，结果对方受到3800+1900=5700战斗伤害。
+   | 「`淘气仙星·福克希维琪`_」造成效果伤害后让「`淘气仙星的灯光舞台`_」也造成效果伤害的场合，是同时造成的伤害。\ `17/12/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21673&request_locale=ja>`__ 但本身造成了2次伤害，「`噩梦之拷问室`_」的效果会连锁发动2次。\ `17/7/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20805&request_locale=ja>`__ 「`DDD 反骨王 列奥尼达`_」从手卡发动效果时选择回复其中1次受到伤害的数值，也就是回复200基本分，不能回复两次。\ `17/12/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6135&request_locale=ja>`__
+   | 「`神影依·米德拉什`_」的②效果适用中，也可以发动「`救祓少女·马尔法`_」的①效果并正常适用。「`救祓少女·马尔法`_」的①效果特殊召唤的2只怪兽是在同1时点特殊召唤的，只当作进行了1次特殊召唤。\ `22/6/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23789&keyword=&tag=-1&request_locale=ja>`_
 
 多步效果的适用
 ================
@@ -360,3 +370,11 @@
 .. _`火车`: https://ygocdb.com/?search=火车
 .. _`地缚神 维拉科查·拉斯卡`: https://ygocdb.com/?search=地缚神+维拉科查·拉斯卡
 .. _`至爱接触`: https://ygocdb.com/?search=至爱接触
+.. _`增殖的G`: https://ygocdb.com/?search=增殖的G
+.. _`真红眼溯刻龙`: https://ygocdb.com/?search=真红眼溯刻龙
+.. _`脆刃之剑`: https://ygocdb.com/?search=脆刃之剑
+.. _`传说的渔人三世`: https://ygocdb.com/?search=传说的渔人三世
+.. _`亚马逊剑士`: https://ygocdb.com/?search=亚马逊剑士
+.. _`救祓少女·马尔法`: https://ygocdb.com/?search=救祓少女·马尔法
+.. _`魂吸收`: https://ygocdb.com/?search=魂吸收
+.. _`魔兽的大饵`: https://ygocdb.com/?search=魔兽的大饵
