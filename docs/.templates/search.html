@@ -1,0 +1,28 @@
+{% extends "page.html" %}
+
+{%- block regular_scripts -%}
+{{ super() }}
+<script src="{{ pathto('_static/searchtools.js', 1) }}"></script>
+<script src="{{ pathto('_static/language_data.js', 1) }}"></script>
+{%- endblock regular_scripts-%}
+
+{%- block htmltitle -%}
+<title>{{ _("Search") }} - {{ docstitle }}</title>
+{%- endblock htmltitle -%}
+
+{% block content %}
+<noscript>
+<div class="admonition error">
+  <p class="admonition-title">{% trans %}Error{% endtrans %}</p>
+  <p>
+    {% trans %}Please activate JavaScript to enable the search functionality.{% endtrans %}
+  </p>
+</div>
+</noscript>
+
+<div id="search-results"><p>注意：因技术受限，部分页面的搜索结果可能不全，查看所有结果最好进入对应页面，在页面内再度查找。</p></div>
+{% endblock %}
+{% block scripts -%}
+{{ super() }}
+<script src="{{ pathto('searchindex.js', 1) }}"></script>
+{%- endblock scripts %}
