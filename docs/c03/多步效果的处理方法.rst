@@ -20,7 +20,7 @@
 | 例：
 | 「`成金哥布林`_」的①效果处理时，『自己从卡组抽1张』『那之后，对方回复1000基本分』不是同时进行。\ `20/3/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=4895&request_locale=ja>`__
 | 「`梦幻崩影·独角兽`_」的①效果处理时，『那张卡回到持有者卡组』和『再让自己可以从卡组抽1张』不是同时进行。\ `18/1/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13601&request_locale=ja>`__
-| 虽然不是融合召唤，但「`天极辉舰-熊斗龙巧`_」只能通过「`天斗辉巧极`_」的效果特殊召唤，「`天斗辉巧极`_」的『从自己的手卡·场上把「`北极天熊北斗星`_」和「`龙辉巧-扶筐增二`_」各1张除外』的处理与『把1只「`天极辉舰-熊斗龙巧`_」从额外卡组特殊召唤』的处理不是同时进行。\ `21/7/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16552&request_locale=ja>`_
+| 虽然不是融合召唤，但「`天极辉舰-熊斗龙巧`_」只能通过「`天斗辉巧极`_」的效果特殊召唤，「`天斗辉巧极`_」的『从自己的手卡·场上把「`北极天熊北斗星`_」和「`龙辉巧-扶筐增二`_」各1张除外』的处理与『把1只「`天极辉舰-熊斗龙巧`_」从额外卡组特殊召唤』的处理不是同时进行。\ `21/7/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16552&request_locale=ja>`__
 | 特殊召唤「`拷问巨人`_」时，把衍生物特殊召唤和把自身特殊召唤也不在1个时点进行。\ `20/3/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7386&request_locale=ja>`__
 
 .. attention:: 即使是第九期之后的效果文本，也存在「`变形壶`_」这样，记述是『有手卡的玩家把那些手卡全部丢弃。双方从卡组抽5张』，没有『那之后』『再』等记述，但丢弃和抽卡的处理不是同时进行的例子。\ `22/4/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=4597&request_locale=ja>`__\ 此外，「`幻创龙 奇幻龙人神`_」的①效果处理时，『自己从卡组抽出对方场上的连接怪兽的数量＋1张』和『选对方场上的连接怪兽数量的自己手卡回到卡组』也不是同时进行。\ `21/2/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14097&request_locale=ja>`__
@@ -53,7 +53,7 @@
    | 「`次元要塞兵器`_」攻击里侧守备表示的「`光道猎犬 雷光`_」，反转时发动效果，尽管破坏和从卡组把卡送墓是同时处理，破坏「`次元要塞兵器`_」后就可以正常从卡组上面把3张卡送去墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19832&request_locale=ja>`__
    | 自己P区域有「`贵龙之魔术师`_」和「`慧眼之魔术师`_」，「`慧眼之魔术师`_」发动效果，尽管自身破坏和选卡放置是同时处理，这个效果处理中被破坏的时点「`贵龙之魔术师`_」的P效果立即适用，破坏并加入额外卡组。然后再从卡组选「`慧眼之魔术师`_」以外的1只「`魔術師`_」P怪兽在P区域放置。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16206&request_locale=ja>`__
    | 以对方场上「`古代的机械巨人`_」为对象发动墓地「`电子化天使-那沙帝弥-`_」的③效果，处理时自己怪兽区域只有1个可用的场合，「`电子化天使-那沙帝弥-`_」特殊召唤后「`古代的机械巨人`_」被破坏。不是被效果破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20179&request_locale=ja>`__
-   | 「`救祓少女·马尔法`_」的①效果处理时，我方主怪兽区域只有1个可用区域的场合，只从手卡把这张卡特殊召唤，这个效果处理完毕，不会从卡组特殊召唤怪兽。\ `22/7/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23802&keyword=&tag=-1&request_locale=ja>`_
+   | 「`救祓少女·马尔法`_」的①效果处理时，我方主怪兽区域只有1个可用区域的场合，只从手卡把这张卡特殊召唤，这个效果处理完毕，不会从卡组特殊召唤怪兽。\ `22/7/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23802&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 在同1时点实际进行了多次特殊召唤·抽卡等行动的场合，基本上只计为1次。
    | 但是，基本分伤害按多次计算。
@@ -62,7 +62,7 @@
    | 「`魔兽的大饵`_」的①效果把自己额外卡组15张卡里侧除外，并随机选对方额外卡组15张卡除外的场合，「`魂吸收`_」只发动1次。
    | 「`传说的渔人三世`_」的③效果发动后，自己用装备了「`脆刃之剑`_」攻击力是3500的「`亚马逊剑士`_」攻击对方攻击表示的攻击力是1600的怪兽的场合，「`脆刃之剑`_」的②效果适用，双方受到3500-1600=1900战斗伤害，此时对方受到的这1次战斗伤害会因「`传说的渔人三世`_」的③效果适用而变成1900*2=3800，接着我方「`亚马逊剑士`_」的①效果适用，对方再受到1900战斗伤害，结果对方受到3800+1900=5700战斗伤害。
    | 「`淘气仙星·福克希维琪`_」造成效果伤害后让「`淘气仙星的灯光舞台`_」也造成效果伤害的场合，是同时造成的伤害。\ `17/12/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21673&request_locale=ja>`__ 但本身造成了2次伤害，「`噩梦之拷问室`_」的效果会连锁发动2次。\ `17/7/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20805&request_locale=ja>`__ 「`DDD 反骨王 列奥尼达`_」从手卡发动效果时选择回复其中1次受到伤害的数值，也就是回复200基本分，不能回复两次。\ `17/12/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6135&request_locale=ja>`__
-   | 「`神影依·米德拉什`_」的②效果适用中，也可以发动「`救祓少女·马尔法`_」的①效果并正常适用。「`救祓少女·马尔法`_」的①效果特殊召唤的2只怪兽是在同1时点特殊召唤的，只当作进行了1次特殊召唤。\ `22/6/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23789&keyword=&tag=-1&request_locale=ja>`_
+   | 「`神影依·米德拉什`_」的②效果适用中，也可以发动「`救祓少女·马尔法`_」的①效果并正常适用。「`救祓少女·马尔法`_」的①效果特殊召唤的2只怪兽是在同1时点特殊召唤的，只当作进行了1次特殊召唤。\ `22/6/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23789&keyword=&tag=-1&request_locale=ja>`__
 
 多步效果的适用
 ================
@@ -86,8 +86,8 @@
    | 不过，如果前后效果有关联，也可能前1步也不适用。
    | 例：
    | 「`宝玉的牵绊`_」的①效果处理时，卡组只存在1种「`宝玉兽`_」怪兽的场合，也不会从卡组把1只「`宝玉兽`_」怪兽加入手卡。
-   | 「`铁兽的抗战`_」的效果处理时，因「`活死人的呼声`_」等效果，「`神影依·米德拉什`_」的②效果适用的场合，「`铁兽的抗战`_」的①效果处理完全不适用，不会把任何怪兽特殊召唤。\ `21/4/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23222&keyword=&tag=-1&request_locale=ja>`_
-   | 宣言兽族的「`轮回独断`_」①效果适用中，我方发动「`铁兽的抗战`_」，那个效果处理时可以选因「`轮回独断`_」①效果变成兽族的怪兽从墓地特殊召唤，之后由于在场上不再是兽族怪兽，如果不能全部作为素材来连接召唤「`铁兽`_」怪兽，那么不进行连接召唤，就这样留在场上。\ `21/6/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23286&keyword=&tag=-1&request_locale=ja>`_
+   | 「`铁兽的抗战`_」的效果处理时，因「`活死人的呼声`_」等效果，「`神影依·米德拉什`_」的②效果适用的场合，「`铁兽的抗战`_」的①效果处理完全不适用，不会把任何怪兽特殊召唤。\ `21/4/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23222&keyword=&tag=-1&request_locale=ja>`__
+   | 宣言兽族的「`轮回独断`_」①效果适用中，我方发动「`铁兽的抗战`_」，那个效果处理时可以选因「`轮回独断`_」①效果变成兽族的怪兽从墓地特殊召唤，之后由于在场上不再是兽族怪兽，如果不能全部作为素材来连接召唤「`铁兽`_」怪兽，那么不进行连接召唤，就这样留在场上。\ `21/6/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23286&keyword=&tag=-1&request_locale=ja>`__
 
 『A。那之后/再B』
 ---------------------
