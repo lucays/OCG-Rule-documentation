@@ -2328,8 +2328,8 @@
 --------
 
 | 邮件：
-| 「`潜海奇袭`_」数据库解说\ `17/8/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13179&request_locale=ja>`__\ 称『②：场上有「`海`_」存在的场合，表侧表示的这张卡得到以下效果』这段不是效果。但\ `「`潜海奇襲`_」のカードの発動と同一のチェーンブロックにて『●』の効果の発動はできますか？ <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8401&keyword=&tag=-1&request_locale=ja>`__\ 原文又称『『②：フィールドに「`海`_」が存在する場合、表側表示のこのカードは以下の効果を得る』効果が適用され』，指出这里不应该写效果两词后客服只是解释了这个效果的处理方式，目前网页仍未改动。
-| 客服称数据库\ `通常魔法カードにチェーンをして、「`霞の谷の雷神鬼`_」の効果を発動できますか？ <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8129&keyword=&tag=-1&request_locale=ja>`__\ 原文『発動した後、フィールド上に残らず、破壊され墓地へ送られる通常魔法カードや通常罠カード等』是指发动后不会留在场上的通常魔法卡和通常陷阱卡，它们不当作被破坏送去墓地。但是目前为止网页仍然保留了『破壊され』这个词还没改动。
+| 「`潜海奇袭`_」数据库解说\ `17/8/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13179&request_locale=ja>`__\ 称『②：场上有「`海`_」存在的场合，表侧表示的这张卡得到以下效果』这段不是效果。但\ `潜海奇襲のカードの発動と同一のチェーンブロックにて『●』の効果の発動はできますか？ <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8401&keyword=&tag=-1&request_locale=ja>`__\ 原文又称『『②：フィールドに「`海`_」が存在する場合、表側表示のこのカードは以下の効果を得る』効果が適用され』，指出这里不应该写效果两词后客服只是解释了这个效果的处理方式，目前网页仍未改动。
+| 客服称数据库\ `通常魔法カードにチェーンをして、霞の谷の雷神鬼の効果を発動できますか？ <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8129&keyword=&tag=-1&request_locale=ja>`__\ 原文『発動した後、フィールド上に残らず、破壊され墓地へ送られる通常魔法カードや通常罠カード等』是指发动后不会留在场上的通常魔法卡和通常陷阱卡，它们不当作被破坏送去墓地。但是目前为止网页仍然保留了『破壊され』这个词还没改动。
 
 .. note:: 很久以前存在「`避雷针`_」等文本记述了『发动后这张卡破坏』的卡片，但现在早就没有这种规则了。
 
@@ -4656,7 +4656,6 @@
 .. _`鲜花花剑`: https://ygocdb.com/?search=鲜花花剑
 .. _`零冰之魔妖-雪女`: https://ygocdb.com/?search=零冰之魔妖-雪女
 .. _`强欲之瓶`: https://ygocdb.com/?search=强欲之瓶
-.. _`霞の谷の雷神鬼`: https://ygocdb.com/?search=霞の谷の雷神鬼
 .. _`幻奏的音女 唐唐`: https://ygocdb.com/?search=幻奏的音女+唐唐
 .. _`妖眼之相剑师`: https://ygocdb.com/?search=妖眼之相剑师
 .. _`Jo－P.U.N.K.惊愕梨割`: https://ygocdb.com/?search=Jo－P.U.N.K.惊愕梨割
@@ -5130,7 +5129,6 @@
 .. _`音响战士`: https://ygocdb.com/?search=音响战士
 .. _`真血公 吸血鬼`: https://ygocdb.com/?search=真血公+吸血鬼
 .. _`凶饿蛊龙`: https://ygocdb.com/?search=凶饿蛊龙
-.. _`潜海奇襲`: https://ygocdb.com/?search=潜海奇襲
 .. _`爬虫妖女·许德拉`: https://ygocdb.com/?search=爬虫妖女·许德拉
 .. _`心镇壶`: https://ygocdb.com/?search=心镇壶
 .. _`武神隐`: https://ygocdb.com/?search=武神隐
