@@ -28,7 +28,7 @@
 | 例：
 | 「`沉眠于星遗物的深层`_」发动时，不选择对象的场合，不是包含把怪兽特殊召唤的效果，不能连锁发动「`神之警告`_」。
 | 「`自然的神星树`_」等永续陷阱卡的发动时，如果不同时发动把怪兽特殊召唤的效果，那么不能连锁发动「`神之警告`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13786&request_locale=ja>`__
-| 怪兽卡的怪兽效果的发动时，或者在P区域把P怪兽卡当作魔法卡发动时，连锁把「`饼蛙`_」的②效果发动的场合，不论是连锁什么怪兽卡来发动，都可以接着连锁发动「`神之警告`_」或「`屋敷童`_」的①效果。\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19625&keyword=&tag=-1&request_locale=ja>`_
+| 怪兽卡的怪兽效果的发动时，或者在P区域把P怪兽卡当作魔法卡发动时，连锁把「`饼蛙`_」的②效果发动的场合，不论是连锁什么怪兽卡来发动，都可以接着连锁发动「`神之警告`_」或「`屋敷童`_」的①效果。\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19625&keyword=&tag=-1&request_locale=ja>`__
 | 「`刚地帝 格兰玛格`_」不是用地属性怪兽解放来上级召唤时发动效果的场合，由于发动时确定不可能抽卡，不能连锁发动「`灰流丽`_」的①效果。\ `17/3/24 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20547&keyword=&tag=-1>`__
 | 4种类怪兽融合召唤的「`狱火机 提耶拉`_」在融合召唤成功时发动效果，不能连锁发动「`灰流丽`_」的①效果。\ `17/3/24 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10690&keyword=&tag=-1>`__
 | 墓地「`森之番人 绿狒狒`_」的①效果发动时，可以连锁发动「`屋敷童`_」的①效果。手卡「`森之番人 绿狒狒`_」的①效果发动时，不能连锁发动「`屋敷童`_」的①效果。\ `18/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21723&request_locale=ja>`__
@@ -42,7 +42,7 @@
    | 即使「`怨邪帝 盖乌斯`_」效果的对象选择的是魔法·陷阱卡，由于存在作为装备卡的怪兽等原因，也可以连锁发动「`屋敷童`_」的①效果。
    | 「`心灵崩坏`_」发动时，可以连锁发动「`守墓的监视者`_」的效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11731&keyword=&tag=-1&request_locale=ja>`__
    | 「`大宇宙`_」的②效果适用中，发动「`愚蠢的埋葬`_」的场合，仍然可以连锁发动「`灰流丽`_」的①效果。\ `17/3/24 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20543&keyword=&tag=-1>`__
-   | 「`女神薇儿丹蒂的引导`_」的②效果发动时，不管宣言的卡的种类是什么，这都是包含把怪兽特殊召唤的效果，可以连锁发动「`珠泪哀歌族·鲁莎卡人鱼`_」的②效果。\ `22/7/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23806&keyword=&tag=-1&request_locale=ja>`_
+   | 「`女神薇儿丹蒂的引导`_」的②效果发动时，不管宣言的卡的种类是什么，这都是包含把怪兽特殊召唤的效果，可以连锁发动「`珠泪哀歌族·鲁莎卡人鱼`_」的②效果。\ `22/7/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23806&keyword=&tag=-1&request_locale=ja>`__
 
    .. attention:: 「`死之卡组破坏病毒`_」「`连锁破坏`_」这样把卡组的卡片破坏的效果发动时，不能连锁发动「`灰流丽`_」的①效果。
 

@@ -117,7 +117,7 @@
    | 但是，「`换位`_」要求『正确对象』，实质上是重新选择攻击对象的效果，因此也不能选「`传说的渔人`_」。（实际上目前「`换位`_」的处理和「`地缚灵的引诱`_」一致）
    | 例：
    | 自己场上存在「`鲨鱼要塞`_」和「`No.38 希望魁龙 银河巨神`_」，对方怪兽在攻击宣言和战斗卷回时攻击对象只能选择「`鲨鱼要塞`_」，此时自己的「`No.38 希望魁龙 银河巨神`_」可以发动②效果把攻击对象转移到自身进行伤害计算。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17981&request_locale=ja>`__
-   | 对方场上存在多只「`人偶城堡`_」，我方怪兽也必须用可以攻击的怪兽攻击。这个场合，对方来选我方攻击哪1只「`人偶城堡`_」。这个攻击宣言时，这只「`人偶城堡`_」可以发动③效果，把对象怪兽特殊召唤，这时由于还存在其他的「`人偶城堡`_」，不进行攻击对象转移的处理。这个效果处理后，发生战斗步骤的卷回。\ `21/12/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23475&keyword=&tag=-1&request_locale=ja>`_
+   | 对方场上存在多只「`人偶城堡`_」，我方怪兽也必须用可以攻击的怪兽攻击。这个场合，对方来选我方攻击哪1只「`人偶城堡`_」。这个攻击宣言时，这只「`人偶城堡`_」可以发动③效果，把对象怪兽特殊召唤，这时由于还存在其他的「`人偶城堡`_」，不进行攻击对象转移的处理。这个效果处理后，发生战斗步骤的卷回。\ `21/12/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23475&keyword=&tag=-1&request_locale=ja>`__
 
 | 攻击宣言后的战斗步骤内，适用『不能攻击宣言』的效果时，由于已经进行攻击宣言，不会停止。
 | 适用『不能攻击』的效果时，攻击停止。在连锁处理中就会停止。
@@ -417,7 +417,7 @@
 
 -  | 『○○发动时才能发动』的效果处理如果不会把卡片·效果的发动无效，即使会影响攻击力·守备力，也不能在伤害步骤发动。
    | 例：
-   | 「`No.3 地狱蝉王`_」的②效果\ `21/5/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=15386&request_locale=ja>`_ 「`水晶幻透翼同调龙`_」的①效果\ `21/5/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16379&request_locale=ja>`_ 「`Jo－P.U.N.K. 蜘蛛夫人`_」的②效果\ `21/8/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16726&request_locale=ja>`_ 「`No－P.U.N.K. 鬼能乐`_」的③效果\ `21/8/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16729&request_locale=ja>`_ 在伤害步骤不能发动。
+   | 「`No.3 地狱蝉王`_」的②效果\ `21/5/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=15386&request_locale=ja>`__ 「`水晶幻透翼同调龙`_」的①效果\ `21/5/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16379&request_locale=ja>`__ 「`Jo－P.U.N.K. 蜘蛛夫人`_」的②效果\ `21/8/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16726&request_locale=ja>`__ 「`No－P.U.N.K. 鬼能乐`_」的③效果\ `21/8/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16729&request_locale=ja>`__ 在伤害步骤不能发动。
 
 -  「禁忌的圣杯」\ `17/12/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8213&request_locale=ja>`__ 等，影响怪兽攻击力·守备力的\ :ref:`快速效果`\ 如果没有特别说明，只能在\ **伤害步骤开始时或伤害计算前**\ 发动。
 
@@ -546,7 +546,7 @@
    | 对方场上存在「`天空的圣域`_」，我方场上「`脆刃之剑`_」装备的「`亚马逊剑士`_」（攻击力3500）与对方的「`权威者·许珀里翁`_」（攻击力2100）进行战斗的场合，我方受到1400战斗伤害，对方由于「`天空的圣域`_」的效果适用不受伤害。
    | 我方「`时间潜行者考勤机蝶`_」的①效果适用后，对方「`亚马逊剑士`_」直接攻击我方，「`时间潜行者考勤机蝶`_」的①效果让对方代受这1500战斗伤害，「`亚马逊剑士`_」的效果不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22863&keyword=&tag=-1&request_locale=ja>`__
    | 我方「`亚马逊剑士`_」攻击对方攻击表示怪兽时，对方发动「`次元壁`_」的场合，如果原本是我方会给与对方战斗伤害（「`亚马逊剑士`_」的攻击力更高）的状况，「`次元壁`_」的效果适用，结果我方受到那个战斗伤害（「`亚马逊剑士`_」的效果不适用）；如果原本是对方会给与我方战斗伤害的状况，「`亚马逊剑士`_」的效果适用，结果对方受到那个战斗伤害（「`次元壁`_」的效果不适用）。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11243&keyword=&tag=-1&request_locale=ja>`__
-   | 因卡的效果攻击力上升到1000的，X召唤的「`抒情歌鸲-吟诵椋鸟`_」直接攻击宣言时，对方发动「`次元壁`_」的场合，「`次元壁`_」的效果造成的战斗伤害不是原本的战斗伤害，而是让我方代受的战斗伤害，「`抒情歌鸲-吟诵椋鸟`_」的③效果不适用，我方受到1000战斗伤害。\ `21/8/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12398&keyword=&tag=-1&request_locale=ja>`_
+   | 因卡的效果攻击力上升到1000的，X召唤的「`抒情歌鸲-吟诵椋鸟`_」直接攻击宣言时，对方发动「`次元壁`_」的场合，「`次元壁`_」的效果造成的战斗伤害不是原本的战斗伤害，而是让我方代受的战斗伤害，「`抒情歌鸲-吟诵椋鸟`_」的③效果不适用，我方受到1000战斗伤害。\ `21/8/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12398&keyword=&tag=-1&request_locale=ja>`__
 
    .. tip:: 这类效果伤害的处理也类似，互相都存在「`No.14 强欲之死神犬`_」时，代受的效果伤害不是『对方的效果发生的对自己的效果伤害』，对方发动「`连锁爆击`_」的场合我方「`No.14 强欲之死神犬`_」的①效果适用，让对方代替受到这次伤害。这时对方「`No.14 强欲之死神犬`_」的①效果不会再适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14684&keyword=&tag=-1&request_locale=ja>`__
 
@@ -667,7 +667,6 @@
 | 伤害计算后被战斗破坏的怪兽还在场上，可以判断卡名等信息。
 | 例：
 | 「`魔偶甜点·布丁公主`_」被「`异次元女战士`_」战斗破坏，伤害计算后「`异次元女战士`_」发动效果，连锁发动「`魔导人偶之夜`_」的场合，『自己场上有「`魔偶甜点·布丁公主`_」存在的场合，再让对方手卡随机1张回到卡组』的处理也适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7671&request_locale=ja>`__
-| X怪兽被战斗破坏，伤害计算后可以取除其X素材发动「`XYZ阻挡`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6639&request_locale=ja>`__
 
 | 这个状态称为\ **确定被战斗破坏**\ ，需要注意以下几点：
 
@@ -701,7 +700,7 @@
    | 「`光与暗之龙`_」被战斗破坏，伤害计算后怪兽效果·魔法·陷阱卡发动时，其效果也会发动，但因攻击力·守备力无法下降而不适用，结果那次发动不会被无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12735&request_locale=ja>`__
    | 「`玄翼龙 黑羽`_」被战斗破坏，受到战斗伤害的场合也可以发动效果，从卡组把卡送墓的时点，即使有怪兽卡的场合，这个效果也当作处理完毕，不会上升攻击力。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=178&request_locale=ja>`__
    | 「`朱罗纪翼龙`_」被攻击，确定被战斗破坏的伤害计算后发动效果，那个攻击怪兽回到手卡，守备力不上升。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8738&request_locale=ja>`__
-   | 被战斗破坏确定的怪兽不能适用『自己场上的全部「`战吼`_」怪兽的攻击力直到对方回合结束时上升200』的效果，自己场上只存在1只「`战吼斗士·福蒂亚`_」，不存在其他战士族·地属性怪兽，这只「`战吼斗士·福蒂亚`_」被战斗破坏的场合，伤害计算后不能发动①效果。\ `21/9/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23359&keyword=&tag=-1&request_locale=ja>`_
+   | 被战斗破坏确定的怪兽不能适用『自己场上的全部「`战吼`_」怪兽的攻击力直到对方回合结束时上升200』的效果，自己场上只存在1只「`战吼斗士·福蒂亚`_」，不存在其他战士族·地属性怪兽，这只「`战吼斗士·福蒂亚`_」被战斗破坏的场合，伤害计算后不能发动①效果。\ `21/9/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23359&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 不能发动\ **选发的诱发即时效果**\ ，必发的效果会发动，但仍存在「光与暗之龙」这样虽然会发动但效果不适用的例子。
    | 例：
@@ -715,24 +714,28 @@
    | 伤害计算后不能把确定被战斗破坏的植物族怪兽解放来发动「`花粉症`_」。只有这1只植物族怪兽的场合不能发动「`花粉症`_」。\ `16/12/14 <https://yugioh-wiki.net/index.php?%A5%C0%A5%E1%A1%BC%A5%B8%B7%D7%BB%BB%B8%E5#j640f0af>`__
 
 -  | 不能成为效果的对象。
-   | 不取对象的效果没有限制。
+   | 不取对象的效果不受这个限制，即使有选的行为，如果效果可以适用，也可以选确定被战斗破坏的怪兽。
    | 例：
    | 「`异次元女战士`_」可以把被战斗破坏的怪兽除外。
    | 自己场上只存在战斗破坏确定的「`龙星`_」怪兽或「`恐啡肽狂龙`_」怪兽的伤害计算后，也可以发动「`龙星的九支`_」或「`恐啡肽狂龙音速`_」。
    | 我方场上存在「`天空的圣域`_」，「`天空圣者 莫提乌斯`_」攻击里侧表示的「`企鹅士兵`_」，伤害计算后确定被战斗破坏的「`企鹅士兵`_」发动①效果时，不管对方手卡·场上是否只存在「`企鹅士兵`_」，我方都可以发动「`篮板球`_」，处理时可以选这只「`企鹅士兵`_」送去墓地。此外，选其他卡送去墓地的场合，之后「`天空圣者 莫提乌斯`_」的①效果处理时可以选这只「`企鹅士兵`_」破坏。
    | 「`魔偶甜点茶休`_」的效果处理时可以选对方场上确定被战斗破坏的卡破坏。
+   | 「`铁兽战线 凶鸟之施莱格`_」的①效果处理时可以选确定被战斗破坏的卡除外。
+   | 对方场上只有1只怪兽存在，「`双天将 金刚`_」的攻击把那只怪兽战斗破坏的场合，即使②效果不取对象，由于确定被战斗破坏的怪兽不能回到手卡，伤害计算后不能发动②效果。\ `20/8/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23053&keyword=&tag=-1&request_locale=ja>`__
    | 确定被战斗破坏的怪兽不能成为「`干渴之风`_」的①效果的对象，即使这是必发效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15760&request_locale=ja>`__
 
 -  | 不能回到手卡·卡组·额外卡组。
    | 不会转移控制权。
    | 例：
-   | 「`超念导体 比蒙巨兽`_」被战斗破坏，在伤害计算后发动效果，那个发动被「`龙星的九支`_」无效后，由于\ :ref:`确定被战斗破坏`\ ，不会回到额外卡组，不会破坏「`龙星`_」卡。
+   | 「`超念导体 比蒙巨兽`_」被战斗破坏，在伤害计算后发动效果，那个发动被「`龙星的九支`_」无效后，不会回到额外卡组，不会破坏「`龙星`_」卡。
    | 「`异次元的战士`_」被战斗破坏，伤害计算后发动效果，这个发动被「`龙星的九支`_」无效后，不会回到卡组，不能破坏「`龙星`_」卡。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7966&request_locale=ja>`__
    | 确定被战斗破坏的怪兽发动效果时，也可以连锁发动「`头位审判`_」的效果。猜错的场合，那次发动无效，控制权不会转移。
 
 -  | 不能再增加X素材。
+   | 可以取除已有的X素材。
    | 例：
    | 自己场上「`时间潜行者`_」X怪兽被战斗破坏的伤害计算后，魔法·陷阱卡发动时，也可以连锁发动「`时间潜行者逆跳`_」。这个场合由于「`时间潜行者`_」X怪兽已经被战斗破坏，只把那次发动无效，那张魔法·陷阱卡不会变成X素材，因发动无效而送去墓地。\ `19/10/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22847&keyword=&tag=-1&request_locale=ja>`__
+   | X怪兽被战斗破坏，伤害计算后可以取除其X素材发动「`XYZ阻挡`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6639&request_locale=ja>`__
 
 -  | 是否可以放置各种指示物，调整中。
    | 这个时点已放置的指示物还不会取除，可以作为其他效果发动的cost被取除。
@@ -1222,3 +1225,5 @@
 .. _`真龙剑皇 卓辉星·拼图`: https://ygocdb.com/?search=真龙剑皇+卓辉星·拼图
 .. _`魔偶甜点茶休`: https://ygocdb.com/?search=魔偶甜点茶休
 .. _`恐啡肽狂龙音速`: https://ygocdb.com/?search=恐啡肽狂龙音速
+.. _`双天将 金刚`: https://ygocdb.com/?search=双天将+金刚
+.. _`铁兽战线 凶鸟之施莱格`: https://ygocdb.com/?search=铁兽战线+凶鸟之施莱格

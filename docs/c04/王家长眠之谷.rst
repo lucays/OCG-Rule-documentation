@@ -88,7 +88,7 @@
 
 -  | 由于不只是把卡的效果无效，还会让那些效果不适用，因此部分处理和「`技能抽取`_」「`王宫的通告`_」等效果不一致。
    | 例：
-   | 场上存在「`王家长眠之谷`_」，我方场上存在「`幻变骚灵协议`_」，我方发动「`幻变骚灵·网络傀儡师`_」②效果的场合，不管对象是不是「`幻变骚灵协议`_」，仍会进行『作为对象的场上的卡送去墓地』的处理，但『作为对象的墓地的怪兽特殊召唤』的处理虽然不会无效，仍不适用。\ `22/2/26 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14915&keyword=&tag=-1&request_locale=ja>`_
+   | 场上存在「`王家长眠之谷`_」，我方场上存在「`幻变骚灵协议`_」，我方发动「`幻变骚灵·网络傀儡师`_」②效果的场合，不管对象是不是「`幻变骚灵协议`_」，仍会进行『作为对象的场上的卡送去墓地』的处理，但『作为对象的墓地的怪兽特殊召唤』的处理虽然不会无效，仍不适用。\ `22/2/26 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14915&keyword=&tag=-1&request_locale=ja>`__
    | 「`幻变骚灵协议`_」效果适用中，被「`技能抽取`_」的效果无效的「`幻变骚灵·网络傀儡师`_」发动效果，即使处理时把「`幻变骚灵协议`_」送去墓地的场合，后续处理也正常进行，仍会特殊召唤怪兽。\ `18/09/03 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=193&keyword=&tag=-1&request_locale=ja>`__
 
 | 「`堕天使 伊希塔布`_」的②效果等，一部分效果涉及墓地的场合，如果是必须处理的，整个效果无效并且不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12869&keyword=&tag=-1&request_locale=ja>`__

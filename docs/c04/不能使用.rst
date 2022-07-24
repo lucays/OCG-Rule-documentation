@@ -25,7 +25,7 @@
 
 | 不论是「`禁止令`_」还是「`念动力防卫士`_」，其效果都是让宣言的卡名为\ **原本卡名**\ 的双方的卡不能使用。
 | 宣言自身卡名的场合，由于「`禁止令`_」的效果不影响已经在场上的自身，只会让其他的「`禁止令`_」不能出现在场上；「`念动力防卫士`_」的场合，直到下次的对方回合结束时场上的自身都会变得不能使用。
-| 此外，作为宣言卡名的效果，不能宣言衍生物\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12551&keyword=&tag=-1&request_locale=ja>`_\ ，也不能宣言规则上不存在的「`传说之都 亚特兰蒂斯`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13585&keyword=&tag=-1&request_locale=ja>`_
+| 此外，作为宣言卡名的效果，不能宣言衍生物\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12551&keyword=&tag=-1&request_locale=ja>`__\ ，也不能宣言规则上不存在的「`传说之都 亚特兰蒂斯`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13585&keyword=&tag=-1&request_locale=ja>`__
 
 『对从这个效果的适用前开始在场上存在的卡不适用』
 ------------------------------------------------
@@ -34,7 +34,7 @@
 | 「`禁止令`_」因「`魔法偏转器`_」等效果，被暂时无效的场合，无效期间内出现在场上的卡，在「`禁止令`_」的效果恢复适用后，也作为『这个效果的适用前开始在场上存在的卡』，可以正常使用。
 | 例：
 | 即使「`禁止令`_」宣言了「`三眼怪`_」，场上已经存在的「`三眼怪`_」可以正常使用。但是，「`三眼怪`_」从场上送去墓地的时点立即变得不能使用，不能发动①效果。
-| 即使「`禁止令`_」宣言了「`入魔雷神鸟`_」，场上已经存在的「`入魔雷神鸟`_」可以正常使用。但是，一旦「`入魔雷神鸟`_」发动效果，把自身一时除外的时点，立即变得不能使用，之后要回到场上的时点如果「`禁止令`_」的效果还在适用，不会回到场上，放置到墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13583&keyword=&tag=-1&request_locale=ja>`_
+| 即使「`禁止令`_」宣言了「`入魔雷神鸟`_」，场上已经存在的「`入魔雷神鸟`_」可以正常使用。但是，一旦「`入魔雷神鸟`_」发动效果，把自身一时除外的时点，立即变得不能使用，之后要回到场上的时点如果「`禁止令`_」的效果还在适用，不会回到场上，放置到墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13583&keyword=&tag=-1&request_locale=ja>`__
 
 不能使用的场景
 =================
@@ -45,18 +45,18 @@
 | 不能使用的卡片，不能以任何方式出现在场上，不仅包括魔法·陷阱卡的盖放·发动、怪兽通过通常召唤·反转召唤·特殊召唤上场，也包括一时除外后不能再回到场上，以及「`通灵盘`_」的①效果让「`死之信息`_」卡在场上出现、P区域「`慧眼之魔术师`_」的①效果把P怪兽在P区域放置、「`龙骑兵团神枪`_」的②效果等把卡片给怪兽装备等场景。
 | 已经出现在场上的卡片不受这条限制。
 | 例：
-| 「`堕恶之爪`_」回到手卡的回合，由于不能从手卡使用，不能再从手卡盖放到场上。\ `07/12/14 <https://yugioh-wiki.net/index.php?%A1%D4%A5%F4%A5%A3%A5%B7%A5%E3%A5%B9%A1%A6%A5%AF%A5%ED%A1%BC%A1%D5#faq2>`_\ 不过，可以发动「`妖精传姬-辛德瑞拉`_」的②效果把这张手卡的「`堕恶之爪`_」装备给自身。而「`禁止令`_」宣言了「`堕恶之爪`_」后，如果手卡·卡组·墓地没有其他的装备魔法，不能发动「`妖精传姬-辛德瑞拉`_」的②效果。
-| 「`禁止令`_」宣言了「`炎舞-「天枢」`_」后，「`英炎星-鹰荣`_」被对方破坏发动效果的场合，也不能盖放「`炎舞-「天枢」`_」。\ `17/5/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7471&keyword=&tag=-1&request_locale=ja>`_
-| 「`禁止令`_」宣言了「`龙骑兵团-方阵龙`_」后，「`龙骑兵团神枪`_」的②效果不能选卡组的「`龙骑兵团-方阵龙`_」给怪兽装备。如果卡组的龙族「`龙骑兵团`_」调整只有「`龙骑兵团-方阵龙`_」，不能发动这个效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14185&keyword=&tag=-1&request_locale=ja>`_
-| 「`禁止令`_」宣言了「`吸血鬼帝国`_」后，不能发动「`吸血鬼移地`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13592&keyword=&tag=-1&request_locale=ja>`_
-| 「`禁止令`_」宣言的怪兽被一时除外（即使以里侧表示的状态被一时除外也一样）后，要回到场上的时点如果「`禁止令`_」的效果仍在适用中，不会回到场上，送去墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14374&keyword=&tag=-1&request_locale=ja>`_
-| 「`龙呼相争`_」的①效果处理时，不能选不能使用的怪兽。如果除了不能使用的怪兽，卡组没有其他的1只「`龙剑士`_」P怪兽和1只「`龙魔王`_」P怪兽，不能发动「`龙呼相争`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17519&keyword=&tag=-1&request_locale=ja>`_
+| 「`堕恶之爪`_」回到手卡的回合，由于不能从手卡使用，不能再从手卡盖放到场上。\ `07/12/14 <https://yugioh-wiki.net/index.php?%A1%D4%A5%F4%A5%A3%A5%B7%A5%E3%A5%B9%A1%A6%A5%AF%A5%ED%A1%BC%A1%D5#faq2>`__\ 不过，可以发动「`妖精传姬-辛德瑞拉`_」的②效果把这张手卡的「`堕恶之爪`_」装备给自身。而「`禁止令`_」宣言了「`堕恶之爪`_」后，如果手卡·卡组·墓地没有其他的装备魔法，不能发动「`妖精传姬-辛德瑞拉`_」的②效果。
+| 「`禁止令`_」宣言了「`炎舞-「天枢」`_」后，「`英炎星-鹰荣`_」被对方破坏发动效果的场合，也不能盖放「`炎舞-「天枢」`_」。\ `17/5/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7471&keyword=&tag=-1&request_locale=ja>`__
+| 「`禁止令`_」宣言了「`龙骑兵团-方阵龙`_」后，「`龙骑兵团神枪`_」的②效果不能选卡组的「`龙骑兵团-方阵龙`_」给怪兽装备。如果卡组的龙族「`龙骑兵团`_」调整只有「`龙骑兵团-方阵龙`_」，不能发动这个效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14185&keyword=&tag=-1&request_locale=ja>`__
+| 「`禁止令`_」宣言了「`吸血鬼帝国`_」后，不能发动「`吸血鬼移地`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13592&keyword=&tag=-1&request_locale=ja>`__
+| 「`禁止令`_」宣言的怪兽被一时除外（即使以里侧表示的状态被一时除外也一样）后，要回到场上的时点如果「`禁止令`_」的效果仍在适用中，不会回到场上，送去墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14374&keyword=&tag=-1&request_locale=ja>`__
+| 「`龙呼相争`_」的①效果处理时，不能选不能使用的怪兽。如果除了不能使用的怪兽，卡组没有其他的1只「`龙剑士`_」P怪兽和1只「`龙魔王`_」P怪兽，不能发动「`龙呼相争`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17519&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 不能使用的怪兽，只要不在场上，不能选出重叠在X怪兽下作为X素材。
    | 「`念动力防卫士`_」的效果宣言的怪兽已经在场上的场合，可以重叠在X怪兽下作为X素材。
    | 例：
-   | 「`十二兽的方合`_」的①效果处理时，不能从卡组选「`禁止令`_」的效果宣言的「`十二兽`_」怪兽在对象怪兽下面重叠作为X素材。\ `17/5/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7967&keyword=&tag=-1&request_locale=ja>`_
-   | 「`阳炎柱`_」的『把自己的手卡·场上1只名字带有「`阳炎兽`_」的怪兽在选择的X怪兽下面重叠作为X素材』效果处理时，不能从手卡选「`禁止令`_」的效果宣言的「`十二兽`_」怪兽在对象怪兽下面重叠作为X素材，但是可以从场上选。\ `17/5/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7471&keyword=&tag=-1&request_locale=ja>`_
+   | 「`十二兽的方合`_」的①效果处理时，不能从卡组选「`禁止令`_」的效果宣言的「`十二兽`_」怪兽在对象怪兽下面重叠作为X素材。\ `17/5/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7967&keyword=&tag=-1&request_locale=ja>`__
+   | 「`阳炎柱`_」的『把自己的手卡·场上1只名字带有「`阳炎兽`_」的怪兽在选择的X怪兽下面重叠作为X素材』效果处理时，不能从手卡选「`禁止令`_」的效果宣言的「`十二兽`_」怪兽在对象怪兽下面重叠作为X素材，但是可以从场上选。\ `17/5/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7471&keyword=&tag=-1&request_locale=ja>`__
    | 「`念动力防卫士`_」的效果宣言的怪兽可以成为「`No.101 寂静荣誉方舟骑士`_」①效果的对象。
    | 「`阳炎柱`_」的『把自己的手卡·场上1只名字带有「`阳炎兽`_」的怪兽在选择的X怪兽下面重叠作为X素材』效果处理时，可以选场上的「`念动力防卫士`_」的效果宣言的怪兽在对象怪兽下面重叠作为X素材。
 
@@ -68,19 +68,19 @@
 | 如果不是效果，也会正常适用。
 | 例：
 | P区域「`机壳`_」卡被「`念动力防卫士`_」的效果宣言而变得不能使用的场合，其『①：自己不是「`机壳`_」怪兽不能特殊召唤。这个效果不会被无效化』效果也不适用，可以特殊召唤不是「`机壳`_」怪兽的怪兽。
-| 即使「`禁止令`_」宣言了「`被封印的艾克佐迪亚`_」，手卡集齐了「`被封印的艾克佐迪亚`_」等5种类卡的场合，仍会胜利。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11356&keyword=&tag=-1&request_locale=ja>`_
-| 「`暗黑终结龙`_」发动了多次自身效果，攻击力·守备力下降后，「`念动力防卫士`_」的效果宣言了「`暗黑终结龙`_」的场合，已经下降的攻击力·守备力不会复原。\ `12/6/26 <https://yugioh-wiki.net/index.php?%A1%D4%A5%B5%A5%A4%A5%AD%A5%C3%A5%AF%A1%A6%A5%D6%A5%ED%A5%C3%A5%AB%A1%BC%A1%D5#faq>`_
-| 因自身效果给自身放置了对应指示物的「`六武之门`_」「`脑开发研究所`_」因「`念动力防卫士`_」的效果变得不能使用的场合，已经放置的那些指示物不会取除。\ `14/7/13 <https://yugioh-wiki.net/index.php?%A1%D4%A5%B5%A5%A4%A5%AD%A5%C3%A5%AF%A1%A6%A5%D6%A5%ED%A5%C3%A5%AB%A1%BC%A1%D5#faq>`_
-| 「`念动力防卫士`_」的效果宣言的「`究极封印神 艾克佐迪奥斯`_」的③效果不适用，在场上被破坏的场合正常从场上送去墓地。\ `12/11/19 <https://yugioh-wiki.net/index.php?%A1%D4%A5%B5%A5%A4%A5%AD%A5%C3%A5%AF%A1%A6%A5%D6%A5%ED%A5%C3%A5%AB%A1%BC%A1%D5#faq>`_
+| 即使「`禁止令`_」宣言了「`被封印的艾克佐迪亚`_」，手卡集齐了「`被封印的艾克佐迪亚`_」等5种类卡的场合，仍会胜利。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11356&keyword=&tag=-1&request_locale=ja>`__
+| 「`暗黑终结龙`_」发动了多次自身效果，攻击力·守备力下降后，「`念动力防卫士`_」的效果宣言了「`暗黑终结龙`_」的场合，已经下降的攻击力·守备力不会复原。\ `12/6/26 <https://yugioh-wiki.net/index.php?%A1%D4%A5%B5%A5%A4%A5%AD%A5%C3%A5%AF%A1%A6%A5%D6%A5%ED%A5%C3%A5%AB%A1%BC%A1%D5#faq>`__
+| 因自身效果给自身放置了对应指示物的「`六武之门`_」「`脑开发研究所`_」因「`念动力防卫士`_」的效果变得不能使用的场合，已经放置的那些指示物不会取除。\ `14/7/13 <https://yugioh-wiki.net/index.php?%A1%D4%A5%B5%A5%A4%A5%AD%A5%C3%A5%AF%A1%A6%A5%D6%A5%ED%A5%C3%A5%AB%A1%BC%A1%D5#faq>`__
+| 「`念动力防卫士`_」的效果宣言的「`究极封印神 艾克佐迪奥斯`_」的③效果不适用，在场上被破坏的场合正常从场上送去墓地。\ `12/11/19 <https://yugioh-wiki.net/index.php?%A1%D4%A5%B5%A5%A4%A5%AD%A5%C3%A5%AF%A1%A6%A5%D6%A5%ED%A5%C3%A5%AB%A1%BC%A1%D5#faq>`__
 
 -  | 已经适用的效果，即使那个卡名被宣言而变得不能使用，那些效果仍然适用。
    | 例：
-   | 「`念动力防卫士`_」的效果宣言「`僵尸带菌者`_」后，用自身效果特殊召唤的「`僵尸带菌者`_」从场上离开的场合仍然除外。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8612&keyword=&tag=-1&request_locale=ja>`_
-   | 「`死灵守卫者`_」的①效果适用后，发动「`禁止令`_」宣言「`死灵守卫者`_」的场合，这个效果仍然适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23435&keyword=&tag=-1&request_locale=ja>`_
-   | 「`增殖的G`_」的①效果适用后，发动「`禁止令`_」宣言「`增殖的G`_」的场合，这个效果仍然适用。这个回合对方每次特殊召唤怪兽自己仍然必须抽1张卡。\ `21/11/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23435&keyword=&tag=-1&request_locale=ja>`_
-   | 「`天狱之王`_」的①效果适用后，持续公开期间发动「`禁止令`_」宣言「`天狱之王`_」的场合，『这个效果持续公开期间，场上盖放的卡不会被效果破坏』效果仍然适用。\ `21/10/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23403&keyword=&tag=-1&request_locale=ja>`_
-   | 「`被诅咒的无花果`_」的效果适用后，在墓地存在时间发动「`禁止令`_」宣言「`被诅咒的无花果`_」的场合，『只要这张卡在墓地存在，选择的卡不能发动』效果仍然适用。\ `13/3/20 <https://yugioh-wiki.net/index.php?%A1%D4%B6%D8%BB%DF%CE%E1%A1%D5#faq0>`_
-   | 「`念动力防卫士`_」的效果宣言「`强袭黑羽-雾雨之苦无鸟`_」后，用自身①效果记述的方法特殊召唤的「`强袭黑羽-雾雨之苦无鸟`_」仍然当作调整使用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16344&keyword=&tag=-1&request_locale=ja>`_
+   | 「`念动力防卫士`_」的效果宣言「`僵尸带菌者`_」后，用自身效果特殊召唤的「`僵尸带菌者`_」从场上离开的场合仍然除外。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8612&keyword=&tag=-1&request_locale=ja>`__
+   | 「`死灵守卫者`_」的①效果适用后，发动「`禁止令`_」宣言「`死灵守卫者`_」的场合，这个效果仍然适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23435&keyword=&tag=-1&request_locale=ja>`__
+   | 「`增殖的G`_」的①效果适用后，发动「`禁止令`_」宣言「`增殖的G`_」的场合，这个效果仍然适用。这个回合对方每次特殊召唤怪兽自己仍然必须抽1张卡。\ `21/11/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23435&keyword=&tag=-1&request_locale=ja>`__
+   | 「`天狱之王`_」的①效果适用后，持续公开期间发动「`禁止令`_」宣言「`天狱之王`_」的场合，『这个效果持续公开期间，场上盖放的卡不会被效果破坏』效果仍然适用。\ `21/10/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23403&keyword=&tag=-1&request_locale=ja>`__
+   | 「`被诅咒的无花果`_」的效果适用后，在墓地存在时间发动「`禁止令`_」宣言「`被诅咒的无花果`_」的场合，『只要这张卡在墓地存在，选择的卡不能发动』效果仍然适用。\ `13/3/20 <https://yugioh-wiki.net/index.php?%A1%D4%B6%D8%BB%DF%CE%E1%A1%D5#faq0>`__
+   | 「`念动力防卫士`_」的效果宣言「`强袭黑羽-雾雨之苦无鸟`_」后，用自身①效果记述的方法特殊召唤的「`强袭黑羽-雾雨之苦无鸟`_」仍然当作调整使用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16344&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 在手卡等，场上以外的场所适用的无种类效果也会变得不适用。
    | 例：
@@ -112,11 +112,11 @@
 
 -  | 如果不是作为素材使用，也可以用于把融合·S·X·连接怪兽特殊召唤的召唤手续。
    | 例：
-   | 「`黑羽-大旆之伐由`_」的②效果除外的怪兽不当作S素材，可以把不能使用的怪兽除外来特殊召唤「`黑羽`_」S怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13587&keyword=&tag=-1&request_locale=ja>`_
-   | 可以让自己场上1只不能使用的「`暗黑界`_」怪兽回到手卡来把墓地的「`暗黑界的龙神 格拉法`_」特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11583&keyword=&tag=-1&request_locale=ja>`_
-   | 通过自身记述的召唤方式把「`剑斗兽 凯撒`_」特殊召唤的场合，回到卡组的「`剑斗兽`_」怪兽当作融合素材处理，因此，不能把不能使用的「`剑斗兽`_」怪兽回到卡组来特殊召唤「`剑斗兽 凯撒`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13591&keyword=&tag=-1&request_locale=ja>`_
-   | 「`电子暗黑冲击！`_」的效果进行的是融合召唤，如果作为融合素材的「`电子暗黑魔角`_」「`电子暗黑刃翼`_」「`电子暗黑龙骨`_」中的某张卡不能使用，不能发动「`电子暗黑冲击！`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10465&keyword=&tag=-1&request_locale=ja>`_
-   | 「`禁止令`_」宣言了融合怪兽，「`未来融合`_」的①效果也可以把那只怪兽的融合素材怪兽送去墓地，之后如果「`禁止令`_」的效果仍适用中，不能把那只融合怪兽特殊召唤。「`禁止令`_」宣言了融合怪兽所对应的融合素材怪兽的卡名时，「`未来融合`_」的①效果也可以把包含「`禁止令`_」宣言了卡名的那些怪兽从卡组送去墓地，之后也能把对应的融合怪兽融合召唤。\ `20/11/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12162&keyword=&tag=-1&request_locale=ja>`_
+   | 「`黑羽-大旆之伐由`_」的②效果除外的怪兽不当作S素材，可以把不能使用的怪兽除外来特殊召唤「`黑羽`_」S怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13587&keyword=&tag=-1&request_locale=ja>`__
+   | 可以让自己场上1只不能使用的「`暗黑界`_」怪兽回到手卡来把墓地的「`暗黑界的龙神 格拉法`_」特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11583&keyword=&tag=-1&request_locale=ja>`__
+   | 通过自身记述的召唤方式把「`剑斗兽 凯撒`_」特殊召唤的场合，回到卡组的「`剑斗兽`_」怪兽当作融合素材处理，因此，不能把不能使用的「`剑斗兽`_」怪兽回到卡组来特殊召唤「`剑斗兽 凯撒`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13591&keyword=&tag=-1&request_locale=ja>`__
+   | 「`电子暗黑冲击！`_」的效果进行的是融合召唤，如果作为融合素材的「`电子暗黑魔角`_」「`电子暗黑刃翼`_」「`电子暗黑龙骨`_」中的某张卡不能使用，不能发动「`电子暗黑冲击！`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10465&keyword=&tag=-1&request_locale=ja>`__
+   | 「`禁止令`_」宣言了融合怪兽，「`未来融合`_」的①效果也可以把那只怪兽的融合素材怪兽送去墓地，之后如果「`禁止令`_」的效果仍适用中，不能把那只融合怪兽特殊召唤。「`禁止令`_」宣言了融合怪兽所对应的融合素材怪兽的卡名时，「`未来融合`_」的①效果也可以把包含「`禁止令`_」宣言了卡名的那些怪兽从卡组送去墓地，之后也能把对应的融合怪兽融合召唤。\ `20/11/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12162&keyword=&tag=-1&request_locale=ja>`__
 
    .. note:: 「`未来融合`_」的①效果送去墓地的怪兽，是在之后把融合怪兽融合召唤成功的时点起，才当作那只融合怪兽的融合素材使用。因此，可以正常从卡组送去墓地，这个时点还不是融合素材。
 

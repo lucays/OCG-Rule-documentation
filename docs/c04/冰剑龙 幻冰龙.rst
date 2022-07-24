@@ -24,7 +24,7 @@
 | 『下个回合，这张卡不能使用这个效果』是效果的一部分，这个效果被无效或者改写的场合，不会适用，下个回合还能发动这个效果。\ `21/12/3 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23471&keyword=&tag=-1&request_locale=ja>`__\ 不过，如果只是因「`古遗物-圣枪`_」③效果等，没能成功除外怪兽的场合，这部分效果仍会适用，下个回合仍然不能再次发动。\ `21/12/3 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23470&keyword=&tag=-1&request_locale=ja>`__
 
 『以「`阿不思的落胤`_」为融合素材的1只融合怪兽』
-----------------------------------------------
+--------------------------------------------------
 
 | 这指的是文本中\ :ref:`融合素材`\ 一行明确记述了「`阿不思的落胤`_」的融合怪兽。
 | 只记述龙族怪兽·暗属性怪兽等的不符合要求。
@@ -45,20 +45,20 @@
 | 例：
 | 「`黯黑世界-暗影敌托邦-`_」的②效果适用中，对方把这张卡作为cost发动效果，结果这张卡从场上离开的场合，也是『因对方从场上离开』。
 | 融合召唤的这张卡成为对方「`大逮捕`_」的①效果等对象，处理时对方没有可用怪兽区域，导致这张卡破坏送去墓地的场合，不是因对方送去墓地，不能发动③效果。
-| 融合召唤的这张卡成为对方「`纳祭之魔`_」的①效果等对象，处理时「`纳祭之魔`_」不在场上表侧表示，导致这张卡装备失败送去墓地的场合，不是因对方送去墓地，不能发动③效果。\ `22/1/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23547&keyword=&tag=-1&request_locale=ja>`_
+| 融合召唤的这张卡成为对方「`纳祭之魔`_」的①效果等对象，处理时「`纳祭之魔`_」不在场上表侧表示，导致这张卡装备失败送去墓地的场合，不是因对方送去墓地，不能发动③效果。\ `22/1/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23547&keyword=&tag=-1&request_locale=ja>`__
 | 因对方「`坏兽`_」怪兽或「`闭锁世界的冥神`_」等的召唤·特殊召唤的手续而从场上离开的场合，也可以发动这个效果。\ `22/2/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23560&keyword=&tag=-1&request_locale=ja>`__
 
 - | 如果这张卡不在原本持有者场上，不管是因哪一方玩家从场上离开，都不能发动这个效果。\ `22/2/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23555&keyword=&tag=-1&request_locale=ja>`__
 
 | 虽然『从场上离开』包含任意形式的从场上离开，但是由于没有明确的文本记述时，卡片在回到卡组·里侧表示的额外卡组·被里侧表示除外的场合不能发动效果，因此这张卡实际上只能在被送去墓地·被表侧表示除外的场合才能发动这个效果。
 
-.. attention:: 特别地，和「`元素英雄 绝对零度侠`_」等不同，这张卡在里侧表示的状态，因对方从场上离开的场合，也可以发动这个效果。\ `21/12/3 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17069&request_locale=ja>`_
+.. attention:: 特别地，和「`元素英雄 绝对零度侠`_」等不同，这张卡在里侧表示的状态，因对方从场上离开的场合，也可以发动这个效果。\ `21/12/3 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17069&request_locale=ja>`__
 
 『这个回合的结束阶段把对方场上的怪兽全部破坏』
----------------------------------------------
+------------------------------------------------
 
 | 这个效果发动后，效果处理时不会进行破坏的处理，而是在结束阶段才进行。
-| 因此，不能连锁发动「`我身作盾`_」「`星尘龙`_」的①效果等。\ `21/12/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23496&keyword=&tag=-1&request_locale=ja>`_
+| 因此，不能连锁发动「`我身作盾`_」「`星尘龙`_」的①效果等。\ `21/12/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23496&keyword=&tag=-1&request_locale=ja>`__
 | 并且，「`念力终结处刑者`_」「`铠皇龙-电子暗黑终结龙`_」等持有『不受发动的效果影响』效果的怪兽仍然会被这个效果破坏。
 
 .. _`阿不思的落胤`: https://ygocdb.com/?search=阿不思的落胤
