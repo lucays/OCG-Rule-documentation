@@ -2690,3 +2690,4 @@
 .. _`六花的风花`: https://ygocdb.com/?search=六花的风花
 .. _`魔偶甜点·布丁公主`: https://ygocdb.com/?search=魔偶甜点·布丁公主
 .. _`猎卡死神`: https://ygocdb.com/?search=猎卡死神
+.. _`手札断杀`: https://ygocdb.com/?search=手札断杀
