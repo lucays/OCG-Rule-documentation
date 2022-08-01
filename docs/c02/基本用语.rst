@@ -1007,6 +1007,14 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 | 「`飞龙艇-幻舵拉`_」的①效果的发动被无效，或者处理时自身被破坏的场合，由于『作为这个回合进行通常抽卡的代替』效果不适用，可以进行通常抽卡。\ `18/2/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21764&keyword=&tag=-1&request_locale=ja>`__ \ `18/3/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10437&keyword=&tag=-1&request_locale=ja>`__
 | 「`升阶魔法-星光之力`_」的②效果发动被无效的场合，可以再进行通常抽卡。
 | 「`升阶魔法-星光之力`_」的②效果处理时，没能把自身加入手卡的场合，仍然不能进行通常抽卡。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13008&keyword=&tag=-1&request_locale=ja>`__
+| 通常抽卡前发动「`森罗的泷滑`_」的效果，那个发动被无效的场合，也不能通常抽卡。\ `22/7/30 <https://yugioh-wiki.net/index.php?%A1%D4%BF%B9%CD%E5%A4%CE%C2%EC%B3%EA%A4%EA%A1%D5#faq>`__
+| 通常抽卡前发动「`焰虎`_」的效果，那个发动被无效的场合，也不能通常抽卡。\ `22/7/30 <https://yugioh-wiki.net/index.php?%A1%D4%B1%EB%B8%D7%A1%D5#faq>`__
+| 通常抽卡前发动「`时空混沌涡`_」的效果，那个发动被无效的场合，也不能通常抽卡。\ `22/7/30 <https://yugioh-wiki.net/index.php?%A1%D4%BB%FE%B6%F5%BA%AE%C6%D9%B1%B2%A1%D5#faq>`__
+| 通常抽卡前发动「`骷髅炎鬼`_」的效果，那个发动被无效的场合，可以通常抽卡。\ `22/7/30 <https://yugioh-wiki.net/index.php?%A1%D4%A5%B9%A5%AB%A5%EB%A1%A6%A5%D5%A5%EC%A5%A4%A5%E0%A1%D5#faq>`__
+| 通常抽卡前发动「`灵魂火阵`_」的效果，那个发动被无效的场合，可以通常抽卡。\ `22/7/30 <https://yugioh-wiki.net/index.php?%A1%D4%A5%B9%A5%D4%A5%EA%A5%C3%A5%C8%A1%A6%A5%D0%A1%BC%A5%CA%A1%BC%A1%D5#faq>`__
+| 通常抽卡前发动「`暗黑将军 弗里德`_」的效果，那个发动被无效的场合，可以通常抽卡。\ `22/7/30 <https://yugioh-wiki.net/index.php?%A1%D4%A5%C0%A1%BC%A5%AF%A1%A6%A5%B8%A5%A7%A5%CD%A5%E9%A5%EB%20%A5%D5%A5%EA%A1%BC%A5%C9%A1%D5#faq>`__
+| 通常抽卡前发动「`流星日珥`_」的效果，那个发动被无效的场合，可以通常抽卡。\ `22/7/30 <https://yugioh-wiki.net/index.php?%A1%D4%A5%E1%A5%C6%A5%AA%A1%A6%A5%D7%A5%ED%A5%DF%A5%CD%A5%F3%A5%B9%A1%D5#faq>`__
+| 通常抽卡前发动「`圆盘 姆斯基型`_」的效果，那个发动被无效的场合，可以通常抽卡。\ `22/7/30 <https://yugioh-wiki.net/index.php?%A1%D4%B1%DF%C8%D7%A5%E0%A5%B9%A5%AD%A1%BC%A1%D5#faq>`__
 
 -  | 我方卡组没有卡时，『作为通常抽卡的代替』的效果不能发动·适用。
    | 例：
@@ -1597,3 +1605,7 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 .. _`流星日珥`: https://ygocdb.com/?search=流星日珥
 .. _`森罗`: https://ygocdb.com/?search=森罗
 .. _`魔法爆破`: https://ygocdb.com/?search=魔法爆破
+.. _`圆盘 姆斯基型`: https://ygocdb.com/?search=圆盘+姆斯基型
+.. _`骷髅炎鬼`: https://ygocdb.com/?search=骷髅炎鬼
+.. _`暗黑将军 弗里德`: https://ygocdb.com/?search=暗黑将军+弗里德
+.. _`灵魂火阵`: https://ygocdb.com/?search=灵魂火阵

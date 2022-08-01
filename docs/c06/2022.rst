@@ -1676,6 +1676,16 @@
 | 邮件：
 | 「`魔偶甜点·布丁公主`_」把恶魔族怪兽战斗破坏的伤害计算后，发动②效果要把「`魔界特派员 死亡主播`_」破坏时，「`魔界特派员 死亡主播`_」的①效果适用时只能把那只确定被战斗破坏的怪兽以外的恶魔族怪兽解放。
 
+| wiki:
+| 通常抽卡前发动「`森罗的泷滑`_」的效果，那个发动被无效的场合，也不能通常抽卡。\ `22/7/30 <https://yugioh-wiki.net/index.php?%A1%D4%BF%B9%CD%E5%A4%CE%C2%EC%B3%EA%A4%EA%A1%D5#faq>`__
+| 通常抽卡前发动「`焰虎`_」的效果，那个发动被无效的场合，也不能通常抽卡。\ `22/7/30 <https://yugioh-wiki.net/index.php?%A1%D4%B1%EB%B8%D7%A1%D5#faq>`__
+| 通常抽卡前发动「`时空混沌涡`_」的效果，那个发动被无效的场合，也不能通常抽卡。\ `22/7/30 <https://yugioh-wiki.net/index.php?%A1%D4%BB%FE%B6%F5%BA%AE%C6%D9%B1%B2%A1%D5#faq>`__
+| 通常抽卡前发动「`骷髅炎鬼`_」的效果，那个发动被无效的场合，可以通常抽卡。\ `22/7/30 <https://yugioh-wiki.net/index.php?%A1%D4%A5%B9%A5%AB%A5%EB%A1%A6%A5%D5%A5%EC%A5%A4%A5%E0%A1%D5#faq>`__
+| 通常抽卡前发动「`灵魂火阵`_」的效果，那个发动被无效的场合，可以通常抽卡。\ `22/7/30 <https://yugioh-wiki.net/index.php?%A1%D4%A5%B9%A5%D4%A5%EA%A5%C3%A5%C8%A1%A6%A5%D0%A1%BC%A5%CA%A1%BC%A1%D5#faq>`__
+| 通常抽卡前发动「`暗黑将军 弗里德`_」的效果，那个发动被无效的场合，可以通常抽卡。\ `22/7/30 <https://yugioh-wiki.net/index.php?%A1%D4%A5%C0%A1%BC%A5%AF%A1%A6%A5%B8%A5%A7%A5%CD%A5%E9%A5%EB%20%A5%D5%A5%EA%A1%BC%A5%C9%A1%D5#faq>`__
+| 通常抽卡前发动「`流星日珥`_」的效果，那个发动被无效的场合，可以通常抽卡。\ `22/7/30 <https://yugioh-wiki.net/index.php?%A1%D4%A5%E1%A5%C6%A5%AA%A1%A6%A5%D7%A5%ED%A5%DF%A5%CD%A5%F3%A5%B9%A1%D5#faq>`__
+| 通常抽卡前发动「`圆盘 姆斯基型`_」的效果，那个发动被无效的场合，可以通常抽卡。\ `22/7/30 <https://yugioh-wiki.net/index.php?%A1%D4%B1%DF%C8%D7%A5%E0%A5%B9%A5%AD%A1%BC%A1%D5#faq>`__
+
 7/31
 -------
 
@@ -1683,6 +1693,17 @@
 | 确定被战斗破坏的怪兽的装备卡，在伤害计算后不是确定破坏的状态，可以作为cost送去墓地来发动「`神威凤凰剑圣 基亚·弗里德`_」的③效果。
 | 场上存在「`业火之结界像`_」时，不能特殊召唤炎属性以外的怪兽，因此不能发动「`魔术礼帽`_」。
 | 我方场上存在「`御前试合`_」和炎属性怪兽时，不能特殊召唤和炎属性不同属性的怪兽，因此可以发动「`魔术礼帽`_」，来特殊召唤没有属性的怪兽。
+
+22/08
+========
+
+8/1
+------
+
+| wiki:
+| 以攻击力不是0的怪兽为对象发动「`混沌No.15 机关傀儡-连环杀手`_」的①效果时，可以连锁发动「`废品栗子球`_」的①效果；以魔法·陷阱卡或者攻击力是0的怪兽为对象发动「`混沌No.15 机关傀儡-连环杀手`_」的①效果时，不能连锁发动「`废品栗子球`_」的①效果。\ `22/8/1 <https://yugioh-wiki.net/index.php?%A1%D4%A3%C3%A3%CE%A3%EF.%A3%B1%A3%B5%20%A5%AE%A5%DF%A5%C3%A5%AF%A1%A6%A5%D1%A5%DA%A5%C3%A5%C8%A1%DD%A5%B7%A5%EA%A5%A2%A5%EB%A5%AD%A5%E9%A1%BC%A1%D5#faq>`__
+| 场上存在「`虚无空间`_」时，不能发动墓地「`电子鱼人-栽培者`_」的效果。\ `22/8/1 <https://yugioh-wiki.net/index.php?%A1%D4%A5%D5%A5%A3%A5%C3%A5%B7%A5%E5%A5%DC%A1%BC%A5%B0%A1%DD%A5%D7%A5%E9%A5%F3%A5%BF%A1%BC%A1%D5#faq>`__
+| 把「`虚无空间`_」送去墓地来发动「`星逢的天河`_」的②效果时，也可以在没有战斗阶段的回合或者主要阶段2以后进行，在主要阶段1以前进行的场合，这个回合仍然可以进入战斗阶段。\ `22/8/1 <https://yugioh-wiki.net/index.php?%A1%D4%C0%B1%B0%A9%A4%CE%C5%B7%B2%CF%A1%D5#faq2>`__
 
 .. _`转生炎兽 独角兔`: https://ygocdb.com/?search=转生炎兽+独角兔
 .. _`光之护封剑`: https://ygocdb.com/?search=光之护封剑
@@ -2701,3 +2722,11 @@
 .. _`手札断杀`: https://ygocdb.com/?search=手札断杀
 .. _`神威凤凰剑圣 基亚·弗里德`: https://ygocdb.com/?search=神威凤凰剑圣+基亚·弗里德
 .. _`业火之结界像`: https://ygocdb.com/?search=业火之结界像
+.. _`暗黑将军 弗里德`: https://ygocdb.com/?search=暗黑将军+弗里德
+.. _`废品栗子球`: https://ygocdb.com/?search=废品栗子球
+.. _`星逢的天河`: https://ygocdb.com/?search=星逢的天河
+.. _`骷髅炎鬼`: https://ygocdb.com/?search=骷髅炎鬼
+.. _`圆盘 姆斯基型`: https://ygocdb.com/?search=圆盘+姆斯基型
+.. _`电子鱼人-栽培者`: https://ygocdb.com/?search=电子鱼人-栽培者
+.. _`灵魂火阵`: https://ygocdb.com/?search=灵魂火阵
+.. _`混沌No.15 机关傀儡-连环杀手`: https://ygocdb.com/?search=混沌No.15+机关傀儡-连环杀手

@@ -82,6 +82,7 @@
    | 「`无差别崩坏`_」的效果由于在处理时不能确定会破坏怪兽，基本上不能连锁发动「`我身作盾`_」。但如果场上有等级1的怪兽，由于无论点数多少都会被破坏，就可以连锁发动「`我身作盾`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20860&request_locale=ja>`__
    | 「`零-最大`_」发动时，如果场上没有比取对象的怪兽攻击力更低的怪兽，那么不能连锁发动「`星尘龙`_」的①效果。有的场合才能发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=192&request_locale=ja>`__
    | 对方「`药物引发的副作用`_」的效果适用中，对方发动「`礼品卡`_」的场合，是给与伤害的效果，可以连锁发动「`娱乐伙伴 雨衣山羊`_」的①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17573&request_locale=ja>`__
+   | 以攻击力不是0的怪兽为对象发动「`混沌No.15 机关傀儡-连环杀手`_」的①效果时，可以连锁发动「`废品栗子球`_」的①效果；以魔法·陷阱卡或者攻击力是0的怪兽为对象发动「`混沌No.15 机关傀儡-连环杀手`_」的①效果时，不能连锁发动「`废品栗子球`_」的①效果。\ `22/7/30 <https://yugioh-wiki.net/index.php?%A1%D4%A3%C3%A3%CE%A3%EF.%A3%B1%A3%B5%20%A5%AE%A5%DF%A5%C3%A5%AF%A1%A6%A5%D1%A5%DA%A5%C3%A5%C8%A1%DD%A5%B7%A5%EA%A5%A2%A5%EB%A5%AD%A5%E9%A1%BC%A1%D5#faq>`__
 
 | 不能对应在效果处理时不会立即处理的效果。
 | 例：
@@ -162,3 +163,5 @@
 .. _`召唤兽 梅尔卡巴`: https://ygocdb.com/?search=召唤兽+梅尔卡巴
 .. _`女神薇儿丹蒂的引导`: https://ygocdb.com/?search=女神薇儿丹蒂的引导
 .. _`珠泪哀歌族·鲁莎卡人鱼`: https://ygocdb.com/?search=珠泪哀歌族·鲁莎卡人鱼
+.. _`废品栗子球`: https://ygocdb.com/?search=废品栗子球
+.. _`混沌No.15 机关傀儡-连环杀手`: https://ygocdb.com/?search=混沌No.15+机关傀儡-连环杀手
