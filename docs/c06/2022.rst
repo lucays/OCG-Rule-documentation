@@ -1703,7 +1703,7 @@
 | wiki:
 | 以攻击力不是0的怪兽为对象发动「`混沌No.15 机关傀儡-连环杀手`_」的①效果时，可以连锁发动「`废品栗子球`_」的①效果；以魔法·陷阱卡或者攻击力是0的怪兽为对象发动「`混沌No.15 机关傀儡-连环杀手`_」的①效果时，不能连锁发动「`废品栗子球`_」的①效果。\ `22/8/1 <https://yugioh-wiki.net/index.php?%A1%D4%A3%C3%A3%CE%A3%EF.%A3%B1%A3%B5%20%A5%AE%A5%DF%A5%C3%A5%AF%A1%A6%A5%D1%A5%DA%A5%C3%A5%C8%A1%DD%A5%B7%A5%EA%A5%A2%A5%EB%A5%AD%A5%E9%A1%BC%A1%D5#faq>`__
 | 场上存在「`虚无空间`_」时，不能发动墓地「`电子鱼人-栽培者`_」的效果。\ `22/8/1 <https://yugioh-wiki.net/index.php?%A1%D4%A5%D5%A5%A3%A5%C3%A5%B7%A5%E5%A5%DC%A1%BC%A5%B0%A1%DD%A5%D7%A5%E9%A5%F3%A5%BF%A1%BC%A1%D5#faq>`__
-| 把「`虚无空间`_」送去墓地来发动「`星逢的天河`_」的②效果时，也可以在没有战斗阶段的回合或者主要阶段2以后进行，在主要阶段1以前进行的场合，这个回合仍然可以进入战斗阶段。\ `22/8/1 <https://yugioh-wiki.net/index.php?%A1%D4%C0%B1%B0%A9%A4%CE%C5%B7%B2%CF%A1%D5#faq2>`__
+| 把「`遗式世传的禁断秘术`_」送去墓地来发动「`星逢的天河`_」的②效果时，也可以在没有战斗阶段的回合或者主要阶段2以后进行，在主要阶段1以前进行的场合，这个回合仍然可以进入战斗阶段。\ `22/8/1 <https://yugioh-wiki.net/index.php?%A1%D4%C0%B1%B0%A9%A4%CE%C5%B7%B2%CF%A1%D5#faq2>`__
 
 .. _`转生炎兽 独角兔`: https://ygocdb.com/?search=转生炎兽+独角兔
 .. _`光之护封剑`: https://ygocdb.com/?search=光之护封剑
@@ -2730,3 +2730,4 @@
 .. _`电子鱼人-栽培者`: https://ygocdb.com/?search=电子鱼人-栽培者
 .. _`灵魂火阵`: https://ygocdb.com/?search=灵魂火阵
 .. _`混沌No.15 机关傀儡-连环杀手`: https://ygocdb.com/?search=混沌No.15+机关傀儡-连环杀手
+.. _`遗式世传的禁断秘术`: https://ygocdb.com/?search=遗式世传的禁断秘术
