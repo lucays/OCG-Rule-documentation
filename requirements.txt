@@ -1,2 +1,3 @@
-docutils<0.18
+readthedocs-sphinx-search
 git+https://github.com/lucays/furo.git@main
+sphinx==4.5.0
