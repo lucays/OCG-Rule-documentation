@@ -1752,6 +1752,13 @@
 
 | wiki:
 | 装备了「`脆刃之剑`_」的「`亚马逊剑士`_」（攻击力3500）攻击对方攻击表示的「`勇者衍生物`_」的场合，给与对方2次1500，合计3000的战斗伤害，这个状况对方不能发动「`地狱暴风`_」。\ `22/8/7 <https://yugioh-wiki.net/index.php?%A1%D4%C0%C8%BF%CF%A4%CE%B7%F5%A1%D5#faq>`__
+| 「`龙星辉巧群`_」的②效果只能以攻击力在1000以上的怪兽为对象才能发动。这个效果处理时，对象怪兽攻击力低于1000的场合，这个效果不适用（不会下降攻击力，自身留在墓地）；这个效果处理时，「`天邪鬼的诅咒`_」的效果适用的场合，对象怪兽攻击力上升1000，自身留在墓地，不会加入手卡。\ `22/8/7 <https://yugioh-wiki.net/index.php?%A1%D4%CE%AE%C0%B1%B5%B1%B9%AA%B7%B2%A1%D5#faq2>`__
+
+8/8
+------
+
+| 数据库：
+| 连接怪兽的连接端存在的我方怪兽是里侧表示状态的场合，也是连接状态的怪兽，以这个状态的怪兽为对象发动卡的效果时，可以发动「`星杯的守护龙`_」的①效果。\ `22/8/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7043&keyword=&tag=-1&request_locale=ja>`__
 
 .. _`转生炎兽 独角兔`: https://ygocdb.com/?search=转生炎兽+独角兔
 .. _`光之护封剑`: https://ygocdb.com/?search=光之护封剑
@@ -2792,3 +2799,5 @@
 .. _`等级限制A地区`: https://ygocdb.com/?search=等级限制A地区
 .. _`命之纲`: https://ygocdb.com/?search=命之纲
 .. _`壶魔人`: https://ygocdb.com/?search=壶魔人
+.. _`星杯的守护龙`: https://ygocdb.com/?search=星杯的守护龙
+.. _`龙星辉巧群`: https://ygocdb.com/?search=龙星辉巧群
