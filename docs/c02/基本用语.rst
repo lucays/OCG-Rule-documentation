@@ -469,6 +469,7 @@ cost
 | 「`暗黑神鸟 斯摩夫`_」的『对方不能在场上把卡盖放。』的效果适用的场合，不能通过通常召唤把怪兽盖放。另外，这个状况下发动了「`神圣光辉`_」的场合，可以把怪兽表侧守备表示召唤。
 | 「`进击的帝王`_」的①效果适用中，里侧守备表示上级召唤的怪兽以及表侧表示上级召唤后被卡的效果变成里侧表示的怪兽不会被「`黑洞`_」的①效果破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12693&keyword=&tag=-1&request_locale=ja>`__
 | 解放2只怪兽里侧守备表示上级召唤的「`真龙剑皇 卓辉星·拼图`_」反转后，①效果正常适用，也可以发动②效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20548&keyword=&tag=-1&request_locale=ja>`__
+| 「`俱舍怒威族的停泊地`_」的①效果适用，不用解放召唤等级7怪兽的场合，不是上级召唤。「`光之天穿 巴哈路蒂亚`_」的①效果处理把自身上级召唤时，必须解放怪兽，不能再适用「`俱舍怒威族的停泊地`_」的①效果不用解放来召唤。\ `22/8/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23820&keyword=&tag=-1&request_locale=ja>`__
 
 .. note::
 
@@ -1614,3 +1615,5 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 .. _`暗黑将军 弗里德`: https://ygocdb.com/?search=暗黑将军+弗里德
 .. _`灵魂火阵`: https://ygocdb.com/?search=灵魂火阵
 .. _`奥金魔导师`: https://ygocdb.com/?search=奥金魔导师
+.. _`光之天穿 巴哈路蒂亚`: https://ygocdb.com/?search=光之天穿+巴哈路蒂亚
+.. _`俱舍怒威族的停泊地`: https://ygocdb.com/?search=俱舍怒威族的停泊地

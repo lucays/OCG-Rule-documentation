@@ -126,7 +126,6 @@
 
 -  | 同时处理的效果，前一部分处理后，即使满足条件的场合，自身的永续效果多数不适用。
    | 例：
-   | 「`停战协定`_」把里侧的「`人造人-念力震慑者`_」反转，会继续给予对方效果伤害。\ `15/6/25 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10072&keyword=&tag=-1>`__
    | 「`DDD 坏薙王 深渊末日神`_」的P效果把「`DDD 神托王 达克`_」特殊召唤的场合，「`DDD 神托王 达克`_」的效果不会立即适用，仍然受到伤害。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13506&request_locale=ja>`__
    | 「`娱乐伙伴 颠倒蛙`_」以盖放的「`指挥骑士`_」为对象发动怪兽效果，翻开后先继续处理交换攻击力·守备力，1900/1200的状态，处理完才适用「`指挥骑士`_」的效果，结果攻击力·守备力是2300/1200。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13223&keyword=&tag=-1&request_locale=ja>`__
 
