@@ -48,7 +48,7 @@ li .line-block {
 }
 
 li .line, li > p {
-    margin: 0 0;
+    margin: 6px 0;
 }
 
 .strike {
