@@ -39,6 +39,18 @@ article {
     margin-bottom: 1em;
 }
 
+.line {
+    margin: 12px 0;
+}
+
+li .line-block {
+    margin-top: 0;
+}
+
+li .line, li > p {
+    margin: 0 0;
+}
+
 .strike {
     text-decoration: line-through;
 }
