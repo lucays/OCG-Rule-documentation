@@ -168,6 +168,12 @@
 | 「`黑魔族复活之棺`_」的①效果记述的是『那2只怪兽送去墓地』，这个效果处理时，作为对象的2只怪兽其中1只变成里侧守备表示的场合，正常把这2只怪兽送去墓地，正常从卡组把怪兽特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=42&keyword=&tag=-1&request_locale=ja>`__
 | 「`黑魔族复活之棺`_」的①效果记述的是『那2只怪兽送去墓地』，这个效果处理时，作为对象的2只怪兽其中1只不受陷阱效果影响的场合，剩下那只怪兽送去墓地，之后不会把怪兽特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13357&keyword=&tag=-1&request_locale=ja>`__
 
+-  | 特别地，『卡组上面把○张卡』的效果处理时，如果卡组数量不足的场合，这个效果仍然对卡组剩余的卡全部适用。
+   | 例：
+   | 自己的结束阶段卡组数量不足3张卡的场合，「`光道魔术师 丽拉`_」的②效果作为必发效果也会发动，效果处理时把剩余的卡全部送去墓地。\ `15/6/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7592&request_locale=ja>`__
+   | 卡组的卡在4张以下时，不能发动「`针虫的巢窟`_」。「`针虫的巢窟`_」的效果处理时，卡组数量不足5张的场合，卡组的卡全部送去墓地。\ `18/9/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7769&request_locale=ja>`__
+   | 「`死灵之颜`_」的②效果处理时，卡组数量不足5张的场合，卡组的卡全部除外。「`冰冻诅咒的神碑`_」等处理也一样，效果处理时卡组数量不足效果处理所需数量的场合，卡组全部除外。\ `22/8/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6498&keyword=&tag=-1&request_locale=ja>`__
+
 『A和B』
 ----------
 
@@ -380,3 +386,6 @@
 .. _`魔兽的大饵`: https://ygocdb.com/?search=魔兽的大饵
 .. _`真红眼黑龙`: https://ygocdb.com/?search=真红眼黑龙
 .. _`地狱暴风`: https://ygocdb.com/?search=地狱暴风
+.. _`光道魔术师 丽拉`: https://ygocdb.com/?search=光道魔术师+丽拉
+.. _`冰冻诅咒的神碑`: https://ygocdb.com/?search=冰冻诅咒的神碑
+.. _`死灵之颜`: https://ygocdb.com/?search=死灵之颜
