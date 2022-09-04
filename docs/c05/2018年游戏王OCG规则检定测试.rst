@@ -269,7 +269,7 @@
     | E. 以上都不对
 
 33. | 以下状况中，「`混沌XYZ 冀望皇 异晶人`_」在场上最终的攻击力数值是？
-    | 例：在持有2个X素材的「`混沌No.101 寂静荣誉暗黑骑士`_」上重叠来X召唤「`混沌XYZ 冀望皇 异晶人`_」，发动「`XYZ能量`_」的效果并处理后，「`混沌XYZ 冀望皇 异晶人`_」发动效果，得到墓地「`No.5 亡胧龙 死亡嵌合龙`_」的效果
+    | 例：在持有2个X素材的「`混沌No.101 寂静荣誉暗黑骑士`_」上重叠来X召唤「`混沌XYZ 冀望皇 异晶人`_」，发动「`超量能量`_」的效果并处理后，「`混沌XYZ 冀望皇 异晶人`_」发动效果，得到墓地「`No.5 亡胧龙 死亡嵌合龙`_」的效果
     | A. 2000
     | B. 3000
     | C. 4000
@@ -494,7 +494,6 @@
 .. _`月之书`: https://ygocdb.com/?search=月之书
 .. _`孢子`: https://ygocdb.com/?search=孢子
 .. _`金属被甲弹丸龙`: https://ygocdb.com/?search=金属被甲弹丸龙
-.. _`XYZ能量`: https://ygocdb.com/?search=XYZ能量
 .. _`古代的机械射出机`: https://ygocdb.com/?search=古代的机械射出机
 .. _`刺刀枪管龙`: https://ygocdb.com/?search=刺刀枪管龙
 .. _`异次元苏生`: https://ygocdb.com/?search=异次元苏生
@@ -691,3 +690,4 @@
 .. _`高等纹章术`: https://ygocdb.com/?search=高等纹章术
 .. _`急袭猛禽-残存林鸮`: https://ygocdb.com/?search=急袭猛禽-残存林鸮
 .. _`水晶机巧-矩阵紫黄晶`: https://ygocdb.com/?search=水晶机巧-矩阵紫黄晶
+.. _`超量能量`: https://ygocdb.com/?search=超量能量

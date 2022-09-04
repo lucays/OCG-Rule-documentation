@@ -101,7 +101,7 @@
 -  | 怪兽一旦不在怪兽区域表侧表示存在，其永续效果立即不适用。
    | 需要满足条件才能适用的永续效果，在那些条件不满足的时点，也立即不适用。
    | 例：
-   | 以持有5个X素材的「`No.86 英豪冠军 击灭枪王`_」为对象发动「`XYZ叠光延迟`_」，由于去除X素材的效果不影响X怪兽，「`No.86 英豪冠军 击灭枪王`_」的X素材全部取除，这个时点其永续效果立即不适用，结果正常适用「`XYZ叠光延迟`_」的后续效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6890&keyword=&tag=-1&request_locale=ja>`__
+   | 以持有5个X素材的「`No.86 英豪冠军 击灭枪王`_」为对象发动「`超量叠光延迟`_」，由于去除X素材的效果不影响X怪兽，「`No.86 英豪冠军 击灭枪王`_」的X素材全部取除，这个时点其永续效果立即不适用，结果正常适用「`超量叠光延迟`_」的后续效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6890&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 伤害步骤内怪兽确定被战斗破坏时，其永续效果不适用。
    | 例：
@@ -269,7 +269,6 @@
 .. _`升阶魔法-削魂之力`: https://ygocdb.com/?search=升阶魔法-削魂之力
 .. _`重力炮`: https://ygocdb.com/?search=重力炮
 .. _`银河眼光子龙`: https://ygocdb.com/?search=银河眼光子龙
-.. _`XYZ叠光延迟`: https://ygocdb.com/?search=XYZ叠光延迟
 .. _`蓄积硫酸的落穴`: https://ygocdb.com/?search=蓄积硫酸的落穴
 .. _`DDD 坏薙王 深渊末日神`: https://ygocdb.com/?search=DDD+坏薙王+深渊末日神
 .. _`起动效果`: https://ygocdb.com/?search=起动效果
@@ -322,3 +321,4 @@
 .. _`铁兽战线 姬特`: https://ygocdb.com/?search=铁兽战线+姬特
 .. _`铁兽战线 徒花之费莉吉特`: https://ygocdb.com/?search=铁兽战线+徒花之费莉吉特
 .. _`铁兽的抗战`: https://ygocdb.com/?search=铁兽的抗战
+.. _`超量叠光延迟`: https://ygocdb.com/?search=超量叠光延迟

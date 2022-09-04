@@ -32,7 +32,7 @@
    | 不能用结果解释原因，这是本末倒置。
    | 下文中不会使用重置这个词。
    | 例：
-   | 等级5以上怪兽效果的发动时，连锁发动「`XYZ诛罚`_」的效果，即使再以这个怪兽为对象连锁发动「`月之书`_」，由于本身没有发生场所移动，变成里侧后这个怪兽仍然是发动效果的那只，结果效果无效，这个怪兽仍被破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14034&request_locale=ja>`__
+   | 等级5以上怪兽效果的发动时，连锁发动「`超量诛罚`_」的效果，即使再以这个怪兽为对象连锁发动「`月之书`_」，由于本身没有发生场所移动，变成里侧后这个怪兽仍然是发动效果的那只，结果效果无效，这个怪兽仍被破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14034&request_locale=ja>`__
 
 | 里侧表示的怪兽被一时除外的场合，就那样里侧表示除外。之后也是以里侧表示回到场上。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6902&request_locale=ja>`__
 | 特别地，「`未来视界`_」回到场上的效果是入连锁的，如果这个时点效果不适用了，被除外的怪兽就不会回来。这张卡的一时除外的效果处理时，对象怪兽即使变成里侧表示的场合，也表侧表示被除外。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8584&request_locale=ja>`__
@@ -461,7 +461,6 @@
 .. _`隐形鸟`: https://ygocdb.com/?search=隐形鸟
 .. _`流天类星龙`: https://ygocdb.com/?search=流天类星龙
 .. _`发条拧紧`: https://ygocdb.com/?search=发条拧紧
-.. _`XYZ诛罚`: https://ygocdb.com/?search=XYZ诛罚
 .. _`抽卡肌肉`: https://ygocdb.com/?search=抽卡肌肉
 .. _`守护神 艾克佐迪亚`: https://ygocdb.com/?search=守护神+艾克佐迪亚
 .. _`饼蛙`: https://ygocdb.com/?search=饼蛙
@@ -535,3 +534,4 @@
 .. _`魔妖仙兽 大刃祸是`: https://ygocdb.com/?search=魔妖仙兽+大刃祸是
 .. _`停战协定`: https://ygocdb.com/?search=停战协定
 .. _`俱利伽罗天童`: https://ygocdb.com/?search=俱利伽罗天童
+.. _`超量诛罚`: https://ygocdb.com/?search=超量诛罚

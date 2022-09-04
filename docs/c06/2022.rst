@@ -591,7 +591,7 @@
 | 不能对「`附锁链的爆弹`_」等发动后会变成装备卡的陷阱卡发动「`黑暗中的陷阱`_」，也不能在这样的陷阱卡发动时连锁发动「`拉比林斯迷宫连环阵`_」。\ `22/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23607&keyword=&tag=-1&request_locale=ja>`__
 | 不能对发动后会当作怪兽特殊召唤的陷阱卡发动「`黑暗中的陷阱`_」，也不能在这样的陷阱卡发动时连锁发动「`拉比林斯迷宫连环阵`_」。\ `22/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23606&keyword=&tag=-1&request_locale=ja>`__
 | 「`黑暗中的陷阱`_」「`拉比林斯迷宫连环阵`_」的效果是，适用其他通常陷阱卡片记述的，发动时的效果处理。必须满足这些通常陷阱的发动条件，且不会支付这些效果处理的cost。由于「`爆裂龙息`_」等效果处理会因cost不同而变化，如果不支付，无法进行效果处理，因此不能对这样的陷阱卡发动「`黑暗中的陷阱`_」，也不能在这样的陷阱卡发动时连锁发动「`拉比林斯迷宫连环阵`_」。\ `22/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23605&keyword=&tag=-1&request_locale=ja>`__
-| 可以对「`XYZ苏生`_」发动「`黑暗中的陷阱`_」，也可以在「`XYZ苏生`_」发动时连锁发动「`拉比林斯迷宫连环阵`_」。结果效果会正常适用，在X怪兽特殊召唤后在其下重叠作为X素材。\ `22/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23604&keyword=&tag=-1&request_locale=ja>`__
+| 可以对「`超量苏生`_」发动「`黑暗中的陷阱`_」，也可以在「`超量苏生`_」发动时连锁发动「`拉比林斯迷宫连环阵`_」。结果效果会正常适用，在X怪兽特殊召唤后在其下重叠作为X素材。\ `22/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23604&keyword=&tag=-1&request_locale=ja>`__
 | 不能对「`王家的财宝`_」发动「`黑暗中的陷阱`_」，也不能在「`王家的财宝`_」发动时连锁发动「`拉比林斯迷宫连环阵`_」。\ `22/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23603&keyword=&tag=-1&request_locale=ja>`__
 | 宣言魔法卡发动「`暗之卡组破坏病毒`_」时，也可以连锁发动「`拉比林斯迷宫连环阵`_」。这个场合可以宣言魔法卡也可以宣言陷阱卡并正常适用。\ `22/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23602&keyword=&tag=-1&request_locale=ja>`__
 | 场上表侧表示存在「`白银之迷宫城`_」时，发动盖放的「`拉比林斯迷宫欢迎`_」，连锁发动「`拉比林斯迷宫连环阵`_」的场合，「`拉比林斯迷宫连环阵`_」的效果处理时，由于不是「`拉比林斯迷宫欢迎`_」通常陷阱卡，不能加上『●选场上1张卡破坏』效果。\ `22/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23601&keyword=&tag=-1&request_locale=ja>`__
@@ -2385,7 +2385,6 @@
 .. _`群豪之弓引-西园`: https://ygocdb.com/?search=群豪之弓引-西园
 .. _`幻想夺取者`: https://ygocdb.com/?search=幻想夺取者
 .. _`白银之城的龙饰灯`: https://ygocdb.com/?search=白银之城的龙饰灯
-.. _`XYZ苏生`: https://ygocdb.com/?search=XYZ苏生
 .. _`炸裂装甲`: https://ygocdb.com/?search=炸裂装甲
 .. _`群豪之破坏者-男爵`: https://ygocdb.com/?search=群豪之破坏者-男爵
 .. _`黑暗中的陷阱`: https://ygocdb.com/?search=黑暗中的陷阱

@@ -105,7 +105,7 @@
 -  | 记述『尽可能』的效果需要按照具体文本含义来确定处理方式。
    | 例：
    | 「`真红眼溯刻龙`_」①效果处理时，必定会从墓地特殊召唤怪兽，「`王家长眠之谷`_」的②效果适用中，发动「`真红眼溯刻龙`_」①效果的场合，这个效果无效，自身不会从手卡特殊召唤，也不会把破坏的怪兽特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16179&keyword=&tag=-1&request_locale=ja>`__
-   | 「`XYZ叠光延迟`_」的效果处理不是必定从墓地特殊召唤怪兽，「`王家长眠之谷`_」的②效果适用中，发动「`XYZ叠光延迟`_」的场合，仍然会让X怪兽回到额外卡组，不会从墓地把怪兽特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13721&keyword=&tag=-1&request_locale=ja>`__
+   | 「`超量叠光延迟`_」的效果处理不是必定从墓地特殊召唤怪兽，「`王家长眠之谷`_」的②效果适用中，发动「`超量叠光延迟`_」的场合，仍然会让X怪兽回到额外卡组，不会从墓地把怪兽特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13721&keyword=&tag=-1&request_locale=ja>`__
    | 「`地狱的暴走召唤`_」的效果处理可以不从墓地特殊召唤怪兽，「`王家长眠之谷`_」的②效果适用中，发动「`地狱的暴走召唤`_」的场合，双方只可以从手卡·卡组把同名怪兽特殊召唤。（一方不能特殊召唤怪兽的场合，另一方仍然可以从手卡·卡组把同名怪兽特殊召唤）\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19959&keyword=&tag=-1&request_locale=ja>`__
 
 | 「`神数的圣选士`_」的『●10种类：』效果等，必须同时涉及墓地和其他场所的效果，在墓地存在卡的状况下发动的场合会被无效，墓地没有卡的场合不会无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15289&keyword=&tag=-1&request_locale=ja>`__
@@ -135,7 +135,6 @@
 .. _`命运英雄 毁灭凤凰人`: https://ygocdb.com/?search=命运英雄+毁灭凤凰人
 .. _`幻变骚灵协议`: https://ygocdb.com/?search=幻变骚灵协议
 .. _`No.81 超重型炮塔列车 优越多拉炮`: https://ygocdb.com/?search=No.81+超重型炮塔列车+优越多拉炮
-.. _`XYZ叠光延迟`: https://ygocdb.com/?search=XYZ叠光延迟
 .. _`暗黑瘴气`: https://ygocdb.com/?search=暗黑瘴气
 .. _`暗黑界`: https://ygocdb.com/?search=暗黑界
 .. _`真红眼溯刻龙`: https://ygocdb.com/?search=真红眼溯刻龙
@@ -185,3 +184,4 @@
 .. _`壹世坏清澈的残响`: https://ygocdb.com/?search=壹世坏清澈的残响
 .. _`青色眼的祭司`: https://ygocdb.com/?search=青色眼的祭司
 .. _`龙星`: https://ygocdb.com/?search=龙星
+.. _`超量叠光延迟`: https://ygocdb.com/?search=超量叠光延迟
