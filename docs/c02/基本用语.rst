@@ -1652,3 +1652,4 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 .. _`恐龙摔跤手·卡波耶拉盗龙`: https://ygocdb.com/?search=恐龙摔跤手·卡波耶拉盗龙
 .. _`对调英雄`: https://ygocdb.com/?search=对调英雄
 .. _`墨吉斯特里仪术师`: https://ygocdb.com/?search=墨吉斯特里仪术师
+.. _`手札断杀`: https://ygocdb.com/?search=手札断杀
