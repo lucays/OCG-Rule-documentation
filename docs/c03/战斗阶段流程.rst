@@ -389,7 +389,7 @@
 
 伤害步骤内，只能发动以下效果：
 
-| 1速诱发：必发效果/自身表示形式变更、被反转、破坏、战斗·效果破坏、战斗破坏、效果破坏、解放、送去墓地、除外、从场上离开、加入手卡、特殊召唤/自身以外的卡片被战斗破坏、战斗·效果破坏诱发的效果等
+| \ :ref:`诱发类效果`\ ：必发效果/自身表示形式变更、被反转、破坏、战斗·效果破坏、战斗破坏、效果破坏、解放、送去墓地、除外、从场上离开、加入手卡、特殊召唤/自身以外的卡片被战斗破坏、战斗·效果破坏诱发的效果等
 
 .. note::
 
@@ -406,7 +406,7 @@
    | 「`平行选择`_」\ `15/9/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8997&request_locale=ja>`__ 在伤害步骤内也能发动。
    | 「`再开的大朵蔷薇`_」\ `14/10/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8792&request_locale=ja>`__ 「`新宇侠的逆转`_」\ `15/7/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7163&request_locale=ja>`__ 「`除草兽`_」\ `18/2/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=9037&request_locale=ja>`__ 在伤害步骤内不能发动。
 
-| 2速以上：必发效果/反击陷阱/把\ **发动无效**\ 的效果/影响怪兽攻击力·守备力的效果
+| 其它且2速以上的效果：必发效果/反击陷阱/把\ **发动无效**\ 的效果/影响怪兽攻击力·守备力的效果
 
 .. tip::
 
