@@ -1788,7 +1788,7 @@
 .. attention:: 目前「`嵌合超载龙`_」的②效果分类已经改成了永续效果，但这个场合居然仍然可以先适用让「`力量结合`_」的效果上升攻击力后再被「`技能抽取`_」的效果无效（以前分类为无种类效果的时候也是先适用「`力量结合`_」的效果攻击力上升0，再把自己原本攻击力变成素材数量x800的数值，存在「`技能抽取`_」的场合由于被无效结果攻击力是0），目前这个结果已经多次确认，是非常奇葩的裁定变更。
 
 | wiki:
-| 通常抽卡前，「`罪 世界`_」的效果和「`升阶魔法-星光之力`_」的②效果是否可以连锁发动，调整中。\ `22/8/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23820&keyword=&tag=-1&request_locale=ja>`__
+| :strike:`通常抽卡前，「罪 世界」的效果和「升阶魔法-星光之力」的②效果是否可以连锁发动，调整中。`
 
 8/12
 -------
@@ -1965,6 +1965,42 @@
 
 | 裁定变更：
 | 「`不死世界`_」「`王家长眠之谷`_」都在场上存在时，墓地的怪兽不会变成不死族，但场上的怪兽会变成不死族。\ `22/9/3 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23829&keyword=&tag=-1&request_locale=ja>`__
+
+9/5
+------
+
+| wiki:
+| 「`白骨夫人`_」「`不死世界`_」都在场上存在时，等级3的魔法师族怪兽仍然是魔法师族，不会变成不死族。\ `22/9/5 <https://yugioh-wiki.net/index.php?%A1%D4%A5%EF%A5%A4%A5%C8%C9%D7%BF%CD%A1%D5#faq>`__
+
+| 数据库：
+| 「`娱乐法师 秋千魔术家`_」在我方怪兽区域表侧表示存在，且我方发动了「`娱乐法师 伤害杂耍人`_」②效果的回合，我方要受到1000战斗伤害的场合，「`娱乐法师 秋千魔术家`_」的①效果适用，不受战斗伤害，「`娱乐法师 伤害杂耍人`_」②效果不适用；我方要受到3000战斗伤害的场合，「`娱乐法师 秋千魔术家`_」的①效果即使适用也会受到这个战斗伤害，这个场合「`娱乐法师 伤害杂耍人`_」②效果适用，把这个战斗伤害变成0。
+
+9/9
+-------
+
+| 数据库：
+| 「`真正的太阳神`_」的②效果适用的回合，当回合特殊召唤的「`太阳神之翼神龙-不死鸟`_」也可以攻击。\ `22/9/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23894&keyword=&tag=-1&request_locale=ja>`__
+| 通常魔法·通常陷阱等使用后要送去墓地的魔法·陷阱卡，作为发动时送去墓地·除外·回到卡组等的cost，不能使用自身。例如，「`虫装三轮车-红黄`_」发动时，作为cost不能把自身送去墓地。\ `22/9/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23893&keyword=&tag=-1&request_locale=ja>`__
+| 因「`颉颃胜负`_」的效果处理而被除外的卡不是因卡的效果而被除外，因此选要除外的卡片时可以选「`玄化执行神`_」等『不能用效果除外』的卡片。\ `22/9/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21243&keyword=&tag=-1&request_locale=ja>`__
+
+9/11
+-------
+
+| wiki:
+| 「`宣传雁茸天狗`_」的①效果发动后，②效果适用中，种族再因「`复制梁龙`_」等效果变更的场合，场上表侧表示怪兽的种族也会随之全部变更。\ `22/9/11 <https://yugioh-wiki.net/index.php?%A1%D4%A5%D7%A5%ED%A5%D1%A1%A6%A5%AC%A5%F3%A5%C0%A5%B1%A1%D5#faq>`__
+
+9/12
+-------
+
+| wiki:
+| 里侧守备表示的「`入魔人偶 葛佩利亚`_」因对方从场上离开，被送去墓地或被除外的场合，也会发动效果。\ `22/9/12 <https://yugioh-wiki.net/index.php?%A1%D4%A5%F4%A5%A7%A5%EB%A5%BA%A1%A6%A5%B3%A5%C3%A5%DA%A5%EA%A5%A2%A5%EB%A1%D5#faq>`__
+
+| 调整中确认：
+| 通常抽卡前，「`罪 世界`_」的效果和「`升阶魔法-星光之力`_」的②效果不能连锁发动。\ `22/9/12 <https://yugioh-wiki.net/index.php?%A1%D4%A3%D2%A3%D5%A3%CD%A1%DD%A5%A2%A5%B9%A5%C8%A5%E9%A5%EB%A1%A6%A5%D5%A5%A9%A1%BC%A5%B9%A1%D5#faq2>`__
+
+| 数据库：
+| 「`霸王紫龙 异色眼猛毒龙`_」的①效果适用后，再发动「`技能抽取`_」的场合，攻击力恢复成原本攻击力3300，已经得到的卡名·效果不会丢失。\ `22/9/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14916&keyword=&tag=-1&request_locale=ja>`__
+| 『不受发动的效果影响』的怪兽是不受连锁块的处理时适用的效果影响，仍然会受到连锁块的处理时以外适用的效果影响。「`技能抽取`_」「`大逮捕`_」等效果是在连锁块的处理后仍然持续适用的效果，「`铠皇龙-电子暗黑终结龙`_」等『不受发动的效果影响』的怪兽仍然会受到这些效果影响。\ `22/9/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23491&keyword=&tag=-1&request_locale=ja>`__\ 此外，「`强韧！无敌！最强！`_」的①效果这样，也是连锁块处理时以外也会适用的效果，结果「`铠皇龙-电子暗黑终结龙`_」等『不受发动的效果影响』的怪兽在伤害步骤结束时也会被破坏。\ `22/9/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23259&keyword=&tag=-1&request_locale=ja>`__
 
 .. _`转生炎兽 独角兔`: https://ygocdb.com/?search=转生炎兽+独角兔
 .. _`光之护封剑`: https://ygocdb.com/?search=光之护封剑
@@ -3095,3 +3131,11 @@
 .. _`雷龙融合`: https://ygocdb.com/?search=雷龙融合
 .. _`自然山茶`: https://ygocdb.com/?search=自然山茶
 .. _`暴君的暴力`: https://ygocdb.com/?search=暴君的暴力
+.. _`玄化执行神`: https://ygocdb.com/?search=玄化执行神
+.. _`真正的太阳神`: https://ygocdb.com/?search=真正的太阳神
+.. _`复制梁龙`: https://ygocdb.com/?search=复制梁龙
+.. _`强韧！无敌！最强！`: https://ygocdb.com/?search=强韧！无敌！最强！
+.. _`宣传雁茸天狗`: https://ygocdb.com/?search=宣传雁茸天狗
+.. _`虫装三轮车-红黄`: https://ygocdb.com/?search=虫装三轮车-红黄
+.. _`白骨夫人`: https://ygocdb.com/?search=白骨夫人
+.. _`太阳神之翼神龙-不死鸟`: https://ygocdb.com/?search=太阳神之翼神龙-不死鸟
