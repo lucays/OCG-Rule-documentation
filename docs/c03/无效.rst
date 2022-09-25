@@ -148,7 +148,7 @@
 | 「`陷阱无力化`_」的效果适用时，发动陷阱卡，连锁把它送去墓地作为cost发动「`非常食`_」的场合，那个陷阱卡的效果仍然无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8454&keyword=&tag=-1&request_locale=ja>`__
 | 「`王宫的敕命`_」在场上表侧表示存在时，发动「`死者苏生`_」，连锁把它送去墓地作为cost发动「`禁忌的一滴`_」的场合，「`死者苏生`_」的效果仍然无效。\ `21/2/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23198&keyword=&tag=-1&request_locale=ja>`__
 
-.. attention:: 除此之外，目前还有「`DDD 双晓王 末法神`_」这样对场上全部卡持续适用的无效效果，处理和「`技能抽取`_」等一致，在连锁中连锁发动「`奇妙XYZ`_」把「`DDD 双晓王 末法神`_」X召唤，不能无效之前连锁上的，发动后已经不在场上表侧表示存在的魔法·陷阱卡的效果。
+.. attention:: 除此之外，目前还有「`DDD 双晓王 末法神`_」这样对场上全部卡持续适用的无效效果，处理和「`技能抽取`_」等一致，在连锁中连锁发动「`奇妙超量`_」把「`DDD 双晓王 末法神`_」X召唤，不能无效之前连锁上的，发动后已经不在场上表侧表示存在的魔法·陷阱卡的效果。
 
 「`墓穴的指名者`_」「`无敌光环`_」「`千年眼纳祭神`_」等，不指定场所持续适用的无效效果
 --------------------------------------------------------------------------------------------------------------------
@@ -311,7 +311,7 @@
 .. _`闪耀巨龙`: https://ygocdb.com/?search=闪耀巨龙
 .. _`进化帝·半鸟龙`: https://ygocdb.com/?search=进化帝·半鸟龙
 .. _`青眼亚白龙`: https://ygocdb.com/?search=青眼亚白龙
-.. _`奇妙XYZ`: https://ygocdb.com/?search=奇妙XYZ
+.. _`奇妙超量`: https://ygocdb.com/?search=奇妙超量
 .. _`神之宣告`: https://ygocdb.com/?search=神之宣告
 .. _`罪`: https://ygocdb.com/?search=罪
 .. _`月之书`: https://ygocdb.com/?search=月之书
@@ -465,3 +465,4 @@
 .. _`虚无空间`: https://ygocdb.com/?search=虚无空间
 .. _`被埋葬的牲祭`: https://ygocdb.com/?search=被埋葬的牲祭
 .. _`魔界剧场「奇幻剧场」`: https://ygocdb.com/?search=魔界剧场「奇幻剧场」
+.. _`静寂之杖-波纹`: https://ygocdb.com/?search=静寂之杖-波纹
