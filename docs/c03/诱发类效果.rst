@@ -559,8 +559,8 @@
    | 发动「`愚蠢的埋葬`_」从卡组把卡送去墓地后，「`愚蠢的埋葬`_」也从场上送去墓地，这个状况「`虚无空间`_」的②效果在处理后也只发动1次。\ `20/11/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12929&keyword=&tag=-1&request_locale=ja>`__
    | 给「`甲虫装机 豆娘`_」装备中的「`甲虫装机 大黄蜂`_」发动③效果把自身送去墓地，破坏这只「`甲虫装机 豆娘`_」的另1张装备卡的场合，处理后「`甲虫装机 豆娘`_」的②效果可以自身连锁发动2次。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11849&keyword=&tag=-1&request_locale=ja>`__
    | 「`科技属 超图书馆员`_」在场上存在，连锁发动2张「`紧急同调`_」，在一组连锁上进行了2次S召唤，处理后「`科技属 超图书馆员`_」的①效果会自身组成连锁发动2次。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10706&keyword=&tag=-1&request_locale=ja>`__
-   | 对方回合1组连锁中多次特殊召唤了「`古遗物`_」怪兽，连锁处理后「`古遗物 商神杖`_」的效果会自身组成连锁发动2次。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13083&keyword=&tag=-1&request_locale=ja>`__
-   | 1组连锁中自己场上的「`芳香`_」怪兽多次被效果破坏送去墓地，连锁处理后「`芳香花园`_」的②效果会自身组成连锁发动2次。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15544&keyword=&tag=-1&request_locale=ja>`__
+   | 对方回合1组连锁中特殊召唤了2次「`古遗物`_」怪兽，连锁处理后「`古遗物 商神杖`_」的效果会自身组成连锁发动2次。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13083&keyword=&tag=-1&request_locale=ja>`__
+   | 1组连锁中自己场上的「`芳香`_」怪兽2次被效果破坏送去墓地，连锁处理后「`芳香花园`_」的②效果会自身组成连锁发动2次。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15544&keyword=&tag=-1&request_locale=ja>`__
    | 对方在1组连锁上2次把植物族怪兽特殊召唤，连锁处理后对方「`超越死线`_」的效果会自身组成连锁发动2次，我方「`超重武者 兜-10`_」的①效果只能发动1次。
 
 .. _同一时点发动多个诱发类效果:
