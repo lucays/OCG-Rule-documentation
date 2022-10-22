@@ -192,7 +192,7 @@
 | 因「`花札卫-五光-`_」「`娱乐伙伴 天空徒弟`_」的②效果、「`恐吓爪牙族型俱舍怒威族`_」的③效果或者「`重力炮`_」「`虹之衣`_」的效果无效的怪兽把效果发动，处理时不在场上表侧表示存在的场合，那个效果仍然无效。
 | 「`花札卫-五光-`_」把「`水晶机巧-柠晶龙`_」战斗破坏，这只「`水晶机巧-柠晶龙`_」的②效果发动的场合，不会被无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8624&keyword=&tag=-1&request_locale=ja>`__
 | 里侧守备表示的「`花札卫-五光-`_」被攻击的场合，伤害计算前反转的时点「`花札卫-五光-`_」的②效果适用，攻击怪兽的效果在战斗阶段内无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8624&keyword=&tag=-1&request_locale=ja>`__
-| 「`银河龙骑士`_」的②效果把龙族怪兽的效果无效后，这个战斗阶段内自身不再在场上表侧表示存在的场合，那只龙族怪兽的效果会恢复效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16926&keyword=&tag=-1&request_locale=ja>`__
+| 「`银河龙骑士`_」的②效果把龙族怪兽的效果无效后，这个战斗阶段内自身不再在场上表侧表示存在的场合，那只龙族怪兽的效果会恢复有效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16926&keyword=&tag=-1&request_locale=ja>`__
 | 「`降阶魔法-源数之落`_」的效果特殊召唤的「`希望皇 霍普`_」怪兽攻击对方怪兽A，对方发动「`活死人的呼声`_」，特殊召唤了怪兽B，发生战斗步骤的卷回的场合，那只怪兽A的效果在战斗阶段内仍然无效，重新选择攻击对象时选择攻击怪兽B的场合，这只怪兽B的效果在战斗阶段内也被无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12095&keyword=&tag=-1&request_locale=ja>`__
 | 「`庄严的机械天使`_」①效果适用的对象怪兽变成里侧表示的场合，这个效果不再适用。但是，由于这不是永续效果，已经被这个效果无效的怪兽，在战斗阶段内仍然保持无效的状态。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22248&keyword=&tag=-1&request_locale=ja>`__
 
