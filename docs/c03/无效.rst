@@ -291,7 +291,7 @@
    | 对方发动通常魔法卡时，我方连锁发动「`暗之取引`_」，把对方通常魔法卡的效果变成『对方随机把手卡丢弃1张』后，我方手卡「`暗黑界的魔神 雷恩`_」被对方这张通常魔法卡的效果丢弃的场合，会发动自身①效果特殊召唤，然后会发动②效果。
    | 对方以我方场上的「`灰篮短吻鳄`_」为对象发动「`精神操作`_」，我方连锁发动「`灰篮战斗`_」，把「`精神操作`_」的效果变成『作为对象的1只怪兽破坏』，结果「`灰篮短吻鳄`_」被破坏的场合，是被魔法卡的效果破坏，可以发动①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19598&keyword=&tag=-1&request_locale=ja>`__
    | 「`王战的支配`_」的①效果发动时，不能连锁发动「`灰流丽`_」。\ `19/8/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22759&keyword=&tag=-1&request_locale=ja>`__
-   | 对方场上存在「`神殿守护者`_」时，我方「`No.75 惑乱之风言暗影`_」的①效果不能发动。\ `18/5/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21888&keyword=&tag=-1&request_locale=ja>`__
+   | 对方场上存在「`神殿守卫者`_」时，我方「`No.75 惑乱之风言暗影`_」的①效果不能发动。\ `18/5/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21888&keyword=&tag=-1&request_locale=ja>`__
    | 即使我方场上没有盖放的魔法·陷阱卡，对方怪兽的效果发动后，我方「`魔界剧场「奇幻剧场」`_」的②效果仍会适用，结果由于没有可以破坏的魔法·陷阱卡，那只怪兽的效果不适用。\ `18/6/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21934&keyword=&tag=-1&request_locale=ja>`__
    | 对方「`XX-剑士 加特姆士`_」的①效果发动时，我方也可以连锁发动「`暗黑界的洗脑`_」的①效果，就结果来说「`XX-剑士 加特姆士`_」的①效果处理在改写前后没有区别。\ `17/4/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20378&keyword=&tag=-1&request_locale=ja>`__
 
@@ -470,7 +470,7 @@
 .. _`No.75 惑乱之风言暗影`: https://ygocdb.com/?search=No.75+惑乱之风言暗影
 .. _`灰篮战斗`: https://ygocdb.com/?search=灰篮战斗
 .. _`白银之迷宫城`: https://ygocdb.com/?search=白银之迷宫城
-.. _`神殿守护者`: https://ygocdb.com/?search=神殿守护者
+.. _`神殿守卫者`: https://ygocdb.com/?search=神殿守卫者
 .. _`灰篮短吻鳄`: https://ygocdb.com/?search=灰篮短吻鳄
 .. _`王战的支配`: https://ygocdb.com/?search=王战的支配
 .. _`暗黑界的洗脑`: https://ygocdb.com/?search=暗黑界的洗脑
