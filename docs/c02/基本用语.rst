@@ -857,7 +857,7 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 | 「`死灵佐玛`_」的效果在被战斗破坏时才能发动，这个时点是陷阱卡，因此是陷阱效果，不是怪兽效果，不会被「`冥界的魔王 哈·迪斯`_」无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8765&keyword=&tag=-1&request_locale=ja>`__
 | 陷阱怪兽破坏送去墓地后是陷阱卡，「`机皇帝`_」怪兽这样记述『怪兽送去墓地』诱发的效果不能发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10830&request_locale=ja>`__
 | 记述『战斗破坏怪兽』诱发的效果不要求在墓地仍然是怪兽，「`血腥魔兽人帝王`_」把陷阱怪兽战斗破坏的场合，可以发动效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19151&request_locale=ja>`__
-| 「`宏大木星`_」把陷阱怪兽当作装备卡使用给自身装备后，不能以这个陷阱怪兽为对象发动③效果来特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7645&keyword=&tag=-1&request_locale=ja>`__
+| 「`宏大木星`_」把陷阱怪兽当作装备卡使用给自身装备后，不能以这张陷阱卡为对象发动③效果来特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7645&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 陷阱怪兽被一时除外的场合，就不再是怪兽，回到怪兽区域的时点由于陷阱卡不能在怪兽区域存在，立即送去墓地。不当作被效果送去墓地。
    | 例：
