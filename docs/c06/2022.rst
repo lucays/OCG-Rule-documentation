@@ -1493,7 +1493,7 @@
 | 我方基本分是2的状况，我方发动了1张「`神之宣告`_」后，下个我方回合的准备阶段，我方「`生命吸收装置`_」的效果也不会回复基本分。
 
 | 数据库：
-| 我方场上存在「`邪心英雄 恶刃魔王`_」和装备了「`磁力指轮`_」的怪兽的状况，「`邪心英雄 恶刃魔王`_」的『对方战斗阶段内，对方场上的全部怪兽变成表侧攻击表示』效果适用，并且对方的怪兽必须攻击，但最终只能攻击装备了「`磁力指轮`_」的怪兽。\ `22/7/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7477&keyword=&tag=-1&request_locale=ja>`__
+| 我方场上存在「`邪心英雄 恶刃魔王`_」和装备了「`磁力指轮`_」的怪兽的状况，「`邪心英雄 恶刃魔王`_」的『对方战斗阶段内，对方场上的全部怪兽变成表侧攻击表示』效果适用，并且对方的怪兽必须攻击，但最终只能攻击装备了「`磁力指轮`_」的怪兽。\ `22/7/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7477&keyword=&tag=-1&request_locale=ja&request_locale=ja>`__
 | 对方场上存在「`皇帝斗技场`_」，双方场上都只存在1只怪兽的状况，我方可以发动「`大逮捕`_」得到对方那只怪兽的控制权。控制权变更不是『让怪兽在自身场上出现』。\ `22/7/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23803&keyword=&tag=-1&request_locale=ja>`__
 | 「`救祓少女·马尔法`_」的①效果处理时，我方主怪兽区域只有1个可用区域的场合，只从手卡把这张卡特殊召唤，这个效果处理完毕，不会从卡组特殊召唤怪兽。\ `22/7/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23802&keyword=&tag=-1&request_locale=ja>`__
 | 场上存在「`技能抽取`_」和因其效果无效化的「`电脑堺狐-仙仙`_」，不能把这张「`技能抽取`_」送去墓地来发动「`禁忌的一滴`_」。\ `22/7/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23801&keyword=&tag=-1&request_locale=ja>`__
@@ -2358,7 +2358,10 @@
 | 得到了「`宝玉兽`_」怪兽卡名的「`混沌幻影`_」被「`宝玉的加护`_」的①效果破坏的场合，特殊召唤的「`宝玉兽衍生物`_」的种族·属性·等级·攻击力·守备力是「`混沌幻影`_」卡片上记载的数值。\ `22/11/4 <https://yugioh-wiki.net/index.php?%A1%D4%CA%F5%B6%CC%A4%CE%B2%C3%B8%EE%A1%D5#faq1>`__
 
 | 数据库：
-| 
+| 「`I：P伪装舞会莱娜`_」的②效果不是为素材特殊召唤的连接怪兽所持有的效果，因此以其为素材连接召唤的连接怪兽即使效果被无效，也不会被对方的效果破坏。「`炎龙星-狻猊`_」「`风魔女-雪铃`_」等为素材特殊召唤的怪兽被无效的场合也一样。\ `22/11/4 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20015&keyword=&tag=-1&request_locale=ja>`__
+| 我方怪兽区域存在多只持有『在可以攻击的场合必须向这张卡作出攻击』效果的「`邪心英雄 恶刃魔王`_」等怪兽时，对方必须向持有这些效果的怪兽其中的1只攻击，但由被攻击的我方来选择哪1只怪兽受到攻击。「`地球重力`_」「`No.13 该隐恶魔`_」「`No.31 亚伯恶魔`_」等相同效果的处理也一样。\ `22/11/4 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11167&keyword=&tag=-1&request_locale=ja>`__
+| 我方怪兽区域存在持有『在可以攻击的场合必须向这张卡作出攻击』效果的「`邪心英雄 恶刃魔王`_」等怪兽和装备了「`磁力指轮`_」的怪兽的状况，对方必须且只能攻击装备了「`磁力指轮`_」的怪兽。「`地球重力`_」「`No.13 该隐恶魔`_」「`No.31 亚伯恶魔`_」等相同效果的处理也一样。\ `22/11/4 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7477&keyword=&tag=-1&request_locale=ja>`__
+| 场上表侧表示存在的调整数量比场上存在的魔法·陷阱卡数量多的场合，不能发动「`正义盟军 造风鸟`_」的效果；「`正义盟军 造风鸟`_」的效果处理时，场上表侧表示存在的调整数量比场上存在的魔法·陷阱卡数量多的场合，这个效果不适用，不会把任何卡片回到手卡。\ `22/11/4 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7685&keyword=&tag=-1&request_locale=ja>`__
 
 11/5
 -------
@@ -2380,10 +2383,8 @@
 | 「`清净世界`_」发动『●炎：』效果的处理时，场上的怪兽因「`日全食之书`_」全部变成里侧守备表示的场合，这个效果不适用。\ `22/11/5 <https://yugioh-wiki.net/index.php?%A1%D4%A5%AF%A5%EA%A5%A2%A1%BC%A1%A6%A5%EF%A1%BC%A5%EB%A5%C9%A1%D5#faq6>`__
 
 | 数据库：
-
-「`No.89 电脑兽 系统破坏神`_」的①效果发动了2次除外了2次，双方可以判别里侧表示除外的卡是被第一次发动的这个效果除外的还是被第二次发动的这个效果除外的。
- 「`强欲而贪欲之壶`_」把10张卡里侧表示除外后，双方可以知道被这个cost除外的10张卡是哪10张，不过，不会有从卡组最上面里侧除外的是哪张的情报，这10张从双方看来彼此没有区别。
-为了便于分辨，可以把被里侧除外的卡分开分堆放置来进行决斗（反正没有顺序）。
+| 玩家的卡被多次里侧表示除外的场合，双方可以确认每张里侧表示除外的卡是因什么而被里侧表示除外的。例如，「`No.89 电脑兽 系统破坏神`_」的①效果发动了2次除外了2次，双方可以判别里侧表示除外的卡是被第一次发动的这个效果除外的还是被第二次发动的这个效果除外的。「`强欲而贪欲之壶`_」把10张卡里侧表示除外后，双方可以知道被这个cost除外的10张卡是哪10张，不过，不会有从卡组最上面里侧除外的是哪张的情报，这10张从双方看来每1张之间没有区别。此外，为了便于分辨，可以把被里侧除外的卡分开分堆放置来进行决斗（除外的卡没有顺序）。\ `22/11/5 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23918&keyword=&tag=-1&request_locale=ja>`__
+| 「`随风旅鸟×知更鸟`_」等『表侧表示的这张卡从场上离开的场合除外』效果不是在场上适用的效果，「`技能抽取`_」在场上存在时「`随风旅鸟×知更鸟`_」从场上离开的场合仍然被除外。\ `22/11/5 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23305&keyword=&tag=-1&request_locale=ja>`__
 
 .. _`转生炎兽 独角兔`: https://ygocdb.com/?search=转生炎兽+独角兔
 .. _`光之护封剑`: https://ygocdb.com/?search=光之护封剑
@@ -3696,3 +3697,9 @@
 .. _`希望的记忆`: https://ygocdb.com/?search=希望的记忆
 .. _`No.89 电脑兽 系统破坏神`: https://ygocdb.com/?search=No.89+电脑兽+系统破坏神
 .. _`愤怒风暴的神碑`: https://ygocdb.com/?search=愤怒风暴的神碑
+.. _`地球重力`: https://ygocdb.com/?search=地球重力
+.. _`风魔女-雪铃`: https://ygocdb.com/?search=风魔女-雪铃
+.. _`正义盟军 造风鸟`: https://ygocdb.com/?search=正义盟军+造风鸟
+.. _`炎龙星-狻猊`: https://ygocdb.com/?search=炎龙星-狻猊
+.. _`No.31 亚伯恶魔`: https://ygocdb.com/?search=No.31+亚伯恶魔
+.. _`No.13 该隐恶魔`: https://ygocdb.com/?search=No.13+该隐恶魔
