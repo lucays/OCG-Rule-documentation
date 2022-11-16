@@ -329,7 +329,7 @@
 -  | 自己通过「`灰篮鹰`_」\ `15/7/17 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16310&keyword=&tag=-1>`__ 「`漫画之手`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15874&request_locale=ja>`__ 「`光灵使 莱娜`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8467&request_locale=ja>`__ 「`洗脑光线`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12353&request_locale=ja>`__ 「`大逮捕`_」\ `19/1/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11049&keyword=&tag=-1&request_locale=ja>`__ 等\ :ref:`持续取对象`\ 的效果等夺取了对方怪兽的控制权后，变成里侧的场合，就这样一直留在自己场上。
    | 在被一时除外后，那个怪兽返回自己场上的时点立即再回到对方场上。
 
--  | 自己通过「`精神操作`_」「`敌人控制器`_」等暂时转移控制权的效果夺取了对方怪兽的控制权后，变成里侧后控制权也不会归还，正常地在这些效果不再适用的时点那个里侧怪兽才回到对方场上。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8795&request_locale=ja>`__
+-  | 自己通过「`精神操作`_」「`敌人控制器`_」等暂时转移控制权的效果夺取了对方怪兽的控制权后，变成里侧后控制权不会立即归还，而是正常地在这些效果不再适用的时点那个里侧怪兽才回到对方场上。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8795&request_locale=ja>`__
    | 被一时除外的场合，在回到自己场上的时点即使控制权变更效果尚未结束，也在回到自己场上后立即回到对方场上。
    | 例：
    | 「`银河眼光子龙`_」和因「`敌人控制器`_」的效果被对方夺取控制权的怪兽为对象战斗时，发动自身效果都被除外的场合，战斗阶段结束时那个怪兽回到对方场上时立即回到自己场上。\ `14/3/21 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11474&keyword=&tag=-1&request_locale=ja>`__
