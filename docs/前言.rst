@@ -89,7 +89,7 @@
 ---------
 
 | 这些文章用\ `restructureText <https://zh-sphinx-doc.readthedocs.io/en/latest/rest.html>`__\ 写就。
-| 所有内容的代码见：\ `lucays/ocg-rule <https://github.com/lucays/ocg-rule>`__\ 。
+| 所有内容的代码见：\ `lucays/OCG-Rule-documentation <https://github.com/lucays/OCG-Rule-documentation>`__\ 。
 | 网站界面主题的代码见：\ `lucays/sphinx-typlog-theme <https://github.com/lucays/sphinx-typlog-theme>`__\ 。
 | readthedocs托管文档的步骤参考\ `使用ReadtheDocs托管文档 <https://www.xncoding.com/2017/01/22/fullstack/readthedoc.html>`__\ 和\ `sphinx文档 <http://www.sphinx-doc.org/en/master/>`__\ 。
 
