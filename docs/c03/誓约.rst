@@ -199,7 +199,7 @@
    | 特殊召唤被无效的回合，这种描述不适用。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5496&request_locale=ja>`__
    | 被「`死者苏生`_」等效果特殊召唤的回合也适用。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5496&request_locale=ja>`__
 
--  | 「`DDD 双晓王 末法神`_」等『这张卡○○召唤成功的回合，○○』、和「`超重武者 法螺贝-E`_」等『这个方法特殊召唤成功的回合，○○』
+-  | 「`DDD 双晓王 末法神`_」等『这张卡○○召唤成功的回合，○○』、和「`超重武者 法螺贝-E`_」等『这个方法特殊召唤\ **成功**\ 的回合，○○』
    | 特殊召唤成功时才适用，是\ **效果**\ 。\ `14/11/15 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11528>`__
    | 后续行动已经进行过，也能特殊召唤。\ `15/7/17 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16442>`__
    | 特殊召唤成功时怪兽已经在场上存在，「`技能抽取`_」适用时会被无效。\ `22/11/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16472&keyword=&tag=-1&request_locale=ja>`__
