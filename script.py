@@ -142,11 +142,26 @@ def add_cdb_url(texts: str) -> str:
     return '\n'.join(new_texts).strip() + '\n'
 
 
+def strike_completion(texts: str) -> str:
+    new_texts = []
+    for line in texts.split('\n'):
+        if '| :strike:' in line:
+            if '「`' in line:
+                line = line.split('\ `')[0]
+                line = line.replace('「`', '「').replace('`_」', '」').strip('`')
+            else:
+                line = line.strip('`')
+            line = f'{line}`'
+        new_texts.append(line)
+    return '\n'.join(new_texts).strip() + '\n'
+
+
 def do_one(file: Path) -> None:
     old_texts = file.read_text(encoding='utf8')
     texts = replace_en_name(old_texts)
     texts = add_cdb_url(texts)
     texts = add_jp_locale_in_db_url(texts)
+    texts = strike_completion(texts)
     if texts != old_texts:
         file.write_text(texts, encoding='utf8')
 
