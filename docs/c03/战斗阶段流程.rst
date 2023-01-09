@@ -674,19 +674,22 @@
 -  | 不能发动\ **选发的诱发即时效果**\ ，必发的效果会发动，但仍存在「光与暗之龙」这样虽然会发动但效果不适用的例子。
    | 例：
    | 「`红莲魔龙`_」和「`霞之谷的巨神鸟`_」战斗，伤害计算后「`红莲魔龙`_」的①效果发动时，确定被战斗破坏的「`霞之谷的巨神鸟`_」不能发动效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8134&keyword=&tag=-1&request_locale=ja>`__ 「`狱火机·莉莉丝`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9497&request_locale=ja>`__ 「`三发点射龙`_」\ `17/10/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21&request_locale=ja474>`__ 等也一样。
-   | 「`死灵骑士`_」被战斗破坏，伤害计算后怪兽效果发动时，其效果也会发动，把自身解放，那个发动无效并破坏。\ `15/8/10 <https://yugioh-wiki.net/index.php?%A1%D4%BB%E0%CE%EE%B5%B3%BB%CE%A5%C7%A5%B9%A5%AB%A5%EA%A5%D0%A1%BC%A1%A6%A5%CA%A5%A4%A5%C8%A1%D5#faq>`__
-   | 「`光与暗之龙`_」在被战斗破坏的伤害计算后，效果怪兽的效果·魔法·陷阱卡发动时，「`光与暗之龙`_」也会发动效果，攻击力·守备力不能下降，也就不能把那个发动无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12735&keyword=&tag=-1&request_locale=ja>`__
+   | 「`死灵骑士`_」确定被战斗破坏的伤害计算后，对方把怪兽效果发动时，「`死灵骑士`_」的效果也会把自身解放作为cost来发动，结果那个怪兽效果的发动无效并破坏。\ `15/8/10 <https://yugioh-wiki.net/index.php?%A1%D4%BB%E0%CE%EE%B5%B3%BB%CE%A5%C7%A5%B9%A5%AB%A5%EA%A5%D0%A1%BC%A1%A6%A5%CA%A5%A4%A5%C8%A1%D5#faq>`__
+   | 「`光与暗之龙`_」在被战斗破坏的伤害计算后，效果怪兽的效果·魔法·陷阱卡发动时，「`光与暗之龙`_」也会发动效果，但攻击力·守备力不能下降，也就不能把那个发动无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12735&keyword=&tag=-1&request_locale=ja>`__
 
--  | 不能作为选发效果发动的cost而被解放·破坏·送去墓地等。
+-  | 不能作为\ **选发效果的cost**\ 而被解放·破坏·送去墓地等。
    | 也不能适用代替破坏的效果而被解放·破坏·送去墓地等。
    | 会因代替破坏以外的效果处理而被解放·破坏·送去墓地等。
    | 例：
-   | 伤害计算后发动「`凶饿毒捕食融合龙`_」的①效果，处理时可以解放确定被战斗破坏的怪兽，并把对应的效果发动无效。
+   | 「`死灵骑士`_」确定被战斗破坏的伤害计算后，对方把怪兽效果发动时，「`死灵骑士`_」的效果也会把自身解放作为cost来强制发动，结果那个怪兽效果的发动无效并破坏。\ `15/8/10 <https://yugioh-wiki.net/index.php?%A1%D4%BB%E0%CE%EE%B5%B3%BB%CE%A5%C7%A5%B9%A5%AB%A5%EA%A5%D0%A1%BC%A1%A6%A5%CA%A5%A4%A5%C8%A1%D5#faq>`__
+   | 伤害计算后发动「`凶饿毒捕食融合龙`_」的①效果，效果处理时可以解放确定被战斗破坏的怪兽，并把对应的效果发动无效。
    | 伤害计算后我方场上存在确定被战斗破坏的衍生物时，由于不能把衍生物全部解放作为cost，结果不能发动「`弹幕回避`_」。
    | 「`魔偶甜点·布丁公主`_」把恶魔族怪兽战斗破坏的伤害计算后，发动②效果要把「`魔界特派员 死亡主播`_」破坏时，「`魔界特派员 死亡主播`_」的①效果适用时只能把那只确定被战斗破坏的怪兽以外的恶魔族怪兽解放。
    | 「`魔偶甜点·布丁公主`_」把怪兽战斗破坏的伤害计算后，发动②效果要把卡片破坏时，「`代理龙`_」的①效果适用的场合只能把那只确定被战斗破坏的怪兽以外的怪兽破坏。
    | 伤害计算后发动「`神星因子`_」时不能把确定被战斗破坏的「`星因士`_」怪兽送去墓地。只有这1只「`星因士`_」怪兽的场合不能发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13272&keyword=&tag=-1&request_locale=ja>`__
    | 伤害计算后不能把确定被战斗破坏的植物族怪兽解放来发动「`花粉症`_」。只有这1只植物族怪兽的场合不能发动「`花粉症`_」。\ `16/12/14 <https://yugioh-wiki.net/index.php?%A5%C0%A5%E1%A1%BC%A5%B8%B7%D7%BB%BB%B8%E5#j640f0af>`__
+   | 伤害计算后，确定被战斗破坏的怪兽不能作为cost送去墓地来发动「`黑鸟断道翼`_」。\ `23/1/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23936&keyword=&tag=-1&request_locale=ja>`__
+   | 伤害计算后，「`龙星的九支`_」的效果处理时，要破坏的怪兽可以选确定被战斗破坏`的「`龙星`_」怪兽。\ `23/1/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23937&keyword=&tag=-1&request_locale=ja>`__
 
    -  | 确定被战斗破坏的怪兽其装备卡不是确定被破坏的状态，可以作为其他卡片破坏的代替而被解放·破坏·送去墓地等。
       | 例：
@@ -1304,3 +1307,4 @@
 .. _`No.31 亚伯恶魔`: https://ygocdb.com/?search=No.31+亚伯恶魔
 .. _`魔法灯`: https://ygocdb.com/?search=魔法灯
 .. _`No.13 该隐恶魔`: https://ygocdb.com/?search=No.13+该隐恶魔
+.. _`黑鸟断道翼`: https://ygocdb.com/?search=黑鸟断道翼

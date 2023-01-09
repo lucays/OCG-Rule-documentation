@@ -1,0 +1,70 @@
+.. _2023:
+
+======
+2023
+======
+
+.. role:: strike
+    :class: strike
+
+| 由于部分调整可能有变动，查找时请以日期最近的调整为准。
+| 邮件调整基本收集自首页\ :ref:`联系方式`\ 中QQ群的\ :ref:`其他贡献者`\ 。
+
+22/01
+========
+
+1/5
+------
+
+| wiki:
+| 发动「`奇迹同调融合`_」把「`风魔女-水晶钟`_」融合召唤之际，不能使用「`沼地的魔神王`_」+「`风魔女-冬铃`_」的组合作为融合素材把「`风魔女-水晶钟`_」融合召唤；可以使用「`泥糊泥龙王`_」+「`风魔女-冬铃`_」的组合作为融合素材把「`风魔女-水晶钟`_」融合召唤；可以使用「`泥糊泥龙王`_」+「`风魔女-玻璃铃`_」的组合作为融合素材把「`风魔女-水晶钟`_」融合召唤。\ `23/1/5 <https://yugioh-wiki.net/index.php?%A1%D4%A5%DF%A5%E9%A5%AF%A5%EB%A5%B7%A5%F3%A5%AF%A5%ED%A5%D5%A5%E5%A1%BC%A5%B8%A5%E7%A5%F3%A1%D5#faq>`__
+
+1/6
+------
+
+| wiki:
+| 我方「`魂之接力`_」的效果特殊召唤了「`被封印的艾克佐迪亚`_」，手卡持有「`被封印者的右腕`_」「`被封印者的左腕`_」「`被封印的左足`_」「`被封印者的右足`_」的状况，我方发动「`盟军·次世代鸟人兵`_」的①效果，作为cost让「`被封印的艾克佐迪亚`_」返回手卡的场合，决斗平局。\ `23/1/6 <https://yugioh-wiki.net/index.php?%A1%D4%BA%B2%A4%CE%A5%EA%A5%EC%A1%BC%A1%D5#faq>`__
+
+| 数据库：
+| 伤害计算后，\ :ref:`确定被战斗破坏`\ 的怪兽不能作为cost使用来发动「`黑鸟断道翼`_」等卡片效果。\ `23/1/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23936&keyword=&tag=-1&request_locale=ja>`__
+| 伤害计算后，「`龙星的九支`_」的效果处理时，要破坏的怪兽可以选\ :ref:`确定被战斗破坏`\ 的「`龙星`_」怪兽。\ `23/1/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23937&keyword=&tag=-1&request_locale=ja>`__
+
+1/8
+------
+
+| 邮件：
+| 「`死灵骑士`_」\ :ref:`确定被战斗破坏`\ 的伤害计算后，对方把怪兽效果发动时，「`死灵骑士`_」的效果也会把自身解放作为cost来发动，结果那个怪兽效果的发动无效并破坏。
+
+1/9
+------
+
+| 邮件：
+| 适用了「`No.81 超重型炮塔列车 优越多拉炮`_」①效果等，不受卡的效果影响的「`苦纹样的土像`_」不会被「`旋风`_」「`赤之忍者`_」等的效果破坏。
+
+| 裁定变更：
+| 适用了「`No.81 超重型炮塔列车 优越多拉炮`_」①效果等，不受卡的效果影响的「`苦纹样的土像`_」不会被「`王宫的通告`_」「`No.22 不乱健`_」等的效果无效，仍然留在怪兽区域。
+
+
+.. _`王宫的通告`: https://ygocdb.com/?search=王宫的通告
+.. _`旋风`: https://ygocdb.com/?search=旋风
+.. _`被封印者的右腕`: https://ygocdb.com/?search=被封印者的右腕
+.. _`死灵骑士`: https://ygocdb.com/?search=死灵骑士
+.. _`No.81 超重型炮塔列车 优越多拉炮`: https://ygocdb.com/?search=No.81+超重型炮塔列车+优越多拉炮
+.. _`泥糊泥龙王`: https://ygocdb.com/?search=泥糊泥龙王
+.. _`被封印的艾克佐迪亚`: https://ygocdb.com/?search=被封印的艾克佐迪亚
+.. _`黑鸟断道翼`: https://ygocdb.com/?search=黑鸟断道翼
+.. _`盟军·次世代鸟人兵`: https://ygocdb.com/?search=盟军·次世代鸟人兵
+.. _`龙星`: https://ygocdb.com/?search=龙星
+.. _`奇迹同调融合`: https://ygocdb.com/?search=奇迹同调融合
+.. _`被封印者的左腕`: https://ygocdb.com/?search=被封印者的左腕
+.. _`被封印的左足`: https://ygocdb.com/?search=被封印的左足
+.. _`龙星的九支`: https://ygocdb.com/?search=龙星的九支
+.. _`赤之忍者`: https://ygocdb.com/?search=赤之忍者
+.. _`被封印者的右足`: https://ygocdb.com/?search=被封印者的右足
+.. _`沼地的魔神王`: https://ygocdb.com/?search=沼地的魔神王
+.. _`风魔女-水晶钟`: https://ygocdb.com/?search=风魔女-水晶钟
+.. _`魂之接力`: https://ygocdb.com/?search=魂之接力
+.. _`风魔女-冬铃`: https://ygocdb.com/?search=风魔女-冬铃
+.. _`No.22 不乱健`: https://ygocdb.com/?search=No.22+不乱健
+.. _`苦纹样的土像`: https://ygocdb.com/?search=苦纹样的土像
+.. _`风魔女-玻璃铃`: https://ygocdb.com/?search=风魔女-玻璃铃
