@@ -688,7 +688,7 @@
    | 「`魔偶甜点·布丁公主`_」把怪兽战斗破坏的伤害计算后，发动②效果要把卡片破坏时，「`代理龙`_」的①效果适用的场合只能把那只确定被战斗破坏的怪兽以外的怪兽破坏。
    | 伤害计算后发动「`神星因子`_」时不能把确定被战斗破坏的「`星因士`_」怪兽送去墓地。只有这1只「`星因士`_」怪兽的场合不能发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13272&keyword=&tag=-1&request_locale=ja>`__
    | 伤害计算后不能把确定被战斗破坏的植物族怪兽解放来发动「`花粉症`_」。只有这1只植物族怪兽的场合不能发动「`花粉症`_」。\ `16/12/14 <https://yugioh-wiki.net/index.php?%A5%C0%A5%E1%A1%BC%A5%B8%B7%D7%BB%BB%B8%E5#j640f0af>`__
-   | 伤害计算后，确定被战斗破坏的怪兽不能作为cost送去墓地来发动「`黑鸟断道翼`_」。\ `23/1/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23936&keyword=&tag=-1&request_locale=ja>`__
+   | 伤害计算后，确定被战斗破坏的怪兽不能作为cost送去墓地来发动选发的「`黑鸟断道翼`_」。\ `23/1/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23936&keyword=&tag=-1&request_locale=ja>`__
    | 伤害计算后，「`龙星的九支`_」的效果处理时，要破坏的怪兽可以选确定被战斗破坏`的「`龙星`_」怪兽。\ `23/1/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23937&keyword=&tag=-1&request_locale=ja>`__
 
    -  | 确定被战斗破坏的怪兽其装备卡不是确定被破坏的状态，可以作为其他卡片破坏的代替而被解放·破坏·送去墓地等。
