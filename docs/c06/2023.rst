@@ -63,6 +63,9 @@
 1/13
 -------
 
+| wiki:
+| 「`苦涩的决断`_」可以把「`舍利军贯`_」送去墓地，把「`赤舍利军贯`_」加入手卡。\ `23/1/13 <https://yugioh-wiki.net/index.php?%A1%D4%B6%EC%BD%C2%A4%CE%B7%E8%C3%C7%A1%D5#faq1>`__
+
 | 数据库：
 | 持有多张「`纯爱妖精瞌睡回忆`_」作为素材的「`纯爱妖精`_」X怪兽在对方准备阶段可以发动那个数量次数的效果，抽那个数量的卡。不过，这些效果只能发动一个并处理完，再发动一个，这样分开发动，不能连锁发动。\ `23/1/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23943&keyword=&tag=-1&request_locale=ja>`__
 | 存在多只持有「`纯爱妖精瞌睡回忆`_」作为素材的「`纯爱妖精`_」X怪兽时，在对方准备阶段都要发动效果的场合，只能发动一个并处理完，再发动一个，这样分开发动，不能连锁发动。\ `23/1/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23942&keyword=&tag=-1&request_locale=ja>`__
@@ -81,11 +84,24 @@
 | 数据库：
 | 卡从额外卡组离开的场合，不论是表侧的卡还是里侧的卡从额外卡组离开，都可以发动「`赫圣之妖骑士`_」的①效果。此外，「`赫圣之妖骑士`_」自身S召唤成功时不能发动这个①效果。\ `23/1/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=18505&request_locale=ja>`__
 | 只在把「`铁兽`_」怪兽卡送去墓地的状况，才能在伤害步骤内伤害计算前为止的时点发动「`铁兽的咆哮`_」，此外，这时不能以攻击力0的怪兽为对象发动「`铁兽的咆哮`_」。把「`铁兽`_」魔法卡送去墓地的状况，只能以效果没被无效的怪兽为对象发动「`铁兽的咆哮`_」。\ `23/1/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=18516&request_locale=ja>`__
-| 「`墩墩`_」在伤害步骤内伤害计算前为止的时点也可以发动。\ `23/1/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=18531&request_locale=ja>`__
+| 「`吨锤猪打出头桩`_」在伤害步骤内伤害计算前为止的时点也可以发动。\ `23/1/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=18531&request_locale=ja>`__
 | 「`赫耀的王之烙印`_」的①效果处理时，只能选融合素材明确记述了「`阿不思的落胤`_」的融合怪兽。\ `23/1/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=18533&request_locale=ja>`__
 | 和「`双重提钩`_」持续取对象的2只怪兽中，1只被破坏的场合，就会破坏「`双重提钩`_」，结果另1只也被破坏。\ `23/1/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=18542&request_locale=ja>`__
 | 「`融合复制`_」的效果处理时，把卡除外的处理和适用那张卡效果的处理不是同时进行。\ `23/1/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=18540&request_locale=ja>`__
 | 伤害计算后，\ :ref:`确定被战斗破坏`\ 的怪兽不能作为选发效果的cost使用。\ `23/1/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23936&keyword=&tag=-1&request_locale=ja>`__
+
+1/15
+-------
+
+| 邮件：
+| 对方以对方怪兽区域的「`相剑大公 承影`_」和我方怪兽区域包含「`混沌猎人`_」（或「`灵灭术师 海空`_」）在内的2张卡为对象发动「`相剑暗转`_」的场合，不能适用「`相剑大公 承影`_」的②效果。
+| 「`超雷龙-雷龙`_」和适用了「`一族的团结`_」效果，攻击力也是2600的「`灵灭术师 海空`_」战斗的场合，都被战斗破坏，不能适用「`超雷龙-雷龙`_」的②效果。
+| 「`双天将 金刚`_」作为融合素材特殊召唤的「`双天之狮使-阿吽`_」和「`随风旅鸟×帝企`_」战斗，伤害计算时「`随风旅鸟×帝企`_」发动③效果，「`双天之狮使-阿吽`_」的攻击力变成一半后，是否会变回3000，怎么进行伤害计算，调整中。
+| 「`恐啡肽狂龙无伤`_」的『这个回合，自己受到的战斗伤害变成那个时候的自己基本分一半的数值』效果和「`心眼之祭殿`_」的①效果适用中，自己基本分是2100的状况，受到战斗伤害时，那个数值变成1000；自己基本分是1900的状况，受到战斗伤害时，那个数值变成950。
+| 「`恐啡肽狂龙无伤`_」的『这个回合，自己受到的战斗伤害变成那个时候的自己基本分一半的数值』效果适用中，对方「`潜艇机人`_」适用自身效果直接攻击的场合，自己基本分是8000的状况，受到战斗伤害时，那个数值变成800；自己基本分是100的状况，受到战斗伤害时，那个数值变成50。
+| 「`心眼之祭殿`_」的①效果适用中，装备了「`进化的人类`_」，原本攻击力是2400的「`潜艇机人`_」适用自身效果直接攻击的场合，战斗伤害变成1000。
+
+.. note:: 也就是说，『战斗伤害变成○○（0以外的固定数值）』的效果存在多个时，适用造成最少战斗伤害的那个。
 
 .. _`王宫的通告`: https://ygocdb.com/?search=王宫的通告
 .. _`旋风`: https://ygocdb.com/?search=旋风
@@ -136,7 +152,6 @@
 .. _`推荐捏军贯`: https://ygocdb.com/?search=推荐捏军贯
 .. _`邪龙星-睚眦`: https://ygocdb.com/?search=邪龙星-睚眦
 .. _`撕裂时间的魔瞳`: https://ygocdb.com/?search=撕裂时间的魔瞳
-.. _`墩墩`: https://ygocdb.com/?search=墩墩
 .. _`银鱼军贯`: https://ygocdb.com/?search=银鱼军贯
 .. _`海胆军贯`: https://ygocdb.com/?search=海胆军贯
 .. _`超魔导师-黑魔术师徒`: https://ygocdb.com/?search=超魔导师-黑魔术师徒
@@ -156,3 +171,17 @@
 .. _`潜艇机人`: https://ygocdb.com/?search=潜艇机人
 .. _`精灵之镜`: https://ygocdb.com/?search=精灵之镜
 .. _`魔女的一击`: https://ygocdb.com/?search=魔女的一击
+.. _`一族的团结`: https://ygocdb.com/?search=一族的团结
+.. _`随风旅鸟×帝企`: https://ygocdb.com/?search=随风旅鸟×帝企
+.. _`吨锤猪打出头桩`: https://ygocdb.com/?search=吨锤猪打出头桩
+.. _`双天将 金刚`: https://ygocdb.com/?search=双天将+金刚
+.. _`苦涩的决断`: https://ygocdb.com/?search=苦涩的决断
+.. _`灵灭术师 海空`: https://ygocdb.com/?search=灵灭术师+海空
+.. _`超雷龙-雷龙`: https://ygocdb.com/?search=超雷龙-雷龙
+.. _`双天之狮使-阿吽`: https://ygocdb.com/?search=双天之狮使-阿吽
+.. _`混沌猎人`: https://ygocdb.com/?search=混沌猎人
+.. _`恐啡肽狂龙无伤`: https://ygocdb.com/?search=恐啡肽狂龙无伤
+.. _`进化的人类`: https://ygocdb.com/?search=进化的人类
+.. _`舍利军贯`: https://ygocdb.com/?search=舍利军贯
+.. _`相剑大公 承影`: https://ygocdb.com/?search=相剑大公+承影
+.. _`相剑暗转`: https://ygocdb.com/?search=相剑暗转
