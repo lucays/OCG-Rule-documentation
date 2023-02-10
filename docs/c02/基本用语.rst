@@ -1139,9 +1139,10 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
    | 以「`漆黑的豹战士`_」「`霞之谷的猎鹰`_」为例会更好理解，就是它们在攻击宣言时，追加了必须进行的行动。
    | 这些本身仍然是卡片效果，被无效的场合不用进行任何行动就能正常地攻击宣言。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8779&keyword=&tag=-1&request_locale=ja>`__
    | 必须进行的行动不是卡的效果，因此，即使不受效果影响的卡，也会被这样除去，并且不是被卡的效果除去。
-   | 由于是玩家自己必须做出这些行动，也不是被对方除去。
+   | 由哪个玩家必须进行这个行动，就是因这个玩家而被除去。
    | 例：
-   | 「`入魔人偶 葛佩利亚`_」因对方「`分担痛苦`_」而被自己解放时，不能发动效果。
+   | 对方「`分担痛苦`_」的效果处理时，我方解放了「`入魔人偶 葛佩利亚`_」的场合，是因我方从场上离开，不能发动「`入魔人偶 葛佩利亚`_」的效果。
+   | 我方「`伊吕波红叶`_」的②效果处理时，对方可以把对象怪兽前面的，我方额外怪兽区域的「`调皮宝贝屋子管家`_」送去墓地，这个场合我方的「`调皮宝贝屋子管家`_」是因对方送去墓地，可以发动②效果。
    | 「`电子化天使-荼吉尼-`_」的①效果处理时，对方场上只有不受怪兽效果影响的「`龙子`_」的场合，也必须送去墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19317&request_locale=ja>`__
    | 「`颉颃胜负`_」的效果处理时，选了不受陷阱效果影响的怪兽的场合，那个怪兽也被里侧表示除外。\ `17/7/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21242&keyword=&tag=-1&request_locale=ja>`__
    | 「`颉颃胜负`_」的效果处理时，选了不会被卡的效果除外的「`玄化执行神`_」的场合，仍然被里侧表示除外。\ `17/7/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21243&keyword=&tag=-1&request_locale=ja>`__
@@ -1151,7 +1152,7 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 
    「`异种斗争`_」「`群雄割据`_」「`御前试合`_」「`千查万别`_」也是这样处理。「`异种斗争`_」「`群雄割据`_」尚未复刻导致描述尚有区别，后两者的描述已经统一成这样。
 
-   | 判断依据不是是否让对方选。
+   | 判断依据不是让对方选，而是『必须/なければならない』。
    | 例：
    | 「`强制转移`_」处理时选不受魔法效果影响的怪兽的场合，整个效果不处理，不交换怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13066&request_locale=ja>`__ 「`玄化黑炎龙`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14236&keyword=&tag=-1&request_locale=ja>`__ 等也是如此。
 
@@ -1664,3 +1665,5 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 .. _`被封印的左足`: https://ygocdb.com/?search=被封印的左足
 .. _`被封印者的右足`: https://ygocdb.com/?search=被封印者的右足
 .. _`被封印者的右腕`: https://ygocdb.com/?search=被封印者的右腕
+.. _`调皮宝贝屋子管家`: https://ygocdb.com/?search=调皮宝贝屋子管家
+.. _`伊吕波红叶`: https://ygocdb.com/?search=伊吕波红叶
