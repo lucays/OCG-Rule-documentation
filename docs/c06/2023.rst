@@ -328,6 +328,20 @@
 | 裁定变更：
 | 「`创造之魔导书`_」的效果适用魔法卡的效果的场合，不需要考虑原卡的发动条件。也就是说，不需要考虑「`魔导书库 科瑞森`_」的『在1回合只能发动1张，这张卡发动的回合，自己不能把名字带有「`魔导书`_」的卡以外的魔法卡发动』文本。以「`魔导书库 科瑞森`_」为对象发动「`创造之魔导书`_」并适用效果的回合，仍然可以发动「`魔导书`_」卡以外的魔法卡；发动了「`魔导书`_」卡以外的魔法卡的回合，也可以取「`魔导书库 科瑞森`_」为对象发动「`创造之魔导书`_」并适用效果。「`魔导书库 苏雷`_」也一样。\ `23/2/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12799&keyword=&tag=-1&request_locale=ja>`__
 
+2/18
+-------
+
+| 邮件：
+| 场上没有其他卡时，不能发动「`纯爱妖精快乐回忆`_」。「`纯爱妖精快乐回忆`_」的①效果处理时，不能选作为要进行效果适用的卡进行发动的自身。
+
+| 数据库：
+| 「`DD 俄耳托斯`_」的②效果是特殊召唤成功后对那时控制者适用的效果。我方发动「`死者苏生`_」，从对方墓地特殊召唤了「`DD 俄耳托斯`_」的场合，是我方在这个回合不能特殊召唤恶魔族怪兽以外的怪兽。\ `23/2/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17824&keyword=&tag=-1&request_locale=ja>`__
+| 我方解放了对方场上「`雷王`_」以外的2只怪兽，在对方场上特殊召唤「`熔岩魔神`_」之际，对方场上的「`雷王`_」可以发动效果。结果我方「`熔岩魔神`_」的特殊召唤无效，这个回合我方可以通常召唤怪兽。\ `23/2/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6862&keyword=&tag=-1&request_locale=ja>`__
+| 特殊召唤了「`星骑士`_」怪兽以外的怪兽的回合，发动「`星守之骑士团`_」也不能当作X召唤来特殊召唤「`星辉士 冬三角`_」。\ `23/2/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23952&keyword=&tag=-1&request_locale=ja>`__
+| 记述『这张卡在这张卡的①的效果适用的场合才能作为融合素材』的「`寄生融合虫`_」，被「`活化石`_」的①效果特殊召唤的场合，由于效果无效，①效果不能适用，②效果要求必须包含自身作为融合素材，不能正常处理，结果这个状况不能发动②效果。\ `23/2/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23951&keyword=&tag=-1&request_locale=ja>`__
+| 「`纯爱妖精快乐回忆`_」的①效果处理时，可以选已经适用了另1张「`纯爱妖精快乐回忆`_」①效果的怪兽，『●选自己1张手卡丢弃，从卡组把1只1星「`纯爱妖精`_」怪兽特殊召唤』也会适用。适用了这个效果的怪兽在被效果破坏之际，多张「`纯爱妖精快乐回忆`_」的①效果全部适用，不被破坏，之后第2次被效果破坏时，正常被那个效果破坏。「`纯爱妖精美味回忆`_」「`纯爱妖精瞌睡回忆`_」①效果的处理也一样。\ `23/2/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23950&keyword=&tag=-1&request_locale=ja>`__
+| 『发动无效并破坏』『（发动的）效果无效并破坏』的效果处理时，上个连锁块发动效果的卡不在发动时的场所的场合，只把那个发动或效果无效，这个效果处理完毕，不会破坏卡。例如，我方怪兽发动效果时，对方连锁发动「`PSY骨架装备·γ`_」①效果，处理时我方怪兽不在发动时的场所的状况，那次发动仍然无效，移动到其他场所的我方怪兽不会被破坏。\ `23/2/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23949&keyword=&tag=-1&request_locale=ja>`__
+
 .. _`王宫的通告`: https://ygocdb.com/?search=王宫的通告
 .. _`旋风`: https://ygocdb.com/?search=旋风
 .. _`被封印者的右腕`: https://ygocdb.com/?search=被封印者的右腕
@@ -556,3 +570,12 @@
 .. _`拉比林斯迷宫欢迎`: https://ygocdb.com/?search=拉比林斯迷宫欢迎
 .. _`喧闹的邪恶灵`: https://ygocdb.com/?search=喧闹的邪恶灵
 .. _`魔导书库 苏雷`: https://ygocdb.com/?search=魔导书库+苏雷
+.. _`DD 俄耳托斯`: https://ygocdb.com/?search=DD+俄耳托斯
+.. _`活化石`: https://ygocdb.com/?search=活化石
+.. _`雷王`: https://ygocdb.com/?search=雷王
+.. _`熔岩魔神`: https://ygocdb.com/?search=熔岩魔神
+.. _`星守之骑士团`: https://ygocdb.com/?search=星守之骑士团
+.. _`寄生融合虫`: https://ygocdb.com/?search=寄生融合虫
+.. _`PSY骨架装备·γ`: https://ygocdb.com/?search=PSY骨架装备·γ
+.. _`星辉士 冬三角`: https://ygocdb.com/?search=星辉士+冬三角
+.. _`星骑士`: https://ygocdb.com/?search=星骑士
