@@ -844,7 +844,7 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 | 得到相同卡名的效果，不能以衍生物为对象发动。
 | 例：
 | 相同的衍生物会因为「`水之合唱`_」的效果上升攻击力·守备力。
-| 「`禁止令`_」「`念动力防卫士`_」不能宣言衍生物。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12629&request_locale=ja>`__
+| 「`禁止令`_」「`念动力防卫者`_」不能宣言衍生物。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12629&request_locale=ja>`__
 | 「`霸王眷龙 凶饿毒`_」的效果不能以衍生物为对象发动。\ `17/7/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20876&request_locale=ja>`__ 「`新空间侠·黑暗豹`_」也不能。\ `17/4/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11257&request_locale=ja>`__
 | 把「`锁龙蛇-骷髅四面鬼`_」连接召唤时，可以用卡名不同的衍生物。\ `17/11/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12629&request_locale=ja>`__
 
@@ -1214,7 +1214,7 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 .. _`玄化执行神`: https://ygocdb.com/?search=玄化执行神
 .. _`天使的施舍`: https://ygocdb.com/?search=天使的施舍
 .. _`雷龙融合`: https://ygocdb.com/?search=雷龙融合
-.. _`念动力防卫士`: https://ygocdb.com/?search=念动力防卫士
+.. _`念动力防卫者`: https://ygocdb.com/?search=念动力防卫者
 .. _`禁忌的圣枪`: https://ygocdb.com/?search=禁忌的圣枪
 .. _`宝石骑士·黄玉`: https://ygocdb.com/?search=宝石骑士·黄玉
 .. _`马骨的对价`: https://ygocdb.com/?search=马骨的对价
