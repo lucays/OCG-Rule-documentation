@@ -88,14 +88,16 @@
    | 场上存在「`王家长眠之谷`_」，我方场上存在「`幻变骚灵协议`_」，我方发动「`幻变骚灵·网络傀儡师`_」②效果的场合，不管对象是不是「`幻变骚灵协议`_」，仍会进行『作为对象的场上的卡送去墓地』的处理，但『作为对象的墓地的怪兽特殊召唤』的处理虽然不会无效，仍不适用。\ `22/2/26 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14915&keyword=&tag=-1&request_locale=ja>`__
    | 「`幻变骚灵协议`_」效果适用中，被「`技能抽取`_」的效果无效的「`幻变骚灵·网络傀儡师`_」发动效果，即使处理时把「`幻变骚灵协议`_」送去墓地的场合，后续处理也正常进行，仍会特殊召唤怪兽。\ `18/09/03 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=193&keyword=&tag=-1&request_locale=ja>`__
 
-| 「`堕天使 伊希塔布`_」的②效果等，一部分效果涉及墓地的场合，如果是必须处理的，整个效果无效并且不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12869&keyword=&tag=-1&request_locale=ja>`__
-| 如果是可选处理的，涉及墓地的那段处理不进行，而不是无效。
+| 「`堕天使 伊希塔布`_」的②效果等，一部分效果只涉及墓地的场合，如果是必须处理的，整个效果无效并且不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12869&keyword=&tag=-1&request_locale=ja>`__
+| 如果是可选处理的，或者不只涉及墓地的，涉及墓地的那段处理不进行，不会无效。后续处理是否进行详见\ :ref:`多步效果的适用`\ 。
 | 例：
 | 「`王家长眠之谷`_」的②效果适用中，「`杀人蛇`_」的①效果发动的场合，这个效果无效。之后即使「`王家长眠之谷`_」的②效果不再适用，由于这个效果全部无效，下次的对方结束阶段也不会选墓地的「`杀人蛇`_」除外。
 | 「`王家长眠之谷`_」的②效果适用中，「`暗黑界的龙神 格拉法`_」从墓地把自身特殊召唤的效果不适用，且不能让场上的「`暗黑界`_」怪兽回到手卡。\ `16/12/17 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20408&keyword=&tag=-10>`__
 | 「`王家长眠之谷`_」的②效果适用中，发动「`古代的机械巨人-究极重击`_」③效果的场合，这个效果无效，也不能从卡组把1张「`融合`_」加入手卡。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20595&keyword=&tag=-1&request_locale=ja>`__
 | 「`王家长眠之谷`_」的②效果适用中，发动「`钻头战士`_」的把自身特殊召唤的效果的场合，如果处理时墓地存在怪兽，由于这个效果必须把1张怪兽加入手卡，这个效果无效，不能特殊召唤。如果墓地不存在怪兽，可以把自身特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9791&keyword=&tag=-1&request_locale=ja>`__
 | 「`王家长眠之谷`_」的②效果适用中，发动「`仪式的准备`_」的场合，只进行从卡组把1只仪式怪兽加入手卡的处理。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13196&keyword=&tag=-1&request_locale=ja>`__
+| 「`王家长眠之谷`_」的②效果适用中，发动「`地中族妖魔`_」②效果的场合，对象怪兽变成里侧表示后，只能且必须从手卡特殊召唤，如果手卡没有「`地中族`_」怪兽，不会特殊召唤怪兽，这个效果处理完毕。「`地中族的决战`_」的『●这个回合，「`地中族`_」卡的所发动的效果不会被无效化』效果适用中的处理也一样。\ `22/12/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23621&keyword=&tag=-1&request_locale=ja>`__
+| 「`王家长眠之谷`_」的②效果适用中，发动「`天底的使徒`_」的场合，如果卡组没有「`教导`_」怪兽或者「`阿不思的落胤`_」，『从额外卡组把1只怪兽送去墓地』效果和『从自己的卡组·墓地选持有送去墓地的怪兽的攻击力以下的攻击力的1只「`教导`_」怪兽或者「`阿不思的落胤`_」加入手卡』效果由于前后关联，都不适用。\ `21/4/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14070&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 在效果处理时，根据抽到的卡或骰子数目等，才确定是否涉及墓地的效果，不会被「`王家长眠之谷`_」的②效果无效，而是在这个效果处理到涉及墓地的部分时，这部分处理不适用。
    | 例：
@@ -185,3 +187,9 @@
 .. _`青色眼的祭司`: https://ygocdb.com/?search=青色眼的祭司
 .. _`龙星`: https://ygocdb.com/?search=龙星
 .. _`超量叠光延迟`: https://ygocdb.com/?search=超量叠光延迟
+.. _`地中族妖魔`: https://ygocdb.com/?search=地中族妖魔
+.. _`天底的使徒`: https://ygocdb.com/?search=天底的使徒
+.. _`教导`: https://ygocdb.com/?search=教导
+.. _`阿不思的落胤`: https://ygocdb.com/?search=阿不思的落胤
+.. _`地中族`: https://ygocdb.com/?search=地中族
+.. _`地中族的决战`: https://ygocdb.com/?search=地中族的决战

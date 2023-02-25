@@ -64,6 +64,8 @@
    | 「`淘气仙星·福克希维琪`_」造成效果伤害后让「`淘气仙星的灯光舞台`_」也造成效果伤害的场合，是同时造成的伤害。\ `17/12/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21673&request_locale=ja>`__ 但本身造成了2次伤害，「`噩梦之拷问室`_」的效果会连锁发动2次。\ `17/7/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20805&request_locale=ja>`__ 「`DDD 反骨王 列奥尼达`_」从手卡发动效果时选择回复其中1次受到伤害的数值，也就是回复200基本分，不能回复两次。\ `17/12/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6135&request_locale=ja>`__
    | 「`神影依·米德拉什`_」的②效果适用中，也可以发动「`救祓少女·马尔法`_」的①效果并正常适用。「`救祓少女·马尔法`_」的①效果特殊召唤的2只怪兽是在同1时点特殊召唤的，只当作进行了1次特殊召唤。\ `22/6/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23789&keyword=&tag=-1&request_locale=ja>`__
 
+.. _多步效果的适用:
+
 多步效果的适用
 ================
 

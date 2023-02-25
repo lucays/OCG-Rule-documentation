@@ -194,17 +194,16 @@
    | 例：
    | 「`急袭猛禽-起翼猎鹰`_」的①效果适用后，装备「`闪光之双剑-雷震`_」的场合，可以选用自身效果向特殊召唤的怪兽各作1次攻击，也可以选用「`闪光之双剑-雷震`_」的效果攻击通常召唤的怪兽，并再可以攻击1次。不能又攻击通常召唤的怪兽又向特殊召唤的怪兽各作1次攻击。
 
--  | 不会和『只再1次可以攻击』『只再1次可以继续攻击』的效果叠加。
-   | 这类效果在第2次攻击后不能发动的场合，在第1次攻击后也不能发动。
+-  | 不会和『只再1次可以攻击』『只再1次可以继续攻击』以及「`次元海市蜃楼`_」「`神眼幻影龙`_」这样只记述『可以继续攻击』的效果叠加。
+   | 这类效果在第2次攻击后不能发动的场合，基本上在第1次攻击后也不能发动。
    | 例：
    | 装备了「`闪光之双剑-雷震`_」的「`冥界浊龙 龙叹`_」攻击战斗破坏怪兽送去墓地时，不能发动②效果再攻击。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14709&keyword=&tag=-1&request_locale=ja>`__
    | 装备了「`闪光之双剑-雷震`_」的「`No.32 海咬龙 鲨龙兽`_」第2次攻击战斗破坏怪兽送去墓地时，可以发动效果，但只特殊召唤并下降攻击力，不能再攻击。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12420&request_locale=ja>`__
    | 装备了「`闪光之双剑-雷震`_」的P怪兽第2次攻击战斗破坏怪兽送去墓地时，「`娱乐伙伴 火围巾狮`_」可以发动P效果，但只上升攻击力，不能再攻击。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14391&request_locale=ja>`__
-   | 对已经攻击两次的「`我我我侍`_」发动「`毅飞冲天挑战`_」，效果不会适用，不能再攻击。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13366&request_locale=ja>`__
-   | 「`混沌战士 -开辟的使者-`_」第2次攻击被无效时，发动「`翻倍机会`_」的场合，这个战斗阶段内还能再攻击1次。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12530&request_locale=ja>`__
+   | 「`混沌战士 -开辟的使者-`_」适用②效果进行的第2次攻击被无效时，发动「`翻倍机会`_」的场合，这个战斗阶段内还能再攻击1次。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12530&request_locale=ja>`__
    | 「`奇异三叶草`_」的效果让「`真青眼究极龙`_」可以作2次攻击的场合，「`真青眼究极龙`_」的①效果在第1次攻击后不能发动，在第2次攻击后可以发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19182&keyword=&tag=-1&request_locale=ja>`__
 
-   .. attention:: 特别地，「次元海市蜃楼」「神眼幻影龙」等记述的不是『\ **只**\ 再1次』，可以在第2次攻击后发动，让怪兽攻击3次。（这个场合也不能在第1次攻击后发动）
+   .. attention:: 特别地，虽然不能对适用了自身①效果且攻击了2次的「`我我我侍`_」发动「`毅飞冲天挑战`_」，但可以对适用了自身①效果且只攻击了1次的「`我我我侍`_」发动「`毅飞冲天挑战`_」，这个场合仍然只能再进行1次攻击（不能攻击3次），再次攻击的场合直到伤害步骤结束时对方不能把魔法·陷阱·怪兽的效果发动。\ `21/9/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13366&keyword=&tag=-1&request_locale=ja>`__
 
 .. _攻击被无效·终止:
 
@@ -1327,3 +1326,5 @@
 .. _`黑羽-疾风之盖尔`: https://ygocdb.com/?search=黑羽-疾风之盖尔
 .. _`恐乐园的死配人 ＜A丑角＞`: https://ygocdb.com/?search=恐乐园的死配人+＜A丑角＞
 .. _`暗之侯爵 彼列`: https://ygocdb.com/?search=暗之侯爵+彼列
+.. _`次元海市蜃楼`: https://ygocdb.com/?search=次元海市蜃楼
+.. _`神眼幻影龙`: https://ygocdb.com/?search=神眼幻影龙
