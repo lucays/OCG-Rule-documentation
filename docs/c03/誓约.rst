@@ -312,3 +312,4 @@
 .. _`圣刻龙-泰芙龙`: https://ygocdb.com/?search=圣刻龙-泰芙龙
 .. _`娱乐法师 高跷射手`: https://ygocdb.com/?search=娱乐法师+高跷射手
 .. _`寂静鮟鱇`: https://ygocdb.com/?search=寂静鮟鱇
+.. _`DD 俄耳托斯`: https://ygocdb.com/?search=DD+俄耳托斯
