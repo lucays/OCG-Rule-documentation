@@ -1950,6 +1950,7 @@
 | 得到了「`鹰身`_」怪兽卡名的「`混沌幻影`_」受到「`强制脱出装置`_」的效果影响，回到手卡的场合，也可以发动「`鹰身引导者`_」的③效果。\ `21/7/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22301&keyword=&tag=-1&request_locale=ja>`__
 | 当作怪兽使用的「`阿匹卜之化神`_」受到「`强制脱出装置`_」的效果影响，回到手卡的场合，也可以发动「`斯芬克斯 克莱欧`_」的效果。\ `21/7/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6789&keyword=&tag=-1&request_locale=ja>`__
 | 「`天斗辉巧极`_」的『从自己的手卡·场上把「`北极天熊北斗星`_」和「`龙辉巧-扶筐增二`_」各1张除外』的处理与『把1只「`天极辉舰-熊斗龙巧`_」从额外卡组特殊召唤』的处理不是同时处理。\ `21/7/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16552&request_locale=ja>`__
+| 衍生物被除外的场合，结果消失，没有卡被除外，不能发动「`相剑大公-承影`_」的③效果。\ `21/7/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16528&request_locale=ja>`__
 
 7/18
 -------
