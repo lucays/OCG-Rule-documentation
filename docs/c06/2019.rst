@@ -1091,7 +1091,7 @@ wiki：
 | 「`E－HERO 恶刃死魔`_」「`天穹之圣像骑士`_」「`No.97 龙影神 引力子龙`_」的②效果、「`重装甲列车 铁狼`_」「`机关傀儡-基冈提斯人偶`_」的①效果适用的场合，即使自己怪兽不受效果影响也不能攻击。
 
 | wiki:
-| 「`速射扳机`_」的效果处理时，是否可以适用「`影牢的咒缚`_」效果破坏对方怪兽来融合召唤，调整中。\ `19/6/27 <http://yugioh-wiki.net/index.php?%A1%D4%A5%E9%A5%D4%A5%C3%A5%C9%A1%A6%A5%C8%A5%EA%A5%AC%A1%BC%A1%D5#faq>`__
+| :strike:`「速射扳机」的效果处理时，是否可以适用「影牢之咒缚」效果破坏对方怪兽来融合召唤，调整中。`
 
 | 数据库：
 
@@ -2787,6 +2787,11 @@ wiki：
 | 由于属性相同，不能用2只「`影依的原核`_」作为融合素材把「`神影依 七贤巨鲲魔`_」融合召唤。\ `19/12/7 <http://yugioh-wiki.net/index.php?%A1%D4%A5%A8%A5%EB%A5%B7%A5%E3%A5%C9%A1%BC%A5%EB%A1%A6%A5%A2%A5%D7%A5%AB%A5%ED%A1%BC%A5%CD%A1%D5#faq>`__
 | 和「`灯影之机界骑士`_」相同纵列的对方的通常魔法卡在发动后正常送去墓地的场合，也可以发动「`灯影之机界骑士`_」的②效果。相同纵列的对方的怪兽和魔法·陷阱卡在一组连锁上因cost或效果等分两次从场上离开的场合，处理后这个效果也只能发动1次。\ `19/12/7 <http://yugioh-wiki.net/index.php?%A1%D4%C5%F5%B1%C6%A4%CE%B5%A1%B3%A6%B5%B3%BB%CE%A1%D5#faq>`__
 
+| 数据库：
+| 「`影牢之咒缚`_」的③效果是影响怪兽的效果，不能用不受魔法效果影响的怪兽作为融合素材。\ `19/12/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11269&request_locale=ja>`__
+
+.. note:: 这条裁定实际至少是在21年3月之后才加上的，但数据库补充说明的时间没更新还是19年，姑且记在这里了。
+
 12/8
 --------
 
@@ -3125,7 +3130,7 @@ wiki：
 .. _`卡通电子龙`: https://ygocdb.com/?search=卡通电子龙
 .. _`电子负载融合`: https://ygocdb.com/?search=电子负载融合
 .. _`水卜之魔导书`: https://ygocdb.com/?search=水卜之魔导书
-.. _`影牢的咒缚`: https://ygocdb.com/?search=影牢的咒缚
+.. _`影牢之咒缚`: https://ygocdb.com/?search=影牢之咒缚
 .. _`No.19 冷冻龙`: https://ygocdb.com/?search=No.19+冷冻龙
 .. _`黒魔术师`: https://ygocdb.com/?search=黒魔术师
 .. _`暗黑界的狩人 布劳`: https://ygocdb.com/?search=暗黑界的狩人+布劳
