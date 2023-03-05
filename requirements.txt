@@ -1,2 +1,2 @@
 git+https://github.com/lucays/furo.git@main
-sphinx==4.5.0
+sphinx
