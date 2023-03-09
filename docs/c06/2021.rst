@@ -2059,7 +2059,7 @@
 -------
 
 | 邮件：
-| 「`技能抽取`_」的①效果适用中，不能发动墓地「`死狱乡的导化 阿尔贝`_」的②效果。
+| 「`技能抽取`_」的①效果适用中，不能发动墓地「`死狱乡的导化 阿鲁伯`_」的②效果。
 
 7/29
 -------
@@ -4612,7 +4612,7 @@
 .. _`恶之卡组破坏病毒`: https://ygocdb.com/?search=恶之卡组破坏病毒
 .. _`永火恶魔`: https://ygocdb.com/?search=永火恶魔
 .. _`PSY骨架多线人`: https://ygocdb.com/?search=PSY骨架多线人
-.. _`死狱乡的导化 阿尔贝`: https://ygocdb.com/?search=死狱乡的导化+阿尔贝
+.. _`死狱乡的导化 阿鲁伯`: https://ygocdb.com/?search=死狱乡的导化+阿鲁伯
 .. _`和睦的使者`: https://ygocdb.com/?search=和睦的使者
 .. _`银河卫龙`: https://ygocdb.com/?search=银河卫龙
 .. _`命运英雄 血魔-D`: https://ygocdb.com/?search=命运英雄+血魔-D
