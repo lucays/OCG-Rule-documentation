@@ -859,3 +859,4 @@
 .. _`皇帝的新装`: https://ygocdb.com/?search=皇帝的新装
 .. _`狱火机`: https://ygocdb.com/?search=狱火机
 .. _`恐啡肽狂龙·狂飙霸王龙`: https://ygocdb.com/?search=恐啡肽狂龙·狂飙霸王龙
+.. _`救援兔`: https://ygocdb.com/?search=救援兔
