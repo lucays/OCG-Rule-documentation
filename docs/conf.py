@@ -12,11 +12,11 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
-import os
-# import sys
-# sys.path.insert(0, os.path.abspath('.'))
 
 import datetime
+from pathlib import Path
+
+import requests
 
 # -- Project information -----------------------------------------------------
 
@@ -144,9 +144,24 @@ htmlhelp_basename = 'ocg-ruledoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
+current_dir = Path(__file__).parent.resolve()
+fonts_dir = current_dir / 'fonts'
+fonts_dir.mkdir(exist_ok=True)
+for font in ('NotoSansCJKsc-Bold.otf', 'NotoSansCJKsc-Light.otf'):
+    url = f'https://raw.githubusercontent.com/notofonts/noto-cjk/main/Sans/OTF/SimplifiedChinese/{font}'
+    req = requests.get(url)
+    Path(fonts_dir / font).write_bytes(req.content)
+for font in ('NotoSansMonoCJKsc-Bold.otf', 'NotoSansMonoCJKsc-Regular.otf'):
+    url = f'https://raw.githubusercontent.com/notofonts/noto-cjk/main/Sans/Mono/{font}'
+    req = requests.get(url)
+    Path(fonts_dir / font).write_bytes(req.content)
+for font in ('NotoSerifCJKsc-Bold.otf', 'NotoSerifCJKsc-Light.otf'):
+    url = f'https://raw.githubusercontent.com/notofonts/noto-cjk/main/Serif/OTF/SimplifiedChinese/{font}'
+    req = requests.get(url)
+    Path(fonts_dir / font).write_bytes(req.content)
 
+fonts_path = str(fonts_dir) + '/'
 latex_logo = '.static/pdf_cover.png'
-font_path = os.path.join(os.getcwd(), 'fonts') + '/'
 latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').
     #
@@ -176,7 +191,7 @@ latex_elements = {
         \setCJKmainfont[Path=%s,BoldFont={NotoSerifCJKsc-Bold.otf},ItalicFont={NotoSerifCJKsc-Light.otf}]{NotoSansCJKsc-Light.otf}
         \setCJKsansfont[Path=%s,BoldFont={NotoSansCJKsc-Bold.otf},ItalicFont={NotoSerifCJKsc-Light.otf}]{NotoSansCJKsc-Light.otf}
         \setCJKmonofont[Path=%s,BoldFont={NotoSansMonoCJKsc-Bold.otf},ItalicFont={NotoSansMonoCJKsc-Regular.otf}]{NotoSansMonoCJKsc-Regular.otf}
-    ''' % (font_path, font_path, font_path),
+    ''' % (fonts_path, fonts_path, fonts_path),
 }
 
 # Grouping the document tree into LaTeX files. List of tuples
