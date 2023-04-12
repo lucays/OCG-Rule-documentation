@@ -197,7 +197,7 @@
 --------------------------------
 
 | 「`熔岩魔神`_」的这类记述不是效果，因此不会被无效。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5496&request_locale=ja>`__\ 适用这个记述的玩家是进行特殊召唤的玩家。
-| 同1回合只能选择1个行动进行，不能全部进行。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5496&request_locale=ja>`__
+| 『○○』部分记述的行动已经进行过的回合，不能特殊召唤。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5496&request_locale=ja>`__
 | 特殊召唤被无效的回合，这种描述不适用。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5496&request_locale=ja>`__
 | 被「`死者苏生`_」等效果特殊召唤的回合也适用。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5496&request_locale=ja>`__
 
@@ -205,14 +205,14 @@
 --------------------------------------------------------------------------
 
 | 「`DD 俄耳托斯`_」「`超重武者 法螺贝-E`_」的这类记述在特殊召唤成功时才适用，是\ **效果**\ 。\ `14/11/15 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11528>`__\ 适用这个效果的玩家是特殊召唤成功时的控制者。\ `23/2/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17824&keyword=&tag=-1&request_locale=ja>`__
-| 后续行动已经进行过，也能特殊召唤。\ `15/7/17 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16442>`__
+| 『○○』部分记述的行动已经进行过的回合，也能特殊召唤。\ `15/7/17 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16442>`__
 | 特殊召唤成功时怪兽已经在场上存在，「`技能抽取`_」适用时会被无效。\ `22/11/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16472&keyword=&tag=-1&request_locale=ja>`__
 
 『这个方法特殊召唤过的回合，○○』
 ----------------------------------
 
 | 「`风来王 野风`_」的这类记述是效果，但特殊召唤之际就适用，「`技能抽取`_」适用时不会被无效。
-| 即使后续行动已经进行了，也能特殊召唤。
+| 『○○』部分记述的行动已经进行过的回合，也能特殊召唤。
 | 例：
 | 「`风来王 野风`_」的①效果这样，『这个方法特殊召唤过的回合』效果，不是在场上适用的效果，即使场上存在「`技能抽取`_」，这类效果也不会被无效。「`恐龙摔跤手·席拉腔骨龙`_」「`强袭黑羽-雾雨之苦无鸟`_」「`燃烧拳击手 练习拳手`_」「`寂静鮟鱇`_」「`娱乐法师 高跷射手`_」「`圣刻龙-泰芙龙`_」的①效果也都一样，不会被无效。\ `22/12/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20371&keyword=&tag=-1&request_locale=ja>`__
 
