@@ -46,6 +46,7 @@ Welcome to OCG Rule documentation!
 -------------
 
 | 电脑版网页点击左侧边栏底部v:latest那行就会出现下载pdf/epub文档的选项，方便没有网络时查看。
+| 如果要打印纸质版，建议切到v:just_for_print版本再下载pdf打印，去除了繁多的历年FAQ，节省纸张。
 | 手机版网页要先点击左上角，出现侧边栏，再点击底栏找到下载选项。
 | 可以用多看阅读等app离线阅读电子文档。
 
@@ -98,7 +99,7 @@ Welcome to OCG Rule documentation!
 
 | 这些文章用\ `restructureText <https://zh-sphinx-doc.readthedocs.io/en/latest/rest.html>`__\ 写就。
 | 所有内容的代码见：\ `lucays/OCG-Rule-documentation <https://github.com/lucays/OCG-Rule-documentation>`__\ 。
-| 网站界面主题的代码见：\ `lucays/sphinx-typlog-theme <https://github.com/lucays/sphinx-typlog-theme>`__\ 。
+| 网站界面主题的代码见：\ `lucays/furo <https://github.com/lucays/furo>`__\ 。
 | readthedocs托管文档的步骤参考\ `使用ReadtheDocs托管文档 <https://www.xncoding.com/2017/01/22/fullstack/readthedoc.html>`__\ 和\ `sphinx文档 <http://www.sphinx-doc.org/en/master/>`__\ 。
 
 广告相关
