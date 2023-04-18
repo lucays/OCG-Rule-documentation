@@ -76,11 +76,15 @@
 -  | 已经适用的效果，即使那个卡名被宣言而变得不能使用，那些效果仍然适用。
    | 例：
    | 「`念动力防卫者`_」的效果宣言「`僵尸带菌者`_」后，用自身效果特殊召唤的「`僵尸带菌者`_」从场上离开的场合仍然除外。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8612&keyword=&tag=-1&request_locale=ja>`__
-   | 「`死灵守卫者`_」的①效果适用后，发动「`禁止令`_」宣言「`死灵守卫者`_」的场合，这个效果仍然适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23435&keyword=&tag=-1&request_locale=ja>`__
+   | 「`死灵守卫者`_」的①效果适用后，发动「`禁止令`_」宣言「`死灵守卫者`_」的场合，这个效果仍然适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7843&keyword=&tag=-1&request_locale=ja>`__
    | 「`增殖的G`_」的①效果适用后，发动「`禁止令`_」宣言「`增殖的G`_」的场合，这个效果仍然适用。这个回合对方每次特殊召唤怪兽自己仍然必须抽1张卡。\ `21/11/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23435&keyword=&tag=-1&request_locale=ja>`__
    | 「`天狱之王`_」的①效果适用后，持续公开期间发动「`禁止令`_」宣言「`天狱之王`_」的场合，『这个效果持续公开期间，场上盖放的卡不会被效果破坏』效果仍然适用。\ `21/10/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23403&keyword=&tag=-1&request_locale=ja>`__
    | 「`被诅咒的无花果`_」的效果适用后，在墓地存在时间发动「`禁止令`_」宣言「`被诅咒的无花果`_」的场合，『只要这张卡在墓地存在，选择的卡不能发动』效果仍然适用。\ `13/3/20 <https://yugioh-wiki.net/index.php?%A1%D4%B6%D8%BB%DF%CE%E1%A1%D5#faq0>`__
    | 「`念动力防卫者`_」的效果宣言「`强袭黑羽-雾雨之苦无鸟`_」后，用自身①效果记述的方法特殊召唤的「`强袭黑羽-雾雨之苦无鸟`_」仍然当作调整使用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16344&keyword=&tag=-1&request_locale=ja>`__
+
+   -  | 像「`命运英雄 毁灭凤凰人`_」的③效果这样，不是立即适用的效果，而是在适用的时点来临时，「`禁止令`_」「`念动力防卫者`_」的效果如果在适用中的场合，那个效果不适用。
+      | 例：
+      | 「`命运英雄 毁灭凤凰人`_」的③效果发动后，发动「`禁止令`_」宣言「`命运英雄 毁灭凤凰人`_」的场合，如果下个回合的准备阶段「`禁止令`_」的效果仍然在适用，不会特殊召唤「`命运英雄`_」怪兽。\ `21/11/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23450&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 如果卡片放置了魔力指示物等只能给特定卡片放置的指示物，之后变得不能使用的场合，不再是可以放置这些指示物的卡，已经放置的指示物也会全部取除。
    | 例：
@@ -186,3 +190,5 @@
 .. _`魔力掌握`: https://ygocdb.com/?search=魔力掌握
 .. _`毒蛇神 维诺米纳迦`: https://ygocdb.com/?search=毒蛇神+维诺米纳迦
 .. _`雷破`: https://ygocdb.com/?search=雷破
+.. _`命运英雄 毁灭凤凰人`: https://ygocdb.com/?search=命运英雄+毁灭凤凰人
+.. _`命运英雄`: https://ygocdb.com/?search=命运英雄

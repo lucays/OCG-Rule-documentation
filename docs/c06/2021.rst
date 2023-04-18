@@ -3078,7 +3078,7 @@
 | 「`剑斗兽 女斗`_」的①效果发动时，不能把连接怪兽送去墓地。\ `21/11/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14639&request_locale=ja>`__
 | 用「`模拘摄星人 模仿者`_」的①效果特殊召唤的「`后继者衍生物`_」没有原本的种族·属性，不能对其发动「`新世坏`_」。\ `21/11/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23454&keyword=&tag=-1&request_locale=ja>`__
 | 「`相剑暗转`_」②效果特殊召唤的「`相剑衍生物`_」变成装备卡的场合，不再是这个效果特殊召唤的衍生物，可以从额外卡组特殊召唤S怪兽。\ `21/11/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23453&keyword=&tag=-1&request_locale=ja>`__
-| 「`命运英雄 毁灭凤凰人`_」的③效果发动后，发动「`禁止令`_」宣言「`命运英雄 毁灭凤凰人`_」的场合，如果下个回合的准备阶段仍然适用，不会特殊召唤「`命运英雄`_」怪兽。\ `21/11/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23453&keyword=&tag=-1&request_locale=ja>`__
+| 「`命运英雄 毁灭凤凰人`_」的③效果发动后，发动「`禁止令`_」宣言「`命运英雄 毁灭凤凰人`_」的场合，如果下个回合的准备阶段「`禁止令`_」的效果仍然在适用，不会特殊召唤「`命运英雄`_」怪兽。\ `21/11/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23450&keyword=&tag=-1&request_locale=ja>`__
 | 「`阿拉弥赛亚之仪`_」①效果的处理时，没能特殊召唤「`勇者衍生物`_」的场合，不能放置「`命运之旅路`_」。\ `21/11/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23449&keyword=&tag=-1&request_locale=ja>`__
 | 我方场上存在「`恐啡肽狂龙·乔斯坦伯格隐形翼龙`_」，不管基本分是多少，我方都可以发动「`异热同心联盟`_」。这个场合，发动时不会支付基本分。\ `21/11/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23448&keyword=&tag=-1&request_locale=ja>`__
 | 手卡在7张以上发动「`时间女神的恶作剧`_」的状况，跳到下个自己回合的战斗阶段开始时后，也不会进行手卡调整。\ `21/11/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23447&keyword=&tag=-1&request_locale=ja>`__
