@@ -832,6 +832,39 @@
    | 怪兽区域只存在1种类怪兽时，这个效果在某个效果处理途中满足条件时，就会立即适用，从这时起，玩家不能特殊召唤不符合条件的怪兽。
    | 当然，『直到变成○○为止必须送去墓地』这个处理目前不能在效果处理途中进行，也是以上状况的处理出现差异的原因。
 
+4/20
+-------
+
+| 邮件：
+| 对方抽卡阶段的通常抽卡前，「`森罗的泷滑`_」发动了效果，让「`森罗`_」怪兽送去墓地的场合，不进行通常抽卡，对方手卡「`森罗的贤树 舍曼将军树`_」的效果不会错过时点，可以发动。
+
+4/21
+-------
+
+| 邮件：
+| 「`混沌之幻想魔术师`_」的①效果处理时，对方不能确认回到卡组最上面的卡。
+
+| 数据库：
+| 「`镜剑骑士`_」和「`伯吉斯异兽·寒武耙虾`_」进行战斗的场合，由于「`伯吉斯异兽·寒武耙虾`_」的①效果适用时，不受「`镜剑骑士`_」的②效果影响，结果会被这次战斗破坏。\ `23/4/21 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23967&keyword=&tag=-1&request_locale=ja>`__
+| 「`焰圣骑士帝-查理`_」在魔法·陷阱卡区域存在时，发动「`大圣剑博物馆`_」②效果的场合，由于自己场上存在「`焰圣骑士帝-查理`_」，『直到回合结束时自己不是战士族怪兽不能特殊召唤』不会适用。\ `23/4/21 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23965&keyword=&tag=-1&request_locale=ja>`__
+| 「`查理大帝`_」的①效果处理后，又变得不再装备「`焰圣骑士帝-查理`_」的场合，已经得到的效果不会丢失。\ `23/4/21 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23964&keyword=&tag=-1&request_locale=ja>`__
+| 「`宇宙类星龙`_」的②效果处理时，当作进行不需要S素材的S召唤，因此可以S召唤记述『这张卡不用S召唤不能特殊召唤』的「`流天类星龙`_」「`圣珖神龙 星尘·零`_」「`宇宙耀变龙`_」，但是不能S召唤记述『用○○为S素材的S召唤才能从额外卡组特殊召唤』的第2只「`宇宙类星龙`_」。\ `23/4/21 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23963&keyword=&tag=-1&request_locale=ja>`__
+| 自己场上的1只怪兽因对方的效果送去墓地，除外自身发动「`魔星之乌卡狼`_」的①效果后，处理时那只怪兽不在墓地存在（即使是表侧除外状态）的场合，『那以外的场合，除外状态的这张卡特殊召唤』适用。\ `23/4/21 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23962&keyword=&tag=-1&request_locale=ja>`__
+
+4/22
+-------
+
+| 数据库：
+| 「`查理大帝`_」的①效果处理后，可以立即发动得到的「`焰圣骑士帝-查理`_」的①效果。这时计为「`焰圣骑士帝-查理`_」的①效果使用1次。因此如果这个回合已经使用过「`焰圣骑士帝-查理`_」的①效果，不能发动得到的「`焰圣骑士帝-查理`_」的①效果。\ `23/4/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23966&keyword=&tag=-1&request_locale=ja>`__
+
+| 补充信息：[#]_
+| 「`俱舍怒威族·食人魔`_」的③效果处理时，翻开的卡片和从那之中除外的卡片，双方都会确认。\ `22/7/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17770&request_locale=ja>`__
+| 「`罪 十字`_」不是「`同调`_」魔法卡。\ `19/2/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14371&request_locale=ja>`__ 「`罪 爪流`_」不是「`同调`_」陷阱卡。\ `18/2/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=922&request_locale=ja>`__
+| 没有融合素材的，比如通过融合召唤以外的方式特殊召唤的「`幻想魔兽 奇美拉`_」，也可以攻击1次。\ `23/4/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=18821&request_locale=ja>`__
+| 「`进化帝·黎明神龙翼龙`_」的②效果在1组连锁上可以发动多次。\ `23/4/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=18830&request_locale=ja>`__ 「`亲历纯爱妖精·黑暗妖精`_」的②效果也可以。\ `23/4/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=18831&request_locale=ja>`__
+
+.. [#] 数据库部分条目又只改了内容不改日期。
+
 .. _`王宫的通告`: https://ygocdb.com/?search=王宫的通告
 .. _`旋风`: https://ygocdb.com/?search=旋风
 .. _`被封印者的右腕`: https://ygocdb.com/?search=被封印者的右腕
@@ -1353,3 +1386,24 @@
 .. _`十二兽的会局`: https://ygocdb.com/?search=十二兽的会局
 .. _`邪遗式人鱼风灵`: https://ygocdb.com/?search=邪遗式人鱼风灵
 .. _`No.19 冷冻龙`: https://ygocdb.com/?search=No.19+冷冻龙
+.. _`同调`: https://ygocdb.com/?search=同调
+.. _`罪 爪流`: https://ygocdb.com/?search=罪+爪流
+.. _`魔星之乌卡狼`: https://ygocdb.com/?search=魔星之乌卡狼
+.. _`镜剑骑士`: https://ygocdb.com/?search=镜剑骑士
+.. _`罪 十字`: https://ygocdb.com/?search=罪+十字
+.. _`幻想魔兽 奇美拉`: https://ygocdb.com/?search=幻想魔兽+奇美拉
+.. _`亲历纯爱妖精·黑暗妖精`: https://ygocdb.com/?search=亲历纯爱妖精·黑暗妖精
+.. _`焰圣骑士帝-查理`: https://ygocdb.com/?search=焰圣骑士帝-查理
+.. _`大圣剑博物馆`: https://ygocdb.com/?search=大圣剑博物馆
+.. _`俱舍怒威族·食人魔`: https://ygocdb.com/?search=俱舍怒威族·食人魔
+.. _`宇宙类星龙`: https://ygocdb.com/?search=宇宙类星龙
+.. _`伯吉斯异兽·寒武耙虾`: https://ygocdb.com/?search=伯吉斯异兽·寒武耙虾
+.. _`进化帝·黎明神龙翼龙`: https://ygocdb.com/?search=进化帝·黎明神龙翼龙
+.. _`查理大帝`: https://ygocdb.com/?search=查理大帝
+.. _`圣珖神龙 星尘·零`: https://ygocdb.com/?search=圣珖神龙+星尘·零
+.. _`宇宙耀变龙`: https://ygocdb.com/?search=宇宙耀变龙
+.. _`流天类星龙`: https://ygocdb.com/?search=流天类星龙
+.. _`森罗的泷滑`: https://ygocdb.com/?search=森罗的泷滑
+.. _`森罗的贤树 舍曼将军树`: https://ygocdb.com/?search=森罗的贤树+舍曼将军树
+.. _`混沌之幻想魔术师`: https://ygocdb.com/?search=混沌之幻想魔术师
+.. _`森罗`: https://ygocdb.com/?search=森罗
