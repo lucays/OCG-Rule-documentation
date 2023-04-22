@@ -155,7 +155,7 @@ cost
    | 墓地只存在融合怪兽时，也可以让那些融合怪兽回到额外卡组来特殊召唤「`究极封印神 艾克佐迪奥斯`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6829&keyword=&tag=-1&request_locale=ja>`__
    | 不能让「`幻变骚灵`_」连接怪兽回到额外卡组来发动「`个人欺骗攻击`_」的①效果。\ `17/7/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21264&keyword=&tag=-1&request_locale=ja>`__
 
-.. attention:: 特别地，「`超顶科技血神翼龙`_」的召唤手续不能用只能回到额外卡组的怪兽。\ `17/10/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13406&request_locale=ja>`__
+.. attention:: 特别地，「`超顶科技血神翼龙`_」「`重骑甲虫 强劲海神独角仙`_」的召唤手续不能用只能回到额外卡组的怪兽。\ `17/10/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13406&request_locale=ja>`__
 
 解放
 --------
@@ -1726,3 +1726,4 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 .. _`红莲之指名者`: https://ygocdb.com/?search=红莲之指名者
 .. _`钢核的光辉`: https://ygocdb.com/?search=钢核的光辉
 .. _`影灵衣的返魂术`: https://ygocdb.com/?search=影灵衣的返魂术
+.. _`重骑甲虫 强劲海神独角仙`: https://ygocdb.com/?search=重骑甲虫+强劲海神独角仙
