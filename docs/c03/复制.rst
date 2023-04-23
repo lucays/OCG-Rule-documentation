@@ -312,3 +312,4 @@
 .. _`源数网络`: https://ygocdb.com/?search=源数网络
 .. _`源数创造`: https://ygocdb.com/?search=源数创造
 .. _`现世与冥界的逆转`: https://ygocdb.com/?search=现世与冥界的逆转
+.. _`倍倍伤害`: https://ygocdb.com/?search=倍倍伤害
