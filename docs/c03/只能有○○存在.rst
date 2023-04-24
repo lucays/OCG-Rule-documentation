@@ -257,7 +257,6 @@
    | 例：
    | 对方场上只存在1只怪兽和「`皇帝斗技场`_」，我方场上存在2只怪兽，其中1只是二重怪兽的状况，也可以再1次召唤这只二重怪兽。\ `19/4/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13580&keyword=&tag=-1&request_locale=ja>`__
 
-
 .. _`原始生命态 尼比鲁`: https://ygocdb.com/card/name/原始生命态%20尼比鲁
 .. _`皇帝斗技场`: https://ygocdb.com/card/name/皇帝斗技场
 .. _`冰剑龙 幻冰龙`: https://ygocdb.com/card/name/冰剑龙%20幻冰龙

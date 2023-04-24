@@ -304,7 +304,6 @@
 | 「`黑洞`_」的效果处理时，1只「`燃烧拳击手 拘束蛮兵 刺拳拳手`_」的『可以作为那1只破坏的怪兽的代替』效果只能适用1次，取除1个X素材作为代替选出1个怪兽不被破坏。其他正常被破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12705&request_locale=ja>`__
 | 「`黑洞`_」的效果处理时，每代替破坏1只「`狱火机`_」怪兽要除外1张「`炼狱的死徒`_」。\ `14/11/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11577&request_locale=ja>`__
 
-
 .. _`极星天 古尔薇格`: https://ygocdb.com/card/name/极星天%20古尔薇格
 .. _`幻奏的音女 阿莉娅`: https://ygocdb.com/card/name/幻奏的音女%20阿莉娅
 .. _`动力工具龙`: https://ygocdb.com/card/name/动力工具龙

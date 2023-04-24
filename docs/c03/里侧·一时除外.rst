@@ -368,7 +368,6 @@
 
 这部分详见\ :ref:`陷阱怪兽`\ 。
 
-
 .. _`可变机兽 炮手龙`: https://ygocdb.com/card/name/可变机兽%20炮手龙
 .. _`暗次元之解放`: https://ygocdb.com/card/name/暗次元之解放
 .. _`流星龙`: https://ygocdb.com/card/name/流星龙

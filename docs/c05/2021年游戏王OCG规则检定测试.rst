@@ -383,7 +383,6 @@
 | 41~45 ACCEE
 | 46~50 CEBEB
 
-
 .. _`极星天 古尔薇格`: https://ygocdb.com/card/name/极星天%20古尔薇格
 .. _`命运英雄 毁灭凤凰人`: https://ygocdb.com/card/name/命运英雄%20毁灭凤凰人
 .. _`随风旅鸟×白头鹰`: https://ygocdb.com/card/name/随风旅鸟×白头鹰

@@ -2020,7 +2020,7 @@
 | 「`技能抽取`_」在场上存在，发动「`终末之骑士`_」的①效果时，也可以连锁发动「`灰流丽`_」的效果。
 
 | wiki:
-| 宣言机械族的「`DNA改造手术`_」的效果适用中，「`流星辉巧群`_」的效果处理进行仪式召唤的场合，可以适用变成机械族的「`仪式的供物`_」的效果，不能适用「`影灵衣之术士 施里特`_」的①效果。\ `20/9/12 <https://yugioh-wiki.net/index.php?%A1%D4%CE%AE%C0%B1%B5%B1%B9%AA%B7%B2%A1%D5#faq>`__
+| 宣言机械族的「`DNA改造手术`_」的效果适用中，「`流星辉巧群`_」的效果处理进行仪式召唤的场合，可以适用变成机械族的「`仪式的供物`_」的效果，不能适用「`影灵衣术士 施里特`_」的①效果。\ `20/9/12 <https://yugioh-wiki.net/index.php?%A1%D4%CE%AE%C0%B1%B5%B1%B9%AA%B7%B2%A1%D5#faq>`__
 | 基本分2000时也可以支付到0发动「`最大瞬移者`_」的效果，这时自己立即决斗败北。\ `20/9/12 <https://yugioh-wiki.net/index.php?%A1%D4%A5%DE%A5%C3%A5%AF%A5%B9%A1%A6%A5%C6%A5%EC%A5%DD%A1%BC%A5%BF%A1%BC%A1%D5#faq>`__
 | 把「`龙仪巧-天龙流星=DRA`_」「`龙仪巧-天龙流星=QUA`_」仪式召唤时使用怪兽的等级参照解放前的数值。用「`精灵的祝福`_」的效果解放原本等级是2但当前变成了12的怪兽把它们仪式召唤的场合，②效果不能发动。用「`流星辉巧群`_」的效果解放原本等级是12但当前变成了2的怪兽把它们仪式召唤的场合，②效果可以发动。\ `20/9/12 <https://yugioh-wiki.net/index.php?%A1%D4%CE%B5%B5%B7%B9%AA%A1%DD%A5%E1%A5%C6%A5%AA%A5%CB%A5%B9%A1%E1%A3%C4%A3%D2%A3%C1%A1%D5#faq>`__
 | 「`邪恶★双子星 姬丝基勒·璃拉`_」1只就能满足『有「`キスキル`_」怪兽以及「`リィラ`_」怪兽存在』的条件。\ `20/9/12 <https://yugioh-wiki.net/index.php?%A1%D4%A3%C5%A3%F6%A3%E9%A3%EC%A1%FA%A3%D4%A3%F7%A3%E9%A3%EE%A3%F3%20%A5%AD%A5%B9%A5%AD%A5%EB%A1%A6%A5%EA%A5%A3%A5%E9%A1%D5#faq>`__
@@ -4077,7 +4077,7 @@
 .. _`B・F-决战之巨弩炮蜂`: https://ygocdb.com/card/name/B・F-决战之巨弩炮蜂
 .. _`奇采之普鲁菲尼斯`: https://ygocdb.com/card/name/奇采之普鲁菲尼斯
 .. _`焰圣骑士帝-查理`: https://ygocdb.com/card/name/焰圣骑士帝-查理
-.. _`影灵衣之术士 施里特`: https://ygocdb.com/card/name/影灵衣之术士%20施里特
+.. _`影灵衣术士 施里特`: https://ygocdb.com/card/name/影灵衣术士%20施里特
 .. _`超量复活飞溅`: https://ygocdb.com/card/name/超量复活飞溅
 .. _`因果切断`: https://ygocdb.com/card/name/因果切断
 .. _`精灵的祝福`: https://ygocdb.com/card/name/精灵的祝福

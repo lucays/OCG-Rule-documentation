@@ -156,7 +156,6 @@
 | 作为装备卡的「`混沌之黑魔术师`_」从场上离开时，自身效果会适用，结果除外。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15&request_locale=ja3&request_locale=ja20>`__
 | 作为装备卡的「`元素英雄 绝对零度侠`_」从场上离开时，对方场上的怪兽全部破坏的效果会发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7847&request_locale=ja>`__
 
-
 .. _`铠狱龙-电子暗冥龙`: https://ygocdb.com/card/name/铠狱龙-电子暗冥龙
 .. _`冰剑龙 幻冰龙`: https://ygocdb.com/card/name/冰剑龙%20幻冰龙
 .. _`动力工具龙`: https://ygocdb.com/card/name/动力工具龙

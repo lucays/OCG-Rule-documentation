@@ -444,24 +444,23 @@
 答案
 ======
 
-| 1-5 ADCBD
-| 6-10 DCBDE
-| 11-15 ECEBE
-| 16-20 ECBCD
-| 21-25 AEAEB
-| 26-28 ACA
+| 1-5 ADCBD
+| 6-10 DCBDE
+| 11-15 ECEBE
+| 16-20 ECBCD
+| 21-25 AEAEB
+| 26-28 ACA
 
-| 29-30 DC
-| 31-35 EACDC
-| 36-40 BBADC
-| 41-45 EDBDB
-| 46-50 DBCDB
+| 29-30 DC
+| 31-35 EACDC
+| 36-40 BBADC
+| 41-45 EDBDB
+| 46-50 DBCDB
 
 .. |image1.png| image:: ../.static/c05/1.png
 .. |image2.png| image:: ../.static/c05/2.png
 .. |image3.png| image:: ../.static/c05/3.png
 .. |image4.png| image:: ../.static/c05/4.png
-
 
 .. _`彼岸的恶鬼 斯卡尔米利奥内`: https://ygocdb.com/card/name/彼岸的恶鬼%20斯卡尔米利奥内
 .. _`怒怒怒战士`: https://ygocdb.com/card/name/怒怒怒战士

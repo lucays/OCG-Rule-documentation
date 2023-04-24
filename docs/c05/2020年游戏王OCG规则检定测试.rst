@@ -388,7 +388,6 @@
 .. |image3.jpg| image:: ../.static/c05/2020_3.jpg
 .. |image4.jpg| image:: ../.static/c05/2020_4.jpg
 
-
 .. _`自奏圣乐`: https://ygocdb.com/card/name/自奏圣乐
 .. _`禁忌之壶`: https://ygocdb.com/card/name/禁忌之壶
 .. _`死灵之颜`: https://ygocdb.com/card/name/死灵之颜

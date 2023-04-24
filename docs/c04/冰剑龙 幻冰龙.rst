@@ -59,7 +59,6 @@
 | 因此，不能连锁发动「`我身作盾`_」「`星尘龙`_」的①效果等。\ `21/12/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23496&keyword=&tag=-1&request_locale=ja>`__
 | 并且，「`念力终结处刑者`_」「`铠皇龙-电子暗黑终结龙`_」等持有『\ :ref:`不受发动的效果影响`\ 』效果的怪兽仍然会被这个效果破坏。
 
-
 .. _`念力终结处刑者`: https://ygocdb.com/card/name/念力终结处刑者
 .. _`我身作盾`: https://ygocdb.com/card/name/我身作盾
 .. _`铠皇龙-电子暗黑终结龙`: https://ygocdb.com/card/name/铠皇龙-电子暗黑终结龙

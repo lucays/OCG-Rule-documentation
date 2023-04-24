@@ -95,7 +95,6 @@
 | 「`堕天使`_」怪兽以墓地「`背德之堕天使`_」为对象发动②效果时，不能连锁发动「`星尘龙`_」的①效果。
 | 「`芙莉西亚之虫惑魔`_」的③效果不是破坏效果，即使把「`奈落的落穴`_」送去墓地作为cost发动，也不能连锁发动「`星尘龙`_」的效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16681&keyword=&tag=-1&request_locale=ja>`__
 
-
 .. _`奈落的落穴`: https://ygocdb.com/card/name/奈落的落穴
 .. _`珠泪哀歌族·鲁莎卡人鱼`: https://ygocdb.com/card/name/珠泪哀歌族·鲁莎卡人鱼
 .. _`星光大道`: https://ygocdb.com/card/name/星光大道

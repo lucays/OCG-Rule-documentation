@@ -3020,7 +3020,6 @@ wiki：
 | 作为装备卡的「`光子轨道`_」把自身送去墓地发动②效果时，连锁对其发动「`墓穴的指名者`_」的场合，由于这个效果是作为装备魔法发动的效果，而「`墓穴的指名者`_」文本记述只能把『怪兽的效果无效化』，因此这个效果不会无效。\ `19/12/29 <https://yugioh-wiki.net/index.php?%A1%D4%A5%D5%A5%A9%A5%C8%A5%F3%A1%A6%A5%AA%A1%BC%A5%D3%A5%BF%A5%EB%A1%D5#faq>`__
 | 不能把自身和墓地「`黑暗中的陷阱`_」除外来发动「`废品收集者`_」的效果。\ `19/12/29 <http://yugioh-wiki.net/index.php?%A1%D4%A5%B8%A5%E3%A5%F3%A5%AF%A1%A6%A5%B3%A5%EC%A5%AF%A5%BF%A1%BC%A1%D5#faq2>`__
 
-
 .. _`齿车街`: https://ygocdb.com/card/name/齿车街
 .. _`蔷薇刻印`: https://ygocdb.com/card/name/蔷薇刻印
 .. _`流星龙`: https://ygocdb.com/card/name/流星龙

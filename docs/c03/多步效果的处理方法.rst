@@ -291,7 +291,6 @@
    | 双方的场上·墓地的「`黑魔术师`_」「`黑魔术少女`_」数量在3以上时，即使场上没有魔法师族·暗属性怪兽，也可以发动「`黑魔导强化`_」。『●2只以上：』『●3只以上：』效果可以正常适用。此外，虽然这个状况『●1只以上：』效果不适用，仍然可以在直到伤害计算前为止的时点发动「`黑魔导强化`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18637&keyword=&tag=-1&request_locale=ja>`__
    | 对方额外卡组里侧表示的卡不足3张，我方场上·墓地的「`枪管`_」怪兽只有S怪兽的状况，不能发动「`枪刺处刑刃`_」。\ `19/9/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22821&keyword=&tag=-1&request_locale=ja>`__
 
-
 .. _`升阶魔法-源数之力`: https://ygocdb.com/card/name/升阶魔法-源数之力
 .. _`死灵之颜`: https://ygocdb.com/card/name/死灵之颜
 .. _`恶王 阿里曼`: https://ygocdb.com/card/name/恶王%20阿里曼

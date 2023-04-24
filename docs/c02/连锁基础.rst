@@ -177,7 +177,6 @@
 
 .. note:: 因此，回合玩家用「水晶翼同调龙」攻击对方的「水晶翼同调龙」时\ **不应该**\ 发动①效果。
 
-
 .. _`奈落的落穴`: https://ygocdb.com/card/name/奈落的落穴
 .. _`星光大道`: https://ygocdb.com/card/name/星光大道
 .. _`青眼白龙`: https://ygocdb.com/card/name/青眼白龙

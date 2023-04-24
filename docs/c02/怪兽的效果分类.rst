@@ -195,7 +195,7 @@
 
 -  | 无种类效果属于怪兽效果。因此\ **可以被无效**\ 。
    | 例：
-   | 场上效果无效状态的「`影灵衣之术士 施里特`_」的①效果不适用。
+   | 场上效果无效状态的「`影灵衣术士 施里特`_」的①效果不适用。
    | 「`王家长眠之谷`_」的②效果适用中，墓地「`暗黑界的龙神 格拉法`_」把自身特殊召唤的效果会被无效且不能使用，不能只让怪兽回到手卡。\ `16/12/17 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20408&keyword=&tag=-1>`__
    | 如何判断一只怪兽的召唤手续是不是怪兽效果→\ :ref:`特殊召唤怪兽`\ 。
 
@@ -226,7 +226,6 @@
    -  『在自己场上只能有1只表侧表示存在』
    -  『这张卡可以代替1只融合素材怪兽』
    -  『用～～为素材的XYZ怪兽得到以下效果』
-
 
 .. _`娱乐伙伴 颠倒蛙`: https://ygocdb.com/card/name/娱乐伙伴%20颠倒蛙
 .. _`削魂的死灵`: https://ygocdb.com/card/name/削魂的死灵
@@ -274,7 +273,7 @@
 .. _`精神操作`: https://ygocdb.com/card/name/精神操作
 .. _`No.86 英豪冠军 击灭枪王`: https://ygocdb.com/card/name/No.86%20英豪冠军%20击灭枪王
 .. _`邪神 神之化身`: https://ygocdb.com/card/name/邪神%20神之化身
-.. _`影灵衣之术士 施里特`: https://ygocdb.com/card/name/影灵衣之术士%20施里特
+.. _`影灵衣术士 施里特`: https://ygocdb.com/card/name/影灵衣术士%20施里特
 .. _`暗黑女武神`: https://ygocdb.com/card/name/暗黑女武神
 .. _`技能抽取`: https://ygocdb.com/card/name/技能抽取
 .. _`群雄割据`: https://ygocdb.com/card/name/群雄割据

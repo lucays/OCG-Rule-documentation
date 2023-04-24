@@ -131,7 +131,6 @@
 | 11-15 × × × × √
 | 16-20 √ √ √ √ √
 
-
 .. _`分体`: https://ygocdb.com/card/name/分体
 .. _`圣像骑士的圣战`: https://ygocdb.com/card/name/圣像骑士的圣战
 .. _`原始生命态 尼比鲁`: https://ygocdb.com/card/name/原始生命态%20尼比鲁

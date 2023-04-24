@@ -400,7 +400,6 @@
 | 31-40 DAEAB BCEEC
 | 41-50 CBCEC BEECA
 
-
 .. _`进化帝·半鸟龙`: https://ygocdb.com/card/name/进化帝·半鸟龙
 .. _`皇帝斗技场`: https://ygocdb.com/card/name/皇帝斗技场
 .. _`迪亚邦德之核`: https://ygocdb.com/card/name/迪亚邦德之核

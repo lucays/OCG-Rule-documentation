@@ -616,7 +616,6 @@
 
    .. attention:: 在TCG顺序就是1~4，不是7。详情见\ `杖座combo在OCG与TCG的不同与缘由 <https://tieba.baidu.com/p/4766521764>`__\ 。
 
-
 .. _`直播☆双子 姬丝基勒`: https://ygocdb.com/card/name/直播☆双子%20姬丝基勒
 .. _`齿车街`: https://ygocdb.com/card/name/齿车街
 .. _`琰魔龙王 红莲魔·厄`: https://ygocdb.com/card/name/琰魔龙王%20红莲魔·厄
