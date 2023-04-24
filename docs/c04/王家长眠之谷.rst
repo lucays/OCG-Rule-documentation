@@ -124,7 +124,7 @@
 .. _`召唤神 艾克佐迪亚`: https://ygocdb.com/card/name/召唤神%20艾克佐迪亚
 .. _`命运英雄 毁灭凤凰人`: https://ygocdb.com/card/name/命运英雄%20毁灭凤凰人
 .. _`吸入暗阴的魔法镜`: https://ygocdb.com/card/name/吸入暗阴的魔法镜
-.. _`齿轮齿轮`: https://ygocdb.com/card/name/齿轮齿轮
+.. _`齿轮齿轮`: https://ygocdb.com/?search=齿轮齿轮
 .. _`究极封印神 艾克佐迪奥斯`: https://ygocdb.com/card/name/究极封印神%20艾克佐迪奥斯
 .. _`钻头战士`: https://ygocdb.com/card/name/钻头战士
 .. _`超量叠光延迟`: https://ygocdb.com/card/name/超量叠光延迟
@@ -137,7 +137,7 @@
 .. _`立于星坠之地的闪珖`: https://ygocdb.com/card/name/立于星坠之地的闪珖
 .. _`技能抽取`: https://ygocdb.com/card/name/技能抽取
 .. _`地中族妖魔`: https://ygocdb.com/card/name/地中族妖魔
-.. _`狱火机`: https://ygocdb.com/card/name/狱火机
+.. _`狱火机`: https://ygocdb.com/?search=狱火机
 .. _`电子龙`: https://ygocdb.com/card/name/电子龙
 .. _`不死世界`: https://ygocdb.com/card/name/不死世界
 .. _`堕天使 伊希塔布`: https://ygocdb.com/card/name/堕天使%20伊希塔布
@@ -146,23 +146,23 @@
 .. _`破坏龙 甘多拉-烈光闪`: https://ygocdb.com/card/name/破坏龙%20甘多拉-烈光闪
 .. _`天底的使徒`: https://ygocdb.com/card/name/天底的使徒
 .. _`王家长眠之谷`: https://ygocdb.com/card/name/王家长眠之谷
-.. _`机怪虫`: https://ygocdb.com/card/name/机怪虫
-.. _`教导`: https://ygocdb.com/card/name/教导
+.. _`机怪虫`: https://ygocdb.com/?search=机怪虫
+.. _`教导`: https://ygocdb.com/?search=教导
 .. _`救金鱼`: https://ygocdb.com/card/name/救金鱼
 .. _`仪式的准备`: https://ygocdb.com/card/name/仪式的准备
 .. _`黑魔术的帷幕`: https://ygocdb.com/card/name/黑魔术的帷幕
 .. _`王宫的通告`: https://ygocdb.com/card/name/王宫的通告
-.. _`龙星`: https://ygocdb.com/card/name/龙星
+.. _`龙星`: https://ygocdb.com/?search=龙星
 .. _`阿不思的落胤`: https://ygocdb.com/card/name/阿不思的落胤
 .. _`虚拟世界`: https://ygocdb.com/card/name/虚拟世界
 .. _`融合`: https://ygocdb.com/card/name/融合
 .. _`幻变骚灵协议`: https://ygocdb.com/card/name/幻变骚灵协议
 .. _`死者苏生`: https://ygocdb.com/card/name/死者苏生
-.. _`暗黑界`: https://ygocdb.com/card/name/暗黑界
+.. _`暗黑界`: https://ygocdb.com/?search=暗黑界
 .. _`真红眼暗钢龙`: https://ygocdb.com/card/name/真红眼暗钢龙
-.. _`急袭猛禽`: https://ygocdb.com/card/name/急袭猛禽
+.. _`急袭猛禽`: https://ygocdb.com/?search=急袭猛禽
 .. _`幻变骚灵物化`: https://ygocdb.com/card/name/幻变骚灵物化
-.. _`地中族`: https://ygocdb.com/card/name/地中族
+.. _`地中族`: https://ygocdb.com/?search=地中族
 .. _`神数的圣选士`: https://ygocdb.com/card/name/神数的圣选士
 .. _`华丽金星`: https://ygocdb.com/card/name/华丽金星
 .. _`索菲娅之影灵衣`: https://ygocdb.com/card/name/索菲娅之影灵衣
@@ -182,7 +182,7 @@
 .. _`古代的机械巨人-究极重击`: https://ygocdb.com/card/name/古代的机械巨人-究极重击
 .. _`一击必杀！居合抽卡`: https://ygocdb.com/card/name/一击必杀！居合抽卡
 .. _`真红眼溯刻龙`: https://ygocdb.com/card/name/真红眼溯刻龙
-.. _`守墓`: https://ygocdb.com/card/name/守墓
+.. _`守墓`: https://ygocdb.com/?search=守墓
 .. _`壹世坏清澈的残响`: https://ygocdb.com/card/name/壹世坏清澈的残响
 .. _`魔导书`: https://ygocdb.com/card/name/魔导书
 .. _`召唤兽 梅尔卡巴`: https://ygocdb.com/card/name/召唤兽%20梅尔卡巴

@@ -430,7 +430,7 @@
 .. _`彼岸的恶鬼 法尔法雷洛`: https://ygocdb.com/card/name/彼岸的恶鬼%20法尔法雷洛
 .. _`魔轰神 利威坦`: https://ygocdb.com/card/name/魔轰神%20利威坦
 .. _`转生炎兽 炽热多头狮`: https://ygocdb.com/card/name/转生炎兽%20炽热多头狮
-.. _`坏兽`: https://ygocdb.com/card/name/坏兽
+.. _`坏兽`: https://ygocdb.com/?search=坏兽
 .. _`召唤兽 梅尔卡巴`: https://ygocdb.com/card/name/召唤兽%20梅尔卡巴
 .. _`黄金卿 黄金国巫妖`: https://ygocdb.com/card/name/黄金卿%20黄金国巫妖
 .. _`半龙女仆·天风龙女`: https://ygocdb.com/card/name/半龙女仆·天风龙女
@@ -487,7 +487,7 @@
 .. _`妖龙 摩诃摩`: https://ygocdb.com/card/name/妖龙%20摩诃摩
 .. _`权威者·许珀里翁`: https://ygocdb.com/card/name/权威者·许珀里翁
 .. _`王神鸟 斯摩夫`: https://ygocdb.com/card/name/王神鸟%20斯摩夫
-.. _`北极天熊`: https://ygocdb.com/card/name/北极天熊
+.. _`北极天熊`: https://ygocdb.com/?search=北极天熊
 .. _`一对一`: https://ygocdb.com/card/name/一对一
 .. _`电子龙·无限`: https://ygocdb.com/card/name/电子龙·无限
 .. _`王宫的铁壁`: https://ygocdb.com/card/name/王宫的铁壁
@@ -572,7 +572,7 @@
 .. _`转生炎兽 猎鹰`: https://ygocdb.com/card/name/转生炎兽%20猎鹰
 .. _`死狱乡演员·圣墓访问者`: https://ygocdb.com/card/name/死狱乡演员·圣墓访问者
 .. _`电子界提醒员`: https://ygocdb.com/card/name/电子界提醒员
-.. _`废铁`: https://ygocdb.com/card/name/废铁
+.. _`废铁`: https://ygocdb.com/?search=废铁
 .. _`救祓少女·米迦埃莉丝`: https://ygocdb.com/card/name/救祓少女·米迦埃莉丝
 .. _`影依融合`: https://ygocdb.com/card/name/影依融合
 .. _`元素英雄 真诚新宇侠`: https://ygocdb.com/card/name/元素英雄%20真诚新宇侠

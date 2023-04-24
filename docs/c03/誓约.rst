@@ -254,11 +254,11 @@
 .. _`钢铁巨兵`: https://ygocdb.com/card/name/钢铁巨兵
 .. _`妖精传姬-塔利娅`: https://ygocdb.com/card/name/妖精传姬-塔利娅
 .. _`魔界剧团`: https://ygocdb.com/card/name/魔界剧团
-.. _`堕天使`: https://ygocdb.com/card/name/堕天使
+.. _`堕天使`: https://ygocdb.com/?search=堕天使
 .. _`混沌核`: https://ygocdb.com/card/name/混沌核
 .. _`电子界量子龙`: https://ygocdb.com/card/name/电子界量子龙
 .. _`技能抽取`: https://ygocdb.com/card/name/技能抽取
-.. _`狱火机`: https://ygocdb.com/card/name/狱火机
+.. _`狱火机`: https://ygocdb.com/?search=狱火机
 .. _`魔孔石人`: https://ygocdb.com/card/name/魔孔石人
 .. _`娱乐伙伴 额外射手`: https://ygocdb.com/card/name/娱乐伙伴%20额外射手
 .. _`超重忍者 忍足-A·C`: https://ygocdb.com/card/name/超重忍者%20忍足-A·C

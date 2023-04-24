@@ -469,7 +469,7 @@ combo展示
 .. _`オルターガイスト・マルチフェイカー`: https://ygocdb.com/card/name/オルターガイスト・マルチフェイカー
 .. _`花札卫-五光`: https://ygocdb.com/card/name/花札卫-五光
 .. _`幻变骚灵·泛在羽衣精`: https://ygocdb.com/card/name/幻变骚灵·泛在羽衣精
-.. _`オルターガイスト`: https://ygocdb.com/card/name/オルターガイスト
+.. _`オルターガイスト`: https://ygocdb.com/?search=オルターガイスト
 .. _`召唤兽 梅尔卡巴`: https://ygocdb.com/card/name/召唤兽%20梅尔卡巴
 .. _`闪刀术式-烈火再燃`: https://ygocdb.com/card/name/闪刀术式-烈火再燃
 .. _`幻变骚灵·协议`: https://ygocdb.com/card/name/幻变骚灵·协议
@@ -504,7 +504,7 @@ combo展示
 .. _`魔知青蛙`: https://ygocdb.com/card/name/魔知青蛙
 .. _`大宇宙`: https://ygocdb.com/card/name/大宇宙
 .. _`隐藏的机壳杀手-物质主义`: https://ygocdb.com/card/name/隐藏的机壳杀手-物质主义
-.. _`幻变骚灵`: https://ygocdb.com/card/name/幻变骚灵
+.. _`幻变骚灵`: https://ygocdb.com/?search=幻变骚灵
 .. _`岔子`: https://ygocdb.com/card/name/岔子
 .. _`光天使 天座`: https://ygocdb.com/card/name/光天使%20天座
 .. _`增殖的G`: https://ygocdb.com/card/name/增殖的G

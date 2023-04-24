@@ -414,11 +414,11 @@
 .. _`电子龙`: https://ygocdb.com/card/name/电子龙
 .. _`元素英雄 神·新宇侠`: https://ygocdb.com/card/name/元素英雄%20神·新宇侠
 .. _`名推理`: https://ygocdb.com/card/name/名推理
-.. _`②：自己主要阶段才能发动。从手卡·卡组把1只龙族怪兽往作为受2只以上的连接怪兽所连接区的自己场上特殊召唤`: https://ygocdb.com/card/name/②：自己主要阶段才能发动。从手卡·卡组把1只龙族怪兽往作为受2只以上的连接怪兽所连接区的自己场上特殊召唤
+.. _`②：自己主要阶段才能发动。从手卡·卡组把1只龙族怪兽往作为受2只以上的连接怪兽所连接区的自己场上特殊召唤`: https://ygocdb.com/?search=②：自己主要阶段才能发动。从手卡·卡组把1只龙族怪兽往作为受2只以上的连接怪兽所连接区的自己场上特殊召唤
 .. _`防火龙`: https://ygocdb.com/card/name/防火龙
 .. _`网格扫除机`: https://ygocdb.com/card/name/网格扫除机
 .. _`溢出龙`: https://ygocdb.com/card/name/溢出龙
-.. _`古遗物`: https://ygocdb.com/card/name/古遗物
+.. _`古遗物`: https://ygocdb.com/?search=古遗物
 .. _`梦幻转星 易德莉丝`: https://ygocdb.com/card/name/梦幻转星%20易德莉丝
 .. _`星杯的神子 夏娃`: https://ygocdb.com/card/name/星杯的神子%20夏娃
 .. _`死之卡组破坏病毒`: https://ygocdb.com/card/name/死之卡组破坏病毒
@@ -458,11 +458,11 @@
 .. _`枪口焰龙`: https://ygocdb.com/card/name/枪口焰龙
 .. _`地狱门的契约书`: https://ygocdb.com/card/name/地狱门的契约书
 .. _`蟑螂柱`: https://ygocdb.com/card/name/蟑螂柱
-.. _`鹰身`: https://ygocdb.com/card/name/鹰身
+.. _`鹰身`: https://ygocdb.com/?search=鹰身
 .. _`星遗物的继承`: https://ygocdb.com/card/name/星遗物的继承
 .. _`电脑网冲突`: https://ygocdb.com/card/name/电脑网冲突
 .. _`溢出衍生物`: https://ygocdb.com/card/name/溢出衍生物
-.. _`命运英雄`: https://ygocdb.com/card/name/命运英雄
+.. _`命运英雄`: https://ygocdb.com/?search=命运英雄
 .. _`长世国王恶魔`: https://ygocdb.com/card/name/长世国王恶魔
 .. _`力量结合`: https://ygocdb.com/card/name/力量结合
 .. _`王宫的敕命`: https://ygocdb.com/card/name/王宫的敕命
@@ -503,7 +503,7 @@
 .. _`剑道魂 皆传`: https://ygocdb.com/card/name/剑道魂%20皆传
 .. _`嵌合巨舰龙`: https://ygocdb.com/card/name/嵌合巨舰龙
 .. _`○不死族`: https://ygocdb.com/card/name/○不死族
-.. _`地中族`: https://ygocdb.com/card/name/地中族
+.. _`地中族`: https://ygocdb.com/?search=地中族
 .. _`歇斯底里的舞会`: https://ygocdb.com/card/name/歇斯底里的舞会
 .. _`珀耳修斯的神域`: https://ygocdb.com/card/name/珀耳修斯的神域
 .. _`星杯神乐 夏娃`: https://ygocdb.com/card/name/星杯神乐%20夏娃
@@ -560,7 +560,7 @@
 .. _`解码语者·扩展`: https://ygocdb.com/card/name/解码语者·扩展
 .. _`荷鲁斯之黑炎龙 LV6`: https://ygocdb.com/card/name/荷鲁斯之黑炎龙%20LV6
 .. _`邪心英雄 地狱小魔`: https://ygocdb.com/card/name/邪心英雄%20地狱小魔
-.. _`炎舞`: https://ygocdb.com/card/name/炎舞
+.. _`炎舞`: https://ygocdb.com/?search=炎舞
 .. _`奥金魔术师/爆裂体`: https://ygocdb.com/card/name/奥金魔术师/爆裂体
 .. _`暗黑安琪儿`: https://ygocdb.com/card/name/暗黑安琪儿
 .. _`魔妖仙兽 独眼群主`: https://ygocdb.com/card/name/魔妖仙兽%20独眼群主

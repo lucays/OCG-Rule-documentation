@@ -272,7 +272,7 @@ X召唤的步骤现在是，先把X素材移动到可用的EX区域或连接端�
 .. _`枪口焰龙`: https://ygocdb.com/card/name/枪口焰龙
 .. _`御用守护者`: https://ygocdb.com/card/name/御用守护者
 .. _`右手拿盾左手持剑`: https://ygocdb.com/card/name/右手拿盾左手持剑
-.. _`纹章兽`: https://ygocdb.com/card/name/纹章兽
+.. _`纹章兽`: https://ygocdb.com/?search=纹章兽
 .. _`强制转移`: https://ygocdb.com/card/name/强制转移
 .. _`摇晃的目光`: https://ygocdb.com/card/name/摇晃的目光
 .. _`闪刀姬-雫空`: https://ygocdb.com/card/name/闪刀姬-雫空

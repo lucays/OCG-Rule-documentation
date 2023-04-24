@@ -397,7 +397,7 @@
 .. _`愚钝之斧`: https://ygocdb.com/card/name/愚钝之斧
 .. _`彼岸的恶鬼 法尔法雷洛`: https://ygocdb.com/card/name/彼岸的恶鬼%20法尔法雷洛
 .. _`转生炎兽 炽热多头狮`: https://ygocdb.com/card/name/转生炎兽%20炽热多头狮
-.. _`剑斗兽`: https://ygocdb.com/card/name/剑斗兽
+.. _`剑斗兽`: https://ygocdb.com/?search=剑斗兽
 .. _`拷问车轮`: https://ygocdb.com/card/name/拷问车轮
 .. _`强制转移`: https://ygocdb.com/card/name/强制转移
 .. _`太阳神之翼神龙-球体形`: https://ygocdb.com/card/name/太阳神之翼神龙-球体形
@@ -413,7 +413,7 @@
 .. _`星光大道`: https://ygocdb.com/card/name/星光大道
 .. _`升阶魔法-幻影骑士团的出击`: https://ygocdb.com/card/name/升阶魔法-幻影骑士团的出击
 .. _`放电枪野马`: https://ygocdb.com/card/name/放电枪野马
-.. _`凭依装着`: https://ygocdb.com/card/name/凭依装着
+.. _`凭依装着`: https://ygocdb.com/?search=凭依装着
 .. _`无形噬体·暴食`: https://ygocdb.com/card/name/无形噬体·暴食
 .. _`星守之骑士 托勒密`: https://ygocdb.com/card/name/星守之骑士%20托勒密
 .. _`还原点控球后卫`: https://ygocdb.com/card/name/还原点控球后卫
@@ -434,7 +434,7 @@
 .. _`波动加农炮`: https://ygocdb.com/card/name/波动加农炮
 .. _`大逮捕`: https://ygocdb.com/card/name/大逮捕
 .. _`敌人控制器`: https://ygocdb.com/card/name/敌人控制器
-.. _`玄化`: https://ygocdb.com/card/name/玄化
+.. _`玄化`: https://ygocdb.com/?search=玄化
 .. _`占术姬 水晶球水精`: https://ygocdb.com/card/name/占术姬%20水晶球水精
 .. _`闪珖龙 星尘`: https://ygocdb.com/card/name/闪珖龙%20星尘
 .. _`黑蔷薇龙`: https://ygocdb.com/card/name/黑蔷薇龙
@@ -463,7 +463,7 @@
 .. _`迷雾恶魔`: https://ygocdb.com/card/name/迷雾恶魔
 .. _`技能抽取`: https://ygocdb.com/card/name/技能抽取
 .. _`青眼亚白龙`: https://ygocdb.com/card/name/青眼亚白龙
-.. _`彼岸`: https://ygocdb.com/card/name/彼岸
+.. _`彼岸`: https://ygocdb.com/?search=彼岸
 .. _`狱火机·路西弗格`: https://ygocdb.com/card/name/狱火机·路西弗格
 .. _`十二兽的会局`: https://ygocdb.com/card/name/十二兽的会局
 .. _`A BF-雾雨之苦无鸟`: https://ygocdb.com/card/name/A%20BF-雾雨之苦无鸟

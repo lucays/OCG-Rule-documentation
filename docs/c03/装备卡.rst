@@ -178,7 +178,7 @@
 .. _`电磁石战士α`: https://ygocdb.com/card/name/电磁石战士α
 .. _`遗言之假面`: https://ygocdb.com/card/name/遗言之假面
 .. _`C-粉碎翼龙`: https://ygocdb.com/card/name/C-粉碎翼龙
-.. _`-破坏剑士`: https://ygocdb.com/card/name/-破坏剑士
+.. _`-破坏剑士`: https://ygocdb.com/?search=-破坏剑士
 .. _`同盟运输车`: https://ygocdb.com/card/name/同盟运输车
 .. _`怀抱圣剑的王后 桂妮薇儿`: https://ygocdb.com/card/name/怀抱圣剑的王后%20桂妮薇儿
 .. _`破戒蛮龙-破坏龙`: https://ygocdb.com/card/name/破戒蛮龙-破坏龙
@@ -191,7 +191,7 @@
 .. _`怨邪帝 盖乌斯`: https://ygocdb.com/card/name/怨邪帝%20盖乌斯
 .. _`ABC-神龙歼灭者`: https://ygocdb.com/card/name/ABC-神龙歼灭者
 .. _`A-突击核`: https://ygocdb.com/card/name/A-突击核
-.. _`破坏剑-`: https://ygocdb.com/card/name/破坏剑-
+.. _`破坏剑-`: https://ygocdb.com/?search=破坏剑-
 .. _`破坏炮`: https://ygocdb.com/card/name/破坏炮
 .. _`假面魔兽 死亡护法师`: https://ygocdb.com/card/name/假面魔兽%20死亡护法师
 .. _`甲虫装机 大黄蜂`: https://ygocdb.com/card/name/甲虫装机%20大黄蜂
@@ -237,10 +237,10 @@
 .. _`附火器的机甲铠`: https://ygocdb.com/card/name/附火器的机甲铠
 .. _`强化支援机械·重装武器`: https://ygocdb.com/card/name/强化支援机械·重装武器
 .. _`静寂之杖-波纹`: https://ygocdb.com/card/name/静寂之杖-波纹
-.. _`妖仙兽`: https://ygocdb.com/card/name/妖仙兽
-.. _`破坏剑`: https://ygocdb.com/card/name/破坏剑
+.. _`妖仙兽`: https://ygocdb.com/?search=妖仙兽
+.. _`破坏剑`: https://ygocdb.com/?search=破坏剑
 .. _`异热同心武器-一角兽皇枪`: https://ygocdb.com/card/name/异热同心武器-一角兽皇枪
-.. _`甲虫装机`: https://ygocdb.com/card/name/甲虫装机
+.. _`甲虫装机`: https://ygocdb.com/?search=甲虫装机
 .. _`龙魂之力`: https://ygocdb.com/card/name/龙魂之力
 .. _`电磁石战士 电磁狂神`: https://ygocdb.com/card/name/电磁石战士%20电磁狂神
 .. _`士气高扬`: https://ygocdb.com/card/name/士气高扬

@@ -531,7 +531,7 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
 .. _`反转世界`: https://ygocdb.com/card/name/反转世界
 .. _`魔轰神 利威坦`: https://ygocdb.com/card/name/魔轰神%20利威坦
 .. _`元素英雄 次新宇侠`: https://ygocdb.com/card/name/元素英雄%20次新宇侠
-.. _`幻奏`: https://ygocdb.com/card/name/幻奏
+.. _`幻奏`: https://ygocdb.com/?search=幻奏
 .. _`黄金卿 黄金国巫妖`: https://ygocdb.com/card/name/黄金卿%20黄金国巫妖
 .. _`命运女郎·达琪`: https://ygocdb.com/card/name/命运女郎·达琪
 .. _`甲虫装机 皮可蛾`: https://ygocdb.com/card/name/甲虫装机%20皮可蛾
@@ -627,7 +627,7 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
 .. _`混沌死灵师`: https://ygocdb.com/card/name/混沌死灵师
 .. _`合成魔兽 加泽特`: https://ygocdb.com/card/name/合成魔兽%20加泽特
 .. _`混沌No.39 希望皇 霍普雷`: https://ygocdb.com/card/name/混沌No.39%20希望皇%20霍普雷
-.. _`命运女郎`: https://ygocdb.com/card/name/命运女郎
+.. _`命运女郎`: https://ygocdb.com/?search=命运女郎
 .. _`元素英雄 铁壁炮手`: https://ygocdb.com/card/name/元素英雄%20铁壁炮手
 .. _`英豪冠军 英弓王`: https://ygocdb.com/card/name/英豪冠军%20英弓王
 .. _`邪神 恐惧之源`: https://ygocdb.com/card/name/邪神%20恐惧之源

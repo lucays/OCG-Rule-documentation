@@ -899,7 +899,7 @@
 .. _`双穹之骑士 阿斯特拉姆`: https://ygocdb.com/card/name/双穹之骑士%20阿斯特拉姆
 .. _`齿轮齿轮齿轮 X巨人`: https://ygocdb.com/card/name/齿轮齿轮齿轮%20X巨人
 .. _`日全食之书`: https://ygocdb.com/card/name/日全食之书
-.. _`源数`: https://ygocdb.com/card/name/源数
+.. _`源数`: https://ygocdb.com/?search=源数
 .. _`疾行机人 六角飞碟`: https://ygocdb.com/card/name/疾行机人%20六角飞碟
 .. _`朱罗纪翼龙`: https://ygocdb.com/card/name/朱罗纪翼龙
 .. _`杂草`: https://ygocdb.com/card/name/杂草
@@ -911,7 +911,7 @@
 .. _`水精鳞-巨齿深渊鲨`: https://ygocdb.com/card/name/水精鳞-巨齿深渊鲨
 .. _`神圣防护罩-反射镜力-`: https://ygocdb.com/card/name/神圣防护罩-反射镜力-
 .. _`真红眼不尸龙`: https://ygocdb.com/card/name/真红眼不尸龙
-.. _`机怪虫`: https://ygocdb.com/card/name/机怪虫
+.. _`机怪虫`: https://ygocdb.com/?search=机怪虫
 .. _`代理龙`: https://ygocdb.com/card/name/代理龙
 .. _`恐乐园的死配人 ＜A丑角＞`: https://ygocdb.com/card/name/恐乐园的死配人%20＜A丑角＞
 .. _`月镜盾`: https://ygocdb.com/card/name/月镜盾
@@ -937,7 +937,7 @@
 .. _`拦路的强敌`: https://ygocdb.com/card/name/拦路的强敌
 .. _`技能抽取`: https://ygocdb.com/card/name/技能抽取
 .. _`黄金乡的守护者`: https://ygocdb.com/card/name/黄金乡的守护者
-.. _`地缚神`: https://ygocdb.com/card/name/地缚神
+.. _`地缚神`: https://ygocdb.com/?search=地缚神
 .. _`缝制恐龙`: https://ygocdb.com/card/name/缝制恐龙
 .. _`鲨鱼要塞`: https://ygocdb.com/card/name/鲨鱼要塞
 .. _`时械神祖 武加大`: https://ygocdb.com/card/name/时械神祖%20武加大
@@ -1055,10 +1055,10 @@
 .. _`毅飞冲天挑战`: https://ygocdb.com/card/name/毅飞冲天挑战
 .. _`回转调车`: https://ygocdb.com/card/name/回转调车
 .. _`恐啡肽狂龙音速`: https://ygocdb.com/card/name/恐啡肽狂龙音速
-.. _`星因士`: https://ygocdb.com/card/name/星因士
+.. _`星因士`: https://ygocdb.com/?search=星因士
 .. _`黑暗贵族`: https://ygocdb.com/card/name/黑暗贵族
 .. _`玄翼龙 黑羽`: https://ygocdb.com/card/name/玄翼龙%20黑羽
-.. _`魔弹`: https://ygocdb.com/card/name/魔弹
+.. _`魔弹`: https://ygocdb.com/?search=魔弹
 .. _`于贝尔-极度悲伤的魔龙`: https://ygocdb.com/card/name/于贝尔-极度悲伤的魔龙
 .. _`我我我侍`: https://ygocdb.com/card/name/我我我侍
 .. _`命运英雄 敌托邦人`: https://ygocdb.com/card/name/命运英雄%20敌托邦人
@@ -1119,7 +1119,7 @@
 .. _`青眼双爆裂龙`: https://ygocdb.com/card/name/青眼双爆裂龙
 .. _`特拉戈迪亚`: https://ygocdb.com/card/name/特拉戈迪亚
 .. _`龙星的九支`: https://ygocdb.com/card/name/龙星的九支
-.. _`方程式运动员`: https://ygocdb.com/card/name/方程式运动员
+.. _`方程式运动员`: https://ygocdb.com/?search=方程式运动员
 .. _`No.1 源数之门-壹`: https://ygocdb.com/card/name/No.1%20源数之门-壹
 .. _`清净恶龙`: https://ygocdb.com/card/name/清净恶龙
 .. _`流星直击`: https://ygocdb.com/card/name/流星直击
@@ -1133,7 +1133,7 @@
 .. _`禁忌的圣典`: https://ygocdb.com/card/name/禁忌的圣典
 .. _`三发点射龙`: https://ygocdb.com/card/name/三发点射龙
 .. _`心眼之祭殿`: https://ygocdb.com/card/name/心眼之祭殿
-.. _`彼岸`: https://ygocdb.com/card/name/彼岸
+.. _`彼岸`: https://ygocdb.com/?search=彼岸
 .. _`强制脱出装置`: https://ygocdb.com/card/name/强制脱出装置
 .. _`破坏神的系谱`: https://ygocdb.com/card/name/破坏神的系谱
 .. _`No.13 该隐恶魔`: https://ygocdb.com/card/name/No.13%20该隐恶魔
@@ -1142,7 +1142,7 @@
 .. _`潜艇机人`: https://ygocdb.com/card/name/潜艇机人
 .. _`大宇宙`: https://ygocdb.com/card/name/大宇宙
 .. _`同路人`: https://ygocdb.com/card/name/同路人
-.. _`恐啡肽狂龙`: https://ygocdb.com/card/name/恐啡肽狂龙
+.. _`恐啡肽狂龙`: https://ygocdb.com/?search=恐啡肽狂龙
 .. _`幻兽机 全球剑齿虎`: https://ygocdb.com/card/name/幻兽机%20全球剑齿虎
 .. _`龙族·封印的壶`: https://ygocdb.com/card/name/龙族·封印的壶
 .. _`命运英雄 血魔-D`: https://ygocdb.com/card/name/命运英雄%20血魔-D
@@ -1161,7 +1161,7 @@
 .. _`Jo－P.U.N.K. 蜘蛛夫人`: https://ygocdb.com/card/name/Jo－P.U.N.K.%20蜘蛛夫人
 .. _`天罚`: https://ygocdb.com/card/name/天罚
 .. _`命之纲`: https://ygocdb.com/card/name/命之纲
-.. _`战吼`: https://ygocdb.com/card/name/战吼
+.. _`战吼`: https://ygocdb.com/?search=战吼
 .. _`瞬间融合`: https://ygocdb.com/card/name/瞬间融合
 .. _`活死人的呼声`: https://ygocdb.com/card/name/活死人的呼声
 .. _`三刃戟海龙神`: https://ygocdb.com/card/name/三刃戟海龙神
@@ -1176,7 +1176,7 @@
 .. _`脆刃之剑`: https://ygocdb.com/card/name/脆刃之剑
 .. _`地狱将军 墨菲斯特`: https://ygocdb.com/card/name/地狱将军%20墨菲斯特
 .. _`海龟坏兽 加美西耶勒`: https://ygocdb.com/card/name/海龟坏兽%20加美西耶勒
-.. _`罪`: https://ygocdb.com/card/name/罪
+.. _`罪`: https://ygocdb.com/?search=罪
 .. _`恶忍`: https://ygocdb.com/card/name/恶忍
 .. _`猛毒之牙`: https://ygocdb.com/card/name/猛毒之牙
 .. _`传说的渔人`: https://ygocdb.com/card/name/传说的渔人
@@ -1216,12 +1216,12 @@
 .. _`神骑 矢车菊圣人马`: https://ygocdb.com/card/name/神骑%20矢车菊圣人马
 .. _`No.31 亚伯恶魔`: https://ygocdb.com/card/name/No.31%20亚伯恶魔
 .. _`No.95 银河眼暗物质龙`: https://ygocdb.com/card/name/No.95%20银河眼暗物质龙
-.. _`坏兽`: https://ygocdb.com/card/name/坏兽
+.. _`坏兽`: https://ygocdb.com/?search=坏兽
 .. _`太阳神之翼神龙-球体形`: https://ygocdb.com/card/name/太阳神之翼神龙-球体形
 .. _`磁力指轮`: https://ygocdb.com/card/name/磁力指轮
 .. _`英豪挑战者 强袭之戟兵`: https://ygocdb.com/card/name/英豪挑战者%20强袭之戟兵
 .. _`冥界浊龙 龙叹`: https://ygocdb.com/card/name/冥界浊龙%20龙叹
-.. _`威风妖怪`: https://ygocdb.com/card/name/威风妖怪
+.. _`威风妖怪`: https://ygocdb.com/?search=威风妖怪
 .. _`转生炎兽的超转生`: https://ygocdb.com/card/name/转生炎兽的超转生
 .. _`水晶幻透翼同调龙`: https://ygocdb.com/card/name/水晶幻透翼同调龙
 .. _`威吓之咆哮`: https://ygocdb.com/card/name/威吓之咆哮
@@ -1265,7 +1265,7 @@
 .. _`No.39 希望皇 霍普`: https://ygocdb.com/card/name/No.39%20希望皇%20霍普
 .. _`No.73 激泷神 渊涛`: https://ygocdb.com/card/name/No.73%20激泷神%20渊涛
 .. _`急袭猛禽-起翼猎鹰`: https://ygocdb.com/card/name/急袭猛禽-起翼猎鹰
-.. _`龙星`: https://ygocdb.com/card/name/龙星
+.. _`龙星`: https://ygocdb.com/?search=龙星
 .. _`超念导体 比蒙巨兽`: https://ygocdb.com/card/name/超念导体%20比蒙巨兽
 .. _`进化的人类`: https://ygocdb.com/card/name/进化的人类
 .. _`机壳壳层 拒绝`: https://ygocdb.com/card/name/机壳壳层%20拒绝

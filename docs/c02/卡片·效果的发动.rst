@@ -315,13 +315,13 @@
 .. _`饼蛙`: https://ygocdb.com/card/name/饼蛙
 .. _`召唤兽 卡利古拉`: https://ygocdb.com/card/name/召唤兽%20卡利古拉
 .. _`交错之魂`: https://ygocdb.com/card/name/交错之魂
-.. _`神数`: https://ygocdb.com/card/name/神数
+.. _`神数`: https://ygocdb.com/?search=神数
 .. _`无限起动要塞 百万吨百臂狂风`: https://ygocdb.com/card/name/无限起动要塞%20百万吨百臂狂风
 .. _`虚无空间`: https://ygocdb.com/card/name/虚无空间
 .. _`强欲之瓶`: https://ygocdb.com/card/name/强欲之瓶
 .. _`背德的堕天使`: https://ygocdb.com/card/name/背德的堕天使
 .. _`大将军 紫炎`: https://ygocdb.com/card/name/大将军%20紫炎
-.. _`拉比林斯迷宫`: https://ygocdb.com/card/name/拉比林斯迷宫
+.. _`拉比林斯迷宫`: https://ygocdb.com/?search=拉比林斯迷宫
 .. _`珀耳修斯的神域`: https://ygocdb.com/card/name/珀耳修斯的神域
 .. _`溯洸的炼狱`: https://ygocdb.com/card/name/溯洸的炼狱
 .. _`阳炎光轮`: https://ygocdb.com/card/name/阳炎光轮
@@ -334,7 +334,7 @@
 .. _`魔轰神兽 尤尼科`: https://ygocdb.com/card/name/魔轰神兽%20尤尼科
 .. _`洞`: https://ygocdb.com/card/name/洞
 .. _`诱饵人偶`: https://ygocdb.com/card/name/诱饵人偶
-.. _`卡通`: https://ygocdb.com/card/name/卡通
+.. _`卡通`: https://ygocdb.com/?search=卡通
 .. _`龙星的九支`: https://ygocdb.com/card/name/龙星的九支
 .. _`三眼怪`: https://ygocdb.com/card/name/三眼怪
 .. _`宇宙旋风`: https://ygocdb.com/card/name/宇宙旋风
@@ -346,8 +346,8 @@
 .. _`电子龙·无限`: https://ygocdb.com/card/name/电子龙·无限
 .. _`自然蔷薇鞭`: https://ygocdb.com/card/name/自然蔷薇鞭
 .. _`卖棺者`: https://ygocdb.com/card/name/卖棺者
-.. _`魔界剧团`: https://ygocdb.com/card/name/魔界剧团
-.. _`堕天使`: https://ygocdb.com/card/name/堕天使
+.. _`魔界剧团`: https://ygocdb.com/?search=魔界剧团
+.. _`堕天使`: https://ygocdb.com/?search=堕天使
 .. _`力天使 女武神`: https://ygocdb.com/card/name/力天使%20女武神
 .. _`封魔之矢`: https://ygocdb.com/card/name/封魔之矢
 .. _`光之护封剑`: https://ygocdb.com/card/name/光之护封剑
@@ -379,7 +379,7 @@
 .. _`神罚`: https://ygocdb.com/card/name/神罚
 .. _`埋伏破坏`: https://ygocdb.com/card/name/埋伏破坏
 .. _`自尊的咆哮`: https://ygocdb.com/card/name/自尊的咆哮
-.. _`音响战士`: https://ygocdb.com/card/name/音响战士
+.. _`音响战士`: https://ygocdb.com/?search=音响战士
 .. _`爆龙剑士 点火星·日珥`: https://ygocdb.com/card/name/爆龙剑士%20点火星·日珥
 .. _`三战之才`: https://ygocdb.com/card/name/三战之才
 .. _`真龙战士 点火烈·炽热`: https://ygocdb.com/card/name/真龙战士%20点火烈·炽热

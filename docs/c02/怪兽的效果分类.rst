@@ -278,20 +278,20 @@
 .. _`技能抽取`: https://ygocdb.com/card/name/技能抽取
 .. _`群雄割据`: https://ygocdb.com/card/name/群雄割据
 .. _`彼岸的诗人 维吉尔`: https://ygocdb.com/card/name/彼岸的诗人%20维吉尔
-.. _`狱火机`: https://ygocdb.com/card/name/狱火机
-.. _`彼岸`: https://ygocdb.com/card/name/彼岸
-.. _`地缚神`: https://ygocdb.com/card/name/地缚神
+.. _`狱火机`: https://ygocdb.com/?search=狱火机
+.. _`彼岸`: https://ygocdb.com/?search=彼岸
+.. _`地缚神`: https://ygocdb.com/?search=地缚神
 .. _`强制脱出装置`: https://ygocdb.com/card/name/强制脱出装置
 .. _`铁兽战线 克拉斯`: https://ygocdb.com/card/name/铁兽战线%20克拉斯
 .. _`银河眼光子龙`: https://ygocdb.com/card/name/银河眼光子龙
 .. _`DDD 双晓王 末法神`: https://ygocdb.com/card/name/DDD%20双晓王%20末法神
 .. _`虚拟世界`: https://ygocdb.com/card/name/虚拟世界
-.. _`暗黑界`: https://ygocdb.com/card/name/暗黑界
+.. _`暗黑界`: https://ygocdb.com/?search=暗黑界
 .. _`大宇宙`: https://ygocdb.com/card/name/大宇宙
 .. _`水晶翼同调龙`: https://ygocdb.com/card/name/水晶翼同调龙
 .. _`重力炮`: https://ygocdb.com/card/name/重力炮
 .. _`食魂窃蛋龙`: https://ygocdb.com/card/name/食魂窃蛋龙
-.. _`幻变骚灵`: https://ygocdb.com/card/name/幻变骚灵
+.. _`幻变骚灵`: https://ygocdb.com/?search=幻变骚灵
 .. _`蓄积硫酸的落穴`: https://ygocdb.com/card/name/蓄积硫酸的落穴
 .. _`DDD 坏薙王 深渊末日神`: https://ygocdb.com/card/name/DDD%20坏薙王%20深渊末日神
 .. _`命运英雄 血魔-D`: https://ygocdb.com/card/name/命运英雄%20血魔-D
@@ -304,7 +304,7 @@
 .. _`地中族邪界妖魔`: https://ygocdb.com/card/name/地中族邪界妖魔
 .. _`真龙剑皇 卓辉星·拼图`: https://ygocdb.com/card/name/真龙剑皇%20卓辉星·拼图
 .. _`灵灭术师 海空`: https://ygocdb.com/card/name/灵灭术师%20海空
-.. _`御巫`: https://ygocdb.com/card/name/御巫
+.. _`御巫`: https://ygocdb.com/?search=御巫
 .. _`龙子`: https://ygocdb.com/card/name/龙子
 .. _`超合魔兽 拉普提诺斯`: https://ygocdb.com/card/name/超合魔兽%20拉普提诺斯
 .. _`灵魂龙`: https://ygocdb.com/card/name/灵魂龙
@@ -329,7 +329,7 @@
 .. _`寄生融合虫`: https://ygocdb.com/card/name/寄生融合虫
 .. _`起动效果`: https://ygocdb.com/card/name/起动效果
 .. _`淘气仙星·曼珠诗华`: https://ygocdb.com/card/name/淘气仙星·曼珠诗华
-.. _`罪`: https://ygocdb.com/card/name/罪
+.. _`罪`: https://ygocdb.com/?search=罪
 .. _`中断反抗军`: https://ygocdb.com/card/name/中断反抗军
 .. _`虚无魔人`: https://ygocdb.com/card/name/虚无魔人
 .. _`相剑大公 承影`: https://ygocdb.com/card/name/相剑大公%20承影

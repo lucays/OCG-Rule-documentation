@@ -99,7 +99,7 @@
 .. _`珠泪哀歌族·鲁莎卡人鱼`: https://ygocdb.com/card/name/珠泪哀歌族·鲁莎卡人鱼
 .. _`星光大道`: https://ygocdb.com/card/name/星光大道
 .. _`屋敷童`: https://ygocdb.com/card/name/屋敷童
-.. _`堕天使`: https://ygocdb.com/card/name/堕天使
+.. _`堕天使`: https://ygocdb.com/?search=堕天使
 .. _`狱火机 提耶拉`: https://ygocdb.com/card/name/狱火机%20提耶拉
 .. _`古遗物 巨怒剑`: https://ygocdb.com/card/name/古遗物%20巨怒剑
 .. _`紧急仪式术`: https://ygocdb.com/card/name/紧急仪式术
@@ -136,7 +136,7 @@
 .. _`增殖的G`: https://ygocdb.com/card/name/增殖的G
 .. _`冰结界之镜`: https://ygocdb.com/card/name/冰结界之镜
 .. _`娱乐法师 秋千魔术家`: https://ygocdb.com/card/name/娱乐法师%20秋千魔术家
-.. _`银河`: https://ygocdb.com/card/name/银河
+.. _`银河`: https://ygocdb.com/?search=银河
 .. _`影依融合`: https://ygocdb.com/card/name/影依融合
 .. _`日全食之书`: https://ygocdb.com/card/name/日全食之书
 .. _`炎舞-「瑶光」`: https://ygocdb.com/card/name/炎舞-「瑶光」

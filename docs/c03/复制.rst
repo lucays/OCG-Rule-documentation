@@ -206,7 +206,7 @@
 .. _`坏星坏兽 席兹奇埃鲁`: https://ygocdb.com/card/name/坏星坏兽%20席兹奇埃鲁
 .. _`创造之魔导书`: https://ygocdb.com/card/name/创造之魔导书
 .. _`我身作盾`: https://ygocdb.com/card/name/我身作盾
-.. _`剑斗兽`: https://ygocdb.com/card/name/剑斗兽
+.. _`剑斗兽`: https://ygocdb.com/?search=剑斗兽
 .. _`野兽眼灵摆龙`: https://ygocdb.com/card/name/野兽眼灵摆龙
 .. _`克里底亚之牙`: https://ygocdb.com/card/name/克里底亚之牙
 .. _`邪心英雄 暗黑地魔`: https://ygocdb.com/card/name/邪心英雄%20暗黑地魔
@@ -227,7 +227,7 @@
 .. _`神圣防护罩 -反射镜力-`: https://ygocdb.com/card/name/神圣防护罩%20-反射镜力-
 .. _`暗黑融合`: https://ygocdb.com/card/name/暗黑融合
 .. _`超越融合`: https://ygocdb.com/card/name/超越融合
-.. _`耀斑主宰者·许珀里翁`: https://ygocdb.com/card/name/耀斑主宰者·许珀里翁
+.. _`耀斑主宰者·许珀里翁`: https://ygocdb.com/?search=耀斑主宰者·许珀里翁
 .. _`捕食植物 青锁龙森蚺`: https://ygocdb.com/card/name/捕食植物%20青锁龙森蚺
 .. _`混沌幻影`: https://ygocdb.com/card/name/混沌幻影
 .. _`时间魔导士`: https://ygocdb.com/card/name/时间魔导士
@@ -254,7 +254,7 @@
 .. _`机皇帝 神智∞`: https://ygocdb.com/card/name/机皇帝%20神智∞
 .. _`超魔导龙骑士-真红眼龙骑兵`: https://ygocdb.com/card/name/超魔导龙骑士-真红眼龙骑兵
 .. _`融合征兵`: https://ygocdb.com/card/name/融合征兵
-.. _`兽带斗神`: https://ygocdb.com/card/name/兽带斗神
+.. _`兽带斗神`: https://ygocdb.com/?search=兽带斗神
 .. _`巨人轰炸机·大空袭式`: https://ygocdb.com/card/name/巨人轰炸机·大空袭式
 .. _`冰结界的封魔团`: https://ygocdb.com/card/name/冰结界的封魔团
 .. _`王宫的通告`: https://ygocdb.com/card/name/王宫的通告
@@ -271,7 +271,7 @@
 .. _`遗式世传的禁断秘术`: https://ygocdb.com/card/name/遗式世传的禁断秘术
 .. _`源数创造`: https://ygocdb.com/card/name/源数创造
 .. _`孵化`: https://ygocdb.com/card/name/孵化
-.. _`魔导书`: https://ygocdb.com/card/name/魔导书
+.. _`魔导书`: https://ygocdb.com/?search=魔导书
 .. _`转生炎兽 烈焰龙`: https://ygocdb.com/card/name/转生炎兽%20烈焰龙
 .. _`奥金魔导师`: https://ygocdb.com/card/name/奥金魔导师
 .. _`化学结合-H2O`: https://ygocdb.com/card/name/化学结合-H2O
@@ -309,7 +309,7 @@
 .. _`黑暗中的陷阱`: https://ygocdb.com/card/name/黑暗中的陷阱
 .. _`召唤反应机·大式`: https://ygocdb.com/card/name/召唤反应机·大式
 .. _`拟似空间`: https://ygocdb.com/card/name/拟似空间
-.. _`元素英雄`: https://ygocdb.com/card/name/元素英雄
+.. _`元素英雄`: https://ygocdb.com/?search=元素英雄
 .. _`太阴之咒眼`: https://ygocdb.com/card/name/太阴之咒眼
 .. _`巨星坠`: https://ygocdb.com/card/name/巨星坠
 .. _`恐啡肽狂龙逆转`: https://ygocdb.com/card/name/恐啡肽狂龙逆转

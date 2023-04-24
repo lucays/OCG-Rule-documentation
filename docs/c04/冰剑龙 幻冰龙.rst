@@ -68,6 +68,6 @@
 .. _`古遗物-圣枪`: https://ygocdb.com/card/name/古遗物-圣枪
 .. _`闭锁世界的冥神`: https://ygocdb.com/card/name/闭锁世界的冥神
 .. _`阿不思的落胤`: https://ygocdb.com/card/name/阿不思的落胤
-.. _`坏兽`: https://ygocdb.com/card/name/坏兽
+.. _`坏兽`: https://ygocdb.com/?search=坏兽
 .. _`星尘龙`: https://ygocdb.com/card/name/星尘龙
 .. _`纳祭之魔`: https://ygocdb.com/card/name/纳祭之魔

@@ -1322,7 +1322,7 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 .. _`进击的帝王`: https://ygocdb.com/card/name/进击的帝王
 .. _`升阶魔法-七皇之剑`: https://ygocdb.com/card/name/升阶魔法-七皇之剑
 .. _`神之警告`: https://ygocdb.com/card/name/神之警告
-.. _`妖仙兽`: https://ygocdb.com/card/name/妖仙兽
+.. _`妖仙兽`: https://ygocdb.com/?search=妖仙兽
 .. _`罪 世界`: https://ygocdb.com/card/name/罪%20世界
 .. _`激流葬`: https://ygocdb.com/card/name/激流葬
 .. _`调皮宝贝屋子管家`: https://ygocdb.com/card/name/调皮宝贝屋子管家
@@ -1371,7 +1371,7 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 .. _`磁石战士β`: https://ygocdb.com/card/name/磁石战士β
 .. _`暗迁士 黑蛇晶`: https://ygocdb.com/card/name/暗迁士%20黑蛇晶
 .. _`急袭猛禽-骷髅雕`: https://ygocdb.com/card/name/急袭猛禽-骷髅雕
-.. _`剑斗兽`: https://ygocdb.com/card/name/剑斗兽
+.. _`剑斗兽`: https://ygocdb.com/?search=剑斗兽
 .. _`简易融合`: https://ygocdb.com/card/name/简易融合
 .. _`过火的埋葬`: https://ygocdb.com/card/name/过火的埋葬
 .. _`未界域的天蛾人`: https://ygocdb.com/card/name/未界域的天蛾人
@@ -1384,7 +1384,7 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 .. _`暗黑使魔`: https://ygocdb.com/card/name/暗黑使魔
 .. _`帝王的轰毅`: https://ygocdb.com/card/name/帝王的轰毅
 .. _`雷神龙-雷龙`: https://ygocdb.com/card/name/雷神龙-雷龙
-.. _`神数`: https://ygocdb.com/card/name/神数
+.. _`神数`: https://ygocdb.com/?search=神数
 .. _`虹之古代都市`: https://ygocdb.com/card/name/虹之古代都市
 .. _`虚无空间`: https://ygocdb.com/card/name/虚无空间
 .. _`旧神 诺登`: https://ygocdb.com/card/name/旧神%20诺登
@@ -1402,7 +1402,7 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 .. _`颉颃胜负`: https://ygocdb.com/card/name/颉颃胜负
 .. _`幻影骑士团 破手套`: https://ygocdb.com/card/name/幻影骑士团%20破手套
 .. _`剑斗兽 凯撒`: https://ygocdb.com/card/name/剑斗兽%20凯撒
-.. _`忍者`: https://ygocdb.com/card/name/忍者
+.. _`忍者`: https://ygocdb.com/?search=忍者
 .. _`混沌幻魔 阿米泰尔-虚无幻影罗生闷`: https://ygocdb.com/card/name/混沌幻魔%20阿米泰尔-虚无幻影罗生闷
 .. _`骷髅炎鬼`: https://ygocdb.com/card/name/骷髅炎鬼
 .. _`DNA定期健诊`: https://ygocdb.com/card/name/DNA定期健诊
@@ -1422,7 +1422,7 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 .. _`妖精啦啦队少女`: https://ygocdb.com/card/name/妖精啦啦队少女
 .. _`爱恶作剧的双子恶魔`: https://ygocdb.com/card/name/爱恶作剧的双子恶魔
 .. _`夜摄`: https://ygocdb.com/card/name/夜摄
-.. _`转生炎兽`: https://ygocdb.com/card/name/转生炎兽
+.. _`转生炎兽`: https://ygocdb.com/?search=转生炎兽
 .. _`血腥魔兽人帝王`: https://ygocdb.com/card/name/血腥魔兽人帝王
 .. _`爆龙剑士 点火星·日珥`: https://ygocdb.com/card/name/爆龙剑士%20点火星·日珥
 .. _`D.D.乌鸦`: https://ygocdb.com/card/name/D.D.乌鸦
@@ -1431,12 +1431,12 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 .. _`护封剑之剑士`: https://ygocdb.com/card/name/护封剑之剑士
 .. _`次元反射镜`: https://ygocdb.com/card/name/次元反射镜
 .. _`冥府之使者衍生物`: https://ygocdb.com/card/name/冥府之使者衍生物
-.. _`星因士`: https://ygocdb.com/card/name/星因士
+.. _`星因士`: https://ygocdb.com/?search=星因士
 .. _`超合魔兽 拉普提诺斯`: https://ygocdb.com/card/name/超合魔兽%20拉普提诺斯
 .. _`超级团队伙伴之力集结！`: https://ygocdb.com/card/name/超级团队伙伴之力集结！
 .. _`废铁像`: https://ygocdb.com/card/name/废铁像
 .. _`奥金魔导师`: https://ygocdb.com/card/name/奥金魔导师
-.. _`机皇帝`: https://ygocdb.com/card/name/机皇帝
+.. _`机皇帝`: https://ygocdb.com/?search=机皇帝
 .. _`奇迹接触`: https://ygocdb.com/card/name/奇迹接触
 .. _`暗黑界的龙神 格拉法`: https://ygocdb.com/card/name/暗黑界的龙神%20格拉法
 .. _`雷龙融合`: https://ygocdb.com/card/name/雷龙融合
@@ -1449,13 +1449,13 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 .. _`火焰手`: https://ygocdb.com/card/name/火焰手
 .. _`磁石战士γ`: https://ygocdb.com/card/name/磁石战士γ
 .. _`星圣·北河三`: https://ygocdb.com/card/name/星圣·北河三
-.. _`雷龙`: https://ygocdb.com/card/name/雷龙
+.. _`雷龙`: https://ygocdb.com/?search=雷龙
 .. _`钢核的光辉`: https://ygocdb.com/card/name/钢核的光辉
 .. _`雪人食人怪`: https://ygocdb.com/card/name/雪人食人怪
 .. _`电子光虫-核心菜粉蝶`: https://ygocdb.com/card/name/电子光虫-核心菜粉蝶
 .. _`神兽王 巴巴罗斯`: https://ygocdb.com/card/name/神兽王%20巴巴罗斯
 .. _`星圣·草帽星系`: https://ygocdb.com/card/name/星圣·草帽星系
-.. _`宝玉兽`: https://ygocdb.com/card/name/宝玉兽
+.. _`宝玉兽`: https://ygocdb.com/?search=宝玉兽
 .. _`鹰身女妖的羽毛扫`: https://ygocdb.com/card/name/鹰身女妖的羽毛扫
 .. _`孤火花`: https://ygocdb.com/card/name/孤火花
 .. _`寒冰手`: https://ygocdb.com/card/name/寒冰手
@@ -1474,7 +1474,7 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 .. _`魔王 迪亚波罗斯`: https://ygocdb.com/card/name/魔王%20迪亚波罗斯
 .. _`电子龙`: https://ygocdb.com/card/name/电子龙
 .. _`光之引导`: https://ygocdb.com/card/name/光之引导
-.. _`精灵兽`: https://ygocdb.com/card/name/精灵兽
+.. _`精灵兽`: https://ygocdb.com/?search=精灵兽
 .. _`宫廷的规矩`: https://ygocdb.com/card/name/宫廷的规矩
 .. _`混沌战士 -开辟的使者-`: https://ygocdb.com/card/name/混沌战士%20-开辟的使者-
 .. _`弹幕回避`: https://ygocdb.com/card/name/弹幕回避
@@ -1521,7 +1521,7 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 .. _`超顶科技血神翼龙`: https://ygocdb.com/card/name/超顶科技血神翼龙
 .. _`宝石骑士·黄玉`: https://ygocdb.com/card/name/宝石骑士·黄玉
 .. _`武装锻炼`: https://ygocdb.com/card/name/武装锻炼
-.. _`森罗`: https://ygocdb.com/card/name/森罗
+.. _`森罗`: https://ygocdb.com/?search=森罗
 .. _`大逮捕`: https://ygocdb.com/card/name/大逮捕
 .. _`敌人控制器`: https://ygocdb.com/card/name/敌人控制器
 .. _`青眼双爆裂龙`: https://ygocdb.com/card/name/青眼双爆裂龙
@@ -1534,7 +1534,7 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 .. _`金属反射史莱姆`: https://ygocdb.com/card/name/金属反射史莱姆
 .. _`火之迦具土`: https://ygocdb.com/card/name/火之迦具土
 .. _`电子化恶魔`: https://ygocdb.com/card/name/电子化恶魔
-.. _`巨大战舰`: https://ygocdb.com/card/name/巨大战舰
+.. _`巨大战舰`: https://ygocdb.com/?search=巨大战舰
 .. _`No.66 霸键甲虫`: https://ygocdb.com/card/name/No.66%20霸键甲虫
 .. _`群雄割据`: https://ygocdb.com/card/name/群雄割据
 .. _`强制脱出装置`: https://ygocdb.com/card/name/强制脱出装置
@@ -1542,7 +1542,7 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 .. _`十二兽 蛇笞`: https://ygocdb.com/card/name/十二兽%20蛇笞
 .. _`银河眼光子龙`: https://ygocdb.com/card/name/银河眼光子龙
 .. _`死灵佐玛`: https://ygocdb.com/card/name/死灵佐玛
-.. _`暗黑界`: https://ygocdb.com/card/name/暗黑界
+.. _`暗黑界`: https://ygocdb.com/?search=暗黑界
 .. _`大宇宙`: https://ygocdb.com/card/name/大宇宙
 .. _`古代的机械巨人`: https://ygocdb.com/card/name/古代的机械巨人
 .. _`迷宮壁`: https://ygocdb.com/card/name/迷宮壁
@@ -1569,7 +1569,7 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 .. _`真红眼黑刃龙`: https://ygocdb.com/card/name/真红眼黑刃龙
 .. _`活死人的呼声`: https://ygocdb.com/card/name/活死人的呼声
 .. _`地帝 格兰玛格`: https://ygocdb.com/card/name/地帝%20格兰玛格
-.. _`灵兽使`: https://ygocdb.com/card/name/灵兽使
+.. _`灵兽使`: https://ygocdb.com/?search=灵兽使
 .. _`盲信的哥布林`: https://ygocdb.com/card/name/盲信的哥布林
 .. _`拼缝型毛绒动物`: https://ygocdb.com/card/name/拼缝型毛绒动物
 .. _`次元海市蜃楼`: https://ygocdb.com/card/name/次元海市蜃楼
@@ -1589,7 +1589,7 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 .. _`精灵之镜`: https://ygocdb.com/card/name/精灵之镜
 .. _`对调英雄`: https://ygocdb.com/card/name/对调英雄
 .. _`电子化天使-荼吉尼-`: https://ygocdb.com/card/name/电子化天使-荼吉尼-
-.. _`影依`: https://ygocdb.com/card/name/影依
+.. _`影依`: https://ygocdb.com/?search=影依
 .. _`宝石骑士·珍珠`: https://ygocdb.com/card/name/宝石骑士·珍珠
 .. _`魔天使 蔷薇之巫师`: https://ygocdb.com/card/name/魔天使%20蔷薇之巫师
 .. _`究极封印神 艾克佐迪奥斯`: https://ygocdb.com/card/name/究极封印神%20艾克佐迪奥斯
@@ -1619,7 +1619,7 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 .. _`黑炎龙 LV6`: https://ygocdb.com/card/name/黑炎龙%20LV6
 .. _`深渊死球`: https://ygocdb.com/card/name/深渊死球
 .. _`无抵抗的真相`: https://ygocdb.com/card/name/无抵抗的真相
-.. _`融合咒印生物`: https://ygocdb.com/card/name/融合咒印生物
+.. _`融合咒印生物`: https://ygocdb.com/?search=融合咒印生物
 .. _`暗黑界的术师 丝诺`: https://ygocdb.com/card/name/暗黑界的术师%20丝诺
 .. _`开辟之骑士`: https://ygocdb.com/card/name/开辟之骑士
 .. _`活化石`: https://ygocdb.com/card/name/活化石
@@ -1628,7 +1628,7 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 .. _`上千主上的契约`: https://ygocdb.com/card/name/上千主上的契约
 .. _`强制终了`: https://ygocdb.com/card/name/强制终了
 .. _`云魔物-酸云`: https://ygocdb.com/card/name/云魔物-酸云
-.. _`光子`: https://ygocdb.com/card/name/光子
+.. _`光子`: https://ygocdb.com/?search=光子
 .. _`陷阱封印咒符`: https://ygocdb.com/card/name/陷阱封印咒符
 .. _`烈华炮舰 抚子`: https://ygocdb.com/card/name/烈华炮舰%20抚子
 .. _`No.101 寂静荣誉方舟骑士`: https://ygocdb.com/card/name/No.101%20寂静荣誉方舟骑士
@@ -1706,7 +1706,7 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 .. _`左腕的代偿`: https://ygocdb.com/card/name/左腕的代偿
 .. _`No.81 超重型炮塔列车 优越多拉炮`: https://ygocdb.com/card/name/No.81%20超重型炮塔列车%20优越多拉炮
 .. _`被封印的艾克佐迪亚`: https://ygocdb.com/card/name/被封印的艾克佐迪亚
-.. _`混沌战士`: https://ygocdb.com/card/name/混沌战士
+.. _`混沌战士`: https://ygocdb.com/?search=混沌战士
 .. _`暗黑神鸟 斯摩夫`: https://ygocdb.com/card/name/暗黑神鸟%20斯摩夫
 .. _`幻影骑士团 失常磁环`: https://ygocdb.com/card/name/幻影骑士团%20失常磁环
 .. _`超魔导龙骑士-真红眼龙骑士`: https://ygocdb.com/card/name/超魔导龙骑士-真红眼龙骑士

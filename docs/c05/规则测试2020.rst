@@ -170,7 +170,7 @@
 .. _`苦纹样的土像`: https://ygocdb.com/card/name/苦纹样的土像
 .. _`绝望天王星`: https://ygocdb.com/card/name/绝望天王星
 .. _`堕天使 内尔伽勒`: https://ygocdb.com/card/name/堕天使%20内尔伽勒
-.. _`星遗物`: https://ygocdb.com/card/name/星遗物
+.. _`星遗物`: https://ygocdb.com/?search=星遗物
 .. _`真源的帝王`: https://ygocdb.com/card/name/真源的帝王
 .. _`和睦的使者`: https://ygocdb.com/card/name/和睦的使者
 .. _`怨邪帝 盖乌斯`: https://ygocdb.com/card/name/怨邪帝%20盖乌斯
@@ -207,7 +207,7 @@
 .. _`屋敷童`: https://ygocdb.com/card/name/屋敷童
 .. _`解码语者`: https://ygocdb.com/card/name/解码语者
 .. _`技能抽取`: https://ygocdb.com/card/name/技能抽取
-.. _`狱火机`: https://ygocdb.com/card/name/狱火机
+.. _`狱火机`: https://ygocdb.com/?search=狱火机
 .. _`圣像骑士`: https://ygocdb.com/card/name/圣像骑士
 .. _`强制脱出装置`: https://ygocdb.com/card/name/强制脱出装置
 .. _`机巧蛇-丛云远吕智`: https://ygocdb.com/card/name/机巧蛇-丛云远吕智
@@ -217,7 +217,7 @@
 .. _`暗黑方界神 深红之挪婆`: https://ygocdb.com/card/name/暗黑方界神%20深红之挪婆
 .. _`墓穴之指名者`: https://ygocdb.com/card/name/墓穴之指名者
 .. _`暴走魔法阵`: https://ygocdb.com/card/name/暴走魔法阵
-.. _`转生炎兽`: https://ygocdb.com/card/name/转生炎兽
+.. _`转生炎兽`: https://ygocdb.com/?search=转生炎兽
 .. _`月之书`: https://ygocdb.com/card/name/月之书
 .. _`自尊的咆哮`: https://ygocdb.com/card/name/自尊的咆哮
 .. _`混沌壶`: https://ygocdb.com/card/name/混沌壶
@@ -226,7 +226,7 @@
 .. _`天罚`: https://ygocdb.com/card/name/天罚
 .. _`宵星之机神 丁吉尔苏`: https://ygocdb.com/card/name/宵星之机神%20丁吉尔苏
 .. _`炼狱的消华`: https://ygocdb.com/card/name/炼狱的消华
-.. _`魔弹`: https://ygocdb.com/card/name/魔弹
+.. _`魔弹`: https://ygocdb.com/?search=魔弹
 .. _`旅人的试练`: https://ygocdb.com/card/name/旅人的试练
 .. _`No.81 超重型炮塔列车 优越多拉炮`: https://ygocdb.com/card/name/No.81%20超重型炮塔列车%20优越多拉炮
 .. _`活死人的呼声`: https://ygocdb.com/card/name/活死人的呼声

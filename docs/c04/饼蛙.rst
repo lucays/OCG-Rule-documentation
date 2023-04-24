@@ -102,7 +102,7 @@
 .. _`个人欺骗攻击`: https://ygocdb.com/card/name/个人欺骗攻击
 .. _`古代的机械要塞`: https://ygocdb.com/card/name/古代的机械要塞
 .. _`暗黑神鸟`: https://ygocdb.com/card/name/暗黑神鸟
-.. _`青蛙`: https://ygocdb.com/card/name/青蛙
+.. _`青蛙`: https://ygocdb.com/?search=青蛙
 .. _`次元反射镜`: https://ygocdb.com/card/name/次元反射镜
 .. _`三眼怪`: https://ygocdb.com/card/name/三眼怪
 .. _`娱乐伙伴 副手驴`: https://ygocdb.com/card/name/娱乐伙伴%20副手驴

@@ -197,7 +197,7 @@ P召唤                                 ×                ○                   
    | 例：
    | 「`古代的机械究极巨人`_」的③效果可以特殊召唤记述了『这张卡不能特殊召唤』的「`古代的机械巨人`_」。此外作为通常召唤怪兽的「`古代的机械巨人`_」没有苏生限制，即使直接从手卡·卡组送去墓地也可以这样无视召唤条件特殊召唤。
 
-.. _`传说的骑士`: https://ygocdb.com/card/name/传说的骑士
+.. _`传说的骑士`: https://ygocdb.com/?search=传说的骑士
 .. _`精灵兽使 薇茵妲`: https://ygocdb.com/card/name/精灵兽使%20薇茵妲
 .. _`冥界的魔王 哈·迪斯`: https://ygocdb.com/card/name/冥界的魔王%20哈·迪斯
 .. _`王家长眠之谷`: https://ygocdb.com/card/name/王家长眠之谷
@@ -210,7 +210,7 @@ P召唤                                 ×                ○                   
 .. _`武装龙 LV10`: https://ygocdb.com/card/name/武装龙%20LV10
 .. _`同盟运输车`: https://ygocdb.com/card/name/同盟运输车
 .. _`简易融合`: https://ygocdb.com/card/name/简易融合
-.. _`影灵衣`: https://ygocdb.com/card/name/影灵衣
+.. _`影灵衣`: https://ygocdb.com/?search=影灵衣
 .. _`超量调换`: https://ygocdb.com/card/name/超量调换
 .. _`光与暗之龙`: https://ygocdb.com/card/name/光与暗之龙
 .. _`星光大道`: https://ygocdb.com/card/name/星光大道
@@ -224,7 +224,7 @@ P召唤                                 ×                ○                   
 .. _`青色眼睛的少女`: https://ygocdb.com/card/name/青色眼睛的少女
 .. _`青眼混沌龙`: https://ygocdb.com/card/name/青眼混沌龙
 .. _`神之宣告`: https://ygocdb.com/card/name/神之宣告
-.. _`究极宝玉神`: https://ygocdb.com/card/name/究极宝玉神
+.. _`究极宝玉神`: https://ygocdb.com/?search=究极宝玉神
 .. _`武装龙 LV7`: https://ygocdb.com/card/name/武装龙%20LV7
 .. _`狱火机·拿玛`: https://ygocdb.com/card/name/狱火机·拿玛
 .. _`光道兽 沃尔夫`: https://ygocdb.com/card/name/光道兽%20沃尔夫
@@ -249,7 +249,7 @@ P召唤                                 ×                ○                   
 .. _`宏大木星`: https://ygocdb.com/card/name/宏大木星
 .. _`毒蛇神 维诺米纳迦`: https://ygocdb.com/card/name/毒蛇神%20维诺米纳迦
 .. _`彼岸的诗人 维吉尔`: https://ygocdb.com/card/name/彼岸的诗人%20维吉尔
-.. _`狱火机`: https://ygocdb.com/card/name/狱火机
+.. _`狱火机`: https://ygocdb.com/?search=狱火机
 .. _`青眼亚白龙`: https://ygocdb.com/card/name/青眼亚白龙
 .. _`融合禁止区域`: https://ygocdb.com/card/name/融合禁止区域
 .. _`群豪世界-真罗万象`: https://ygocdb.com/card/name/群豪世界-真罗万象

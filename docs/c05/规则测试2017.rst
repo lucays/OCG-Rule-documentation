@@ -217,7 +217,7 @@
 .. _`元素英雄 影雾女郎`: https://ygocdb.com/card/name/元素英雄%20影雾女郎
 .. _`禁止令`: https://ygocdb.com/card/name/禁止令
 .. _`影依的原核`: https://ygocdb.com/card/name/影依的原核
-.. _`魔玩具`: https://ygocdb.com/card/name/魔玩具
+.. _`魔玩具`: https://ygocdb.com/?search=魔玩具
 .. _`奇妙超量`: https://ygocdb.com/card/name/奇妙超量
 .. _`破坏轮`: https://ygocdb.com/card/name/破坏轮
 .. _`魔轰神兽·凯西`: https://ygocdb.com/card/name/魔轰神兽·凯西
@@ -253,9 +253,9 @@
 .. _`影灵衣的返魂术`: https://ygocdb.com/card/name/影灵衣的返魂术
 .. _`光道暗杀者`: https://ygocdb.com/card/name/光道暗杀者
 .. _`拘束解放波`: https://ygocdb.com/card/name/拘束解放波
-.. _`星因士`: https://ygocdb.com/card/name/星因士
+.. _`星因士`: https://ygocdb.com/?search=星因士
 .. _`假面英雄 暗爪`: https://ygocdb.com/card/name/假面英雄%20暗爪
-.. _`毛绒动物`: https://ygocdb.com/card/name/毛绒动物
+.. _`毛绒动物`: https://ygocdb.com/?search=毛绒动物
 .. _`机壳的再星`: https://ygocdb.com/card/name/机壳的再星
 .. _`决战兵器之影灵衣`: https://ygocdb.com/card/name/决战兵器之影灵衣
 .. _`混沌No.88 机关傀儡-灾厄狮子`: https://ygocdb.com/card/name/混沌No.88%20机关傀儡-灾厄狮子

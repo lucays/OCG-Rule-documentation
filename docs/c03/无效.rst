@@ -415,7 +415,7 @@
 .. _`黑魔导阵`: https://ygocdb.com/card/name/黑魔导阵
 .. _`灰流丽`: https://ygocdb.com/card/name/灰流丽
 .. _`闪刀姬`: https://ygocdb.com/card/name/闪刀姬
-.. _`银河`: https://ygocdb.com/card/name/银河
+.. _`银河`: https://ygocdb.com/?search=银河
 .. _`突击指令`: https://ygocdb.com/card/name/突击指令
 .. _`王宫的弹压`: https://ygocdb.com/card/name/王宫的弹压
 .. _`星际仙踪-翠玉都`: https://ygocdb.com/card/name/星际仙踪-翠玉都
@@ -465,7 +465,7 @@
 .. _`女神的圣弓-矢月`: https://ygocdb.com/card/name/女神的圣弓-矢月
 .. _`虹之古代都市`: https://ygocdb.com/card/name/虹之古代都市
 .. _`旧神 诺登`: https://ygocdb.com/card/name/旧神%20诺登
-.. _`虚无空间`: https://ygocdb.com/card/name/虚无空间
+.. _`虚无空间`: https://ygocdb.com/?search=虚无空间
 .. _`狱火机·拿玛`: https://ygocdb.com/card/name/狱火机·拿玛
 .. _`真红眼黑炎龙`: https://ygocdb.com/card/name/真红眼黑炎龙
 .. _`珀耳修斯的神域`: https://ygocdb.com/card/name/珀耳修斯的神域
@@ -486,7 +486,7 @@
 .. _`魔轰神兽 尤尼科`: https://ygocdb.com/card/name/魔轰神兽%20尤尼科
 .. _`失乐之霹雳`: https://ygocdb.com/card/name/失乐之霹雳
 .. _`诱饵人偶`: https://ygocdb.com/card/name/诱饵人偶
-.. _`卡通`: https://ygocdb.com/card/name/卡通
+.. _`卡通`: https://ygocdb.com/?search=卡通
 .. _`龙星的九支`: https://ygocdb.com/card/name/龙星的九支
 .. _`星尘龙`: https://ygocdb.com/card/name/星尘龙
 .. _`奇妙超量`: https://ygocdb.com/card/name/奇妙超量
@@ -496,7 +496,7 @@
 .. _`炼狱的虚梦`: https://ygocdb.com/card/name/炼狱的虚梦
 .. _`沉默之剑`: https://ygocdb.com/card/name/沉默之剑
 .. _`卡通王国`: https://ygocdb.com/card/name/卡通王国
-.. _`水精鳞`: https://ygocdb.com/card/name/水精鳞
+.. _`水精鳞`: https://ygocdb.com/?search=水精鳞
 .. _`电子龙·无限`: https://ygocdb.com/card/name/电子龙·无限
 .. _`王宫的铁壁`: https://ygocdb.com/card/name/王宫的铁壁
 .. _`魔族之链`: https://ygocdb.com/card/name/魔族之链
@@ -512,7 +512,7 @@
 .. _`技能抽取`: https://ygocdb.com/card/name/技能抽取
 .. _`No.90 银河眼光子卿`: https://ygocdb.com/card/name/No.90%20银河眼光子卿
 .. _`极战机王 战神机人`: https://ygocdb.com/card/name/极战机王%20战神机人
-.. _`彼岸`: https://ygocdb.com/card/name/彼岸
+.. _`彼岸`: https://ygocdb.com/?search=彼岸
 .. _`青眼亚白龙`: https://ygocdb.com/card/name/青眼亚白龙
 .. _`便乘`: https://ygocdb.com/card/name/便乘
 .. _`庄严的机械天使`: https://ygocdb.com/card/name/庄严的机械天使
@@ -526,7 +526,7 @@
 .. _`沉默剑士 LV7`: https://ygocdb.com/card/name/沉默剑士%20LV7
 .. _`魔界剧场「奇幻剧场」`: https://ygocdb.com/card/name/魔界剧场「奇幻剧场」
 .. _`王宫的通告`: https://ygocdb.com/card/name/王宫的通告
-.. _`龙星`: https://ygocdb.com/card/name/龙星
+.. _`龙星`: https://ygocdb.com/?search=龙星
 .. _`DDD 双晓王 末法神`: https://ygocdb.com/card/name/DDD%20双晓王%20末法神
 .. _`凤翼的爆风`: https://ygocdb.com/card/name/凤翼的爆风
 .. _`下克上的首饰`: https://ygocdb.com/card/name/下克上的首饰
@@ -536,7 +536,7 @@
 .. _`大宇宙`: https://ygocdb.com/card/name/大宇宙
 .. _`重力炮`: https://ygocdb.com/card/name/重力炮
 .. _`暴走魔法阵`: https://ygocdb.com/card/name/暴走魔法阵
-.. _`幻变骚灵`: https://ygocdb.com/card/name/幻变骚灵
+.. _`幻变骚灵`: https://ygocdb.com/?search=幻变骚灵
 .. _`始祖守护者 提拉斯`: https://ygocdb.com/card/name/始祖守护者%20提拉斯
 .. _`神殿守卫者`: https://ygocdb.com/card/name/神殿守卫者
 .. _`命运英雄 血魔-D`: https://ygocdb.com/card/name/命运英雄%20血魔-D
@@ -597,12 +597,12 @@
 .. _`孤火花`: https://ygocdb.com/card/name/孤火花
 .. _`死灵骑士`: https://ygocdb.com/card/name/死灵骑士
 .. _`星尘龙/爆裂体`: https://ygocdb.com/card/name/星尘龙/爆裂体
-.. _`罪`: https://ygocdb.com/card/name/罪
+.. _`罪`: https://ygocdb.com/?search=罪
 .. _`幻妖 胡尔德拉`: https://ygocdb.com/card/name/幻妖%20胡尔德拉
 .. _`白银之迷宫城`: https://ygocdb.com/card/name/白银之迷宫城
 .. _`废品同调士`: https://ygocdb.com/card/name/废品同调士
 .. _`喧闹的邪恶灵`: https://ygocdb.com/card/name/喧闹的邪恶灵
-.. _`码语者`: https://ygocdb.com/card/name/码语者
+.. _`码语者`: https://ygocdb.com/?search=码语者
 .. _`漆黑之魔王 LV8`: https://ygocdb.com/card/name/漆黑之魔王%20LV8
 .. _`春化精的女神 春`: https://ygocdb.com/card/name/春化精的女神%20春
 .. _`篮板球`: https://ygocdb.com/card/name/篮板球

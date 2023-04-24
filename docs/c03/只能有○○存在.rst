@@ -272,8 +272,8 @@
 .. _`守墓的侦察者`: https://ygocdb.com/card/name/守墓的侦察者
 .. _`被选中者`: https://ygocdb.com/card/name/被选中者
 .. _`融合`: https://ygocdb.com/card/name/融合
-.. _`假面英雄`: https://ygocdb.com/card/name/假面英雄
-.. _`英雄`: https://ygocdb.com/card/name/英雄
+.. _`假面英雄`: https://ygocdb.com/?search=假面英雄
+.. _`英雄`: https://ygocdb.com/?search=英雄
 .. _`真红眼黑龙`: https://ygocdb.com/card/name/真红眼黑龙
 .. _`武神器-羽羽斩`: https://ygocdb.com/card/name/武神器-羽羽斩
 .. _`神禽王 亚力克特`: https://ygocdb.com/card/name/神禽王%20亚力克特
@@ -281,8 +281,8 @@
 .. _`异次元战士`: https://ygocdb.com/card/name/异次元战士
 .. _`真红眼溯刻龙`: https://ygocdb.com/card/name/真红眼溯刻龙
 .. _`灵魂鸟衍生物`: https://ygocdb.com/card/name/灵魂鸟衍生物
-.. _`剑斗兽`: https://ygocdb.com/card/name/剑斗兽
-.. _`坏兽`: https://ygocdb.com/card/name/坏兽
+.. _`剑斗兽`: https://ygocdb.com/?search=剑斗兽
+.. _`坏兽`: https://ygocdb.com/?search=坏兽
 .. _`强制转移`: https://ygocdb.com/card/name/强制转移
 .. _`圣剑 加拉廷`: https://ygocdb.com/card/name/圣剑%20加拉廷
 .. _`异热同心武器-极星神马圣铠`: https://ygocdb.com/card/name/异热同心武器-极星神马圣铠
@@ -299,7 +299,7 @@
 .. _`召唤师 阿莱斯特`: https://ygocdb.com/card/name/召唤师%20阿莱斯特
 .. _`召唤僧`: https://ygocdb.com/card/name/召唤僧
 .. _`罪 十字`: https://ygocdb.com/card/name/罪%20十字
-.. _`魔妖`: https://ygocdb.com/card/name/魔妖
+.. _`魔妖`: https://ygocdb.com/?search=魔妖
 .. _`魔术师的导门阵`: https://ygocdb.com/card/name/魔术师的导门阵
 .. _`武神姬-淡岛`: https://ygocdb.com/card/name/武神姬-淡岛
 .. _`龙呼相争`: https://ygocdb.com/card/name/龙呼相争
@@ -324,9 +324,9 @@
 .. _`技能抽取`: https://ygocdb.com/card/name/技能抽取
 .. _`群雄割据`: https://ygocdb.com/card/name/群雄割据
 .. _`彼岸的诗人 维吉尔`: https://ygocdb.com/card/name/彼岸的诗人%20维吉尔
-.. _`彼岸`: https://ygocdb.com/card/name/彼岸
+.. _`彼岸`: https://ygocdb.com/?search=彼岸
 .. _`十二兽的会局`: https://ygocdb.com/card/name/十二兽的会局
-.. _`地缚神`: https://ygocdb.com/card/name/地缚神
+.. _`地缚神`: https://ygocdb.com/?search=地缚神
 .. _`铁兽战线 克拉斯`: https://ygocdb.com/card/name/铁兽战线%20克拉斯
 .. _`元素英雄 荒野侠`: https://ygocdb.com/card/name/元素英雄%20荒野侠
 .. _`王宫的通告`: https://ygocdb.com/card/name/王宫的通告
@@ -366,7 +366,7 @@
 .. _`孤火花`: https://ygocdb.com/card/name/孤火花
 .. _`元素灵剑士·日炙`: https://ygocdb.com/card/name/元素灵剑士·日炙
 .. _`亚马逊宠物仔虎`: https://ygocdb.com/card/name/亚马逊宠物仔虎
-.. _`罪`: https://ygocdb.com/card/name/罪
+.. _`罪`: https://ygocdb.com/?search=罪
 .. _`尘妖的拖把`: https://ygocdb.com/card/name/尘妖的拖把
 .. _`精灵术师 树精`: https://ygocdb.com/card/name/精灵术师%20树精
 .. _`燕巢`: https://ygocdb.com/card/name/燕巢

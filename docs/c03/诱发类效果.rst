@@ -678,14 +678,14 @@
 .. _`激流葬`: https://ygocdb.com/card/name/激流葬
 .. _`个人欺骗攻击`: https://ygocdb.com/card/name/个人欺骗攻击
 .. _`影依融合`: https://ygocdb.com/card/name/影依融合
-.. _`芳香`: https://ygocdb.com/card/name/芳香
+.. _`芳香`: https://ygocdb.com/?search=芳香
 .. _`哥布林德伯格`: https://ygocdb.com/card/name/哥布林德伯格
 .. _`斯芬克斯·安德鲁吉尼斯`: https://ygocdb.com/card/name/斯芬克斯·安德鲁吉尼斯
 .. _`森之番人 绿狒狒`: https://ygocdb.com/card/name/森之番人%20绿狒狒
 .. _`正正堂堂`: https://ygocdb.com/card/name/正正堂堂
 .. _`影蜥蜴`: https://ygocdb.com/card/name/影蜥蜴
 .. _`影依猎鹰`: https://ygocdb.com/card/name/影依猎鹰
-.. _`古遗物`: https://ygocdb.com/card/name/古遗物
+.. _`古遗物`: https://ygocdb.com/?search=古遗物
 .. _`超电导战机 皇神磁炮王`: https://ygocdb.com/card/name/超电导战机%20皇神磁炮王
 .. _`冥王龙 断罪神`: https://ygocdb.com/card/name/冥王龙%20断罪神
 .. _`旋风`: https://ygocdb.com/card/name/旋风
@@ -698,7 +698,7 @@
 .. _`真红眼烧灭`: https://ygocdb.com/card/name/真红眼烧灭
 .. _`六花圣 泪滴花束雪花莲`: https://ygocdb.com/card/name/六花圣%20泪滴花束雪花莲
 .. _`幻变骚灵·泛在羽衣精`: https://ygocdb.com/card/name/幻变骚灵·泛在羽衣精
-.. _`剑斗兽`: https://ygocdb.com/card/name/剑斗兽
+.. _`剑斗兽`: https://ygocdb.com/?search=剑斗兽
 .. _`虫惑的落穴`: https://ygocdb.com/card/name/虫惑的落穴
 .. _`简易融合`: https://ygocdb.com/card/name/简易融合
 .. _`PSY骨架回路`: https://ygocdb.com/card/name/PSY骨架回路
@@ -712,7 +712,7 @@
 .. _`外界异物`: https://ygocdb.com/card/name/外界异物
 .. _`影依的原核`: https://ygocdb.com/card/name/影依的原核
 .. _`星尘龙`: https://ygocdb.com/card/name/星尘龙
-.. _`死之信息`: https://ygocdb.com/card/name/死之信息
+.. _`死之信息`: https://ygocdb.com/?search=死之信息
 .. _`大天使 克里斯提亚`: https://ygocdb.com/card/name/大天使%20克里斯提亚
 .. _`神速之具足`: https://ygocdb.com/card/name/神速之具足
 .. _`神影依·拿非利`: https://ygocdb.com/card/name/神影依·拿非利
@@ -728,7 +728,7 @@
 .. _`暴君翼`: https://ygocdb.com/card/name/暴君翼
 .. _`通灵盘`: https://ygocdb.com/card/name/通灵盘
 .. _`妖醒龙 幼生狱风神`: https://ygocdb.com/card/name/妖醒龙%20幼生狱风神
-.. _`PSY骨架`: https://ygocdb.com/card/name/PSY骨架
+.. _`PSY骨架`: https://ygocdb.com/?search=PSY骨架
 .. _`千查万别`: https://ygocdb.com/card/name/千查万别
 .. _`女神的加护`: https://ygocdb.com/card/name/女神的加护
 .. _`我我我侍`: https://ygocdb.com/card/name/我我我侍
@@ -736,12 +736,12 @@
 .. _`王虎`: https://ygocdb.com/card/name/王虎
 .. _`霞之谷的巨神鸟`: https://ygocdb.com/card/name/霞之谷的巨神鸟
 .. _`永远的淑女 贝阿特丽切`: https://ygocdb.com/card/name/永远的淑女%20贝阿特丽切
-.. _`真红眼`: https://ygocdb.com/card/name/真红眼
+.. _`真红眼`: https://ygocdb.com/?search=真红眼
 .. _`守墓的使魔`: https://ygocdb.com/card/name/守墓的使魔
 .. _`战线复归`: https://ygocdb.com/card/name/战线复归
 .. _`自然调整`: https://ygocdb.com/card/name/自然调整
 .. _`淘气仙星·莉莉贝儿`: https://ygocdb.com/card/name/淘气仙星·莉莉贝儿
-.. _`宝玉兽`: https://ygocdb.com/card/name/宝玉兽
+.. _`宝玉兽`: https://ygocdb.com/?search=宝玉兽
 .. _`海造贼-大航海`: https://ygocdb.com/card/name/海造贼-大航海
 .. _`机动要犀 铁犀三角龙`: https://ygocdb.com/card/name/机动要犀%20铁犀三角龙
 .. _`巧克力魔术少女`: https://ygocdb.com/card/name/巧克力魔术少女
@@ -759,7 +759,7 @@
 .. _`守护者之力`: https://ygocdb.com/card/name/守护者之力
 .. _`紧急同调`: https://ygocdb.com/card/name/紧急同调
 .. _`沙漠之光`: https://ygocdb.com/card/name/沙漠之光
-.. _`急袭猛禽`: https://ygocdb.com/card/name/急袭猛禽
+.. _`急袭猛禽`: https://ygocdb.com/?search=急袭猛禽
 .. _`区域`: https://ygocdb.com/card/name/区域
 .. _`甲虫装机 豆娘`: https://ygocdb.com/card/name/甲虫装机%20豆娘
 .. _`存档海马`: https://ygocdb.com/card/name/存档海马
@@ -788,7 +788,7 @@
 .. _`解码终结`: https://ygocdb.com/card/name/解码终结
 .. _`封印师 明晴`: https://ygocdb.com/card/name/封印师%20明晴
 .. _`机甲部队·超大变形`: https://ygocdb.com/card/name/机甲部队·超大变形
-.. _`彼岸`: https://ygocdb.com/card/name/彼岸
+.. _`彼岸`: https://ygocdb.com/?search=彼岸
 .. _`超重武者 兜-10`: https://ygocdb.com/card/name/超重武者%20兜-10
 .. _`幻煌龙衍生物`: https://ygocdb.com/card/name/幻煌龙衍生物
 .. _`女神的圣剑-鹰灵`: https://ygocdb.com/card/name/女神的圣剑-鹰灵
@@ -853,7 +853,7 @@
 .. _`灰流丽`: https://ygocdb.com/card/name/灰流丽
 .. _`水龙星-赑屃`: https://ygocdb.com/card/name/水龙星-赑屃
 .. _`凡人的意志`: https://ygocdb.com/card/name/凡人的意志
-.. _`灵神`: https://ygocdb.com/card/name/灵神
+.. _`灵神`: https://ygocdb.com/?search=灵神
 .. _`魔弹射手 狂野`: https://ygocdb.com/card/name/魔弹射手%20狂野
 .. _`对死者的供奉`: https://ygocdb.com/card/name/对死者的供奉
 .. _`王宫的弹压`: https://ygocdb.com/card/name/王宫的弹压
@@ -862,7 +862,7 @@
 .. _`源龙星-望天吼`: https://ygocdb.com/card/name/源龙星-望天吼
 .. _`相剑大公-承影`: https://ygocdb.com/card/name/相剑大公-承影
 .. _`毒蛇王 维诺米隆`: https://ygocdb.com/card/name/毒蛇王%20维诺米隆
-.. _`方界`: https://ygocdb.com/card/name/方界
+.. _`方界`: https://ygocdb.com/?search=方界
 .. _`陷阱封印咒符`: https://ygocdb.com/card/name/陷阱封印咒符
 .. _`No.101 寂静荣誉方舟骑士`: https://ygocdb.com/card/name/No.101%20寂静荣誉方舟骑士
 .. _`强烈的打落`: https://ygocdb.com/card/name/强烈的打落

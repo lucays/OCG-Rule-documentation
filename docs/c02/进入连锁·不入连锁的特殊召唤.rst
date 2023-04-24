@@ -140,11 +140,11 @@
 .. _`流天类星龙`: https://ygocdb.com/card/name/流天类星龙
 .. _`闭锁世界的冥神`: https://ygocdb.com/card/name/闭锁世界的冥神
 .. _`异次元苏生`: https://ygocdb.com/card/name/异次元苏生
-.. _`朋克`: https://ygocdb.com/card/name/朋克
+.. _`朋克`: https://ygocdb.com/?search=朋克
 .. _`朱光之宣告者`: https://ygocdb.com/card/name/朱光之宣告者
 .. _`真龙皇的复活`: https://ygocdb.com/card/name/真龙皇的复活
 .. _`妖仙兽 镰壹太刀`: https://ygocdb.com/card/name/妖仙兽%20镰壹太刀
-.. _`光道`: https://ygocdb.com/card/name/光道
+.. _`光道`: https://ygocdb.com/?search=光道
 .. _`升天的黑角笛`: https://ygocdb.com/card/name/升天的黑角笛
 .. _`活死人的呼声`: https://ygocdb.com/card/name/活死人的呼声
 .. _`电子龙`: https://ygocdb.com/card/name/电子龙
@@ -162,7 +162,7 @@
 .. _`来自星遗物中的觉醒`: https://ygocdb.com/card/name/来自星遗物中的觉醒
 .. _`恩底弥翁的统领`: https://ygocdb.com/card/name/恩底弥翁的统领
 .. _`DDD 双晓王 末法神`: https://ygocdb.com/card/name/DDD%20双晓王%20末法神
-.. _`融合`: https://ygocdb.com/card/name/融合
+.. _`融合`: https://ygocdb.com/?search=融合
 .. _`虚无空间`: https://ygocdb.com/card/name/虚无空间
 .. _`紧急同调`: https://ygocdb.com/card/name/紧急同调
 .. _`大宇宙`: https://ygocdb.com/card/name/大宇宙
