@@ -156,93 +156,94 @@
 | 作为装备卡的「`混沌之黑魔术师`_」从场上离开时，自身效果会适用，结果除外。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15&request_locale=ja3&request_locale=ja20>`__
 | 作为装备卡的「`元素英雄 绝对零度侠`_」从场上离开时，对方场上的怪兽全部破坏的效果会发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7847&request_locale=ja>`__
 
-.. _`甲虫装机`: https://ygocdb.com/?search=甲虫装机
-.. _`龙魂之力`: https://ygocdb.com/?search=龙魂之力
-.. _`假面魔兽 死亡护法师`: https://ygocdb.com/?search=假面魔兽+死亡护法师
-.. _`黑蔷薇龙`: https://ygocdb.com/?search=黑蔷薇龙
-.. _`破坏炮`: https://ygocdb.com/?search=破坏炮
-.. _`墓穴的指名者`: https://ygocdb.com/?search=墓穴的指名者
-.. _`纳祭之魔`: https://ygocdb.com/?search=纳祭之魔
-.. _`破戒蛮龙-破坏龙`: https://ygocdb.com/?search=破戒蛮龙-破坏龙
-.. _`球体时限炸弹`: https://ygocdb.com/?search=球体时限炸弹
-.. _`大日棱柱体`: https://ygocdb.com/?search=大日棱柱体
-.. _`宏大木星`: https://ygocdb.com/?search=宏大木星
-.. _`龙骑兵团的神枪`: https://ygocdb.com/?search=龙骑兵团的神枪
-.. _`甲虫装机 豆娘`: https://ygocdb.com/?search=甲虫装机+豆娘
-.. _`电子龙`: https://ygocdb.com/?search=电子龙
-.. _`魔封的芳香`: https://ygocdb.com/?search=魔封的芳香
-.. _`禁忌的圣衣`: https://ygocdb.com/?search=禁忌的圣衣
-.. _`怨邪帝 盖乌斯`: https://ygocdb.com/?search=怨邪帝+盖乌斯
-.. _`龙骑兵团-小标枪龙`: https://ygocdb.com/?search=龙骑兵团-小标枪龙
-.. _`拘束解放波`: https://ygocdb.com/?search=拘束解放波
-.. _`龙骑兵团-指挥官`: https://ygocdb.com/?search=龙骑兵团-指挥官
-.. _`同盟格纳库`: https://ygocdb.com/?search=同盟格纳库
-.. _`铠狱龙-电子暗冥龙`: https://ygocdb.com/?search=铠狱龙-电子暗冥龙
-.. _`遗言之假面`: https://ygocdb.com/?search=遗言之假面
-.. _`融合武器 村雨刃`: https://ygocdb.com/?search=融合武器+村雨刃
-.. _`附火器的机甲铠`: https://ygocdb.com/?search=附火器的机甲铠
-.. _`元素英雄 绝对零度侠`: https://ygocdb.com/?search=元素英雄+绝对零度侠
-.. _`电子暗黑火炮`: https://ygocdb.com/?search=电子暗黑火炮
-.. _`月镜盾`: https://ygocdb.com/?search=月镜盾
-.. _`金属化·魔法反射装甲`: https://ygocdb.com/?search=金属化·魔法反射装甲
-.. _`交血鬼-吸血鬼·谢里丹`: https://ygocdb.com/?search=交血鬼-吸血鬼·谢里丹
-.. _`寄生虫 帕拉诺伊德`: https://ygocdb.com/?search=寄生虫+帕拉诺伊德
-.. _`混沌之黑魔术师`: https://ygocdb.com/?search=混沌之黑魔术师
-.. _`电磁石战士α`: https://ygocdb.com/?search=电磁石战士α
-.. _`异热同心武器-一角兽皇枪`: https://ygocdb.com/?search=异热同心武器-一角兽皇枪
-.. _`怀抱圣剑的王后 桂妮薇儿`: https://ygocdb.com/?search=怀抱圣剑的王后+桂妮薇儿
-.. _`龙骑兵团-方阵龙`: https://ygocdb.com/?search=龙骑兵团-方阵龙
-.. _`兰卡之虫惑魔`: https://ygocdb.com/?search=兰卡之虫惑魔
-.. _`王宫的通告`: https://ygocdb.com/?search=王宫的通告
-.. _`强化支援机械·重装武器`: https://ygocdb.com/?search=强化支援机械·重装武器
-.. _`王宫的敕命`: https://ygocdb.com/?search=王宫的敕命
-.. _`光之角`: https://ygocdb.com/?search=光之角
-.. _`ABC-神龙歼灭者`: https://ygocdb.com/?search=ABC-神龙歼灭者
-.. _`电磁石战士 电磁狂神`: https://ygocdb.com/?search=电磁石战士+电磁狂神
-.. _`善变的裁缝师`: https://ygocdb.com/?search=善变的裁缝师
-.. _`最强之盾`: https://ygocdb.com/?search=最强之盾
-.. _`破坏剑-`: https://ygocdb.com/?search=破坏剑-
-.. _`克己挑战`: https://ygocdb.com/?search=克己挑战
-.. _`同盟运输车`: https://ygocdb.com/?search=同盟运输车
-.. _`附锁链的回力镖`: https://ygocdb.com/?search=附锁链的回力镖
-.. _`闪光抽卡`: https://ygocdb.com/?search=闪光抽卡
-.. _`妖仙兽的风祀`: https://ygocdb.com/?search=妖仙兽的风祀
-.. _`破坏剑士的摇篮`: https://ygocdb.com/?search=破坏剑士的摇篮
-.. _`淘气仙星的灯光舞台`: https://ygocdb.com/?search=淘气仙星的灯光舞台
-.. _`A-突击核`: https://ygocdb.com/?search=A-突击核
-.. _`破坏剑`: https://ygocdb.com/?search=破坏剑
-.. _`精神寄生体`: https://ygocdb.com/?search=精神寄生体
-.. _`动力工具龙`: https://ygocdb.com/?search=动力工具龙
-.. _`魔导人偶之夜`: https://ygocdb.com/?search=魔导人偶之夜
-.. _`C-粉碎翼龙`: https://ygocdb.com/?search=C-粉碎翼龙
-.. _`力之集约`: https://ygocdb.com/?search=力之集约
-.. _`No.39 希望皇 霍普`: https://ygocdb.com/?search=No.39+希望皇+霍普
-.. _`嵌合机型要塞龙`: https://ygocdb.com/?search=嵌合机型要塞龙
-.. _`龙骑兵团`: https://ygocdb.com/?search=龙骑兵团
-.. _`幻变骚灵物化`: https://ygocdb.com/?search=幻变骚灵物化
-.. _`-破坏剑士`: https://ygocdb.com/?search=-破坏剑士
-.. _`甲虫装机 大黄蜂`: https://ygocdb.com/?search=甲虫装机+大黄蜂
-.. _`圣剑 加拉廷`: https://ygocdb.com/?search=圣剑+加拉廷
-.. _`魔偶甜点·布丁公主`: https://ygocdb.com/?search=魔偶甜点·布丁公主
-.. _`雷破`: https://ygocdb.com/?search=雷破
-.. _`破坏剑-龙破坏之剑`: https://ygocdb.com/?search=破坏剑-龙破坏之剑
-.. _`士气高扬`: https://ygocdb.com/?search=士气高扬
-.. _`光之引导`: https://ygocdb.com/?search=光之引导
-.. _`混沌No.39 希望皇 霍普雷`: https://ygocdb.com/?search=混沌No.39+希望皇+霍普雷
-.. _`甲虫装机 吉咖螳螂`: https://ygocdb.com/?search=甲虫装机+吉咖螳螂
-.. _`妖仙兽`: https://ygocdb.com/?search=妖仙兽
-.. _`降格处分`: https://ygocdb.com/?search=降格处分
-.. _`纳祭之魔·阿尼玛`: https://ygocdb.com/?search=纳祭之魔·阿尼玛
-.. _`冰剑龙 幻冰龙`: https://ygocdb.com/?search=冰剑龙+幻冰龙
-.. _`暗龙族之爪`: https://ygocdb.com/?search=暗龙族之爪
-.. _`暗黑格雷法`: https://ygocdb.com/?search=暗黑格雷法
-.. _`盗贼的烟玉`: https://ygocdb.com/?search=盗贼的烟玉
-.. _`妖精传姬-辛德瑞拉`: https://ygocdb.com/?search=妖精传姬-辛德瑞拉
-.. _`静寂之杖-波纹`: https://ygocdb.com/?search=静寂之杖-波纹
-.. _`暴君爆风龙`: https://ygocdb.com/?search=暴君爆风龙
-.. _`狩剑猎人`: https://ygocdb.com/?search=狩剑猎人
-.. _`神圣骑士王 阿托利斯`: https://ygocdb.com/?search=神圣骑士王+阿托利斯
-.. _`龙骑兵团神枪`: https://ygocdb.com/?search=龙骑兵团神枪
-.. _`海洋枪兵`: https://ygocdb.com/?search=海洋枪兵
-.. _`魔圣骑士皇 兰斯洛特`: https://ygocdb.com/?search=魔圣骑士皇+兰斯洛特
-.. _`巨龙之守护骑士`: https://ygocdb.com/?search=巨龙之守护骑士
+
+.. _`铠狱龙-电子暗冥龙`: https://ygocdb.com/card/name/铠狱龙-电子暗冥龙
+.. _`冰剑龙 幻冰龙`: https://ygocdb.com/card/name/冰剑龙%20幻冰龙
+.. _`动力工具龙`: https://ygocdb.com/card/name/动力工具龙
+.. _`魔导人偶之夜`: https://ygocdb.com/card/name/魔导人偶之夜
+.. _`墓穴的指名者`: https://ygocdb.com/card/name/墓穴的指名者
+.. _`电子龙`: https://ygocdb.com/card/name/电子龙
+.. _`光之引导`: https://ygocdb.com/card/name/光之引导
+.. _`妖仙兽的风祀`: https://ygocdb.com/card/name/妖仙兽的风祀
+.. _`降格处分`: https://ygocdb.com/card/name/降格处分
+.. _`禁忌的圣衣`: https://ygocdb.com/card/name/禁忌的圣衣
+.. _`球体时限炸弹`: https://ygocdb.com/card/name/球体时限炸弹
+.. _`破坏剑-龙破坏之剑`: https://ygocdb.com/card/name/破坏剑-龙破坏之剑
+.. _`雷破`: https://ygocdb.com/card/name/雷破
+.. _`同盟格纳库`: https://ygocdb.com/card/name/同盟格纳库
+.. _`幻变骚灵物化`: https://ygocdb.com/card/name/幻变骚灵物化
+.. _`淘气仙星的灯光舞台`: https://ygocdb.com/card/name/淘气仙星的灯光舞台
+.. _`元素英雄 绝对零度侠`: https://ygocdb.com/card/name/元素英雄%20绝对零度侠
+.. _`甲虫装机 豆娘`: https://ygocdb.com/card/name/甲虫装机%20豆娘
+.. _`狩剑猎人`: https://ygocdb.com/card/name/狩剑猎人
+.. _`电磁石战士α`: https://ygocdb.com/card/name/电磁石战士α
+.. _`遗言之假面`: https://ygocdb.com/card/name/遗言之假面
+.. _`C-粉碎翼龙`: https://ygocdb.com/card/name/C-粉碎翼龙
+.. _`-破坏剑士`: https://ygocdb.com/card/name/-破坏剑士
+.. _`同盟运输车`: https://ygocdb.com/card/name/同盟运输车
+.. _`怀抱圣剑的王后 桂妮薇儿`: https://ygocdb.com/card/name/怀抱圣剑的王后%20桂妮薇儿
+.. _`破戒蛮龙-破坏龙`: https://ygocdb.com/card/name/破戒蛮龙-破坏龙
+.. _`精神寄生体`: https://ygocdb.com/card/name/精神寄生体
+.. _`圣剑 加拉廷`: https://ygocdb.com/card/name/圣剑%20加拉廷
+.. _`巨龙之守护骑士`: https://ygocdb.com/card/name/巨龙之守护骑士
+.. _`王宫的敕命`: https://ygocdb.com/card/name/王宫的敕命
+.. _`龙骑兵团的神枪`: https://ygocdb.com/card/name/龙骑兵团的神枪
+.. _`交血鬼-吸血鬼·谢里丹`: https://ygocdb.com/card/name/交血鬼-吸血鬼·谢里丹
+.. _`怨邪帝 盖乌斯`: https://ygocdb.com/card/name/怨邪帝%20盖乌斯
+.. _`ABC-神龙歼灭者`: https://ygocdb.com/card/name/ABC-神龙歼灭者
+.. _`A-突击核`: https://ygocdb.com/card/name/A-突击核
+.. _`破坏剑-`: https://ygocdb.com/card/name/破坏剑-
+.. _`破坏炮`: https://ygocdb.com/card/name/破坏炮
+.. _`假面魔兽 死亡护法师`: https://ygocdb.com/card/name/假面魔兽%20死亡护法师
+.. _`甲虫装机 大黄蜂`: https://ygocdb.com/card/name/甲虫装机%20大黄蜂
+.. _`月镜盾`: https://ygocdb.com/card/name/月镜盾
+.. _`破坏剑士的摇篮`: https://ygocdb.com/card/name/破坏剑士的摇篮
+.. _`甲虫装机 吉咖螳螂`: https://ygocdb.com/card/name/甲虫装机%20吉咖螳螂
+.. _`寄生虫 帕拉诺伊德`: https://ygocdb.com/card/name/寄生虫%20帕拉诺伊德
+.. _`神圣骑士王 阿托利斯`: https://ygocdb.com/card/name/神圣骑士王%20阿托利斯
+.. _`魔圣骑士皇 兰斯洛特`: https://ygocdb.com/card/name/魔圣骑士皇%20兰斯洛特
+.. _`暗龙族之爪`: https://ygocdb.com/card/name/暗龙族之爪
+.. _`黑蔷薇龙`: https://ygocdb.com/card/name/黑蔷薇龙
+.. _`善变的裁缝师`: https://ygocdb.com/card/name/善变的裁缝师
+.. _`暴君爆风龙`: https://ygocdb.com/card/name/暴君爆风龙
+.. _`光之角`: https://ygocdb.com/card/name/光之角
+.. _`纳祭之魔·阿尼玛`: https://ygocdb.com/card/name/纳祭之魔·阿尼玛
+.. _`融合武器 村雨刃`: https://ygocdb.com/card/name/融合武器%20村雨刃
+.. _`兰卡之虫惑魔`: https://ygocdb.com/card/name/兰卡之虫惑魔
+.. _`妖精传姬-辛德瑞拉`: https://ygocdb.com/card/name/妖精传姬-辛德瑞拉
+.. _`龙骑兵团`: https://ygocdb.com/card/name/龙骑兵团
+.. _`宏大木星`: https://ygocdb.com/card/name/宏大木星
+.. _`纳祭之魔`: https://ygocdb.com/card/name/纳祭之魔
+.. _`最强之盾`: https://ygocdb.com/card/name/最强之盾
+.. _`龙骑兵团-小标枪龙`: https://ygocdb.com/card/name/龙骑兵团-小标枪龙
+.. _`金属化·魔法反射装甲`: https://ygocdb.com/card/name/金属化·魔法反射装甲
+.. _`No.39 希望皇 霍普`: https://ygocdb.com/card/name/No.39%20希望皇%20霍普
+.. _`王宫的通告`: https://ygocdb.com/card/name/王宫的通告
+.. _`龙骑兵团神枪`: https://ygocdb.com/card/name/龙骑兵团神枪
+.. _`海洋枪兵`: https://ygocdb.com/card/name/海洋枪兵
+.. _`盗贼的烟玉`: https://ygocdb.com/card/name/盗贼的烟玉
+.. _`力之集约`: https://ygocdb.com/card/name/力之集约
+.. _`电子暗黑火炮`: https://ygocdb.com/card/name/电子暗黑火炮
+.. _`龙骑兵团-指挥官`: https://ygocdb.com/card/name/龙骑兵团-指挥官
+.. _`大日棱柱体`: https://ygocdb.com/card/name/大日棱柱体
+.. _`混沌之黑魔术师`: https://ygocdb.com/card/name/混沌之黑魔术师
+.. _`拘束解放波`: https://ygocdb.com/card/name/拘束解放波
+.. _`龙骑兵团-方阵龙`: https://ygocdb.com/card/name/龙骑兵团-方阵龙
+.. _`嵌合机型要塞龙`: https://ygocdb.com/card/name/嵌合机型要塞龙
+.. _`魔偶甜点·布丁公主`: https://ygocdb.com/card/name/魔偶甜点·布丁公主
+.. _`克己挑战`: https://ygocdb.com/card/name/克己挑战
+.. _`附锁链的回力镖`: https://ygocdb.com/card/name/附锁链的回力镖
+.. _`混沌No.39 希望皇 霍普雷`: https://ygocdb.com/card/name/混沌No.39%20希望皇%20霍普雷
+.. _`暗黑格雷法`: https://ygocdb.com/card/name/暗黑格雷法
+.. _`附火器的机甲铠`: https://ygocdb.com/card/name/附火器的机甲铠
+.. _`强化支援机械·重装武器`: https://ygocdb.com/card/name/强化支援机械·重装武器
+.. _`静寂之杖-波纹`: https://ygocdb.com/card/name/静寂之杖-波纹
+.. _`妖仙兽`: https://ygocdb.com/card/name/妖仙兽
+.. _`破坏剑`: https://ygocdb.com/card/name/破坏剑
+.. _`异热同心武器-一角兽皇枪`: https://ygocdb.com/card/name/异热同心武器-一角兽皇枪
+.. _`甲虫装机`: https://ygocdb.com/card/name/甲虫装机
+.. _`龙魂之力`: https://ygocdb.com/card/name/龙魂之力
+.. _`电磁石战士 电磁狂神`: https://ygocdb.com/card/name/电磁石战士%20电磁狂神
+.. _`士气高扬`: https://ygocdb.com/card/name/士气高扬
+.. _`魔封的芳香`: https://ygocdb.com/card/name/魔封的芳香
+.. _`闪光抽卡`: https://ygocdb.com/card/name/闪光抽卡

@@ -82,31 +82,32 @@
    | 例：
    | 我方「`饼蛙`_」的②效果把原本持有者是对方的「`魔界台本「开幕式」`_」破坏并盖放在我方魔法·陷阱卡区域后，即使我方额外卡组存在表侧表示的「`魔界剧团`_」P怪兽，这张「`魔界台本「开幕式」`_」被对方效果或者我方效果破坏的场合，都不能发动②效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6825&keyword=&tag=-1&request_locale=ja>`__
 
-.. _`天变地异`: https://ygocdb.com/?search=天变地异
-.. _`饼蛙`: https://ygocdb.com/?search=饼蛙
-.. _`慧眼之魔术师`: https://ygocdb.com/?search=慧眼之魔术师
-.. _`神之警告`: https://ygocdb.com/?search=神之警告
-.. _`终焉龙 混沌帝`: https://ygocdb.com/?search=终焉龙+混沌帝
-.. _`灰流丽`: https://ygocdb.com/?search=灰流丽
-.. _`娱乐伙伴 天空之魔术师`: https://ygocdb.com/?search=娱乐伙伴+天空之魔术师
-.. _`苦纹样的土像`: https://ygocdb.com/?search=苦纹样的土像
-.. _`雪花之光`: https://ygocdb.com/?search=雪花之光
-.. _`魔界剧团`: https://ygocdb.com/?search=魔界剧团
-.. _`捕食惑星`: https://ygocdb.com/?search=捕食惑星
-.. _`个人欺骗攻击`: https://ygocdb.com/?search=个人欺骗攻击
-.. _`虚无空间`: https://ygocdb.com/?search=虚无空间
-.. _`古怪恶魔`: https://ygocdb.com/?search=古怪恶魔
-.. _`临时取消`: https://ygocdb.com/?search=临时取消
-.. _`屋敷童`: https://ygocdb.com/?search=屋敷童
-.. _`大天使 克里斯提亚`: https://ygocdb.com/?search=大天使+克里斯提亚
-.. _`次元反射镜`: https://ygocdb.com/?search=次元反射镜
-.. _`技能抽取`: https://ygocdb.com/?search=技能抽取
-.. _`苹果魔术少女`: https://ygocdb.com/?search=苹果魔术少女
-.. _`魔界台本「开幕式」`: https://ygocdb.com/?search=魔界台本「开幕式」
-.. _`三眼怪`: https://ygocdb.com/?search=三眼怪
-.. _`青蛙`: https://ygocdb.com/?search=青蛙
-.. _`仪式之钟`: https://ygocdb.com/?search=仪式之钟
-.. _`暗黑神鸟`: https://ygocdb.com/?search=暗黑神鸟
-.. _`娱乐伙伴 副手驴`: https://ygocdb.com/?search=娱乐伙伴+副手驴
-.. _`古代的机械要塞`: https://ygocdb.com/?search=古代的机械要塞
-.. _`永远之魂`: https://ygocdb.com/?search=永远之魂
+
+.. _`魔界剧团`: https://ygocdb.com/card/name/魔界剧团
+.. _`屋敷童`: https://ygocdb.com/card/name/屋敷童
+.. _`苦纹样的土像`: https://ygocdb.com/card/name/苦纹样的土像
+.. _`技能抽取`: https://ygocdb.com/card/name/技能抽取
+.. _`慧眼之魔术师`: https://ygocdb.com/card/name/慧眼之魔术师
+.. _`终焉龙 混沌帝`: https://ygocdb.com/card/name/终焉龙%20混沌帝
+.. _`魔界台本「开幕式」`: https://ygocdb.com/card/name/魔界台本「开幕式」
+.. _`天变地异`: https://ygocdb.com/card/name/天变地异
+.. _`苹果魔术少女`: https://ygocdb.com/card/name/苹果魔术少女
+.. _`临时取消`: https://ygocdb.com/card/name/临时取消
+.. _`饼蛙`: https://ygocdb.com/card/name/饼蛙
+.. _`虚无空间`: https://ygocdb.com/card/name/虚无空间
+.. _`神之警告`: https://ygocdb.com/card/name/神之警告
+.. _`雪花之光`: https://ygocdb.com/card/name/雪花之光
+.. _`捕食惑星`: https://ygocdb.com/card/name/捕食惑星
+.. _`仪式之钟`: https://ygocdb.com/card/name/仪式之钟
+.. _`灰流丽`: https://ygocdb.com/card/name/灰流丽
+.. _`个人欺骗攻击`: https://ygocdb.com/card/name/个人欺骗攻击
+.. _`古代的机械要塞`: https://ygocdb.com/card/name/古代的机械要塞
+.. _`暗黑神鸟`: https://ygocdb.com/card/name/暗黑神鸟
+.. _`青蛙`: https://ygocdb.com/card/name/青蛙
+.. _`次元反射镜`: https://ygocdb.com/card/name/次元反射镜
+.. _`三眼怪`: https://ygocdb.com/card/name/三眼怪
+.. _`娱乐伙伴 副手驴`: https://ygocdb.com/card/name/娱乐伙伴%20副手驴
+.. _`大天使 克里斯提亚`: https://ygocdb.com/card/name/大天使%20克里斯提亚
+.. _`娱乐伙伴 天空之魔术师`: https://ygocdb.com/card/name/娱乐伙伴%20天空之魔术师
+.. _`古怪恶魔`: https://ygocdb.com/card/name/古怪恶魔
+.. _`永远之魂`: https://ygocdb.com/card/name/永远之魂

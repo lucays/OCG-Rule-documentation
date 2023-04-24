@@ -230,53 +230,53 @@ X召唤的步骤现在是，先把X素材移动到可用的EX区域或连接端�
 
 .. attention:: 连接怪兽从场上离开后，其连接端的从额外卡组特殊召唤的怪兽\ **就那样留在场上**\ 。
 
-.. _`解码语者`: https://ygocdb.com/?search=解码语者
-.. _`鬼计女夜魔`: https://ygocdb.com/?search=鬼计女夜魔
-.. _`仁王立`: https://ygocdb.com/?search=仁王立
-.. _`地中族的决战`: https://ygocdb.com/?search=地中族的决战
-.. _`阿努比斯的诅咒`: https://ygocdb.com/?search=阿努比斯的诅咒
-.. _`拓扑篡改感染龙`: https://ygocdb.com/?search=拓扑篡改感染龙
-.. _`右手拿盾左手持剑`: https://ygocdb.com/?search=右手拿盾左手持剑
-.. _`封魔一闪`: https://ygocdb.com/?search=封魔一闪
-.. _`银河眼煌星龙`: https://ygocdb.com/?search=银河眼煌星龙
-.. _`纳祭之魔`: https://ygocdb.com/?search=纳祭之魔
-.. _`突击犀牛`: https://ygocdb.com/?search=突击犀牛
-.. _`替罪羊`: https://ygocdb.com/?search=替罪羊
-.. _`扰乱三人组`: https://ygocdb.com/?search=扰乱三人组
-.. _`超级运动员 强壮阻挡员`: https://ygocdb.com/?search=超级运动员+强壮阻挡员
-.. _`闪刀姬-燎里`: https://ygocdb.com/?search=闪刀姬-燎里
-.. _`No.98 绝望皇 霍普勒斯`: https://ygocdb.com/?search=No.98+绝望皇+霍普勒斯
-.. _`摇晃的目光`: https://ygocdb.com/?search=摇晃的目光
-.. _`忍法 影缝之术`: https://ygocdb.com/?search=忍法+影缝之术
-.. _`肥大化`: https://ygocdb.com/?search=肥大化
-.. _`同调英雄`: https://ygocdb.com/?search=同调英雄
-.. _`位置移动`: https://ygocdb.com/?search=位置移动
-.. _`御用守护者`: https://ygocdb.com/?search=御用守护者
-.. _`风魔女-水晶钟`: https://ygocdb.com/?search=风魔女-水晶钟
-.. _`光波分光`: https://ygocdb.com/?search=光波分光
-.. _`健忘`: https://ygocdb.com/?search=健忘
-.. _`闪刀姬-雫空`: https://ygocdb.com/?search=闪刀姬-雫空
 .. _`リンク先`: https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=1&sess=1&rp=20&keyword=%E3%83%AA%E3%83%B3%E3%82%AF%E5%85%88&stype=2&ctype=&othercon=2&starfr=&starto=&pscalefr=&pscaleto=&linkmarkerfr=&linkmarkerto=&link_m=2&atkfr=&atkto=&deffr=&defto=&request_locale=ja
-.. _`惊异灵摆`: https://ygocdb.com/?search=惊异灵摆
-.. _`荒野的大龙卷`: https://ygocdb.com/?search=荒野的大龙卷
-.. _`时空警察`: https://ygocdb.com/?search=时空警察
-.. _`彷徨的木乃伊`: https://ygocdb.com/?search=彷徨的木乃伊
-.. _`魔术礼帽`: https://ygocdb.com/?search=魔术礼帽
-.. _`银河剑圣`: https://ygocdb.com/?search=银河剑圣
-.. _`御用防御者`: https://ygocdb.com/?search=御用防御者
-.. _`精神操作`: https://ygocdb.com/?search=精神操作
-.. _`技能抽取`: https://ygocdb.com/?search=技能抽取
-.. _`DDD 克龙王 贝奥武夫`: https://ygocdb.com/?search=DDD+克龙王+贝奥武夫
-.. _`升阶魔法-七皇之剑`: https://ygocdb.com/?search=升阶魔法-七皇之剑
-.. _`光子斩击者`: https://ygocdb.com/?search=光子斩击者
-.. _`地中族邪界妖魔`: https://ygocdb.com/?search=地中族邪界妖魔
-.. _`枪口焰龙`: https://ygocdb.com/?search=枪口焰龙
-.. _`强制转移`: https://ygocdb.com/?search=强制转移
-.. _`假面变化`: https://ygocdb.com/?search=假面变化
-.. _`大宇宙`: https://ygocdb.com/?search=大宇宙
-.. _`海龟坏兽 加美西耶勒`: https://ygocdb.com/?search=海龟坏兽+加美西耶勒
-.. _`纹章兽`: https://ygocdb.com/?search=纹章兽
-.. _`日全食之书`: https://ygocdb.com/?search=日全食之书
 .. _`游戏王 VRAINS`: https://www.tv-tokyo.co.jp/anime/yugioh-vrains/
-.. _`高等纹章术`: https://ygocdb.com/?search=高等纹章术
-.. _`降格处分`: https://ygocdb.com/?search=降格处分
+.. _`鬼计女夜魔`: https://ygocdb.com/card/name/鬼计女夜魔
+.. _`No.98 绝望皇 霍普勒斯`: https://ygocdb.com/card/name/No.98%20绝望皇%20霍普勒斯
+.. _`DDD 克龙王 贝奥武夫`: https://ygocdb.com/card/name/DDD%20克龙王%20贝奥武夫
+.. _`位置移动`: https://ygocdb.com/card/name/位置移动
+.. _`解码语者`: https://ygocdb.com/card/name/解码语者
+.. _`同调英雄`: https://ygocdb.com/card/name/同调英雄
+.. _`忍法 影缝之术`: https://ygocdb.com/card/name/忍法%20影缝之术
+.. _`技能抽取`: https://ygocdb.com/card/name/技能抽取
+.. _`光波分光`: https://ygocdb.com/card/name/光波分光
+.. _`魔术礼帽`: https://ygocdb.com/card/name/魔术礼帽
+.. _`健忘`: https://ygocdb.com/card/name/健忘
+.. _`突击犀牛`: https://ygocdb.com/card/name/突击犀牛
+.. _`银河剑圣`: https://ygocdb.com/card/name/银河剑圣
+.. _`降格处分`: https://ygocdb.com/card/name/降格处分
+.. _`惊异灵摆`: https://ygocdb.com/card/name/惊异灵摆
+.. _`高等纹章术`: https://ygocdb.com/card/name/高等纹章术
+.. _`御用防御者`: https://ygocdb.com/card/name/御用防御者
+.. _`升阶魔法-七皇之剑`: https://ygocdb.com/card/name/升阶魔法-七皇之剑
+.. _`大宇宙`: https://ygocdb.com/card/name/大宇宙
+.. _`拓扑篡改感染龙`: https://ygocdb.com/card/name/拓扑篡改感染龙
+.. _`时空警察`: https://ygocdb.com/card/name/时空警察
+.. _`超级运动员 强壮阻挡员`: https://ygocdb.com/card/name/超级运动员%20强壮阻挡员
+.. _`阿努比斯的诅咒`: https://ygocdb.com/card/name/阿努比斯的诅咒
+.. _`海龟坏兽 加美西耶勒`: https://ygocdb.com/card/name/海龟坏兽%20加美西耶勒
+.. _`银河眼煌星龙`: https://ygocdb.com/card/name/银河眼煌星龙
+.. _`封魔一闪`: https://ygocdb.com/card/name/封魔一闪
+.. _`假面变化`: https://ygocdb.com/card/name/假面变化
+.. _`日全食之书`: https://ygocdb.com/card/name/日全食之书
+.. _`地中族的决战`: https://ygocdb.com/card/name/地中族的决战
+.. _`闪刀姬-燎里`: https://ygocdb.com/card/name/闪刀姬-燎里
+.. _`风魔女-水晶钟`: https://ygocdb.com/card/name/风魔女-水晶钟
+.. _`地中族邪界妖魔`: https://ygocdb.com/card/name/地中族邪界妖魔
+.. _`肥大化`: https://ygocdb.com/card/name/肥大化
+.. _`仁王立`: https://ygocdb.com/card/name/仁王立
+.. _`彷徨的木乃伊`: https://ygocdb.com/card/name/彷徨的木乃伊
+.. _`光子斩击者`: https://ygocdb.com/card/name/光子斩击者
+.. _`荒野的大龙卷`: https://ygocdb.com/card/name/荒野的大龙卷
+.. _`枪口焰龙`: https://ygocdb.com/card/name/枪口焰龙
+.. _`御用守护者`: https://ygocdb.com/card/name/御用守护者
+.. _`右手拿盾左手持剑`: https://ygocdb.com/card/name/右手拿盾左手持剑
+.. _`纹章兽`: https://ygocdb.com/card/name/纹章兽
+.. _`强制转移`: https://ygocdb.com/card/name/强制转移
+.. _`摇晃的目光`: https://ygocdb.com/card/name/摇晃的目光
+.. _`闪刀姬-雫空`: https://ygocdb.com/card/name/闪刀姬-雫空
+.. _`扰乱三人组`: https://ygocdb.com/card/name/扰乱三人组
+.. _`精神操作`: https://ygocdb.com/card/name/精神操作
+.. _`替罪羊`: https://ygocdb.com/card/name/替罪羊
+.. _`纳祭之魔`: https://ygocdb.com/card/name/纳祭之魔

@@ -135,7 +135,7 @@ def add_cdb_url(texts: str) -> str:
     for card_name in card_names_dict:
         card_name = card_name[1:-1].strip('`_')
         if card_name not in have_url_card_names:
-            tail_texts.add(f'.. _`{card_name}`: https://ygocdb.com/?search={card_name.replace(" ", "+")}')
+            tail_texts.add(f'.. _`{card_name}`: https://ygocdb.com/card/name/{card_name.replace(" ", "%20")}')
 
     if not have_url_card_names and tail_texts:
         new_texts.append('\n')
@@ -165,7 +165,7 @@ def do_one(file: Path) -> None:
     texts = add_jp_locale_in_db_url(texts)
     texts = strike_completion(texts)
     if texts != old_texts:
-        file.write_text(texts, encoding='utf8')
+        file.write_text(texts, encoding='utf8', newline='\n')
 
 
 def do_all() -> None:

@@ -125,20 +125,21 @@
 | 自己发动「`黑洞`_」，询问对方是否连锁，对方选择不连锁，优先权回到我方，我方也选择不连锁的场合，不会再度回去询问对方或我方是否有效果还要发动，开始结算连锁，「`黑洞`_」的效果把场上的怪兽全部破坏。
 | 自己发动「`黑洞`_」，询问对方是否连锁，对方选择不连锁，优先权回到我方，我方选择发动「`星光大道`_」的场合，优先权回到对方，对方选择不连锁，我方也选择不连锁的场合，这个时点过去，开始结算连锁，「`黑洞`_」效果无效并破坏，可以把「`星尘龙`_」特殊召唤。
 
-.. _`黑洞`: https://ygocdb.com/?search=黑洞
-.. _`旋风`: https://ygocdb.com/?search=旋风
-.. _`天帝 埃忒耳`: https://ygocdb.com/?search=天帝+埃忒耳
-.. _`励辉士 入魔蝇王`: https://ygocdb.com/?search=励辉士+入魔蝇王
-.. _`青色眼睛的贤士`: https://ygocdb.com/?search=青色眼睛的贤士
-.. _`连接栗子球`: https://ygocdb.com/?search=连接栗子球
-.. _`幻变骚灵·多功能诈骗者`: https://ygocdb.com/?search=幻变骚灵·多功能诈骗者
-.. _`星光大道`: https://ygocdb.com/?search=星光大道
-.. _`闪光No.39 希望皇 霍普·电光皇`: https://ygocdb.com/?search=闪光No.39+希望皇+霍普·电光皇
-.. _`装弹枪管龙`: https://ygocdb.com/?search=装弹枪管龙
-.. _`PSY骨架王·Ω`: https://ygocdb.com/?search=PSY骨架王·Ω
-.. _`十二兽 龙枪`: https://ygocdb.com/?search=十二兽+龙枪
-.. _`青色眼睛的少女`: https://ygocdb.com/?search=青色眼睛的少女
-.. _`PSY 骨架王·Ω`: https://ygocdb.com/?search=PSY+骨架王·Ω
-.. _`星尘龙`: https://ygocdb.com/?search=星尘龙
-.. _`淘气仙星的灯光舞台`: https://ygocdb.com/?search=淘气仙星的灯光舞台
-.. _`超量叠光延迟`: https://ygocdb.com/?search=超量叠光延迟
+
+.. _`PSY骨架王·Ω`: https://ygocdb.com/card/name/PSY骨架王·Ω
+.. _`连接栗子球`: https://ygocdb.com/card/name/连接栗子球
+.. _`青色眼睛的少女`: https://ygocdb.com/card/name/青色眼睛的少女
+.. _`PSY 骨架王·Ω`: https://ygocdb.com/card/name/PSY%20骨架王·Ω
+.. _`星光大道`: https://ygocdb.com/card/name/星光大道
+.. _`超量叠光延迟`: https://ygocdb.com/card/name/超量叠光延迟
+.. _`青色眼睛的贤士`: https://ygocdb.com/card/name/青色眼睛的贤士
+.. _`闪光No.39 希望皇 霍普·电光皇`: https://ygocdb.com/card/name/闪光No.39%20希望皇%20霍普·电光皇
+.. _`装弹枪管龙`: https://ygocdb.com/card/name/装弹枪管龙
+.. _`黑洞`: https://ygocdb.com/card/name/黑洞
+.. _`星尘龙`: https://ygocdb.com/card/name/星尘龙
+.. _`旋风`: https://ygocdb.com/card/name/旋风
+.. _`十二兽 龙枪`: https://ygocdb.com/card/name/十二兽%20龙枪
+.. _`幻变骚灵·多功能诈骗者`: https://ygocdb.com/card/name/幻变骚灵·多功能诈骗者
+.. _`励辉士 入魔蝇王`: https://ygocdb.com/card/name/励辉士%20入魔蝇王
+.. _`淘气仙星的灯光舞台`: https://ygocdb.com/card/name/淘气仙星的灯光舞台
+.. _`天帝 埃忒耳`: https://ygocdb.com/card/name/天帝%20埃忒耳

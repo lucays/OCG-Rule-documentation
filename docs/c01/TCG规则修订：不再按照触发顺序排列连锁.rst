@@ -19,8 +19,9 @@ TCG规则修订：不再按照触发顺序排列连锁
 | 另外要注意的是，TCG的\ :ref:`从手卡发动的诱发效果`\ 和公开的1速诱发没有区别，而在OCG实际上当作2速处理。
 | 这一部分的介绍见\ `杖座combo在OCG与TCG的不同与缘由 <https://tieba.baidu.com/p/4766521764>`__\ 。
 
-.. _`黑洞`: https://ygocdb.com/?search=黑洞
-.. _`影灵衣之术士 施里特`: https://ygocdb.com/?search=影灵衣之术士+施里特
-.. _`影灵衣的降魔镜`: https://ygocdb.com/?search=影灵衣的降魔镜
-.. _`影灵衣之术士施里特`: https://ygocdb.com/?search=影灵衣之术士施里特
-.. _`三叉龙之影灵衣`: https://ygocdb.com/?search=三叉龙之影灵衣
+
+.. _`影灵衣之术士 施里特`: https://ygocdb.com/card/name/影灵衣之术士%20施里特
+.. _`影灵衣的降魔镜`: https://ygocdb.com/card/name/影灵衣的降魔镜
+.. _`黑洞`: https://ygocdb.com/card/name/黑洞
+.. _`三叉龙之影灵衣`: https://ygocdb.com/card/name/三叉龙之影灵衣
+.. _`影灵衣之术士施里特`: https://ygocdb.com/card/name/影灵衣之术士施里特
