@@ -129,66 +129,65 @@
 
    .. note:: 「`未来融合`_」的①效果送去墓地的怪兽，是在之后把融合怪兽融合召唤成功的时点起，才当作那只融合怪兽的融合素材使用。因此，可以正常从卡组送去墓地，这个时点还不是融合素材。
 
-.. _`禁止令`: https://ygocdb.com/?search=禁止令
-.. _`念动力防卫者`: https://ygocdb.com/?search=念动力防卫者
-.. _`机壳`: https://ygocdb.com/?search=机壳
-.. _`被封印的艾克佐迪亚`: https://ygocdb.com/?search=被封印的艾克佐迪亚
-.. _`六武之门`: https://ygocdb.com/?search=六武之门
-.. _`堕恶之爪`: https://ygocdb.com/?search=堕恶之爪
-.. _`暗黑终结龙`: https://ygocdb.com/?search=暗黑终结龙
-.. _`十二兽`: https://ygocdb.com/?search=十二兽
-.. _`龙骑兵团神枪`: https://ygocdb.com/?search=龙骑兵团神枪
-.. _`电子暗黑刃翼`: https://ygocdb.com/?search=电子暗黑刃翼
-.. _`脑开发研究所`: https://ygocdb.com/?search=脑开发研究所
-.. _`黑羽`: https://ygocdb.com/?search=黑羽
-.. _`天狱之王`: https://ygocdb.com/?search=天狱之王
-.. _`十二兽的方合`: https://ygocdb.com/?search=十二兽的方合
-.. _`强袭黑羽-雾雨之苦无鸟`: https://ygocdb.com/?search=强袭黑羽-雾雨之苦无鸟
-.. _`剑斗兽`: https://ygocdb.com/?search=剑斗兽
-.. _`龙骑兵团-方阵龙`: https://ygocdb.com/?search=龙骑兵团-方阵龙
-.. _`阳炎兽`: https://ygocdb.com/?search=阳炎兽
-.. _`死之信息`: https://ygocdb.com/?search=死之信息
-.. _`未来融合`: https://ygocdb.com/?search=未来融合
-.. _`黑羽-大旆之伐由`: https://ygocdb.com/?search=黑羽-大旆之伐由
-.. _`三眼怪`: https://ygocdb.com/?search=三眼怪
-.. _`慧眼之魔术师`: https://ygocdb.com/?search=慧眼之魔术师
-.. _`英炎星-鹰荣`: https://ygocdb.com/?search=英炎星-鹰荣
-.. _`入魔雷神鸟`: https://ygocdb.com/?search=入魔雷神鸟
-.. _`僵尸带菌者`: https://ygocdb.com/?search=僵尸带菌者
-.. _`传说之都 亚特兰蒂斯`: https://ygocdb.com/?search=传说之都+亚特兰蒂斯
-.. _`吸血鬼移地`: https://ygocdb.com/?search=吸血鬼移地
-.. _`龙呼相争`: https://ygocdb.com/?search=龙呼相争
-.. _`剑斗兽 凯撒`: https://ygocdb.com/?search=剑斗兽+凯撒
-.. _`通灵盘`: https://ygocdb.com/?search=通灵盘
-.. _`吸血鬼帝国`: https://ygocdb.com/?search=吸血鬼帝国
-.. _`阳炎柱`: https://ygocdb.com/?search=阳炎柱
-.. _`急袭猛禽-究极猎鹰`: https://ygocdb.com/?search=急袭猛禽-究极猎鹰
-.. _`死灵守卫者`: https://ygocdb.com/?search=死灵守卫者
-.. _`龙魔王`: https://ygocdb.com/?search=龙魔王
-.. _`究极封印神 艾克佐迪奥斯`: https://ygocdb.com/?search=究极封印神+艾克佐迪奥斯
-.. _`暗黑界的龙神 格拉法`: https://ygocdb.com/?search=暗黑界的龙神+格拉法
-.. _`炎舞-「天枢」`: https://ygocdb.com/?search=炎舞-「天枢」
-.. _`增殖的G`: https://ygocdb.com/?search=增殖的G
-.. _`魔法偏转器`: https://ygocdb.com/?search=魔法偏转器
-.. _`电子暗黑魔角`: https://ygocdb.com/?search=电子暗黑魔角
-.. _`龙剑士`: https://ygocdb.com/?search=龙剑士
-.. _`龙骑兵团`: https://ygocdb.com/?search=龙骑兵团
-.. _`被诅咒的无花果`: https://ygocdb.com/?search=被诅咒的无花果
-.. _`电子暗黑龙骨`: https://ygocdb.com/?search=电子暗黑龙骨
-.. _`暗黑界`: https://ygocdb.com/?search=暗黑界
-.. _`电子暗黑冲击！`: https://ygocdb.com/?search=电子暗黑冲击！
-.. _`妖精传姬-辛德瑞拉`: https://ygocdb.com/?search=妖精传姬-辛德瑞拉
-.. _`No.101 寂静荣誉方舟骑士`: https://ygocdb.com/?search=No.101+寂静荣誉方舟骑士
-.. _`破灭之美神 露茵`: https://ygocdb.com/?search=破灭之美神+露茵
-.. _`破灭之女神 露茵`: https://ygocdb.com/?search=破灭之女神+露茵
-.. _`地龙星-狴犴`: https://ygocdb.com/?search=地龙星-狴犴
-.. _`混沌战士`: https://ygocdb.com/?search=混沌战士
-.. _`仪式魔人 解放者`: https://ygocdb.com/?search=仪式魔人+解放者
-.. _`开辟之骑士`: https://ygocdb.com/?search=开辟之骑士
-.. _`帝王海马`: https://ygocdb.com/?search=帝王海马
-.. _`影灵衣术士 施里特`: https://ygocdb.com/?search=影灵衣术士+施里特
-.. _`魔力掌握`: https://ygocdb.com/?search=魔力掌握
-.. _`毒蛇神 维诺米纳迦`: https://ygocdb.com/?search=毒蛇神+维诺米纳迦
-.. _`雷破`: https://ygocdb.com/?search=雷破
-.. _`命运英雄 毁灭凤凰人`: https://ygocdb.com/?search=命运英雄+毁灭凤凰人
-.. _`命运英雄`: https://ygocdb.com/?search=命运英雄
+
+.. _`命运英雄 毁灭凤凰人`: https://ygocdb.com/card/name/命运英雄%20毁灭凤凰人
+.. _`究极封印神 艾克佐迪奥斯`: https://ygocdb.com/card/name/究极封印神%20艾克佐迪奥斯
+.. _`毒蛇神 维诺米纳迦`: https://ygocdb.com/card/name/毒蛇神%20维诺米纳迦
+.. _`No.101 寂静荣誉方舟骑士`: https://ygocdb.com/card/name/No.101%20寂静荣誉方舟骑士
+.. _`机壳`: https://ygocdb.com/card/name/机壳
+.. _`未来融合`: https://ygocdb.com/card/name/未来融合
+.. _`龙魔王`: https://ygocdb.com/card/name/龙魔王
+.. _`强袭黑羽-雾雨之苦无鸟`: https://ygocdb.com/card/name/强袭黑羽-雾雨之苦无鸟
+.. _`被封印的艾克佐迪亚`: https://ygocdb.com/card/name/被封印的艾克佐迪亚
+.. _`慧眼之魔术师`: https://ygocdb.com/card/name/慧眼之魔术师
+.. _`吸血鬼帝国`: https://ygocdb.com/card/name/吸血鬼帝国
+.. _`天狱之王`: https://ygocdb.com/card/name/天狱之王
+.. _`魔力掌握`: https://ygocdb.com/card/name/魔力掌握
+.. _`电子暗黑冲击！`: https://ygocdb.com/card/name/电子暗黑冲击！
+.. _`混沌战士`: https://ygocdb.com/card/name/混沌战士
+.. _`十二兽`: https://ygocdb.com/card/name/十二兽
+.. _`龙剑士`: https://ygocdb.com/card/name/龙剑士
+.. _`阳炎兽`: https://ygocdb.com/card/name/阳炎兽
+.. _`龙骑兵团神枪`: https://ygocdb.com/card/name/龙骑兵团神枪
+.. _`英炎星-鹰荣`: https://ygocdb.com/card/name/英炎星-鹰荣
+.. _`影灵衣术士 施里特`: https://ygocdb.com/card/name/影灵衣术士%20施里特
+.. _`暗黑界`: https://ygocdb.com/card/name/暗黑界
+.. _`念动力防卫者`: https://ygocdb.com/card/name/念动力防卫者
+.. _`吸血鬼移地`: https://ygocdb.com/card/name/吸血鬼移地
+.. _`雷破`: https://ygocdb.com/card/name/雷破
+.. _`暗黑终结龙`: https://ygocdb.com/card/name/暗黑终结龙
+.. _`电子暗黑魔角`: https://ygocdb.com/card/name/电子暗黑魔角
+.. _`电子暗黑刃翼`: https://ygocdb.com/card/name/电子暗黑刃翼
+.. _`死灵守卫者`: https://ygocdb.com/card/name/死灵守卫者
+.. _`黑羽`: https://ygocdb.com/card/name/黑羽
+.. _`传说之都 亚特兰蒂斯`: https://ygocdb.com/card/name/传说之都%20亚特兰蒂斯
+.. _`暗黑界的龙神 格拉法`: https://ygocdb.com/card/name/暗黑界的龙神%20格拉法
+.. _`堕恶之爪`: https://ygocdb.com/card/name/堕恶之爪
+.. _`破灭之美神 露茵`: https://ygocdb.com/card/name/破灭之美神%20露茵
+.. _`增殖的G`: https://ygocdb.com/card/name/增殖的G
+.. _`破灭之女神 露茵`: https://ygocdb.com/card/name/破灭之女神%20露茵
+.. _`禁止令`: https://ygocdb.com/card/name/禁止令
+.. _`急袭猛禽-究极猎鹰`: https://ygocdb.com/card/name/急袭猛禽-究极猎鹰
+.. _`炎舞-「天枢」`: https://ygocdb.com/card/name/炎舞-「天枢」
+.. _`龙呼相争`: https://ygocdb.com/card/name/龙呼相争
+.. _`帝王海马`: https://ygocdb.com/card/name/帝王海马
+.. _`入魔雷神鸟`: https://ygocdb.com/card/name/入魔雷神鸟
+.. _`开辟之骑士`: https://ygocdb.com/card/name/开辟之骑士
+.. _`黑羽-大旆之伐由`: https://ygocdb.com/card/name/黑羽-大旆之伐由
+.. _`三眼怪`: https://ygocdb.com/card/name/三眼怪
+.. _`死之信息`: https://ygocdb.com/card/name/死之信息
+.. _`龙骑兵团-方阵龙`: https://ygocdb.com/card/name/龙骑兵团-方阵龙
+.. _`被诅咒的无花果`: https://ygocdb.com/card/name/被诅咒的无花果
+.. _`仪式魔人 解放者`: https://ygocdb.com/card/name/仪式魔人%20解放者
+.. _`电子暗黑龙骨`: https://ygocdb.com/card/name/电子暗黑龙骨
+.. _`妖精传姬-辛德瑞拉`: https://ygocdb.com/card/name/妖精传姬-辛德瑞拉
+.. _`剑斗兽 凯撒`: https://ygocdb.com/card/name/剑斗兽%20凯撒
+.. _`剑斗兽`: https://ygocdb.com/card/name/剑斗兽
+.. _`通灵盘`: https://ygocdb.com/card/name/通灵盘
+.. _`僵尸带菌者`: https://ygocdb.com/card/name/僵尸带菌者
+.. _`阳炎柱`: https://ygocdb.com/card/name/阳炎柱
+.. _`地龙星-狴犴`: https://ygocdb.com/card/name/地龙星-狴犴
+.. _`命运英雄`: https://ygocdb.com/card/name/命运英雄
+.. _`龙骑兵团`: https://ygocdb.com/card/name/龙骑兵团
+.. _`魔法偏转器`: https://ygocdb.com/card/name/魔法偏转器
+.. _`十二兽的方合`: https://ygocdb.com/card/name/十二兽的方合

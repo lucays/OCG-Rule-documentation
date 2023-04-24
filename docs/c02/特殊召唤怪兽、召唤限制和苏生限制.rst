@@ -197,104 +197,104 @@ P召唤                                 ×                ○                   
    | 例：
    | 「`古代的机械究极巨人`_」的③效果可以特殊召唤记述了『这张卡不能特殊召唤』的「`古代的机械巨人`_」。此外作为通常召唤怪兽的「`古代的机械巨人`_」没有苏生限制，即使直接从手卡·卡组送去墓地也可以这样无视召唤条件特殊召唤。
 
-.. _`打草惹蛇`: https://ygocdb.com/?search=打草惹蛇
-.. _`天声的服从`: https://ygocdb.com/?search=天声的服从
-.. _`青色眼睛的少女`: https://ygocdb.com/?search=青色眼睛的少女
-.. _`星光大道`: https://ygocdb.com/?search=星光大道
-.. _`宏大木星`: https://ygocdb.com/?search=宏大木星
-.. _`异色眼降临`: https://ygocdb.com/?search=异色眼降临
-.. _`等级下降！？`: https://ygocdb.com/?search=等级下降！？
-.. _`青眼混沌龙`: https://ygocdb.com/?search=青眼混沌龙
-.. _`守护者·特莱斯`: https://ygocdb.com/?search=守护者·特莱斯
-.. _`暗黑界`: https://ygocdb.com/?search=暗黑界
-.. _`灵兽使 蕾拉`: https://ygocdb.com/?search=灵兽使+蕾拉
-.. _`变化气圈鸟`: https://ygocdb.com/?search=变化气圈鸟
-.. _`究极宝玉神`: https://ygocdb.com/?search=究极宝玉神
-.. _`光与暗之龙`: https://ygocdb.com/?search=光与暗之龙
-.. _`限定解除`: https://ygocdb.com/?search=限定解除
-.. _`异色眼绝零龙`: https://ygocdb.com/?search=异色眼绝零龙
-.. _`永远的淑女 贝阿特丽切`: https://ygocdb.com/?search=永远的淑女+贝阿特丽切
-.. _`神之宣告`: https://ygocdb.com/?search=神之宣告
-.. _`青眼卡通龙`: https://ygocdb.com/?search=青眼卡通龙
-.. _`暗黑界的龙神 格拉法`: https://ygocdb.com/?search=暗黑界的龙神+格拉法
-.. _`彼岸的诗人 维吉尔`: https://ygocdb.com/?search=彼岸的诗人+维吉尔
-.. _`融合`: https://ygocdb.com/?search=融合
-.. _`涅槃之超魔导剑士`: https://ygocdb.com/?search=涅槃之超魔导剑士
-.. _`真红眼卡通龙`: https://ygocdb.com/?search=真红眼卡通龙
-.. _`精灵兽使 薇茵妲`: https://ygocdb.com/?search=精灵兽使+薇茵妲
-.. _`炎狱魔人 地狱焚魔`: https://ygocdb.com/?search=炎狱魔人+地狱焚魔
-.. _`虹之引力`: https://ygocdb.com/?search=虹之引力
-.. _`魂食神龙 吸灵龙`: https://ygocdb.com/?search=魂食神龙+吸灵龙
-.. _`天刑王 黑天`: https://ygocdb.com/?search=天刑王+黑天
-.. _`毒蛇神 维诺米纳迦`: https://ygocdb.com/?search=毒蛇神+维诺米纳迦
-.. _`狱火机·拿玛`: https://ygocdb.com/?search=狱火机·拿玛
-.. _`电子化天使-那沙帝弥-`: https://ygocdb.com/?search=电子化天使-那沙帝弥-
-.. _`青天霹雳`: https://ygocdb.com/?search=青天霹雳
-.. _`电光-雪花-`: https://ygocdb.com/?search=电光-雪花-
-.. _`传说的骑士`: https://ygocdb.com/?search=传说的骑士
-.. _`二重英雄攻击`: https://ygocdb.com/?search=二重英雄攻击
-.. _`圣灵兽骑 火狮`: https://ygocdb.com/?search=圣灵兽骑+火狮
-.. _`星尘龙·爆裂体`: https://ygocdb.com/?search=星尘龙·爆裂体
-.. _`王宫的铁壁`: https://ygocdb.com/?search=王宫的铁壁
-.. _`破限疾驰`: https://ygocdb.com/?search=破限疾驰
-.. _`青眼亚白龙`: https://ygocdb.com/?search=青眼亚白龙
-.. _`风魔女-水晶钟`: https://ygocdb.com/?search=风魔女-水晶钟
-.. _`蛇神降临`: https://ygocdb.com/?search=蛇神降临
-.. _`影灵衣的返魂术`: https://ygocdb.com/?search=影灵衣的返魂术
-.. _`超天新龙 异色眼革命龙`: https://ygocdb.com/?search=超天新龙+异色眼革命龙
-.. _`月之书`: https://ygocdb.com/?search=月之书
-.. _`星尘战士`: https://ygocdb.com/?search=星尘战士
-.. _`简易融合`: https://ygocdb.com/?search=简易融合
-.. _`狱火机`: https://ygocdb.com/?search=狱火机
-.. _`究极宝玉神 虹桥龙`: https://ygocdb.com/?search=究极宝玉神+虹桥龙
-.. _`青眼双爆裂龙`: https://ygocdb.com/?search=青眼双爆裂龙
-.. _`武装龙 LV7`: https://ygocdb.com/?search=武装龙+LV7
-.. _`假面英雄 暗爪`: https://ygocdb.com/?search=假面英雄+暗爪
-.. _`假面变化`: https://ygocdb.com/?search=假面变化
-.. _`冥界的魔王 哈·迪斯`: https://ygocdb.com/?search=冥界的魔王+哈·迪斯
-.. _`合神龙 蒂迈欧`: https://ygocdb.com/?search=合神龙+蒂迈欧
-.. _`青色眼睛的护人`: https://ygocdb.com/?search=青色眼睛的护人
-.. _`欧贝利斯克的巨神兵`: https://ygocdb.com/?search=欧贝利斯克的巨神兵
-.. _`王家长眠之谷`: https://ygocdb.com/?search=王家长眠之谷
-.. _`形态变化`: https://ygocdb.com/?search=形态变化
-.. _`高等仪式术`: https://ygocdb.com/?search=高等仪式术
-.. _`辉剑鸟之影灵衣`: https://ygocdb.com/?search=辉剑鸟之影灵衣
-.. _`同调变化`: https://ygocdb.com/?search=同调变化
-.. _`超级量子必杀 阿尔方球`: https://ygocdb.com/?search=超级量子必杀+阿尔方球
-.. _`ABC-神龙歼灭者`: https://ygocdb.com/?search=ABC-神龙歼灭者
-.. _`冥占术姬 塔罗幽巫女`: https://ygocdb.com/?search=冥占术姬+塔罗幽巫女
-.. _`守护者·戴思塞斯`: https://ygocdb.com/?search=守护者·戴思塞斯
-.. _`光之创造神 哈拉克提`: https://ygocdb.com/?search=光之创造神+哈拉克提
-.. _`灵摆多福鸟`: https://ygocdb.com/?search=灵摆多福鸟
-.. _`狱火机·莉莉丝`: https://ygocdb.com/?search=狱火机·莉莉丝
-.. _`等级上升！`: https://ygocdb.com/?search=等级上升！
-.. _`爆裂模式`: https://ygocdb.com/?search=爆裂模式
-.. _`神之通告`: https://ygocdb.com/?search=神之通告
-.. _`混沌帝龙 -终焉的使者-`: https://ygocdb.com/?search=混沌帝龙+-终焉的使者-
-.. _`融合之门`: https://ygocdb.com/?search=融合之门
-.. _`武装龙 LV10`: https://ygocdb.com/?search=武装龙+LV10
-.. _`闪耀巨龙`: https://ygocdb.com/?search=闪耀巨龙
-.. _`融合禁止区域`: https://ygocdb.com/?search=融合禁止区域
-.. _`影灵衣`: https://ygocdb.com/?search=影灵衣
-.. _`古圣戴 始龙`: https://ygocdb.com/?search=古圣戴+始龙
-.. _`神兽王 巴巴罗斯`: https://ygocdb.com/?search=神兽王+巴巴罗斯
-.. _`斯芬克斯·安德鲁吉尼斯`: https://ygocdb.com/?search=斯芬克斯·安德鲁吉尼斯
-.. _`异色眼灵摆读龙`: https://ygocdb.com/?search=异色眼灵摆读龙
-.. _`假面变化二型`: https://ygocdb.com/?search=假面变化二型
-.. _`创世神`: https://ygocdb.com/?search=创世神
-.. _`圣占术姬 塔罗光巫女`: https://ygocdb.com/?search=圣占术姬+塔罗光巫女
-.. _`死者苏生`: https://ygocdb.com/?search=死者苏生
-.. _`霸王黑龙 异色眼叛逆龙`: https://ygocdb.com/?search=霸王黑龙+异色眼叛逆龙
-.. _`光道兽 沃尔夫`: https://ygocdb.com/?search=光道兽+沃尔夫
-.. _`黑洞`: https://ygocdb.com/?search=黑洞
-.. _`同盟运输车`: https://ygocdb.com/?search=同盟运输车
-.. _`光道弓手 费莉丝`: https://ygocdb.com/?search=光道弓手+费莉丝
-.. _`迷彩光书签`: https://ygocdb.com/?search=迷彩光书签
-.. _`黑衣大贤者`: https://ygocdb.com/?search=黑衣大贤者
-.. _`星尘龙`: https://ygocdb.com/?search=星尘龙
-.. _`水晶机巧 继承玻纤`: https://ygocdb.com/?search=水晶机巧+继承玻纤
-.. _`霸王紫龙 异色眼猛毒龙`: https://ygocdb.com/?search=霸王紫龙+异色眼猛毒龙
-.. _`古代的机械究极巨人`: https://ygocdb.com/?search=古代的机械究极巨人
-.. _`古代的机械巨人`: https://ygocdb.com/?search=古代的机械巨人
-.. _`超量调换`: https://ygocdb.com/?search=超量调换
-.. _`群豪世界-真罗万象`: https://ygocdb.com/?search=群豪世界-真罗万象
+
+.. _`传说的骑士`: https://ygocdb.com/card/name/传说的骑士
+.. _`精灵兽使 薇茵妲`: https://ygocdb.com/card/name/精灵兽使%20薇茵妲
+.. _`冥界的魔王 哈·迪斯`: https://ygocdb.com/card/name/冥界的魔王%20哈·迪斯
+.. _`王家长眠之谷`: https://ygocdb.com/card/name/王家长眠之谷
+.. _`光之创造神 哈拉克提`: https://ygocdb.com/card/name/光之创造神%20哈拉克提
+.. _`融合`: https://ygocdb.com/card/name/融合
+.. _`超级量子必杀 阿尔方球`: https://ygocdb.com/card/name/超级量子必杀%20阿尔方球
+.. _`高等仪式术`: https://ygocdb.com/card/name/高等仪式术
+.. _`限定解除`: https://ygocdb.com/card/name/限定解除
+.. _`守护者·特莱斯`: https://ygocdb.com/card/name/守护者·特莱斯
+.. _`武装龙 LV10`: https://ygocdb.com/card/name/武装龙%20LV10
+.. _`同盟运输车`: https://ygocdb.com/card/name/同盟运输车
+.. _`简易融合`: https://ygocdb.com/card/name/简易融合
+.. _`影灵衣`: https://ygocdb.com/card/name/影灵衣
+.. _`超量调换`: https://ygocdb.com/card/name/超量调换
+.. _`光与暗之龙`: https://ygocdb.com/card/name/光与暗之龙
+.. _`星光大道`: https://ygocdb.com/card/name/星光大道
+.. _`同调变化`: https://ygocdb.com/card/name/同调变化
+.. _`异色眼降临`: https://ygocdb.com/card/name/异色眼降临
+.. _`冥占术姬 塔罗幽巫女`: https://ygocdb.com/card/name/冥占术姬%20塔罗幽巫女
+.. _`破限疾驰`: https://ygocdb.com/card/name/破限疾驰
+.. _`守护者·戴思塞斯`: https://ygocdb.com/card/name/守护者·戴思塞斯
+.. _`古圣戴 始龙`: https://ygocdb.com/card/name/古圣戴%20始龙
+.. _`ABC-神龙歼灭者`: https://ygocdb.com/card/name/ABC-神龙歼灭者
+.. _`青色眼睛的少女`: https://ygocdb.com/card/name/青色眼睛的少女
+.. _`青眼混沌龙`: https://ygocdb.com/card/name/青眼混沌龙
+.. _`神之宣告`: https://ygocdb.com/card/name/神之宣告
+.. _`究极宝玉神`: https://ygocdb.com/card/name/究极宝玉神
+.. _`武装龙 LV7`: https://ygocdb.com/card/name/武装龙%20LV7
+.. _`狱火机·拿玛`: https://ygocdb.com/card/name/狱火机·拿玛
+.. _`光道兽 沃尔夫`: https://ygocdb.com/card/name/光道兽%20沃尔夫
+.. _`圣占术姬 塔罗光巫女`: https://ygocdb.com/card/name/圣占术姬%20塔罗光巫女
+.. _`异色眼灵摆读龙`: https://ygocdb.com/card/name/异色眼灵摆读龙
+.. _`青眼双爆裂龙`: https://ygocdb.com/card/name/青眼双爆裂龙
+.. _`霸王黑龙 异色眼叛逆龙`: https://ygocdb.com/card/name/霸王黑龙%20异色眼叛逆龙
+.. _`黑洞`: https://ygocdb.com/card/name/黑洞
+.. _`星尘龙·爆裂体`: https://ygocdb.com/card/name/星尘龙·爆裂体
+.. _`天刑王 黑天`: https://ygocdb.com/card/name/天刑王%20黑天
+.. _`虹之引力`: https://ygocdb.com/card/name/虹之引力
+.. _`爆裂模式`: https://ygocdb.com/card/name/爆裂模式
+.. _`星尘龙`: https://ygocdb.com/card/name/星尘龙
+.. _`灵摆多福鸟`: https://ygocdb.com/card/name/灵摆多福鸟
+.. _`混沌帝龙 -终焉的使者-`: https://ygocdb.com/card/name/混沌帝龙%20-终焉的使者-
+.. _`欧贝利斯克的巨神兵`: https://ygocdb.com/card/name/欧贝利斯克的巨神兵
+.. _`形态变化`: https://ygocdb.com/card/name/形态变化
+.. _`水晶机巧 继承玻纤`: https://ygocdb.com/card/name/水晶机巧%20继承玻纤
+.. _`二重英雄攻击`: https://ygocdb.com/card/name/二重英雄攻击
+.. _`究极宝玉神 虹桥龙`: https://ygocdb.com/card/name/究极宝玉神%20虹桥龙
+.. _`王宫的铁壁`: https://ygocdb.com/card/name/王宫的铁壁
+.. _`宏大木星`: https://ygocdb.com/card/name/宏大木星
+.. _`毒蛇神 维诺米纳迦`: https://ygocdb.com/card/name/毒蛇神%20维诺米纳迦
+.. _`彼岸的诗人 维吉尔`: https://ygocdb.com/card/name/彼岸的诗人%20维吉尔
+.. _`狱火机`: https://ygocdb.com/card/name/狱火机
+.. _`青眼亚白龙`: https://ygocdb.com/card/name/青眼亚白龙
+.. _`融合禁止区域`: https://ygocdb.com/card/name/融合禁止区域
+.. _`群豪世界-真罗万象`: https://ygocdb.com/card/name/群豪世界-真罗万象
+.. _`创世神`: https://ygocdb.com/card/name/创世神
+.. _`暗黑界`: https://ygocdb.com/card/name/暗黑界
+.. _`星尘战士`: https://ygocdb.com/card/name/星尘战士
+.. _`古代的机械巨人`: https://ygocdb.com/card/name/古代的机械巨人
+.. _`电光-雪花-`: https://ygocdb.com/card/name/电光-雪花-
+.. _`合神龙 蒂迈欧`: https://ygocdb.com/card/name/合神龙%20蒂迈欧
+.. _`月之书`: https://ygocdb.com/card/name/月之书
+.. _`风魔女-水晶钟`: https://ygocdb.com/card/name/风魔女-水晶钟
+.. _`光道弓手 费莉丝`: https://ygocdb.com/card/name/光道弓手%20费莉丝
+.. _`闪耀巨龙`: https://ygocdb.com/card/name/闪耀巨龙
+.. _`真红眼卡通龙`: https://ygocdb.com/card/name/真红眼卡通龙
+.. _`电子化天使-那沙帝弥-`: https://ygocdb.com/card/name/电子化天使-那沙帝弥-
+.. _`影灵衣的返魂术`: https://ygocdb.com/card/name/影灵衣的返魂术
+.. _`涅槃之超魔导剑士`: https://ygocdb.com/card/name/涅槃之超魔导剑士
+.. _`古代的机械究极巨人`: https://ygocdb.com/card/name/古代的机械究极巨人
+.. _`假面英雄 暗爪`: https://ygocdb.com/card/name/假面英雄%20暗爪
+.. _`魂食神龙 吸灵龙`: https://ygocdb.com/card/name/魂食神龙%20吸灵龙
+.. _`融合之门`: https://ygocdb.com/card/name/融合之门
+.. _`等级上升！`: https://ygocdb.com/card/name/等级上升！
+.. _`辉剑鸟之影灵衣`: https://ygocdb.com/card/name/辉剑鸟之影灵衣
+.. _`黑衣大贤者`: https://ygocdb.com/card/name/黑衣大贤者
+.. _`暗黑界的龙神 格拉法`: https://ygocdb.com/card/name/暗黑界的龙神%20格拉法
+.. _`狱火机·莉莉丝`: https://ygocdb.com/card/name/狱火机·莉莉丝
+.. _`变化气圈鸟`: https://ygocdb.com/card/name/变化气圈鸟
+.. _`打草惹蛇`: https://ygocdb.com/card/name/打草惹蛇
+.. _`迷彩光书签`: https://ygocdb.com/card/name/迷彩光书签
+.. _`蛇神降临`: https://ygocdb.com/card/name/蛇神降临
+.. _`假面变化二型`: https://ygocdb.com/card/name/假面变化二型
+.. _`天声的服从`: https://ygocdb.com/card/name/天声的服从
+.. _`青眼卡通龙`: https://ygocdb.com/card/name/青眼卡通龙
+.. _`圣灵兽骑 火狮`: https://ygocdb.com/card/name/圣灵兽骑%20火狮
+.. _`死者苏生`: https://ygocdb.com/card/name/死者苏生
+.. _`青天霹雳`: https://ygocdb.com/card/name/青天霹雳
+.. _`永远的淑女 贝阿特丽切`: https://ygocdb.com/card/name/永远的淑女%20贝阿特丽切
+.. _`神兽王 巴巴罗斯`: https://ygocdb.com/card/name/神兽王%20巴巴罗斯
+.. _`灵兽使 蕾拉`: https://ygocdb.com/card/name/灵兽使%20蕾拉
+.. _`超天新龙 异色眼革命龙`: https://ygocdb.com/card/name/超天新龙%20异色眼革命龙
+.. _`假面变化`: https://ygocdb.com/card/name/假面变化
+.. _`青色眼睛的护人`: https://ygocdb.com/card/name/青色眼睛的护人
+.. _`斯芬克斯·安德鲁吉尼斯`: https://ygocdb.com/card/name/斯芬克斯·安德鲁吉尼斯
+.. _`异色眼绝零龙`: https://ygocdb.com/card/name/异色眼绝零龙
+.. _`神之通告`: https://ygocdb.com/card/name/神之通告
+.. _`炎狱魔人 地狱焚魔`: https://ygocdb.com/card/name/炎狱魔人%20地狱焚魔
+.. _`等级下降！？`: https://ygocdb.com/card/name/等级下降！？

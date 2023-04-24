@@ -95,75 +95,76 @@
 | 「`堕天使`_」怪兽以墓地「`背德之堕天使`_」为对象发动②效果时，不能连锁发动「`星尘龙`_」的①效果。
 | 「`芙莉西亚之虫惑魔`_」的③效果不是破坏效果，即使把「`奈落的落穴`_」送去墓地作为cost发动，也不能连锁发动「`星尘龙`_」的效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16681&keyword=&tag=-1&request_locale=ja>`__
 
-.. _`无差别崩坏`: https://ygocdb.com/?search=无差别崩坏
-.. _`愚蠢的埋葬`: https://ygocdb.com/?search=愚蠢的埋葬
-.. _`沉眠于星遗物的深层`: https://ygocdb.com/?search=沉眠于星遗物的深层
-.. _`守墓的监视者`: https://ygocdb.com/?search=守墓的监视者
-.. _`礼品卡`: https://ygocdb.com/?search=礼品卡
-.. _`娱乐法师 伤害杂耍人`: https://ygocdb.com/?search=娱乐法师+伤害杂耍人
-.. _`星见兽 加里斯`: https://ygocdb.com/?search=星见兽+加里斯
-.. _`冰结界之镜`: https://ygocdb.com/?search=冰结界之镜
-.. _`炎舞-「瑶光」`: https://ygocdb.com/?search=炎舞-「瑶光」
-.. _`双生恶魔`: https://ygocdb.com/?search=双生恶魔
-.. _`古遗物 巨怒剑`: https://ygocdb.com/?search=古遗物+巨怒剑
-.. _`堕天使的追放`: https://ygocdb.com/?search=堕天使的追放
-.. _`固定音型`: https://ygocdb.com/?search=固定音型
-.. _`紧急仪式术`: https://ygocdb.com/?search=紧急仪式术
-.. _`怨邪帝 盖乌斯`: https://ygocdb.com/?search=怨邪帝+盖乌斯
-.. _`娱乐伙伴 雨衣山羊`: https://ygocdb.com/?search=娱乐伙伴+雨衣山羊
-.. _`芙莉西亚之虫惑魔`: https://ygocdb.com/?search=芙莉西亚之虫惑魔
-.. _`星尘龙`: https://ygocdb.com/?search=星尘龙
-.. _`背德之堕天使`: https://ygocdb.com/?search=背德之堕天使
-.. _`PSY骨架装备·γ`: https://ygocdb.com/?search=PSY骨架装备·γ
-.. _`原始太阳 赫利俄斯`: https://ygocdb.com/?search=原始太阳+赫利俄斯
-.. _`自然的神星树`: https://ygocdb.com/?search=自然的神星树
-.. _`魔导书的神判`: https://ygocdb.com/?search=魔导书的神判
-.. _`奈落的落穴`: https://ygocdb.com/?search=奈落的落穴
-.. _`炎天祸 桑伯恩`: https://ygocdb.com/?search=炎天祸+桑伯恩
-.. _`小法师 水鱿火达磨`: https://ygocdb.com/?search=小法师+水鱿火达磨
-.. _`时间魔术师`: https://ygocdb.com/?search=时间魔术师
-.. _`PSY骨架驱动者`: https://ygocdb.com/?search=PSY骨架驱动者
-.. _`破坏轮`: https://ygocdb.com/?search=破坏轮
-.. _`娱乐法师 高跷射手`: https://ygocdb.com/?search=娱乐法师+高跷射手
-.. _`增殖的G`: https://ygocdb.com/?search=增殖的G
-.. _`替罪的黑暗`: https://ygocdb.com/?search=替罪的黑暗
-.. _`饼蛙`: https://ygocdb.com/?search=饼蛙
-.. _`狱火机 提耶拉`: https://ygocdb.com/?search=狱火机+提耶拉
-.. _`紧急同调`: https://ygocdb.com/?search=紧急同调
-.. _`破坏干扰`: https://ygocdb.com/?search=破坏干扰
-.. _`药物引发的副作用`: https://ygocdb.com/?search=药物引发的副作用
-.. _`狱火机·莉莉丝`: https://ygocdb.com/?search=狱火机·莉莉丝
-.. _`一时休战`: https://ygocdb.com/?search=一时休战
-.. _`灰流丽`: https://ygocdb.com/?search=灰流丽
-.. _`屋敷童`: https://ygocdb.com/?search=屋敷童
-.. _`我身作盾`: https://ygocdb.com/?search=我身作盾
-.. _`心灵崩坏`: https://ygocdb.com/?search=心灵崩坏
-.. _`零-最大`: https://ygocdb.com/?search=零-最大
-.. _`神之警告`: https://ygocdb.com/?search=神之警告
-.. _`堕天使`: https://ygocdb.com/?search=堕天使
-.. _`影依融合`: https://ygocdb.com/?search=影依融合
-.. _`奥西里斯之天空龙`: https://ygocdb.com/?search=奥西里斯之天空龙
-.. _`森之番人 绿狒狒`: https://ygocdb.com/?search=森之番人+绿狒狒
-.. _`刻印之调停者`: https://ygocdb.com/?search=刻印之调停者
-.. _`刚地帝 格兰玛格`: https://ygocdb.com/?search=刚地帝+格兰玛格
-.. _`水卜之魔导书`: https://ygocdb.com/?search=水卜之魔导书
-.. _`次元魔法`: https://ygocdb.com/?search=次元魔法
-.. _`封印的黄金柜`: https://ygocdb.com/?search=封印的黄金柜
-.. _`混源龙 巨涡始祖神`: https://ygocdb.com/?search=混源龙+巨涡始祖神
-.. _`大宇宙`: https://ygocdb.com/?search=大宇宙
-.. _`真龙皇 阿耆尼马兹德·消灭`: https://ygocdb.com/?search=真龙皇+阿耆尼马兹德·消灭
-.. _`火之迦具土`: https://ygocdb.com/?search=火之迦具土
-.. _`潜行狙击手`: https://ygocdb.com/?search=潜行狙击手
-.. _`日全食之书`: https://ygocdb.com/?search=日全食之书
-.. _`星光大道`: https://ygocdb.com/?search=星光大道
-.. _`娱乐法师 秋千魔术家`: https://ygocdb.com/?search=娱乐法师+秋千魔术家
-.. _`No.90 银河眼光子卿`: https://ygocdb.com/?search=No.90+银河眼光子卿
-.. _`死之卡组破坏病毒`: https://ygocdb.com/?search=死之卡组破坏病毒
-.. _`银河`: https://ygocdb.com/?search=银河
-.. _`连锁破坏`: https://ygocdb.com/?search=连锁破坏
-.. _`召唤兽 梅尔卡巴`: https://ygocdb.com/?search=召唤兽+梅尔卡巴
-.. _`女神薇儿丹蒂的引导`: https://ygocdb.com/?search=女神薇儿丹蒂的引导
-.. _`珠泪哀歌族·鲁莎卡人鱼`: https://ygocdb.com/?search=珠泪哀歌族·鲁莎卡人鱼
-.. _`废品栗子球`: https://ygocdb.com/?search=废品栗子球
-.. _`混沌No.15 机关傀儡-连环杀手`: https://ygocdb.com/?search=混沌No.15+机关傀儡-连环杀手
-.. _`武装新宇侠`: https://ygocdb.com/?search=武装新宇侠
+
+.. _`奈落的落穴`: https://ygocdb.com/card/name/奈落的落穴
+.. _`珠泪哀歌族·鲁莎卡人鱼`: https://ygocdb.com/card/name/珠泪哀歌族·鲁莎卡人鱼
+.. _`星光大道`: https://ygocdb.com/card/name/星光大道
+.. _`屋敷童`: https://ygocdb.com/card/name/屋敷童
+.. _`堕天使`: https://ygocdb.com/card/name/堕天使
+.. _`狱火机 提耶拉`: https://ygocdb.com/card/name/狱火机%20提耶拉
+.. _`古遗物 巨怒剑`: https://ygocdb.com/card/name/古遗物%20巨怒剑
+.. _`紧急仪式术`: https://ygocdb.com/card/name/紧急仪式术
+.. _`固定音型`: https://ygocdb.com/card/name/固定音型
+.. _`No.90 银河眼光子卿`: https://ygocdb.com/card/name/No.90%20银河眼光子卿
+.. _`娱乐伙伴 雨衣山羊`: https://ygocdb.com/card/name/娱乐伙伴%20雨衣山羊
+.. _`零-最大`: https://ygocdb.com/card/name/零-最大
+.. _`混源龙 巨涡始祖神`: https://ygocdb.com/card/name/混源龙%20巨涡始祖神
+.. _`背德之堕天使`: https://ygocdb.com/card/name/背德之堕天使
+.. _`怨邪帝 盖乌斯`: https://ygocdb.com/card/name/怨邪帝%20盖乌斯
+.. _`时间魔术师`: https://ygocdb.com/card/name/时间魔术师
+.. _`娱乐法师 高跷射手`: https://ygocdb.com/card/name/娱乐法师%20高跷射手
+.. _`魔导书的神判`: https://ygocdb.com/card/name/魔导书的神判
+.. _`武装新宇侠`: https://ygocdb.com/card/name/武装新宇侠
+.. _`PSY骨架驱动者`: https://ygocdb.com/card/name/PSY骨架驱动者
+.. _`封印的黄金柜`: https://ygocdb.com/card/name/封印的黄金柜
+.. _`堕天使的追放`: https://ygocdb.com/card/name/堕天使的追放
+.. _`死之卡组破坏病毒`: https://ygocdb.com/card/name/死之卡组破坏病毒
+.. _`真龙皇 阿耆尼马兹德·消灭`: https://ygocdb.com/card/name/真龙皇%20阿耆尼马兹德·消灭
+.. _`饼蛙`: https://ygocdb.com/card/name/饼蛙
+.. _`紧急同调`: https://ygocdb.com/card/name/紧急同调
+.. _`大宇宙`: https://ygocdb.com/card/name/大宇宙
+.. _`原始太阳 赫利俄斯`: https://ygocdb.com/card/name/原始太阳%20赫利俄斯
+.. _`神之警告`: https://ygocdb.com/card/name/神之警告
+.. _`小法师 水鱿火达磨`: https://ygocdb.com/card/name/小法师%20水鱿火达磨
+.. _`娱乐法师 伤害杂耍人`: https://ygocdb.com/card/name/娱乐法师%20伤害杂耍人
+.. _`守墓的监视者`: https://ygocdb.com/card/name/守墓的监视者
+.. _`药物引发的副作用`: https://ygocdb.com/card/name/药物引发的副作用
+.. _`破坏干扰`: https://ygocdb.com/card/name/破坏干扰
+.. _`灰流丽`: https://ygocdb.com/card/name/灰流丽
+.. _`刚地帝 格兰玛格`: https://ygocdb.com/card/name/刚地帝%20格兰玛格
+.. _`心灵崩坏`: https://ygocdb.com/card/name/心灵崩坏
+.. _`替罪的黑暗`: https://ygocdb.com/card/name/替罪的黑暗
+.. _`增殖的G`: https://ygocdb.com/card/name/增殖的G
+.. _`冰结界之镜`: https://ygocdb.com/card/name/冰结界之镜
+.. _`娱乐法师 秋千魔术家`: https://ygocdb.com/card/name/娱乐法师%20秋千魔术家
+.. _`银河`: https://ygocdb.com/card/name/银河
+.. _`影依融合`: https://ygocdb.com/card/name/影依融合
+.. _`日全食之书`: https://ygocdb.com/card/name/日全食之书
+.. _`炎舞-「瑶光」`: https://ygocdb.com/card/name/炎舞-「瑶光」
+.. _`沉眠于星遗物的深层`: https://ygocdb.com/card/name/沉眠于星遗物的深层
+.. _`混沌No.15 机关傀儡-连环杀手`: https://ygocdb.com/card/name/混沌No.15%20机关傀儡-连环杀手
+.. _`星见兽 加里斯`: https://ygocdb.com/card/name/星见兽%20加里斯
+.. _`愚蠢的埋葬`: https://ygocdb.com/card/name/愚蠢的埋葬
+.. _`炎天祸 桑伯恩`: https://ygocdb.com/card/name/炎天祸%20桑伯恩
+.. _`水卜之魔导书`: https://ygocdb.com/card/name/水卜之魔导书
+.. _`PSY骨架装备·γ`: https://ygocdb.com/card/name/PSY骨架装备·γ
+.. _`自然的神星树`: https://ygocdb.com/card/name/自然的神星树
+.. _`奥西里斯之天空龙`: https://ygocdb.com/card/name/奥西里斯之天空龙
+.. _`星尘龙`: https://ygocdb.com/card/name/星尘龙
+.. _`连锁破坏`: https://ygocdb.com/card/name/连锁破坏
+.. _`森之番人 绿狒狒`: https://ygocdb.com/card/name/森之番人%20绿狒狒
+.. _`破坏轮`: https://ygocdb.com/card/name/破坏轮
+.. _`双生恶魔`: https://ygocdb.com/card/name/双生恶魔
+.. _`女神薇儿丹蒂的引导`: https://ygocdb.com/card/name/女神薇儿丹蒂的引导
+.. _`我身作盾`: https://ygocdb.com/card/name/我身作盾
+.. _`潜行狙击手`: https://ygocdb.com/card/name/潜行狙击手
+.. _`一时休战`: https://ygocdb.com/card/name/一时休战
+.. _`芙莉西亚之虫惑魔`: https://ygocdb.com/card/name/芙莉西亚之虫惑魔
+.. _`召唤兽 梅尔卡巴`: https://ygocdb.com/card/name/召唤兽%20梅尔卡巴
+.. _`无差别崩坏`: https://ygocdb.com/card/name/无差别崩坏
+.. _`次元魔法`: https://ygocdb.com/card/name/次元魔法
+.. _`刻印之调停者`: https://ygocdb.com/card/name/刻印之调停者
+.. _`火之迦具土`: https://ygocdb.com/card/name/火之迦具土
+.. _`礼品卡`: https://ygocdb.com/card/name/礼品卡
+.. _`废品栗子球`: https://ygocdb.com/card/name/废品栗子球
+.. _`狱火机·莉莉丝`: https://ygocdb.com/card/name/狱火机·莉莉丝

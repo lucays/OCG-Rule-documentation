@@ -177,34 +177,35 @@
 
 .. note:: 因此，回合玩家用「水晶翼同调龙」攻击对方的「水晶翼同调龙」时\ **不应该**\ 发动①效果。
 
-.. _`尤尼科之影灵衣`: https://ygocdb.com/?search=尤尼科之影灵衣
-.. _`元素英雄 天空侠`: https://ygocdb.com/?search=元素英雄+天空侠
-.. _`苍眼银龙`: https://ygocdb.com/?search=苍眼银龙
-.. _`龙星的九支`: https://ygocdb.com/?search=龙星的九支
-.. _`青眼白龙`: https://ygocdb.com/?search=青眼白龙
-.. _`欧尼斯特`: https://ygocdb.com/?search=欧尼斯特
-.. _`神之通告`: https://ygocdb.com/?search=神之通告
-.. _`强制脱出装置`: https://ygocdb.com/?search=强制脱出装置
-.. _`坏兽`: https://ygocdb.com/?search=坏兽
-.. _`星尘龙`: https://ygocdb.com/?search=星尘龙
-.. _`黑洞`: https://ygocdb.com/?search=黑洞
-.. _`影灵衣之万华镜`: https://ygocdb.com/?search=影灵衣之万华镜
-.. _`奈落的落穴`: https://ygocdb.com/?search=奈落的落穴
-.. _`十二兽的会局`: https://ygocdb.com/?search=十二兽的会局
-.. _`青眼亚白龙`: https://ygocdb.com/?search=青眼亚白龙
-.. _`虫惑的落穴`: https://ygocdb.com/?search=虫惑的落穴
-.. _`增殖的G`: https://ygocdb.com/?search=增殖的G
-.. _`神之宣告`: https://ygocdb.com/?search=神之宣告
-.. _`邪龙星-睚眦`: https://ygocdb.com/?search=邪龙星-睚眦
-.. _`十二兽`: https://ygocdb.com/?search=十二兽
-.. _`灰流丽`: https://ygocdb.com/?search=灰流丽
-.. _`与神之假身的接触`: https://ygocdb.com/?search=与神之假身的接触
-.. _`效果遮蒙者`: https://ygocdb.com/?search=效果遮蒙者
-.. _`假面英雄 暗爪`: https://ygocdb.com/?search=假面英雄+暗爪
-.. _`禁忌的圣枪`: https://ygocdb.com/?search=禁忌的圣枪
-.. _`虹光之宣告者`: https://ygocdb.com/?search=虹光之宣告者
-.. _`星光大道`: https://ygocdb.com/?search=星光大道
-.. _`水晶翼同调龙`: https://ygocdb.com/?search=水晶翼同调龙
-.. _`青眼精灵龙`: https://ygocdb.com/?search=青眼精灵龙
-.. _`坏兽的休眠中断`: https://ygocdb.com/?search=坏兽的休眠中断
-.. _`神影依 米德拉什`: https://ygocdb.com/?search=神影依+米德拉什
+
+.. _`奈落的落穴`: https://ygocdb.com/card/name/奈落的落穴
+.. _`星光大道`: https://ygocdb.com/card/name/星光大道
+.. _`青眼白龙`: https://ygocdb.com/card/name/青眼白龙
+.. _`效果遮蒙者`: https://ygocdb.com/card/name/效果遮蒙者
+.. _`青眼亚白龙`: https://ygocdb.com/card/name/青眼亚白龙
+.. _`十二兽的会局`: https://ygocdb.com/card/name/十二兽的会局
+.. _`强制脱出装置`: https://ygocdb.com/card/name/强制脱出装置
+.. _`影灵衣之万华镜`: https://ygocdb.com/card/name/影灵衣之万华镜
+.. _`苍眼银龙`: https://ygocdb.com/card/name/苍眼银龙
+.. _`神之宣告`: https://ygocdb.com/card/name/神之宣告
+.. _`邪龙星-睚眦`: https://ygocdb.com/card/name/邪龙星-睚眦
+.. _`与神之假身的接触`: https://ygocdb.com/card/name/与神之假身的接触
+.. _`十二兽`: https://ygocdb.com/card/name/十二兽
+.. _`尤尼科之影灵衣`: https://ygocdb.com/card/name/尤尼科之影灵衣
+.. _`水晶翼同调龙`: https://ygocdb.com/card/name/水晶翼同调龙
+.. _`灰流丽`: https://ygocdb.com/card/name/灰流丽
+.. _`增殖的G`: https://ygocdb.com/card/name/增殖的G
+.. _`黑洞`: https://ygocdb.com/card/name/黑洞
+.. _`青眼精灵龙`: https://ygocdb.com/card/name/青眼精灵龙
+.. _`欧尼斯特`: https://ygocdb.com/card/name/欧尼斯特
+.. _`星尘龙`: https://ygocdb.com/card/name/星尘龙
+.. _`神影依 米德拉什`: https://ygocdb.com/card/name/神影依%20米德拉什
+.. _`神之通告`: https://ygocdb.com/card/name/神之通告
+.. _`禁忌的圣枪`: https://ygocdb.com/card/name/禁忌的圣枪
+.. _`龙星的九支`: https://ygocdb.com/card/name/龙星的九支
+.. _`虹光之宣告者`: https://ygocdb.com/card/name/虹光之宣告者
+.. _`坏兽的休眠中断`: https://ygocdb.com/card/name/坏兽的休眠中断
+.. _`假面英雄 暗爪`: https://ygocdb.com/card/name/假面英雄%20暗爪
+.. _`元素英雄 天空侠`: https://ygocdb.com/card/name/元素英雄%20天空侠
+.. _`坏兽`: https://ygocdb.com/card/name/坏兽
+.. _`虫惑的落穴`: https://ygocdb.com/card/name/虫惑的落穴

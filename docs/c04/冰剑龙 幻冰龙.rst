@@ -59,16 +59,16 @@
 | 因此，不能连锁发动「`我身作盾`_」「`星尘龙`_」的①效果等。\ `21/12/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23496&keyword=&tag=-1&request_locale=ja>`__
 | 并且，「`念力终结处刑者`_」「`铠皇龙-电子暗黑终结龙`_」等持有『\ :ref:`不受发动的效果影响`\ 』效果的怪兽仍然会被这个效果破坏。
 
-.. _`阿不思的落胤`: https://ygocdb.com/?search=阿不思的落胤
-.. _`冰剑龙 幻冰龙`: https://ygocdb.com/?search=冰剑龙+幻冰龙
-.. _`元素英雄 绝对零度侠`: https://ygocdb.com/?search=元素英雄+绝对零度侠
-.. _`念力终结处刑者`: https://ygocdb.com/?search=念力终结处刑者
-.. _`纳祭之魔`: https://ygocdb.com/?search=纳祭之魔
-.. _`黯黑世界-暗影敌托邦-`: https://ygocdb.com/?search=黯黑世界-暗影敌托邦-
-.. _`闭锁世界的冥神`: https://ygocdb.com/?search=闭锁世界的冥神
-.. _`铠皇龙-电子暗黑终结龙`: https://ygocdb.com/?search=铠皇龙-电子暗黑终结龙
-.. _`坏兽`: https://ygocdb.com/?search=坏兽
-.. _`星尘龙`: https://ygocdb.com/?search=星尘龙
-.. _`我身作盾`: https://ygocdb.com/?search=我身作盾
-.. _`大逮捕`: https://ygocdb.com/?search=大逮捕
-.. _`古遗物-圣枪`: https://ygocdb.com/?search=古遗物-圣枪
+
+.. _`念力终结处刑者`: https://ygocdb.com/card/name/念力终结处刑者
+.. _`我身作盾`: https://ygocdb.com/card/name/我身作盾
+.. _`铠皇龙-电子暗黑终结龙`: https://ygocdb.com/card/name/铠皇龙-电子暗黑终结龙
+.. _`大逮捕`: https://ygocdb.com/card/name/大逮捕
+.. _`黯黑世界-暗影敌托邦-`: https://ygocdb.com/card/name/黯黑世界-暗影敌托邦-
+.. _`冰剑龙 幻冰龙`: https://ygocdb.com/card/name/冰剑龙%20幻冰龙
+.. _`古遗物-圣枪`: https://ygocdb.com/card/name/古遗物-圣枪
+.. _`闭锁世界的冥神`: https://ygocdb.com/card/name/闭锁世界的冥神
+.. _`阿不思的落胤`: https://ygocdb.com/card/name/阿不思的落胤
+.. _`坏兽`: https://ygocdb.com/card/name/坏兽
+.. _`星尘龙`: https://ygocdb.com/card/name/星尘龙
+.. _`纳祭之魔`: https://ygocdb.com/card/name/纳祭之魔

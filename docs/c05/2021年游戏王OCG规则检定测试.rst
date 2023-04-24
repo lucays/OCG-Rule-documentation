@@ -383,215 +383,216 @@
 | 41~45 ACCEE
 | 46~50 CEBEB
 
-.. _`救世龙`: https://ygocdb.com/?search=救世龙
-.. _`No.38 希望魁龙 银河巨神`: https://ygocdb.com/?search=No.38+希望魁龙+银河巨神
-.. _`黑蔷薇龙`: https://ygocdb.com/?search=黑蔷薇龙
-.. _`随风旅鸟×知更鸟`: https://ygocdb.com/?search=随风旅鸟×知更鸟
-.. _`方程式同调士`: https://ygocdb.com/?search=方程式同调士
-.. _`暗叛逆超量龙`: https://ygocdb.com/?search=暗叛逆超量龙
-.. _`铠皇龙-电子暗黑终结龙`: https://ygocdb.com/?search=铠皇龙-电子暗黑终结龙
-.. _`微码编码员`: https://ygocdb.com/?search=微码编码员
-.. _`刻读之魔术士`: https://ygocdb.com/?search=刻读之魔术士
-.. _`置换融合`: https://ygocdb.com/?search=置换融合
-.. _`补给部队`: https://ygocdb.com/?search=补给部队
-.. _`来自异次元的埋葬`: https://ygocdb.com/?search=来自异次元的埋葬
-.. _`无限泡影`: https://ygocdb.com/?search=无限泡影
-.. _`共有精神世界`: https://ygocdb.com/?search=共有精神世界
-.. _`虚无空间`: https://ygocdb.com/?search=虚无空间
-.. _`命运英雄 毁灭凤凰人`: https://ygocdb.com/?search=命运英雄+毁灭凤凰人
-.. _`强欲而金满之壶`: https://ygocdb.com/?search=强欲而金满之壶
-.. _`天空的圣域`: https://ygocdb.com/?search=天空的圣域
-.. _`阿不思的落胤`: https://ygocdb.com/?search=阿不思的落胤
-.. _`幻煌之都 帕西菲斯`: https://ygocdb.com/?search=幻煌之都+帕西菲斯
-.. _`召唤僧`: https://ygocdb.com/?search=召唤僧
-.. _`集心龙`: https://ygocdb.com/?search=集心龙
-.. _`黄金卿 黄金国巫妖`: https://ygocdb.com/?search=黄金卿+黄金国巫妖
-.. _`魔界的足枷`: https://ygocdb.com/?search=魔界的足枷
-.. _`大融合`: https://ygocdb.com/?search=大融合
-.. _`王宫的通告`: https://ygocdb.com/?search=王宫的通告
-.. _`王神鸟 斯摩夫`: https://ygocdb.com/?search=王神鸟+斯摩夫
-.. _`一对一`: https://ygocdb.com/?search=一对一
-.. _`魔轰神 安德剌斯`: https://ygocdb.com/?search=魔轰神+安德剌斯
-.. _`邪恶★双子 璃拉`: https://ygocdb.com/?search=邪恶★双子+璃拉
-.. _`神之宣告`: https://ygocdb.com/?search=神之宣告
-.. _`月之书`: https://ygocdb.com/?search=月之书
-.. _`鹰身女郎 爪牙碎断`: https://ygocdb.com/?search=鹰身女郎+爪牙碎断
-.. _`北极天熊-小白熊`: https://ygocdb.com/?search=北极天熊-小白熊
-.. _`半龙女仆·天风龙女`: https://ygocdb.com/?search=半龙女仆·天风龙女
-.. _`刺刀枪管龙`: https://ygocdb.com/?search=刺刀枪管龙
-.. _`相剑暗转`: https://ygocdb.com/?search=相剑暗转
-.. _`失乐之霹雳`: https://ygocdb.com/?search=失乐之霹雳
-.. _`闪光抽卡`: https://ygocdb.com/?search=闪光抽卡
-.. _`灰流丽`: https://ygocdb.com/?search=灰流丽
-.. _`源数之壁`: https://ygocdb.com/?search=源数之壁
-.. _`深海歌后`: https://ygocdb.com/?search=深海歌后
-.. _`黑混沌之魔术师·黑混沌极魔导`: https://ygocdb.com/?search=黑混沌之魔术师·黑混沌极魔导
-.. _`半龙女仆·客厅龙女`: https://ygocdb.com/?search=半龙女仆·客厅龙女
-.. _`电子界魔术师`: https://ygocdb.com/?search=电子界魔术师
-.. _`水卜之魔导书`: https://ygocdb.com/?search=水卜之魔导书
-.. _`卡通世界`: https://ygocdb.com/?search=卡通世界
-.. _`神影依·米德拉什`: https://ygocdb.com/?search=神影依·米德拉什
-.. _`北极天熊出发`: https://ygocdb.com/?search=北极天熊出发
-.. _`黑魔导阵`: https://ygocdb.com/?search=黑魔导阵
-.. _`日全食之书`: https://ygocdb.com/?search=日全食之书
-.. _`轰雷帝 扎博尔格`: https://ygocdb.com/?search=轰雷帝+扎博尔格
-.. _`废铁`: https://ygocdb.com/?search=废铁
-.. _`封印之黄金柜`: https://ygocdb.com/?search=封印之黄金柜
-.. _`混沌No.39 希望皇 霍普雷`: https://ygocdb.com/?search=混沌No.39+希望皇+霍普雷
-.. _`塞拉之虫惑魔`: https://ygocdb.com/?search=塞拉之虫惑魔
-.. _`星霜之灵摆读阵`: https://ygocdb.com/?search=星霜之灵摆读阵
-.. _`彼岸的恶鬼 法尔法雷洛`: https://ygocdb.com/?search=彼岸的恶鬼+法尔法雷洛
-.. _`废品战士`: https://ygocdb.com/?search=废品战士
-.. _`星光栗子球`: https://ygocdb.com/?search=星光栗子球
-.. _`幻影骑士团 失常磁环`: https://ygocdb.com/?search=幻影骑士团+失常磁环
-.. _`苦纹样的土像`: https://ygocdb.com/?search=苦纹样的土像
-.. _`魔术师`: https://ygocdb.com/?search=魔术师
-.. _`心眼之女神`: https://ygocdb.com/?search=心眼之女神
-.. _`尸界的班西`: https://ygocdb.com/?search=尸界的班西
-.. _`打破命运`: https://ygocdb.com/?search=打破命运
-.. _`新锐的女战士`: https://ygocdb.com/?search=新锐的女战士
-.. _`妖龙 摩诃摩`: https://ygocdb.com/?search=妖龙+摩诃摩
-.. _`混沌之魔术师`: https://ygocdb.com/?search=混沌之魔术师
-.. _`坏兽`: https://ygocdb.com/?search=坏兽
-.. _`电子界集成员`: https://ygocdb.com/?search=电子界集成员
-.. _`亚空间物质传送装置`: https://ygocdb.com/?search=亚空间物质传送装置
-.. _`真红眼黑龙`: https://ygocdb.com/?search=真红眼黑龙
-.. _`半龙女仆·龙女管家`: https://ygocdb.com/?search=半龙女仆·龙女管家
-.. _`异热同心武器-天马双翼剑`: https://ygocdb.com/?search=异热同心武器-天马双翼剑
-.. _`闪刀姬-零衣`: https://ygocdb.com/?search=闪刀姬-零衣
-.. _`魔术师之杖`: https://ygocdb.com/?search=魔术师之杖
-.. _`阿玛比埃姑娘`: https://ygocdb.com/?search=阿玛比埃姑娘
-.. _`神龙骑士 闪耀`: https://ygocdb.com/?search=神龙骑士+闪耀
-.. _`救祓少女·埃莉丝`: https://ygocdb.com/?search=救祓少女·埃莉丝
-.. _`天罚`: https://ygocdb.com/?search=天罚
-.. _`地灵神 格兰索尔`: https://ygocdb.com/?search=地灵神+格兰索尔
-.. _`科技属 互换蜻蜓`: https://ygocdb.com/?search=科技属+互换蜻蜓
-.. _`增殖的G`: https://ygocdb.com/?search=增殖的G
-.. _`随风旅鸟×白头鹰`: https://ygocdb.com/?search=随风旅鸟×白头鹰
-.. _`王宫的敕命`: https://ygocdb.com/?search=王宫的敕命
-.. _`邪恶★双子克星 麻烦·桑妮`: https://ygocdb.com/?search=邪恶★双子克星+麻烦·桑妮
-.. _`救祓少女阿门武装`: https://ygocdb.com/?search=救祓少女阿门武装
-.. _`凤翼的爆风`: https://ygocdb.com/?search=凤翼的爆风
-.. _`龙装合体 龙王霍普雷`: https://ygocdb.com/?search=龙装合体+龙王霍普雷
-.. _`魔术礼帽`: https://ygocdb.com/?search=魔术礼帽
-.. _`沉默魔术师`: https://ygocdb.com/?search=沉默魔术师
-.. _`转码语者`: https://ygocdb.com/?search=转码语者
-.. _`相剑军师-龙渊`: https://ygocdb.com/?search=相剑军师-龙渊
-.. _`魔法干扰阵`: https://ygocdb.com/?search=魔法干扰阵
-.. _`救祓少女·米迦埃莉丝`: https://ygocdb.com/?search=救祓少女·米迦埃莉丝
-.. _`魔轰神 利威坦`: https://ygocdb.com/?search=魔轰神+利威坦
-.. _`禁忌的一滴`: https://ygocdb.com/?search=禁忌的一滴
-.. _`水晶机巧-继承玻纤`: https://ygocdb.com/?search=水晶机巧-继承玻纤
-.. _`沉默魔爆破`: https://ygocdb.com/?search=沉默魔爆破
-.. _`常世离`: https://ygocdb.com/?search=常世离
-.. _`转生炎兽 猎鹰`: https://ygocdb.com/?search=转生炎兽+猎鹰
-.. _`雷击`: https://ygocdb.com/?search=雷击
-.. _`星尘同调士`: https://ygocdb.com/?search=星尘同调士
-.. _`闭锁世界的冥神`: https://ygocdb.com/?search=闭锁世界的冥神
-.. _`访问码语者`: https://ygocdb.com/?search=访问码语者
-.. _`禁忌的圣枪`: https://ygocdb.com/?search=禁忌的圣枪
-.. _`融合`: https://ygocdb.com/?search=融合
-.. _`星尘的残光`: https://ygocdb.com/?search=星尘的残光
-.. _`灰烬龙 落胤龙`: https://ygocdb.com/?search=灰烬龙+落胤龙
-.. _`大宇宙`: https://ygocdb.com/?search=大宇宙
-.. _`马骨的对价`: https://ygocdb.com/?search=马骨的对价
-.. _`突破技能`: https://ygocdb.com/?search=突破技能
-.. _`召命之神弓-阿波罗萨`: https://ygocdb.com/?search=召命之神弓-阿波罗萨
-.. _`随风旅鸟×雪猫头鹰`: https://ygocdb.com/?search=随风旅鸟×雪猫头鹰
-.. _`水晶翼同调龙`: https://ygocdb.com/?search=水晶翼同调龙
-.. _`D-力量`: https://ygocdb.com/?search=D-力量
-.. _`D.D.乌鸦`: https://ygocdb.com/?search=D.D.乌鸦
-.. _`大星义初始龙`: https://ygocdb.com/?search=大星义初始龙
-.. _`海`: https://ygocdb.com/?search=海
-.. _`毁灭咒文-死亡终极咒`: https://ygocdb.com/?search=毁灭咒文-死亡终极咒
-.. _`脆刃之剑`: https://ygocdb.com/?search=脆刃之剑
-.. _`教导的骑士 弗勒德莉丝`: https://ygocdb.com/?search=教导的骑士+弗勒德莉丝
-.. _`沉眠于星遗物的深层`: https://ygocdb.com/?search=沉眠于星遗物的深层
-.. _`羊衍生物`: https://ygocdb.com/?search=羊衍生物
-.. _`电子暗黑世界`: https://ygocdb.com/?search=电子暗黑世界
-.. _`权威者·许珀里翁`: https://ygocdb.com/?search=权威者·许珀里翁
-.. _`真红眼卡通龙`: https://ygocdb.com/?search=真红眼卡通龙
-.. _`邪恶★双子 姬丝基勒`: https://ygocdb.com/?search=邪恶★双子+姬丝基勒
-.. _`王宫的铁壁`: https://ygocdb.com/?search=王宫的铁壁
-.. _`强制脱出装置`: https://ygocdb.com/?search=强制脱出装置
-.. _`死狱乡的凶剧`: https://ygocdb.com/?search=死狱乡的凶剧
-.. _`鹰身女郎三姐妹`: https://ygocdb.com/?search=鹰身女郎三姐妹
-.. _`转生炎兽 狐獴`: https://ygocdb.com/?search=转生炎兽+狐獴
-.. _`废品连接者`: https://ygocdb.com/?search=废品连接者
-.. _`阿拉弥赛亚之仪`: https://ygocdb.com/?search=阿拉弥赛亚之仪
-.. _`电子界提醒员`: https://ygocdb.com/?search=电子界提醒员
-.. _`废铁龙`: https://ygocdb.com/?search=废铁龙
-.. _`弑逆的魔轰神`: https://ygocdb.com/?search=弑逆的魔轰神
-.. _`北极天熊`: https://ygocdb.com/?search=北极天熊
-.. _`电子界男巫`: https://ygocdb.com/?search=电子界男巫
-.. _`救援隔行人`: https://ygocdb.com/?search=救援隔行人
-.. _`黑幻想之魔术师`: https://ygocdb.com/?search=黑幻想之魔术师
-.. _`卡通鹰身女郎`: https://ygocdb.com/?search=卡通鹰身女郎
-.. _`超量叠光延迟`: https://ygocdb.com/?search=超量叠光延迟
-.. _`鹰身先知`: https://ygocdb.com/?search=鹰身先知
-.. _`不死世界`: https://ygocdb.com/?search=不死世界
-.. _`召唤兽 梅尔卡巴`: https://ygocdb.com/?search=召唤兽+梅尔卡巴
-.. _`潜海奇袭`: https://ygocdb.com/?search=潜海奇袭
-.. _`技能抽取`: https://ygocdb.com/?search=技能抽取
-.. _`屋敷童`: https://ygocdb.com/?search=屋敷童
-.. _`战线复归`: https://ygocdb.com/?search=战线复归
-.. _`召唤师 阿莱斯特`: https://ygocdb.com/?search=召唤师+阿莱斯特
-.. _`沼地的魔神王`: https://ygocdb.com/?search=沼地的魔神王
-.. _`铁兽战线 凶鸟之施莱格`: https://ygocdb.com/?search=铁兽战线+凶鸟之施莱格
-.. _`I：P伪装舞会莱娜`: https://ygocdb.com/?search=I：P伪装舞会莱娜
-.. _`神之警告`: https://ygocdb.com/?search=神之警告
-.. _`DDD 咒血王 赛弗里德`: https://ygocdb.com/?search=DDD+咒血王+赛弗里德
-.. _`No.39 希望皇 霍普`: https://ygocdb.com/?search=No.39+希望皇+霍普
-.. _`次元裂缝`: https://ygocdb.com/?search=次元裂缝
-.. _`调和支援士`: https://ygocdb.com/?search=调和支援士
-.. _`死者苏生`: https://ygocdb.com/?search=死者苏生
-.. _`机关重联 愤怒钩舌`: https://ygocdb.com/?search=机关重联+愤怒钩舌
-.. _`笑容世界`: https://ygocdb.com/?search=笑容世界
-.. _`鹰身女郎 电子紧身装束`: https://ygocdb.com/?search=鹰身女郎+电子紧身装束
-.. _`来自星遗物中的觉醒`: https://ygocdb.com/?search=来自星遗物中的觉醒
-.. _`遭受妨碍的坏兽安眠`: https://ygocdb.com/?search=遭受妨碍的坏兽安眠
-.. _`极星天 古尔薇格`: https://ygocdb.com/?search=极星天+古尔薇格
-.. _`转生炎兽 炽热多头狮`: https://ygocdb.com/?search=转生炎兽+炽热多头狮
-.. _`升天之黑角笛`: https://ygocdb.com/?search=升天之黑角笛
-.. _`清冽之水灵使 艾莉娅`: https://ygocdb.com/?search=清冽之水灵使+艾莉娅
-.. _`元素英雄 真诚新宇侠`: https://ygocdb.com/?search=元素英雄+真诚新宇侠
-.. _`千查万别`: https://ygocdb.com/?search=千查万别
-.. _`魔法花盆`: https://ygocdb.com/?search=魔法花盆
-.. _`铁兽战线 姬特`: https://ygocdb.com/?search=铁兽战线+姬特
-.. _`魔封的芳香`: https://ygocdb.com/?search=魔封的芳香
-.. _`D-战术`: https://ygocdb.com/?search=D-战术
-.. _`流天救世星龙`: https://ygocdb.com/?search=流天救世星龙
-.. _`星尘龙`: https://ygocdb.com/?search=星尘龙
-.. _`电子龙·无限`: https://ygocdb.com/?search=电子龙·无限
-.. _`北极天熊-勾陈一`: https://ygocdb.com/?search=北极天熊-勾陈一
-.. _`星尘战士`: https://ygocdb.com/?search=星尘战士
-.. _`黑衣龙 白界龙`: https://ygocdb.com/?search=黑衣龙+白界龙
-.. _`死狱乡演员·圣墓访问者`: https://ygocdb.com/?search=死狱乡演员·圣墓访问者
-.. _`混沌之战士 混沌战士`: https://ygocdb.com/?search=混沌之战士+混沌战士
-.. _`皮里·雷斯地图`: https://ygocdb.com/?search=皮里·雷斯地图
-.. _`幽狱之时计塔`: https://ygocdb.com/?search=幽狱之时计塔
-.. _`吞食百万的暴食兽`: https://ygocdb.com/?search=吞食百万的暴食兽
-.. _`真红眼暗钢龙`: https://ygocdb.com/?search=真红眼暗钢龙
-.. _`碑像天使-亚兹卢恩死月弓碑`: https://ygocdb.com/?search=碑像天使-亚兹卢恩死月弓碑
-.. _`虹彩之魔术师`: https://ygocdb.com/?search=虹彩之魔术师
-.. _`神圣煌炎`: https://ygocdb.com/?search=神圣煌炎
-.. _`黄金乡的盗墓者`: https://ygocdb.com/?search=黄金乡的盗墓者
-.. _`高速战士`: https://ygocdb.com/?search=高速战士
-.. _`兽装合体 狮子霍普雷`: https://ygocdb.com/?search=兽装合体+狮子霍普雷
-.. _`影依融合`: https://ygocdb.com/?search=影依融合
-.. _`大热波`: https://ygocdb.com/?search=大热波
-.. _`凶饿毒融合龙`: https://ygocdb.com/?search=凶饿毒融合龙
-.. _`电子界魔女`: https://ygocdb.com/?search=电子界魔女
-.. _`影依兽`: https://ygocdb.com/?search=影依兽
-.. _`北极天熊五倍线充能`: https://ygocdb.com/?search=北极天熊五倍线充能
-.. _`黄金狂 黄金国巫妖`: https://ygocdb.com/?search=黄金狂+黄金国巫妖
-.. _`暴走召唤师 阿莱斯特`: https://ygocdb.com/?search=暴走召唤师+阿莱斯特
-.. _`旋风`: https://ygocdb.com/?search=旋风
-.. _`活死人的呼声`: https://ygocdb.com/?search=活死人的呼声
-.. _`慧眼之魔术师`: https://ygocdb.com/?search=慧眼之魔术师
-.. _`大逮捕`: https://ygocdb.com/?search=大逮捕
-.. _`白之圣女 艾克莉西娅`: https://ygocdb.com/?search=白之圣女+艾克莉西娅
-.. _`融合命运`: https://ygocdb.com/?search=融合命运
-.. _`流星龙`: https://ygocdb.com/?search=流星龙
-.. _`灵摆显现`: https://ygocdb.com/?search=灵摆显现
-.. _`勇者衍生物`: https://ygocdb.com/?search=勇者衍生物
+
+.. _`极星天 古尔薇格`: https://ygocdb.com/card/name/极星天%20古尔薇格
+.. _`命运英雄 毁灭凤凰人`: https://ygocdb.com/card/name/命运英雄%20毁灭凤凰人
+.. _`随风旅鸟×白头鹰`: https://ygocdb.com/card/name/随风旅鸟×白头鹰
+.. _`随风旅鸟×知更鸟`: https://ygocdb.com/card/name/随风旅鸟×知更鸟
+.. _`塞拉之虫惑魔`: https://ygocdb.com/card/name/塞拉之虫惑魔
+.. _`遭受妨碍的坏兽安眠`: https://ygocdb.com/card/name/遭受妨碍的坏兽安眠
+.. _`来自异次元的埋葬`: https://ygocdb.com/card/name/来自异次元的埋葬
+.. _`流星龙`: https://ygocdb.com/card/name/流星龙
+.. _`废品战士`: https://ygocdb.com/card/name/废品战士
+.. _`打破命运`: https://ygocdb.com/card/name/打破命运
+.. _`随风旅鸟×雪猫头鹰`: https://ygocdb.com/card/name/随风旅鸟×雪猫头鹰
+.. _`魔术礼帽`: https://ygocdb.com/card/name/魔术礼帽
+.. _`救援隔行人`: https://ygocdb.com/card/name/救援隔行人
+.. _`北极天熊-勾陈一`: https://ygocdb.com/card/name/北极天熊-勾陈一
+.. _`邪恶★双子 璃拉`: https://ygocdb.com/card/name/邪恶★双子%20璃拉
+.. _`方程式同调士`: https://ygocdb.com/card/name/方程式同调士
+.. _`铠皇龙-电子暗黑终结龙`: https://ygocdb.com/card/name/铠皇龙-电子暗黑终结龙
+.. _`异热同心武器-天马双翼剑`: https://ygocdb.com/card/name/异热同心武器-天马双翼剑
+.. _`来自星遗物中的觉醒`: https://ygocdb.com/card/name/来自星遗物中的觉醒
+.. _`潜海奇袭`: https://ygocdb.com/card/name/潜海奇袭
+.. _`皮里·雷斯地图`: https://ygocdb.com/card/name/皮里·雷斯地图
+.. _`深海歌后`: https://ygocdb.com/card/name/深海歌后
+.. _`融合`: https://ygocdb.com/card/name/融合
+.. _`神影依·米德拉什`: https://ygocdb.com/card/name/神影依·米德拉什
+.. _`新锐的女战士`: https://ygocdb.com/card/name/新锐的女战士
+.. _`No.38 希望魁龙 银河巨神`: https://ygocdb.com/card/name/No.38%20希望魁龙%20银河巨神
+.. _`旋风`: https://ygocdb.com/card/name/旋风
+.. _`救祓少女·埃莉丝`: https://ygocdb.com/card/name/救祓少女·埃莉丝
+.. _`北极天熊出发`: https://ygocdb.com/card/name/北极天熊出发
+.. _`黑魔导阵`: https://ygocdb.com/card/name/黑魔导阵
+.. _`灰流丽`: https://ygocdb.com/card/name/灰流丽
+.. _`真红眼黑龙`: https://ygocdb.com/card/name/真红眼黑龙
+.. _`马骨的对价`: https://ygocdb.com/card/name/马骨的对价
+.. _`魔术师`: https://ygocdb.com/card/name/魔术师
+.. _`神龙骑士 闪耀`: https://ygocdb.com/card/name/神龙骑士%20闪耀
+.. _`心眼之女神`: https://ygocdb.com/card/name/心眼之女神
+.. _`日全食之书`: https://ygocdb.com/card/name/日全食之书
+.. _`虹彩之魔术师`: https://ygocdb.com/card/name/虹彩之魔术师
+.. _`鹰身女郎 电子紧身装束`: https://ygocdb.com/card/name/鹰身女郎%20电子紧身装束
+.. _`水卜之魔导书`: https://ygocdb.com/card/name/水卜之魔导书
+.. _`次元裂缝`: https://ygocdb.com/card/name/次元裂缝
+.. _`废铁龙`: https://ygocdb.com/card/name/废铁龙
+.. _`阿拉弥赛亚之仪`: https://ygocdb.com/card/name/阿拉弥赛亚之仪
+.. _`禁忌的圣枪`: https://ygocdb.com/card/name/禁忌的圣枪
+.. _`彼岸的恶鬼 法尔法雷洛`: https://ygocdb.com/card/name/彼岸的恶鬼%20法尔法雷洛
+.. _`魔轰神 利威坦`: https://ygocdb.com/card/name/魔轰神%20利威坦
+.. _`转生炎兽 炽热多头狮`: https://ygocdb.com/card/name/转生炎兽%20炽热多头狮
+.. _`坏兽`: https://ygocdb.com/card/name/坏兽
+.. _`召唤兽 梅尔卡巴`: https://ygocdb.com/card/name/召唤兽%20梅尔卡巴
+.. _`黄金卿 黄金国巫妖`: https://ygocdb.com/card/name/黄金卿%20黄金国巫妖
+.. _`半龙女仆·天风龙女`: https://ygocdb.com/card/name/半龙女仆·天风龙女
+.. _`黑衣龙 白界龙`: https://ygocdb.com/card/name/黑衣龙%20白界龙
+.. _`强欲而金满之壶`: https://ygocdb.com/card/name/强欲而金满之壶
+.. _`王宫的敕命`: https://ygocdb.com/card/name/王宫的敕命
+.. _`D-力量`: https://ygocdb.com/card/name/D-力量
+.. _`清冽之水灵使 艾莉娅`: https://ygocdb.com/card/name/清冽之水灵使%20艾莉娅
+.. _`星尘同调士`: https://ygocdb.com/card/name/星尘同调士
+.. _`超量叠光延迟`: https://ygocdb.com/card/name/超量叠光延迟
+.. _`鹰身女郎 爪牙碎断`: https://ygocdb.com/card/name/鹰身女郎%20爪牙碎断
+.. _`苦纹样的土像`: https://ygocdb.com/card/name/苦纹样的土像
+.. _`卡通世界`: https://ygocdb.com/card/name/卡通世界
+.. _`不死世界`: https://ygocdb.com/card/name/不死世界
+.. _`沼地的魔神王`: https://ygocdb.com/card/name/沼地的魔神王
+.. _`转生炎兽 狐獴`: https://ygocdb.com/card/name/转生炎兽%20狐獴
+.. _`刻读之魔术士`: https://ygocdb.com/card/name/刻读之魔术士
+.. _`鹰身先知`: https://ygocdb.com/card/name/鹰身先知
+.. _`突破技能`: https://ygocdb.com/card/name/突破技能
+.. _`铁兽战线 凶鸟之施莱格`: https://ygocdb.com/card/name/铁兽战线%20凶鸟之施莱格
+.. _`亚空间物质传送装置`: https://ygocdb.com/card/name/亚空间物质传送装置
+.. _`神之宣告`: https://ygocdb.com/card/name/神之宣告
+.. _`海`: https://ygocdb.com/card/name/海
+.. _`高速战士`: https://ygocdb.com/card/name/高速战士
+.. _`笑容世界`: https://ygocdb.com/card/name/笑容世界
+.. _`召命之神弓-阿波罗萨`: https://ygocdb.com/card/name/召命之神弓-阿波罗萨
+.. _`影依兽`: https://ygocdb.com/card/name/影依兽
+.. _`DDD 咒血王 赛弗里德`: https://ygocdb.com/card/name/DDD%20咒血王%20赛弗里德
+.. _`虚无空间`: https://ygocdb.com/card/name/虚无空间
+.. _`真红眼暗钢龙`: https://ygocdb.com/card/name/真红眼暗钢龙
+.. _`电子界魔女`: https://ygocdb.com/card/name/电子界魔女
+.. _`召唤师 阿莱斯特`: https://ygocdb.com/card/name/召唤师%20阿莱斯特
+.. _`置换融合`: https://ygocdb.com/card/name/置换融合
+.. _`禁忌的一滴`: https://ygocdb.com/card/name/禁忌的一滴
+.. _`大逮捕`: https://ygocdb.com/card/name/大逮捕
+.. _`召唤僧`: https://ygocdb.com/card/name/召唤僧
+.. _`黑蔷薇龙`: https://ygocdb.com/card/name/黑蔷薇龙
+.. _`沉眠于星遗物的深层`: https://ygocdb.com/card/name/沉眠于星遗物的深层
+.. _`失乐之霹雳`: https://ygocdb.com/card/name/失乐之霹雳
+.. _`调和支援士`: https://ygocdb.com/card/name/调和支援士
+.. _`碑像天使-亚兹卢恩死月弓碑`: https://ygocdb.com/card/name/碑像天使-亚兹卢恩死月弓碑
+.. _`半龙女仆·龙女管家`: https://ygocdb.com/card/name/半龙女仆·龙女管家
+.. _`魔界的足枷`: https://ygocdb.com/card/name/魔界的足枷
+.. _`雷击`: https://ygocdb.com/card/name/雷击
+.. _`救祓少女阿门武装`: https://ygocdb.com/card/name/救祓少女阿门武装
+.. _`星尘龙`: https://ygocdb.com/card/name/星尘龙
+.. _`相剑军师-龙渊`: https://ygocdb.com/card/name/相剑军师-龙渊
+.. _`融合命运`: https://ygocdb.com/card/name/融合命运
+.. _`D-战术`: https://ygocdb.com/card/name/D-战术
+.. _`黄金狂 黄金国巫妖`: https://ygocdb.com/card/name/黄金狂%20黄金国巫妖
+.. _`凶饿毒融合龙`: https://ygocdb.com/card/name/凶饿毒融合龙
+.. _`大星义初始龙`: https://ygocdb.com/card/name/大星义初始龙
+.. _`北极天熊-小白熊`: https://ygocdb.com/card/name/北极天熊-小白熊
+.. _`妖龙 摩诃摩`: https://ygocdb.com/card/name/妖龙%20摩诃摩
+.. _`权威者·许珀里翁`: https://ygocdb.com/card/name/权威者·许珀里翁
+.. _`王神鸟 斯摩夫`: https://ygocdb.com/card/name/王神鸟%20斯摩夫
+.. _`北极天熊`: https://ygocdb.com/card/name/北极天熊
+.. _`一对一`: https://ygocdb.com/card/name/一对一
+.. _`电子龙·无限`: https://ygocdb.com/card/name/电子龙·无限
+.. _`王宫的铁壁`: https://ygocdb.com/card/name/王宫的铁壁
+.. _`弑逆的魔轰神`: https://ygocdb.com/card/name/弑逆的魔轰神
+.. _`屋敷童`: https://ygocdb.com/card/name/屋敷童
+.. _`魔法干扰阵`: https://ygocdb.com/card/name/魔法干扰阵
+.. _`魔术师之杖`: https://ygocdb.com/card/name/魔术师之杖
+.. _`共有精神世界`: https://ygocdb.com/card/name/共有精神世界
+.. _`科技属 互换蜻蜓`: https://ygocdb.com/card/name/科技属%20互换蜻蜓
+.. _`技能抽取`: https://ygocdb.com/card/name/技能抽取
+.. _`慧眼之魔术师`: https://ygocdb.com/card/name/慧眼之魔术师
+.. _`兽装合体 狮子霍普雷`: https://ygocdb.com/card/name/兽装合体%20狮子霍普雷
+.. _`邪恶★双子克星 麻烦·桑妮`: https://ygocdb.com/card/name/邪恶★双子克星%20麻烦·桑妮
+.. _`强制脱出装置`: https://ygocdb.com/card/name/强制脱出装置
+.. _`No.39 希望皇 霍普`: https://ygocdb.com/card/name/No.39%20希望皇%20霍普
+.. _`王宫的通告`: https://ygocdb.com/card/name/王宫的通告
+.. _`暗叛逆超量龙`: https://ygocdb.com/card/name/暗叛逆超量龙
+.. _`阿不思的落胤`: https://ygocdb.com/card/name/阿不思的落胤
+.. _`凤翼的爆风`: https://ygocdb.com/card/name/凤翼的爆风
+.. _`集心龙`: https://ygocdb.com/card/name/集心龙
+.. _`沉默魔术师`: https://ygocdb.com/card/name/沉默魔术师
+.. _`阿玛比埃姑娘`: https://ygocdb.com/card/name/阿玛比埃姑娘
+.. _`大宇宙`: https://ygocdb.com/card/name/大宇宙
+.. _`勇者衍生物`: https://ygocdb.com/card/name/勇者衍生物
+.. _`水晶翼同调龙`: https://ygocdb.com/card/name/水晶翼同调龙
+.. _`星尘战士`: https://ygocdb.com/card/name/星尘战士
+.. _`星霜之灵摆读阵`: https://ygocdb.com/card/name/星霜之灵摆读阵
+.. _`黄金乡的盗墓者`: https://ygocdb.com/card/name/黄金乡的盗墓者
+.. _`轰雷帝 扎博尔格`: https://ygocdb.com/card/name/轰雷帝%20扎博尔格
+.. _`半龙女仆·客厅龙女`: https://ygocdb.com/card/name/半龙女仆·客厅龙女
+.. _`I：P伪装舞会莱娜`: https://ygocdb.com/card/name/I：P伪装舞会莱娜
+.. _`邪恶★双子 姬丝基勒`: https://ygocdb.com/card/name/邪恶★双子%20姬丝基勒
+.. _`灰烬龙 落胤龙`: https://ygocdb.com/card/name/灰烬龙%20落胤龙
+.. _`死狱乡的凶剧`: https://ygocdb.com/card/name/死狱乡的凶剧
+.. _`黑幻想之魔术师`: https://ygocdb.com/card/name/黑幻想之魔术师
+.. _`增殖的G`: https://ygocdb.com/card/name/增殖的G
+.. _`封印之黄金柜`: https://ygocdb.com/card/name/封印之黄金柜
+.. _`相剑暗转`: https://ygocdb.com/card/name/相剑暗转
+.. _`月之书`: https://ygocdb.com/card/name/月之书
+.. _`D.D.乌鸦`: https://ygocdb.com/card/name/D.D.乌鸦
+.. _`真红眼卡通龙`: https://ygocdb.com/card/name/真红眼卡通龙
+.. _`尸界的班西`: https://ygocdb.com/card/name/尸界的班西
+.. _`毁灭咒文-死亡终极咒`: https://ygocdb.com/card/name/毁灭咒文-死亡终极咒
+.. _`北极天熊五倍线充能`: https://ygocdb.com/card/name/北极天熊五倍线充能
+.. _`地灵神 格兰索尔`: https://ygocdb.com/card/name/地灵神%20格兰索尔
+.. _`铁兽战线 姬特`: https://ygocdb.com/card/name/铁兽战线%20姬特
+.. _`源数之壁`: https://ygocdb.com/card/name/源数之壁
+.. _`废品连接者`: https://ygocdb.com/card/name/废品连接者
+.. _`暴走召唤师 阿莱斯特`: https://ygocdb.com/card/name/暴走召唤师%20阿莱斯特
+.. _`天罚`: https://ygocdb.com/card/name/天罚
+.. _`魔法花盆`: https://ygocdb.com/card/name/魔法花盆
+.. _`星光栗子球`: https://ygocdb.com/card/name/星光栗子球
+.. _`沉默魔爆破`: https://ygocdb.com/card/name/沉默魔爆破
+.. _`混沌No.39 希望皇 霍普雷`: https://ygocdb.com/card/name/混沌No.39%20希望皇%20霍普雷
+.. _`龙装合体 龙王霍普雷`: https://ygocdb.com/card/name/龙装合体%20龙王霍普雷
+.. _`鹰身女郎三姐妹`: https://ygocdb.com/card/name/鹰身女郎三姐妹
+.. _`黑混沌之魔术师·黑混沌极魔导`: https://ygocdb.com/card/name/黑混沌之魔术师·黑混沌极魔导
+.. _`闭锁世界的冥神`: https://ygocdb.com/card/name/闭锁世界的冥神
+.. _`卡通鹰身女郎`: https://ygocdb.com/card/name/卡通鹰身女郎
+.. _`流天救世星龙`: https://ygocdb.com/card/name/流天救世星龙
+.. _`电子界集成员`: https://ygocdb.com/card/name/电子界集成员
+.. _`电子界魔术师`: https://ygocdb.com/card/name/电子界魔术师
+.. _`千查万别`: https://ygocdb.com/card/name/千查万别
+.. _`活死人的呼声`: https://ygocdb.com/card/name/活死人的呼声
+.. _`大热波`: https://ygocdb.com/card/name/大热波
+.. _`微码编码员`: https://ygocdb.com/card/name/微码编码员
+.. _`补给部队`: https://ygocdb.com/card/name/补给部队
+.. _`访问码语者`: https://ygocdb.com/card/name/访问码语者
+.. _`混沌之战士 混沌战士`: https://ygocdb.com/card/name/混沌之战士%20混沌战士
+.. _`白之圣女 艾克莉西娅`: https://ygocdb.com/card/name/白之圣女%20艾克莉西娅
+.. _`灵摆显现`: https://ygocdb.com/card/name/灵摆显现
+.. _`闪刀姬-零衣`: https://ygocdb.com/card/name/闪刀姬-零衣
+.. _`教导的骑士 弗勒德莉丝`: https://ygocdb.com/card/name/教导的骑士%20弗勒德莉丝
+.. _`幻影骑士团 失常磁环`: https://ygocdb.com/card/name/幻影骑士团%20失常磁环
+.. _`魔轰神 安德剌斯`: https://ygocdb.com/card/name/魔轰神%20安德剌斯
+.. _`死者苏生`: https://ygocdb.com/card/name/死者苏生
+.. _`羊衍生物`: https://ygocdb.com/card/name/羊衍生物
+.. _`神之警告`: https://ygocdb.com/card/name/神之警告
+.. _`脆刃之剑`: https://ygocdb.com/card/name/脆刃之剑
+.. _`战线复归`: https://ygocdb.com/card/name/战线复归
+.. _`电子界男巫`: https://ygocdb.com/card/name/电子界男巫
+.. _`转生炎兽 猎鹰`: https://ygocdb.com/card/name/转生炎兽%20猎鹰
+.. _`死狱乡演员·圣墓访问者`: https://ygocdb.com/card/name/死狱乡演员·圣墓访问者
+.. _`电子界提醒员`: https://ygocdb.com/card/name/电子界提醒员
+.. _`废铁`: https://ygocdb.com/card/name/废铁
+.. _`救祓少女·米迦埃莉丝`: https://ygocdb.com/card/name/救祓少女·米迦埃莉丝
+.. _`影依融合`: https://ygocdb.com/card/name/影依融合
+.. _`元素英雄 真诚新宇侠`: https://ygocdb.com/card/name/元素英雄%20真诚新宇侠
+.. _`无限泡影`: https://ygocdb.com/card/name/无限泡影
+.. _`天空的圣域`: https://ygocdb.com/card/name/天空的圣域
+.. _`常世离`: https://ygocdb.com/card/name/常世离
+.. _`水晶机巧-继承玻纤`: https://ygocdb.com/card/name/水晶机巧-继承玻纤
+.. _`混沌之魔术师`: https://ygocdb.com/card/name/混沌之魔术师
+.. _`星尘的残光`: https://ygocdb.com/card/name/星尘的残光
+.. _`吞食百万的暴食兽`: https://ygocdb.com/card/name/吞食百万的暴食兽
+.. _`救世龙`: https://ygocdb.com/card/name/救世龙
+.. _`刺刀枪管龙`: https://ygocdb.com/card/name/刺刀枪管龙
+.. _`大融合`: https://ygocdb.com/card/name/大融合
+.. _`机关重联 愤怒钩舌`: https://ygocdb.com/card/name/机关重联%20愤怒钩舌
+.. _`幻煌之都 帕西菲斯`: https://ygocdb.com/card/name/幻煌之都%20帕西菲斯
+.. _`闪光抽卡`: https://ygocdb.com/card/name/闪光抽卡
+.. _`魔封的芳香`: https://ygocdb.com/card/name/魔封的芳香
+.. _`升天之黑角笛`: https://ygocdb.com/card/name/升天之黑角笛
+.. _`电子暗黑世界`: https://ygocdb.com/card/name/电子暗黑世界
+.. _`转码语者`: https://ygocdb.com/card/name/转码语者
+.. _`幽狱之时计塔`: https://ygocdb.com/card/name/幽狱之时计塔
+.. _`神圣煌炎`: https://ygocdb.com/card/name/神圣煌炎
