@@ -388,7 +388,7 @@
 .. |image3.jpg| image:: ../.static/c05/2020_3.jpg
 .. |image4.jpg| image:: ../.static/c05/2020_4.jpg
 
-.. _`自奏圣乐`: https://ygocdb.com/card/name/自奏圣乐
+.. _`自奏圣乐`: https://ygocdb.com/?search=自奏圣乐
 .. _`禁忌之壶`: https://ygocdb.com/card/name/禁忌之壶
 .. _`死灵之颜`: https://ygocdb.com/card/name/死灵之颜
 .. _`原始生命态 尼比鲁`: https://ygocdb.com/card/name/原始生命态%20尼比鲁
@@ -614,7 +614,7 @@
 .. _`决斗融合`: https://ygocdb.com/card/name/决斗融合
 .. _`沉沉妖@火灵天星`: https://ygocdb.com/card/name/沉沉妖@火灵天星
 .. _`激流葬`: https://ygocdb.com/card/name/激流葬
-.. _`闪刀姬衍生物`: https://ygocdb.com/card/name/闪刀姬衍生物
+.. _`闪刀姬衍生物`: https://ygocdb.com/?search=闪刀姬衍生物
 .. _`神圣之影 商神杖使`: https://ygocdb.com/card/name/神圣之影%20商神杖使
 .. _`喷气同调士`: https://ygocdb.com/card/name/喷气同调士
 .. _`黄金乡的征服者`: https://ygocdb.com/card/name/黄金乡的征服者

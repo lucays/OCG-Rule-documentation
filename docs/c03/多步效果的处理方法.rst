@@ -384,7 +384,7 @@
 .. _`命运英雄 恐惧人`: https://ygocdb.com/card/name/命运英雄%20恐惧人
 .. _`闪刀空域-零区`: https://ygocdb.com/card/name/闪刀空域-零区
 .. _`狱火机·提耶拉`: https://ygocdb.com/card/name/狱火机·提耶拉
-.. _`勇者衍生物`: https://ygocdb.com/card/name/勇者衍生物
+.. _`勇者衍生物`: https://ygocdb.com/?search=勇者衍生物
 .. _`古代的机械巨人`: https://ygocdb.com/card/name/古代的机械巨人
 .. _`拓扑篡改感染龙`: https://ygocdb.com/card/name/拓扑篡改感染龙
 .. _`命运之旅路`: https://ygocdb.com/card/name/命运之旅路

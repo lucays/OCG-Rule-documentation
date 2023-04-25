@@ -585,7 +585,7 @@
 .. _`狂风毒蛾`: https://ygocdb.com/card/name/狂风毒蛾
 .. _`魔玩具·剪刀熊`: https://ygocdb.com/card/name/魔玩具·剪刀熊
 .. _`炎帝 泰斯塔罗斯`: https://ygocdb.com/card/name/炎帝%20泰斯塔罗斯
-.. _`光子衍生物`: https://ygocdb.com/card/name/光子衍生物
+.. _`光子衍生物`: https://ygocdb.com/?search=光子衍生物
 .. _`水晶机巧-柠晶龙`: https://ygocdb.com/card/name/水晶机巧-柠晶龙
 .. _`魔力掌握`: https://ygocdb.com/card/name/魔力掌握
 .. _`光神机-樱火`: https://ygocdb.com/card/name/光神机-樱火
@@ -618,7 +618,7 @@
 .. _`马格努姆弹丸龙`: https://ygocdb.com/card/name/马格努姆弹丸龙
 .. _`太阳神之翼神龙-不死鸟`: https://ygocdb.com/card/name/太阳神之翼神龙-不死鸟
 .. _`金属被甲弹丸龙`: https://ygocdb.com/card/name/金属被甲弹丸龙
-.. _`机龙衍生物`: https://ygocdb.com/card/name/机龙衍生物
+.. _`机龙衍生物`: https://ygocdb.com/?search=机龙衍生物
 .. _`英雄小子`: https://ygocdb.com/card/name/英雄小子
 .. _`救援兔`: https://ygocdb.com/card/name/救援兔
 .. _`No.89 电脑兽 系统破坏神`: https://ygocdb.com/card/name/No.89%20电脑兽%20系统破坏神

@@ -1077,7 +1077,7 @@
 .. _`螺旋枪杀`: https://ygocdb.com/card/name/螺旋枪杀
 .. _`巧克力魔术少女`: https://ygocdb.com/card/name/巧克力魔术少女
 .. _`人偶城堡`: https://ygocdb.com/card/name/人偶城堡
-.. _`时间潜行者`: https://ygocdb.com/card/name/时间潜行者
+.. _`时间潜行者`: https://ygocdb.com/?search=时间潜行者
 .. _`篮板球`: https://ygocdb.com/card/name/篮板球
 .. _`传说的渔人三世`: https://ygocdb.com/card/name/传说的渔人三世
 .. _`翻弄敌人的精灵剑士`: https://ygocdb.com/card/name/翻弄敌人的精灵剑士

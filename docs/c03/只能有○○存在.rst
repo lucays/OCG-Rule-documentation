@@ -280,7 +280,7 @@
 .. _`上千主上的玉座`: https://ygocdb.com/card/name/上千主上的玉座
 .. _`异次元战士`: https://ygocdb.com/card/name/异次元战士
 .. _`真红眼溯刻龙`: https://ygocdb.com/card/name/真红眼溯刻龙
-.. _`灵魂鸟衍生物`: https://ygocdb.com/card/name/灵魂鸟衍生物
+.. _`灵魂鸟衍生物`: https://ygocdb.com/?search=灵魂鸟衍生物
 .. _`剑斗兽`: https://ygocdb.com/?search=剑斗兽
 .. _`坏兽`: https://ygocdb.com/?search=坏兽
 .. _`强制转移`: https://ygocdb.com/card/name/强制转移
@@ -307,7 +307,7 @@
 .. _`电脑网风暴`: https://ygocdb.com/card/name/电脑网风暴
 .. _`混沌幻影`: https://ygocdb.com/card/name/混沌幻影
 .. _`怪粉坏兽 加达拉`: https://ygocdb.com/card/name/怪粉坏兽%20加达拉
-.. _`铁兽`: https://ygocdb.com/card/name/铁兽
+.. _`铁兽`: https://ygocdb.com/?search=铁兽
 .. _`元素灵剑士·随风`: https://ygocdb.com/card/name/元素灵剑士·随风
 .. _`次元融合`: https://ygocdb.com/card/name/次元融合
 .. _`海龙神-利维坦`: https://ygocdb.com/card/name/海龙神-利维坦

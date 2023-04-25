@@ -127,7 +127,7 @@
 | 「超融合」「狱火机·撒旦」等，记述『\ **不能对应这个效果的发动**\ 』这样不让连锁的文本时，不是效果。不受影响的怪兽也不能对其连锁。
 | 记述『对方不能把怪兽的效果发动』『对方不能把卡的效果发动』的「`水龙-团簇`_」「`星辉士 夏三角`_」「`冲浪检察官`_」\ `17/10/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9917&keyword=&tag=-1&request_locale=ja>`__ 「`No.67 平行骰子天堂锤手`_」\ `18/5/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9817&request_locale=ja>`__ 「`复仇死者·战鬼`_」\ `18/9/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22115&request_locale=ja>`__ 「`闪光No.0 希望之异热同心`_」\ `18/6/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11069&keyword=&tag=-1&request_locale=ja>`__ 「`元素英雄 秩序新宇侠`_」\ `18/10/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22181&keyword=&tag=-1&request_locale=ja>`__ 「`转生炎兽 蜃景雄马`_」\ `18/12/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22310&request_locale=ja>`__ 「`魔钟洞`_」\ `19/1/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14314&request_locale=ja>`__ 「`黑混沌之魔术师·黑混沌极魔导`_」\ `19/2/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22459&keyword=&tag=-1&request_locale=ja>`__ 「`天岩户`_」\ `19/4/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21258&keyword=&tag=-1&request_locale=ja>`__ 「`活命水`_」\ `19/5/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22633&keyword=&tag=-1&request_locale=ja>`__ 「`幻层守护者`_」\ `19/6/24 <http://yugioh-wiki.net/index.php?%A1%D4%B8%B8%C1%D8%A4%CE%BC%E9%B8%EE%BC%D4%A5%A2%A5%EB%A5%DE%A5%C7%A5%B9%A1%D5#faq>`__ 「`闪光No.39 希望皇 霍普·电光皇`_」\ `19/6/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19270&keyword=&tag=-1&request_locale=ja>`__ 「`外神 阿撒托斯`_」\ `19/6/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10976&keyword=&tag=-1&request_locale=ja>`__ 「`召唤兽 卡利古拉`_」\ `19/6/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8660&keyword=&tag=-1&request_locale=ja>`__ 
   等的效果不影响怪兽。这些效果适用后，不受影响的怪兽仍然不能发动效果。
-| 记述『怪兽不能把效果发动』的「`奥西里斯的天空龙`_」「`修禅僧 元道`_」\ `19/6/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18234&keyword=&tag=-1&request_locale=ja>`__ 「`娱乐伙伴 五虹之魔术师`_」\ `19/6/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20981&keyword=&tag=-1&request_locale=ja>`__ 也一样，不受影响的怪兽仍然不能发动效果。
+| 记述『怪兽不能把效果发动』的「`奥西里斯之天空龙`_」「`修禅僧 元道`_」\ `19/6/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18234&keyword=&tag=-1&request_locale=ja>`__ 「`娱乐伙伴 五虹之魔术师`_」\ `19/6/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20981&keyword=&tag=-1&request_locale=ja>`__ 也一样，不受影响的怪兽仍然不能发动效果。
 
 -  「`冤枉`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17508&request_locale=ja>`__ 「`终焉的指名者`_」\ `17/6/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9546&keyword=&tag=-1&request_locale=ja>`__ 这样的描述也不影响怪兽，即使不受影响，也不能发动效果。
 -  「`天魔大帝`_」给其他卡附加不让连锁能力的文本不影响那些卡\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18246&request_locale=ja&keyword=&tag=-1&request_locale=ja>`__\ ，并且这个状况对方不受影响的怪兽仍然不能连锁发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18245&keyword=&tag=-1&request_locale=ja>`__
@@ -308,7 +308,7 @@
 .. _`幻奏的音女 阿莉娅`: https://ygocdb.com/card/name/幻奏的音女%20阿莉娅
 .. _`动力工具龙`: https://ygocdb.com/card/name/动力工具龙
 .. _`神碑之翼 胡基`: https://ygocdb.com/card/name/神碑之翼%20胡基
-.. _`奥西里斯的天空龙`: https://ygocdb.com/card/name/奥西里斯的天空龙
+.. _`奥西里斯之天空龙`: https://ygocdb.com/card/name/奥西里斯之天空龙
 .. _`墓穴的指名者`: https://ygocdb.com/card/name/墓穴的指名者
 .. _`白龙忍者`: https://ygocdb.com/card/name/白龙忍者
 .. _`神碑之翼 穆宁`: https://ygocdb.com/card/name/神碑之翼%20穆宁
@@ -433,7 +433,7 @@
 .. _`黯黑世界-暗影敌托邦-`: https://ygocdb.com/card/name/黯黑世界-暗影敌托邦-
 .. _`王宫的通告`: https://ygocdb.com/card/name/王宫的通告
 .. _`急袭猛禽-起翼猎鹰`: https://ygocdb.com/card/name/急袭猛禽-起翼猎鹰
-.. _`十二兽`: https://ygocdb.com/card/name/十二兽
+.. _`十二兽`: https://ygocdb.com/?search=十二兽
 .. _`超念导体 比蒙巨兽`: https://ygocdb.com/card/name/超念导体%20比蒙巨兽
 .. _`暗之卡组破坏病毒`: https://ygocdb.com/card/name/暗之卡组破坏病毒
 .. _`大宇宙`: https://ygocdb.com/card/name/大宇宙

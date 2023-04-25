@@ -102,7 +102,7 @@
 1/24
 ----------
 
-| 对方场上只有1张卡，自己场上没有卡的场合，不能发动「`拮抗胜负`_」。
+| 对方场上只有1张卡，自己场上没有卡的场合，不能发动「`颉颃胜负`_」。
 
 18/02
 =====
@@ -994,9 +994,9 @@
 11/21
 ----------
 
-| 「`龙族封印之壶`_」的效果适用中，龙族怪兽被「`活死人的呼声`_」特殊召唤后立即变成守备表示，「`奥西里斯的天空龙`_」的效果不会发动。
+| 「`龙族封印之壶`_」的效果适用中，龙族怪兽被「`活死人的呼声`_」特殊召唤后立即变成守备表示，「`奥西里斯之天空龙`_」的效果不会发动。
 | 「`魔人之歌`_」的效果适用中，等级5的怪兽特殊召唤后立即变成等级4，「`月华龙 黑蔷薇`_」的效果不会发动。
-| 发动「`龙族封印之壶`_」「`重力解除`_」，连锁发动「`活死人的呼声`_」，把龙族怪兽特殊召唤，在连锁1变成守备表示的场合，「`奥西里斯的天空龙`_」的效果是否会发动，调整中。
+| 发动「`龙族封印之壶`_」「`重力解除`_」，连锁发动「`活死人的呼声`_」，把龙族怪兽特殊召唤，在连锁1变成守备表示的场合，「`奥西里斯之天空龙`_」的效果是否会发动，调整中。
 | 发动「`妖怪的恶作剧`_」「`魔人之歌`_」，连锁发动「`活死人的呼声`_」，把等级5的怪兽特殊召唤，在连锁1低于等级5的场合，「`月华龙 黑蔷薇`_」的效果是否会发动，调整中。
 
 11/23
@@ -1018,8 +1018,8 @@
 
 | 发动「`魔人之歌`_」，连锁发动「`强化苏生`_」，把等级4的怪兽特殊召唤上升到等级5，在连锁1下降到等级4的场合，「`月华龙 黑蔷薇`_」的效果会发动。
 | 发动「`高速疾行机人 马赫羽子板`_」的①效果，连锁发动「`战线复归`_」，把等级4的怪兽特殊召唤，在连锁1上升到等级5的场合，「`月华龙 黑蔷薇`_」的效果不会发动。
-| 发动「`伊塔库亚的暴风`_」，连锁发动「`战线复归`_」，把怪兽守备表示特殊召唤，在连锁1变成攻击表示的场合，「`奥西里斯的天空龙`_」的效果不会发动。
-| 发动「`伊塔库亚的暴风`_」，连锁发动「`活死人的呼声`_」，把怪兽攻击表示特殊召唤，在连锁1变成守备表示的场合，「`奥西里斯的天空龙`_」的效果会发动。
+| 发动「`伊塔库亚的暴风`_」，连锁发动「`战线复归`_」，把怪兽守备表示特殊召唤，在连锁1变成攻击表示的场合，「`奥西里斯之天空龙`_」的效果不会发动。
+| 发动「`伊塔库亚的暴风`_」，连锁发动「`活死人的呼声`_」，把怪兽攻击表示特殊召唤，在连锁1变成守备表示的场合，「`奥西里斯之天空龙`_」的效果会发动。
 
 11/26
 ----------
@@ -1159,7 +1159,7 @@
 .. _`淘气仙星的灯光舞台`: https://ygocdb.com/card/name/淘气仙星的灯光舞台
 .. _`裁决下达者-伏尔泰尼斯`: https://ygocdb.com/card/name/裁决下达者-伏尔泰尼斯
 .. _`捕食惑星`: https://ygocdb.com/card/name/捕食惑星
-.. _`河马衍生物`: https://ygocdb.com/card/name/河马衍生物
+.. _`河马衍生物`: https://ygocdb.com/?search=河马衍生物
 .. _`闪刀姬-燎里`: https://ygocdb.com/card/name/闪刀姬-燎里
 .. _`日全食之书`: https://ygocdb.com/card/name/日全食之书
 .. _`冥帝从骑 哀多斯`: https://ygocdb.com/card/name/冥帝从骑%20哀多斯
@@ -1193,7 +1193,7 @@
 .. _`霸王黑龙 异色眼叛逆龙`: https://ygocdb.com/card/name/霸王黑龙%20异色眼叛逆龙
 .. _`连锁素材`: https://ygocdb.com/card/name/连锁素材
 .. _`希望皇 拟声乌托邦`: https://ygocdb.com/card/name/希望皇%20拟声乌托邦
-.. _`拮抗胜负`: https://ygocdb.com/card/name/拮抗胜负
+.. _`颉颃胜负`: https://ygocdb.com/card/name/颉颃胜负
 .. _`次元的裂缝`: https://ygocdb.com/card/name/次元的裂缝
 .. _`转生炎兽 灯火美洲豹`: https://ygocdb.com/card/name/转生炎兽%20灯火美洲豹
 .. _`三眼怪`: https://ygocdb.com/card/name/三眼怪
@@ -1221,7 +1221,7 @@
 .. _`齿轮齿轮齿轮`: https://ygocdb.com/card/name/齿轮齿轮齿轮
 .. _`御前试合`: https://ygocdb.com/card/name/御前试合
 .. _`电子鱼人 弓手`: https://ygocdb.com/card/name/电子鱼人%20弓手
-.. _`扰乱衍生物`: https://ygocdb.com/card/name/扰乱衍生物
+.. _`扰乱衍生物`: https://ygocdb.com/?search=扰乱衍生物
 .. _`天降的宝札`: https://ygocdb.com/card/name/天降的宝札
 .. _`我我我魔术师`: https://ygocdb.com/card/name/我我我魔术师
 .. _`旗鼓堂堂`: https://ygocdb.com/card/name/旗鼓堂堂
@@ -1246,7 +1246,7 @@
 .. _`妖仙大旋风`: https://ygocdb.com/card/name/妖仙大旋风
 .. _`伊塔库亚的暴风`: https://ygocdb.com/card/name/伊塔库亚的暴风
 .. _`扰乱三人组`: https://ygocdb.com/card/name/扰乱三人组
-.. _`衍生物谢肉祭`: https://ygocdb.com/card/name/衍生物谢肉祭
+.. _`衍生物谢肉祭`: https://ygocdb.com/?search=衍生物谢肉祭
 .. _`宇宙耀变龙`: https://ygocdb.com/card/name/宇宙耀变龙
 .. _`电子界魔法师`: https://ygocdb.com/card/name/电子界魔法师
 .. _`扰乱之乡`: https://ygocdb.com/card/name/扰乱之乡
@@ -1492,7 +1492,7 @@
 .. _`极星天 古尔薇格`: https://ygocdb.com/card/name/极星天%20古尔薇格
 .. _`恶王 阿里曼`: https://ygocdb.com/card/name/恶王%20阿里曼
 .. _`异次元女战士`: https://ygocdb.com/card/name/异次元女战士
-.. _`奥西里斯的天空龙`: https://ygocdb.com/card/name/奥西里斯的天空龙
+.. _`奥西里斯之天空龙`: https://ygocdb.com/card/name/奥西里斯之天空龙
 .. _`墓穴的指名者`: https://ygocdb.com/card/name/墓穴的指名者
 .. _`河伯`: https://ygocdb.com/card/name/河伯
 .. _`魔术礼帽`: https://ygocdb.com/card/name/魔术礼帽
@@ -1583,7 +1583,7 @@
 .. _`闪光No.0 希望之异热同心`: https://ygocdb.com/card/name/闪光No.0%20希望之异热同心
 .. _`升阶魔法-星光之力`: https://ygocdb.com/card/name/升阶魔法-星光之力
 .. _`假面变化`: https://ygocdb.com/card/name/假面变化
-.. _`星尘`: https://ygocdb.com/card/name/星尘
+.. _`星尘`: https://ygocdb.com/?search=星尘
 .. _`召唤兽 埃律西昂`: https://ygocdb.com/card/name/召唤兽%20埃律西昂
 .. _`无限泡影`: https://ygocdb.com/card/name/无限泡影
 .. _`吞食百万的暴食兽`: https://ygocdb.com/card/name/吞食百万的暴食兽

@@ -937,7 +937,7 @@
 .. _`废铁双生龙`: https://ygocdb.com/card/name/废铁双生龙
 .. _`微睡的神碑`: https://ygocdb.com/card/name/微睡的神碑
 .. _`No.38 希望魁龙 银河巨神`: https://ygocdb.com/card/name/No.38%20希望魁龙%20银河巨神
-.. _`军贯`: https://ygocdb.com/card/name/军贯
+.. _`军贯`: https://ygocdb.com/?search=军贯
 .. _`最终战争`: https://ygocdb.com/card/name/最终战争
 .. _`念动力防卫者`: https://ygocdb.com/card/name/念动力防卫者
 .. _`双天之狮使-阿吽`: https://ygocdb.com/card/name/双天之狮使-阿吽
@@ -973,7 +973,7 @@
 .. _`星光大道`: https://ygocdb.com/card/name/星光大道
 .. _`升阶魔法-幻影骑士团的出击`: https://ygocdb.com/card/name/升阶魔法-幻影骑士团的出击
 .. _`欲闻其鸣杜鹃`: https://ygocdb.com/card/name/欲闻其鸣杜鹃
-.. _`俱舍怒威族`: https://ygocdb.com/card/name/俱舍怒威族
+.. _`俱舍怒威族`: https://ygocdb.com/?search=俱舍怒威族
 .. _`星守之骑士 托勒密`: https://ygocdb.com/card/name/星守之骑士%20托勒密
 .. _`绝对王 J革命`: https://ygocdb.com/card/name/绝对王%20J革命
 .. _`二重召唤`: https://ygocdb.com/card/name/二重召唤
@@ -1060,7 +1060,7 @@
 .. _`被封印者的右足`: https://ygocdb.com/card/name/被封印者的右足
 .. _`黑暗中的陷阱`: https://ygocdb.com/card/name/黑暗中的陷阱
 .. _`森罗的泷滑`: https://ygocdb.com/card/name/森罗的泷滑
-.. _`新式魔厨`: https://ygocdb.com/card/name/新式魔厨
+.. _`新式魔厨`: https://ygocdb.com/?search=新式魔厨
 .. _`神·史莱姆`: https://ygocdb.com/card/name/神·史莱姆
 .. _`鬼计`: https://ygocdb.com/?search=鬼计
 .. _`忍法 妖变化之术`: https://ygocdb.com/card/name/忍法%20妖变化之术

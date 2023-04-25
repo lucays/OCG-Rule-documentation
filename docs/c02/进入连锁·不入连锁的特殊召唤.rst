@@ -135,7 +135,7 @@
 .. _`转生的预言`: https://ygocdb.com/card/name/转生的预言
 .. _`珠泪哀歌族·鲁莎卡人鱼`: https://ygocdb.com/card/name/珠泪哀歌族·鲁莎卡人鱼
 .. _`命运英雄 毁灭凤凰人`: https://ygocdb.com/card/name/命运英雄%20毁灭凤凰人
-.. _`邪心衍生物`: https://ygocdb.com/card/name/邪心衍生物
+.. _`邪心衍生物`: https://ygocdb.com/?search=邪心衍生物
 .. _`地狱的暴走召唤`: https://ygocdb.com/card/name/地狱的暴走召唤
 .. _`流天类星龙`: https://ygocdb.com/card/name/流天类星龙
 .. _`闭锁世界的冥神`: https://ygocdb.com/card/name/闭锁世界的冥神
@@ -185,12 +185,12 @@
 .. _`影依融合`: https://ygocdb.com/card/name/影依融合
 .. _`魔法神灯`: https://ygocdb.com/card/name/魔法神灯
 .. _`迅捷鼯鼠`: https://ygocdb.com/card/name/迅捷鼯鼠
-.. _`机龙衍生物`: https://ygocdb.com/card/name/机龙衍生物
+.. _`机龙衍生物`: https://ygocdb.com/?search=机龙衍生物
 .. _`PSY骨架装备·γ`: https://ygocdb.com/card/name/PSY骨架装备·γ
 .. _`神影依 米德拉什`: https://ygocdb.com/card/name/神影依%20米德拉什
 .. _`奇妙超量`: https://ygocdb.com/card/name/奇妙超量
 .. _`机龙生成器`: https://ygocdb.com/card/name/机龙生成器
-.. _`人造天使衍生物`: https://ygocdb.com/card/name/人造天使衍生物
+.. _`人造天使衍生物`: https://ygocdb.com/?search=人造天使衍生物
 .. _`龙子`: https://ygocdb.com/card/name/龙子
 .. _`星云龙 尼布拉龙`: https://ygocdb.com/card/name/星云龙%20尼布拉龙
 .. _`升阶魔法`: https://ygocdb.com/card/name/升阶魔法

@@ -146,7 +146,7 @@
 .. _`元素英雄 绝对零度侠`: https://ygocdb.com/card/name/元素英雄%20绝对零度侠
 .. _`炮击的弹射龟`: https://ygocdb.com/card/name/炮击的弹射龟
 .. _`正义盟军 灾亡虫`: https://ygocdb.com/card/name/正义盟军%20灾亡虫
-.. _`原始生命态衍生物`: https://ygocdb.com/card/name/原始生命态衍生物
+.. _`原始生命态衍生物`: https://ygocdb.com/?search=原始生命态衍生物
 .. _`灰流丽`: https://ygocdb.com/card/name/灰流丽
 .. _`画星宝宝`: https://ygocdb.com/card/name/画星宝宝
 .. _`急袭猛禽-究极猎鹰`: https://ygocdb.com/card/name/急袭猛禽-究极猎鹰
@@ -208,7 +208,7 @@
 .. _`解码语者`: https://ygocdb.com/card/name/解码语者
 .. _`技能抽取`: https://ygocdb.com/card/name/技能抽取
 .. _`狱火机`: https://ygocdb.com/?search=狱火机
-.. _`圣像骑士`: https://ygocdb.com/card/name/圣像骑士
+.. _`圣像骑士`: https://ygocdb.com/?search=圣像骑士
 .. _`强制脱出装置`: https://ygocdb.com/card/name/强制脱出装置
 .. _`机巧蛇-丛云远吕智`: https://ygocdb.com/card/name/机巧蛇-丛云远吕智
 .. _`王宫的通告`: https://ygocdb.com/card/name/王宫的通告

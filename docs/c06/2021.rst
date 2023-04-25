@@ -101,7 +101,7 @@
 | 「`异热同心构筑`_」的①效果处理时自己没有手卡的场合，效果处理完全不适用。\ `21/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23193&keyword=&tag=-1&request_locale=ja>`__
 | 「`武神-目一箇`_」的②效果发动时，如果选择『●从手卡把1只「`武神`_」怪兽送去墓地才能发动。从自己墓地选和那只怪兽卡名不同的1只「`武神`_」怪兽加入手卡』来发动，则可以连锁发动「`屋敷童`_」的①效果，不能连锁发动「`灰流丽`_」的①效果；如果选择『●从自己墓地把1只「`武神`_」怪兽除外才能发动。和那只怪兽卡名不同的1只「`武神`_」怪兽从卡组送去墓地』来发动，则可以连锁发动「`灰流丽`_」的①效果，不能连锁发动「`屋敷童`_」的①效果。\ `21/1/15 <https://yugioh-wiki.net/index.php?cmd=read&page=%A1%D4%C7%BD%CE%CF%B5%DB%BC%FD%C0%D0%A1%D5&word=%2821%2F01>`__
 | 「`永火地狱恶魔`_」的①效果『自己手卡是0张的场合，可以再把那张卡破坏』是在效果处理时决定是否破坏，这种在发动时不确定是否会破坏卡的效果，不当作是『要让卡破坏的效果』，所以这个效果发动时，不能连锁发动「`红莲蔷薇龙`_」的②效果。\ `21/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23195&keyword=&tag=-1&request_locale=ja>`__
-| 「`A・∀・疾速赛车`_」可以装备给对方场上的X怪兽或连接怪兽。由于X怪兽和连接怪兽没有等级，且连接怪兽不能变更表示形式，这个场合不能发动「`A・∀・疾速赛车`_」的②效果。\ `21/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23192&keyword=&tag=-1&request_locale=ja>`__
+| 「`惊奇游乐设施·∀·疾速赛车`_」可以装备给对方场上的X怪兽或连接怪兽。由于X怪兽和连接怪兽没有等级，且连接怪兽不能变更表示形式，这个场合不能发动「`惊奇游乐设施·∀·疾速赛车`_」的②效果。\ `21/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23192&keyword=&tag=-1&request_locale=ja>`__
 | 「`惊乐园的大使 ＜B丑角＞`_」的②效果可以把「`游乐设施`_」陷阱卡装备给持有『不会成为对方的效果的对象』效果的「`黎明之堕天使 路西法`_」。\ `21/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23196&keyword=&tag=-1&request_locale=ja>`__
 | 「`惊乐园的支配人 ＜∀丑角＞`_」的①效果是在陷阱卡进行卡的发动的场合才能发动的效果。场上已经表侧存在的陷阱、或者墓地的陷阱进行效果的发动的场合，不能发动「`惊乐园的支配人 ＜∀丑角＞`_」的①效果。\ `21/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23176&keyword=&tag=-1&request_locale=ja>`__
 | 自己场上存在持有「`龙辉巧-右枢α`_」作为X素材的「`龙辉巧-扶筐增二μβ'`_」和「`龙辉巧-上弼ζ`_」的状况，自己发动「`流星辉巧群`_」进行仪式召唤的场合，既可以作为仪式召唤需要的解放的代替把「`龙辉巧-扶筐增二μβ'`_」的X素材取除，也可以把「`龙辉巧-扶筐增二μβ'`_」解放来仪式召唤。结果，可以使用以下的组合进行仪式召唤：\ `21/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23182&keyword=&tag=-1&request_locale=ja>`__
@@ -196,7 +196,7 @@
 | 我方场上存在持有「`仪式魔人 解放者`_」为X素材的「`龙辉巧-扶筐增二μβ'`_」，把作为X素材的「`仪式魔人 解放者`_」取除来仪式召唤「`辉剑鸟之影灵衣`_」成功的场合，「`仪式魔人 解放者`_」的『不能把怪兽特殊召唤』效果是否适用，调整中。
 | 我方发动「`遗式世传的禁断秘术`_」进行仪式召唤之际，不能取除对方场上的「`龙辉巧-扶筐增二μβ'`_」所持有的X素材。
 | :strike:`我方场上存在「神数的神托」以及持有「宝龙星-神数负屃」作为X素材的「龙辉巧-扶筐增二μβ'」时，把作为X素材的「宝龙星-神数负屃」取除来进行仪式召唤的场合，「神数的神托」的『●仪式：场上1只怪兽回到卡组』效果能否发动，调整中。`
-| 我方的「`A·次世代鸟人兵`_」的①效果发动时，对方连锁发动「`No.75 惑乱之风言暗影`_」的①效果，「`A·次世代鸟人兵`_」的效果变成了『双方玩家各自从卡组抽1张』后，这个效果处理让我方把「`真次世代先知`_」抽到的场合，「`真次世代先知`_」的『这张卡用名字带有「`次世代`_」的怪兽的效果从自己卡组加入手卡的场合』效果可以发动。
+| 我方的「`A·次世代鸟人兵`_」的①效果发动时，对方连锁发动「`No.75 惑乱之风言暗影`_」的①效果，「`A·次世代鸟人兵`_」的效果变成了『双方玩家各自从卡组抽1张』后，这个效果处理让我方把「`真次世代先知`_」抽到的场合，「`真次世代先知`_」的『这张卡用「`次世代`_」怪兽的效果从自己卡组加入手卡的场合』效果可以发动。
 | 我方场上存在当作装备卡的「`惊乐家族脸`_」时，如果对方场上存在装备了我方的「`游乐设施`_」陷阱卡的怪兽，可以发动「`善变的裁缝师`_」把「`惊乐家族脸`_」的装备对象转移为那只对方怪兽。
 | 我方场上存在当作装备卡的「`A・∀・神奇摩天轮`_」时，可以发动「`善变的裁缝师`_」把「`A・∀・神奇摩天轮`_」的装备对象转移为对方场上的怪兽或者我方场上的「`惊乐园`_」怪兽。
 
@@ -293,8 +293,8 @@
 --------
 
 | 邮件：
-| 自己场上存在4只怪兽，对方场上存在装备了我方「`A・∀・奇妙摩天轮`_」的「`青眼白龙`_」和装备了我方「`A・∀・疾速赛车`_」的「`真红眼黑龙`_」的状况，我方以那只「`青眼白龙`_」为对象发动「`惊乐家族脸`_」得到了控制权的场合，此时我方场上没有可用的主怪兽区域，也能发动「`善变的裁缝师`_」把「`惊乐家族脸`_」转移给「`真红眼黑龙`_」装备。
-| 对方场上存在装备了我方「`A・∀・奇妙摩天轮`_」的「`青眼白龙`_」和装备了我方「`A・∀・疾速赛车`_」的「`奇袭的又佐`_」的状况，我方以那只「`青眼白龙`_」为对象发动「`惊乐家族脸`_」得到了控制权的场合，也能发动「`善变的裁缝师`_」把「`惊乐家族脸`_」转移给「`奇袭的又佐`_」装备。
+| 自己场上存在4只怪兽，对方场上存在装备了我方「`A・∀・奇妙摩天轮`_」的「`青眼白龙`_」和装备了我方「`惊奇游乐设施·∀·疾速赛车`_」的「`真红眼黑龙`_」的状况，我方以那只「`青眼白龙`_」为对象发动「`惊乐家族脸`_」得到了控制权的场合，此时我方场上没有可用的主怪兽区域，也能发动「`善变的裁缝师`_」把「`惊乐家族脸`_」转移给「`真红眼黑龙`_」装备。
+| 对方场上存在装备了我方「`A・∀・奇妙摩天轮`_」的「`青眼白龙`_」和装备了我方「`惊奇游乐设施·∀·疾速赛车`_」的「`奇袭的又佐`_」的状况，我方以那只「`青眼白龙`_」为对象发动「`惊乐家族脸`_」得到了控制权的场合，也能发动「`善变的裁缝师`_」把「`惊乐家族脸`_」转移给「`奇袭的又佐`_」装备。
 
 | wiki:
 | 发动「`交错之魂`_」进行上级召唤后，如果这个回合还未进行1回合1次的通常召唤，可以再进行正常的通常召唤。\ `21/2/3 <https://yugioh-wiki.net/index.php?%A1%D4%B8%F2%BA%B9%A4%B9%A4%EB%BA%B2%A1%D5#faq>`__
@@ -352,7 +352,7 @@
 --------
 
 | wiki:
-| 「`马头鬼`_」的①效果发动时，连锁发动「`活死人的呼声`_」把「`最终阿努比斯`_」特殊召唤的场合，「`马头鬼`_」的①效果处理时无效，不适用。\ `21/2/10 <https://yugioh-wiki.net/index.php?%A1%D4%A5%A8%A5%F3%A5%C9%A1%A6%A5%AA%A5%D6%A1%A6%A5%A2%A5%CC%A5%D3%A5%B9%A1%D5#faq>`__
+| 「`马头鬼`_」的①效果发动时，连锁发动「`活死人的呼声`_」把「`终结之阿努比斯`_」特殊召唤的场合，「`马头鬼`_」的①效果处理时无效，不适用。\ `21/2/10 <https://yugioh-wiki.net/index.php?%A1%D4%A5%A8%A5%F3%A5%C9%A1%A6%A5%AA%A5%D6%A1%A6%A5%A2%A5%CC%A5%D3%A5%B9%A1%D5#faq>`__
 
 | 数据库：
 
@@ -418,7 +418,7 @@
 | 可以以无法转移控制权的「`奇袭的又佐`_」为对象发动「`惊乐家族脸`_」，不能以「`奇袭的又佐`_」为对象发动「`漫画之手`_」「`蔷薇刻印`_」「`大逮捕`_」。
 | 「`王宫的通告`_」适用中把「`漆黑的能量石`_」发动的场合，不能连锁以那张「`漆黑的能量石`_」为对象发动「`魔导加速`_」。
 | 我方场上存在「`魔法都市 恩底弥翁`_」「`王宫的敕命`_」「`王立魔法图书馆`_」。对方发动「`崩界的守护龙`_」，把「`王宫的敕命`_」和持有魔力指示物的「`王立魔法图书馆`_」同时破坏的场合，「`魔法都市 恩底弥翁`_」的②效果不能给自身放置魔力指示物。
-| 「`再临的帝王`_」「`星遗物长眠的深层`_」「`超营养太阳`_」「`死亡帝王龙`_」的效果特殊召唤的怪兽之后不受其他卡的效果影响的状况，「`再临的帝王`_」「`星遗物长眠的深层`_」「`超营养太阳`_」「`死亡帝王龙`_」从场上离开时那些特殊召唤的怪兽是否会被破坏，调整中。
+| 「`再临的帝王`_」「`沉眠于星遗物的深层`_」「`超营养太阳`_」「`死亡帝王龙`_」的效果特殊召唤的怪兽之后不受其他卡的效果影响的状况，「`再临的帝王`_」「`沉眠于星遗物的深层`_」「`超营养太阳`_」「`死亡帝王龙`_」从场上离开时那些特殊召唤的怪兽是否会被破坏，调整中。
 
 | 裁定变更：
 | 发动「`王战的袭来`_」，在连锁2进行「`漆黑的能量石`_」卡的发动，连锁3发动「`王战的支配`_」，连锁4发动「`魔力枯竭`_」的场合，「`魔力枯竭`_」的效果处理把魔力指示物全部取除之际，「`漆黑的能量石`_」立刻破坏。
@@ -558,7 +558,7 @@
 
 | 邮件：
 | 自己场上的「`斯芬克斯·安德鲁`_」和「`斯芬克斯·迪蕾雅`_」同时破坏时，发动卡组的「`斯芬克斯·安德鲁吉尼斯`_」效果时，当作2速效果和其他效果组成连锁，可以连锁陷阱卡的效果来发动，「`元素英雄 影雾女郎`_」这样公开情报的诱发效果必须在它之前发动。
-| 对方把用「`手札交换`_」等效果得到的2只原本持有者是自己的怪兽盖放到场上后，我方对其中1只发动「`凤翼的暴风`_」的场合，回到自己卡组最上方后是否可以确认那张卡，调整中。
+| 对方把用「`手札对换`_」等效果得到的2只原本持有者是自己的怪兽盖放到场上后，我方对其中1只发动「`凤翼的暴风`_」的场合，回到自己卡组最上方后是否可以确认那张卡，调整中。
 | 对方发动「`战斗狂`_」后，融合召唤的「`幻影英雄 三一人`_」必须攻击对方怪兽3次。
 | 自己额外卡组存在「`半龙女仆·龙女管家`_」的状况，自己场上原本持有者是对方的「`半龙女仆·耀光龙女`_」也可以发动②效果，回到对方额外卡组，从自己额外卡组把「`半龙女仆·龙女管家`_」特殊召唤。
 | 「`霸王眷龙 凶饿毒`_」得到了「`元素英雄 次新宇侠`_」的效果后，当作通常怪兽使用，可以发动「`来自农园的配送`_」。不过不能再1次召唤。
@@ -675,7 +675,7 @@
 | 我方的P区域存在「`米之七音服·埃莉蒂娅`_」，怪兽区域表侧表示存在「`多之七音服·丘蒂娅`_」的状况，对方以我方怪兽区域的「`多之七音服·丘蒂娅`_」为对象发动「`西之七音服·比蒂娅`_」的『①：这个回合，那张卡从场上离开的场合除外』效果时，我方连锁发动了「`七音服的正装`_」，『●自己场上的P怪兽不受那个对方的效果影响』效果或『●自己的P区域的卡不能用那个对方的效果除外』效果适用的场合，这个回合，怪兽区域的「`多之七音服·丘蒂娅`_」从场上离开的场合是否除外，调整中。
 | 我方的P区域存在「`米之七音服·埃莉蒂娅`_」，怪兽区域表侧表示存在「`多之七音服·丘蒂娅`_」的状况，对方以我方怪兽区域的「`多之七音服·丘蒂娅`_」为对象发动「`刻印之调停者`_」的②效果时，我方连锁发动了「`七音服的正装`_」，『●自己场上的P怪兽不受那个对方的效果影响』效果或『●自己的P区域的卡不会被那个对方的效果破坏』效果适用的场合，下个回合的结束阶段，「`多之七音服·丘蒂娅`_」是否被「`刻印之调停者`_」的效果破坏，调整中。
 | 我方的P区域存在「`米之七音服·埃莉蒂娅`_」，怪兽区域表侧表示存在「`多之七音服·丘蒂娅`_」的状况，对方宣言光属性发动「`真龙皇 法·王·兽`_」的①效果时，我方连锁发动了「`七音服的正装`_」，『●自己场上的P怪兽不受那个对方的效果影响』效果适用的场合，「`多之七音服·库莉娅`_」会受到「`真龙皇 法·王·兽`_」的①效果影响，属性变成光属性，不能攻击也不能发动效果。
-| 我方的P区域存在「`米之七音服·埃莉蒂娅`_」，怪兽区域表侧表示存在「`多之七音服·丘蒂娅`_」的状况，对方以我方怪兽区域的「`来之七音服·库莉娅`_」为对象发动「`幻变骚灵·查询昆提兰那克`_」的②效果时，我方连锁发动了「`七音服的正装`_」，『●自己场上的P怪兽不受那个对方的效果影响』效果适用的场合，「`多之七音服·库莉娅`_」不受「`幻变骚灵·查询昆提兰那克`_」的②效果影响，不会被持续取对象。
+| 我方的P区域存在「`米之七音服·埃莉蒂娅`_」，怪兽区域表侧表示存在「`多之七音服·丘蒂娅`_」的状况，对方以我方怪兽区域的「`多之七音服·库莉娅`_」为对象发动「`幻变骚灵·查询昆提兰那克`_」的②效果时，我方连锁发动了「`七音服的正装`_」，『●自己场上的P怪兽不受那个对方的效果影响』效果适用的场合，「`多之七音服·库莉娅`_」不受「`幻变骚灵·查询昆提兰那克`_」的②效果影响，不会被持续取对象。
 | 我方的场地区域存在「`万魔殿-恶魔的巢窟-`_」的状况，准备阶段中「`长世国王恶魔`_」可以不支付基本分让自身不破坏，也可以不支付基本分让自身破坏。
 | 我方的场地区域存在「`万魔殿-恶魔的巢窟-`_」的状况，准备阶段中对方以我方的「`精神界恶魔`_」为对象发动了「`雷破`_」。我方连锁发动「`精神界恶魔`_」的②效果时，需要支付1000基本分，不能适用「`万魔殿-恶魔的巢窟-`_」的『名字带有「`恶魔`_」的怪兽可以在准备阶段不支付基本分』效果。
 | 我方的场地区域存在「`万魔殿-恶魔的巢窟-`_」的状况，准备阶段中对方以我方的「`恶魔巨神`_」为对象发动了「`雷破`_」。「`恶魔巨神`_」适用自身的①效果代替破坏时，需要支付500基本分，不能适用「`万魔殿-恶魔的巢窟-`_」的『名字带有「`恶魔`_」的怪兽可以在准备阶段不支付基本分』效果。
@@ -833,7 +833,7 @@
 
 | 邮件：
 | 可以把「`爆炎穿击`_」和它的装备怪兽送去墓地发动「`禁忌的一滴`_」。
-| 自己场上只有1只「`地中族的妖魔`_」表侧表示存在。自己发动这只「`地中族的妖魔`_」的②效果，把自身变成里侧表示，从墓地把「`地中族的导师`_」表侧守备表示特殊召唤的场合，处理后由于自己场上存在表侧表示的怪兽，不能从手卡发动「`地中族邪界兽·利古钻土蜥`_」的①效果。
+| 自己场上只有1只「`地中族妖魔`_」表侧表示存在。自己发动这只「`地中族妖魔`_」的②效果，把自身变成里侧表示，从墓地把「`地中族的导师`_」表侧守备表示特殊召唤的场合，处理后由于自己场上存在表侧表示的怪兽，不能从手卡发动「`地中族邪界兽·利古钻土蜥`_」的①效果。
 | 「`连锁素材`_」发动后，自己怪兽区域表侧表示存在「`魔道骑龙 诅咒之龙`_」，自己发动「`螺旋融合`_」，把墓地的「`暗黑骑士 盖亚`_」和「`诅咒之龙`_」除外融合召唤「`龙骑士 盖亚`_」的场合，需要宣言适用的是「`魔道骑龙 诅咒之龙`_」的②效果还是「`连锁素材`_」的效果。适用「`连锁素材`_」效果的场合，那只「`龙骑士 盖亚`_」在结束阶段被破坏。
 
 | wiki:
@@ -1548,7 +1548,7 @@
 | 「`闪烁五星`_」在『自己场上的怪兽只有5星怪兽1只』的状况才能发动，这张卡发动之际我方场上的那只怪兽必须是可以确认是等级5的状态，也就是必须是表侧表示。如果我方场上只有1只里侧守备表示的等级5的怪兽，不能发动这张卡。\ `21/6/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23285&keyword=&tag=-1&request_locale=ja>`__
 | 宣言兽族的「`轮回独断`_」①效果适用中，我方发动「`铁兽的抗战`_」，那个效果处理时可以选因「`轮回独断`_」①效果变成兽族的怪兽从墓地特殊召唤，之后由于在场上不再是兽族怪兽，如果不能全部作为素材来连接召唤「`铁兽`_」怪兽，那么不进行连接召唤，就这样留在场上。\ `21/6/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23286&keyword=&tag=-1&request_locale=ja>`__
 
-.. note:: 战斗阶段发动的诱发效果有「`娱乐伙伴颠倒蛙`_」的①效果、「`干燥机块 烘干龙兽`_」的②效果、「`高速战士`_」的①效果、「`宇宙人马兽`_」的①效果等，另外相似文本的「`超重武者 拳-C`_」的①效果是诱发即时效果，原因不明。
+.. note:: 战斗阶段发动的诱发效果有「`娱乐伙伴 颠倒蛙`_」的①效果、「`干燥机块 烘干龙兽`_」的②效果、「`高速战士`_」的①效果、「`宇宙人马兽`_」的①效果等，另外相似文本的「`超重武者 拳-C`_」的①效果是诱发即时效果，原因不明。
 
 6/12
 -------
@@ -1597,7 +1597,7 @@
 | 我方场上存在适用了「`禁忌的圣衣`_」效果的「`蜜罐机器人`_」，在其连接端把「`烈风帝 莱扎`_」上级召唤成功时，我方场上只有「`蜜罐机器人`_」「`烈风帝 莱扎`_」存在，对方场上没有任何卡存在的状况，「`烈风帝 莱扎`_」的①效果发动的场合，不会选择任何卡为对象，效果处理不适用。
 | 「`高速战士`_」的①效果不能连锁其他卡的效果来发动。各自「`高速战士`_」的效果都要发动的状况，不能组成连锁发动。
 | 「`巴比伦栗子`_」的③效果可以在我方战斗阶段的开始步骤、结束步骤、攻击宣言时和攻击宣言后的战斗步骤内发动。但只能作为连锁1来发动。
-| 怪兽区域「`娱乐伙伴颠倒蛙`_」的①效果可以在我方战斗阶段的攻击宣言时到进入伤害步骤之前的战斗步骤内发动。但只能作为连锁1来发动。
+| 怪兽区域「`娱乐伙伴 颠倒蛙`_」的①效果可以在我方战斗阶段的攻击宣言时到进入伤害步骤之前的战斗步骤内发动。但只能作为连锁1来发动。
 | 我方战斗阶段中，我方场上表侧表示存在「`巴比伦栗子`_」，我方发动「`手札断杀`_」从手卡把「`影依兽`_」送去了墓地。连锁处理后「`影依兽`_」的②效果和「`巴比伦栗子`_」的③效果能否组成连锁发动，调整中。
 | 我方发动「`皮里·雷斯地图`_」，从卡组把「`灰流丽`_」加入手卡的场合，那以后对方仍然可以发动「`灰流丽`_」的①效果。
 | 对方发动「`诱发召唤`_」，双方把怪兽特殊召唤的场合，我方发动「`时空的落穴`_」的场合，只有对方特殊召唤的怪兽回到卡组，我方失去1000基本分。
@@ -1650,7 +1650,7 @@
 | 邮件：
 | 在攻击宣言时，自己「`巴比伦栗子`_」的③效果和对方「`连接栗子球`_」的①效果都要发动时，先发动自己「`巴比伦栗子`_」的③效果，再连锁发动对方「`连接栗子球`_」的①效果。
 | 在攻击宣言时，自己「`巴比伦栗子`_」的③效果和「`炽热的决斗者们`_」的①效果是以什么顺序组成连锁，调整中。
-| 在攻击宣言时的效果处理后的快速时点，是否可以先于「`强制脱出装置`_」发动怪兽区域「`娱乐伙伴颠倒蛙`_」的①效果、「`宇宙人马兽`_」的①效果以及「`巴比伦栗子`_」的③效果，调整中。
+| 在攻击宣言时的效果处理后的快速时点，是否可以先于「`强制脱出装置`_」发动怪兽区域「`娱乐伙伴 颠倒蛙`_」的①效果、「`宇宙人马兽`_」的①效果以及「`巴比伦栗子`_」的③效果，调整中。
 
 6/20
 -------
@@ -1725,7 +1725,7 @@
 | 「`命运之契约`_」的②效果发动时，连锁发动「`旋风`_」等效果把「`命运之契约`_」破坏的场合，「`命运之契约`_」的②效果处理不适用。\ `21/6/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23290&keyword=&tag=-1&request_locale=ja>`__
 | 我方魔法·陷阱卡区域用自身②效果盖放的「`№系防护`_」发动时，对方连锁发动「`神之宣告`_」的场合，由于卡的发动无效时不再当作场上的卡，「`№系防护`_」的发动被无效，破坏送去墓地，不会除外；对方连锁发动「`红色重启`_」的场合，「`№系防护`_」的发动被无效，直接盖放后，不再当作是用自身②效果盖放的，之后从场上离开的场合也不会除外。\ `21/6/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23289&keyword=&tag=-1&request_locale=ja>`__
 | 场上的「`异热同心从者-希望贤者`_」和「`No.99 希望皇 霍普德拉戈纳`_」同时被「`雷击`_」的效果破坏的场合，那只「`异热同心从者-希望贤者`_」的②效果不适用。\ `21/6/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23288&keyword=&tag=-1&request_locale=ja>`__
-| 「`No.99 希望皇 霍普德拉戈纳`_」发动①效果，把1只「`No.`_」X怪兽特殊召唤成功时，场地区域的「`异热同心力场`_」的②效果以及墓地的「`HRUM-乌托邦之力`_」的②效果都满足发动条件，可以以任意的顺序组成连锁发动。这个场合由于它们都是『以自己场上的XYZ怪兽为对象的自己的卡的效果』，「`异热同心力场`_」的①效果都会适用。因此不管组成连锁的顺序如何，对方都不能连锁发动魔法·陷阱·怪兽的效果。\ `21/6/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23287&keyword=&tag=-1&request_locale=ja>`__
+| 「`No.99 希望皇 霍普德拉戈纳`_」发动①效果，把1只「`No.`_」X怪兽特殊召唤成功时，场地区域的「`异热同心力场`_」的②效果以及墓地的「`超升阶魔法-乌托邦之力`_」的②效果都满足发动条件，可以以任意的顺序组成连锁发动。这个场合由于它们都是『以自己场上的XYZ怪兽为对象的自己的卡的效果』，「`异热同心力场`_」的①效果都会适用。因此不管组成连锁的顺序如何，对方都不能连锁发动魔法·陷阱·怪兽的效果。\ `21/6/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23287&keyword=&tag=-1&request_locale=ja>`__
 
 6/27
 -------
@@ -2115,8 +2115,8 @@
 | 我方丢弃1张怪兽卡发动「`幻妖 胡尔德拉`_」的①效果，我方连锁发动「`影依的原核`_」，对方连锁发动「`装弹枪管狞猛龙`_」的③效果的场合，「`影依的原核`_」在连锁处理完毕时送去墓地，不是因卡的效果送去墓地，不能发动②效果，「`幻妖 胡尔德拉`_」的①效果处理时不能把这张「`影依的原核`_」加入手卡。
 | 我方发动「`相剑暗转`_」的②效果，在我方场上把1只「`相剑衍生物`_」特殊召唤。那之后，对方发动「`精神操作`_」，「`相剑衍生物`_」的控制权转移给对方的场合，『只要这个效果特殊召唤的衍生物存在，自己不是S怪兽不能从额外卡组特殊召唤』效果仍然继续适用。（仍然是我方不是S怪兽不能从额外卡组特殊召唤）
 | 我方发动「`相剑暗转`_」的②效果，在我方场上把1只「`相剑衍生物`_」特殊召唤。那之后，对方发动「`纳祭之魔`_」的①效果或者我方发动「`神威凤凰剑圣 基亚·弗里德`_」的②效果，「`相剑衍生物`_」当作装备卡给「`纳祭之魔`_」或「`神威凤凰剑圣 基亚·弗里德`_」装备的场合，『只要这个效果特殊召唤的衍生物存在，自己不是S怪兽不能从额外卡组特殊召唤』效果是否还适用，调整中。
-| 「`传说之都 亚特兰蒂斯`_」适用中，我方发动「`小世界现象`_」，从手卡把「`飞鲤`_」给对方观看。这个场合，由于「`传说之都 亚特兰蒂斯`_」的效果会让手卡的「`飞鲤`_」等级下降1星变成3星，因此不能从卡组把有「`等级`_」「`属性`_」2项与之相同的「`儚无水木`_」确认。
-| 「`传说之都 亚特兰蒂斯`_」适用中，我方发动「`小世界现象`_」，从手卡把「`相爱之彗星兰伞`_」给对方观看。这个场合，由于「`传说之都 亚特兰蒂斯`_」的效果适用，手卡的「`相爱之彗星兰伞`_」等级下降1星变成了2星，因此可以从卡组把只有「`属性`_」1项与之相同的「`儚无水木`_」确认。
+| 「`传说之都 亚特兰蒂斯`_」适用中，我方发动「`小世界现象`_」，从手卡把「`飞鲤`_」给对方观看。这个场合，由于「`传说之都 亚特兰蒂斯`_」的效果会让手卡的「`飞鲤`_」等级下降1星变成3星，因此不能从卡组把有等级·属性2项与之相同的「`儚无水木`_」确认。
+| 「`传说之都 亚特兰蒂斯`_」适用中，我方发动「`小世界现象`_」，从手卡把「`相爱之彗星兰伞`_」给对方观看。这个场合，由于「`传说之都 亚特兰蒂斯`_」的效果适用，手卡的「`相爱之彗星兰伞`_」等级下降1星变成了2星，因此可以从卡组把只有属性1项与之相同的「`儚无水木`_」确认。
 
 8/2
 ------
@@ -2344,8 +2344,8 @@
 
 | 「`Jo－P.U.N.K.危险口裂`_」的①效果是在『那只怪兽的效果直到回合结束时无效』处理后，确认我方的怪兽区域是否有表侧表示的「`朋克`_」怪兽存在。存在的场合，进行『再让自己基本分回复作为对象的怪兽的原本攻击力的数值』处理。\ `21/8/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23327&keyword=&tag=-1&request_locale=ja>`__
 | 「`Jo－P.U.N.K.危险口裂`_」的①效果处理时，作为对象的怪兽的效果已经被无效的场合，由于『那只怪兽的效果直到回合结束时无效』的处理不能对效果已经被无效化的怪兽适用，『再让自己基本分回复作为对象的怪兽的原本攻击力的数值』效果处理也不适用。\ `21/8/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23322&keyword=&tag=-1&request_locale=ja>`__
-| 我方「`No－P.U.N.K. 调狐`_」进行攻击的伤害步骤开始时，「`Ga－P.U.N.K.野蛮弹奏`_」的①效果发动，把对方怪兽破坏的场合，伤害步骤内不会发生战斗步骤的卷回，攻击终止。这个战斗阶段「`No－P.U.N.K. 调狐`_」也不能再攻击。\ `21/8/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23323&keyword=&tag=-1&request_locale=ja>`__
-| 自己场上存在「`朋克`_」怪兽，以对方场上表侧表示的卡为对象发动「`Jo－P.U.N.K.惊愕梨割`_」的①效果，处理时我方场上不再存在「`朋克`_」怪兽的场合，『自己场上有「`朋克`_」怪兽存在的场合』文本是选择对象时的条件，不是进行处理的条件，结果正常适用，把作为对象的卡破坏。\ `21/8/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23326&keyword=&tag=-1&request_locale=ja>`__
+| 我方「`能朋克 调狐`_」进行攻击的伤害步骤开始时，「`Ga－P.U.N.K.野蛮弹奏`_」的①效果发动，把对方怪兽破坏的场合，伤害步骤内不会发生战斗步骤的卷回，攻击终止。这个战斗阶段「`能朋克 调狐`_」也不能再攻击。\ `21/8/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23323&keyword=&tag=-1&request_locale=ja>`__
+| 自己场上存在「`朋克`_」怪兽，以对方场上表侧表示的卡为对象发动「`净琉璃朋克惊愕梨割`_」的①效果，处理时我方场上不再存在「`朋克`_」怪兽的场合，『自己场上有「`朋克`_」怪兽存在的场合』文本是选择对象时的条件，不是进行处理的条件，结果正常适用，把作为对象的卡破坏。\ `21/8/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23326&keyword=&tag=-1&request_locale=ja>`__
 | 从墓地特殊召唤的怪兽，不论以什么表示形式特殊召唤，都是从墓地特殊召唤的怪兽。从墓地里侧守备表示特殊召唤的怪兽之后变成表侧表示的场合，也仍然是从墓地特殊召唤的怪兽。因此，这些怪兽在对方场上存在的场合，我方回合可以发动「`救祓少女阿门武装`_」。不过，从墓地特殊召唤的怪兽在表侧表示状态被变成里侧守备表示的场合，那些怪兽不再是从墓地特殊召唤的怪兽。\ `21/8/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23330&keyword=&tag=-1&request_locale=ja>`__
 | 从墓地特殊召唤的，因「`亚空间物质传送装置`_」等效果被一时除外后回到场上的怪兽，仍然是从墓地特殊召唤的怪兽，我方回合可以发动「`救祓少女阿门武装`_」。\ `21/8/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23329&keyword=&tag=-1&request_locale=ja>`__
 | 「`救祓少女·埃莉丝`_」的②效果或者「`救祓少女阿门武装`_」的①效果把怪兽当作X召唤从额外卡组特殊召唤之际，不是进行规则上的X召唤，不能发动「`升天之黑角笛`_」等效果无效那次特殊召唤。\ `21/8/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23320&keyword=&tag=-1&request_locale=ja>`__
@@ -2447,7 +2447,7 @@
 | wiki:
 | 「`浮世绘朋克 娑乐斋`_」的②效果处理时，可以用自己场上的「`龙子`_」以及手卡的1只怪兽（适用「`龙子`_」的①效果）作为素材来S召唤「`朋克`_」怪兽。\ `21/9/6 <https://yugioh-wiki.net/index.php?%A1%D4%A3%D5%A3%EB%A1%DD%A3%D0.%A3%D5.%A3%CE.%A3%CB.%D5%B0%B3%DA%BA%D8%A1%D5#faq>`__
 | 「`王宫的牢狱`_」在场上存在时，不能把自身丢弃来发动「`龙冰`_」的效果（因为这个场合是把墓地的怪兽特殊召唤）。\ `21/9/6 <https://yugioh-wiki.net/index.php?%A1%D4%A5%C9%A5%E9%A5%B4%A5%F3%A1%A6%A5%A2%A5%A4%A5%B9%A1%D5#faq>`__
-| 以「`精灵术师 树精`_」为对象发动「`A·次世代转换员`_」的效果时，只能宣言暗属性或者神属性。\ `21/9/6 <https://yugioh-wiki.net/index.php?%A1%D4%A3%C1%A1%A6%A5%B8%A5%A7%A5%CD%A5%AF%A5%B9%A1%A6%A5%C1%A5%A7%A5%F3%A5%B8%A5%E3%A1%BC%A1%D5#faq>`__
+| 以「`精灵术师 树精`_」为对象发动「`盟军·次世代转换员`_」的效果时，只能宣言暗属性或者神属性。\ `21/9/6 <https://yugioh-wiki.net/index.php?%A1%D4%A3%C1%A1%A6%A5%B8%A5%A7%A5%CD%A5%AF%A5%B9%A1%A6%A5%C1%A5%A7%A5%F3%A5%B8%A5%E3%A1%BC%A1%D5#faq>`__
 
 9/8
 -------
@@ -3116,10 +3116,10 @@
 | 场上没有「`海`_」存在，装备「`同调英雄`_」等级变成5的「`海神的依代`_」的①效果发动之际，可以取我方墓地的同名卡（等级4的「`海神的依代`_」）为对象。
 | 场上存在「`海`_」，「`海神的依代`_」的①效果发动之际，可以取我方墓地的「`魔键凭灵-威沛图`_」等水属性X怪兽为对象。
 | 场上存在「`海`_」，「`海神的依代`_」的①效果发动之际，不能取我方墓地的「`清冽之水灵使 艾莉娅`_」等水属性连接怪兽为对象。
-| 即使发动并适用过「`HRUM-乌托邦之力`_」的①效果，仍然可以把第2张送去墓地来发动「`七皇升格`_」的②效果。
+| 即使发动并适用过「`超升阶魔法-乌托邦之力`_」的①效果，仍然可以把第2张送去墓地来发动「`七皇升格`_」的②效果。
 | 即使发动并适用过「`雷龙融合`_」的①效果，仍然可以把第2张送去墓地来发动「`捕食植物 青锁龙森蚺`_」的②效果。
 | 「`海龙神的激昂`_」发动时，虽然这个卡名的①效果1回合只能使用1次，也可以连锁发动「`连续魔法`_」。
-| 在已经发动并适用过「`魔女术的创造`_」①效果的回合中，仍然可以把「`魔女术的创造`_」除外来发动「`魔女术天才 魔精女巫`_」的②效果。
+| 在已经发动并适用过「`魔女术的创造`_」①效果的回合中，仍然可以把「`魔女术的创造`_」除外来发动「`魔女术熟练工`_」的②效果。
 | 在已经发动并适用过「`七皇升格`_」的①效果的回合中，仍然可以把第2张「`七皇升格`_」送去墓地发动「`异晶人的混沌抽卡`_」的『●从卡组把1张「`七皇`_」通常魔法卡送去墓地才能发动。这个效果变成和那张魔法卡发动时的效果相同』效果。
 | 在已经发动并适用过「`双天的转身`_」的①效果的回合中，仍然可以把墓地的「`双天的转身`_」除外发动「`双天的使命`_」。
 | :strike:`用手卡的「电子龙芯」「电子龙·次代星」和场上的「电子龙二型」为素材把「守护者·奇美拉」融合召唤后，我方把「融合解除」发动的场合，能否把墓地存在的卡名当作「电子龙」的「电子龙芯」「电子龙·次代星」「电子龙二型」特殊召唤，调整中。`
@@ -3443,7 +3443,7 @@
 .. _`齿轮齿轮`: https://ygocdb.com/?search=齿轮齿轮
 .. _`蔷薇刻印`: https://ygocdb.com/card/name/蔷薇刻印
 .. _`流星龙`: https://ygocdb.com/card/name/流星龙
-.. _`手札交换`: https://ygocdb.com/card/name/手札交换
+.. _`手札对换`: https://ygocdb.com/card/name/手札对换
 .. _`白龙忍者`: https://ygocdb.com/card/name/白龙忍者
 .. _`下拍`: https://ygocdb.com/card/name/下拍
 .. _`龙辉巧-扶筐增二`: https://ygocdb.com/card/name/龙辉巧-扶筐增二
@@ -3532,7 +3532,7 @@
 .. _`覆面忍者 惠比寿`: https://ygocdb.com/card/name/覆面忍者%20惠比寿
 .. _`青色眼睛的祭司`: https://ygocdb.com/card/name/青色眼睛的祭司
 .. _`禁发令`: https://ygocdb.com/card/name/禁发令
-.. _`衍生物收集者`: https://ygocdb.com/card/name/衍生物收集者
+.. _`衍生物收集者`: https://ygocdb.com/?search=衍生物收集者
 .. _`No.89 电脑兽 系统破坏神`: https://ygocdb.com/card/name/No.89%20电脑兽%20系统破坏神
 .. _`死亡乌贼`: https://ygocdb.com/card/name/死亡乌贼
 .. _`废品增速者`: https://ygocdb.com/card/name/废品增速者
@@ -3558,11 +3558,11 @@
 .. _`德梅特爷爷`: https://ygocdb.com/card/name/德梅特爷爷
 .. _`激流葬`: https://ygocdb.com/card/name/激流葬
 .. _`绊醒师 塞姆贝尔`: https://ygocdb.com/card/name/绊醒师%20塞姆贝尔
-.. _`积木衍生物`: https://ygocdb.com/card/name/积木衍生物
+.. _`积木衍生物`: https://ygocdb.com/?search=积木衍生物
 .. _`黎明之堕天使 路西法`: https://ygocdb.com/card/name/黎明之堕天使%20路西法
 .. _`宇宙人礼物`: https://ygocdb.com/card/name/宇宙人礼物
 .. _`凤凰剑圣 基亚·弗里德`: https://ygocdb.com/card/name/凤凰剑圣%20基亚·弗里德
-.. _`人造天使衍生物`: https://ygocdb.com/card/name/人造天使衍生物
+.. _`人造天使衍生物`: https://ygocdb.com/?search=人造天使衍生物
 .. _`圣骑士`: https://ygocdb.com/card/name/圣骑士
 .. _`精神界恶魔`: https://ygocdb.com/card/name/精神界恶魔
 .. _`小人的恶作剧`: https://ygocdb.com/card/name/小人的恶作剧
@@ -3624,7 +3624,7 @@
 .. _`救祓少女阿门武装`: https://ygocdb.com/card/name/救祓少女阿门武装
 .. _`星尘龙`: https://ygocdb.com/card/name/星尘龙
 .. _`相剑大邪-七星龙渊`: https://ygocdb.com/card/name/相剑大邪-七星龙渊
-.. _`落穴`: https://ygocdb.com/card/name/落穴
+.. _`落穴`: https://ygocdb.com/?search=落穴
 .. _`刻印之调停者`: https://ygocdb.com/card/name/刻印之调停者
 .. _`海晶少女 青高海牛`: https://ygocdb.com/card/name/海晶少女%20青高海牛
 .. _`超魔导战士-混沌制驭者`: https://ygocdb.com/card/name/超魔导战士-混沌制驭者
@@ -3639,7 +3639,7 @@
 .. _`荷鲁斯之黑炎龙 LV6`: https://ygocdb.com/card/name/荷鲁斯之黑炎龙%20LV6
 .. _`教导的圣女 艾克莉西娅`: https://ygocdb.com/card/name/教导的圣女%20艾克莉西娅
 .. _`恶魔`: https://ygocdb.com/?search=恶魔
-.. _`娱乐伙伴颠倒蛙`: https://ygocdb.com/card/name/娱乐伙伴颠倒蛙
+.. _`娱乐伙伴 颠倒蛙`: https://ygocdb.com/card/name/娱乐伙伴%20颠倒蛙
 .. _`烈焰火星`: https://ygocdb.com/card/name/烈焰火星
 .. _`对坏兽用决战兵器 机械雷鸣王`: https://ygocdb.com/card/name/对坏兽用决战兵器%20机械雷鸣王
 .. _`魔法都市 恩底弥翁`: https://ygocdb.com/card/name/魔法都市%20恩底弥翁
@@ -3696,7 +3696,7 @@
 .. _`电脑堺姬-娘娘`: https://ygocdb.com/card/name/电脑堺姬-娘娘
 .. _`幽世之血樱`: https://ygocdb.com/card/name/幽世之血樱
 .. _`电子龙`: https://ygocdb.com/?search=电子龙
-.. _`最终阿努比斯`: https://ygocdb.com/card/name/最终阿努比斯
+.. _`终结之阿努比斯`: https://ygocdb.com/card/name/终结之阿努比斯
 .. _`亡龙之战栗-死欲龙`: https://ygocdb.com/card/name/亡龙之战栗-死欲龙
 .. _`漆黑之豹战士`: https://ygocdb.com/card/name/漆黑之豹战士
 .. _`妖仙兽的风祀`: https://ygocdb.com/card/name/妖仙兽的风祀
@@ -3807,7 +3807,7 @@
 .. _`命运之火钟`: https://ygocdb.com/card/name/命运之火钟
 .. _`屏蔽盾处理器`: https://ygocdb.com/card/name/屏蔽盾处理器
 .. _`光天使 天秤`: https://ygocdb.com/card/name/光天使%20天秤
-.. _`落魂衍生物`: https://ygocdb.com/card/name/落魂衍生物
+.. _`落魂衍生物`: https://ygocdb.com/?search=落魂衍生物
 .. _`教导的惩罚`: https://ygocdb.com/card/name/教导的惩罚
 .. _`No.19 冷冻龙`: https://ygocdb.com/card/name/No.19%20冷冻龙
 .. _`星际仙踪-铁皮`: https://ygocdb.com/card/name/星际仙踪-铁皮
@@ -3906,7 +3906,7 @@
 .. _`古代的机械`: https://ygocdb.com/?search=古代的机械
 .. _`超重武者 案山子-C`: https://ygocdb.com/card/name/超重武者%20案山子-C
 .. _`地雷石人`: https://ygocdb.com/card/name/地雷石人
-.. _`魔女术天才 魔精女巫`: https://ygocdb.com/card/name/魔女术天才%20魔精女巫
+.. _`魔女术熟练工`: https://ygocdb.com/card/name/魔女术熟练工
 .. _`命运英雄 钻石人`: https://ygocdb.com/card/name/命运英雄%20钻石人
 .. _`混沌战士`: https://ygocdb.com/?search=混沌战士
 .. _`北极天熊-北斗七星`: https://ygocdb.com/card/name/北极天熊-北斗七星
@@ -3932,7 +3932,7 @@
 .. _`转码语者`: https://ygocdb.com/card/name/转码语者
 .. _`救祓少女·伊雷娜`: https://ygocdb.com/card/name/救祓少女·伊雷娜
 .. _`海胆军贯`: https://ygocdb.com/card/name/海胆军贯
-.. _`冰结界衍生物`: https://ygocdb.com/card/name/冰结界衍生物
+.. _`冰结界衍生物`: https://ygocdb.com/?search=冰结界衍生物
 .. _`电脑堺媛-瑞瑞`: https://ygocdb.com/card/name/电脑堺媛-瑞瑞
 .. _`跃空垂耳兔飞行队`: https://ygocdb.com/card/name/跃空垂耳兔飞行队
 .. _`DDD 深渊王 比尔伽美斯`: https://ygocdb.com/card/name/DDD%20深渊王%20比尔伽美斯
@@ -3997,7 +3997,7 @@
 .. _`魔术师的救出`: https://ygocdb.com/card/name/魔术师的救出
 .. _`北极天熊-小白熊`: https://ygocdb.com/card/name/北极天熊-小白熊
 .. _`烙印龙 白界龙`: https://ygocdb.com/card/name/烙印龙%20白界龙
-.. _`A・∀・疾速赛车`: https://ygocdb.com/card/name/A・∀・疾速赛车
+.. _`惊奇游乐设施·∀·疾速赛车`: https://ygocdb.com/card/name/惊奇游乐设施·∀·疾速赛车
 .. _`流离的狮鹫骑手`: https://ygocdb.com/card/name/流离的狮鹫骑手
 .. _`魂吸收`: https://ygocdb.com/card/name/魂吸收
 .. _`未来No.0 未来皇 霍普`: https://ygocdb.com/card/name/未来No.0%20未来皇%20霍普
@@ -4035,7 +4035,7 @@
 .. _`恩底弥翁的皇后`: https://ygocdb.com/card/name/恩底弥翁的皇后
 .. _`暴走召唤师 阿莱斯特`: https://ygocdb.com/card/name/暴走召唤师%20阿莱斯特
 .. _`御前试合`: https://ygocdb.com/card/name/御前试合
-.. _`扰乱衍生物`: https://ygocdb.com/card/name/扰乱衍生物
+.. _`扰乱衍生物`: https://ygocdb.com/?search=扰乱衍生物
 .. _`世界不灭`: https://ygocdb.com/card/name/世界不灭
 .. _`古之咒文`: https://ygocdb.com/card/name/古之咒文
 .. _`烙印融合`: https://ygocdb.com/card/name/烙印融合
@@ -4070,7 +4070,7 @@
 .. _`冥王龙 断罪神`: https://ygocdb.com/card/name/冥王龙%20断罪神
 .. _`旋风`: https://ygocdb.com/card/name/旋风
 .. _`游乐设施`: https://ygocdb.com/?search=游乐设施
-.. _`No.`: https://ygocdb.com/card/name/No.
+.. _`No.`: https://ygocdb.com/?search=No.
 .. _`星级变化`: https://ygocdb.com/card/name/星级变化
 .. _`无谋的贪心`: https://ygocdb.com/card/name/无谋的贪心
 .. _`灵摆转动`: https://ygocdb.com/card/name/灵摆转动
@@ -4222,7 +4222,7 @@
 .. _`光芒冲击`: https://ygocdb.com/card/name/光芒冲击
 .. _`超重武者 兜-10`: https://ygocdb.com/card/name/超重武者%20兜-10
 .. _`强制脱出装置`: https://ygocdb.com/card/name/强制脱出装置
-.. _`地中族的妖魔`: https://ygocdb.com/card/name/地中族的妖魔
+.. _`地中族妖魔`: https://ygocdb.com/card/name/地中族妖魔
 .. _`爬虫妖女·许德拉`: https://ygocdb.com/card/name/爬虫妖女·许德拉
 .. _`究极龙骑士`: https://ygocdb.com/card/name/究极龙骑士
 .. _`潜艇机人`: https://ygocdb.com/card/name/潜艇机人
@@ -4230,7 +4230,7 @@
 .. _`飞溅闪屏法师`: https://ygocdb.com/card/name/飞溅闪屏法师
 .. _`闪光No.39 希望皇 霍普一`: https://ygocdb.com/card/name/闪光No.39%20希望皇%20霍普一
 .. _`龙辉巧-扶筐增二μβ'`: https://ygocdb.com/card/name/龙辉巧-扶筐增二μβ'
-.. _`假面衍生物`: https://ygocdb.com/card/name/假面衍生物
+.. _`假面衍生物`: https://ygocdb.com/?search=假面衍生物
 .. _`太阳龙 因蒂`: https://ygocdb.com/card/name/太阳龙%20因蒂
 .. _`王牌百搭`: https://ygocdb.com/card/name/王牌百搭
 .. _`古代的机械热核龙`: https://ygocdb.com/card/name/古代的机械热核龙
@@ -4287,14 +4287,14 @@
 .. _`冰水帝 钠铬辉石精`: https://ygocdb.com/card/name/冰水帝%20钠铬辉石精
 .. _`神数的神托`: https://ygocdb.com/card/name/神数的神托
 .. _`混沌凤凰神 奈芙提斯`: https://ygocdb.com/card/name/混沌凤凰神%20奈芙提斯
-.. _`后继者衍生物`: https://ygocdb.com/card/name/后继者衍生物
+.. _`后继者衍生物`: https://ygocdb.com/?search=后继者衍生物
 .. _`失乐之魔女`: https://ygocdb.com/card/name/失乐之魔女
 .. _`抹杀之指名者`: https://ygocdb.com/card/name/抹杀之指名者
 .. _`半龙女仆的整理`: https://ygocdb.com/card/name/半龙女仆的整理
 .. _`二重巴塞舞姿`: https://ygocdb.com/card/name/二重巴塞舞姿
 .. _`文具电子人基地`: https://ygocdb.com/card/name/文具电子人基地
 .. _`雷破`: https://ygocdb.com/card/name/雷破
-.. _`阿斯蒙衍生物`: https://ygocdb.com/card/name/阿斯蒙衍生物
+.. _`阿斯蒙衍生物`: https://ygocdb.com/?search=阿斯蒙衍生物
 .. _`救祓少女·埃莉丝`: https://ygocdb.com/card/name/救祓少女·埃莉丝
 .. _`娱乐伙伴 天空魔术家`: https://ygocdb.com/card/name/娱乐伙伴%20天空魔术家
 .. _`灰流丽`: https://ygocdb.com/card/name/灰流丽
@@ -4354,7 +4354,7 @@
 .. _`毒蛇供物`: https://ygocdb.com/card/name/毒蛇供物
 .. _`古遗物-圣枪`: https://ygocdb.com/card/name/古遗物-圣枪
 .. _`护宝炮妖船 喧闹探险者号`: https://ygocdb.com/card/name/护宝炮妖船%20喧闹探险者号
-.. _`机龙衍生物`: https://ygocdb.com/card/name/机龙衍生物
+.. _`机龙衍生物`: https://ygocdb.com/?search=机龙衍生物
 .. _`超融合`: https://ygocdb.com/card/name/超融合
 .. _`暗之诱惑`: https://ygocdb.com/card/name/暗之诱惑
 .. _`龙子`: https://ygocdb.com/card/name/龙子
@@ -4384,7 +4384,7 @@
 .. _`真化护法 主教`: https://ygocdb.com/card/name/真化护法%20主教
 .. _`物质炉衔尾巨蛇`: https://ygocdb.com/card/name/物质炉衔尾巨蛇
 .. _`废铁`: https://ygocdb.com/?search=废铁
-.. _`蒂斯衍生物`: https://ygocdb.com/card/name/蒂斯衍生物
+.. _`蒂斯衍生物`: https://ygocdb.com/?search=蒂斯衍生物
 .. _`蜜罐机器人`: https://ygocdb.com/card/name/蜜罐机器人
 .. _`无限泡影`: https://ygocdb.com/card/name/无限泡影
 .. _`机巧传-神使记纪图`: https://ygocdb.com/card/name/机巧传-神使记纪图
@@ -4409,7 +4409,7 @@
 .. _`王战的支配`: https://ygocdb.com/card/name/王战的支配
 .. _`堕天使 阿斯蒙蒂斯`: https://ygocdb.com/card/name/堕天使%20阿斯蒙蒂斯
 .. _`黑魔导阵`: https://ygocdb.com/card/name/黑魔导阵
-.. _`天威龙衍生物`: https://ygocdb.com/card/name/天威龙衍生物
+.. _`天威龙衍生物`: https://ygocdb.com/?search=天威龙衍生物
 .. _`天威无崩之地`: https://ygocdb.com/card/name/天威无崩之地
 .. _`升天的角笛`: https://ygocdb.com/card/name/升天的角笛
 .. _`结晶之魔女 桑德里永`: https://ygocdb.com/card/name/结晶之魔女%20桑德里永
@@ -4465,7 +4465,7 @@
 .. _`岩盘爆破`: https://ygocdb.com/card/name/岩盘爆破
 .. _`No.84 增痛蛛`: https://ygocdb.com/card/name/No.84%20增痛蛛
 .. _`勇气之天使 维多利卡`: https://ygocdb.com/card/name/勇气之天使%20维多利卡
-.. _`衍生物收获祭`: https://ygocdb.com/card/name/衍生物收获祭
+.. _`衍生物收获祭`: https://ygocdb.com/?search=衍生物收获祭
 .. _`DDD 坏薙王 深渊末日神`: https://ygocdb.com/card/name/DDD%20坏薙王%20深渊末日神
 .. _`超魔导师-黑魔术师徒`: https://ygocdb.com/card/name/超魔导师-黑魔术师徒
 .. _`真六武众-辉斩`: https://ygocdb.com/card/name/真六武众-辉斩
@@ -4517,7 +4517,7 @@
 .. _`鬼计节`: https://ygocdb.com/card/name/鬼计节
 .. _`宝龙星-神数负屃`: https://ygocdb.com/card/name/宝龙星-神数负屃
 .. _`剑斗兽 女斗`: https://ygocdb.com/card/name/剑斗兽%20女斗
-.. _`工具衍生物`: https://ygocdb.com/card/name/工具衍生物
+.. _`工具衍生物`: https://ygocdb.com/?search=工具衍生物
 .. _`魔救之勒皮他晶石`: https://ygocdb.com/card/name/魔救之勒皮他晶石
 .. _`未来No.0 未来龙皇 霍普`: https://ygocdb.com/card/name/未来No.0%20未来龙皇%20霍普
 .. _`混沌斗士 格雷法`: https://ygocdb.com/card/name/混沌斗士%20格雷法
@@ -4548,7 +4548,7 @@
 .. _`地中族的决战`: https://ygocdb.com/card/name/地中族的决战
 .. _`命运之契约`: https://ygocdb.com/card/name/命运之契约
 .. _`武神姬-淡岛`: https://ygocdb.com/card/name/武神姬-淡岛
-.. _`洞`: https://ygocdb.com/card/name/洞
+.. _`洞`: https://ygocdb.com/?search=洞
 .. _`溟界的黄昏-卡斯`: https://ygocdb.com/card/name/溟界的黄昏-卡斯
 .. _`水舞台`: https://ygocdb.com/card/name/水舞台
 .. _`颉颃胜负`: https://ygocdb.com/card/name/颉颃胜负
@@ -4601,7 +4601,6 @@
 .. _`真红眼飞龙`: https://ygocdb.com/card/name/真红眼飞龙
 .. _`茧状体再生`: https://ygocdb.com/card/name/茧状体再生
 .. _`于贝尔-极度悲伤的魔龙`: https://ygocdb.com/card/name/于贝尔-极度悲伤的魔龙
-.. _`属性`: https://ygocdb.com/card/name/属性
 .. _`死灵王 恶眼`: https://ygocdb.com/card/name/死灵王%20恶眼
 .. _`强制退出装置`: https://ygocdb.com/card/name/强制退出装置
 .. _`我我我侍`: https://ygocdb.com/card/name/我我我侍
@@ -4662,8 +4661,8 @@
 .. _`变导机咎 时钟弧摆`: https://ygocdb.com/card/name/变导机咎%20时钟弧摆
 .. _`武装龙 LV7`: https://ygocdb.com/card/name/武装龙%20LV7
 .. _`手札断杀`: https://ygocdb.com/card/name/手札断杀
-.. _`护宝炮妖`: https://ygocdb.com/card/name/护宝炮妖
-.. _`海晶少女`: https://ygocdb.com/card/name/海晶少女
+.. _`护宝炮妖`: https://ygocdb.com/?search=护宝炮妖
+.. _`海晶少女`: https://ygocdb.com/?search=海晶少女
 .. _`幻兽机 曙光女神百头龙`: https://ygocdb.com/card/name/幻兽机%20曙光女神百头龙
 .. _`魔圣骑士皇 兰斯洛特`: https://ygocdb.com/card/name/魔圣骑士皇%20兰斯洛特
 .. _`幽合-幽鬼融合`: https://ygocdb.com/card/name/幽合-幽鬼融合
@@ -4675,7 +4674,7 @@
 .. _`重型扳机`: https://ygocdb.com/card/name/重型扳机
 .. _`大君主之圣像骑士`: https://ygocdb.com/card/name/大君主之圣像骑士
 .. _`真红眼亚黑龙`: https://ygocdb.com/card/name/真红眼亚黑龙
-.. _`邪心衍生物`: https://ygocdb.com/card/name/邪心衍生物
+.. _`邪心衍生物`: https://ygocdb.com/?search=邪心衍生物
 .. _`No.66 霸键甲虫`: https://ygocdb.com/card/name/No.66%20霸键甲虫
 .. _`魔术师之杖`: https://ygocdb.com/card/name/魔术师之杖
 .. _`光灵术-「圣」`: https://ygocdb.com/card/name/光灵术-「圣」
@@ -4686,10 +4685,9 @@
 .. _`转生炎兽 翠玉鹰`: https://ygocdb.com/card/name/转生炎兽%20翠玉鹰
 .. _`魔石术师 克鲁德`: https://ygocdb.com/card/name/魔石术师%20克鲁德
 .. _`龙冰`: https://ygocdb.com/card/name/龙冰
-.. _`次世代`: https://ygocdb.com/card/name/次世代
 .. _`栗子丸`: https://ygocdb.com/card/name/栗子丸
 .. _`命运英雄 血魔-D`: https://ygocdb.com/card/name/命运英雄%20血魔-D
-.. _`圣灵兽骑`: https://ygocdb.com/card/name/圣灵兽骑
+.. _`圣灵兽骑`: https://ygocdb.com/?search=圣灵兽骑
 .. _`食人虫`: https://ygocdb.com/card/name/食人虫
 .. _`守护者·奇美拉`: https://ygocdb.com/card/name/守护者·奇美拉
 .. _`真次世代先知`: https://ygocdb.com/card/name/真次世代先知
@@ -4711,7 +4709,7 @@
 .. _`玄化凤凰神 奈芙提斯`: https://ygocdb.com/card/name/玄化凤凰神%20奈芙提斯
 .. _`宵星之机神 丁吉尔苏`: https://ygocdb.com/card/name/宵星之机神%20丁吉尔苏
 .. _`小角龙`: https://ygocdb.com/card/name/小角龙
-.. _`HRUM-乌托邦之力`: https://ygocdb.com/card/name/HRUM-乌托邦之力
+.. _`超升阶魔法-乌托邦之力`: https://ygocdb.com/card/name/超升阶魔法-乌托邦之力
 .. _`凤翼的暴风`: https://ygocdb.com/card/name/凤翼的暴风
 .. _`解码语者·炽热之魂`: https://ygocdb.com/card/name/解码语者·炽热之魂
 .. _`随风旅鸟×巨嘴鸟`: https://ygocdb.com/card/name/随风旅鸟×巨嘴鸟
@@ -4824,7 +4822,7 @@
 .. _`『焰圣剑-杜兰达尔』`: https://ygocdb.com/card/name/『焰圣剑-杜兰达尔』
 .. _`神殿守卫者`: https://ygocdb.com/card/name/神殿守卫者
 .. _`梦现之梦魔镜`: https://ygocdb.com/card/name/梦现之梦魔镜
-.. _`暗魂体衍生物`: https://ygocdb.com/card/name/暗魂体衍生物
+.. _`暗魂体衍生物`: https://ygocdb.com/?search=暗魂体衍生物
 .. _`烙印开幕`: https://ygocdb.com/card/name/烙印开幕
 .. _`音响战士`: https://ygocdb.com/?search=音响战士
 .. _`能量吸收板`: https://ygocdb.com/card/name/能量吸收板
@@ -4873,7 +4871,6 @@
 .. _`黑羽-精锐之泽费洛斯`: https://ygocdb.com/?search=黑羽-精锐之泽费洛斯
 .. _`漆黑的能量石`: https://ygocdb.com/card/name/漆黑的能量石
 .. _`撤收命令`: https://ygocdb.com/card/name/撤收命令
-.. _`等级`: https://ygocdb.com/card/name/等级
 .. _`天威龙-纯真蟠龙`: https://ygocdb.com/card/name/天威龙-纯真蟠龙
 .. _`超级量子必杀 阿尔方球`: https://ygocdb.com/card/name/超级量子必杀%20阿尔方球
 .. _`守护神的宝札`: https://ygocdb.com/card/name/守护神的宝札
@@ -4908,7 +4905,7 @@
 .. _`终焉之霸王 迪米斯`: https://ygocdb.com/card/name/终焉之霸王%20迪米斯
 .. _`闪刀机-黑寡妇抓锚`: https://ygocdb.com/card/name/闪刀机-黑寡妇抓锚
 .. _`波动加农炮`: https://ygocdb.com/card/name/波动加农炮
-.. _`Jo－P.U.N.K.惊愕梨割`: https://ygocdb.com/card/name/Jo－P.U.N.K.惊愕梨割
+.. _`净琉璃朋克惊愕梨割`: https://ygocdb.com/card/name/净琉璃朋克惊愕梨割
 .. _`连锁素材`: https://ygocdb.com/card/name/连锁素材
 .. _`战吼斗士·巴西莱奥斯`: https://ygocdb.com/card/name/战吼斗士·巴西莱奥斯
 .. _`宙读之魔术士`: https://ygocdb.com/card/name/宙读之魔术士
@@ -4923,7 +4920,7 @@
 .. _`奇妙超量`: https://ygocdb.com/card/name/奇妙超量
 .. _`阿匹卜之化神`: https://ygocdb.com/card/name/阿匹卜之化神
 .. _`抒情歌鸲`: https://ygocdb.com/?search=抒情歌鸲
-.. _`影武者狸衍生物`: https://ygocdb.com/card/name/影武者狸衍生物
+.. _`影武者狸衍生物`: https://ygocdb.com/?search=影武者狸衍生物
 .. _`旋风机 风神电子人`: https://ygocdb.com/card/name/旋风机%20风神电子人
 .. _`凶饿毒融合龙`: https://ygocdb.com/card/name/凶饿毒融合龙
 .. _`地久神-碳素灵`: https://ygocdb.com/card/name/地久神-碳素灵
@@ -5020,7 +5017,7 @@
 .. _`转生炎兽 炽热多头狮`: https://ygocdb.com/card/name/转生炎兽%20炽热多头狮
 .. _`拷问车轮`: https://ygocdb.com/card/name/拷问车轮
 .. _`简易融合`: https://ygocdb.com/card/name/简易融合
-.. _`星遗物长眠的深层`: https://ygocdb.com/card/name/星遗物长眠的深层
+.. _`沉眠于星遗物的深层`: https://ygocdb.com/card/name/沉眠于星遗物的深层
 .. _`电子暗黑魔角`: https://ygocdb.com/card/name/电子暗黑魔角
 .. _`同调素材`: https://ygocdb.com/card/name/同调素材
 .. _`逆卷之炎的宝札`: https://ygocdb.com/card/name/逆卷之炎的宝札
@@ -5059,9 +5056,9 @@
 .. _`地狱的傀儡魔人`: https://ygocdb.com/card/name/地狱的傀儡魔人
 .. _`电子暗黑冲击！`: https://ygocdb.com/card/name/电子暗黑冲击！
 .. _`妖精龙 古代妖`: https://ygocdb.com/card/name/妖精龙%20古代妖
-.. _`A·次世代转换员`: https://ygocdb.com/card/name/A·次世代转换员
+.. _`盟军·次世代转换员`: https://ygocdb.com/card/name/盟军·次世代转换员
 .. _`魔力枯竭`: https://ygocdb.com/card/name/魔力枯竭
-.. _`勇者衍生物`: https://ygocdb.com/card/name/勇者衍生物
+.. _`勇者衍生物`: https://ygocdb.com/?search=勇者衍生物
 .. _`命运之旅路`: https://ygocdb.com/card/name/命运之旅路
 .. _`海晶少女环流`: https://ygocdb.com/card/name/海晶少女环流
 .. _`茧状体·小黑豹`: https://ygocdb.com/?search=茧状体·小黑豹
@@ -5075,7 +5072,7 @@
 .. _`神影依 米德拉什`: https://ygocdb.com/card/name/神影依%20米德拉什
 .. _`兽神 武尔坎`: https://ygocdb.com/card/name/兽神%20武尔坎
 .. _`超合魔兽 拉普提诺斯`: https://ygocdb.com/card/name/超合魔兽%20拉普提诺斯
-.. _`圆舞衍生物`: https://ygocdb.com/card/name/圆舞衍生物
+.. _`圆舞衍生物`: https://ygocdb.com/?search=圆舞衍生物
 .. _`天霆号 阿宙斯`: https://ygocdb.com/card/name/天霆号%20阿宙斯
 .. _`奇袭的又佐`: https://ygocdb.com/card/name/奇袭的又佐
 .. _`通灵盘`: https://ygocdb.com/card/name/通灵盘
@@ -5089,7 +5086,7 @@
 .. _`六武众-斩次`: https://ygocdb.com/card/name/六武众-斩次
 .. _`王后骑士`: https://ygocdb.com/card/name/王后骑士
 .. _`妖醒龙 幼生狱风神`: https://ygocdb.com/card/name/妖醒龙%20幼生狱风神
-.. _`真龙`: https://ygocdb.com/card/name/真龙
+.. _`真龙`: https://ygocdb.com/?search=真龙
 .. _`附属电子翼`: https://ygocdb.com/card/name/附属电子翼
 .. _`魔之卡组破坏病毒`: https://ygocdb.com/card/name/魔之卡组破坏病毒
 .. _`千查万别`: https://ygocdb.com/card/name/千查万别
@@ -5109,7 +5106,7 @@
 .. _`幻妖 胡尔德拉`: https://ygocdb.com/card/name/幻妖%20胡尔德拉
 .. _`亚马逊女王`: https://ygocdb.com/card/name/亚马逊女王
 .. _`神星领域`: https://ygocdb.com/card/name/神星领域
-.. _`七皇`: https://ygocdb.com/card/name/七皇
+.. _`七皇`: https://ygocdb.com/?search=七皇
 .. _`王宫的牢狱`: https://ygocdb.com/card/name/王宫的牢狱
 .. _`扰乱·黑`: https://ygocdb.com/card/name/扰乱·黑
 .. _`残照`: https://ygocdb.com/card/name/残照
@@ -5164,7 +5161,7 @@
 .. _`魔女术的创造`: https://ygocdb.com/card/name/魔女术的创造
 .. _`升阶魔法-异晶人的魔力`: https://ygocdb.com/card/name/升阶魔法-异晶人的魔力
 .. _`星星金币`: https://ygocdb.com/card/name/星星金币
-.. _`衍生物复活祭`: https://ygocdb.com/card/name/衍生物复活祭
+.. _`衍生物复活祭`: https://ygocdb.com/?search=衍生物复活祭
 .. _`重起士道-金骑士`: https://ygocdb.com/card/name/重起士道-金骑士
 .. _`超重力网`: https://ygocdb.com/card/name/超重力网
 .. _`战斗狂`: https://ygocdb.com/card/name/战斗狂
@@ -5229,7 +5226,7 @@
 .. _`甲虫装机`: https://ygocdb.com/?search=甲虫装机
 .. _`废品同调士`: https://ygocdb.com/card/name/废品同调士
 .. _`影灵衣之降魔镜`: https://ygocdb.com/card/name/影灵衣之降魔镜
-.. _`相剑衍生物`: https://ygocdb.com/card/name/相剑衍生物
+.. _`相剑衍生物`: https://ygocdb.com/?search=相剑衍生物
 .. _`电子壶`: https://ygocdb.com/card/name/电子壶
 .. _`二重旋风`: https://ygocdb.com/card/name/二重旋风
 .. _`幻影骑士团 阴暗布面甲`: https://ygocdb.com/card/name/幻影骑士团%20阴暗布面甲
@@ -5248,7 +5245,7 @@
 .. _`究极封印神 艾克佐迪奥斯`: https://ygocdb.com/card/name/究极封印神%20艾克佐迪奥斯
 .. _`冰剑龙 幻冰龙`: https://ygocdb.com/card/name/冰剑龙%20幻冰龙
 .. _`紧急救急救命救援`: https://ygocdb.com/card/name/紧急救急救命救援
-.. _`幻影衍生物`: https://ygocdb.com/card/name/幻影衍生物
+.. _`幻影衍生物`: https://ygocdb.com/?search=幻影衍生物
 .. _`嵌合超载龙`: https://ygocdb.com/card/name/嵌合超载龙
 .. _`安全地带`: https://ygocdb.com/card/name/安全地带
 .. _`狱火机·亚得米勒`: https://ygocdb.com/card/name/狱火机·亚得米勒
@@ -5263,7 +5260,7 @@
 .. _`阿拉弥赛亚之仪`: https://ygocdb.com/card/name/阿拉弥赛亚之仪
 .. _`超雷龙-雷龙`: https://ygocdb.com/card/name/超雷龙-雷龙
 .. _`神骑 矢车菊圣人马`: https://ygocdb.com/card/name/神骑%20矢车菊圣人马
-.. _`来之七音服·库莉娅`: https://ygocdb.com/card/name/来之七音服·库莉娅
+.. _`多之七音服·库莉娅`: https://ygocdb.com/card/name/多之七音服·库莉娅
 .. _`怀抱圣剑的王后 桂妮薇儿`: https://ygocdb.com/card/name/怀抱圣剑的王后%20桂妮薇儿
 .. _`A・∀·征服海盗船`: https://ygocdb.com/card/name/A・∀·征服海盗船
 .. _`力量结合`: https://ygocdb.com/card/name/力量结合
@@ -5298,7 +5295,7 @@
 .. _`横纲犬`: https://ygocdb.com/card/name/横纲犬
 .. _`大贤者`: https://ygocdb.com/?search=大贤者
 .. _`突进`: https://ygocdb.com/card/name/突进
-.. _`No－P.U.N.K. 调狐`: https://ygocdb.com/card/name/No－P.U.N.K.%20调狐
+.. _`能朋克 调狐`: https://ygocdb.com/card/name/能朋克%20调狐
 .. _`疾行机人 机械手猎犬`: https://ygocdb.com/card/name/疾行机人%20机械手猎犬
 .. _`使破坏剑的高手-破坏之剑士`: https://ygocdb.com/card/name/使破坏剑的高手-破坏之剑士
 .. _`混沌No.1000 梦幻虚神 原数天灵`: https://ygocdb.com/card/name/混沌No.1000%20梦幻虚神%20原数天灵
@@ -5362,3 +5359,4 @@
 .. _`电子暗黑嵌合体`: https://ygocdb.com/card/name/电子暗黑嵌合体
 .. _`创圣魔导王 恩底弥翁`: https://ygocdb.com/card/name/创圣魔导王%20恩底弥翁
 .. _`古代的机械箱`: https://ygocdb.com/card/name/古代的机械箱
+.. _`次世代`: https://ygocdb.com/?search=次世代

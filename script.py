@@ -10,7 +10,7 @@ current_dir = Path(__file__).parent.resolve()
 ALL_CARD_URLS, NEW_CARD_URLS, VALID_CARD_URLS = set(), set(), set()
 VALID_CARD_URLS_FILE = current_dir / 'valid_card_urls.txt'
 if VALID_CARD_URLS_FILE.exists():
-    VALID_CARD_URLS = set(VALID_CARD_URLS_FILE.read_text().split())
+    VALID_CARD_URLS = set(VALID_CARD_URLS_FILE.read_text(encoding='utf8').split())
 
 NEED_REPLACED_NAMES = {
     '「E·HERO': '「元素英雄',
@@ -73,7 +73,16 @@ NOT_CARD_NAMES = (
     '诱发即时效果',
     '増殖するG',
     'メタバース',
-    '罪 サイバー・エンド・ドラゴン'
+    '罪 サイバー・エンド・ドラゴン',
+    'E', 'T', 'A', 'H',
+    '作为对象的1只怪兽破坏',
+)
+
+SERIES_NAMES = (
+    '隆隆隆',
+    '刷拉拉',
+    '我我我',
+    '怒怒怒',
 )
 
 
@@ -129,8 +138,13 @@ def add_cdb_url(texts: str) -> str:
                         if not_card_name in name:
                             is_card = False
                             break
-                    for serie in ('怪兽', '魔法', '陷阱', '卡'):
+                    for serie in ('怪兽', '魔法', '陷阱', '卡', '连接怪兽', 'S怪兽', 'X怪兽', '融合怪兽', '仪式怪兽', '速攻魔法', '永续魔法', '永续陷阱', '通常魔法', '通常陷阱'):
                         if line[index+1:].startswith(serie) and not line[index+1:].startswith('卡的发动'):
+                            series_name.append(name)
+                            is_card = False
+                            break
+                    for serie in SERIES_NAMES:
+                        if name.strip('`_') == serie:
                             series_name.append(name)
                             is_card = False
                             break
@@ -171,11 +185,11 @@ def add_cdb_url(texts: str) -> str:
         else:
             new_texts = new_texts.replace(f'.. _`{serie_name}`: https://ygocdb.com/card/name/{serie_name}', f'.. _`{serie_name}`: {new_serie_url}')
 
-    if not have_url_card_names and tail_texts:
-        new_texts += '\n'
+    new_texts += '\n'
     if tail_texts:
         new_texts += '\n'.join(tail_texts)
-    return new_texts + '\n'
+        new_texts += '\n'
+    return new_texts
 
 
 def exract_card_urls(texts: str):
@@ -185,13 +199,18 @@ def exract_card_urls(texts: str):
 
 
 def check_card_urls(card_urls):
+    c = 0
     for card_url in card_urls:
+        if card_url in VALID_CARD_URLS:
+            continue
         r = requests.get(card_url)
         if '没有找到对应卡片' in r.text:
             print(card_url, 'ERROR: no card!')
         else:
             VALID_CARD_URLS.add(card_url)
-    VALID_CARD_URLS_FILE.write_text('\n'.join(VALID_CARD_URLS))
+        c += 1
+        if c % 10 == 0:
+            VALID_CARD_URLS_FILE.write_text('\n'.join(VALID_CARD_URLS), encoding='utf8')
 
 
 def strike_completion(texts: str) -> str:

@@ -332,7 +332,7 @@
 .. _`超营养太阳`: https://ygocdb.com/card/name/超营养太阳
 .. _`兽神·武尔坎`: https://ygocdb.com/card/name/兽神·武尔坎
 .. _`魔轰神兽 尤尼科`: https://ygocdb.com/card/name/魔轰神兽%20尤尼科
-.. _`洞`: https://ygocdb.com/card/name/洞
+.. _`洞`: https://ygocdb.com/?search=洞
 .. _`诱饵人偶`: https://ygocdb.com/card/name/诱饵人偶
 .. _`卡通`: https://ygocdb.com/?search=卡通
 .. _`龙星的九支`: https://ygocdb.com/card/name/龙星的九支
@@ -342,7 +342,7 @@
 .. _`魔法抵消器`: https://ygocdb.com/card/name/魔法抵消器
 .. _`炼狱的虚梦`: https://ygocdb.com/card/name/炼狱的虚梦
 .. _`卡通王国`: https://ygocdb.com/card/name/卡通王国
-.. _`落穴`: https://ygocdb.com/card/name/落穴
+.. _`落穴`: https://ygocdb.com/?search=落穴
 .. _`电子龙·无限`: https://ygocdb.com/card/name/电子龙·无限
 .. _`自然蔷薇鞭`: https://ygocdb.com/card/name/自然蔷薇鞭
 .. _`卖棺者`: https://ygocdb.com/card/name/卖棺者
@@ -395,7 +395,7 @@
 .. _`台风`: https://ygocdb.com/card/name/台风
 .. _`替罪羊`: https://ygocdb.com/card/name/替罪羊
 .. _`流天类星龙`: https://ygocdb.com/card/name/流天类星龙
-.. _`真龙`: https://ygocdb.com/card/name/真龙
+.. _`真龙`: https://ygocdb.com/?search=真龙
 .. _`连续魔法`: https://ygocdb.com/card/name/连续魔法
 .. _`魔术师的右手`: https://ygocdb.com/card/name/魔术师的右手
 .. _`闪光No.0 希望之异热同心`: https://ygocdb.com/card/name/闪光No.0%20希望之异热同心

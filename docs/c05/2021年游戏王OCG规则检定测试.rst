@@ -123,7 +123,7 @@
 16. | 关于灵摆怪兽的说明，正确的一项是？
     | A. 「`神之宣告`_」把召唤无效的场合，加入额外卡组。
     | B. 不能作为「`灵摆显现`_」发动的cost。
-    | C. 「`次元裂缝`_」适用中的状况在灵摆区域被破坏的场合，除外。
+    | C. 「`次元的裂缝`_」适用中的状况在灵摆区域被破坏的场合，除外。
     | D. 其他4个选项的说明哪个都不正确。
     | E. 可以作为「`召唤僧`_」的『③』效果发动的cost。
 
@@ -423,7 +423,7 @@
 .. _`虹彩之魔术师`: https://ygocdb.com/card/name/虹彩之魔术师
 .. _`鹰身女郎 电子紧身装束`: https://ygocdb.com/card/name/鹰身女郎%20电子紧身装束
 .. _`水卜之魔导书`: https://ygocdb.com/card/name/水卜之魔导书
-.. _`次元裂缝`: https://ygocdb.com/card/name/次元裂缝
+.. _`次元的裂缝`: https://ygocdb.com/card/name/次元的裂缝
 .. _`废铁龙`: https://ygocdb.com/card/name/废铁龙
 .. _`阿拉弥赛亚之仪`: https://ygocdb.com/card/name/阿拉弥赛亚之仪
 .. _`禁忌的圣枪`: https://ygocdb.com/card/name/禁忌的圣枪
@@ -511,7 +511,7 @@
 .. _`沉默魔术师`: https://ygocdb.com/card/name/沉默魔术师
 .. _`阿玛比埃姑娘`: https://ygocdb.com/card/name/阿玛比埃姑娘
 .. _`大宇宙`: https://ygocdb.com/card/name/大宇宙
-.. _`勇者衍生物`: https://ygocdb.com/card/name/勇者衍生物
+.. _`勇者衍生物`: https://ygocdb.com/?search=勇者衍生物
 .. _`水晶翼同调龙`: https://ygocdb.com/card/name/水晶翼同调龙
 .. _`星尘战士`: https://ygocdb.com/card/name/星尘战士
 .. _`星霜之灵摆读阵`: https://ygocdb.com/card/name/星霜之灵摆读阵
@@ -564,7 +564,7 @@
 .. _`幻影骑士团 失常磁环`: https://ygocdb.com/card/name/幻影骑士团%20失常磁环
 .. _`魔轰神 安德剌斯`: https://ygocdb.com/card/name/魔轰神%20安德剌斯
 .. _`死者苏生`: https://ygocdb.com/card/name/死者苏生
-.. _`羊衍生物`: https://ygocdb.com/card/name/羊衍生物
+.. _`羊衍生物`: https://ygocdb.com/?search=羊衍生物
 .. _`神之警告`: https://ygocdb.com/card/name/神之警告
 .. _`脆刃之剑`: https://ygocdb.com/card/name/脆刃之剑
 .. _`战线复归`: https://ygocdb.com/card/name/战线复归

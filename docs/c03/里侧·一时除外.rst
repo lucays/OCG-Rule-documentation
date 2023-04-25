@@ -9,7 +9,7 @@
 
 | 里侧的卡片是\ :ref:`非公开情报`\ 。基本上不能判断卡片的具体种类·等级·攻击力等情报。
 | 表侧的卡片变成里侧时，对其适用的效果基本上不再适用，有些情报也会丢失。
-| 一时除外指「PSY 骨架王·Ω」「彼岸的恶鬼 法尔法雷洛」这些，在一段时间内除外，之后\ **回到场上**\ 的效果。「流星龙」等，记述着『特殊召唤』的效果，不是回到场上，也就不是一时除外。
+| 一时除外指「PSY骨架王·Ω」「彼岸的恶鬼 法尔法雷洛」这些，在一段时间内除外，之后\ **回到场上**\ 的效果。「流星龙」等，记述着『特殊召唤』的效果，不是回到场上，也就不是一时除外。
 | 由于从场上离开过，和变成里侧一样，对其适用的效果基本上也不再适用，有些情报也会丢失。
 | 本文是对卡片变成里侧·被一时除外后，各种对其适用的效果和情报是否丢失的总结。
 | 例：
@@ -188,7 +188,7 @@
 | 「`轻盈水星`_」用②效果召唤后，变成里侧表示的场合③效果不再适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19376&keyword=&tag=-1&request_locale=ja>`__ 被一时除外的场合，仍然适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6211&keyword=&tag=-1&request_locale=ja>`__
 | 用自身记述的方法召唤的「`守护神 艾克佐迪亚`_」在被一时除外后，自身②效果不再适用，攻击力·守备力是0，因其他卡上升攻击力，战斗破坏原本持有者是对方的恶魔族·暗属性怪兽时，也不会胜利。\ `19/4/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10736&keyword=&tag=-1&request_locale=ja>`__
 | 用自身记述的方法特殊召唤的「`恐龙摔跤手·席拉腔骨龙`_」变成里侧表示再反转，或被一时除外的场合，②效果不再适用。
-| 用自身记述的方法特殊召唤的「`A BF-雾雨之苦无鸟`_」被一时除外的场合，②效果不再适用。
+| 用自身记述的方法特殊召唤的「`强袭黑羽-雾雨之苦无鸟`_」被一时除外的场合，②效果不再适用。
 
 攻击过·战斗过·战斗破坏怪兽
 ===========================
@@ -353,8 +353,8 @@
 得到一时除外的效果
 ===================
 
-| 「`混沌幻影`_」等，得到「`PSY 骨架王·Ω`_」「`宇宙耀变龙`_」等含一时除外的效果后把自身除外的场合，自身不再回到场上。
-| 另外，得到「`PSY 骨架王·Z`_」「`PSY 骨架王·Ω`_」效果的怪兽，虽然自己不会回场，在那个时点对方的卡正常回去。
+| 「`混沌幻影`_」等，得到「`PSY骨架王·Ω`_」「`宇宙耀变龙`_」等含一时除外的效果后把自身除外的场合，自身不再回到场上。
+| 另外，得到「`PSY骨架王·Ζ`_」「`PSY骨架王·Ω`_」效果的怪兽，虽然自己不会回场，在那个时点对方的卡正常回去。
 
 .. attention:: 特别地，得到「`刻剑之魔术师`_」「`银河眼光子龙`_」这两张卡效果的怪兽，发动效果把自身除外后，会回场。
 
@@ -388,7 +388,7 @@
 .. _`淘气仙星的灯光舞台`: https://ygocdb.com/card/name/淘气仙星的灯光舞台
 .. _`嵌合蝎尾狮`: https://ygocdb.com/card/name/嵌合蝎尾狮
 .. _`命运英雄 教义人`: https://ygocdb.com/card/name/命运英雄%20教义人
-.. _`PSY 骨架王·Ω`: https://ygocdb.com/card/name/PSY%20骨架王·Ω
+.. _`PSY骨架王·Ω`: https://ygocdb.com/card/name/PSY骨架王·Ω
 .. _`闪刀机关-多任务战刀机`: https://ygocdb.com/card/name/闪刀机关-多任务战刀机
 .. _`冲浪检察官`: https://ygocdb.com/card/name/冲浪检察官
 .. _`光灵使 莱娜`: https://ygocdb.com/card/name/光灵使%20莱娜
@@ -466,7 +466,7 @@
 .. _`彼岸`: https://ygocdb.com/?search=彼岸
 .. _`狱火机·路西弗格`: https://ygocdb.com/card/name/狱火机·路西弗格
 .. _`十二兽的会局`: https://ygocdb.com/card/name/十二兽的会局
-.. _`A BF-雾雨之苦无鸟`: https://ygocdb.com/card/name/A%20BF-雾雨之苦无鸟
+.. _`强袭黑羽-雾雨之苦无鸟`: https://ygocdb.com/card/name/强袭黑羽-雾雨之苦无鸟
 .. _`破坏龙 甘多拉`: https://ygocdb.com/card/name/破坏龙%20甘多拉
 .. _`抽卡肌肉`: https://ygocdb.com/card/name/抽卡肌肉
 .. _`十二兽 蛇笞`: https://ygocdb.com/card/name/十二兽%20蛇笞
@@ -475,7 +475,7 @@
 .. _`太阳的祭坛`: https://ygocdb.com/card/name/太阳的祭坛
 .. _`银河眼光子龙`: https://ygocdb.com/card/name/银河眼光子龙
 .. _`大宇宙`: https://ygocdb.com/card/name/大宇宙
-.. _`PSY 骨架王·Z`: https://ygocdb.com/card/name/PSY%20骨架王·Z
+.. _`PSY骨架王·Ζ`: https://ygocdb.com/card/name/PSY骨架王·Ζ
 .. _`光波异邦臣`: https://ygocdb.com/card/name/光波异邦臣
 .. _`苦痛的回廊`: https://ygocdb.com/card/name/苦痛的回廊
 .. _`未来视界`: https://ygocdb.com/card/name/未来视界

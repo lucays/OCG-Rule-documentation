@@ -158,7 +158,7 @@
 .. _`电子暗黑魔角`: https://ygocdb.com/card/name/电子暗黑魔角
 .. _`电子暗黑刃翼`: https://ygocdb.com/card/name/电子暗黑刃翼
 .. _`死灵守卫者`: https://ygocdb.com/card/name/死灵守卫者
-.. _`黑羽`: https://ygocdb.com/card/name/黑羽
+.. _`黑羽`: https://ygocdb.com/?search=黑羽
 .. _`传说之都 亚特兰蒂斯`: https://ygocdb.com/card/name/传说之都%20亚特兰蒂斯
 .. _`暗黑界的龙神 格拉法`: https://ygocdb.com/card/name/暗黑界的龙神%20格拉法
 .. _`堕恶之爪`: https://ygocdb.com/card/name/堕恶之爪

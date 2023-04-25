@@ -240,7 +240,7 @@
    | 例：
    | 「`PSY骨架超载`_」把场上表侧表示的「`永远之魂`_」里侧除外，其效果不能发动。
 
-   .. note:: 除外不是区域，用以前的描述『从游戏中除外』更好理解这点，除外不在游戏场地内。这也是可能涉及除外时文中全用「`场所`_」不用「`区域`_」的原因。
+   .. note:: 除外不是区域，用以前的描述『从游戏中除外』更好理解这点，除外不在游戏场地内。这也是可能涉及除外时文中全用『场所』不用『\ :strike:`区域`\ 』的原因。
 
 | 特别地，「`伤害转化`_」「`伪爆炸五星`_」的特殊召唤效果、「`水卜之魔导书`_」的加入手卡效果、「`太阳龙 因蒂`_」的②效果、「`解码终结`_」的『●3只：』效果不是从任何场所发动的效果，即使在应该发动的时点，这些卡在主卡组·额外卡组内或被里侧表示除外的场合，这些效果仍然可以发动。
 | 例：
@@ -486,7 +486,7 @@
 -  | 「`假面英雄 暗爪`_」等，在发动条件中记述了『自己』『对方』的效果，在连锁处理中满足发动条件，之后控制权转移给对方的场合，对方并不满足发动条件，结果不能发动。
    | 例：
    | 对方发动「`强欲而贪欲之壶`_」，作为cost把卡组最上方10张卡里侧表示除外后，连锁发动「`敌人控制器`_」，夺取了我方「`No.89 电脑兽 系统破坏神`_」的控制权的场合，处理后在对方场上的「`No.89 电脑兽 系统破坏神`_」不能发动③效果。\ `17/7/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21045&keyword=&tag=-1&request_locale=ja>`__
-   | 我方发动「`强制转移`_」，并连锁发动「`隐者之猛毒药`_」，恢复基本分后，「`芳香法师 茉莉`_」的控制权转移给对方的场合，连锁处理后其效果不会发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15491&request_locale=ja>`__
+   | 我方发动「`强制转移`_」，并连锁发动「`隐居者的猛毒药`_」，恢复基本分后，「`芳香法师 茉莉`_」的控制权转移给对方的场合，连锁处理后其效果不会发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15491&request_locale=ja>`__
    | 「`魔弹射手 狂野`_」的发动条件没有记述『自己』『对方』，我方在对方「`魔弹射手 狂野`_」相同纵列发动「`强制转移`_」，得到控制权后不管放在哪个怪兽区域，处理后也可以发动「`魔弹射手 狂野`_」的①效果；我方在对方「`魔弹射手 狂野`_」不同纵列发动「`强制转移`_」，得到控制权后不管放在哪个怪兽区域，处理后也不能发动「`魔弹射手 狂野`_」的①效果。\ `23/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11752&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 记述『被对方○○』诱发的效果，是要在原本持有者控制下满足条件才能发动的效果。
@@ -694,7 +694,6 @@
 .. _`元素英雄 绝对零度侠`: https://ygocdb.com/card/name/元素英雄%20绝对零度侠
 .. _`强欲而贪欲之壶`: https://ygocdb.com/card/name/强欲而贪欲之壶
 .. _`魔术师`: https://ygocdb.com/card/name/魔术师
-.. _`场所`: https://ygocdb.com/card/name/场所
 .. _`真红眼烧灭`: https://ygocdb.com/card/name/真红眼烧灭
 .. _`六花圣 泪滴花束雪花莲`: https://ygocdb.com/card/name/六花圣%20泪滴花束雪花莲
 .. _`幻变骚灵·泛在羽衣精`: https://ygocdb.com/card/name/幻变骚灵·泛在羽衣精
@@ -723,7 +722,7 @@
 .. _`究极宝玉阵`: https://ygocdb.com/card/name/究极宝玉阵
 .. _`暴走魔法阵`: https://ygocdb.com/card/name/暴走魔法阵
 .. _`彩虹栗子球`: https://ygocdb.com/card/name/彩虹栗子球
-.. _`隐者之猛毒药`: https://ygocdb.com/card/name/隐者之猛毒药
+.. _`隐居者的猛毒药`: https://ygocdb.com/card/name/隐居者的猛毒药
 .. _`D.D.乌鸦`: https://ygocdb.com/card/name/D.D.乌鸦
 .. _`暴君翼`: https://ygocdb.com/card/name/暴君翼
 .. _`通灵盘`: https://ygocdb.com/card/name/通灵盘
@@ -760,7 +759,6 @@
 .. _`紧急同调`: https://ygocdb.com/card/name/紧急同调
 .. _`沙漠之光`: https://ygocdb.com/card/name/沙漠之光
 .. _`急袭猛禽`: https://ygocdb.com/?search=急袭猛禽
-.. _`区域`: https://ygocdb.com/card/name/区域
 .. _`甲虫装机 豆娘`: https://ygocdb.com/card/name/甲虫装机%20豆娘
 .. _`存档海马`: https://ygocdb.com/card/name/存档海马
 .. _`堕恶之爪`: https://ygocdb.com/card/name/堕恶之爪
@@ -790,7 +788,7 @@
 .. _`机甲部队·超大变形`: https://ygocdb.com/card/name/机甲部队·超大变形
 .. _`彼岸`: https://ygocdb.com/?search=彼岸
 .. _`超重武者 兜-10`: https://ygocdb.com/card/name/超重武者%20兜-10
-.. _`幻煌龙衍生物`: https://ygocdb.com/card/name/幻煌龙衍生物
+.. _`幻煌龙衍生物`: https://ygocdb.com/?search=幻煌龙衍生物
 .. _`女神的圣剑-鹰灵`: https://ygocdb.com/card/name/女神的圣剑-鹰灵
 .. _`同路人`: https://ygocdb.com/card/name/同路人
 .. _`棉花球`: https://ygocdb.com/card/name/棉花球
@@ -925,7 +923,7 @@
 .. _`假面变化`: https://ygocdb.com/card/name/假面变化
 .. _`死亡袋熊`: https://ygocdb.com/card/name/死亡袋熊
 .. _`水龙`: https://ygocdb.com/card/name/水龙
-.. _`星尘`: https://ygocdb.com/card/name/星尘
+.. _`星尘`: https://ygocdb.com/?search=星尘
 .. _`神鸟攻击`: https://ygocdb.com/card/name/神鸟攻击
 .. _`科技属 超图书馆员`: https://ygocdb.com/card/name/科技属%20超图书馆员
 .. _`异色眼绝零龙`: https://ygocdb.com/card/name/异色眼绝零龙
