@@ -92,7 +92,7 @@
 
 | 不能对应可以变成或适用其他效果的效果。
 | 例：
-| 「`堕天使`_」怪兽以墓地「`背德之堕天使`_」为对象发动②效果时，不能连锁发动「`星尘龙`_」的①效果。
+| 「`堕天使`_」怪兽以墓地「`背德的堕天使`_」为对象发动②效果时，不能连锁发动「`星尘龙`_」的①效果。
 | 「`芙莉西亚之虫惑魔`_」的③效果不是破坏效果，即使把「`奈落的落穴`_」送去墓地作为cost发动，也不能连锁发动「`星尘龙`_」的效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16681&keyword=&tag=-1&request_locale=ja>`__
 
 .. _`奈落的落穴`: https://ygocdb.com/card/name/奈落的落穴
@@ -108,7 +108,7 @@
 .. _`娱乐伙伴 雨衣山羊`: https://ygocdb.com/card/name/娱乐伙伴%20雨衣山羊
 .. _`零-最大`: https://ygocdb.com/card/name/零-最大
 .. _`混源龙 巨涡始祖神`: https://ygocdb.com/card/name/混源龙%20巨涡始祖神
-.. _`背德之堕天使`: https://ygocdb.com/card/name/背德之堕天使
+.. _`背德的堕天使`: https://ygocdb.com/card/name/背德的堕天使
 .. _`怨邪帝 盖乌斯`: https://ygocdb.com/card/name/怨邪帝%20盖乌斯
 .. _`时间魔术师`: https://ygocdb.com/card/name/时间魔术师
 .. _`娱乐法师 高跷射手`: https://ygocdb.com/card/name/娱乐法师%20高跷射手

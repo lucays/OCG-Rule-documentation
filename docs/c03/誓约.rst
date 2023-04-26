@@ -50,7 +50,7 @@
    | 例：
    | 「`替罪羊`_」发动时，不能连锁发动「`战线复归`_」。
    | 「`假面变色龙`_」的效果发动时，不能连锁发动「`影蜥蜴`_」的效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9813&request_locale=ja>`__
-   | 「`No.11 巨眼`_」的效果发动时，自身在这个回合不能攻击，不能连锁发动「`娱乐伙伴 秋千魔术家`_」的效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9283&request_locale=ja>`__
+   | 「`No.11 巨眼`_」的效果发动时，自身在这个回合不能攻击，不能连锁发动「`娱乐法师 秋千魔术家`_」的效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9283&request_locale=ja>`__
    | 「`真红眼融合`_」发动时，不能连锁「`连续魔法`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9608&request_locale=ja>`__
    | 「`金满而谦虚之壶`_」发动时，对方不能连锁发动「`魔宫的贿赂`_」。\ `22/5/5 <https://yugioh-wiki.net/index.php?%A1%D4%B6%E2%CB%FE%A4%C7%B8%AC%B5%F5%A4%CA%D4%E4%A1%D5#faq>`__
 
@@ -158,7 +158,7 @@
       | 「`钢铁巨兵`_」的效果处理时，自身变成里侧表示，或者不在场上存在的场合，『这个回合，○○』部分的效果不适用。
       | 「`混沌核`_」的①效果处理时，「`门之防壁`_」的①效果适用，不能放置指示物的场合，『这个回合，○○』部分的效果不适用。
       | 「`女巫特露德`_」的②效果处理时，因对象卡片不存在等状况，无法破坏对象卡片的场合，『这个回合，这张卡在同1次的战斗阶段中最多2次可以向怪兽攻击』效果不适用。\ `22/3/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23593&keyword=&tag=-1&request_locale=ja>`__
-      | 「`灵摆区`_」的①效果处理时，作为对象的2张卡其中1张因「`闪光龙 星尘`_」的效果不会被破坏的场合，剩下那张仍然破坏。由于没有破坏2张卡，『这个回合双方不能作灵摆召唤以外的特殊召唤』仍不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16638&keyword=&tag=-1&request_locale=ja>`__
+      | 「`灵摆区`_」的①效果处理时，作为对象的2张卡其中1张因「`闪珖龙 星尘`_」的效果不会被破坏的场合，剩下那张仍然破坏。由于没有破坏2张卡，『这个回合双方不能作灵摆召唤以外的特殊召唤』仍不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16638&keyword=&tag=-1&request_locale=ja>`__
 
    -  | 如果这类记述部分就是全部的效果处理，且这部分效果都不能适用的场合，这个效果不能发动。
       | 这个场合，如果有多步处理，会正常的占用时点。
@@ -222,7 +222,7 @@
 .. _`影蜥蜴`: https://ygocdb.com/card/name/影蜥蜴
 .. _`No.11 巨眼`: https://ygocdb.com/card/name/No.11%20巨眼
 .. _`幻变骚灵 多功能诈骗者`: https://ygocdb.com/card/name/幻变骚灵%20多功能诈骗者
-.. _`闪光龙 星尘`: https://ygocdb.com/card/name/闪光龙%20星尘
+.. _`闪珖龙 星尘`: https://ygocdb.com/card/name/闪珖龙%20星尘
 .. _`融合`: https://ygocdb.com/card/name/融合
 .. _`帝王的烈旋`: https://ygocdb.com/card/name/帝王的烈旋
 .. _`灰流丽`: https://ygocdb.com/card/name/灰流丽
@@ -253,7 +253,7 @@
 .. _`假面变色龙`: https://ygocdb.com/card/name/假面变色龙
 .. _`钢铁巨兵`: https://ygocdb.com/card/name/钢铁巨兵
 .. _`妖精传姬-塔利娅`: https://ygocdb.com/card/name/妖精传姬-塔利娅
-.. _`魔界剧团`: https://ygocdb.com/card/name/魔界剧团
+.. _`魔界剧团`: https://ygocdb.com/?search=魔界剧团
 .. _`堕天使`: https://ygocdb.com/?search=堕天使
 .. _`混沌核`: https://ygocdb.com/card/name/混沌核
 .. _`电子界量子龙`: https://ygocdb.com/card/name/电子界量子龙
@@ -269,7 +269,7 @@
 .. _`魔宫的贿赂`: https://ygocdb.com/card/name/魔宫的贿赂
 .. _`银河眼光波龙`: https://ygocdb.com/card/name/银河眼光波龙
 .. _`女巫特露德`: https://ygocdb.com/card/name/女巫特露德
-.. _`娱乐伙伴 秋千魔术家`: https://ygocdb.com/card/name/娱乐伙伴%20秋千魔术家
+.. _`娱乐法师 秋千魔术家`: https://ygocdb.com/card/name/娱乐法师%20秋千魔术家
 .. _`雷帝家臣 密特拉`: https://ygocdb.com/card/name/雷帝家臣%20密特拉
 .. _`岔子`: https://ygocdb.com/card/name/岔子
 .. _`雪花之光`: https://ygocdb.com/card/name/雪花之光

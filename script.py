@@ -76,6 +76,11 @@ NOT_CARD_NAMES = (
     '罪 サイバー・エンド・ドラゴン',
     'E', 'T', 'A', 'H',
     '作为对象的1只怪兽破坏',
+    'カウンター罠を発動した時',
+    '卡名',
+    'カウンター罠を発動した時',
+    'カードの発動を無効にした時',
+    '二重怪兽',
 )
 
 SERIES_NAMES = (
@@ -83,6 +88,7 @@ SERIES_NAMES = (
     '刷拉拉',
     '我我我',
     '怒怒怒',
+    'ゴゴゴ',
 )
 
 
@@ -124,6 +130,7 @@ def add_cdb_url(texts: str) -> str:
     for line in texts.split('\n'):
         if need_skip(line):
             continue
+        # regex (?<=「)[^」]*[^「]*(?=」)
         for index, char in enumerate(line):
             if char == '「':
                 stack.append(char)
@@ -138,13 +145,17 @@ def add_cdb_url(texts: str) -> str:
                         if not_card_name in name:
                             is_card = False
                             break
-                    for serie in ('怪兽', '魔法', '陷阱', '卡', '连接怪兽', 'S怪兽', 'X怪兽', '融合怪兽', '仪式怪兽', '速攻魔法', '永续魔法', '永续陷阱', '通常魔法', '通常陷阱'):
+                    for serie in (
+                        '怪兽', '魔法', '陷阱', '卡',
+                        '通常怪兽', '调整', '效果怪兽', '连接怪兽', 'S怪兽', 'X怪兽', 'P怪兽', '融合怪兽', '仪式怪兽',
+                        '速攻魔法', '装备魔法', '永续魔法', '永续陷阱', '通常魔法', '通常陷阱', '反击陷阱'
+                    ):
                         if line[index+1:].startswith(serie) and not line[index+1:].startswith('卡的发动'):
                             series_name.append(name)
                             is_card = False
                             break
                     for serie in SERIES_NAMES:
-                        if name.strip('`_') == serie:
+                        if name.strip('「`_」') == serie:
                             series_name.append(name)
                             is_card = False
                             break
@@ -203,14 +214,17 @@ def check_card_urls(card_urls):
     for card_url in card_urls:
         if card_url in VALID_CARD_URLS:
             continue
-        r = requests.get(card_url)
-        if '没有找到对应卡片' in r.text:
-            print(card_url, 'ERROR: no card!')
-        else:
-            VALID_CARD_URLS.add(card_url)
-        c += 1
-        if c % 10 == 0:
-            VALID_CARD_URLS_FILE.write_text('\n'.join(VALID_CARD_URLS), encoding='utf8')
+        try:
+            r = requests.get(card_url)
+            if '没有找到对应卡片' in r.text:
+                print(card_url, 'ERROR: no card!')
+            else:
+                VALID_CARD_URLS.add(card_url)
+            c += 1
+            if c % 10 == 0:
+                VALID_CARD_URLS_FILE.write_text('\n'.join(VALID_CARD_URLS), encoding='utf8')
+        except Exception as e:
+            print(card_url, e)
 
 
 def strike_completion(texts: str) -> str:

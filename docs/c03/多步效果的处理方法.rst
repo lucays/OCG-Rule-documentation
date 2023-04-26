@@ -51,7 +51,7 @@
    | 例：
    | 「`手札断杀`_」效果处理时，回合玩家先把2张手卡送去墓地，非回合玩家可以确认后再决定把哪2张手卡送去墓地。「`暗黑界的取引`_」等效果也是如此处理。
    | 「`次元要塞兵器`_」攻击里侧守备表示的「`光道猎犬 雷光`_」，反转时发动效果，尽管破坏和从卡组把卡送墓是同时处理，破坏「`次元要塞兵器`_」后就可以正常从卡组上面把3张卡送去墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19832&request_locale=ja>`__
-   | 自己P区域有「`贵龙之魔术师`_」和「`慧眼之魔术师`_」，「`慧眼之魔术师`_」发动效果，尽管自身破坏和选卡放置是同时处理，这个效果处理中被破坏的时点「`贵龙之魔术师`_」的P效果立即适用，破坏并加入额外卡组。然后再从卡组选「`慧眼之魔术师`_」以外的1只「`魔術師`_」P怪兽在P区域放置。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16206&request_locale=ja>`__
+   | 自己P区域有「`贵龙之魔术师`_」和「`慧眼之魔术师`_」，「`慧眼之魔术师`_」发动效果，尽管自身破坏和选卡放置是同时处理，这个效果处理中被破坏的时点「`贵龙之魔术师`_」的P效果立即适用，破坏并加入额外卡组。然后再从卡组选「`慧眼之魔术师`_」以外的1只「`魔术师`_」P怪兽在P区域放置。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16206&request_locale=ja>`__
    | 以对方场上「`古代的机械巨人`_」为对象发动墓地「`电子化天使-那沙帝弥-`_」的③效果，处理时自己怪兽区域只有1个可用的场合，「`电子化天使-那沙帝弥-`_」特殊召唤后「`古代的机械巨人`_」被破坏。不是被效果破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20179&request_locale=ja>`__
    | 「`救祓少女·马尔法`_」的①效果处理时，我方主怪兽区域只有1个可用区域的场合，只从手卡把这张卡特殊召唤，这个效果处理完毕，不会从卡组特殊召唤怪兽。\ `22/7/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23802&keyword=&tag=-1&request_locale=ja>`__
 
@@ -353,7 +353,7 @@
 .. _`火车`: https://ygocdb.com/card/name/火车
 .. _`激流苏生`: https://ygocdb.com/card/name/激流苏生
 .. _`六花`: https://ygocdb.com/?search=六花
-.. _`魔術師`: https://ygocdb.com/card/name/魔術師
+.. _`魔术师`: https://ygocdb.com/?search=魔术师
 .. _`闪珖龙 星尘`: https://ygocdb.com/card/name/闪珖龙%20星尘
 .. _`召唤僧`: https://ygocdb.com/card/name/召唤僧
 .. _`黑蔷薇龙`: https://ygocdb.com/card/name/黑蔷薇龙

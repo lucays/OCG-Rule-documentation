@@ -190,7 +190,7 @@
 无种类效果
 =============
 
-| 不属于「永续效果」「`起动效果`_」「`诱发效果`_」「诱发即时效果」中任意一种的怪兽效果称为无种类效果。
+| 不属于永续效果、起动效果、诱发效果、诱发即时效果中任意一种的怪兽效果称为无种类效果。
 | 基本上无种类效果不入连锁。特别地，「`巴比伦栗子`_」的③效果是需要发动的无种类效果。\ `21/6/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16401&request_locale=ja>`__
 
 -  | 无种类效果属于怪兽效果。因此\ **可以被无效**\ 。
@@ -327,7 +327,6 @@
 .. _`永远的淑女 贝阿特丽切`: https://ygocdb.com/card/name/永远的淑女%20贝阿特丽切
 .. _`地缚神 维拉科查·拉斯卡`: https://ygocdb.com/card/name/地缚神%20维拉科查·拉斯卡
 .. _`寄生融合虫`: https://ygocdb.com/card/name/寄生融合虫
-.. _`起动效果`: https://ygocdb.com/card/name/起动效果
 .. _`淘气仙星·曼珠诗华`: https://ygocdb.com/card/name/淘气仙星·曼珠诗华
 .. _`罪`: https://ygocdb.com/?search=罪
 .. _`中断反抗军`: https://ygocdb.com/card/name/中断反抗军
@@ -338,4 +337,3 @@
 .. _`雷王`: https://ygocdb.com/card/name/雷王
 .. _`不死之魔王 骸骨恶魔`: https://ygocdb.com/card/name/不死之魔王%20骸骨恶魔
 .. _`DNA改造手术`: https://ygocdb.com/card/name/DNA改造手术
-.. _`诱发效果`: https://ygocdb.com/card/name/诱发效果

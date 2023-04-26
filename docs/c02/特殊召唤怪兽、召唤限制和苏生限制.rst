@@ -83,7 +83,7 @@ P召唤                                 ×                ○                   
 | \ **可以通常召唤**\ 的怪兽，其中一部分也记述着能把自己自身特殊召唤的方法，这些方法都\ **是怪兽效果**\ ，可以被无效。
 | 例：
 | 「`狱火机·拿玛`_」的召唤手续不是效果，「`王家长眠之谷`_」的②效果适用中仍然可以把自身从墓地特殊召唤，由于不能除外墓地的卡，这时必须除外手卡3张「`狱火机`_」怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=65&request_locale=ja00&keyword=&tag=-1>`__\
-| 「`暗黑界的龙神 格拉法`_」可以通常召唤，所以『这张卡可以让「`暗黑界的龙神 格拉法`_」以外的自己场上表侧表示存在的1只名字带有「`暗黑界`_」的怪兽回到手卡，从墓地特殊召唤』是效果，可以被「`王家长眠之谷`_」\ `16/12/17 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20408>`__ 「`冥界的魔王 哈·迪斯`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11587&request_locale=ja>`__ 等无效。这个场合不能进行特殊召唤，也不能只让怪兽回到手卡。
+| 「`暗黑界的龙神 格拉法`_」可以通常召唤，所以『这张卡可以让「`暗黑界的龙神 格拉法`_」以外的自己场上表侧表示存在的1只「`暗黑界`_」怪兽回到手卡，从墓地特殊召唤』是效果，可以被「`王家长眠之谷`_」\ `16/12/17 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20408>`__ 「`冥界的魔王 哈·迪斯`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11587&request_locale=ja>`__ 等无效。这个场合不能进行特殊召唤，也不能只让怪兽回到手卡。
 
 -  | 由于特殊召唤怪兽的召唤条件基本上不是效果，也就不存在效果的发动（=不入连锁），「`神之宣告`_」等可以把这些特殊召唤无效。
    | 特别地，「`斯芬克斯·安德鲁吉尼斯`_」「`黑衣大贤者`_」等，是通过发动自身效果来用正规手续特殊召唤，融合·仪式怪兽基本上是通过发动进行融合·仪式召唤的效果来用正规手续特殊召唤。这个场合的特殊召唤不会被无效。
@@ -185,7 +185,7 @@ P召唤                                 ×                ○                   
 
 1. | 召唤时对解放的怪兽的数量或其他方面有特定要求。
    | 例：
-   | 「`神兽王 巴巴罗斯`_」「`欧贝利斯克的巨神兵`_」「`炎狱魔人 地狱焚魔`_」等。
+   | 「`神兽王 巴巴罗斯`_」「`欧贝利斯克之巨神兵`_」「`炎狱魔人 地狱焚魔`_」等。
 
 2. | 特定场合才能特殊召唤或者完全不能特殊召唤。
    | 例：
@@ -240,7 +240,7 @@ P召唤                                 ×                ○                   
 .. _`星尘龙`: https://ygocdb.com/card/name/星尘龙
 .. _`灵摆多福鸟`: https://ygocdb.com/card/name/灵摆多福鸟
 .. _`混沌帝龙 -终焉的使者-`: https://ygocdb.com/card/name/混沌帝龙%20-终焉的使者-
-.. _`欧贝利斯克的巨神兵`: https://ygocdb.com/card/name/欧贝利斯克的巨神兵
+.. _`欧贝利斯克之巨神兵`: https://ygocdb.com/card/name/欧贝利斯克之巨神兵
 .. _`形态变化`: https://ygocdb.com/card/name/形态变化
 .. _`水晶机巧 继承玻纤`: https://ygocdb.com/card/name/水晶机巧%20继承玻纤
 .. _`二重英雄攻击`: https://ygocdb.com/card/name/二重英雄攻击
@@ -254,7 +254,6 @@ P召唤                                 ×                ○                   
 .. _`融合禁止区域`: https://ygocdb.com/card/name/融合禁止区域
 .. _`群豪世界-真罗万象`: https://ygocdb.com/card/name/群豪世界-真罗万象
 .. _`创世神`: https://ygocdb.com/card/name/创世神
-.. _`暗黑界`: https://ygocdb.com/card/name/暗黑界
 .. _`星尘战士`: https://ygocdb.com/card/name/星尘战士
 .. _`古代的机械巨人`: https://ygocdb.com/card/name/古代的机械巨人
 .. _`电光-雪花-`: https://ygocdb.com/card/name/电光-雪花-
@@ -297,3 +296,4 @@ P召唤                                 ×                ○                   
 .. _`神之通告`: https://ygocdb.com/card/name/神之通告
 .. _`炎狱魔人 地狱焚魔`: https://ygocdb.com/card/name/炎狱魔人%20地狱焚魔
 .. _`等级下降！？`: https://ygocdb.com/card/name/等级下降！？
+.. _`暗黑界`: https://ygocdb.com/?search=暗黑界

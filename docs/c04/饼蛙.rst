@@ -82,7 +82,7 @@
    | 例：
    | 我方「`饼蛙`_」的②效果把原本持有者是对方的「`魔界台本「开幕式」`_」破坏并盖放在我方魔法·陷阱卡区域后，即使我方额外卡组存在表侧表示的「`魔界剧团`_」P怪兽，这张「`魔界台本「开幕式」`_」被对方效果或者我方效果破坏的场合，都不能发动②效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6825&keyword=&tag=-1&request_locale=ja>`__
 
-.. _`魔界剧团`: https://ygocdb.com/card/name/魔界剧团
+.. _`魔界剧团`: https://ygocdb.com/?search=魔界剧团
 .. _`屋敷童`: https://ygocdb.com/card/name/屋敷童
 .. _`苦纹样的土像`: https://ygocdb.com/card/name/苦纹样的土像
 .. _`技能抽取`: https://ygocdb.com/card/name/技能抽取

@@ -72,7 +72,7 @@
 
 | 魔法·陷阱卡在发动之际，就\ **已经在场上**\ ，可以确定卡名。只是在这时，\ **不会立即适用效果**\ ，而是按照\ :ref:`连锁基础`\ 规则，按顺序轮到它处理时才开始适用。
 | 例：
-| 「`黑音速`_」从手卡发动时，就是自己场上表侧表示的陷阱卡，可以取其和另1张表侧魔法·陷阱卡为对象，连锁发动「`DDD 极智王 混沌默示神`_」的效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17820&request_locale=ja>`__\
+| 「`黑翼音速`_」从手卡发动时，就是自己场上表侧表示的陷阱卡，可以取其和另1张表侧魔法·陷阱卡为对象，连锁发动「`DDD 极智王 混沌默示神`_」的效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17820&request_locale=ja>`__\
 | 我方的「`天空的圣域`_」发动，对方连锁发动「`旋风`_」，由于「`天空的圣域`_」已经在场上存在，我方可以连锁发动「`神罚`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10698&keyword=&tag=-1&request_locale=ja>`__\
 | 我方的「`珀耳修斯的神域`_」发动，对方连锁发动「`旋风`_」，由于①效果还没适用，我方不能连锁发动「`神罚`_」。\ `17/9/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21418&keyword=&tag=-1&request_locale=ja>`__\
 | 「`卡通王国`_」卡的发动时③效果还不适用，对方可以连锁以「`卡通`_」怪兽为对象发动卡片效果。\ `17/7/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15864&request_locale=ja>`__\
@@ -146,7 +146,7 @@
 
 -  | 特别地，也有在卡的发动时不能适用效果的永续陷阱。
    | 例：
-   | 「`阳炎光轮`_」的『可以通过把场上表侧表示存在的这张卡送去墓地，从自己墓地选择「`阳炎光轮`_」以外的1张名字带有「`阳炎`_」的卡加入手卡』的效果，由于需要把自身送去墓地，「`阳炎光轮`_」发动时这个效果不适用。需要在卡片发动完毕之后另开连锁发动。「`灵神统一`_」也是如此。\ `18/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21699&request_locale=ja>`__\
+   | 「`阳炎光轮`_」的『可以通过把场上表侧表示存在的这张卡送去墓地，从自己墓地选择「`阳炎光轮`_」以外的1张「`阳炎`_」卡加入手卡』的效果，由于需要把自身送去墓地，「`阳炎光轮`_」发动时这个效果不适用。需要在卡片发动完毕之后另开连锁发动。「`灵神统一`_」也是如此。\ `18/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21699&request_locale=ja>`__\
    | 除了「`溯洸的炼狱`_」这种每次特定阶段的描述，记述『每次○○发动』的「`光之回弹`_」\ `16/1/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7643&request_locale=ja>`__ 「`卖棺者`_」\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5492&request_locale=ja>`__ 等效果不能在卡的发动时发动效果，而「`电子召唤爆破器`_」复刻后的描述直接加上了『这张卡已在魔法与陷阱区域存在的状态』。
 
 .. attention:: 特别地，「`虚无空间`_」的②效果不能在卡的发动同时进行发动。此外由于描述不同，「`捕食惑星`_」「`潜海奇袭`_」也不能在卡的发动时进行效果的发动。
@@ -235,8 +235,8 @@
 
 | 这种魔法·陷阱卡在连锁途中不能从场上回到手卡·卡组，可以被破坏·除外·送去墓地·变成X素材。
 | 例：
-| 「`激流葬`_」发动时，不能以这张通常陷阱卡为对象发动「`凤翼的暴风`_」。
-| 以盖放的「`旋风`_」为对象发动「`凤翼的暴风`_」，连锁发动这张「`旋风`_」的场合，这张「`旋风`_」不会回到卡组，在连锁处理完毕时正常送去墓地。
+| 「`激流葬`_」发动时，不能以这张通常陷阱卡为对象发动「`凤翼的爆风`_」。
+| 以盖放的「`旋风`_」为对象发动「`凤翼的爆风`_」，连锁发动这张「`旋风`_」的场合，这张「`旋风`_」不会回到卡组，在连锁处理完毕时正常送去墓地。
 | 「`魔偶甜点后·后冠提拉米苏`_」的效果发动时，对方连锁发动「`旋风`_」的场合，这个效果处理时不能选这张「`旋风`_」。
 | 对方场上只有盖放的「`强欲之瓶`_」，自己「`爆龙剑士 点火星·日珥`_」的①效果发动时，那个「`强欲之瓶`_」连锁发动的场合，效果处理时只能选自身回到额外卡组。
 | 我方「`龙神阵·略图`_」的③效果发动，连锁发动「`幽丽的幻泷`_」的场合，「`龙神阵·略图`_」的效果处理时可以选「`幽丽的幻泷`_」破坏，之后正常处理效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7634&keyword=&tag=-1&request_locale=ja>`__\
@@ -270,7 +270,7 @@
 
 .. _`炼装反击`: https://ygocdb.com/card/name/炼装反击
 .. _`琰魔龙王 红莲魔·厄`: https://ygocdb.com/card/name/琰魔龙王%20红莲魔·厄
-.. _`黑音速`: https://ygocdb.com/card/name/黑音速
+.. _`黑翼音速`: https://ygocdb.com/card/name/黑翼音速
 .. _`终焉之地`: https://ygocdb.com/card/name/终焉之地
 .. _`雷龙放电`: https://ygocdb.com/card/name/雷龙放电
 .. _`神数的神托`: https://ygocdb.com/card/name/神数的神托
@@ -297,7 +297,6 @@
 .. _`魔偶甜点后·后冠提拉米苏`: https://ygocdb.com/card/name/魔偶甜点后·后冠提拉米苏
 .. _`扫射特攻`: https://ygocdb.com/card/name/扫射特攻
 .. _`幻变骚灵·泛在羽衣精`: https://ygocdb.com/card/name/幻变骚灵·泛在羽衣精
-.. _`阳炎`: https://ygocdb.com/card/name/阳炎
 .. _`龙神阵·略图`: https://ygocdb.com/card/name/龙神阵·略图
 .. _`命运之抽卡`: https://ygocdb.com/card/name/命运之抽卡
 .. _`机壳的冻结`: https://ygocdb.com/card/name/机壳的冻结
@@ -399,7 +398,7 @@
 .. _`连续魔法`: https://ygocdb.com/card/name/连续魔法
 .. _`魔术师的右手`: https://ygocdb.com/card/name/魔术师的右手
 .. _`闪光No.0 希望之异热同心`: https://ygocdb.com/card/name/闪光No.0%20希望之异热同心
-.. _`凤翼的暴风`: https://ygocdb.com/card/name/凤翼的暴风
+.. _`凤翼的爆风`: https://ygocdb.com/card/name/凤翼的爆风
 .. _`GO-DDD 神零王 零神·零儿`: https://ygocdb.com/card/name/GO-DDD%20神零王%20零神·零儿
 .. _`二重魔法`: https://ygocdb.com/card/name/二重魔法
 .. _`升阶魔法-七皇之剑`: https://ygocdb.com/card/name/升阶魔法-七皇之剑
@@ -427,3 +426,4 @@
 .. _`永远之魂`: https://ygocdb.com/card/name/永远之魂
 .. _`废铁稻草人`: https://ygocdb.com/card/name/废铁稻草人
 .. _`超次元机器人 银河破坏王`: https://ygocdb.com/card/name/超次元机器人%20银河破坏王
+.. _`阳炎`: https://ygocdb.com/?search=阳炎

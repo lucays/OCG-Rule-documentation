@@ -146,7 +146,7 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
       | 类似地，等级下降到1以下的场合，结果是1。
       | 不过，有后续效果的场合，基本上后续效果不会适用，等级也不下降。
       | 例：
-      | 「`锤鲨`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12944&request_locale=ja>`__ 「`龙落亲`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17005&request_locale=ja>`__ 「`方程式运动员 黑暗竞速者`_」\ `18/9/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9809&keyword=&tag=-1&request_locale=ja>`__ \ `18/9/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22099&request_locale=ja>`__ 等级不够下降数时效果不能发动，发动后处理时不够的场合不能适用。
+      | 「`锤鲨`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12944&request_locale=ja>`__ 「`龙落亲`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17005&request_locale=ja>`__ 「`方程式运动员 暗冥赛道名将`_」\ `18/9/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22100&keyword=&tag=-1&request_locale=ja>`__ 等级不够下降数时效果不能发动，发动后处理时不够的场合不能适用。
       | 特别地，「`娱乐伙伴 调级钟行李员`_」宣言5，以等级3的怪兽为对象发动效果时，连锁发动「`妖怪的恶作剧`_」，自身等级下降到4，对象怪兽下降到1的场合，这个效果仍然适用，结果自身等级是1，对象怪兽等级上升到6。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19744&request_locale=ja>`__
 
 -  | 数值下降到0以下时，虽然结果按0处理，\ **累积计算时按实际数值计算**\ 。
@@ -164,7 +164,7 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
 | 已经装备「`最强之盾`_」或已经适用「`禁忌的圣枪`_」的「`英豪冠军 断钢剑王`_」发动效果后，攻击力都是2000*2=4000。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16&keyword=&tag=-1&request_locale=ja>`__ \ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12357&keyword=&tag=-1&request_locale=ja>`__
 | 因装备的「`希望剑一斩`_」攻击力上升500的「`闪光No.39 希望皇 霍普·电光皇`_」在伤害计算时发动效果，攻击力是5000，上升的500暂时不计算。伤害计算之后攻击力回到2500+500=3000的状态。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15302&request_locale=ja>`__
 | 有「`英豪挑战者 赠剑兵`_」作为素材X召唤的「`英豪冠军 英弓王`_」，攻击力3100的状态，装备「`月镜盾`_」向「`异次元喷气机·大铁号`_」攻击，伤害计算时「`月镜盾`_」发动效果变成4100，从这个时点起「`英豪挑战者 赠剑兵`_」的效果不再适用。由于「`英豪挑战者 赠剑兵`_」的效果是在X召唤成功时发动并适用的效果，不是持续适用的效果，因此伤害计算之后「`英豪冠军 英弓王`_」的攻击力是2100，不是3100。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12654&request_locale=ja>`__
-| 装备「`破邪的大剑`_」，攻击力3500的「`青眼白龙`_」受「`半封`_」影响，攻击力是1750，「`破邪的大剑`_」再被破坏的场合，攻击力维持1750，回合结束后攻击力回到3000。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9829&keyword=&tag=-1&request_locale=ja>`__
+| 装备「`破邪之大剑-黄昏`_」，攻击力3500的「`青眼白龙`_」受「`半封`_」影响，攻击力是1750，「`破邪之大剑-黄昏`_」再被破坏的场合，攻击力维持1750，回合结束后攻击力回到3000。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9829&keyword=&tag=-1&request_locale=ja>`__
 | 「`青眼白龙`_」直接攻击造成3000伤害，发动「`芙莉嘉的苹果`_」特殊召唤「`邪精衍生物`_」使其攻守均为3000/3000，再对这个「`邪精衍生物`_」发动「`半封`_」使攻击力直到回合结束时变成一半即1500/3000的场合，此时「`芙莉嘉的苹果`_」影响「`邪精衍生物`_」的攻击力部分的效果不再适用，回合结束后「`半封`_」不再适用的场合，「`邪精衍生物`_」的攻守是0/3000。\ `17/2/16 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6415&keyword=&tag=-1>`__
 | 「`元素英雄 次新宇侠`_」装备「`恶魔之斧`_」，攻击力·守备力是2900/1300的场合，发动「`反转世界`_」，结果攻击力·守备力是1300/2900。之后「`恶魔之斧`_」被破坏的场合也维持这个数值。再装备「`黑项链`_」的场合攻击力是1300+500=1800。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9502&request_locale=ja>`__
 
@@ -304,9 +304,9 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
    | 自身效果让原本攻击力是3200的「`召命之神弓-阿波罗萨`_」发动3次效果后，受到「`收缩`_」的效果的场合，攻击力是1600-2400，在场上当作0，回合结束后「`收缩`_」效果不适用的场合，其②效果也不适用，保持0，实际再下降2400的状态。\ `19/4/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22612&keyword=&tag=-1&request_locale=ja&request_locale=ja>`__
    | 「`娱乐法师 帽子戏法师`_」的③效果只在放置3个Em指示物时适用1次，之后即使取除指示物也保持3300。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15384&keyword=&tag=-1&request_locale=ja>`__ 被「`收缩`_」后不影响守备力，攻击力是550。「`收缩`_」不适用后攻击力回到1100，守备力仍是3300。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15381&keyword=&tag=-1&request_locale=ja>`__
    | 「`黑羽-疾风之盖尔`_」的效果对怪兽适用后，再对那个怪兽发动「`收缩`_」的场合，那个怪兽的攻击力是原本攻击力减半的数值。「`收缩`_」不适用后，回到卡片记载的原本攻击力数值，守备力不恢复。以「`青眼白龙`_」为例，攻守变化过程是3000/2500→1500/1250→1500/1250→3000/1250。\ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7944&keyword=&tag=-1>`__
-   | 「`闪刀姬-大黄蜂浮游单元`_」特殊召唤的攻击力·守备力都是1500的「`闪刀姬衍生物`_」，被「`收缩`_」后攻击力变成0，守备力维持1500。「`收缩`_」不再适用后攻击力也维持0。\ `18/2/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21762&keyword=&tag=-1&request_locale=ja>`__
+   | 「`闪刀机-大黄蜂浮游单元`_」特殊召唤的攻击力·守备力都是1500的「`闪刀姬衍生物`_」，被「`收缩`_」后攻击力变成0，守备力维持1500。「`收缩`_」不再适用后攻击力也维持0。\ `18/2/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21762&keyword=&tag=-1&request_locale=ja>`__
 
-   .. note:: 衍生物的「原本攻击力·守备力」是特殊召唤效果中记载的数值。「`闪刀姬-大黄蜂浮游单元`_」记述着『「`闪刀姬衍生物`_」（战士族·暗·1星·攻/守0）』，因此「`闪刀姬衍生物`_」的原本攻击力·守备力是0。类似的「`冥府之使者衍生物`_」的原本攻击力·守备力是『？』。「`克隆复制`_」「`物理分身`_」这样没有记载的场合，特殊召唤后的原本攻击力·守备力都是0。
+   .. note:: 衍生物的「原本攻击力·守备力」是特殊召唤效果中记载的数值。「`闪刀机-大黄蜂浮游单元`_」记述着『「`闪刀姬衍生物`_」（战士族·暗·1星·攻/守0）』，因此「`闪刀姬衍生物`_」的原本攻击力·守备力是0。类似的「`冥府之使者衍生物`_」的原本攻击力·守备力是『？』。「`克隆复制`_」「`物理分身`_」这样没有记载的场合，特殊召唤后的原本攻击力·守备力都是0。
 
    | 自己场上持有「`十二兽 蛇笞`_」「`十二兽 马剑`_」作为X素材的「`十二兽 龙枪`_」，同时「`炎舞-「天玑」`_」的效果适用中，即2900/400，被对方的「`暗叛逆XYZ龙`_」的效果把攻击力变成一半，即1450/400。「`暗叛逆XYZ龙`_」的攻击力上升1450是3950，这时对「`暗叛逆XYZ龙`_」发动「`迷途风`_」的场合，是直接在2500上计算，2500/2=1250，之后计算上升的效果，1250+1450=2700。即2700/2000。
    | 自己场上持有「`十二兽 蛇笞`_」「`十二兽 马剑`_」作为X素材的「`十二兽 龙枪`_」，同时「`炎舞-「天玑」`_」的效果适用中，即2900/400，被对方的「`暗叛逆XYZ龙`_」的效果把攻击力变成一半，即1450/400后，对这个「`十二兽 龙枪`_」发动「`迷途风`_」的场合，先效果无效，此时是1450/0，再因原本攻击力变成一半，0/2=0。不会再度计算「`暗叛逆XYZ龙`_」的效果，结果是0/0。
@@ -455,7 +455,7 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
    | 「`蓝宝石龙`_」装备了「`下克上的首饰`_」后，攻击「`青眼白龙`_」，伤害计算时「`下克上的首饰`_」的效果适用后，发动「`守卫竹篱`_」的效果把「`蓝宝石龙`_」的攻击力减半的场合，「`下克上的首饰`_」的效果是否再适用，调整中。
    | 「`外星人战士`_」攻击放置了2个A指示物的「`蓝宝石龙`_」，伤害计算时「`外星人战士`_」的效果适用后，发动「`守卫竹篱`_」的效果把「`蓝宝石龙`_」的攻击力减半的场合，「`外星人战士`_」的效果是否再适用，调整中。
    | 「`核成龙`_」装备了「`钢核收纳`_」后，攻击「`蓝宝石龙`_」，伤害计算时「`钢核收纳`_」的效果适用后，发动「`守卫竹篱`_」的效果把「`蓝宝石龙`_」的攻击力减半的场合，「`钢核收纳`_」的效果是否再适用，调整中。
-   | 场上存在「`超量领域`_」，「`No.39 希望皇·霍普`_」攻击「`随风旅鸟×帝企`_」，伤害计算时「`超量领域`_」的效果适用后，「`随风旅鸟×帝企`_」的③效果发动并适用的场合，「`超量领域`_」的效果是否再适用，调整中。
+   | 场上存在「`超量领域`_」，「`No.39 希望皇 霍普`_」攻击「`随风旅鸟×帝企`_」，伤害计算时「`超量领域`_」的效果适用后，「`随风旅鸟×帝企`_」的③效果发动并适用的场合，「`超量领域`_」的效果是否再适用，调整中。
    | 「`魔轰神界之阶`_」在我方场上存在，我方手卡0张，对方手卡5张的状况，攻击力3000的「`魔轰神 利威坦`_」攻击攻击力是2700的「`随风旅鸟×帝企`_」，伤害计算时「`魔轰神界之阶`_」的③效果适用，「`魔轰神 利威坦`_」的攻击力上升至4000后，「`随风旅鸟×帝企`_」的③效果发动，支付cost后对方手卡变成4张时，「`魔轰神 利威坦`_」的攻击力下降至3800，之后处理「`随风旅鸟×帝企`_」的③效果时，「`魔轰神 利威坦`_」的攻击力减半变成1900，结果就这样进行伤害计算。
 
 其他
@@ -543,7 +543,7 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
 .. _`孤毒之剑`: https://ygocdb.com/card/name/孤毒之剑
 .. _`英豪挑战者 赠剑兵`: https://ygocdb.com/card/name/英豪挑战者%20赠剑兵
 .. _`卡托布莱帕斯与命运之魔女`: https://ygocdb.com/card/name/卡托布莱帕斯与命运之魔女
-.. _`方程式运动员 黑暗竞速者`: https://ygocdb.com/card/name/方程式运动员%20黑暗竞速者
+.. _`方程式运动员 暗冥赛道名将`: https://ygocdb.com/card/name/方程式运动员%20暗冥赛道名将
 .. _`废铁工厂`: https://ygocdb.com/card/name/废铁工厂
 .. _`机巧鸟-常世宇受卖长鸣`: https://ygocdb.com/card/name/机巧鸟-常世宇受卖长鸣
 .. _`十二兽 龙枪`: https://ygocdb.com/card/name/十二兽%20龙枪
@@ -570,7 +570,7 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
 .. _`特拉戈迪亚`: https://ygocdb.com/card/name/特拉戈迪亚
 .. _`黑项链`: https://ygocdb.com/card/name/黑项链
 .. _`小世界现象`: https://ygocdb.com/card/name/小世界现象
-.. _`No.39 希望皇·霍普`: https://ygocdb.com/card/name/No.39%20希望皇·霍普
+.. _`No.39 希望皇 霍普`: https://ygocdb.com/card/name/No.39%20希望皇%20霍普
 .. _`异次元喷气机·大铁号`: https://ygocdb.com/card/name/异次元喷气机·大铁号
 .. _`三眼怪`: https://ygocdb.com/card/name/三眼怪
 .. _`真魔兽 加泽特`: https://ygocdb.com/card/name/真魔兽%20加泽特
@@ -591,7 +591,7 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
 .. _`炎舞-「天玑」`: https://ygocdb.com/card/name/炎舞-「天玑」
 .. _`技能抽取`: https://ygocdb.com/card/name/技能抽取
 .. _`附锁链的尖盾`: https://ygocdb.com/card/name/附锁链的尖盾
-.. _`破邪的大剑`: https://ygocdb.com/card/name/破邪的大剑
+.. _`破邪之大剑-黄昏`: https://ygocdb.com/card/name/破邪之大剑-黄昏
 .. _`多尔·多拉`: https://ygocdb.com/card/name/多尔·多拉
 .. _`霞鸟 辉剑鸟`: https://ygocdb.com/card/name/霞鸟%20辉剑鸟
 .. _`No.39 希望皇 霍普`: https://ygocdb.com/card/name/No.39%20希望皇%20霍普
@@ -641,7 +641,7 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
 .. _`暗龙之黑骑士`: https://ygocdb.com/card/name/暗龙之黑骑士
 .. _`镇魂的决斗`: https://ygocdb.com/card/name/镇魂的决斗
 .. _`闪光No.39 希望皇 霍普·电光皇`: https://ygocdb.com/card/name/闪光No.39%20希望皇%20霍普·电光皇
-.. _`闪刀姬-大黄蜂浮游单元`: https://ygocdb.com/card/name/闪刀姬-大黄蜂浮游单元
+.. _`闪刀机-大黄蜂浮游单元`: https://ygocdb.com/card/name/闪刀机-大黄蜂浮游单元
 .. _`超时空战斗机 V形蛇`: https://ygocdb.com/card/name/超时空战斗机%20V形蛇
 .. _`龙落亲`: https://ygocdb.com/card/name/龙落亲
 .. _`转生炎兽 堇色奇美拉`: https://ygocdb.com/card/name/转生炎兽%20堇色奇美拉

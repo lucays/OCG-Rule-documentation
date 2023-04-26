@@ -67,7 +67,7 @@
    | 例：
    | 「`御前试合`_」在场上存在，「`孤火花`_」要发动①效果的场合，只在卡组存在炎属性植物族怪兽时才能发动。这个场合，如果把自身解放来发动①效果，如果这个时点自己场上不存在怪兽，就可以从卡组特殊召唤其他属性的植物族怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8787&keyword=&tag=-1&request_locale=ja>`__
    | 「`群雄割据`_」在场上存在，兽战士族的「`剑斗兽`_」怪兽在进行战斗的战斗阶段结束时要发动效果的场合，只在卡组存在能被这个效果特殊召唤的兽战士族怪兽时，才能发动。这样发动了效果的场合，处理时由于这只「`剑斗兽`_」怪兽已经不在场上，如果我方场上没有其他怪兽，也可以把岩石族等其他种族的「`剑斗兽`_」怪兽特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8788&keyword=&tag=-1&request_locale=ja>`__
-   | 「`群雄割据`_」在场上存在，我方场上只存在「`忍者`_」战士族怪兽的状况，由于「`忍法 超变化之术`_」只能把龙族·恐龙族·海龙族怪兽特殊召唤，因此不能发动「`忍法 超变化之术`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12166&keyword=&tag=-1&request_locale=ja>`__
+   | 「`群雄割据`_」在场上存在，我方场上只存在战士族「`忍者`_」怪兽的状况，由于「`忍法 超变化之术`_」只能把龙族·恐龙族·海龙族怪兽特殊召唤，因此不能发动「`忍法 超变化之术`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12166&keyword=&tag=-1&request_locale=ja>`__
    | 「`千查万别`_」在场上存在时，我方场上存在战士族「`英雄`_」怪兽的状况，不能发动「`假面变化`_」。\ `17/10/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13887&keyword=&tag=-1&request_locale=ja>`__\ 以战士族「`英雄`_」怪兽为对象发动「`假面变化`_」时，连锁发动「`千查万别`_」的场合，正常进行『那只怪兽送去墓地』的处理后，由于这个时点我方场上不存在战士族怪兽，结果可以正常把「`假面英雄`_」怪兽特殊召唤。\ `17/10/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13886&keyword=&tag=-1&request_locale=ja>`__
 
    .. note:: 融合召唤和仪式召唤相关的效果是在把素材送去墓地·把怪兽解放前就要选定特殊召唤出场的融合怪兽·仪式怪兽，因此，即使在把素材送去墓地·把怪兽解放后场上不存在怪兽，也不能再更改要融合召唤·仪式召唤的怪兽。
@@ -187,7 +187,7 @@
 -  | 和文本描述不符，这类效果适用时，如果是限制的是确定卡名的怪兽，记述『1只』还是『1张』没有区别，即使魔法·陷阱卡区域存在同名怪兽卡，也不能再让这个卡名的怪兽在场上表侧表示出现。
    | 如果限制的是某个字段的怪兽，记述『1只』的场合，即使魔法·陷阱卡区域存在同名怪兽卡，也不适用这类限制，可以再让这个卡名的怪兽在怪兽区域表侧表示出现。目前限制字段怪兽的文本没有记述是『1张』的卡。
    | 例：
-   | 记述『只能有1只表侧表示存在』的「`六武众师范`_」「`始祖龙 古龙`_」「`坏兽`_」怪兽以及「`罪`_」怪兽变成装备卡的场合，不能特殊召唤第2只「`六武众师范`_」「`始祖龙 古龙`_」，但可以特殊召唤第2只「`坏兽`_」怪兽或「`罪`_」怪兽。
+   | 记述『只能有1只表侧表示存在』的「`六武众的师范`_」「`始祖龙 古龙`_」「`坏兽`_」怪兽以及「`罪`_」怪兽变成装备卡的场合，不能特殊召唤第2只「`六武众的师范`_」「`始祖龙 古龙`_」，但可以特殊召唤第2只「`坏兽`_」怪兽或「`罪`_」怪兽。
    | 对方场上存在作为装备卡的「`坏兽`_」怪兽时，也可以把对方怪兽区域的怪兽解放来特殊召唤自己手卡的「`坏兽`_」怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6&keyword=&tag=-1&request_locale=ja>`__
 
    .. note:: 「`地缚神`_」怪兽和「`罪`_」怪兽的文本是『在场上只能有1只表侧表示存在』，不是『在自己场上』，因此在双方场上合计只能有1只表侧表示存在。
@@ -312,7 +312,7 @@
 .. _`次元融合`: https://ygocdb.com/card/name/次元融合
 .. _`海龙神-利维坦`: https://ygocdb.com/card/name/海龙神-利维坦
 .. _`武神器-边津`: https://ygocdb.com/card/name/武神器-边津
-.. _`忍者`: https://ygocdb.com/card/name/忍者
+.. _`忍者`: https://ygocdb.com/?search=忍者
 .. _`阴之天气模样`: https://ygocdb.com/card/name/阴之天气模样
 .. _`封印师 明晴`: https://ygocdb.com/card/name/封印师%20明晴
 .. _`妖精传姬-辛德瑞拉`: https://ygocdb.com/card/name/妖精传姬-辛德瑞拉
@@ -370,7 +370,7 @@
 .. _`尘妖的拖把`: https://ygocdb.com/card/name/尘妖的拖把
 .. _`精灵术师 树精`: https://ygocdb.com/card/name/精灵术师%20树精
 .. _`燕巢`: https://ygocdb.com/card/name/燕巢
-.. _`六武众师范`: https://ygocdb.com/card/name/六武众师范
+.. _`六武众的师范`: https://ygocdb.com/card/name/六武众的师范
 .. _`始祖龙 古龙`: https://ygocdb.com/card/name/始祖龙%20古龙
 .. _`蔷薇恋人`: https://ygocdb.com/card/name/蔷薇恋人
 .. _`复制梁龙`: https://ygocdb.com/card/name/复制梁龙

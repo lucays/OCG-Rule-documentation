@@ -161,7 +161,7 @@
 多次攻击
 ------------
 
-| 像「`大薰风凤凰`_」「`究极暴风弹`_」这样的效果，可以让怪兽作2次或更多次攻击。
+| 像「`大薰风凤凰`_」「`究极爆风弹`_」这样的效果，可以让怪兽作2次或更多次攻击。
 | 也有「`No.95 银河眼暗物质龙`_」这样，限制只能向怪兽多次攻击的情况。
 
 | 可以『向怪兽攻击』多次的怪兽，可以选择不适用这个效果而直接攻击。
@@ -418,7 +418,7 @@
 
    | 可以看出，自身发生各种变化诱发的效果基本上都能发动，自身以外的卡片发生其他变化诱发的效果，在伤害步骤不能发动。
    | 具体地说，自身以外的卡片表示形式变更、被解放、送去墓地、除外、从场上离开、加入手卡、特殊召唤以及只能被效果破坏诱发的选发效果等，在伤害步骤不能发动。
-   | 「`地中族的战士`_」文本明确记述了『伤害步骤也能发动』，除此之外没有选发的自身以外卡片反转诱发的效果。
+   | 「`地中族战士`_」文本明确记述了『伤害步骤也能发动』，除此之外没有选发的自身以外卡片反转诱发的效果。
    | 「`同路人`_」\ `17/1/26 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=4939&request_locale=ja>`__ 「`闪刀姬-零衣`_」的②效果\ `18/2/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13670&request_locale=ja>`__ 等明确记述被战斗破坏可以发动的效果，即使伤害步骤内满足的是另一个条件（被效果送去墓地、从场上离开等），这些效果也能发动。
 
 .. attention::
@@ -439,7 +439,7 @@
 
 -  | 『○○发动时才能发动』的效果处理如果不会把卡片·效果的发动无效，即使会影响攻击力·守备力，也不能在伤害步骤发动。
    | 例：
-   | 「`No.3 地狱蝉王`_」的②效果\ `21/5/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=15386&request_locale=ja>`__ 「`水晶幻透翼同调龙`_」的①效果\ `21/5/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16379&request_locale=ja>`__ 「`Jo－P.U.N.K. 蜘蛛夫人`_」的②效果\ `21/8/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16726&request_locale=ja>`__ 「`No－P.U.N.K. 鬼能乐`_」的③效果\ `21/8/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16729&request_locale=ja>`__ 在伤害步骤不能发动。
+   | 「`No.3 地狱蝉王`_」的②效果\ `21/5/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=15386&request_locale=ja>`__ 「`水晶幻透翼同调龙`_」的①效果\ `21/5/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16379&request_locale=ja>`__ 「`净琉璃朋克 蜘蛛夫人`_」的②效果\ `21/8/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16726&request_locale=ja>`__ 「`能朋克 鬼能乐`_」的③效果\ `21/8/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16729&request_locale=ja>`__ 在伤害步骤不能发动。
 
 -  「禁忌的圣杯」\ `17/12/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8213&request_locale=ja>`__ 等，影响怪兽攻击力·守备力的\ :ref:`快速效果`\ 如果没有特别说明，只能在\ **伤害步骤开始时或伤害计算前**\ 发动。
 
@@ -535,7 +535,7 @@
 
 -  | 「禁忌的圣典」的『那次战斗的伤害计算用原本的攻击力·守备力进行』的效果，\ **直接改变了伤害计算的结算方式**\ ，即把上述的结算方式表述中的攻击力·守备力全部用原本攻击力·原本守备力替换掉就是新的结算方式。并不是改变怪兽的现有攻击力·守备力。
    | 例：
-   | 适用了「`禁忌的圣枪`_」，攻击力下降800的「`E-HERO 暗黑地魔`_」进行战斗的伤害计算时，发动「`禁忌的圣典`_」，由于不受魔法效果的影响，「`E-HERO 暗黑地魔`_」不会无效，因伤害计算的方式改变，按照其效果确定的原本攻击力进行伤害计算。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13098&keyword=&tag=-1&request_locale=ja>`__
+   | 适用了「`禁忌的圣枪`_」，攻击力下降800的「`邪心英雄 暗黑地魔`_」进行战斗的伤害计算时，发动「`禁忌的圣典`_」，由于不受魔法效果的影响，「`邪心英雄 暗黑地魔`_」不会无效，因伤害计算的方式改变，按照其效果确定的原本攻击力进行伤害计算。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13098&keyword=&tag=-1&request_locale=ja>`__
 
 | 相关效果的适用顺序如下。\ `22/8/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23822&keyword=&tag=-1&request_locale=ja>`__
 | ①记述『给与2倍数值的战斗伤害』的「`青眼混沌极龙`_」「`炼装勇士·山铜狂战士`_」等效果
@@ -610,7 +610,7 @@
 -  | 顺序6的效果存在时，战斗伤害变成0，再不论加倍还是减半都还是0。
    | 存在顺序9的效果时，不论之前是0还是加倍还是减半，最终都变成顺序9第效果适用的固定数值。
    | 例：
-   | 对方场上存在「`心眼之祭殿`_」，自己发动「`回转调车`_」①效果后，用「`超重级炮塔列车 古斯塔夫最大炮`_」攻击对方攻击表示的「`亚马逊剑士`_」的场合，「`亚马逊剑士`_」的效果适用，再「`心眼之祭殿`_」效果适用，我方受到1000伤害。
+   | 对方场上存在「`心眼之祭殿`_」，自己发动「`回转调车`_」①效果后，用「`超重型炮塔列车 古斯塔夫最大炮`_」攻击对方攻击表示的「`亚马逊剑士`_」的场合，「`亚马逊剑士`_」的效果适用，再「`心眼之祭殿`_」效果适用，我方受到1000伤害。
    | 「`天空的圣域`_」在场上存在时，我方的攻击表示「`权威者·许珀里翁`_」（天使族・攻击力2100）和对方的攻击力3000的攻击表示怪兽进行战斗的场合，先适用「`权威者·许珀里翁`_」的②效果，我方受到的900战斗伤害让对方也承受，再适用「`天空的圣域`_」的①效果。对方怪兽如果也是天使族怪兽的话，那么双方受到的战斗伤害都变成0。不是的话，只有我方受到的战斗伤害变成0，对方仍然受到900战斗伤害。这两种状况我方的「`权威者·许珀里翁`_」都会被战斗破坏。\ `21/8/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23316&keyword=&tag=-1&request_locale=ja>`__
    | 「`心眼之祭殿`_」和「`娱乐法师 秋千魔术家`_」的效果适用中，战斗伤害是1000，于是不受这次战斗伤害。\ `17/7/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21&request_locale=ja270&keyword=&tag=-1>`__
    | 「`传说的渔人三世`_」和「`娱乐法师 秋千魔术家`_」的效果适用中，发动「`娱乐法师 高跷射手`_」的②效果，给予的2000伤害加倍后是4000，比「`娱乐法师 秋千魔术家`_」的攻击力高，所以正常受到伤害。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16346&keyword=&tag=-1&request_locale=ja>`__
@@ -671,7 +671,7 @@
    | 被战斗破坏确定的怪兽不能适用『自己场上的全部「`战吼`_」怪兽的攻击力直到对方回合结束时上升200』的效果，自己场上只存在1只「`战吼斗士·福蒂亚`_」，不存在其他战士族·地属性怪兽，这只「`战吼斗士·福蒂亚`_」被战斗破坏的场合，伤害计算后不能发动①效果。\ `21/9/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23359&keyword=&tag=-1&request_locale=ja>`__
    | 伤害计算后「`方程式运动员`_」魔法·陷阱卡的效果发动的场合，被战斗破坏确定的「`方程式运动员 声速侧挂骑手`_」不能发动②效果。
    | 我方昆虫族怪兽被「`魔偶甜点·布丁公主`_」战斗破坏的伤害计算后，「`魔偶甜点·布丁公主`_」的②效果选「`代打蝗虫`_」破坏，「`代打蝗虫`_」的效果特殊召唤了手卡「`电子光虫-电阻水黾`_」，这只「`电子光虫-电阻水黾`_」发动②效果的场合，不能选那只战斗破坏确定的昆虫族怪兽变更其表示形式。如果我方怪兽区域的昆虫族怪兽只有自身和这只确定被战斗破坏的怪兽，那么只能选自身变更表示形式。
-   | 「`龙族·封印的壶`_」「`DNA改造手术`_」（宣言龙族）适用中，不受陷阱影响的「`救世魔龙`_」攻击里侧守备表示的「`壶魔人`_」，被战斗破坏的伤害计算后发动效果的场合，自身不会变成攻击表示，结果会被「`救世魔龙`_」的效果破坏。不是被战斗破坏送去墓地，不能发动「`命之纲`_」。
+   | 「`龙族封印之壶`_」「`DNA改造手术`_」（宣言龙族）适用中，不受陷阱影响的「`救世魔龙`_」攻击里侧守备表示的「`壶魔人`_」，被战斗破坏的伤害计算后发动效果的场合，自身不会变成攻击表示，结果会被「`救世魔龙`_」的效果破坏。不是被战斗破坏送去墓地，不能发动「`命之纲`_」。
    | 攻击宣言时发动「`日全食之书`_」，连锁发动「`轮盘蜘蛛`_」的效果进行伤害计算，结果没被战斗破坏的怪兽变成里侧守备表示，被战斗破坏的怪兽不会变成里侧守备表示，在连锁处理完毕时送去墓地。
 
    .. attention:: 表示形式变更指攻击表示和守备表示互相变更，不是里侧表示和表侧表示互相变更。
@@ -820,7 +820,7 @@
 -  | 伤害步骤结束时这个时点不存在的场合，在『伤害步骤结束时』发动·适用的效果不能发动·适用。
    | 例：
    | 「`电动刃虫`_」直接攻击，对方在伤害计算后发动「`闪光弹`_」而直接进入结束阶段，则「`电动刃虫`_」的效果不能发动。
-   | 「`地狱将军 墨菲斯特`_」攻击「`巨大老鼠`_」的伤害计算后，发动效果结果对方丢弃了「`招财猫王`_」的场合，「`招财猫王`_」的效果是在伤害计算后发动。但是，这个效果处理后不会立刻进入结束阶段，而是先进入伤害步骤结束时，战斗破坏确定的「`巨大老鼠`_」送去墓地，发动自身的诱发效果并处理完毕后，进入结束阶段。
+   | 「`地狱将军·墨非斯特`_」攻击「`巨大老鼠`_」的伤害计算后，发动效果结果对方丢弃了「`招财猫王`_」的场合，「`招财猫王`_」的效果是在伤害计算后发动。但是，这个效果处理后不会立刻进入结束阶段，而是先进入伤害步骤结束时，战斗破坏确定的「`巨大老鼠`_」送去墓地，发动自身的诱发效果并处理完毕后，进入结束阶段。
 
 | 伤害步骤结束时的处理终了后，再次进入战斗步骤。那之后，不再进行攻击的场合从战斗步骤进入结束步骤。不能直接从伤害步骤进入结束步骤。
 | 理论上步骤的过渡在上一步骤的最后的时点应当有优先权转移，但伤害步骤向战斗步骤过渡时由于在伤害步骤结束时只能主动组成1组连锁，即不存在优先权转移。
@@ -956,7 +956,7 @@
 .. _`来自天龙座的降诞`: https://ygocdb.com/card/name/来自天龙座的降诞
 .. _`DDD 磐石王 大流士`: https://ygocdb.com/card/name/DDD%20磐石王%20大流士
 .. _`旗鼓堂堂`: https://ygocdb.com/card/name/旗鼓堂堂
-.. _`E-HERO 暗黑地魔`: https://ygocdb.com/card/name/E-HERO%20暗黑地魔
+.. _`邪心英雄 暗黑地魔`: https://ygocdb.com/card/name/邪心英雄%20暗黑地魔
 .. _`幻兽机 绳狼`: https://ygocdb.com/card/name/幻兽机%20绳狼
 .. _`彼岸的恶鬼 齐里亚托`: https://ygocdb.com/card/name/彼岸的恶鬼%20齐里亚托
 .. _`闪刀姬-零衣`: https://ygocdb.com/card/name/闪刀姬-零衣
@@ -1112,7 +1112,7 @@
 .. _`神眼幻影龙`: https://ygocdb.com/card/name/神眼幻影龙
 .. _`PSY骨架王·Λ`: https://ygocdb.com/card/name/PSY骨架王·Λ
 .. _`地缚灵的引诱`: https://ygocdb.com/card/name/地缚灵的引诱
-.. _`究极暴风弹`: https://ygocdb.com/card/name/究极暴风弹
+.. _`究极爆风弹`: https://ygocdb.com/card/name/究极爆风弹
 .. _`神圣防护罩 -反射镜力-`: https://ygocdb.com/card/name/神圣防护罩%20-反射镜力-
 .. _`死灵守卫者`: https://ygocdb.com/card/name/死灵守卫者
 .. _`寄生虫 帕拉诺伊德`: https://ygocdb.com/card/name/寄生虫%20帕拉诺伊德
@@ -1144,7 +1144,7 @@
 .. _`同路人`: https://ygocdb.com/card/name/同路人
 .. _`恐啡肽狂龙`: https://ygocdb.com/?search=恐啡肽狂龙
 .. _`幻兽机 全球剑齿虎`: https://ygocdb.com/card/name/幻兽机%20全球剑齿虎
-.. _`龙族·封印的壶`: https://ygocdb.com/card/name/龙族·封印的壶
+.. _`龙族封印之壶`: https://ygocdb.com/card/name/龙族封印之壶
 .. _`命运英雄 血魔-D`: https://ygocdb.com/card/name/命运英雄%20血魔-D
 .. _`娱乐法师 秋千魔术家`: https://ygocdb.com/card/name/娱乐法师%20秋千魔术家
 .. _`古代的机械热核龙`: https://ygocdb.com/card/name/古代的机械热核龙
@@ -1158,7 +1158,7 @@
 .. _`涅槃之超魔导剑士`: https://ygocdb.com/card/name/涅槃之超魔导剑士
 .. _`魔偶甜点·布丁公主`: https://ygocdb.com/card/name/魔偶甜点·布丁公主
 .. _`假面英雄 暗爪`: https://ygocdb.com/card/name/假面英雄%20暗爪
-.. _`Jo－P.U.N.K. 蜘蛛夫人`: https://ygocdb.com/card/name/Jo－P.U.N.K.%20蜘蛛夫人
+.. _`净琉璃朋克 蜘蛛夫人`: https://ygocdb.com/card/name/净琉璃朋克%20蜘蛛夫人
 .. _`天罚`: https://ygocdb.com/card/name/天罚
 .. _`命之纲`: https://ygocdb.com/card/name/命之纲
 .. _`战吼`: https://ygocdb.com/?search=战吼
@@ -1174,7 +1174,7 @@
 .. _`急袭猛禽-穿刺伯劳`: https://ygocdb.com/card/name/急袭猛禽-穿刺伯劳
 .. _`暗之侯爵 彼列`: https://ygocdb.com/card/name/暗之侯爵%20彼列
 .. _`脆刃之剑`: https://ygocdb.com/card/name/脆刃之剑
-.. _`地狱将军 墨菲斯特`: https://ygocdb.com/card/name/地狱将军%20墨菲斯特
+.. _`地狱将军·墨非斯特`: https://ygocdb.com/card/name/地狱将军·墨非斯特
 .. _`海龟坏兽 加美西耶勒`: https://ygocdb.com/card/name/海龟坏兽%20加美西耶勒
 .. _`罪`: https://ygocdb.com/?search=罪
 .. _`恶忍`: https://ygocdb.com/card/name/恶忍
@@ -1247,7 +1247,7 @@
 .. _`恐啡肽狂龙无伤`: https://ygocdb.com/card/name/恐啡肽狂龙无伤
 .. _`灵魂补充`: https://ygocdb.com/card/name/灵魂补充
 .. _`装弹枪管龙`: https://ygocdb.com/card/name/装弹枪管龙
-.. _`超重级炮塔列车 古斯塔夫最大炮`: https://ygocdb.com/card/name/超重级炮塔列车%20古斯塔夫最大炮
+.. _`超重型炮塔列车 古斯塔夫最大炮`: https://ygocdb.com/card/name/超重型炮塔列车%20古斯塔夫最大炮
 .. _`权威者·许珀里翁`: https://ygocdb.com/card/name/权威者·许珀里翁
 .. _`神星因子`: https://ygocdb.com/card/name/神星因子
 .. _`王宫的铁壁`: https://ygocdb.com/card/name/王宫的铁壁
@@ -1274,7 +1274,7 @@
 .. _`No.41 泥睡魔兽 睡梦貘`: https://ygocdb.com/card/name/No.41%20泥睡魔兽%20睡梦貘
 .. _`异次元的战士`: https://ygocdb.com/card/name/异次元的战士
 .. _`混沌之黑魔术师`: https://ygocdb.com/card/name/混沌之黑魔术师
-.. _`No－P.U.N.K. 鬼能乐`: https://ygocdb.com/card/name/No－P.U.N.K.%20鬼能乐
+.. _`能朋克 鬼能乐`: https://ygocdb.com/card/name/能朋克%20鬼能乐
 .. _`方程式运动员 音速赛道名手`: https://ygocdb.com/card/name/方程式运动员%20音速赛道名手
 .. _`灵灭术师 海空`: https://ygocdb.com/card/name/灵灭术师%20海空
 .. _`超融合`: https://ygocdb.com/card/name/超融合
@@ -1307,5 +1307,5 @@
 .. _`青眼混沌极龙`: https://ygocdb.com/card/name/青眼混沌极龙
 .. _`DNA改造手术`: https://ygocdb.com/card/name/DNA改造手术
 .. _`狂暴死龙`: https://ygocdb.com/card/name/狂暴死龙
-.. _`地中族的战士`: https://ygocdb.com/card/name/地中族的战士
+.. _`地中族战士`: https://ygocdb.com/card/name/地中族战士
 .. _`创圣魔导王 恩底弥翁`: https://ygocdb.com/card/name/创圣魔导王%20恩底弥翁
