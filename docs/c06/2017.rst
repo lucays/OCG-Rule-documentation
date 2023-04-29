@@ -1511,3 +1511,5 @@
 .. _`真龙皇 法·王·兽`: https://ygocdb.com/card/name/真龙皇%20法·王·兽
 .. _`幻变骚灵伪装`: https://ygocdb.com/card/name/幻变骚灵伪装
 .. _`洗脑解除`: https://ygocdb.com/card/name/洗脑解除
+.. _`太阳龙 因蒂`: https://ygocdb.com/card/name/太阳龙%20因蒂
+.. _`月影龙 基利亚`: https://ygocdb.com/card/name/月影龙%20基利亚

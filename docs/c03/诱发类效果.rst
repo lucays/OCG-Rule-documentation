@@ -929,3 +929,5 @@
 .. _`异色眼绝零龙`: https://ygocdb.com/card/name/异色眼绝零龙
 .. _`吞食百万的暴食兽`: https://ygocdb.com/card/name/吞食百万的暴食兽
 .. _`洗脑解除`: https://ygocdb.com/card/name/洗脑解除
+.. _`昙天气 糸紫`: https://ygocdb.com/card/name/昙天气%20糸紫
+.. _`黯黑之魔王 迪亚波罗斯`: https://ygocdb.com/card/name/黯黑之魔王%20迪亚波罗斯

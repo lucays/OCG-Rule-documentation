@@ -115,6 +115,12 @@ def add_cdb_url(texts: str) -> str:
 
     def need_skip(line: str) -> bool:
         if ':strike:' in line or '\ *' in line or '**' in line or line.startswith('.. _`'):
+
+            if '*' in line and '「`' in line:
+                for i in re.findall('(?<=「)[^」]*[^「]*(?=」)', line):
+                    i = i.strip('_`')
+                    if f'.. _`{i}' not in texts:
+                        return False
             return True
         return False
 
