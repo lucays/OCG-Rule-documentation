@@ -314,3 +314,4 @@
 .. _`巨星坠`: https://ygocdb.com/card/name/巨星坠
 .. _`恐啡肽狂龙逆转`: https://ygocdb.com/card/name/恐啡肽狂龙逆转
 .. _`断罪之咒眼`: https://ygocdb.com/card/name/断罪之咒眼
+.. _`倍倍伤害`: https://ygocdb.com/card/name/倍倍伤害

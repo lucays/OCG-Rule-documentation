@@ -306,3 +306,5 @@
 .. _`炎舞-「开阳」`: https://ygocdb.com/card/name/炎舞-「开阳」
 .. _`强欲而谦虚之壶`: https://ygocdb.com/card/name/强欲而谦虚之壶
 .. _`堕天使 路西法`: https://ygocdb.com/card/name/堕天使%20路西法
+.. _`DD 俄耳托斯`: https://ygocdb.com/card/name/DD%20俄耳托斯
+.. _`超重武者 法螺贝-E`: https://ygocdb.com/card/name/超重武者%20法螺贝-E
