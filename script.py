@@ -241,12 +241,19 @@ def strike_completion(texts: str) -> str:
     return '\n'.join(new_texts).strip() + '\n'
 
 
+def replace_not_card(texts: str):
+    for not_card_name in NOT_CARD_NAMES:
+        texts = texts.replace(f'「`{not_card_name}`_」', f'「{not_card_name}」')
+    return texts
+
+
 def do_one(file: Path) -> None:
     old_texts = file.read_text(encoding='utf8')
     texts = replace_en_name(old_texts)
     texts = add_cdb_url(texts)
     texts = add_jp_locale_in_db_url(texts)
     texts = strike_completion(texts)
+    texts = replace_not_card(texts)
     exract_card_urls(texts)
     if texts != old_texts:
         file.write_text(texts, encoding='utf8', newline='\n')

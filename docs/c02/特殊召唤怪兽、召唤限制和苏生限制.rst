@@ -297,3 +297,4 @@ P召唤                                 ×                ○                   
 .. _`炎狱魔人 地狱焚魔`: https://ygocdb.com/card/name/炎狱魔人%20地狱焚魔
 .. _`等级下降！？`: https://ygocdb.com/card/name/等级下降！？
 .. _`暗黑界`: https://ygocdb.com/?search=暗黑界
+.. _`霸王紫龙 异色眼猛毒龙``: https://ygocdb.com/card/name/霸王紫龙%20异色眼猛毒龙
