@@ -4259,3 +4259,8 @@
 .. _`娱乐伙伴 生命剑士`: https://ygocdb.com/card/name/娱乐伙伴%20生命剑士
 .. _`阳炎兽`: https://ygocdb.com/?search=阳炎兽
 .. _`被封印`: https://ygocdb.com/?search=被封印
+.. _`强欲而谦虚之壶`: https://ygocdb.com/card/name/强欲而谦虚之壶
+.. _`幻变骚灵·泛在羽衣精`: https://ygocdb.com/card/name/幻变骚灵·泛在羽衣精
+.. _`虹彩之魔术师`: https://ygocdb.com/card/name/虹彩之魔术师
+.. _`烙印之兽`: https://ygocdb.com/card/name/烙印之兽
+.. _`俱舍怒威族`: https://ygocdb.com/?search=俱舍怒威族

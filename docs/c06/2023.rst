@@ -1564,3 +1564,4 @@
 .. _`火山女王`: https://ygocdb.com/card/name/火山女王
 .. _`于贝尔`: https://ygocdb.com/card/name/于贝尔
 .. _`迷宫城的白银姬`: https://ygocdb.com/card/name/迷宫城的白银姬
+.. _`烙印之兽`: https://ygocdb.com/card/name/烙印之兽

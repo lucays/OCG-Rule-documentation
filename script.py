@@ -231,6 +231,7 @@ def check_card_urls(card_urls):
                 VALID_CARD_URLS_FILE.write_text('\n'.join(VALID_CARD_URLS), encoding='utf8')
         except Exception as e:
             print(card_url, e)
+    VALID_CARD_URLS_FILE.write_text('\n'.join(VALID_CARD_URLS), encoding='utf8')
 
 
 def strike_completion(texts: str) -> str:
@@ -274,9 +275,8 @@ def do_all() -> None:
             for file in sub_path.iterdir():
                 if file.name.endswith('.rst'):
                     do_one(file)
-    check_card_urls(NEW_CARD_URLS)
 
 
 if __name__ == '__main__':
     do_all()
-    check_card_urls(ALL_CARD_URLS)
+    check_card_urls(NEW_CARD_URLS)

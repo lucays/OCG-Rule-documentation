@@ -3362,7 +3362,6 @@
 .. _`哥布林拦路贼`: https://ygocdb.com/card/name/哥布林拦路贼
 .. _`古之咒文`: https://ygocdb.com/card/name/古之咒文
 .. _`DDD 磐石王 大流士`: https://ygocdb.com/card/name/DDD%20磐石王%20大流士
-.. _`娱乐伙伴 铜锣野猫`: https://ygocdb.com/card/name/娱乐伙伴 铜锣野猫
 .. _`彼岸的恶鬼 齐里亚托`: https://ygocdb.com/card/name/彼岸的恶鬼%20齐里亚托
 .. _`魔导书的神判`: https://ygocdb.com/card/name/魔导书的神判
 .. _`百景战都 金发姑娘城`: https://ygocdb.com/card/name/百景战都%20金发姑娘城

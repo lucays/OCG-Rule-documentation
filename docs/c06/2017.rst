@@ -1513,3 +1513,4 @@
 .. _`洗脑解除`: https://ygocdb.com/card/name/洗脑解除
 .. _`太阳龙 因蒂`: https://ygocdb.com/card/name/太阳龙%20因蒂
 .. _`月影龙 基利亚`: https://ygocdb.com/card/name/月影龙%20基利亚
+.. _`锁龙蛇-骷髅四面鬼`: https://ygocdb.com/card/name/锁龙蛇-骷髅四面鬼
