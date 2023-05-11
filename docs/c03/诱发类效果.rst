@@ -262,7 +262,7 @@
    | 「`宝玉兽`_」怪兽控制权被对方得到的场合，不能发动「`究极宝玉阵`_」的②效果。19/8/17
 
 -  | 里侧表示的状态从场上离开的场合，如果文本不要求表侧表示，基本上也当作满足发动条件。
-   | 不过，特别地，虽然文本没有写，「`元素英雄 绝对零度侠`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7851&request_locale=ja>`__\ 「`花札卫-五光-`_」\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12780&request_locale=ja>`__\ 的这类效果仍然只能在表侧表示的状态下从场上离开的场合发动。
+   | 不过，特别地，虽然文本没有写，「`元素英雄 绝对零度侠`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7851&request_locale=ja>`__\ 的这类效果仍然只能在表侧表示的状态下从场上离开的场合发动。
    | 例：
    | 里侧守备表示的「`入魔人偶 葛佩利亚`_」因对方从场上离开的场合，也会发动效果。
    | 融合召唤的「`暗黑界的龙神王 格拉法`_」变成里侧守备表示后，因对方从场上离开的场合，也可以发动②效果。
