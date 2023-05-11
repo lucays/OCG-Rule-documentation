@@ -12,14 +12,14 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
-
+import logging
 import datetime
 from pathlib import Path
 
 import requests
 
 # -- Project information -----------------------------------------------------
-ENV = 'local'  # change ENV = 'local' to make html/epub in local with no fonts.
+ENV = 'dev'  # change ENV = 'local' to make html/epub in local with no fonts.
 project = 'ocg-rule'
 current_time = datetime.datetime.now() + datetime.timedelta(hours=8)
 copyright = f'2018-{current_time.strftime("%Y")}, 碎冰. Last updated: {current_time.strftime("%Y-%m-%d %H:%M:%S")}'
@@ -148,17 +148,29 @@ if ENV != 'local':
     fonts_dir = current_dir / 'fonts'
     fonts_dir.mkdir(exist_ok=True)
     for font in ('NotoSansCJKsc-Bold.otf', 'NotoSansCJKsc-Light.otf'):
+        font_path = Path(fonts_dir / font)
+        if font_path.exists():
+            logging.info(f'{font_path} exist, continue.')
+            continue
         url = f'https://raw.githubusercontent.com/notofonts/noto-cjk/main/Sans/OTF/SimplifiedChinese/{font}'
         req = requests.get(url)
-        Path(fonts_dir / font).write_bytes(req.content)
+        font_path.write_bytes(req.content)
     for font in ('NotoSansMonoCJKsc-Bold.otf', 'NotoSansMonoCJKsc-Regular.otf'):
+        font_path = Path(fonts_dir / font)
+        if font_path.exists():
+            logging.info(f'{font_path} exist, continue.')
+            continue
         url = f'https://raw.githubusercontent.com/notofonts/noto-cjk/main/Sans/Mono/{font}'
         req = requests.get(url)
-        Path(fonts_dir / font).write_bytes(req.content)
+        font_path.write_bytes(req.content)
     for font in ('NotoSerifCJKsc-Bold.otf', 'NotoSerifCJKsc-Light.otf'):
+        font_path = Path(fonts_dir / font)
+        if font_path.exists():
+            logging.info(f'{font_path} exist, continue.')
+            continue
         url = f'https://raw.githubusercontent.com/notofonts/noto-cjk/main/Serif/OTF/SimplifiedChinese/{font}'
         req = requests.get(url)
-        Path(fonts_dir / font).write_bytes(req.content)
+        font_path.write_bytes(req.content)
 
     fonts_path = str(fonts_dir) + '/'
     latex_logo = '.static/pdf_cover.png'
