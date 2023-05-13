@@ -7,10 +7,12 @@ import requests
 
 current_dir = Path(__file__).parent.resolve()
 
+VALID_CARD_URLS_LST = []
 ALL_CARD_URLS, NEW_CARD_URLS, VALID_CARD_URLS = set(), set(), set()
 VALID_CARD_URLS_FILE = current_dir / 'valid_card_urls.txt'
 if VALID_CARD_URLS_FILE.exists():
-    VALID_CARD_URLS = set(VALID_CARD_URLS_FILE.read_text(encoding='utf8').split())
+    VALID_CARD_URLS_LST = VALID_CARD_URLS_FILE.read_text(encoding='utf8').split()
+    VALID_CARD_URLS = set(VALID_CARD_URLS_LST)
 
 NEED_REPLACED_NAMES = {
     '「E·HERO': '「元素英雄',
@@ -231,7 +233,11 @@ def check_card_urls(card_urls):
                 VALID_CARD_URLS_FILE.write_text('\n'.join(VALID_CARD_URLS), encoding='utf8')
         except Exception as e:
             print(card_url, e)
-    VALID_CARD_URLS_FILE.write_text('\n'.join(VALID_CARD_URLS), encoding='utf8')
+    old_valie_card_urls = set(VALID_CARD_URLS_LST)
+    for valid_card_url in VALID_CARD_URLS:
+        if valid_card_url not in old_valie_card_urls:
+            VALID_CARD_URLS_LST.append(valid_card_url)
+    VALID_CARD_URLS_FILE.write_text('\n'.join(VALID_CARD_URLS_LST), encoding='utf8')
 
 
 def strike_completion(texts: str) -> str:

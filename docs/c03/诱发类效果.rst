@@ -556,6 +556,7 @@
    | 「`科技属 超图书馆员`_」在场上存在，连锁发动2张「`紧急同调`_」，在一组连锁上进行了2次S召唤，处理后「`科技属 超图书馆员`_」的①效果会自身组成连锁发动2次。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10706&keyword=&tag=-1&request_locale=ja>`__
    | 对方回合1组连锁中特殊召唤了2次「`古遗物`_」怪兽，连锁处理后「`古遗物 商神杖`_」的效果会自身组成连锁发动2次。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13083&keyword=&tag=-1&request_locale=ja>`__
    | 1组连锁中自己场上的「`芳香`_」怪兽2次被效果破坏送去墓地，连锁处理后「`芳香花园`_」的②效果会自身组成连锁发动2次。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15544&keyword=&tag=-1&request_locale=ja>`__
+   | 在1组连锁上，多个连锁块的效果处理让怪兽被破坏的状况，连锁处理后「`No.38 希望魁龙 银河巨神`_」的③效果只发动1次。这个效果处理时，对象怪兽可以上升破坏的怪兽中任意1只怪兽的原本攻击力数值。\ `23/5/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17974&keyword=&tag=-1&request_locale=ja>`__
    | 对方在1组连锁上2次把植物族怪兽特殊召唤，连锁处理后对方「`超越死线`_」的效果会自身组成连锁发动2次，我方「`超重武者 兜-10`_」的①效果只能发动1次。
 
 .. _同一时点发动多个诱发类效果:
