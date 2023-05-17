@@ -228,8 +228,8 @@
 | 反转怪兽在一组连锁中先因「`沙漠之光`_」翻开，又被「`日全食之书`_」盖放的场合，处理后效果不能发动。\ `19/11/4 <http://yugioh-wiki.net/index.php?%C8%F3%B8%F8%B3%AB%BE%F0%CA%F3#faq>`__
 | 「`蓄积硫酸的落穴`_」把反转怪兽或持有在反转后发动效果的怪兽翻开又回到里侧守备表示的场合，连锁处理后那只怪兽不能发动反转后发动的效果。\ `20/4/1 <https://yugioh-wiki.net/index.php?%A1%D4%CE%B2%BB%C0%A4%CE%A4%BF%A4%DE%A4%C3%A4%BF%CD%EE%A4%C8%A4%B7%B7%EA%A1%D5#faq>`__
 
--  | 主卡组·额外卡组特别地，除非像「`纳迦`_」「`黑衣大贤者`_」「`元素英雄 熔岩新宇侠`_」的文本记述那样写明，否则不能发动任何效果。
-   | 发动了效果的场合，这次发动或效果可以被无效，但在主卡组·额外卡组存在的这些卡不会被破坏·除外等。
+-  | 主卡组·里侧额外卡组特别地，除非像「`纳迦`_」「`黑衣大贤者`_」「`元素英雄 熔岩新宇侠`_」的文本记述那样写明，否则不能发动任何效果。
+   | 发动了效果的场合，这次发动或效果可以被无效，但在主卡组·里侧额外卡组存在的这些卡不会被破坏·除外等。
    | 例：
    | 「`天变地异`_」的效果适用中，「`凤翼的爆风`_」把场上表侧表示的「`永远之魂`_」返回卡组最上方，「`永远之魂`_」的效果不能发动。
    | 对方发动「`強制脱出装置`_」让自己的「`元素英雄 绝对零度侠`_」\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7850&keyword=&tag=-1&request_locale=ja>`__ 「`星尘战士`_」\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14470&keyword=&tag=-1&request_locale=ja>`__ 「`超电导战机 皇神磁炮王`_」\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19431&keyword=&tag=-1&request_locale=ja>`__ 「`魔玩具·冒失鬼`_」\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20387&keyword=&tag=-1&request_locale=ja>`__ 「`超机怪虫·对观突触虫`_」\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21262&request_locale=ja>`__ 回到额外卡组的场合，「`元素英雄 绝对零度侠`_」的效果、「`星尘战士`_」的③效果、「`超电导战机 皇神磁炮王`_」的②效果、「`魔玩具·冒失鬼`_」的②效果、「`超机怪虫·对观突触虫`_」的②效果都不能发动。
