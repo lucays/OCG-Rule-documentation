@@ -58,7 +58,7 @@ NEED_REPLACED_NAMES = {
     '「Evil★Twin': '「邪恶★双子',
 }
 
-NOT_CARD_NAMES = (
+NOT_CARD_NAMES = {
     '攻击力',
     '守备力',
     '等级',
@@ -83,7 +83,7 @@ NOT_CARD_NAMES = (
     'カウンター罠を発動した時',
     'カードの発動を無効にした時',
     '二重怪兽',
-)
+}
 
 SERIES_NAMES = (
     '隆隆隆',
@@ -149,10 +149,8 @@ def add_cdb_url(texts: str) -> str:
                 if not stack:
                     name = ''.join(name_chars)
                     is_card = True
-                    for not_card_name in NOT_CARD_NAMES:
-                        if not_card_name in name:
-                            is_card = False
-                            break
+                    if name.strip('「`_」') in NOT_CARD_NAMES:
+                        is_card = False
                     for serie in (
                         '怪兽', '魔法', '陷阱', '卡',
                         '通常怪兽', '调整', '效果怪兽', '连接怪兽', 'S怪兽', 'X怪兽', 'P怪兽', '融合怪兽', '仪式怪兽',

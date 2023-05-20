@@ -1039,6 +1039,31 @@
 | 我方「`变化气圈鸟`_」的『这张卡的效果装备的怪兽在对方场上表侧守备表示特殊召唤』效果处理时，不能特殊召唤到我方「`枪口焰龙`_」的连接端指向的对方怪兽区域。
 | 我方适用了「`幻煌龙的天涡`_」效果的，有「幻煌龙」装备魔法卡3种类以上装备的「`幻煌龙 螺旋`_」被对方用「`御巫的诱轮舞`_」的②效果得到控制权后，攻击我方时，我方通过「`魔法神灯`_」的②效果或「`轮盘蜘蛛`_」的『4·』效果等，让对方那只「`幻煌龙 螺旋`_」战斗破坏了3只对方效果怪兽的场合，我方是否决斗胜利，调整中。
 
+5/18
+-------
+
+| 邮件：
+| 「`娱乐法师 秋千魔术家`_」在怪兽区域存在时，对方回合的战斗伤害计算时我方要受到1000战斗伤害的场合，是否可以发动「`护卫防壁`_」，调整中。
+| 「`光神化`_」的效果特殊召唤的「`羽翼栗子球 LV9`_」攻击力是多少，调整中。
+
+| 调整中确认：
+| 以我方不受影响的怪兽为对象发动「`魔界造车-GT19`_」②效果的场合，会S召唤；以对方的不受影响的怪兽为对象发动的场合，不会S召唤。
+| 宣言炎属性的「`DNA移植手术`_」和「`水龙`_」在场上存在时，「`邪神 恐惧之源`_」的攻击力是0。「`水龙`_」「`邪神 恐惧之源`_」的出场顺序先后不会影响这个结果。
+| 宣言炎属性的「`DNA移植手术`_」和「`水龙`_」在场上存在时，由于「`水龙`_」让自身攻击力也变成0，「`邪神 神之化身`_」的攻击力是100。「`水龙`_」「`邪神 神之化身`_」的出场顺序先后不会影响这个结果。
+
+5/20
+-------
+
+| 数据库：
+| 「`兽带斗神“王者”轩辕十四`_」的①效果把怪兽当作装备卡给自身装备后，效果再被「`技能抽取`_」等无效的场合，变成装备的怪兽卡不能继续装备，被破坏送去墓地。「`龙骑兵团-指挥官`_」的①效果、「`纳祭之魔`_」的①效果和「`机巧蹄-天迦久御雷`_」的②效果等，把装备魔法卡以外的卡，当作装备卡装备，且只能给自身装备的怪兽效果，在适用后，那只怪兽的效果再被无效的场合，也是如此，那些已经装备的装备卡破坏。\ `23/5/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16474&keyword=&tag=-1&request_locale=ja>`__
+| 从墓地发动的「伯吉斯异兽」陷阱卡的效果就结果来说也是包含把怪兽特殊召唤的效果，这些效果发动时，可以连锁发动「`珠泪哀歌族·鲁莎卡人鱼`_」的②效果。这个场合，这些效果发动无效，已经在墓地的卡不会再被破坏，『那之后，从手卡以及自己场上的表侧表示的卡之中选1张「珠泪哀歌族」卡送去墓地』效果不适用。\ `23/5/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23975&keyword=&tag=-1&request_locale=ja>`__
+| 以持有5个以上X素材的「`历练纯爱妖精·黑暗妖精`_」为对象发动「`幻变骚灵·查询昆提兰那克`_」②效果的场合，「`历练纯爱妖精·黑暗妖精`_」的①效果适用，不会无效。之后成为对象状态的「`历练纯爱妖精·黑暗妖精`_」的素材数量变成4个以下时，也不会再被无效。\ `23/5/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23974&keyword=&tag=-1&request_locale=ja>`__
+| 对方「`随风旅鸟×知更鸟`_」的①效果发动时，我方连锁发动「`电脑网冲突`_」的场合，适用②效果的「`随风旅鸟×知更鸟`_」也是被「`电脑网冲突`_」的效果除外。直到下个回合的结束时，对方不能把原本卡名是「`随风旅鸟×知更鸟`_」的效果发动。\ `23/5/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23973&keyword=&tag=-1&request_locale=ja>`__
+| 我方场上没有卡时，我方发动「`疾走决斗！加速！`_」，对方连锁发动「`灰流丽`_」的①效果，我方连锁发动「`墓穴的指名者`_」的场合，「`疾走决斗！加速！`_」的①效果处理时，我方场上存在「`墓穴的指名者`_」，不是没有卡的状态，这个效果不适用。\ `23/5/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23972&keyword=&tag=-1&request_locale=ja>`__
+| 「`G·B·猎人`_」在场上存在时，「`救世星龙`_」「`救世魔龙`_」在结束阶段也会强制发动效果，效果处理时不能回到额外卡组，对象怪兽也不会被特殊召唤。此外，「`光来的奇迹`_」的②效果适用中的状况，「`救世星龙`_」在结束阶段时的效果处理也一样。\ `23/5/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9043&keyword=&tag=-1&request_locale=ja>`__
+| 场上没有怪兽时，也可以发动「`同契魔术`_」。\ `22/7/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17833&request_locale=ja>`__
+| 「`救世星龙`_」把对方怪兽的效果无效后，那只怪兽记述了满足条件时必须发动的效果的场合，满足条件时「`救世星龙`_」也可以选择不发动那个效果。此外，要发动的场合，组成连锁的方法以原本的效果为准。\ `14/7/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8475&request_locale=ja>`__
+
 .. _`皇帝斗技场`: https://ygocdb.com/card/name/皇帝斗技场
 .. _`齿车街`: https://ygocdb.com/card/name/齿车街
 .. _`查理大帝`: https://ygocdb.com/card/name/查理大帝
@@ -1667,3 +1692,27 @@
 .. _`神风防护罩 -大气之力-`: https://ygocdb.com/card/name/神风防护罩%20-大气之力-
 .. _`撤收命令`: https://ygocdb.com/card/name/撤收命令
 .. _`枪口焰龙`: https://ygocdb.com/card/name/枪口焰龙
+.. _`羽翼栗子球 LV9`: https://ygocdb.com/card/name/羽翼栗子球%20LV9
+.. _`水龙`: https://ygocdb.com/card/name/水龙
+.. _`光神化`: https://ygocdb.com/card/name/光神化
+.. _`邪神 神之化身`: https://ygocdb.com/card/name/邪神%20神之化身
+.. _`邪神 恐惧之源`: https://ygocdb.com/card/name/邪神%20恐惧之源
+.. _`兽带斗神“王者”轩辕十四`: https://ygocdb.com/card/name/兽带斗神“王者”轩辕十四
+.. _`墓穴的指名者`: https://ygocdb.com/card/name/墓穴的指名者
+.. _`同契魔术`: https://ygocdb.com/card/name/同契魔术
+.. _`救世星龙`: https://ygocdb.com/card/name/救世星龙
+.. _`纳祭之魔`: https://ygocdb.com/card/name/纳祭之魔
+.. _`救世魔龙`: https://ygocdb.com/card/name/救世魔龙
+.. _`珠泪哀歌族`: https://ygocdb.com/?search=珠泪哀歌族
+.. _`伯吉斯异兽`: https://ygocdb.com/?search=伯吉斯异兽
+.. _`珠泪哀歌族·鲁莎卡人鱼`: https://ygocdb.com/card/name/珠泪哀歌族·鲁莎卡人鱼
+.. _`疾走决斗！加速！`: https://ygocdb.com/card/name/疾走决斗！加速！
+.. _`机巧蹄-天迦久御雷`: https://ygocdb.com/card/name/机巧蹄-天迦久御雷
+.. _`龙骑兵团-指挥官`: https://ygocdb.com/card/name/龙骑兵团-指挥官
+.. _`幻变骚灵·查询昆提兰那克`: https://ygocdb.com/card/name/幻变骚灵·查询昆提兰那克
+.. _`光来的奇迹`: https://ygocdb.com/card/name/光来的奇迹
+.. _`罪 サイバー・エンド・ドラゴン`: https://ygocdb.com/card/name/罪%20サイバー・エンド・ドラゴン
+.. _`魔界造车-GT19`: https://ygocdb.com/card/name/魔界造车-GT19
+.. _`メタバース`: https://ygocdb.com/card/name/メタバース
+.. _`DNA移植手术`: https://ygocdb.com/card/name/DNA移植手术
+.. _`メタバース」「`恐啡肽狂龙无伤`: https://ygocdb.com/card/name/メタバース」「`恐啡肽狂龙无伤
