@@ -231,9 +231,9 @@ def check_card_urls(card_urls):
                 VALID_CARD_URLS_FILE.write_text('\n'.join(VALID_CARD_URLS), encoding='utf8')
         except Exception as e:
             print(card_url, e)
-    old_valie_card_urls = set(VALID_CARD_URLS_LST)
+    old_valid_card_urls = set(VALID_CARD_URLS_LST)
     for valid_card_url in VALID_CARD_URLS:
-        if valid_card_url not in old_valie_card_urls:
+        if valid_card_url not in old_valid_card_urls:
             VALID_CARD_URLS_LST.append(valid_card_url)
     VALID_CARD_URLS_FILE.write_text('\n'.join(VALID_CARD_URLS_LST), encoding='utf8')
 
