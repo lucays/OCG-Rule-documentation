@@ -7,6 +7,8 @@ import requests
 
 current_dir = Path(__file__).parent.resolve()
 
+HTTPS_PROXY = 'http://127.0.0.1:7890'
+
 VALID_CARD_URLS_LST = []
 ALL_CARD_URLS, NEW_CARD_URLS, VALID_CARD_URLS = set(), set(), set()
 VALID_CARD_URLS_FILE = current_dir / 'valid_card_urls.txt'
@@ -221,7 +223,7 @@ def check_card_urls(card_urls):
         if card_url in VALID_CARD_URLS:
             continue
         try:
-            r = requests.get(card_url)
+            r = requests.get(card_url, proxies={'https': HTTPS_PROXY})
             if '没有找到对应卡片' in r.text:
                 print(card_url, 'ERROR: no card!')
             else:
@@ -283,4 +285,4 @@ def do_all() -> None:
 
 if __name__ == '__main__':
     do_all()
-    check_card_urls(NEW_CARD_URLS)
+    check_card_urls(ALL_CARD_URLS)
