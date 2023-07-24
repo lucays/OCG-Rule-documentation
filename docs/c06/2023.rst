@@ -1532,14 +1532,14 @@
 | 对方场上存在「`群雄割据`_」和2只「`电子龙`_」的状况，我方发动「`六花的薄冰`_」得到1只「`电子龙`_」的控制权，变成植物族后，结束阶段「`电子龙`_」回到对方场上，留在对方场上。
 
 | wiki:
-| 「`折折之纸神`_」的①效果处理时，要抽卡的数量比卡组剩余数量多的场合，决斗败北。\ `22/7/22 <https://yugioh-wiki.net/index.php?%A1%D4%C0%DE%A1%B9%A4%CE%BB%E6%BF%C0%A1%D5#top>`__
+| 「`折折之纸神`_」的①效果处理时，要抽卡的数量比卡组剩余数量多的场合，决斗败北。\ `23/7/22 <https://yugioh-wiki.net/index.php?%A1%D4%C0%DE%A1%B9%A4%CE%BB%E6%BF%C0%A1%D5#top>`__
 
 | 数据库：
-| 「`科技属 长柄刀爆破炮手`_」的②效果处理时，『无视召唤条件特殊召唤』可以无视的是怪兽卡本身记述的把自身特殊召唤的条件，比如『这张卡不能特殊召唤』等限制特殊召唤本身的文本、『这张卡只能通过○○召唤特殊召唤』等限制特殊召唤方法的文本以及特殊召唤怪兽记述的指定特殊召唤方法的文本。这之外，比如发动「`替罪羊`_」的回合，或者「`虚无之统括者`_」的①效果适用中，这样不能进行特殊召唤的状况、『自己对○○1回合只能有1次特殊召唤』限制玩家特殊召唤次数的文本、以及没有通过正规手续特殊召唤的特殊召唤怪兽，都不是怪兽的召唤条件，即使『无视召唤条件特殊召唤』也不能进行特殊召唤。\ `22/7/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23995&keyword=&tag=-1&request_locale=ja>`__
-| 「`动力工具勇气龙`_」的①效果处理时，自身没有装备卡装备的状况，选出的3张装备魔法卡是同时装备给自身，因此此时不能选记述了『有装备卡装备的自己场上的怪兽才能装备』的「`天子的指轮`_」装备。\ `22/7/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23994&keyword=&tag=-1&request_locale=ja>`__
-| 「`紧急同调`_」「`奇妙超量`_」「`来自星遗物中的觉醒`_」和「`I：P伪装舞会莱娜`_」的①效果都是包含把怪兽特殊召唤的效果，这些效果发动时，可以连锁发动「`珠泪哀歌族·鲁莎卡人鱼`_」的②效果。\ `22/7/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23933&keyword=&tag=-1&request_locale=ja>`__
-| 通过「`黑魔女 迪亚贝尔斯塔尔`_」①效果特殊召唤自身时，送去墓地的卡片是作为这个召唤手续送去墓地，不是因效果送去墓地。\ `22/7/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=19148&request_locale=ja>`__
-| 不能抽卡的状况，不能发动「`折折之纸神`_」的①效果。\ `22/7/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23993&keyword=&tag=-1&request_locale=ja>`__
+| 「`科技属 长柄刀爆破炮手`_」的②效果处理时，『无视召唤条件特殊召唤』可以无视的是怪兽卡本身记述的把自身特殊召唤的条件，比如『这张卡不能特殊召唤』等限制特殊召唤本身的文本、『这张卡只能通过○○召唤特殊召唤』等限制特殊召唤方法的文本以及特殊召唤怪兽记述的指定特殊召唤方法的文本。这之外，比如发动「`替罪羊`_」的回合，或者「`虚无之统括者`_」的①效果适用中，这样不能进行特殊召唤的状况、『自己对○○1回合只能有1次特殊召唤』限制玩家特殊召唤次数的文本、以及没有通过正规手续特殊召唤的特殊召唤怪兽，都不是怪兽的召唤条件，即使『无视召唤条件特殊召唤』也不能进行特殊召唤。\ `23/7/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23995&keyword=&tag=-1&request_locale=ja>`__
+| 「`动力工具勇气龙`_」的①效果处理时，自身没有装备卡装备的状况，选出的3张装备魔法卡是同时装备给自身，因此此时不能选记述了『有装备卡装备的自己场上的怪兽才能装备』的「`天子的指轮`_」装备。\ `23/7/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23994&keyword=&tag=-1&request_locale=ja>`__
+| 「`紧急同调`_」「`奇妙超量`_」「`来自星遗物中的觉醒`_」和「`I：P伪装舞会莱娜`_」的①效果都是包含把怪兽特殊召唤的效果，这些效果发动时，可以连锁发动「`珠泪哀歌族·鲁莎卡人鱼`_」的②效果。\ `23/7/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23933&keyword=&tag=-1&request_locale=ja>`__
+| 通过「`黑魔女 迪亚贝尔斯塔尔`_」①效果特殊召唤自身时，送去墓地的卡片是作为这个召唤手续送去墓地，不是因效果送去墓地。\ `23/7/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=19148&request_locale=ja>`__
+| 不能抽卡的状况，不能发动「`折折之纸神`_」的①效果。\ `23/7/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23993&keyword=&tag=-1&request_locale=ja>`__
 
 .. _`皇帝斗技场`: https://ygocdb.com/card/name/皇帝斗技场
 .. _`齿车街`: https://ygocdb.com/card/name/齿车街
