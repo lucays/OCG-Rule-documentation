@@ -1569,7 +1569,7 @@
 
 | 数据库：
 | 「`征服斗魂 重型电子人`_」「`征服斗魂 潘特拉`_」「`征服斗魂 普鲁同HG`_」「`征服斗魂 龙帝 瓦利乌斯`_」的①效果没有记述『给对方观看才能发动』，这些效果处理后，不能发动「`征服斗魂 蛟龙`_」。（不管文本如何记述，从手卡把卡片效果发动时，都需要给对方观看。如果文本记述了『给对方观看才能发动』，那么是cost，没有记述就不是。）\ `23/7/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23998&keyword=&tag=-1&request_locale=ja>`__
-| 「`事务回滚`_」「`黑暗中的陷阱`_」「`伪羽`_」「`废品收集者`_」「`拉比林斯迷宫连环阵`_」的效果处理时，是变成『陷阱卡发动时的效果相同』，变得和「`拉比林斯迷宫欢迎欢迎大欢迎`_」相同的场合，必须变成和「`拉比林斯迷宫欢迎欢迎大欢迎`_」的①效果这样在卡发动的处理时适用的效果相同，不能是②效果这样在卡发动的处理时适用的效果。\ `23/7/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23997&keyword=&tag=-1&request_locale=ja>`__
+| 「`事务回滚`_」「`黑暗中的陷阱`_」「`伪羽`_」「`废品收集者`_」「`拉比林斯迷宫连环阵`_」的效果处理时，是变成『陷阱卡发动时的效果相同』，变得和「`拉比林斯迷宫欢迎欢迎大欢迎`_」相同的场合，必须变成和「`拉比林斯迷宫欢迎欢迎大欢迎`_」的①效果这样在卡发动的处理时适用的效果相同，不能是②效果这样不在卡发动的处理时适用的效果。\ `23/7/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23997&keyword=&tag=-1&request_locale=ja>`__
 | 「`死之卡组破坏病毒`_」「`连锁破坏`_」和「`奈芙提斯之护卫者`_」的②效果这样，把卡组的卡破坏的效果发动时，不是把卡组的卡送去墓地的效果，不能连锁发动「`灰流丽`_」的①效果，场上存在「`次元要塞兵器`_」时也能发动并处理。\ `23/7/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23996&keyword=&tag=-1&request_locale=ja>`__
 | 「`S：P小夜`_」的②效果让双方怪兽各1只直到结束阶段除外后，结束阶段时，我方场上存在「`皇帝斗技场`_」和1只怪兽的状况，如果对方场上没有怪兽，这2只怪兽都会同时回到场上；如果对方场上存在怪兽，只让我方怪兽回到场上。一时除外的多只怪兽回到场上时，先确认每只是否可以回到场上，让其中可以回到场上的怪兽都回到场上，不能回到场上的怪兽放置到墓地。\ `23/7/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24001&keyword=&tag=-1&request_locale=ja>`__
 | 先攻的第1回合，「`白银之城的执事 阿里亚斯`_」的①效果盖放的，记述『这张卡发动的回合，自己不能进行战斗阶段』的「`沙尘之大风暴`_」「`古遗物的神智`_」「`休战增援`_」也能在这个回合发动。\ `23/7/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23999&keyword=&tag=-1&request_locale=ja>`__
@@ -2509,7 +2509,6 @@
 .. _`科技属 长柄刀爆破炮手`: https://ygocdb.com/card/name/科技属%20长柄刀爆破炮手
 .. _`替罪羊`: https://ygocdb.com/card/name/替罪羊
 .. _`天子的指轮`: https://ygocdb.com/card/name/天子的指轮
-.. _`科技属`: https://ygocdb.com/card/name/科技属
 .. _`手铐龙`: https://ygocdb.com/card/name/手铐龙
 .. _`次元要塞兵器`: https://ygocdb.com/card/name/次元要塞兵器
 .. _`征服斗魂 蛟龙`: https://ygocdb.com/card/name/征服斗魂%20蛟龙
