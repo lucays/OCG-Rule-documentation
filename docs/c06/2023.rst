@@ -1581,11 +1581,11 @@
 -------
 
 | 邮件：
-| 以「`闭锁世界的冥神`_」为对象发动「`暗黑武装龙`_」的①效果，连锁发动「`星遗物的交心`_」把这个效果变成『选对方场上1只表侧表示怪兽回到持有者手卡』，并仍然选这只「`闭锁世界的冥神`_」的场合，这只「`闭锁世界的冥神`_」不会回到额外卡组，留在场上。
-| 以也当作陷阱卡的陷阱怪兽为对象发动「`凤翼的爆风`_」，连锁发动「`古遗物-恒常剑`_」的①效果把这个效果变成『选对方场上1张魔法·陷阱卡破坏』，并仍然选这只陷阱怪兽破坏的场合，处理后可以发动「`黑洞龙`_」的①效果。
 
 | 调整中确认：
 | 对方的「`真实之眼`_」适用中，我方也可以发动「`森罗的施舍`_」。
+| 以「`闭锁世界的冥神`_」为对象发动「`暗黑武装龙`_」的①效果，连锁发动「`星遗物的交心`_」把这个效果变成『选对方场上1只表侧表示怪兽回到持有者手卡』，并仍然选这只「`闭锁世界的冥神`_」的场合，这只「`闭锁世界的冥神`_」不会回到额外卡组，留在场上。
+| 以也当作陷阱卡的陷阱怪兽为对象发动「`凤翼的爆风`_」，连锁发动「`古遗物-恒常剑`_」的①效果把这个效果变成『选对方场上1张魔法·陷阱卡破坏』，并仍然选这只陷阱怪兽破坏的场合，处理后可以发动「`黑洞龙`_」的①效果。
 
 | wiki:
 | 我方场上存在「`第二次机会`_」，发动「`折折之纸神`_」的①效果，处理时第3次是里，适用「`第二次机会`_」的①效果，重新投掷结果第2次是里的场合，之后发动「`折折之纸神`_」的②效果，处理时攻击力变成2倍。\ `23/7/30 <https://yugioh-wiki.net/index.php?%A1%D4%C0%DE%A1%B9%A4%CE%BB%E6%BF%C0%A1%D5#faq2>`__ [#]_
@@ -1593,7 +1593,7 @@
 .. [#] 「`第二次机会`_」的\ `wiki <https://yugioh-wiki.net/index.php?%A1%D4%A5%BB%A5%AB%A5%F3%A5%C9%A1%A6%A5%C1%A5%E3%A5%F3%A5%B9%A1%D5#top>`__\ 记录着，「`折折之纸神`_」的②效果处理只看重新投掷时表的数量，而如果之前投掷次数和重新投掷硬币次数合计是5次，如本faq，那么会满足「`娱乐决斗`_」的『●掷骰子的次数以及投掷硬币的次数变成合计5次』条件。
 
 | 数据库：
-| 「`科技属 强劲突击兵`_」的①效果中，「`科技属`_」魔法·陷阱卡是日文卡名中包含「`科技属`_」，且注音为「`テックジーナス`_」的魔法·陷阱卡。目前可以加入手卡的是「`科技属-限制器解放`_」「`科技属-全部通过`_」「`科技属-封锁`_」。而「`科技属X300`_」「`科技属X1-HL`_」「`科技属-SX1`_」「`科技属X3-DX2`_」「`科技属1-EM1`_」都不是「`科技属`_」魔法·陷阱卡。\ `23/7/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24000&keyword=&tag=-1&request_locale=ja>`__
+| 「`科技属 强劲突击兵`_」的①效果中，「`科技属`_」魔法·陷阱卡是日文卡名中包含「`科技属`_」，且注音为「`テックジーナス`_」的魔法·陷阱卡。目前可以加入手卡的是「`科技属-限制器解放`_」「`科技属-全部通过`_」「`科技属-封锁`_」。而「`TGX300`_」「`TGX1-HL`_」「`TG-SX1`_」「`TGX3-DX2`_」「`TG1-EM1`_」都不是「`科技属`_」魔法·陷阱卡。\ `23/7/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24000&keyword=&tag=-1&request_locale=ja>`__
 
 .. _`皇帝斗技场`: https://ygocdb.com/card/name/皇帝斗技场
 .. _`齿车街`: https://ygocdb.com/card/name/齿车街
@@ -2512,35 +2512,30 @@
 .. _`手铐龙`: https://ygocdb.com/card/name/手铐龙
 .. _`次元要塞兵器`: https://ygocdb.com/card/name/次元要塞兵器
 .. _`征服斗魂 蛟龙`: https://ygocdb.com/card/name/征服斗魂%20蛟龙
-.. _`科技属X300`: https://ygocdb.com/card/name/科技属X300
 .. _`古遗物-恒常剑`: https://ygocdb.com/card/name/古遗物-恒常剑
 .. _`娱乐决斗`: https://ygocdb.com/card/name/娱乐决斗
 .. _`休战增援`: https://ygocdb.com/card/name/休战增援
 .. _`森罗的施舍`: https://ygocdb.com/card/name/森罗的施舍
 .. _`古遗物的神智`: https://ygocdb.com/card/name/古遗物的神智
 .. _`科技属`: https://ygocdb.com/?search=科技属
-.. _`科技属X1-HL`: https://ygocdb.com/card/name/科技属X1-HL
 .. _`征服斗魂 普鲁同HG`: https://ygocdb.com/card/name/征服斗魂%20普鲁同HG
 .. _`卡片扫描`: https://ygocdb.com/card/name/卡片扫描
 .. _`连锁破坏`: https://ygocdb.com/card/name/连锁破坏
 .. _`真实之眼`: https://ygocdb.com/card/name/真实之眼
 .. _`刻印之调停者`: https://ygocdb.com/card/name/刻印之调停者
 .. _`荷鲁斯`: https://ygocdb.com/?search=荷鲁斯
-.. _`科技属-SX1`: https://ygocdb.com/card/name/科技属-SX1
 .. _`第二次机会`: https://ygocdb.com/card/name/第二次机会
 .. _`征服斗魂 重型电子人`: https://ygocdb.com/card/name/征服斗魂%20重型电子人
 .. _`凤翼的爆风`: https://ygocdb.com/card/name/凤翼的爆风
 .. _`科技属-限制器解放`: https://ygocdb.com/card/name/科技属-限制器解放
 .. _`暗黑武装龙`: https://ygocdb.com/card/name/暗黑武装龙
 .. _`王之棺`: https://ygocdb.com/card/name/王之棺
-.. _`科技属X3-DX2`: https://ygocdb.com/card/name/科技属X3-DX2
-.. _`テックジーナス`: https://ygocdb.com/card/name/テックジーナス
+.. _`テックジーナス`: https://ygocdb.com/?search=テックジーナス
 .. _`征服斗魂 潘特拉`: https://ygocdb.com/card/name/征服斗魂%20潘特拉
 .. _`征服斗魂 龙帝 瓦利乌斯`: https://ygocdb.com/card/name/征服斗魂%20龙帝%20瓦利乌斯
 .. _`梦见之妮穆蕾莉娅`: https://ygocdb.com/card/name/梦见之妮穆蕾莉娅
 .. _`科技属 强劲突击兵`: https://ygocdb.com/card/name/科技属%20强劲突击兵
 .. _`妮穆蕾莉娅的回笼觉`: https://ygocdb.com/card/name/妮穆蕾莉娅的回笼觉
-.. _`科技属1-EM1`: https://ygocdb.com/card/name/科技属1-EM1
 .. _`白银之城的执事 阿里亚斯`: https://ygocdb.com/card/name/白银之城的执事%20阿里亚斯
 .. _`科技属-封锁`: https://ygocdb.com/card/name/科技属-封锁
 .. _`死之卡组破坏病毒`: https://ygocdb.com/card/name/死之卡组破坏病毒
@@ -2550,3 +2545,8 @@
 .. _`梦幻崩界 伊娃力丝`: https://ygocdb.com/card/name/梦幻崩界%20伊娃力丝
 .. _`深海王 恶魔鲨`: https://ygocdb.com/card/name/深海王%20恶魔鲨
 .. _`奈芙提斯之护卫者`: https://ygocdb.com/card/name/奈芙提斯之护卫者
+.. _`TGX300`: https://ygocdb.com/card/name/TGX300
+.. _`TG-SX1`: https://ygocdb.com/card/name/TG-SX1
+.. _`TG1-EM1`: https://ygocdb.com/card/name/TG1-EM1
+.. _`TGX1-HL`: https://ygocdb.com/card/name/TGX1-HL
+.. _`TGX3-DX2`: https://ygocdb.com/card/name/TGX3-DX2

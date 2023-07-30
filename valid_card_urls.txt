@@ -5179,3 +5179,7 @@ https://ygocdb.com/card/name/征服斗魂%20潘特拉
 https://ygocdb.com/card/name/科技属-全部通过
 https://ygocdb.com/card/name/征服斗魂%20重型电子人
 https://ygocdb.com/card/name/科技属-封锁
+https://ygocdb.com/card/name/TG1-EM1
+https://ygocdb.com/card/name/TGX1-HL
+https://ygocdb.com/card/name/TG-SX1
+https://ygocdb.com/card/name/TGX300
