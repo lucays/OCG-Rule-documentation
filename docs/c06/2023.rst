@@ -1595,6 +1595,25 @@
 | 数据库：
 | 「`科技属 强劲突击兵`_」的①效果中，「`科技属`_」魔法·陷阱卡是日文卡名中包含「`科技属`_」，且注音为「`テックジーナス`_」的魔法·陷阱卡。目前可以加入手卡的是「`科技属-限制器解放`_」「`科技属-全部通过`_」「`科技属-封锁`_」。而「`TGX300`_」「`TGX1-HL`_」「`TG-SX1`_」「`TGX3-DX2`_」「`TG1-EM1`_」都不是「`科技属`_」魔法·陷阱卡。\ `23/7/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24000&keyword=&tag=-1&request_locale=ja>`__
 
+23/08
+========
+
+8/3
+------
+
+| 邮件：
+| 可以取「`极饿复仇死者`_」为对象发动「`紧急仪式术`_」。
+| 「`次世代中子人`_」在召唤的回合的结束阶段发动了①效果后，因卡片效果变成里侧表示再在这个结束阶段内反转的场合，可以再次发动①效果。
+| 「`次世代中子人`_」在召唤的回合的结束阶段发动了①效果后，因卡片效果被一时除外又在这个结束阶段内回到场上的场合，不能再次发动①效果。
+| 「`闪刀姬-雫空`_」在特殊召唤的回合的结束阶段发动了①效果后，因卡片效果被一时除外又在这个结束阶段内回到场上的场合，不能再次发动①效果。
+
+| 裁定变更：
+| 「`恶魔之斧`_」或「`春化精的花盛`_」的①效果适用，攻击力上升1000的「`神影依·舍金纳迦`_」适用「`限制解除`_」的①效果，攻击力变成2倍也就是7200后，再适用「`收缩`_」①效果的场合，攻击力变成2600/2+1000=2300。
+| 「`炎舞-「天玑」`_」在场上存在时，持有「`十二兽 蛇笞`_」「`十二兽 马剑`_」作为X素材的「`十二兽 龙枪`_」，适用「`暗叛逆超量龙`_」的①效果，攻击力变成一半也就是1450后，再适用「`迷途风`_」①效果的场合，攻击力变成0/2+100=100。
+
+| 数据库：
+| 「`No.21 冰结之正义女郎`_」不能把只有1个X素材的「`超量铠甲·要塞式`_」的X素材取除，在其上重叠来X召唤。\ `23/8/3 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24002&keyword=&tag=-1&request_locale=ja>`__
+
 .. _`皇帝斗技场`: https://ygocdb.com/card/name/皇帝斗技场
 .. _`齿车街`: https://ygocdb.com/card/name/齿车街
 .. _`查理大帝`: https://ygocdb.com/card/name/查理大帝
@@ -2550,3 +2569,19 @@
 .. _`TG1-EM1`: https://ygocdb.com/card/name/TG1-EM1
 .. _`TGX1-HL`: https://ygocdb.com/card/name/TGX1-HL
 .. _`TGX3-DX2`: https://ygocdb.com/card/name/TGX3-DX2
+.. _`次世代中子人`: https://ygocdb.com/card/name/次世代中子人
+.. _`暗叛逆超量龙`: https://ygocdb.com/card/name/暗叛逆超量龙
+.. _`No.21 冰结之正义女郎`: https://ygocdb.com/card/name/No.21%20冰结之正义女郎
+.. _`极饿复仇死者`: https://ygocdb.com/card/name/极饿复仇死者
+.. _`春化精的花盛`: https://ygocdb.com/card/name/春化精的花盛
+.. _`限制解除`: https://ygocdb.com/card/name/限制解除
+.. _`神影依·舍金纳迦`: https://ygocdb.com/card/name/神影依·舍金纳迦
+.. _`迷途风`: https://ygocdb.com/card/name/迷途风
+.. _`炎舞-「天玑」`: https://ygocdb.com/card/name/炎舞-「天玑」
+.. _`十二兽 龙枪`: https://ygocdb.com/card/name/十二兽%20龙枪
+.. _`十二兽 马剑`: https://ygocdb.com/card/name/十二兽%20马剑
+.. _`收缩`: https://ygocdb.com/card/name/收缩
+.. _`超量铠甲·要塞式`: https://ygocdb.com/card/name/超量铠甲·要塞式
+.. _`十二兽 蛇笞`: https://ygocdb.com/card/name/十二兽%20蛇笞
+.. _`闪刀姬-雫空`: https://ygocdb.com/card/name/闪刀姬-雫空
+.. _`恶魔之斧`: https://ygocdb.com/card/name/恶魔之斧

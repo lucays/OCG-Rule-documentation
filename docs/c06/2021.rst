@@ -2709,7 +2709,7 @@
 | 「`龙之支配者-龙之独裁者-`_」的③效果适用时，仍然是对方决定要不要用怪兽攻击，要用哪个怪兽攻击，决定攻击怪兽后，我方来选择攻击对象。另外，发生战斗步骤的卷回时，在对方决定仍要攻击后，也由我方来选择攻击对象。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23398&keyword=&tag=-1&request_locale=ja>`__
 | 「`冰水帝 钠铬辉石精`_」的②效果适用时，二重怪兽在再1次召唤的回合可以发动效果（是这个回合召唤的怪兽）。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23397&keyword=&tag=-1&request_locale=ja>`__
 | 「`磁石战士ε`_」的①效果处理时，由于自身变成送去墓地的怪兽同名卡，之后特殊召唤怪兽时不能选那只作为cost送去墓地的怪兽。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23396&keyword=&tag=-1&request_locale=ja>`__
-| 「`暗叛逆XYZ龙`_」的①效果让「`OZ之主`_」的攻击力变成一半（即2100），自身攻击力上升至4600后，发动「`机怪兽 达莱特龙`_」①效果的场合，场上「`暗叛逆XYZ龙`_」「`OZ之主`_」的攻击力和原本攻击力各相差2100，结果「`机怪兽 达莱特龙`_」的原本攻击力变成4200。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23395&keyword=&tag=-1&request_locale=ja>`__
+| 「`暗叛逆超量龙`_」的①效果让「`OZ之主`_」的攻击力变成一半（即2100），自身攻击力上升至4600后，发动「`机怪兽 达莱特龙`_」①效果的场合，场上「`暗叛逆超量龙`_」「`OZ之主`_」的攻击力和原本攻击力各相差2100，结果「`机怪兽 达莱特龙`_」的原本攻击力变成4200。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23395&keyword=&tag=-1&request_locale=ja>`__
 | 「`青眼暴君龙`_」发动③效果后，再次攻击被战斗破坏送去墓地的场合，伤害步骤结束时也不能再次发动③效果。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23394&keyword=&tag=-1&request_locale=ja>`__
 | 「`恐啡肽狂龙·钉状龙女王`_」的②效果处理时，变成和「`恐啡肽狂龙残虐`_」发动时的效果相同的场合，由于本身是怪兽效果，可以正常破坏不受陷阱效果影响的怪兽。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23393&keyword=&tag=-1&request_locale=ja>`__
 | 「`恐啡肽狂龙·乔斯坦伯格隐形翼龙`_」的①效果适用时，陷阱效果发动仍然需要支付基本分。「`长眠不醒的噩梦`_」这类永续陷阱即使是在卡的发动同时使用效果也要支付基本分。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23392&keyword=&tag=-1&request_locale=ja>`__
@@ -4977,7 +4977,7 @@
 .. _`光之圣剑 丹内尔`: https://ygocdb.com/card/name/光之圣剑%20丹内尔
 .. _`炼装勇士·银鸟`: https://ygocdb.com/card/name/炼装勇士·银鸟
 .. _`森罗的泷滑`: https://ygocdb.com/card/name/森罗的泷滑
-.. _`暗叛逆XYZ龙`: https://ygocdb.com/card/name/暗叛逆XYZ龙
+.. _`暗叛逆超量龙`: https://ygocdb.com/card/name/暗叛逆超量龙
 .. _`死魂融合`: https://ygocdb.com/card/name/死魂融合
 .. _`异热同心力场`: https://ygocdb.com/card/name/异热同心力场
 .. _`崇光之宣告者`: https://ygocdb.com/card/name/崇光之宣告者

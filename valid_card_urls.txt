@@ -2533,7 +2533,7 @@ https://ygocdb.com/card/name/地雷石人
 https://ygocdb.com/card/name/炎王兽%20甘尼许
 https://ygocdb.com/card/name/水晶龙
 https://ygocdb.com/card/name/破坏剑士
-https://ygocdb.com/card/name/暗叛逆XYZ龙
+https://ygocdb.com/card/name/暗叛逆超量龙
 https://ygocdb.com/card/name/宝石骑士·青玉
 https://ygocdb.com/card/name/神兽王%20巴巴罗斯
 https://ygocdb.com/card/name/与宇宙的交信
@@ -5183,3 +5183,8 @@ https://ygocdb.com/card/name/TG1-EM1
 https://ygocdb.com/card/name/TGX1-HL
 https://ygocdb.com/card/name/TG-SX1
 https://ygocdb.com/card/name/TGX300
+https://ygocdb.com/card/name/次世代中子人
+https://ygocdb.com/card/name/极饿复仇死者
+https://ygocdb.com/card/name/No.21%20冰结之正义女郎
+https://ygocdb.com/card/name/超量铠甲·要塞式
+https://ygocdb.com/card/name/春化精的花盛
