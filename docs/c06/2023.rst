@@ -647,7 +647,7 @@
 | 数据库：
 | 「`赤舍利军贯`_」在作为X素材时，①效果不适用，不是「`舍利军贯`_」，这个场合不能发动手卡「`银鱼军贯`_」的①效果。\ `23/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23958&keyword=&tag=-1&request_locale=ja>`__
 | 自己场上没有怪兽，发动「`进入境智网！`_」，从手卡把怪兽特殊召唤后，可以只用那只怪兽连接召唤，没有特别召唤条件的连接1的怪兽。\ `23/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23576&keyword=&tag=-1&request_locale=ja>`__
-| 自己场上没有怪兽，发动「`进入境智网！`_」，从手卡把「`恐吓爪牙族`_」怪兽或者「`维萨斯-斯塔弗罗斯特`_」特殊召唤后，不能只用这只怪兽为素材连接召唤「`恐吓爪牙族·莱特哈特`_」。\ `23/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23957&keyword=&tag=-1&request_locale=ja>`__
+| 自己场上没有怪兽，不能发动「`进入境智网！`_」，从手卡把「`恐吓爪牙族`_」怪兽或者「`维萨斯-斯塔弗罗斯特`_」特殊召唤，只用这只怪兽为素材连接召唤「`恐吓爪牙族·莱特哈特`_」。\ `23/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23957&keyword=&tag=-1&request_locale=ja>`__
 
 3/25
 -------
