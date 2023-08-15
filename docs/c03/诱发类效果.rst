@@ -545,7 +545,7 @@
    | 1组连锁中「`黑色花园`_」的①效果以外的方法让怪兽召唤·特殊召唤多次的场合，连锁处理后「`黑色花园`_」的①效果会组成连锁发动多次。
    | 1组连锁中解放了2次怪兽，连锁处理后「`六花圣 泪滴花束雪花莲`_」的②效果会组成连锁发动2次。\ `20/3/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22979&keyword=&tag=-1&request_locale=ja>`__
    | 1组连锁中受到2次战斗伤害以外的伤害，连锁处理后「`噩梦之拷问室`_」的效果会组成连锁发动2次。\ `17/7/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20805&request_locale=ja&keyword=&tag=-1>`__
-   | 1组连锁中受到2次效果伤害，连锁处理后「`暗黑方界邪神 深红之挪婆·三神一体`_」的④效果会组成连锁发动2次，玩家自己选择分别是对应哪次效果伤害发动。\ `17/7/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20805&request_locale=ja&keyword=&tag=-1>`__
+   | 1组连锁中受到2次效果伤害，连锁处理后「`暗黑方界邪神 深红之挪婆·三神一体`_」的④效果会组成连锁发动2次，玩家自己选择分别是对应哪次效果伤害发动。\ `17/7/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6234&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 记述『○○的场合』诱发的效果，目前的处理多为只能发动1次，部分细节上的处理略有不同。
    | 例：
