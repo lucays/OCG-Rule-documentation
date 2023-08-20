@@ -207,6 +207,7 @@
 | 「`弹出式翻页`_」等效果把魔法·陷阱卡发动后，『魔法·陷阱卡发动的场合』效果在连锁处理完毕时基本上不会发动·适用。
 | 不过，「`自然蔷薇鞭`_」或「`大将军 紫炎`_」等计数效果照常计算。
 | 例：
+| 「`诱饵人偶`_」把陷阱卡强制发动时，也计入卡名1回合1次。我方或者对方用「`诱饵人偶`_」把我方的「`礼物卡`_」发动后，我方不能在这个回合再发动「`礼物卡`_」。
 | 对方「`自然蔷薇鞭`_」或者「`大将军 紫炎`_」的效果适用中，我方通过「`尸界的班西`_」的②效果把「`不死世界`_」发动的场合，这个回合我方不能再发动其他魔法·陷阱卡。
 | 「`吸血鬼移地`_」等效果把场地魔法卡发动、「`娱乐伙伴 天空魔术家`_」的②效果和「`真龙战士 点火烈·炽热`_」的①效果把永续魔法卡发动的场合，「`凤凰剑圣 基亚·弗里德`_」「`暗黑黑炎龙`_」等效果不能发动。「`淘气仙星·坎迪娜`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20802&keyword=&tag=-1&request_locale=ja>`__ 「`王立魔法图书馆`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20506&keyword=&tag=-1&request_locale=ja>`__ 「`魔术师的右手`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11939&keyword=&tag=-1&request_locale=ja>`__ 等效果不适用。
 | 「`吸血鬼移地`_」等效果把场地魔法卡发动、「`真龙战士 点火烈·炽热`_」的①效果把永续魔法卡发动的场合，「`娱乐伙伴 天空魔术家`_」的①效果不能发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20507&keyword=&tag=-1&request_locale=ja>`__\
@@ -430,3 +431,4 @@
 .. _`阳炎`: https://ygocdb.com/?search=阳炎
 .. _`源数之壁`: https://ygocdb.com/card/name/源数之壁
 .. _`源数网络`: https://ygocdb.com/card/name/源数网络
+.. _`礼物卡`: https://ygocdb.com/card/name/礼物卡
