@@ -325,8 +325,8 @@
 -  | 自己通过「`强制转移`_」\ `14/3/21 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11474&keyword=&tag=-1&request_locale=ja>`__ 「`御用王`_」\ `16/1/6 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17476&keyword=&tag=-1>`__ 等永久转移控制权的效果夺取了对方怪兽的控制权后，变成里侧或被一时除外的场合，都仍回到我方场上。不会回到对方场上。
    | 例：
    | 「`玄化黑炎龙`_」的效果夺取了控制权的怪兽变成里侧表示的场合，不会归还控制权，那个回合翻开的场合可以攻击。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14244&request_locale=ja>`__
-   | 「`装弹枪管龙`_」夺取控制权的怪兽变成里侧的场合，不会再因这个效果送去墓地，不会归还控制权。\ `17/7/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11263&keyword=&tag=-1&request_locale=ja>`__
-   | 「`装弹枪管龙`_」夺取控制权的怪兽被一时除外的场合，回到「`装弹枪管龙`_」持有者的场上后，处理完毕，不会归还控制权，不会再被送去墓地。\ `23/8/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13264&keyword=&tag=-1&request_locale=ja>`__
+   | 通过「`装弹枪管龙`_」的③效果得到控制权的怪兽变成里侧的场合，不会再因这个效果送去墓地，不会归还控制权。\ `17/7/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11263&keyword=&tag=-1&request_locale=ja>`__
+   | 通过「`装弹枪管龙`_」的③效果得到控制权的怪兽被一时除外的场合，回到「`装弹枪管龙`_」持有者的场上后，处理完毕，不会归还控制权，不会再被送去墓地。\ `23/8/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13264&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 自己通过「`灰篮鹰`_」\ `15/7/17 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16310&keyword=&tag=-1>`__ 「`漫画之手`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15874&request_locale=ja>`__ 「`光灵使 莱娜`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8467&request_locale=ja>`__ 「`洗脑光线`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12353&request_locale=ja>`__ 「`大逮捕`_」\ `19/1/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11049&keyword=&tag=-1&request_locale=ja>`__ 等\ :ref:`持续取对象`\ 的效果等夺取了对方怪兽的控制权后，变成里侧的场合，就这样一直留在自己场上。
    | 在被一时除外后，那个怪兽返回自己场上的时点立即再回到对方场上。
@@ -339,9 +339,12 @@
    | 上级召唤的「`太阳神之翼神龙-球体形`_」变成里侧表示后，下个回合的结束阶段也要归还控制权。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16155&keyword=&tag=-1&request_locale=ja>`__
    | 自己用「`敌人控制器`_」夺取了对方「`我我我魔术师`_」或「`彼岸`_」怪兽的控制权，这个怪兽再被「`亚空间物质传送装置`_」或「`虫洞`_」除外，之后自己再用「`活死人的呼声`_」特殊召唤了另1个「`我我我魔术师`_」的场合，预定回到场上的时点那个「`我我我魔术师`_」或「`彼岸`_」怪兽不会回到场上，直接送去墓地。
 
-.. attention:: 
-
-   | 特别地，召唤的「`太阳神之翼神龙-球体形`_」被一时除外后回场，不会归还控制权。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16154&request_locale=ja>`__
+-  | 「`太阳神之翼神龙-球体形`_」这样，记述的不是『直到○○』，而是在之后某个步骤·阶段延时处理转移控制权的文本。变成里侧表示后如果信息没有丢失，正常地在那个步骤·阶段延时处理转移控制权。
+   | 被一时除外的场合，如果信息没有丢失，那只怪兽回到场上后不会再转移控制权，即使还没有进入那个步骤·阶段。
+   | 例：
+   | 「`贤者的圣杯`_」的效果特殊召唤的怪兽变成里侧表示或者被一时除外后，不再是『这个效果特殊召唤的怪兽』，结束阶段时的处理都不适用（也可以解放或者作为S素材使用）。
+   | 通过自身②效果特殊召唤在对方场上的「`闪刀姬-卡米丽娅`_」，被「`银河眼光子龙`_」的②效果或者「`亚空间物质传送装置`_」「`虫洞`_」等效果一时除外，回到对方场上后，不会再归还控制权。
+   | 召唤的「`太阳神之翼神龙-球体形`_」被一时除外，回到场上后不会归还控制权。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16154&request_locale=ja>`__
 
 | 无论是暂时还是永久转移控制权的效果，怪兽被一时除外的场合，除外后是原本持有者的怪兽。原本持有者可以发动「`暗次元之解放`_」等效果将其特殊召唤。特殊召唤的场合一时除外的效果不再存在。
 | 例：
@@ -525,3 +528,5 @@
 .. _`武装龙 LV5`: https://ygocdb.com/card/name/武装龙%20LV5
 .. _`扰乱三人组`: https://ygocdb.com/card/name/扰乱三人组
 .. _`宇宙耀变龙`: https://ygocdb.com/card/name/宇宙耀变龙
+.. _`贤者的圣杯`: https://ygocdb.com/card/name/贤者的圣杯
+.. _`闪刀姬-卡米丽娅`: https://ygocdb.com/card/name/闪刀姬-卡米丽娅
