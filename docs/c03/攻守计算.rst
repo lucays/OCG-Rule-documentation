@@ -96,6 +96,7 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
    | 例：
    | 「`流星登龙`_」的①效果这样，只会改变自身等级的效果适用后，被「`技能抽取`_」等效果无效的场合，等级会复原为等级7。『这个回合，自己不能把送去墓地的那只怪兽以及那些同名怪兽的怪兽效果发动』仍然适用。「`左起子`_」「`加速同调士`_」的①效果等处理也一样。\ `23/7/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21800&keyword=&tag=-1&request_locale=ja>`__
    | 「`我我我妹妹`_」「`星圣·箕宿三`_」「`斩机 乘武`_」等，持有可以改变其他卡等级的怪兽效果适用后（即使只改变自己等级），自身或者被改变等级的怪兽的效果被「`无限泡影`_」等效果无效的场合，已经改变的等级不会复原。\ `23/7/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12942&keyword=&tag=-1&request_locale=ja>`__
+   | P区域的「`DDD 死讴王 恶德镇魂神`_」发动①效果把自身特殊召唤，等级变更的状况，是魔法卡的效果导致的等级变更，再发动「`技能抽取`_」的场合，这只「`DDD 死讴王 恶德镇魂神`_」的等级不会复原。\ `22/12/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22932&keyword=&tag=-1&request_locale=ja>`__
 
 | 得到了上升攻击力的效果后，又失去效果时，和被无效的情况处理一样。
 | 例：
@@ -697,3 +698,4 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
 .. _`我我我妹妹`: https://ygocdb.com/card/name/我我我妹妹
 .. _`纳祭之魔`: https://ygocdb.com/card/name/纳祭之魔
 .. _`铠装超量`: https://ygocdb.com/card/name/铠装超量
+.. _`DDD 死讴王 恶德镇魂神`: https://ygocdb.com/card/name/DDD%20死讴王%20恶德镇魂神
