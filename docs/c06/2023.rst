@@ -1770,6 +1770,32 @@
 | 数据库：
 | 「`拘束足`_」的②效果发动时，对方连锁把盖放的那张魔法·陷阱卡发动的场合，这个效果不适用。\ `23/8/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17860&keyword=&tag=-1&request_locale=ja>`__
 
+8/28
+-------
+
+| wiki:
+| 「`火焰飞镖`_」的效果处理时，「`反转骰子`_」的①效果适用，重掷骰子的场合，是否可以发动「`娱乐决斗`_」的①效果，调整中。\ `23/8/28 <https://yugioh-wiki.net/index.php?%A1%D4%A5%A8%A5%F3%A5%BF%A5%E1%A5%C7%A5%E5%A5%A8%A5%EB%A1%D5#faq>`__
+
+8/30
+-------
+
+| 邮件：
+| 「`混沌幻影`_」得到「`PSY骨架王·Ω`_」的效果，发动得到的效果把自身除外后，不会再回到场上（要回到场上的时点只有对方的卡正常回去）。
+| 「`混沌幻影`_」得到「`S：P小夜`_」的效果，以自身和另1只怪兽为对象发动得到的效果把自身除外后，结束阶段2只怪兽都会再回到场上。
+
+| 裁定变更：
+| 「`混沌幻影`_」得到「`刻剑之魔术师`_」「`银河眼光子龙`_」这两张卡的效果，发动得到的效果把自身除外后，不会再回到场上。
+
+| wiki:
+| 「`从骰挑战`_」的①效果处理时，1·6出现的场合，可以把「`万万圣`_」加入手卡。\ `23/8/30 <https://yugioh-wiki.net/index.php?%A1%D4%EC%D0%C4%A9%C0%EF%A1%D5#faq>`__
+| 怪兽区域「`霸王门之魔术师`_」的②效果处理时，可以把「`霸王门 零`_」加入手卡。\ `23/8/30 <https://yugioh-wiki.net/index.php?%A1%D4%C7%C6%B2%A6%CC%E7%A4%CE%CB%E2%BD%D1%BB%D5%A1%D5#faq1>`__
+
+8/31
+-------
+
+| 邮件：
+| 1张「`超战士之盾`_」的②效果在1组连锁上只能发动1次。墓地的「`炎涡的胎动`_」也一样。
+
 .. _`皇帝斗技场`: https://ygocdb.com/card/name/皇帝斗技场
 .. _`齿车街`: https://ygocdb.com/card/name/齿车街
 .. _`查理大帝`: https://ygocdb.com/card/name/查理大帝
@@ -2800,3 +2826,13 @@
 .. _`拘束足`: https://ygocdb.com/card/name/拘束足
 .. _`三战之才`: https://ygocdb.com/card/name/三战之才
 .. _`虹之衣`: https://ygocdb.com/card/name/虹之衣
+.. _`PSY骨架王·Ω`: https://ygocdb.com/card/name/PSY骨架王·Ω
+.. _`刻剑之魔术师`: https://ygocdb.com/card/name/刻剑之魔术师
+.. _`反转骰子`: https://ygocdb.com/card/name/反转骰子
+.. _`从骰挑战`: https://ygocdb.com/card/name/从骰挑战
+.. _`霸王门 零`: https://ygocdb.com/card/name/霸王门%20零
+.. _`超战士之盾`: https://ygocdb.com/card/name/超战士之盾
+.. _`万万圣`: https://ygocdb.com/card/name/万万圣
+.. _`霸王门之魔术师`: https://ygocdb.com/card/name/霸王门之魔术师
+.. _`炎涡的胎动`: https://ygocdb.com/card/name/炎涡的胎动
+.. _`火焰飞镖`: https://ygocdb.com/card/name/火焰飞镖

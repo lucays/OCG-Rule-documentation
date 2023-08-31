@@ -738,7 +738,7 @@
 
 -  | 因效果离场时，不当作被战斗破坏。
    | 例：
-   | 「`红莲魔龙`_」攻击「`巨大老鼠`_」，伤害计算后发动①效果，「`巨大老鼠`_」被这个效果破坏的场合，不能发动自身的效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7399&keyword=&tag=-1&request_locale=ja>`__
+   | 「`红莲魔龙`_」攻击「`巨大老鼠`_」，伤害计算后发动①效果，「`巨大老鼠`_」被这个效果破坏的场合，不能发动①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7399&keyword=&tag=-1&request_locale=ja>`__
    | 其他还有「`DDD 磐石王 大流士`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20565&request_locale=ja>`__ 「`补给部队`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8151&request_locale=ja>`__ 等。
 
 .. _伤害计算后:
@@ -816,6 +816,13 @@
       | 持有X素材的「`No.19 冷冻龙`_」在自己场上存在时，没有X素材的「`神骑 矢车菊圣人马`_」被战斗破坏的伤害步骤结束时，也不能发动②效果。
       | 持有X素材的「`No.19 冷冻龙`_」在自己场上存在时，没有X素材的「`No.1 源数之门-壹`_」被战斗破坏的伤害步骤结束时，即使自己场上还有「`源数`_」怪兽存在，也不能发动②效果。
       | 「`雾动机龙 霸王龙`_」进行攻击的伤害步骤结束时已经被战斗破坏送去墓地的场合，不能发动①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17428&keyword=&tag=-1&request_locale=ja>`__
+
+-  | 在伤害步骤结束时发动的怪兽效果，如果那只怪兽在伤害步骤结束时之前就已经不在怪兽区域表侧表示存在，这个效果不能发动。
+   | 此外，『这张卡战斗破坏○○怪兽』发动的效果，如果被战斗破坏的怪兽在伤害步骤结束时之前就已经不在怪兽区域表侧表示存在，那只怪兽不当作被战斗破坏，这个效果也不能发动。
+   | 例：
+   | 「`XX-剑士 富勒姆奈特`_」攻击里侧守备表示的「`食人虫`_」，「`食人虫`_」被战斗破坏，伤害计算后发动①效果破坏了「`XX-剑士 富勒姆奈特`_」的场合，伤害步骤结束时「`XX-剑士 富勒姆奈特`_」不能发动②效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13484&keyword=&tag=-1&request_locale=ja>`__
+   | 「`青眼双爆裂龙`_」和「`幻奏的华歌圣 花之蒂娃`_」进行战斗的场合，伤害计算后「`青眼双爆裂龙`_」被「`幻奏的华歌圣 花之蒂娃`_」的②效果破坏，伤害步骤结束时「`青眼双爆裂龙`_」的③效果不能发动。\ `21/11/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23430&keyword=&tag=-1&request_locale=ja>`__
+   | 「`红莲魔龙`_」攻击「`巨大老鼠`_」，伤害计算后发动①效果，「`巨大老鼠`_」被这个效果破坏的场合，不能发动①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7399&keyword=&tag=-1&request_locale=ja>`__
 
 | 『直到伤害步骤结束时』适用的效果，直到伤害步骤结束时全部的卡片的发动和处理终了为止都适用。
 | 例：
@@ -1320,3 +1327,5 @@
 .. _`元素英雄 铁壁炮手`: https://ygocdb.com/card/name/元素英雄%20铁壁炮手
 .. _`召唤兽 科库托斯`: https://ygocdb.com/card/name/召唤兽%20科库托斯
 .. _`斗神的虚像`: https://ygocdb.com/card/name/斗神的虚像
+.. _`XX-剑士 富勒姆奈特`: https://ygocdb.com/card/name/XX-剑士%20富勒姆奈特
+.. _`幻奏的华歌圣 花之蒂娃`: https://ygocdb.com/card/name/幻奏的华歌圣%20花之蒂娃
