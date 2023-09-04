@@ -246,7 +246,7 @@
 | 「`邪龙星-睚眦`_」②效果的发动被「`虫惑的落穴`_」连锁的场合，「`邪龙星-睚眦`_」在连锁2被破坏，因为还要处理连锁1的效果，所以「`邪龙星-睚眦`_」③效果错过时点，不能发动。连锁1处理时，「`邪龙星-睚眦`_」的效果无效而不适用。
 | 「`暴走魔法阵`_」的②效果适用中，仍然可以对「`召唤魔术`_」连锁发动「`DDD 咒血王 赛弗里德`_」的①效果，结果「`召唤魔术`_」的效果被无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20205&request_locale=ja>`__\
 | 「`星际仙踪-翠玉都`_」发动①效果时，连锁发动「`坏星坏兽 席兹奇埃鲁`_」的④效果的场合，只是把这1次的①效果无效。之后再发动①效果或者其他效果的场合都不会无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19860&keyword=&tag=-1&request_locale=ja>`__\
-| 「魔族之链」发动时，连锁发动「甲虫装机的宝珠」的效果的场合，由于「魔族之链」\ **在卡的发动时没有效果处理**\ ，结果仍然正常适用效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14646&keyword=&tag=-1&request_locale=ja>`__\
+| 「`魔族之链`_」发动时，连锁发动「`甲虫装机的宝珠`_」的效果的场合，由于「`魔族之链`_」在卡的发动时没有效果处理，结果仍然正常适用效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14646&keyword=&tag=-1&request_locale=ja>`__\
 | 「`幻变骚灵协议`_」的①效果适用中，特殊召唤的「`幻变骚灵`_」怪兽发动效果时，连锁发动「`虫惑的落穴`_」的场合，由于那次效果不会被无效，结果不会破坏。\ `18/4/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10038&keyword=&tag=-1&request_locale=ja>`__\
 
 -  | 发动的效果被无效时，没有其他记载的场合那张卡不会移动。
@@ -636,3 +636,4 @@
 .. _`交通机人连接区`: https://ygocdb.com/card/name/交通机人连接区
 .. _`阿匹卜之化神`: https://ygocdb.com/card/name/阿匹卜之化神
 .. _`苦纹样的土像`: https://ygocdb.com/card/name/苦纹样的土像
+.. _`甲虫装机的宝珠`: https://ygocdb.com/card/name/甲虫装机的宝珠
