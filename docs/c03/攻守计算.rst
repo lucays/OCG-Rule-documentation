@@ -136,7 +136,7 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
    | 「`捕食植物 奇美拉大花草`_」的②效果处理时对方怪兽攻击力不足1000的场合，结果是0，自身仍然上升1000攻击力。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7514&request_locale=ja>`__
    | 「`禁忌的圣枪`_」以攻击力0的怪兽为对象发动效果，后续也正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12476&request_locale=ja>`__
    | 对方场上的怪兽攻击力全是0的场合，「`混沌No.39 希望皇 霍普雷`_」也可以发动效果，自身上升500。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11844&request_locale=ja>`__
-   | 「`光辉终结龙`_」和攻击力·守备力不足1500的怪兽战斗也会发动效果，但和攻击力·守备力都是0的怪兽战斗时不能发动效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7675&request_locale=ja>`__
+   | 「`光辉终结龙`_」和攻击力·守备力不足1500的怪兽战斗也会发动效果，和攻击力·守备力都是0的怪兽战斗时也可以发动效果。\ `19/11/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7675&request_locale=ja>`__
 
    .. attention::
 
