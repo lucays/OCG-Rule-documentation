@@ -360,7 +360,7 @@
 .. _`诡计恶魔`: https://ygocdb.com/card/name/诡计恶魔
 .. _`罪 领域`: https://ygocdb.com/card/name/罪%20领域
 .. _`黑魔术师`: https://ygocdb.com/card/name/黑魔术师
-.. _`魔法神灯`: https://ygocdb.com/card/name/魔法神灯
+.. _`魔法神灯`: https://ygocdb.com/card/54912977
 .. _`电子化天使-那沙帝弥-`: https://ygocdb.com/card/name/电子化天使-那沙帝弥-
 .. _`PSY骨架装备·γ`: https://ygocdb.com/card/name/PSY骨架装备·γ
 .. _`超融合`: https://ygocdb.com/card/name/超融合

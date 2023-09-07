@@ -1335,7 +1335,7 @@
 .. _`命运英雄 血魔-D`: https://ygocdb.com/card/name/命运英雄%20血魔-D
 .. _`增殖的G`: https://ygocdb.com/card/name/增殖的G
 .. _`娱乐法师 秋千魔术家`: https://ygocdb.com/card/name/娱乐法师%20秋千魔术家
-.. _`魔法神灯`: https://ygocdb.com/card/name/魔法神灯
+.. _`魔法神灯`: https://ygocdb.com/card/54912977
 .. _`青眼精灵龙`: https://ygocdb.com/card/name/青眼精灵龙
 .. _`邪遗式人鱼风灵`: https://ygocdb.com/card/name/邪遗式人鱼风灵
 .. _`大日棱柱体`: https://ygocdb.com/card/name/大日棱柱体

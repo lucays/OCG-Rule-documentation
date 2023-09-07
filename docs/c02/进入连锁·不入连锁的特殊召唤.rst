@@ -189,7 +189,7 @@
 .. _`齿轮齿轮变形`: https://ygocdb.com/card/name/齿轮齿轮变形
 .. _`浮世绘朋克 娑乐斋`: https://ygocdb.com/card/name/浮世绘朋克%20娑乐斋
 .. _`影依融合`: https://ygocdb.com/card/name/影依融合
-.. _`魔法神灯`: https://ygocdb.com/card/name/魔法神灯
+.. _`魔法神灯`: https://ygocdb.com/card/54912977
 .. _`迅捷鼯鼠`: https://ygocdb.com/card/name/迅捷鼯鼠
 .. _`机龙衍生物`: https://ygocdb.com/?search=机龙衍生物
 .. _`PSY骨架装备·γ`: https://ygocdb.com/card/name/PSY骨架装备·γ

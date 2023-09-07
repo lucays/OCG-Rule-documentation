@@ -4691,7 +4691,7 @@
 .. _`食人虫`: https://ygocdb.com/card/name/食人虫
 .. _`守护者·奇美拉`: https://ygocdb.com/card/name/守护者·奇美拉
 .. _`真次世代先知`: https://ygocdb.com/card/name/真次世代先知
-.. _`魔法神灯`: https://ygocdb.com/card/name/魔法神灯
+.. _`魔法神灯`: https://ygocdb.com/card/54912977
 .. _`青眼精灵龙`: https://ygocdb.com/card/name/青眼精灵龙
 .. _`大日棱柱体`: https://ygocdb.com/card/name/大日棱柱体
 .. _`焰圣骑士-奥利佛`: https://ygocdb.com/card/name/焰圣骑士-奥利佛

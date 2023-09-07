@@ -1171,7 +1171,7 @@
 .. _`食人虫`: https://ygocdb.com/card/name/食人虫
 .. _`蛇神 格`: https://ygocdb.com/card/name/蛇神%20格
 .. _`邪遗式人鱼风灵`: https://ygocdb.com/card/name/邪遗式人鱼风灵
-.. _`魔法神灯`: https://ygocdb.com/card/name/魔法神灯
+.. _`魔法神灯`: https://ygocdb.com/card/54912977
 .. _`魔界剧团-闪烁小明星`: https://ygocdb.com/card/name/魔界剧团-闪烁小明星
 .. _`机皇帝 神陆∞`: https://ygocdb.com/card/name/机皇帝%20神陆∞
 .. _`天融星 怪奇`: https://ygocdb.com/card/name/天融星%20怪奇

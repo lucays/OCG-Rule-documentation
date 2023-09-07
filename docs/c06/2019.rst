@@ -3934,7 +3934,7 @@ wiki：
 .. _`命运英雄 血魔-D`: https://ygocdb.com/card/name/命运英雄%20血魔-D
 .. _`食人虫`: https://ygocdb.com/card/name/食人虫
 .. _`青眼精灵龙`: https://ygocdb.com/card/name/青眼精灵龙
-.. _`魔法神灯`: https://ygocdb.com/card/name/魔法神灯
+.. _`魔法神灯`: https://ygocdb.com/card/54912977
 .. _`时空银河螺旋`: https://ygocdb.com/card/name/时空银河螺旋
 .. _`海晶少女的斗海`: https://ygocdb.com/card/name/海晶少女的斗海
 .. _`“艾”慕融合`: https://ygocdb.com/card/name/“艾”慕融合

@@ -809,7 +809,7 @@
 .. _`增殖的G`: https://ygocdb.com/card/name/增殖的G
 .. _`D.D. 乌鸦`: https://ygocdb.com/card/name/D.D.%20乌鸦
 .. _`邪遗式人鱼风灵`: https://ygocdb.com/card/name/邪遗式人鱼风灵
-.. _`魔法神灯`: https://ygocdb.com/card/name/魔法神灯
+.. _`魔法神灯`: https://ygocdb.com/card/54912977
 .. _`烙印之兽`: https://ygocdb.com/card/name/烙印之兽
 .. _`愚蠢的埋葬`: https://ygocdb.com/card/name/愚蠢的埋葬
 .. _`超越死线`: https://ygocdb.com/card/name/超越死线
