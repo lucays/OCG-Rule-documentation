@@ -139,6 +139,7 @@
    | 由于盖放的卡是非公开情报，即使「`铠狱龙-电子暗冥龙`_」③效果的cost没有要求表侧表示，也不能用盖放的装备魔法卡。\ `17/6/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8461&request_locale=ja>`__ 不过，「`纳祭之魔`_」等效果把里侧表示的怪兽当作装备卡给自身装备后，双方都能确认这是里侧表示的装备魔法卡（但对方从这个时点起不能确认这张里侧表示的卡的卡名等情报），因此③效果的cost可以使用这个装备卡。\ `17/6/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12429&keyword=&tag=-1&request_locale=ja>`__
    | 「`纳祭之魔`_」把里侧表示的怪兽作为装备卡时，是盖放的魔法卡，「`兰卡之虫惑魔`_」的③效果可以把那个怪兽回到对方手卡，后续效果正常适用。\ `17/7/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20855&request_locale=ja>`__
    | 「`淘气仙星的灯光舞台`_」②效果可以选择「`纳祭之魔`_」装备的里侧表示的装备卡为对象，结束阶段由于其不能发动，结果送去墓地。\ `17/9/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12473&keyword=&tag=-1&request_locale=ja>`__
+   | 「`神威凤凰剑圣 基亚·弗里德`_」的①效果发动之际，可以把「`纳祭之魔`_」的效果里侧表示装备的装备卡除外作为cost来特殊召唤。\ `23/9/7 <https://yugioh-wiki.net/index.php?%CE%A2%C2%A6%C9%BD%BC%A8#faq>`__
 
 | 「`纳祭之魔`_」等，把其他怪兽当作装备卡，只能给自身装备的效果被无效时，由于失去维持装备卡的能力，结果这样装备的装备卡都被破坏，不是被效果破坏。
 | 「`破戒蛮龙-破坏龙`_」等，把其他怪兽当作装备卡，可以给其他怪兽装备的效果，以及「`甲虫装机 吉咖螳螂`_」这样自身能给其他怪兽装备的效果，在装备后，无论哪张卡被无效，那些装备卡都不会被破坏。
@@ -247,3 +248,4 @@
 .. _`闪光抽卡`: https://ygocdb.com/card/name/闪光抽卡
 .. _`大日女之御巫`: https://ygocdb.com/card/name/大日女之御巫
 .. _`动力工具勇气龙`: https://ygocdb.com/card/name/动力工具勇气龙
+.. _`神威凤凰剑圣 基亚·弗里德`: https://ygocdb.com/card/name/神威凤凰剑圣%20基亚·弗里德
