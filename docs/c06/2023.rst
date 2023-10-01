@@ -2050,6 +2050,24 @@
 | 数据库：
 | 场上只存在不受陷阱效果影响的怪兽时，也可以发动「`魔炮战机 达磨羯磨`_」。「`魔炮战机 达磨羯磨`_」的①效果处理时，没有怪兽因这个效果变成里侧守备表示的场合，这个效果处理完毕。『那之后』的处理不进行。\ `23/9/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24010&keyword=&tag=-1&request_locale=ja>`__
 
+9/30
+-------
+
+| 邮件：
+| 怪兽区域的「`仪式的供物`_」因卡片效果变成攻击力0的机械族怪兽后，发动「`流星辉巧群`_」的效果处理时，不能只解放这1只「`仪式的供物`_」来仪式召唤攻击力0的「`电子界贤者`_」。
+
+| 裁定变更：
+| 我方场上存在没有放置坏兽指示物的「`京塔 海滨地区`_」和「`海龟坏兽 加美西耶勒`_」以及3张表侧表示的永续陷阱卡。我方把3张永续陷阱卡送去墓地特殊召唤「`神炎皇 乌利亚`_」之际，对方发动「`雷王`_」的效果时，「`京塔 海滨地区`_」已经放置了坏兽指示物，我方可以从「`京塔 海滨地区`_」取除2个坏兽指示物发动「`海龟坏兽 加美西耶勒`_」的④效果。
+| 怪兽区域的「`仪式的供物`_」因卡片效果变成攻击力0的机械族怪兽后，发动「`流星辉巧群`_」的效果处理时，也可以只解放这1只「`仪式的供物`_」来仪式召唤「`青眼混沌极龙`_」。（不通过计算攻击力的方法解放怪兽仪式召唤的场合，「`流星辉巧群`_」的效果处理时可以解放攻击力0的怪兽。）
+
+| 数据库：
+| 「`电子光虫-散热器蜣螂`_」的②效果这样，『战斗破坏对方怪兽送去墓地』发动的效果，要求怪兽被送去墓地且在墓地仍是怪兽，战斗破坏陷阱怪兽的场合不能发动。\ `23/9/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19360&keyword=&tag=-1&request_locale=ja>`__
+| 「`琰魔龙王 红莲魔·厄`_」的②效果这样，『战斗破坏对方怪兽』发动的效果，战斗破坏对方怪兽后，不要求那只怪兽送去墓地，也不要求之后仍是怪兽，战斗破坏陷阱怪兽的场合也可以发动（这里会给与陷阱怪兽卡片记述的原本攻击力数值的伤害）。\ `23/9/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16916&keyword=&tag=-1&request_locale=ja>`__
+| 「`捕食植物 海鳝猪笼草`_」的②效果这样，『战斗破坏对方怪兽』发动的效果，由于效果处理时要求『那只破坏的怪兽』，因此虽然不要求那只怪兽送去墓地，但要求被破坏后仍然是怪兽。战斗破坏陷阱怪兽的场合不能发动。\ `23/9/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19701&keyword=&tag=-1&request_locale=ja>`__
+| 「`冰剑龙 幻冰龙`_」的①效果这样，『自己场上只能有1只表侧表示存在』的文本，即使在魔法·陷阱卡区域作为装备卡或永续魔法存在时，也当作场上存在「`冰剑龙 幻冰龙`_」，因此不能在自己场上出现第2只「`冰剑龙 幻冰龙`_」。\ `23/9/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13840&keyword=&tag=-1&request_locale=ja>`__
+| 不能以原本攻击力0或？的怪兽为对象发动「`转生炎兽 烈火凤凰`_」的②效果。\ `23/9/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=18912&request_locale=ja>`__
+| 「`连锁素材`_」的效果不是对怪兽适用的效果，这个效果适用后，进行融合召唤的场合，可以把怪兽区域不受陷阱效果影响的怪兽除外来作为融合素材使用。\ `16/4/21 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7466&request_locale=ja>`__
+
 .. _`皇帝斗技场`: https://ygocdb.com/card/name/皇帝斗技场
 .. _`齿车街`: https://ygocdb.com/card/name/齿车街
 .. _`查理大帝`: https://ygocdb.com/card/name/查理大帝
@@ -3211,3 +3229,12 @@
 .. _`拟似空间`: https://ygocdb.com/card/name/拟似空间
 .. _`娱乐伙伴 调级钟行李员`: https://ygocdb.com/card/name/娱乐伙伴%20调级钟行李员
 .. _`魔炮战机 达磨羯磨`: https://ygocdb.com/card/name/魔炮战机%20达磨羯磨
+.. _`京塔 海滨地区`: https://ygocdb.com/card/name/京塔%20海滨地区
+.. _`神炎皇 乌利亚`: https://ygocdb.com/card/name/神炎皇%20乌利亚
+.. _`捕食植物 海鳝猪笼草`: https://ygocdb.com/card/name/捕食植物%20海鳝猪笼草
+.. _`转生炎兽 烈火凤凰`: https://ygocdb.com/card/name/转生炎兽%20烈火凤凰
+.. _`仪式的供物`: https://ygocdb.com/card/name/仪式的供物
+.. _`电子界贤者`: https://ygocdb.com/card/name/电子界贤者
+.. _`青眼混沌极龙`: https://ygocdb.com/card/name/青眼混沌极龙
+.. _`流星辉巧群`: https://ygocdb.com/card/name/流星辉巧群
+.. _`电子光虫-散热器蜣螂`: https://ygocdb.com/card/name/电子光虫-散热器蜣螂
