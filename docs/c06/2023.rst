@@ -2062,11 +2062,48 @@
 
 | 数据库：
 | 「`电子光虫-散热器蜣螂`_」的②效果这样，『战斗破坏对方怪兽送去墓地』发动的效果，要求怪兽被送去墓地且在墓地仍是怪兽，战斗破坏陷阱怪兽的场合不能发动。\ `23/9/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19360&keyword=&tag=-1&request_locale=ja>`__
-| 「`琰魔龙王 红莲魔·厄`_」的②效果这样，『战斗破坏对方怪兽』发动的效果，战斗破坏对方怪兽后，不要求那只怪兽送去墓地，也不要求之后仍是怪兽，战斗破坏陷阱怪兽的场合也可以发动（这里会给与陷阱怪兽卡片记述的原本攻击力数值的伤害）。\ `23/9/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16916&keyword=&tag=-1&request_locale=ja>`__
-| 「`捕食植物 海鳝猪笼草`_」的②效果这样，『战斗破坏对方怪兽』发动的效果，由于效果处理时要求『那只破坏的怪兽』，因此虽然不要求那只怪兽送去墓地，但要求被破坏后仍然是怪兽。战斗破坏陷阱怪兽的场合不能发动。\ `23/9/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19701&keyword=&tag=-1&request_locale=ja>`__
-| 「`冰剑龙 幻冰龙`_」的①效果这样，『自己场上只能有1只表侧表示存在』的文本，即使在魔法·陷阱卡区域作为装备卡或永续魔法存在时，也当作场上存在「`冰剑龙 幻冰龙`_」，因此不能在自己场上出现第2只「`冰剑龙 幻冰龙`_」。\ `23/9/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13840&keyword=&tag=-1&request_locale=ja>`__
+| 「`琰魔龙王 红莲魔·厄`_」的②效果这样，『战斗破坏对方怪兽』发动的效果，由于效果处理时要求『那只破坏的怪兽』，因此虽然不要求那只怪兽送去墓地，但要求被破坏后仍然是怪兽。战斗破坏陷阱怪兽的场合不能发动。\ `23/9/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19701&keyword=&tag=-1&request_locale=ja>`__
+| 「`冰剑龙 幻冰龙`_」的①效果这样，记述『自己场上只能有1只表侧表示存在』文本的怪兽，即使在魔法·陷阱卡区域作为装备卡或永续魔法存在时，也当作场上存在「`冰剑龙 幻冰龙`_」，因此不能在自己场上出现第2只「`冰剑龙 幻冰龙`_」。\ `23/9/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13840&keyword=&tag=-1&request_locale=ja>`__
 | 不能以原本攻击力0或？的怪兽为对象发动「`转生炎兽 烈火凤凰`_」的②效果。\ `23/9/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=18912&request_locale=ja>`__
 | 「`连锁素材`_」的效果不是对怪兽适用的效果，这个效果适用后，进行融合召唤的场合，可以把怪兽区域不受陷阱效果影响的怪兽除外来作为融合素材使用。\ `16/4/21 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7466&request_locale=ja>`__
+
+23/10
+========
+
+10/2
+-------
+
+| 邮件：
+| 「`魔法名-「解体与统合」`_」的①效果处理时，「`青眼精灵龙`_」的①效果适用的场合，只进行『作为对象的自己怪兽在对方场上特殊召唤』效果处理。
+| 「`救祓少女·马尔法`_」「`雷帝家臣 密特拉`_」的①效果发动时，对方连锁发动「`活死人的呼声`_」特殊召唤了「`青眼精灵龙`_」的场合，「`救祓少女·马尔法`_」「`雷帝家臣 密特拉`_」的①效果处理时，只把自身特殊召唤，这个效果处理完毕。
+| 把3只恶魔族怪兽解放来特殊召唤「`幻魔皇 拉比艾尔`_」之际，对方发动「`雷王`_」效果的场合，我方「`盟军·次世代狱焰兵`_」因「`幻魔皇 拉比艾尔`_」的召唤手续放置了1个次世代指示物，这个时点连锁发动「`限制解除`_」的场合，「`盟军·次世代狱焰兵`_」的攻击力是1800×2=3600。
+| 「罪」怪兽或「地缚神」怪兽这样，记述『「○○」怪兽在场上只能有1只表侧表示存在』文本的怪兽，在魔法·陷阱卡区域作为装备卡或永续魔法存在时，不是作为怪兽存在，不当作场上存在「○○」怪兽，可以特殊召唤第2只。
+| 对方场上存在「`死之演算盘`_」，我方把1只电子界族连接怪兽送去墓地，连接召唤「`安全守卫者`_」的场合，「`死之演算盘`_」的效果在哪个时点适用，「`安全守卫者`_」的②效果是否能把这个伤害变成0，调整中。
+| 对方场上存在「`卖棺者`_」，我方把1只怪兽解放，上级召唤「`物质龙`_」的场合，「`卖棺者`_」的效果给与的300基本分伤害会变成回复。
+| 对方场上存在「`死灵的引诱`_」，我方把1只电子界族连接怪兽送去墓地，连接召唤「`安全守卫者`_」之际，对方发动「`雷王`_」的效果，我方连锁对这只「`雷王`_」发动「`墓穴的指名者`_」的场合，结果有2张卡（电子界族连接怪兽和处理完的「`墓穴的指名者`_」）送去墓地，我方基本分受到2个300伤害，都不会因「`安全守卫者`_」的②效果而变成0。
+
+| 调整中确认：
+| 我方魔法·陷阱卡区域存在作为装备卡的「`六武众的师范`_」，我方以对方场上「`六武众的师范`_」为对象发动「`纳祭之魔`_」①效果，也变成装备卡，结果我方魔法·陷阱卡区域存在2张「`六武众的师范`_」的场合，作为魔法卡，自身①效果都不适用，结果都不会被破坏。
+
+| wiki:
+
+| 裁定变更：
+| 在对方回合，「`混沌幻魔 阿米泰尔`_」适用了对方「`黑羽-疾风之盖尔`_」的②效果后，在自己回合，「`混沌幻魔 阿米泰尔`_」的攻击力仍然是0。\ `23/10/2 <https://yugioh-wiki.net/index.php?%A1%D4%BA%AE%C6%D9%B8%B8%CB%E2%A5%A2%A1%BC%A5%DF%A5%BF%A5%A4%A5%EB%A1%D5#faq1>`__
+
+| 数据库：
+| 「`虹光之宣告者`_」的①效果适用中，额外卡组的怪兽仍然送去墓地，不会除外。\ `18/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11384&request_locale=ja>`__
+| 我方回合，我方发动「`召煌女 五型查询姬`_」的①效果，把「`古遗物-雷神锤`_」在对方场上特殊召唤的场合，由对方来发动「`古遗物-雷神锤`_」的③效果。\ `23/10/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24014&keyword=&tag=-1&request_locale=ja>`__ 这个效果是必发效果，在墓地没有「古遗物」怪兽的状况也会强制发动。\ `17/10/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13398&request_locale=ja>`__
+
+| 裁定变更：
+| 「`死亡袋熊`_」的效果适用中，受到的效果伤害为0的状况，也可以发动「`逆风`_」，处理时效果全不适用。\ `23/10/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8317&keyword=&tag=-1&request_locale=ja>`__
+| 「`青眼精灵龙`_」的①效果适用中，不能发动「`光波分光`_」。「`光波分光`_」的①效果处理时，「`青眼精灵龙`_」的①效果适用的场合，只把对象怪兽特殊召唤，这个效果处理完毕。\ `23/10/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20092&keyword=&tag=-1&request_locale=ja>`__
+| 反转召唤和二重怪兽再1次召唤之际，发动「`神之宣告`_」的场合，是破坏场上怪兽的效果，可以连锁发动「`破坏干扰`_」。\ `23/10/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=281&keyword=&tag=-1&request_locale=ja>`__
+| 我方怪兽区域只有1只里侧守备表示的「`兔龙`_」，反转召唤之际，已经在场上表侧表示存在，是等级7以上的通常怪兽，对方发动「`神之宣告`_」的场合，我方可以连锁发动「`王者的看破`_」。\ `23/10/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8166&keyword=&tag=-1&request_locale=ja>`__
+| 「`混沌巫师`_」这样的特殊召唤怪兽在通过正规手续特殊召唤后，变成里侧守备表示，再反转召唤之际，发动「`神之宣告`_」，这次反转召唤无效并破坏的场合，仍然是通过正规手续出场的怪兽，可以被「`活死人的呼声`_」等效果特殊召唤。「`闪耀巨龙`_」的反转召唤被无效并破坏的场合，也仍然是通过正规手续出场的怪兽，可以被「`活死人的呼声`_」等效果特殊召唤。\ `23/10/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9124&keyword=&tag=-1&request_locale=ja>`__
+| X召唤的「`幻影骑士团 断碎剑`_」变成里侧守备表示，再反转召唤之际，发动「`神之宣告`_」，这次反转召唤无效并破坏的场合，仍然是X召唤的怪兽被破坏，可以发动②效果。\ `23/10/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17662&keyword=&tag=-1&request_locale=ja>`__
+| 融合召唤的「`暗黑界的龙神王 格拉法`_」变成里侧守备表示，再反转召唤之际，发动「`光之放逐`_」的场合，这次反转召唤无效，可以适用墓地「`暗黑界的惩罚`_」的②效果让场上的「`暗黑界的龙神王 格拉法`_」不被破坏。这个场合，反转召唤被无效的「`暗黑界的龙神王 格拉法`_」不能在场上存在，从场上送去墓地，但不是因对方从场上离开，不能发动②效果。\ `23/10/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24011&keyword=&tag=-1&request_locale=ja>`__
+| 里侧表示的P怪兽的反转召唤被无效并破坏的场合，从场上加入额外卡组。\ `23/10/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24012&keyword=&tag=-1&request_locale=ja>`__
+| 怪兽反转召唤之际，把这次反转召唤无效的效果发动的连锁上，这只怪兽在怪兽区域表侧表示存在，但是效果不能发动·适用，仍然可以成为效果的对象。把这次反转召唤无效的效果处理时，这只怪兽仍然在怪兽区域表侧表示的场合，这次反转召唤无效并破坏；如果对这只怪兽发动「`月之书`_」「`强制脱出装置`_」，结果不在怪兽区域表侧表示存在的状况，「`科技属 戟炮手`_」的①效果等把这次反转召唤无效的效果处理不适用。\ `23/10/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24013&keyword=&tag=-1&request_locale=ja>`__
 
 .. _`皇帝斗技场`: https://ygocdb.com/card/name/皇帝斗技场
 .. _`齿车街`: https://ygocdb.com/card/name/齿车街
@@ -3238,3 +3275,30 @@
 .. _`青眼混沌极龙`: https://ygocdb.com/card/name/青眼混沌极龙
 .. _`流星辉巧群`: https://ygocdb.com/card/name/流星辉巧群
 .. _`电子光虫-散热器蜣螂`: https://ygocdb.com/card/name/电子光虫-散热器蜣螂
+.. _`幻魔皇 拉比艾尔`: https://ygocdb.com/card/name/幻魔皇%20拉比艾尔
+.. _`死亡袋熊`: https://ygocdb.com/card/name/死亡袋熊
+.. _`逆风`: https://ygocdb.com/card/name/逆风
+.. _`召煌女 五型查询姬`: https://ygocdb.com/card/name/召煌女%20五型查询姬
+.. _`古遗物-雷神锤`: https://ygocdb.com/card/name/古遗物-雷神锤
+.. _`虹光之宣告者`: https://ygocdb.com/card/name/虹光之宣告者
+.. _`破坏干扰`: https://ygocdb.com/card/name/破坏干扰
+.. _`死灵的引诱`: https://ygocdb.com/card/name/死灵的引诱
+.. _`六武众的师范`: https://ygocdb.com/card/name/六武众的师范
+.. _`科技属 戟炮手`: https://ygocdb.com/card/name/科技属%20戟炮手
+.. _`光波分光`: https://ygocdb.com/card/name/光波分光
+.. _`卖棺者`: https://ygocdb.com/card/name/卖棺者
+.. _`死之演算盘`: https://ygocdb.com/card/name/死之演算盘
+.. _`暗黑界的惩罚`: https://ygocdb.com/card/name/暗黑界的惩罚
+.. _`地缚神`: https://ygocdb.com/?search=地缚神
+.. _`○○`: https://ygocdb.com/?search=○○
+.. _`混沌幻魔 阿米泰尔`: https://ygocdb.com/card/name/混沌幻魔%20阿米泰尔
+.. _`闪耀巨龙`: https://ygocdb.com/card/name/闪耀巨龙
+.. _`光之放逐`: https://ygocdb.com/card/name/光之放逐
+.. _`王者的看破`: https://ygocdb.com/card/name/王者的看破
+.. _`兔龙`: https://ygocdb.com/card/name/兔龙
+.. _`幻影骑士团 断碎剑`: https://ygocdb.com/card/name/幻影骑士团%20断碎剑
+.. _`盟军·次世代狱焰兵`: https://ygocdb.com/card/name/盟军·次世代狱焰兵
+.. _`安全守卫者`: https://ygocdb.com/card/name/安全守卫者
+.. _`物质龙`: https://ygocdb.com/card/name/物质龙
+.. _`混沌巫师`: https://ygocdb.com/card/name/混沌巫师
+.. _`魔法名-「解体与统合」`: https://ygocdb.com/card/name/魔法名-「解体与统合」
