@@ -1,4 +1,4 @@
 git+https://github.com/lucays/furo.git@dev
 sphinx==7.0.1
 requests
-urllib3==1.26.15
+urllib3==1.26.17
