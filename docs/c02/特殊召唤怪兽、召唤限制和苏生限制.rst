@@ -301,4 +301,4 @@ P召唤                                 ×                ○                   
 .. _`霸王紫龙 异色眼猛毒龙`: https://ygocdb.com/card/name/霸王紫龙%20异色眼猛毒龙
 .. _`活死人的呼声`: https://ygocdb.com/card/name/活死人的呼声
 .. _`幻影骑士团 断碎剑`: https://ygocdb.com/card/name/幻影骑士团%20断碎剑
-.. _`混沌巫师`: https://ygocdb.com/card/name/混沌巫师
+.. _`混沌巫师`: https://ygocdb.com/card/9596126
