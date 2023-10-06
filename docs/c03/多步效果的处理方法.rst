@@ -238,7 +238,7 @@
 | 「`灵摆风暴`_」的①效果处理时，只要破坏了1张卡，就可以选对方场上1张魔法·陷阱卡破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17401&keyword=&tag=-1&request_locale=ja>`__\ 没有破坏任何卡的场合，才不能选对方场上1张魔法·陷阱卡破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17400&keyword=&tag=-1&request_locale=ja>`__
 | 场上存在「`召唤僧`_」这样不能被解放的怪兽时，只要场上还存在其他可以解放的怪兽，就可以发动「`原始生命态 尼比鲁`_」的①效果。这个效果处理只把可以解放的怪兽全部解放。只要解放了1只以上怪兽，就会特殊召唤「`原始生命态 尼比鲁`_」。没能解放任何怪兽的场合，不会特殊召唤，「`原始生命态 尼比鲁`_」留在手卡。\ `22/3/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22810&keyword=&tag=-1&request_locale=ja>`__
 
-.. attention:: 特别地，「`再爆裂`_」的效果处理时，只要有1只怪兽因不受魔法效果影响等，没被这个效果破坏的场合，就不能特殊召唤怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7996&keyword=&tag=-1&request_locale=ja>`__
+.. attention:: 特别地，「`再爆裂`_」的效果处理时，只要有1只怪兽因不受魔法效果影响等，没被这个效果破坏的场合，就不能特殊召唤怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7996&keyword=&tag=-1&request_locale=ja>`__\ P区域「点火骑士」卡的效果处理也一样，必须全部破坏才能进行后续处理。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15706&keyword=&tag=-1&request_locale=ja>`__
 
 『回到手卡』『回到卡组』
 --------------------------
@@ -461,3 +461,4 @@
 .. _`阿不思的落胤`: https://ygocdb.com/card/name/阿不思的落胤
 .. _`无限泡影`: https://ygocdb.com/card/name/无限泡影
 .. _`焰圣骑士导-罗兰`: https://ygocdb.com/card/name/焰圣骑士导-罗兰
+.. _`点火骑士`: https://ygocdb.com/?search=点火骑士

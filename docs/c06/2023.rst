@@ -2159,6 +2159,20 @@
 | wiki:
 | 二重怪兽再1次召唤被无效并破坏的场合，是从怪兽区域被破坏送去墓地。\ `23/10/5 <https://yugioh-wiki.net/index.php?%BA%C6%C5%D9%BE%A4%B4%AD#faq>`__
 | 以墓地2只水属性「宝玉兽」怪兽为对象发动「`海上打捞`_」，连锁发动「`弹出式翻页`_」，从卡组把「`高等暗黑结界`_」发动，那些怪兽变成暗属性的场合，「`海上打捞`_」的效果处理不适用。\ `23/10/5 <https://yugioh-wiki.net/index.php?%A1%D4%A5%B5%A5%EB%A5%D9%A1%BC%A5%B8%A1%D5#faq>`__
+| 怪兽区域存在「`铁界王战 矮人联合王`_」时，不能以墓地的「`铁界王战 矮人联合王`_」为对象发动「`兽带斗神“王者”轩辕十四`_」的①效果变成装备。\ `23/10/5 <https://yugioh-wiki.net/index.php?%A3%B1%CB%E7%A4%B7%A4%AB%C2%B8%BA%DF%A4%C7%A4%AD%A4%CA%A4%A4#faq>`__
+| 怪兽区域存在「`罪 电子终结龙`_」时，可以以墓地的「`罪 电子终结龙`_」为对象发动「`兽带斗神“王者”轩辕十四`_」的①效果变成装备。\ `23/10/5 <https://yugioh-wiki.net/index.php?%A3%B1%CB%E7%A4%B7%A4%AB%C2%B8%BA%DF%A4%C7%A4%AD%A4%CA%A4%A4#faq>`__
+| 魔法·陷阱卡区域存在作为装备卡的「`罪 电子终结龙`_」时，可以从手卡特殊召唤「`罪 电子终结龙`_」。\ `23/10/5 <https://yugioh-wiki.net/index.php?%A3%B1%CB%E7%A4%B7%A4%AB%C2%B8%BA%DF%A4%C7%A4%AD%A4%CA%A4%A4#faq>`__
+| 对方场上存在装备了「坏兽」怪兽卡的「`纳祭之魔`_」和1只其他怪兽，我方手卡的「坏兽」怪兽也可以解放对方场上任意1只怪兽来来特殊召唤。\ `23/10/5 <https://yugioh-wiki.net/index.php?%A3%B1%CB%E7%A4%B7%A4%AB%C2%B8%BA%DF%A4%C7%A4%AD%A4%CA%A4%A4#faq>`__
+| 适用了「`No.66 霸键甲虫`_」效果的二重怪兽在再1次召唤之际，对方发动「`神之宣告`_」的场合，那次召唤无效，不会破坏，送去墓地。\ `23/10/5 <https://yugioh-wiki.net/index.php?%A1%D4%A3%CE%A3%EF.%A3%B6%A3%B6%20%C7%C6%B8%B0%B9%C3%C3%EE%A5%DE%A5%B9%A5%BF%A1%BC%A1%A6%A5%AD%A1%BC%A1%A6%A5%D3%A1%BC%A5%C8%A5%EB%A1%D5#faq>`__
+
+10/6
+-------
+
+| 邮件：
+| 我方二重怪兽再1次召唤之际，对方发动「`科技属 戟炮手`_」的①效果，我方连锁发动「`技能抽取`_」的场合，或者对那只怪兽发动「`神龙骑士 闪耀`_」①效果的场合，「`科技属 戟炮手`_」的①效果不适用，消耗了1次通常召唤次数，那只二重怪兽成为效果无效的效果怪兽，不是再1次召唤的状态，发动「`二重烧蚀`_」把那只二重怪兽解放的场合，不能破坏卡。
+
+| 数据库：
+| 二重怪兽再1次召唤被无效的场合，是从场上送去墓地。\ `23/10/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6762&keyword=&tag=-1&request_locale=ja>`__
 
 .. _`皇帝斗技场`: https://ygocdb.com/card/name/皇帝斗技场
 .. _`齿车街`: https://ygocdb.com/card/name/齿车街
@@ -3395,3 +3409,6 @@
 .. _`格鲁斯异虫`: https://ygocdb.com/card/name/格鲁斯异虫
 .. _`弹出式翻页`: https://ygocdb.com/card/name/弹出式翻页
 .. _`地中族邪界妖魔`: https://ygocdb.com/card/name/地中族邪界妖魔
+.. _`铁界王战 矮人联合王`: https://ygocdb.com/card/name/铁界王战%20矮人联合王
+.. _`二重烧蚀`: https://ygocdb.com/card/name/二重烧蚀
+.. _`罪 电子终结龙`: https://ygocdb.com/card/name/罪%20电子终结龙

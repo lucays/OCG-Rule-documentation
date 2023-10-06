@@ -466,7 +466,7 @@
 
 .. attention::
 
-   | 特别地，「`虹之古代都市`_」的『●3张以上』效果\ `17/10/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7079&request_locale=ja>`__ 不能在伤害步骤内发动。「`天融星 怪奇`_」的①效果\ `18/5/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13831&request_locale=ja>`__ 和「`寄生融合虫`_」的②效果\ `16/10/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12744&request_locale=ja>`__ 这样，效果处理会进行通常召唤·仪式召唤·融合召唤·S召唤·X召唤·连接召唤的效果，在伤害步骤也不能发动。此外，\ 效果处理中进行伤害计算_\ 的场合，要进行通常召唤·仪式召唤·融合召唤·S召唤·X召唤·连接召唤的效果也不会在伤害步骤内适用。
+   | 特别地，「`虹之古代都市`_」的『●3张以上』效果\ `17/10/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7079&request_locale=ja>`__ 不能在伤害步骤内发动。「`天融星 怪奇`_」的①效果\ `18/5/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13831&request_locale=ja>`__ 和「`寄生融合虫`_」的②效果\ `16/10/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12744&request_locale=ja>`__ 这样，效果处理会进行通常召唤·仪式召唤·融合召唤·S召唤·X召唤·连接召唤的效果，在伤害步骤也不能发动。此外，伤害步骤内「`霸王眷龙 光辉亚龙`_」在怪兽区域发动①效果的场合，只加入手卡，不进行S召唤或X召唤。\ `23/7/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=19144&request_locale=ja>`__ \ 效果处理中进行伤害计算_\ 的场合，要进行通常召唤·仪式召唤·融合召唤·S召唤·X召唤·连接召唤的效果同样不会在伤害步骤内适用。
    | 此外，「`No.59 背反之料理人`_」的②效果\ `16/5/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12548&request_locale=ja>`__ 「`命运英雄 敌托邦人`_」的②效果\ `16/6/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12705&request_locale=ja>`__ 「`黄金乡的守护者`_」的①效果\ `20/3/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=15128&request_locale=ja>`__ 「`来自天龙座的降诞`_」\ `20/9/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8429&request_locale=ja>`__ 等例外地不能在伤害步骤发动。但「`恐乐园的死配人 ＜A丑角＞`_」的②效果\ `23/1/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=18486&request_locale=ja>`__ 可以在直到伤害计算前为止的时点发动。
 
 | 伤害步骤内进行战斗的怪兽不在自己场上存在或攻击怪兽变成守备等，战斗终止的场合，伤害步骤不会立即终止，剩下的时点仍然按顺序进行后，才回到战斗步骤。
@@ -1343,3 +1343,4 @@
 .. _`缚神冢`: https://ygocdb.com/card/name/缚神冢
 .. _`冰剑龙 幻冰龙`: https://ygocdb.com/card/name/冰剑龙%20幻冰龙
 .. _`格鲁斯异虫`: https://ygocdb.com/card/name/格鲁斯异虫
+.. _`霸王眷龙 光辉亚龙`: https://ygocdb.com/card/name/霸王眷龙%20光辉亚龙
