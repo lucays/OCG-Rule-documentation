@@ -2670,7 +2670,7 @@ wiki：
 --------
 
 | wiki:
-| 不能把「`连锁除外`_」或「`王家的财宝`_」和自身除外来发动「`废品收集者`_」的效果。\ `19/11/27 <https://yugioh-wiki.net/index.php?%A1%D4%A5%B8%A5%E3%A5%F3%A5%AF%A1%A6%A5%B3%A5%EC%A5%AF%A5%BF%A1%BC%A1%D5#faq2>`__
+| 不能把「`连锁素材`_」或「`王家的财宝`_」和自身除外来发动「`废品收集者`_」的效果。\ `19/11/27 <https://yugioh-wiki.net/index.php?%A1%D4%A5%B8%A5%E3%A5%F3%A5%AF%A1%A6%A5%B3%A5%EC%A5%AF%A5%BF%A1%BC%A1%D5#faq2>`__
 
 11/28
 --------
@@ -3827,7 +3827,7 @@ wiki：
 .. _`魂之造型家`: https://ygocdb.com/card/name/魂之造型家
 .. _`升天的黑角笛`: https://ygocdb.com/card/name/升天的黑角笛
 .. _`幻想夺取者`: https://ygocdb.com/card/name/幻想夺取者
-.. _`连锁除外`: https://ygocdb.com/card/name/连锁除外
+.. _`连锁素材`: https://ygocdb.com/card/name/连锁素材
 .. _`雷神龙-雷龙`: https://ygocdb.com/card/name/雷神龙-雷龙
 .. _`召唤兽 卡利古拉`: https://ygocdb.com/card/name/召唤兽%20卡利古拉
 .. _`@イグニスター`: https://ygocdb.com/?search=@イグニスター

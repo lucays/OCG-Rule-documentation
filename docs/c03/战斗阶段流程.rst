@@ -646,13 +646,14 @@
 | 「`娱乐法师 秋千魔术家`_」被攻击力3000的「`秘术眼灵摆龙`_」战斗破坏时，先计算战斗伤害，为500，此时永续效果仍适用中，不受这次战斗伤害。伤害结算之后，「`娱乐法师 秋千魔术家`_」才确定被战斗破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15374&keyword=&tag=-1&request_locale=ja>`__
 | 「`超雷龙-雷龙`_」和相同攻击力的「`灵灭术师 海空`_」战斗，进行伤害计算的时点，「`灵灭术师 海空`_」的①效果仍适用，「`超雷龙-雷龙`_」的②效果不能适用，结果都被战斗破坏。\ `23/5/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23970&keyword=&tag=-1&request_locale=ja>`__
 
--  | 记述『战斗破坏○○怪兽』诱发的效果在确定被战斗破坏的这个时点判断是否满足条件，满足条件的场合在伤害步骤结束时发动。
+-  | 记述『战斗破坏○○怪兽』『○○怪兽被战斗破坏』诱发的效果在确定被战斗破坏的这个时点判断是否满足条件，满足条件的场合在伤害步骤结束时发动。
    | 例：
    | 「`真红眼不尸龙`_」被战斗破坏时，由于永续效果在被战斗破坏确定时不适用，结果不能发动P区域「`娱乐伙伴 笑容魔术家`_」的①效果。
    | 「`涅槃之超魔导剑士`_」把原本持有者是自己的怪兽战斗破坏时，也可以发动②效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18713&request_locale=ja>`__ 「`电子光虫-散热器蜣螂`_」的②效果也可以发动并适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18159&request_locale=ja>`__
    | 当作通常怪兽处理的二重怪兽被战斗破坏，可以发动「`救护部队`_」的②效果。当作效果怪兽处理的二重怪兽被战斗破坏，不能发动「`救护部队`_」的②效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16640&keyword=&tag=-1&request_locale=ja>`__
    | 不死族衍生物被战斗破坏时，可以发动「`真红眼不尸龙`_」的效果。\ `18/9/21 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22142&request_locale=ja>`__
    | 没有再1次召唤的二重怪兽是通常怪兽，被战斗·效果破坏的场合可以发动「`天威龙-真知蟠龙`_」的效果。已经再1次召唤的二重怪兽被战斗·效果破坏的场合，不能发动「`天威龙-真知蟠龙`_」的效果。\ `19/10/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22861&keyword=&tag=-1&request_locale=ja>`__
+   | 怪兽区域适用自身②永续效果，攻击力上升到2400的「`娱乐伙伴 国王熊精`_」被战斗破坏的场合，是持有比原本攻击力高的攻击力的自己场上的怪兽被战斗破坏，之后P区域「`娱乐伙伴 笑容魔术家`_」的①效果可以发动。\ `23/10/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24015&keyword=&tag=-1&request_locale=ja>`__
 
 | 确定被战斗破坏的怪兽在伤害计算后仍然还在场上，可以判断卡名等信息。
 | 例：
@@ -1344,3 +1345,4 @@
 .. _`冰剑龙 幻冰龙`: https://ygocdb.com/card/name/冰剑龙%20幻冰龙
 .. _`格鲁斯异虫`: https://ygocdb.com/card/name/格鲁斯异虫
 .. _`霸王眷龙 光辉亚龙`: https://ygocdb.com/card/name/霸王眷龙%20光辉亚龙
+.. _`娱乐伙伴 国王熊精`: https://ygocdb.com/card/name/娱乐伙伴%20国王熊精
