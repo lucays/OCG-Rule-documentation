@@ -1401,7 +1401,7 @@ https://ygocdb.com/card/name/兴奋童话动物家族
 https://ygocdb.com/card/name/鬼计之夜
 https://ygocdb.com/card/name/虚龙魔王%20无形矢·心灵
 https://ygocdb.com/card/name/卡通鹰身女郎
-https://ygocdb.com/card/name/暗黑黑炎龙
+https://ygocdb.com/card/name/暗黑荷鲁斯龙
 https://ygocdb.com/card/name/巧克力魔术少女
 https://ygocdb.com/card/name/女武神·布伦希尔德
 https://ygocdb.com/card/name/来自黑暗的呼声
@@ -5309,3 +5309,5 @@ https://ygocdb.com/card/name/糕冷的料理对决
 https://ygocdb.com/card/name/宝玉兽%20黄玉虎
 https://ygocdb.com/card/name/炎之精灵%20伊夫里特
 https://ygocdb.com/card/name/魔神仪-蜡烛人偶
+https://ygocdb.com/card/name/阴魔罗鬼
+https://ygocdb.com/card/name/龙辉巧流星群

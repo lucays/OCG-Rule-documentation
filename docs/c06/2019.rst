@@ -2321,7 +2321,7 @@ wiki：
 
 | wiki:
 | 「`增殖的G`_」的效果发动时，不能连锁发动「`无效`_」。\ `19/11/2 <http://yugioh-wiki.net/index.php?%A1%D4%CC%B5%B8%FA%A1%D5#faq>`__
-| 「`念动增幅装置`_」\ :strike:`「脑开发研究所」`\ 的效果适用中，即使基本分比要支付的基本分低，也可以不支付基本分发动念动力族怪兽的效果。\ `19/11/2 <http://yugioh-wiki.net/index.php?%A1%D4%C7%B0%C6%B0%C1%FD%C9%FD%C1%F5%C3%D6%A1%D5#faq>`__ \ `19/11/2 <http://yugioh-wiki.net/index.php?%A1%D4%C7%BE%B3%AB%C8%AF%B8%A6%B5%E6%BD%EA%A1%D5#faq>`__
+| 「`念动增幅装置`_」\ :strike:`「脑开发研究所」`\ 的效果适用中，即使基本分比要支付的基本分低，也可以不支付基本分发动念动力族怪兽的效果。\ `19/11/2 <http://yugioh-wiki.net/index.php?%A1%D4%C7%B0%C6%B0%C1%FD%C9%FD%C1%F5%C3%D6%A1%D5#faq>`__
 | 已经特殊召唤的回合，不能对「`来自天龙座的降诞`_」发动「`黑暗中的陷阱`_」。\ `19/11/2 <http://yugioh-wiki.net/index.php?%A1%D4%B0%C7%A4%E8%A4%EA%A4%CE%E6%AB%A1%D5#faq>`__
 
 11/3
