@@ -2514,7 +2514,7 @@
 | 数据库：
 | 「`龙辉巧-右枢α`_」从手卡发动①效果时，不是从墓地把怪兽特殊召唤的效果，因此不能连锁发动「`屋敷童`_」的①效果。此外，「`龙辉巧-右枢α`_」从墓地发动①效果时，是从墓地把怪兽特殊召唤的效果，因此可以连锁发动「`屋敷童`_」的①效果。「`亡龙之战栗-死欲龙`_」「`深渊之相剑龙`_」的①效果等的处理也一样。\ `22/11/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23218&keyword=&tag=-1&request_locale=ja>`__
 | 「`神炎龙 赫界龙`_」的①效果或者「`巨大喷流卫星闪灵`_」的②效果发动后，再发动「`技能抽取`_」的场合，已经适用的『这个回合○○』『发动后○○』继续适用，不会无效。此外，「`神炎龙 赫界龙`_」的①效果或者「`巨大喷流卫星闪灵`_」的②效果发动时，连锁发动「`技能抽取`_」的场合，『这个回合○○』『发动后○○』效果也被无效。\ `22/11/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13019&keyword=&tag=-1&request_locale=ja>`__
-| 怪兽区域存在「`神影依 米德拉什`_」时，手卡中的2张「`淘气仙星·曼珠诗华`_」也可以连锁发动①效果。这个状况，连锁2的「`淘气仙星·曼珠诗华`_」特殊召唤后，连锁1的「`淘气仙星·曼珠诗华`_」不能特殊召唤，留在手卡。此外，如果连锁1的「`淘气仙星·曼珠诗华`_」的①效果处理时「`神影依 米德拉什`_」不在怪兽区域表侧表示存在，可以特殊召唤。\ `22/11/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23922&keyword=&tag=-1&request_locale=ja>`__
+| 怪兽区域存在「`神影依·米德拉什`_」时，手卡中的2张「`淘气仙星·曼珠诗华`_」也可以连锁发动①效果。这个状况，连锁2的「`淘气仙星·曼珠诗华`_」特殊召唤后，连锁1的「`淘气仙星·曼珠诗华`_」不能特殊召唤，留在手卡。此外，如果连锁1的「`淘气仙星·曼珠诗华`_」的①效果处理时「`神影依·米德拉什`_」不在怪兽区域表侧表示存在，可以特殊召唤。\ `22/11/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23922&keyword=&tag=-1&request_locale=ja>`__
 
 | 裁定变更：
 | 「`圣珖神龙 星尘·零`_」的②效果处理时，那只怪兽已经因「`禁忌的圣杯`_」等效果被无效化的场合，『那个效果无效，选场上1张卡破坏』效果仍然正常适用。\ `22/11/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16062&keyword=&tag=-1&request_locale=ja>`__
@@ -3246,7 +3246,6 @@
 .. _`银河龙骑士`: https://ygocdb.com/card/name/银河龙骑士
 .. _`地割`: https://ygocdb.com/card/name/地割
 .. _`铠皇龙-电子暗黑终结龙`: https://ygocdb.com/card/name/铠皇龙-电子暗黑终结龙
-.. _`神影依·米德拉什`: https://ygocdb.com/card/name/神影依·米德拉什
 .. _`旋风`: https://ygocdb.com/card/name/旋风
 .. _`游乐设施`: https://ygocdb.com/?search=游乐设施
 .. _`元素英雄 绝对零度侠`: https://ygocdb.com/card/name/元素英雄%20绝对零度侠
@@ -4047,7 +4046,7 @@
 .. _`光神化`: https://ygocdb.com/card/name/光神化
 .. _`河马狂欢节`: https://ygocdb.com/card/name/河马狂欢节
 .. _`叠光网络`: https://ygocdb.com/card/name/叠光网络
-.. _`神影依 米德拉什`: https://ygocdb.com/card/name/神影依%20米德拉什
+.. _`神影依·米德拉什`: https://ygocdb.com/card/name/神影依·米德拉什
 .. _`泡沫崩溃`: https://ygocdb.com/card/name/泡沫崩溃
 .. _`恐啡肽狂龙音速`: https://ygocdb.com/card/name/恐啡肽狂龙音速
 .. _`脱壳蝉`: https://ygocdb.com/card/name/脱壳蝉

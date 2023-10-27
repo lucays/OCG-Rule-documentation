@@ -527,7 +527,7 @@
 | 「`暗黑之扉`_」在无效状态下也计数，在第二只怪兽攻击的战斗步骤内效果恢复适用时，那次攻击中止。
 
 | 裁定变更：
-| 「`神影依 米德拉什`_」在无效状态下也计数。
+| 「`神影依·米德拉什`_」在无效状态下也计数。
 
 7/20
 ----------
@@ -1248,7 +1248,6 @@
 .. _`效果遮蒙者`: https://ygocdb.com/card/name/效果遮蒙者
 .. _`幻影骑士团 诅咒标枪`: https://ygocdb.com/card/name/幻影骑士团%20诅咒标枪
 .. _`增草剂`: https://ygocdb.com/card/name/增草剂
-.. _`神影依·米德拉什`: https://ygocdb.com/card/name/神影依·米德拉什
 .. _`收缩`: https://ygocdb.com/card/name/收缩
 .. _`旋风`: https://ygocdb.com/card/name/旋风
 .. _`异次元龙`: https://ygocdb.com/card/name/异次元龙
@@ -1316,7 +1315,7 @@
 .. _`黑魔术师`: https://ygocdb.com/card/name/黑魔术师
 .. _`D.D.乌鸦`: https://ygocdb.com/card/name/D.D.乌鸦
 .. _`毅飞冲天挑战`: https://ygocdb.com/card/name/毅飞冲天挑战
-.. _`神影依 米德拉什`: https://ygocdb.com/card/name/神影依%20米德拉什
+.. _`神影依·米德拉什`: https://ygocdb.com/card/name/神影依·米德拉什
 .. _`无偿交换`: https://ygocdb.com/card/name/无偿交换
 .. _`闪刀姬-雫空`: https://ygocdb.com/card/name/闪刀姬-雫空
 .. _`月光黄鼬`: https://ygocdb.com/card/name/月光黄鼬
