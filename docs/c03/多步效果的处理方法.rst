@@ -189,6 +189,8 @@
 | 「`不知火流 燕之太刀`_」的①效果记述的是『那些卡破坏』，这个效果处理时，作为对象的2张卡其中1张不在场上存在的场合，另1张仍然破坏。这个场合也会进行把怪兽除外的处理。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17412&keyword=&tag=-1&request_locale=ja>`__
 | 「`不知火流 燕之太刀`_」的①效果记述的是『那些卡破坏』，这个效果处理时，作为对象的2张卡都不在场上存在的场合，不会破坏卡片，也不会把怪兽除外。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17411&keyword=&tag=-1&request_locale=ja>`__
 
+.. attention:: 「`分离的烙印`_」的①效果\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17472&request_locale=ja>`__\ 和「`真炎龙 白界龙`_」的②效果\ `23/1/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=18498&request_locale=ja>`__\ 记述的是『那些怪兽在双方场上各1只特殊召唤』，虽然记述是『那些』，但同时明确记述了数量『各1只』，效果处理时如果有1只不能特殊召唤，另1只也不会特殊召唤。
+
 『那○张卡』
 -------------
 
@@ -466,3 +468,5 @@
 .. _`焰圣骑士导-罗兰`: https://ygocdb.com/card/name/焰圣骑士导-罗兰
 .. _`点火骑士`: https://ygocdb.com/?search=点火骑士
 .. _`复仇死者的续魂再结`: https://ygocdb.com/card/name/复仇死者的续魂再结
+.. _`真炎龙 白界龙`: https://ygocdb.com/card/name/真炎龙%20白界龙
+.. _`分离的烙印`: https://ygocdb.com/card/name/分离的烙印
