@@ -672,7 +672,7 @@
    | 「`心眼之祭殿`_」和「`娱乐法师 秋千魔术家`_」的①效果适用中，战斗伤害是1000，于是不受这次战斗伤害。\ `17/7/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21&request_locale=ja270&keyword=&tag=-1>`__
    | 「`传说的渔人三世`_」的③效果和「`娱乐法师 秋千魔术家`_」的①效果适用中，发动「`娱乐法师 高跷射手`_」的②效果，给予的2000伤害加倍后是4000，比「`娱乐法师 秋千魔术家`_」的攻击力高，所以正常受到伤害。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16346&keyword=&tag=-1&request_locale=ja>`__
 
-   ..attention::
+   .. attention::
 
       | 数据库称「`娱乐法师 秋千魔术家`_」的①效果和「`娱乐法师 伤害杂耍人`_」的②效果适用中，只在考虑「`娱乐法师 秋千魔术家`_」的①效果适用后也要受到战斗伤害的状况才会适用「`娱乐法师 伤害杂耍人`_」的②效果。\ `22/9/5 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15393&keyword=&tag=-1&request_locale=ja>`__
       | 这个逻辑实质违反了上述顺序，邮件提问类似状况目前一直调整中。
