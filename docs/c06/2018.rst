@@ -1077,7 +1077,7 @@
 12/21
 ----------
 
-| 「`神眼幻影龙`_」的效果没有记述『只再1次』，左右P区域存在2张可以作3次攻击。
+| 「`神眼幻龙`_」的效果没有记述『只再1次』，左右P区域存在2张可以作3次攻击。
 | :strike:`融合召唤的「凶饿毒融合龙」得到「嵌合要塞龙」的效果的场合，原本攻击力是2000。不是融合召唤得到其效果的场合，由于没有融合素材，得到的效果不适用，原本攻击力是2800。`
 
 12/22
@@ -1400,7 +1400,7 @@
 .. _`伪陷阱`: https://ygocdb.com/card/name/伪陷阱
 .. _`孤毒之剑`: https://ygocdb.com/card/name/孤毒之剑
 .. _`暗黑界的洗脑`: https://ygocdb.com/card/name/暗黑界的洗脑
-.. _`神眼幻影龙`: https://ygocdb.com/card/name/神眼幻影龙
+.. _`神眼幻龙`: https://ygocdb.com/card/name/神眼幻龙
 .. _`创星神 提耶拉`: https://ygocdb.com/card/name/创星神%20提耶拉
 .. _`暗黑之扉`: https://ygocdb.com/card/name/暗黑之扉
 .. _`PSY骨架王·Λ`: https://ygocdb.com/card/name/PSY骨架王·Λ

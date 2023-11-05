@@ -342,7 +342,7 @@ https://ygocdb.com/card/name/毛绒动物·鼠
 https://ygocdb.com/card/name/水晶机巧%20继承玻纤
 https://ygocdb.com/card/name/救祓少女·吉卜利娜
 https://ygocdb.com/card/name/恶之卡组破坏病毒
-https://ygocdb.com/card/name/神眼幻影龙
+https://ygocdb.com/card/name/神眼幻龙
 https://ygocdb.com/card/name/孤火花
 https://ygocdb.com/card/name/幻兽机%20黑猎鹰
 https://ygocdb.com/card/name/神圣魔导王%20恩底弥翁
@@ -5334,3 +5334,5 @@ https://ygocdb.com/card/name/最远方的魊影
 https://ygocdb.com/card/name/合体魔神-门之守护神
 https://ygocdb.com/card/name/炎王的圣域
 https://ygocdb.com/card/name/急袭猛禽-起翼叛逆猎鹰
+https://ygocdb.com/card/name/弧叛逆超量龙
+https://ygocdb.com/card/name/复仇死者之夜
