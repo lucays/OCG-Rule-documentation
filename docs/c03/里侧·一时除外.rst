@@ -81,12 +81,6 @@
 | 反转过的「`无形噬体·暴食`_」被一时除外的场合，①效果不适用。\ `16/1/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18306&keyword=&tag=-1>`__
 | 反转过的「`芳香炉`_」被一时除外的场合，不再是反转过的怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15687&request_locale=ja>`__
 
-.. note::
-
-   | 变成里侧的特殊召唤怪兽的反转召唤被无效的场合，也失去用其他方式特殊召唤的情报。
-   | 例：
-   | X召唤的「`异色眼绝零龙`_」因「`月之书`_」的效果变成里侧表示，之后反转召唤被「`神之宣告`_」的效果无效的场合，也不能发动②效果。
-
 | 特殊召唤的怪兽变成里侧或被一时除外后，\ **仍然是特殊召唤的怪兽**\ 。\ `15/6/11 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=213&keyword=&tag=-1>`__
 | 例：
 | 特殊召唤的怪兽变成里侧表示或被一时除外后，仍然会被「`升灵术师 奘玄`_」的效果破坏。
@@ -104,6 +98,13 @@
 -  融合召唤的怪兽变成里侧或被一时除外后，\ **仍然是融合召唤的怪兽**\ 。\ `16/7/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19553&keyword=&tag=-1>`__
 
 -  仪式召唤的怪兽变成里侧或被一时除外后，\ **仍然是仪式召唤的怪兽**\ 。\ `17/9/21 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=69&keyword=&tag=-1&request_locale=ja>`__ `17/10/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13294&keyword=&tag=-1&request_locale=ja>`__
+
+.. note::
+
+   | 上述变成里侧表示后如果仍然是『○○召唤』的怪兽，再反转召唤被无效并破坏的场合，也当作是『○○召唤』的怪兽被破坏。详见\ :ref:`○○召唤无效`\ 。
+   | 例：
+   | X召唤的「`幻影骑士团 断碎剑`_」变成里侧守备表示，再反转召唤之际，发动「`神之宣告`_」，这次反转召唤无效并破坏的场合，仍然是X召唤的怪兽被破坏，可以发动②效果。\ `23/10/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17662&keyword=&tag=-1&request_locale=ja>`__
+   | 融合召唤的「`暗黑界的龙神王 格拉法`_」变成里侧守备表示，再反转召唤之际，发动「`光之放逐`_」的场合，这次反转召唤无效，可以适用墓地「`暗黑界的惩罚`_」的②效果让场上的「`暗黑界的龙神王 格拉法`_」不被破坏。这个场合，反转召唤被无效的「`暗黑界的龙神王 格拉法`_」不能在场上存在，从场上送去墓地，但不是因对方从场上离开，不能发动②效果。\ `23/10/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24011&keyword=&tag=-1&request_locale=ja>`__
 
 -  P召唤的怪兽变成里侧后，不再是P召唤的怪兽。\ `14/11/14 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14266&keyword=&tag=-1>`__ 被一时除外后，还是P召唤的怪兽。\ `16/1/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18305&keyword=&tag=-1>`__
 
@@ -227,10 +228,6 @@
 | 例：
 | 这个回合发动了效果的怪兽，因卡的效果变成里侧表示后再反转成表侧表示的场合，不再当作这个回合发动过效果，不会因「`俱利伽罗天童`_」的召唤手续而被解放。
 | 「`银河眼光子龙`_」发动了②效果把自身一时除外后，战斗阶段结束时回到场上的场合，不当做这个回合发动过效果的怪兽，特殊召唤「`俱利伽罗天童`_」的场合不能把它解放。
-
--  | 怪兽发动效果时，连锁发动卡的效果把这只怪兽变成里侧表示的场合，仍然是『把效果发动过的怪兽』。
-   | 例：
-   | 「`宝龙星-神数负屃`_」的①效果发动时，连锁发动「`月之书`_」，盖放了这只「`宝龙星-神数负屃`_」的场合，这个效果也正常适用。『这个效果发动过的这张卡从场上离开的场合回到持有者卡组最下面』效果也正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15027&keyword=&tag=-1&request_locale=ja>`__
 
 誓约
 ======
@@ -549,3 +546,7 @@
 .. _`觉星师 莱斯贝尔特`: https://ygocdb.com/card/name/觉星师%20莱斯贝尔特
 .. _`冰剑龙 幻冰龙`: https://ygocdb.com/card/name/冰剑龙%20幻冰龙
 .. _`宝龙星-神数负屃`: https://ygocdb.com/card/name/宝龙星-神数负屃
+.. _`幻影骑士团 断碎剑`: https://ygocdb.com/card/name/幻影骑士团%20断碎剑
+.. _`光之放逐`: https://ygocdb.com/card/name/光之放逐
+.. _`暗黑界的惩罚`: https://ygocdb.com/card/name/暗黑界的惩罚
+.. _`暗黑界的龙神王 格拉法`: https://ygocdb.com/card/name/暗黑界的龙神王%20格拉法
