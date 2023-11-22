@@ -60,6 +60,7 @@ Welcome to OCG Rule documentation!
 ------------
 
 | 直接在有问题的网页底部评论即可。
+| 如果底部评论区无法正常显示也无法评论，可以去\ `官方完全规则书（中文翻译） <https://ocg-rulebook.rtfd.io>`__\ 页面底部评论区评论。
 | 如果对规则有一定了解且有兴趣，可以加入qq群：768881279
 | 或发邮件至我的邮箱：\ lucahhai@gmail.com\ /\ lucahhai@foxmail.com
 
