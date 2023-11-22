@@ -2573,7 +2573,13 @@
 | 只除外手卡怪兽特殊召唤的「`浑然的斗牛诗-俄耳甫斯金公牛`_」在1次战斗阶段中也可以攻击1次。\ `23/11/17 <https://yugioh-wiki.net/index.php?%A1%D4%DE%D5%C1%B3%A4%BF%A4%EB%C6%AE%B5%ED%BB%ED%A1%DD%A5%AA%A5%EB%A5%D5%A5%A7%A5%D6%A5%EB%A1%D5#faq1>`__
 
 | 数据库：
-| 「`王家长眠之谷`_」在场上存在时，也可以从自己的手卡·墓地让包含仪式魔法卡的2张魔法卡回到卡组，从手卡特殊召唤「`肃声的龙贤圣 始龙`_」，「`肃声的龙贤圣 始龙`_」的①效果中，让墓地的魔法卡回到卡组是特殊召唤的手续，这些魔法卡不是因卡的效果回到卡组。\ `23/11/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24025&keyword=&tag=-1&request_locale=ja>`__
+| 「`王家长眠之谷`_」在场上存在时，也可以从自己的手卡·墓地让包含仪式魔法卡的2张魔法卡回到卡组，从手卡特殊召唤「`肃声的龙贤圣 始龙`_」（这些魔法卡不是因卡的效果回到卡组）。\ `23/11/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24025&keyword=&tag=-1&request_locale=ja>`__
+
+11/22
+--------
+
+| 邮件：
+| 「朋克」怪兽的效果发动时，对方连锁发动「`神之通告`_」，或者「朋克」魔法·陷阱卡发动时，对方连锁发动「`神之宣告`_」，那个发动无效的场合，处理后也可以发动墓地用正规手续特殊召唤过的「`朋克即兴 驾龙`_」的②效果。
 
 .. _`皇帝斗技场`: https://ygocdb.com/card/name/皇帝斗技场
 .. _`齿车街`: https://ygocdb.com/card/name/齿车街
@@ -3982,3 +3988,5 @@
 .. _`宝龙星-神数负屃`: https://ygocdb.com/card/name/宝龙星-神数负屃
 .. _`娱乐伙伴 五虹之魔术师`: https://ygocdb.com/card/name/娱乐伙伴%20五虹之魔术师
 .. _`帝王的烈旋`: https://ygocdb.com/card/name/帝王的烈旋
+.. _`神之通告`: https://ygocdb.com/card/name/神之通告
+.. _`朋克`: https://ygocdb.com/?search=朋克

@@ -173,8 +173,6 @@
       | P区域「`虹彩之魔术师`_」的①效果处理『这个回合那只怪兽用和对方怪兽的战斗给与对方的战斗伤害变成2倍』在主要阶段2（或者不能进行战斗阶段的回合）不能进行，结果不能发动P区域「`虹彩之魔术师`_」的①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20422&request_locale=ja>`__\ 此外，这部分和『那之后，这张卡破坏』不在1个时点处理。
       | 在主要阶段2（或者不能进行战斗阶段的回合）也可以发动「`雷击坏兽 雷鸣龙王`_」的④效果。『这个回合，对方不能把魔法·陷阱·怪兽的效果发动』会适用，『这张卡在同1次的战斗阶段中最多3次可以向怪兽攻击』不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19932&keyword=&tag=-1&request_locale=ja>`__
 
-   .. attention:: 特别地，「`魔孔石人`_」的效果\ `17/11/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8619&request_locale=ja>`__ 「`钻头战士`_」的直接攻击效果\ `17/11/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8652&request_locale=ja>`__ 「`超重忍者 忍足-A·C`_」的②效果\ `16/10/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12779&request_locale=ja>`__ 以及「`流星龙`_」的①效果在主要阶段2（或者不能进行战斗阶段的回合）不能发动。
-
 -  | 对于永续魔法·陷阱卡等，处理时不在场上，效果完全不适用的场合，由于这些也是效果，也不会适用。
    | 例：
    | 「`惊天动地`_」的效果发动后，处理时不在场上的场合，这个回合仍可以从卡组把卡送去墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13632&keyword=&tag=-1&request_locale=ja>`__
