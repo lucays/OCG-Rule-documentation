@@ -150,6 +150,13 @@
    | 在卡的发动的同1连锁块不能发动「`通灵盘`_」的①效果、「`海造贼-大航海`_」的②效果和「`逐渐削减的生命`_」的②效果。
    | 在卡的发动的同1连锁块是否可以发动「`哥布林小役人`_」「`真实之眼`_」（对方手卡已经因「`正正堂堂`_」等效果公开的状况，对方的准备阶段时对方手卡有魔法卡的场合）的效果，调整中。
 
+-  | 如果已经存在卡发动时必须适用的效果处理，由于卡发动时的同1连锁块必须发动这个效果，永续陷阱卡的其他效果不能再在同1连锁块发动效果。
+   | 如果是卡发动时可选的效果处理，目前这类永续陷阱卡也不能在同1连锁块发动其他效果。
+   | 例：
+   | 「`失落的圣域`_」卡的发动时不能在同1连锁块发动③效果。\ `21/8/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16648&request_locale=ja>`__
+   | 「`亚马逊拜谒间`_」的①效果是可以不进行的处理，但是在卡的发动时不能在同1连锁块发动②效果。\ `22/6/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17654&request_locale=ja>`__
+   | 「`亚马逊的秘汤`_」的①效果是可以不进行的处理，但是在卡的发动时不能在同1连锁块发动②效果。\ `22/6/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17655&request_locale=ja>`__
+
 -  | 部分文本也会让永续陷阱在卡的发动时不能在同1连锁块发动效果。
    | 例：
    | 「`阳炎光轮`_」的『可以通过把场上表侧表示存在的这张卡送去墓地，从自己墓地选择「`阳炎光轮`_」以外的1张「`阳炎`_」卡加入手卡』的效果，由于需要把自身送去墓地，「`阳炎光轮`_」发动时这个效果不适用。需要在卡片发动完毕之后另开连锁发动。「`灵神统一`_」也是如此。\ `18/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21699&request_locale=ja>`__
@@ -446,3 +453,5 @@
 .. _`海造贼-大航海`: https://ygocdb.com/card/name/海造贼-大航海
 .. _`哥布林小役人`: https://ygocdb.com/card/name/哥布林小役人
 .. _`鬼签`: https://ygocdb.com/card/name/鬼签
+.. _`亚马逊拜谒间`: https://ygocdb.com/card/name/亚马逊拜谒间
+.. _`亚马逊的秘汤`: https://ygocdb.com/card/name/亚马逊的秘汤
