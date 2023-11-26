@@ -783,6 +783,7 @@
 
 | 邮件：
 | 「`交换祭司`_」为连接素材，连接召唤的怪兽攻击力不足500，比如是0或300的场合，也可以发动「`交换祭司`_」的①效果，那只怪兽攻击力下降到0，这个状况也可以抽卡。
+| 「`水晶机巧-矩阵黄晶`_」的①效果处理时，S素材除外的场合，是因这个效果而被除外。「`悲剧之死狱乡演员`_」作为素材被除外的场合，可以发动①效果。对方墓地的「`冰水啼 霓石精·海神`_」也可以发动②效果。
 
 4/15
 -------
@@ -2603,6 +2604,8 @@
 | 「`兰卡之虫惑魔`_」的③效果处理时，盖放的魔法·陷阱卡不需要给对方观看。\ `17/4/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13069&request_locale=ja>`__ 「`沙尘之大龙卷`_」\ `22/4/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=4988&request_locale=ja>`__\ 「`荒野的大龙卷`_」\ `17/12/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8859&request_locale=ja>`__\ 也一样。
 | 「`失落的圣域`_」卡的发动时不能在同1连锁块发动③效果。\ `21/8/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16648&request_locale=ja>`__
 | 「`通灵盘`_」卡的发动时不能在同1连锁块发动①效果。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5224&request_locale=ja>`__
+| 自身①的方法特殊召唤的「`异次元的精灵`_」在到下次的准备阶段持续在怪兽区域表侧表示的状况才会发动②效果。\ `17/9/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=9295&request_locale=ja>`__
+| 自身②的方法特殊召唤的「`糖果小丑`_」在到下次的对方结束阶段持续在怪兽区域表侧表示的状况才会发动③效果。\ `17/9/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8300&request_locale=ja>`__
 
 | 裁定变更：
 | 当回合特殊召唤的「`闪刀姬-雫空`_」被「`S：P小夜`_」的②效果等一时除外的场合，之后回到场上也不能再发动②效果（即使这个回合还没发动过）。「`破坏龙 甘多拉`_」等『召唤·反转·反转召唤·特殊召唤的回合』发动的效果也一样，从召唤·特殊召唤·反转·反转召唤到发动这类效果为止，必须持续在场上表侧表示存在，才能发动这类效果。\ `23/11/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24032&keyword=&tag=-1&request_locale=ja>`__
@@ -4092,3 +4095,6 @@
 .. _`电子多变龙`: https://ygocdb.com/card/name/电子多变龙
 .. _`星空蝶`: https://ygocdb.com/card/name/星空蝶
 .. _`救魔之标`: https://ygocdb.com/card/name/救魔之标
+.. _`糖果小丑`: https://ygocdb.com/card/name/糖果小丑
+.. _`水晶机巧-矩阵黄晶`: https://ygocdb.com/card/name/水晶机巧-矩阵黄晶
+.. _`异次元的精灵`: https://ygocdb.com/card/name/异次元的精灵
