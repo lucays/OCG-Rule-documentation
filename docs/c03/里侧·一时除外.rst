@@ -202,12 +202,11 @@
    | 通过自身记述的召唤方法特殊召唤的「`方界兽 利刃之迦楼迪亚`_」被一时除外的场合，①效果不再适用，结果攻击力是0。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19093&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 『这张卡的①的方法召唤的这张卡』『这个方法召唤的这张卡』这样，通过自身方法召唤的情报在变成里侧表示后丢失。
-   | 被一时除外的场合，攻击力·守备力·等级等恢复卡片记述的数值，需要发动的效果可以发动，不入连锁的文本目前的卡片都不适用。
+   | 被一时除外的场合，需要发动的效果可以发动，攻击力·守备力·等级等恢复卡片记述的数值，其他不入连锁的效果会适用。但特别地，特殊胜利相关的文本不适用。
    | 例：
    | 通过自身①的方法，不用解放作召唤的「`邪神机-狱炎`_」「`迷雾恶魔`_」被一时除外，当回合回到场上后，结束阶段仍然要发动②效果。
    | 通过自身①的方法，不用解放作召唤的「`战栗之凶皇-始祖恶魔`_」被一时除外，当回合回到场上后，攻击力·守备力回到3000/2000，结束阶段不会破坏。
-   | 通过自身①的方法，
-   | 用自身记述的方法召唤的「`守护神 艾克佐迪亚`_」在被一时除外后，自身②效果不再适用，攻击力·守备力是0，因其他卡上升攻击力，战斗破坏原本持有者是对方的恶魔族·暗属性怪兽时，也不会胜利。\ `19/4/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10736&keyword=&tag=-1&request_locale=ja>`__
+   | 用自身记述的方法召唤的「`守护神 艾克佐迪亚`_」在被一时除外后，自身②效果不再适用，攻击力·守备力是0。因其他卡上升攻击力，战斗破坏原本持有者是对方的恶魔族·暗属性怪兽时，也不会胜利。\ `19/4/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10736&keyword=&tag=-1&request_locale=ja>`__
    | 通过自身记述的召唤方法召唤的「`光神机-樱火`_」「`光神机-轰龙`_」在结束阶段前变成里侧表示再翻开的场合，结束阶段不会发动效果；被一时除外再回到场上的场合，结束阶段仍然会发动效果。\ `23/11/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24031&keyword=&tag=-1&request_locale=ja>`__
    | 「`轻盈水星`_」用②效果召唤后，变成里侧表示的场合③效果不再适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19376&keyword=&tag=-1&request_locale=ja>`__ 被一时除外的场合，仍然适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6211&keyword=&tag=-1&request_locale=ja>`__
 
