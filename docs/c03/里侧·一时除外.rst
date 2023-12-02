@@ -63,22 +63,16 @@
 出场方式
 ========
 
-| 召唤的怪兽在变成里侧或被一时除外后，仍然是召唤的怪兽。
+| 通常召唤的怪兽在变成里侧或被一时除外后，仍然是召唤的怪兽。
 | 例：
-| 「`破坏龙 甘多拉`_」在召唤的结束阶段之前变成里侧再反转，结束阶段效果会发动，送去墓地。被一时除外再在结束阶段回到场上，效果也会发动。
+| 通常召唤的怪兽变成里侧再反转或被一时除外后，仍然会被「`欧米伽大日`_」的效果破坏。\ `10/12/12 <https://yugioh-wiki.net/index.php?%A1%D4%A5%F4%A5%A1%A5%A4%A5%ED%A5%F3%A1%A6%A5%AA%A5%E1%A5%AC%A1%D5#faq>`__
+| 再1次召唤二重怪兽被一时除外后，是通常召唤的通常怪兽，仍然可以装备「`盾牌猛击`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7610&keyword=&tag=-1&request_locale=ja>`__
 
 -  再1次召唤的二重怪兽变成里侧或被一时除外后，不再是再1次召唤的怪兽，只当作通常怪兽，要得到效果必须再1次召唤。\ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6748&keyword=&tag=-1>`__ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6758&keyword=&tag=-1>`__
 
 -  | 上级召唤的怪兽变成里侧或被一时除外后，\ **仍然是上级召唤的怪兽**\ 。\ `15/2/5 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6109&keyword=&tag=-1>`__
    | 例：
    | 解放怪兽和永续陷阱表侧表示上级召唤的「`真龙剑皇 卓辉星·拼图`_」变成里侧表示或被一时除外再反转，仍然可以发动②效果。
-
-.. attention:: 召唤仅指表侧表示通常召唤。这是基本规则。
-
-| 反转召唤的怪兽变成里侧后不再是反转召唤的怪兽，一时除外后也一样，也不当作『反转过』。
-| 例：
-| 反转过的「`无形噬体·暴食`_」被一时除外的场合，①效果不适用。\ `16/1/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18306&keyword=&tag=-1>`__
-| 反转过的「`芳香炉`_」被一时除外的场合，不再是反转过的怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15687&request_locale=ja>`__
 
 | 特殊召唤的怪兽变成里侧或被一时除外后，\ **仍然是特殊召唤的怪兽**\ 。\ `15/6/11 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=213&keyword=&tag=-1>`__
 | 例：
@@ -98,14 +92,19 @@
 
 -  仪式召唤的怪兽变成里侧或被一时除外后，\ **仍然是仪式召唤的怪兽**\ 。\ `17/9/21 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=69&keyword=&tag=-1&request_locale=ja>`__ `17/10/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13294&keyword=&tag=-1&request_locale=ja>`__
 
+-  P召唤的怪兽变成里侧后，不再是P召唤的怪兽。\ `14/11/14 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14266&keyword=&tag=-1>`__ 被一时除外后，还是P召唤的怪兽。\ `16/1/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18305&keyword=&tag=-1>`__
+
+| 反转召唤的怪兽变成里侧后不再是反转召唤的怪兽，一时除外后也一样，也不当作『反转过』。
+| 例：
+| 反转过的「`无形噬体·暴食`_」被一时除外的场合，①效果不适用。\ `16/1/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18306&keyword=&tag=-1>`__
+| 反转过的「`芳香炉`_」被一时除外的场合，不再是反转过的怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15687&request_locale=ja>`__
+
 .. note::
 
-   | 上述变成里侧表示后如果仍然是『○○召唤』的怪兽，再反转召唤被无效并破坏的场合，也当作是『○○召唤』的怪兽被破坏。详见\ :ref:`○○召唤无效`\ 。
+   | 『○○召唤』的怪兽变成里侧表示后如果仍然是『○○召唤』的怪兽，再反转召唤被无效并破坏的场合，也当作是『○○召唤』的怪兽被破坏。详见\ :ref:`○○召唤无效`\ 。
    | 例：
    | X召唤的「`幻影骑士团 断碎剑`_」变成里侧守备表示，再反转召唤之际，发动「`神之宣告`_」，这次反转召唤无效并破坏的场合，仍然是X召唤的怪兽被破坏，可以发动②效果。\ `23/10/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17662&keyword=&tag=-1&request_locale=ja>`__
    | 融合召唤的「`暗黑界的龙神王 格拉法`_」变成里侧守备表示，再反转召唤之际，发动「`光之放逐`_」的场合，这次反转召唤无效，可以适用墓地「`暗黑界的惩罚`_」的②效果让场上的「`暗黑界的龙神王 格拉法`_」不被破坏。这个场合，反转召唤被无效的「`暗黑界的龙神王 格拉法`_」不能在场上存在，从场上送去墓地，但不是因对方从场上离开，不能发动②效果。\ `23/10/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24011&keyword=&tag=-1&request_locale=ja>`__
-
--  P召唤的怪兽变成里侧后，不再是P召唤的怪兽。\ `14/11/14 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14266&keyword=&tag=-1>`__ 被一时除外后，还是P召唤的怪兽。\ `16/1/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18305&keyword=&tag=-1>`__
 
 | 墓地等不在场上的怪兽自然没有出场方式的情报，墓地的「`异色眼绝零龙`_」当然不会是特殊召唤的怪兽。更不用说是否是从额外卡组特殊召唤的怪兽了。
 | 已死之物何来如何上场的情报呢？
@@ -150,7 +149,7 @@
    | 当回合特殊召唤的「`闪刀姬-雫空`_」被「`S：P小夜`_」的②效果等一时除外的场合，之后回到场上也不能再发动②效果（即使这个回合还没发动过）。「`破坏龙 甘多拉`_」等『召唤·反转·反转召唤·特殊召唤的回合』发动的效果也一样，从召唤·特殊召唤·反转·反转召唤到发动这类效果为止，必须持续在场上表侧表示存在，才能发动这类效果。\ `23/11/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24032&keyword=&tag=-1&request_locale=ja>`__
    | 当回合召唤·特殊召唤的「`急袭猛禽-驱逐伯劳`_」先变成里侧表示再反转的场合，即使还在主要阶段，也不能发动①效果。「`天使之声`_」等『召唤·特殊召唤·反转·反转召唤的回合』发动的效果也一样，从召唤·特殊召唤·反转·反转召唤到发动这类效果为止，必须持续在怪兽区域表侧表示存在，才能发动这类效果。\ `23/11/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24030&keyword=&tag=-1&request_locale=ja>`__
 
-   -  | 『这张卡的①的方法特殊召唤的这张卡』等发动的效果的处理也一样。
+   -  | 『这张卡的①的方法特殊召唤的这张卡』等，如果是在特定阶段发动的效果，处理也一样。
       | 例：
       | 通过自身①的方法特殊召唤的「`撒旦老人`_」被一时除外，当回合回到场上后，结束阶段不能发动②效果。
       | 自身①的方法特殊召唤的「`异次元的精灵`_」在到下次的准备阶段持续在怪兽区域表侧表示的状况才会发动②效果。\ `17/9/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=9295&request_locale=ja>`__
@@ -636,3 +635,5 @@
 .. _`新式魔厨`: https://ygocdb.com/?search=新式魔厨
 .. _`新式魔厨的黄油香煎巴拉姆`: https://ygocdb.com/card/name/新式魔厨的黄油香煎巴拉姆
 .. _`No.`: https://ygocdb.com/card/name/No.
+.. _`盾牌猛击`: https://ygocdb.com/card/name/盾牌猛击
+.. _`欧米伽大日`: https://ygocdb.com/card/name/欧米伽大日
