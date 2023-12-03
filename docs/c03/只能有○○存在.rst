@@ -157,7 +157,7 @@
 | 例：
 | 不能用包含场上「`召命之神弓-阿波罗萨`_」在内的怪兽为素材连接召唤第2只「`召命之神弓-阿波罗萨`_」。\ `19/4/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22595&keyword=&tag=-1&request_locale=ja>`__
 | 不能把自己怪兽区域的「`坏兽`_」怪兽解放来表侧表示上级召唤第2只「`坏兽`_」怪兽。不过，里侧守备表示来上级召唤「`坏兽`_」怪兽的场合，可以解放自己怪兽区域的「`坏兽`_」怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19923&keyword=&tag=-1&request_locale=ja>`__
-| 场上存在「罪」怪兽时，因「`亚空间物质传送装置`_」等，被表侧表示一时除外的「罪」怪兽，在要回到场上的时点，即使存在「`技能抽取`_」，自身的①效果也会在除外状态适用，不会回到场上，而是放置到墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9559&keyword=&tag=-1&request_locale=ja>`__
+| 场上存在「`罪`_」怪兽时，因「`亚空间物质传送装置`_」等，被表侧表示一时除外的「`罪`_」怪兽，在要回到场上的时点，即使存在「`技能抽取`_」，自身的①效果也会在除外状态适用，不会回到场上，而是放置到墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9559&keyword=&tag=-1&request_locale=ja>`__
 | 多只「`丽之魔妖-妲姬`_」在墓地存在，「`魔妖`_」怪兽从额外卡组往自己场上特殊召唤时，可以连锁把这些「`丽之魔妖-妲姬`_」的②效果都发动。在第1只「`丽之魔妖-妲姬`_」特殊召唤成功后，其余效果不适用，留在墓地。\ `18/8/3 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22067&keyword=&tag=-1&request_locale=ja>`__
 | 对方场上存在「`坏兽`_」怪兽时，不能把对方场上的怪兽（包括那只「`坏兽`_」怪兽）解放来特殊召唤自己手卡的「`坏兽`_」怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19940&keyword=&tag=-1&request_locale=ja>`__
 | 卡组存在和「`神禽王 亚力克特`_」相同等级的鸟兽族怪兽时，才能解放「`神禽王 亚力克特`_」来发动「`燕巢`_」，处理时由于场上已经不存在「`神禽王 亚力克特`_」，可以特殊召唤第2只。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13830&keyword=&tag=-1&request_locale=ja>`__

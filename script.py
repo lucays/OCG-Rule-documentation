@@ -201,6 +201,7 @@ def add_cdb_url(texts: str) -> str:
         if serie_name not in have_url_card_names:
             tail_texts.add(f'.. _`{serie_name}`: {new_serie_url}')
         else:
+            new_texts = new_texts.replace(f'「{serie_name}」', f'「`{serie_name}`_」')
             new_texts = new_texts.replace(f'.. _`{serie_name}`: https://ygocdb.com/card/name/{serie_name}', f'.. _`{serie_name}`: {new_serie_url}')
 
     new_texts += '\n'
