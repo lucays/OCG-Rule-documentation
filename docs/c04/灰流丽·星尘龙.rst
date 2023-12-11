@@ -45,7 +45,10 @@
    | 「`大宇宙`_」的②效果适用中，发动「`愚蠢的埋葬`_」的场合，仍然可以连锁发动「`灰流丽`_」的①效果。\ `17/3/24 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20543&keyword=&tag=-1>`__
    | 「`女神薇儿丹蒂的引导`_」的②效果发动时，不管宣言的卡的种类是什么，这都是包含把怪兽特殊召唤的效果，可以连锁发动「`珠泪哀歌族·鲁莎卡人鱼`_」的②效果。\ `22/7/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23806&keyword=&tag=-1&request_locale=ja>`__
 
-   .. attention:: 「`死之卡组破坏病毒`_」「`连锁破坏`_」这样把卡组的卡片破坏的效果发动时，不能连锁发动「`灰流丽`_」的①效果。
+   .. attention::
+
+      | 「`死之卡组破坏病毒`_」「`连锁破坏`_」这样把卡组的卡片破坏的效果发动时，不能连锁发动「`灰流丽`_」的①效果。
+      | 「`无效`_」发动时，不能连锁发动「`灰流丽`_」的①效果。但因「`无效`_」而送去墓地的卡是从卡组送去墓地，「`企鹅骑士`_」被送去墓地的场合可以发动效果。
 
 -  | 必发效果强制发动时，可能不包含特定效果。
    | 例：
@@ -176,3 +179,5 @@
 .. _`废铁`: https://ygocdb.com/?search=废铁
 .. _`假面英雄 暗爪`: https://ygocdb.com/card/name/假面英雄%20暗爪
 .. _`融合解除`: https://ygocdb.com/card/name/融合解除
+.. _`企鹅骑士`: https://ygocdb.com/card/name/企鹅骑士
+.. _`无效`: https://ygocdb.com/card/name/无效
