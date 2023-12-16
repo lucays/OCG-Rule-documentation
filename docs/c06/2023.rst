@@ -2860,6 +2860,10 @@
 
 | 数据库：
 | 适用了「`武神决战`_」效果的怪兽，是在战斗破坏怪兽送去墓地的伤害步骤结束时发动那个效果，战斗破坏P怪兽，加入额外卡组的场合不能发动那个效果。\ `23/12/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9930&keyword=&tag=-1&request_locale=ja>`__
+| 「`叠光网络`_」的①效果、「`原质炉衔尾巨蛇`_」的③效果、「`救祓少女们的圣母颂歌`_」的③效果和「`牲祭升阶`_」的①效果让X素材回到手卡·额外卡组或被除外等的场合，也是『场上的X素材被取除』，可以发动「`巨大喷流“冠军”尾宿五`_」「`百鬼罗刹 巨魁加邦加`_」的②效果。\ `23/12/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23904&keyword=&tag=-1&request_locale=ja>`__
+| 「`童话动物·魔魅妈咪`_」的『这张卡持有的X素材数量让这张卡得到以下效果』文本不是效果。\ `20/4/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=15279&request_locale=ja>`__
+| 先攻的第1回合或者不能进行战斗阶段的回合以及主要阶段2，不能发动「`征服斗魂 潘特拉`_」②的『●地：』效果。\ `23/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=18728&request_locale=ja>`__
+| 「`人偶国王`_」用①的效果特殊召唤成功的场合，直到下次的自己回合的结束阶段持续表侧表示在怪兽区域的状况，才会发动②效果。\ `21/12/31 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6723&request_locale=ja>`__
 
 .. _`皇帝斗技场`: https://ygocdb.com/card/name/皇帝斗技场
 .. _`齿车街`: https://ygocdb.com/card/name/齿车街
@@ -4423,3 +4427,9 @@
 .. _`炎狱护卫龙`: https://ygocdb.com/card/name/炎狱护卫龙
 .. _`次世代控制员`: https://ygocdb.com/card/name/次世代控制员
 .. _`水晶机巧-中枢大蛇`: https://ygocdb.com/card/name/水晶机巧-中枢大蛇
+.. _`人偶国王`: https://ygocdb.com/card/name/人偶国王
+.. _`牲祭升阶`: https://ygocdb.com/card/name/牲祭升阶
+.. _`救祓少女们的圣母颂歌`: https://ygocdb.com/card/name/救祓少女们的圣母颂歌
+.. _`百鬼罗刹 巨魁加邦加`: https://ygocdb.com/card/name/百鬼罗刹%20巨魁加邦加
+.. _`童话动物·魔魅妈咪`: https://ygocdb.com/card/name/童话动物·魔魅妈咪
+.. _`叠光网络`: https://ygocdb.com/card/name/叠光网络
