@@ -2884,6 +2884,9 @@
 | 调整中确认：
 | 怪兽区域表侧表示存在「`奇迹之侏罗纪蛋`_」或「`玄化执行神`_」时，不论墓地存在2种类还是3种类「`甘多拉`_」怪兽，我方都不能发动「`破坏龙 甘多拉-烈光闪`_」的②效果。
 
+| 数据库：
+| 把「`闭锁世界的冥神`_」连接召唤时，包含适用「`闭锁天之月`_」①效果的怪兽在内，可以让对方场上2只怪兽作为素材。\ `23/12/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24037&keyword=&tag=-1&request_locale=ja>`__
+
 .. _`皇帝斗技场`: https://ygocdb.com/card/name/皇帝斗技场
 .. _`齿车街`: https://ygocdb.com/card/name/齿车街
 .. _`查理大帝`: https://ygocdb.com/card/name/查理大帝
@@ -4470,3 +4473,4 @@
 .. _`维萨斯-阿密哩多罗`: https://ygocdb.com/card/name/维萨斯-阿密哩多罗
 .. _`超魔导战士-混沌制驭者`: https://ygocdb.com/card/name/超魔导战士-混沌制驭者
 .. _`四兽层 摇晃乐师`: https://ygocdb.com/card/name/四兽层%20摇晃乐师
+.. _`闭锁天之月`: https://ygocdb.com/card/name/闭锁天之月
