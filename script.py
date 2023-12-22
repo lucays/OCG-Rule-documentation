@@ -152,6 +152,8 @@ def add_cdb_url(texts: str) -> str:
                     is_card = True
                     if name.strip('「`_」') in NOT_CARD_NAMES:
                         is_card = False
+                    if '○○' in name:
+                        is_card = False
                     for serie in (
                         '怪兽', '魔法', '陷阱', '卡',
                         '通常怪兽', '调整', '效果怪兽', '连接怪兽', 'S怪兽', 'X怪兽', 'P怪兽', '融合怪兽', '仪式怪兽',
@@ -166,7 +168,7 @@ def add_cdb_url(texts: str) -> str:
                             series_name.append(name)
                             is_card = False
                             break
-                    if '衍生物' in name:
+                    if '衍生物' in name and '○○' not in name:
                         series_name.append(name)
                         is_card = False
                     if is_card:
