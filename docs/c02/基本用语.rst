@@ -789,7 +789,7 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 文本中的融合素材通常有以下2种含义：
 
 - 把融合怪兽特殊召唤时作为素材使用的卡（如果有）
-- 融合怪兽情报栏文本中第2行记述的卡
+- 融合怪兽情报栏文本中记述的卡
 
 | 例：
 | 「`假面英雄 暗鬼`_」没有记载融合素材，是不持有融合素材的融合怪兽。
@@ -799,10 +799,14 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 | 记述『不能作为融合·同调·XYZ召唤的素材』的「`常暗的契约书`_」①效果适用中，对方仍然可以把「`灵兽使`_」怪兽和「`精灵兽`_」怪兽除外来特殊召唤「`圣灵兽骑 火狮`_」（不是融合召唤，也就不是融合召唤的素材）。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13475&request_locale=ja>`__
 | 根据出场方式的不同，「`雷神龙-雷龙`_」的融合素材是「`雷龙`_」怪兽或手卡1只雷族怪兽和「`雷神龙-雷龙`_」以外的自己场上1只雷族融合怪兽。不能使用变成雷族的「`剑斗兽总监 主斗`_」等，不能当作融合素材的雷族融合怪兽。\ `19/9/11 <http://yugioh-wiki.net/index.php?%A1%D4%CD%EB%BF%C0%CE%B6%A1%DD%A5%B5%A5%F3%A5%C0%A1%BC%A1%A6%A5%C9%A5%E9%A5%B4%A5%F3%A1%D5#faq>`__
 
-.. attention::
+-  | 记述『一组融合素材』的「`融合解除`_」等，指融合怪兽情报栏文本中记述的那一组怪兽。
+   | 记述『1只融合素材怪兽』的「`分体`_」「`融合再生机构`_」等，没有这个限制。
+   | 例：
+   | 「`凶饿毒融合龙`_」的融合素材是『衍生物以外的场上的暗属性怪兽』，墓地的怪兽不是场上的怪兽，因「`融合解除`_」的效果回到额外卡组后不会从墓地把融合召唤所使用的素材怪兽特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9104&request_locale=ja>`__ 相同记述的「`超越融合`_」的②效果不能对「`凶饿毒融合龙`_」发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20451&request_locale=ja>`__ 
+   | 「`分体`_」的效果可以把「`凶饿毒融合龙`_」融合召唤时使用的1只融合素材怪兽从墓地特殊召唤。
 
-   | 特别地，记述『1只融合素材怪兽』的「`分体`_」「`离心分离力场`_」和「`融合解除`_」等的处理不同，可以把融合召唤「`凶饿毒融合龙`_」时所使用的其中1只融合素材怪兽特殊召唤。
-   | 「`奇迹接触`_」\ `19/7/8 <http://yugioh-wiki.net/index.php?%A1%D4%A5%DF%A5%E9%A5%AF%A5%EB%A1%A6%A5%B3%A5%F3%A5%BF%A5%AF%A5%C8%A1%D5#faq>`__ 「`新宇融合`_」\ `19/7/15 <http://yugioh-wiki.net/index.php?%A1%D4%A5%CD%A5%AA%A5%B9%A1%A6%A5%D5%A5%E5%A1%BC%A5%B8%A5%E7%A5%F3%A1%D5#faq>`__ 「`团结的剑斗兽`_」\ `19/7/13 <http://yugioh-wiki.net/index.php?%A1%D4%C3%C4%B7%EB%A4%B9%A4%EB%B7%F5%C6%AE%BD%C3%A1%D5#faq>`__ 是把融合怪兽无视召唤条件特殊召唤，使用的怪兽完全不当作融合素材，可以使用不能当作融合素材的「`剑斗兽 老虎`_」等怪兽。
+-  | 记述『融合怪兽从额外卡组特殊召唤』的「`融合咒印生物`_」怪兽的②效果，必须使用可以作为融合素材的怪兽，不能使用不能当作融合素材的「`剑斗兽 老虎`_」。\ `19/7/11 <http://yugioh-wiki.net/index.php?%CD%BB%B9%E7%BC%F6%B0%F5%C0%B8%CA%AA#faq>`__ 可以适用「`融合识别`_」等效果。\ `19/9/13 <http://yugioh-wiki.net/index.php?%CD%BB%B9%E7%BC%F6%B0%F5%C0%B8%CA%AA#faq>`__ 但这些怪兽仍然不是融合素材。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14299&request_locale=ja>`__ 解放了「`神数`_」怪兽的场合，也不能发动「`神数的神托`_」的②效果。\ `19/10/2 <http://yugioh-wiki.net/index.php?%CD%BB%B9%E7%BC%F6%B0%F5%C0%B8%CA%AA#faq>`__ 类似文本的「`异界共鸣-同调融合`_」的处理也一样。
+   | 记述『融合怪兽从额外卡组无视召唤条件特殊召唤』『融合怪兽无视召唤条件从额外卡组特殊召唤』的「`奇迹接触`_」\ `19/7/8 <http://yugioh-wiki.net/index.php?%A1%D4%A5%DF%A5%E9%A5%AF%A5%EB%A1%A6%A5%B3%A5%F3%A5%BF%A5%AF%A5%C8%A1%D5#faq>`__ 「`新宇融合`_」\ `19/7/15 <http://yugioh-wiki.net/index.php?%A1%D4%A5%CD%A5%AA%A5%B9%A1%A6%A5%D5%A5%E5%A1%BC%A5%B8%A5%E7%A5%F3%A1%D5#faq>`__ 「`团结的剑斗兽`_」\ `19/7/13 <http://yugioh-wiki.net/index.php?%A1%D4%C3%C4%B7%EB%A4%B9%A4%EB%B7%F5%C6%AE%BD%C3%A1%D5#faq>`__ 等，使用的怪兽完全不当作融合素材，可以使用不能当作融合素材的「`剑斗兽 老虎`_」等怪兽。
 
 | 融合召唤时，以及通过自身召唤手续使用融合素材把融合怪兽特殊召唤时，自己场上里侧表示的卡片也可以作为融合素材。
 | 除「灵摆融合」「幻影融合」等效果以外，融合素材的记述没有『怪兽』『1\ **只**\ 』等表明融合素材需要是怪兽的文本的融合怪兽，召唤手续可以使用魔法·陷阱卡区域以及P区域的怪兽卡。
@@ -819,6 +823,7 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
   | 「`真红眼融合`_」的效果可以把「`超魔导龙骑士-真红眼龙骑士`_」融合召唤。这个场合，融合素材必须包含「`真红眼黑龙`_」。\ `19/12/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22921&keyword=&tag=-1&request_locale=ja>`__
   | 「`真红眼融合`_」的效果处理时，用「`真红眼铁骑士-基亚·弗里德`_」作为战士族的融合素材的场合，仍然不能用「`沼地的魔神王`_」代替「`真红眼黑龙`_」来融合召唤「`真红眼黑刃龙`_」。\ `19/11/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15538&keyword=&tag=-1&request_locale=ja>`__
   | 通过「`烙印融合`_」的效果进行融合召唤的场合，融合怪兽指定的融合素材中『「`阿不思的落胤`_」』的部分必须使用卡名是「`阿不思的落胤`_」的怪兽（比如卡名当作「`阿不思的落胤`_」的「`黑衣龙 白界龙`_」）。因此不能用光属性的「`心眼之女神`_」和暗属性的「`阿不思的落胤`_」来融合召唤指定素材是暗属性怪兽和「`阿不思的落胤`_」的「`神炎龙 赫界龙`_」。\ `21/12/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23495&keyword=&tag=-1&request_locale=ja>`__
+  | 发动「`究极融合`_」融合召唤「`究极龙魔导师`_」时，融合素材有卡名记述的是「`青眼究极龙`_」，没有记述「`青眼白龙`_」，因此融合素材必须包含「`青眼究极龙`_」，不能使用3只「`青眼白龙`_」+1只「混沌」仪式怪兽作为素材回到卡组来融合召唤。\ `23/12/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24039&keyword=&tag=-1&request_locale=ja>`__
 
 融合素材代用怪兽
 -----------------
@@ -836,8 +841,9 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 
 .. attention::
 
-   | 特别地，「`融合咒印生物`_」怪兽②效果把融合怪兽特殊召唤时，虽然不是融合召唤，仍然可以适用自身①效果，「`融合识别`_」等效果也可以适用。\ `19/9/13 <http://yugioh-wiki.net/index.php?%CD%BB%B9%E7%BC%F6%B0%F5%C0%B8%CA%AA#faq>`__ 并且，不能当作融合素材的「`剑斗兽 老虎`_」等，不能被②效果解放。\ `19/7/11 <http://yugioh-wiki.net/index.php?%CD%BB%B9%E7%BC%F6%B0%F5%C0%B8%CA%AA#faq>`__ 
-   | 但是，这个效果解放了的怪兽不当作融合素材处理，特殊召唤的融合怪兽仍然不持有融合素材。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14299&request_locale=ja>`__ 解放了「`神数`_」怪兽的场合，也不能发动「`神数的神托`_」的②效果。\ `19/10/2 <http://yugioh-wiki.net/index.php?%CD%BB%B9%E7%BC%F6%B0%F5%C0%B8%CA%AA#faq>`__
+   | 特别地，记述『融合怪兽从额外卡组特殊召唤』的「`融合咒印生物`_」怪兽的②效果和「`异界共鸣-同调融合`_」处理时，虽然不是融合召唤，但必须使用可以作为融合素材的怪兽，这时也可以使用融合素材代用怪兽。
+   | 例：
+   | 「`沼地的魔神王`_」的①效果适用时，可以把这只「`沼地的魔神王`_」作为cost来发动「`异界共鸣-同调融合`_」并适用。\ `23/6/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23984&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 由于实际的融合素材是代用怪兽，「`融合解除`_」会把融合素材代用怪兽从墓地特殊召唤。
    | 例：
@@ -1838,3 +1844,9 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 .. _`星遗物的交心`: https://ygocdb.com/card/name/星遗物的交心
 .. _`凤翼的爆风`: https://ygocdb.com/card/name/凤翼的爆风
 .. _`命运英雄 冲刺人`: https://ygocdb.com/card/name/命运英雄%20冲刺人
+.. _`融合再生机构`: https://ygocdb.com/card/name/融合再生机构
+.. _`异界共鸣-同调融合`: https://ygocdb.com/card/name/异界共鸣-同调融合
+.. _`究极融合`: https://ygocdb.com/card/name/究极融合
+.. _`混沌`: https://ygocdb.com/?search=混沌
+.. _`青眼究极龙`: https://ygocdb.com/card/name/青眼究极龙
+.. _`究极龙魔导师`: https://ygocdb.com/card/name/究极龙魔导师
