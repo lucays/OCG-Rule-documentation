@@ -2957,6 +2957,9 @@
 | 也当做陷阱卡使用的陷阱怪兽，因「`月之书`_」或「`王宫的通告`_」等效果，里侧或者表侧放到魔法·陷阱卡区域时，如果放到「`急兔马`_」的相同纵列，是放置卡片，「`急兔马`_」的②效果会发动。
 | 没有可用怪兽区域的状况，也可以发动「`魔救之探索者`_」的②效果。但是不能发动「`幻术气球`_」。
 
+| wiki:
+| 「`等级上升！`_」的效果只能特殊召唤「LV」怪兽。不能把「`羽翼栗子球 LV6`_」送去墓地来特殊召唤「`羽翼栗子球`_」。\ `23/12/28 <https://yugioh-wiki.net/index.php?%A1%D4%A5%EC%A5%D9%A5%EB%A5%A2%A5%C3%A5%D7%A1%AA%A1%D5#faq>`__
+
 .. _`皇帝斗技场`: https://ygocdb.com/card/name/皇帝斗技场
 .. _`齿车街`: https://ygocdb.com/card/name/齿车街
 .. _`查理大帝`: https://ygocdb.com/card/name/查理大帝
@@ -4580,3 +4583,7 @@
 .. _`急兔马`: https://ygocdb.com/card/name/急兔马
 .. _`夜刀蛇巳`: https://ygocdb.com/card/name/夜刀蛇巳
 .. _`邪龙 阿难陀`: https://ygocdb.com/card/name/邪龙%20阿难陀
+.. _`等级上升！`: https://ygocdb.com/card/name/等级上升！
+.. _`LV`: https://ygocdb.com/?search=LV
+.. _`羽翼栗子球`: https://ygocdb.com/card/name/羽翼栗子球
+.. _`羽翼栗子球 LV6`: https://ygocdb.com/card/name/羽翼栗子球%20LV6
