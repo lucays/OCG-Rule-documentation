@@ -823,7 +823,7 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
   | 「`真红眼融合`_」的效果可以把「`超魔导龙骑士-真红眼龙骑士`_」融合召唤。这个场合，融合素材必须包含「`真红眼黑龙`_」。\ `19/12/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22921&keyword=&tag=-1&request_locale=ja>`__
   | 「`真红眼融合`_」的效果处理时，用「`真红眼铁骑士-基亚·弗里德`_」作为战士族的融合素材的场合，仍然不能用「`沼地的魔神王`_」代替「`真红眼黑龙`_」来融合召唤「`真红眼黑刃龙`_」。\ `19/11/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15538&keyword=&tag=-1&request_locale=ja>`__
   | 通过「`烙印融合`_」的效果进行融合召唤的场合，融合怪兽指定的融合素材中『「`阿不思的落胤`_」』的部分必须使用卡名是「`阿不思的落胤`_」的怪兽（比如卡名当作「`阿不思的落胤`_」的「`黑衣龙 白界龙`_」）。因此不能用光属性的「`心眼之女神`_」和暗属性的「`阿不思的落胤`_」来融合召唤指定素材是暗属性怪兽和「`阿不思的落胤`_」的「`神炎龙 赫界龙`_」。\ `21/12/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23495&keyword=&tag=-1&request_locale=ja>`__
-  | 发动「`究极融合`_」融合召唤「`究极龙魔导师`_」时，融合素材有卡名记述的是「`青眼究极龙`_」，没有记述「`青眼白龙`_」，因此融合素材必须包含「`青眼究极龙`_」，不能使用3只「`青眼白龙`_」+1只「混沌」仪式怪兽作为素材回到卡组来融合召唤。\ `23/12/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24039&keyword=&tag=-1&request_locale=ja>`__
+  | 发动「`究极融合`_」融合召唤「`究极龙魔导师`_」时，融合素材有卡名记述的是「`青眼究极龙`_」，没有记述「`青眼白龙`_」，因此融合素材必须包含「`青眼究极龙`_」，不能使用3只「`青眼白龙`_」+1只「`混沌`_」仪式怪兽作为素材回到卡组来融合召唤。\ `23/12/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24039&keyword=&tag=-1&request_locale=ja>`__
 
 融合素材代用怪兽
 -----------------
