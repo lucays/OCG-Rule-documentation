@@ -130,15 +130,16 @@ cost
    | 「`真红眼不死龙皇`_」②效果的cost是『自己场上1只不死族怪兽』，必须把表侧表示的不死族怪兽（衍生物也可以）除外才能发动这个效果。\ `22/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17150&request_locale=ja>`__
    | 「`虫惑之园`_」③效果的cost是『自己场上1只怪兽』，『场上1只怪兽』『场上1张魔法·陷阱卡』都对卡片没有特殊要求（在怪兽区域的卡就是怪兽，在场地区域的卡就是场地魔法，在魔法·陷阱卡区域的卡就是魔法·陷阱卡），不是特定卡片（『场上的场地魔法卡』不是特定卡片\ `19/11/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14937&request_locale=ja>`__\ ，『场上的魔法卡』『场上的陷阱卡』是特定卡片），可以除外里侧表示的怪兽来发动这个效果。\ `22/12/3 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=18310&request_locale=ja>`__
 
--  | 怪兽的召唤手续在部分场景可以不严格进行，但是cost必须严格支付。
-   | 例如，基本上，让卡片回到卡组作为召唤手续时，可以让卡片回到额外卡组来进行。
-   | 让卡片回到卡组作为cost时，不能让卡片回到额外卡组来支付cost。
+-  | cost是让卡片回到手卡·卡组时，不能使用会回到额外卡组的怪兽。
+   | 召唤手续的处理目前不太一致。
+   | 「`剑斗兽`_」融合怪兽、「元素英雄」融合怪兽记述的『上记卡回到卡组』可以使用会回到额外卡组的怪兽。（这些在后续复刻时应当和「`究极封印神 艾克佐迪奥斯`_」一样会修正描述为『回到卡组·额外卡组』）
+   | 其他没有记述『回到额外卡组』的怪兽的召唤手续都不能使用会回到额外卡组的怪兽。
    | 例：
+   | 「`冥骸合龙-莫忘冥地王龙`_」的文本明确记述了『回到卡组·额外卡组』，可以使用会回到额外卡组的怪兽。
    | 可以让「`剑斗兽`_」融合怪兽回到额外卡组来特殊召唤「`剑斗兽 凯撒`_」。\ `18/7/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8185&keyword=&tag=-1&request_locale=ja>`__
-   | 墓地只存在融合怪兽时，也可以让那些融合怪兽回到额外卡组来特殊召唤「`究极封印神 艾克佐迪奥斯`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6829&keyword=&tag=-1&request_locale=ja>`__
+   | 墓地只存在融合怪兽时，也可以让那些融合怪兽回到额外卡组来特殊召唤「`究极封印神 艾克佐迪奥斯`_」。这卡在2024-01-01复刻时把『回到卡组』改为『回到卡组·额外卡组』，调整不变。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6829&keyword=&tag=-1&request_locale=ja>`__
+   | 「`超顶科技血神翼龙`_」的召唤手续不能用只能回到额外卡组的怪兽。\ `17/10/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13406&request_locale=ja>`__\ 「`重骑甲虫 强劲海神独角仙`_」也一样。\ `22/9/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16942&request_locale=ja>`__
    | 不能让「`幻变骚灵`_」连接怪兽回到额外卡组来发动「`个人欺骗攻击`_」的①效果。\ `17/7/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21264&keyword=&tag=-1&request_locale=ja>`__
-
-.. attention:: 特别地，「`超顶科技血神翼龙`_」「`重骑甲虫 强劲海神独角仙`_」的召唤手续不能用只能回到额外卡组的怪兽。\ `17/10/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13406&request_locale=ja>`__
 
 解放
 --------
@@ -854,7 +855,7 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 | 「`吸血鬼妖女`_」装备「`冥府之使者衍生物`_」时，由于「`冥府之使者衍生物`_」原本攻击力·守备力是『？』，结果不上升攻击力·守备力。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13797&request_locale=ja>`__
 
 -  | 把卡片送去墓地·回到手卡·卡组的cost·行动手续·怪兽的召唤手续都不能使用衍生物。
-   | 不过，衍生物可以作为S素材，也可以被cost·怪兽的召唤手续解放·除外（不能作为cost被里侧表示除外）。
+   | 不过，衍生物可以作为S素材，也可以被cost·怪兽的召唤手续解放·表侧表示除外（不能被里侧表示除外）。
    | 例：
    | 「`霞之谷的猎鹰`_」不能让衍生物回到手卡来攻击宣言。\ `17/3/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8109&request_locale=ja>`__
    | 「`嵌合要塞龙`_」不能把衍生物送去墓地来特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6875&request_locale=ja>`__
@@ -1850,3 +1851,5 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 .. _`冥界的宝札`: https://ygocdb.com/card/name/冥界的宝札
 .. _`守墓`: https://ygocdb.com/?search=守墓
 .. _`轻盈水星`: https://ygocdb.com/card/name/轻盈水星
+.. _`元素英雄`: https://ygocdb.com/?search=元素英雄
+.. _`冥骸合龙-莫忘冥地王龙`: https://ygocdb.com/card/name/冥骸合龙-莫忘冥地王龙
