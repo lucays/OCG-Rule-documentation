@@ -135,6 +135,26 @@
 | 调整中确认：
 | 对方场上存在「`技能抽取`_」和「`白骨公主`_」时，把地、水、炎、风全部属性除外发动「`贤石炼金师`_」的场合，「`白骨公主`_」结果不会被无效，把自身送去墓地发动③效果的场合这个效果正常适用。
 
+1/26
+-------
+
+| 数据库：
+| 场上存在「`G·B·猎人`_」时，只要对方手卡或墓地存在卡片，我方就可以发动「`文具电子人基地`_」的③效果。此外，这个效果处理时，「`G·B·猎人`_」的效果适用的场合，只让对方手卡·墓地的全部卡片回到卡组。\ `24/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18064&keyword=&tag=-1&request_locale=ja>`__
+
+| 调整中确认：
+| 场上存在「`王家长眠之谷`_」时，即使对方墓地存在魔法·陷阱卡，只要对方场上也存在，我方就可以发动「`水晶机巧-轴子凤凰`_」的①效果，这个效果处理时，对方墓地存在魔法·陷阱卡的场合，这个效果无效，否则正常适用。\ `24/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19660&keyword=&tag=-1&request_locale=ja>`__
+| 「`邪遗式人鱼风灵`_」战斗破坏了「`死灵佐玛`_」这类也当作陷阱卡使用的陷阱怪兽的场合也可以在伤害计算后发动效果，确定被战斗破坏的「`死灵佐玛`_」在伤害步骤结束时不去墓地回到卡组，不能发动②效果。\ `24/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24047&keyword=&tag=-1&request_locale=ja>`__
+
+| 裁定变更：
+| 「`死狱乡的大导剧神`_」和融合·同调·超量·连接怪兽同时特殊召唤的场合，或者对方同时特殊召唤多只怪兽，其中包括「`龙大神`_」特殊召唤到我方场上的场合，不能发动「`死狱乡的大导剧神`_」「`龙大神`_」的①效果这样的效果。这些效果现在和「`奥西里斯之天空龙`_」的④效果一样，必须在满足条件的特殊召唤的时点之前就在场上存在才能发动或者才会发动。\ `24/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12153&keyword=&tag=-1&request_locale=ja>`__
+| 场上存在「`王家长眠之谷`_」时，只在我方怪兽区域表侧表示存在1或2种「`冰结界`_」S怪兽，且对方场上存在卡片的状况，或者我方怪兽区域表侧表示存在3种「`冰结界`_」S怪兽，且对方场上或者手卡有1处存在卡片的状况，我方可以发动「`三叉龙的鼓动`_」。这个效果处理时，如果要进行除外墓地的处理且对方墓地存在卡片，这个效果无效，否则正常适用。\ `24/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24043&keyword=&tag=-1&request_locale=ja>`__
+| 「`王家长眠之谷`_」的②效果适用中，也可以发动「`青色眼睛的激临`_」。这个效果处理时墓地存在卡片的场合，这个效果无效，否则正常适用。\ `24/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12596&keyword=&tag=-1&request_locale=ja>`__
+| 对方怪兽区域存在「`灵灭术师 海空`_」时，只要对方场上存在机械族怪兽，我方就可以发动「`系统崩溃`_」（只有对方墓地存在的场合不能发动）。这个效果处理时，只把对方场上的机械族怪兽除外。\ `24/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7649&keyword=&tag=-1&request_locale=ja>`__
+| 通常召唤的「`混沌幻影`_」得到「`分段龙`_」效果的场合，也可以发动那个③效果，这时破坏攻击力2600以下的主要怪兽区域的怪兽。\ `24/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6264&keyword=&tag=-1&request_locale=ja>`__
+| 从手卡特殊召唤的「`混沌幻影`_」「`新空间侠·黑暗豹`_」得到「`混沌创世神`_」效果的场合，可以发动那个①效果。\ `24/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23092&keyword=&tag=-1&request_locale=ja>`__
+| 融合召唤的「`凶饿毒融合龙`_」等得到「`时间魔导士`_」效果的场合，可以发动那个①效果。\ `24/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23092&keyword=&tag=-1&request_locale=ja>`__
+| 用自身记述的方法召唤的「`守护神 艾克佐迪亚`_」在被一时除外后，自身②效果不再适用，攻击力·守备力是0。但是，因其他卡上升攻击力，战斗破坏原本持有者是对方的恶魔族·暗属性怪兽时，会胜利。\ `24/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10736&keyword=&tag=-1&request_locale=ja>`__
+
 .. _`太古的白石`: https://ygocdb.com/card/name/太古的白石
 .. _`融合识别`: https://ygocdb.com/card/name/融合识别
 .. _`天幻之龙轮`: https://ygocdb.com/card/name/天幻之龙轮
@@ -242,3 +262,24 @@
 .. _`深渊之兽 萨隆魔龙`: https://ygocdb.com/card/name/深渊之兽%20萨隆魔龙
 .. _`青冰白夜龙`: https://ygocdb.com/card/name/青冰白夜龙
 .. _`龙魔道骑士 盖亚`: https://ygocdb.com/card/name/龙魔道骑士%20盖亚
+.. _`奥西里斯之天空龙`: https://ygocdb.com/card/name/奥西里斯之天空龙
+.. _`龙大神`: https://ygocdb.com/card/name/龙大神
+.. _`王家长眠之谷`: https://ygocdb.com/card/name/王家长眠之谷
+.. _`凶饿毒融合龙`: https://ygocdb.com/card/name/凶饿毒融合龙
+.. _`混沌幻影`: https://ygocdb.com/card/name/混沌幻影
+.. _`邪遗式人鱼风灵`: https://ygocdb.com/card/name/邪遗式人鱼风灵
+.. _`系统崩溃`: https://ygocdb.com/card/name/系统崩溃
+.. _`三叉龙的鼓动`: https://ygocdb.com/card/name/三叉龙的鼓动
+.. _`混沌创世神`: https://ygocdb.com/card/name/混沌创世神
+.. _`灵灭术师 海空`: https://ygocdb.com/card/name/灵灭术师%20海空
+.. _`死灵佐玛`: https://ygocdb.com/card/name/死灵佐玛
+.. _`守护神 艾克佐迪亚`: https://ygocdb.com/card/name/守护神%20艾克佐迪亚
+.. _`死狱乡的大导剧神`: https://ygocdb.com/card/name/死狱乡的大导剧神
+.. _`新空间侠·黑暗豹`: https://ygocdb.com/card/name/新空间侠·黑暗豹
+.. _`时间魔导士`: https://ygocdb.com/card/name/时间魔导士
+.. _`G·B·猎人`: https://ygocdb.com/card/name/G·B·猎人
+.. _`冰结界`: https://ygocdb.com/?search=冰结界
+.. _`分段龙`: https://ygocdb.com/card/name/分段龙
+.. _`青色眼睛的激临`: https://ygocdb.com/card/name/青色眼睛的激临
+.. _`水晶机巧-轴子凤凰`: https://ygocdb.com/card/name/水晶机巧-轴子凤凰
+.. _`文具电子人基地`: https://ygocdb.com/card/name/文具电子人基地
