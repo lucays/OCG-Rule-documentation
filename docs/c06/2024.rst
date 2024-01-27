@@ -155,6 +155,17 @@
 | 融合召唤的「`凶饿毒融合龙`_」等得到「`时间魔导士`_」效果的场合，可以发动那个①效果。\ `24/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23092&keyword=&tag=-1&request_locale=ja>`__
 | 用自身记述的方法召唤的「`守护神 艾克佐迪亚`_」在被一时除外后，自身②效果不再适用，攻击力·守备力是0。但是，因其他卡上升攻击力，战斗破坏原本持有者是对方的恶魔族·暗属性怪兽时，会胜利。\ `24/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10736&keyword=&tag=-1&request_locale=ja>`__
 
+1/27
+-------
+
+| 数据库：
+| 「`灵灭术师 海空`_」的①效果适用中，也可以发动「`索菲娅之影灵衣`_」的②效果，效果处理时把场上的卡全部除外；「`王家长眠之谷`_」的②效果适用中，也可以发动「`索菲娅之影灵衣`_」的②效果，效果处理时墓地存在卡的场合，这个效果无效，不会除外场上的卡片，墓地不存在卡的场合这个效果正常适用。\ `24/1/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15079&keyword=&tag=-1&request_locale=ja>`__
+| 「`于贝尔精灵`_」的②效果处理能加入手卡的是有「`于贝尔`_」的卡名记述的1张魔法·陷阱卡，记述『「`于贝尔`_」怪兽』是指定全体卡名带有「`于贝尔`_」字段的怪兽，不是指定「`于贝尔`_」这个卡名。因此这个效果不能选「`噩梦之玉座`_」。\ `24/1/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24048&keyword=&tag=-1&request_locale=ja>`__
+| 我方怪兽区域存在「`光道雅典娜 密涅瓦`_」时，只要场上·墓地存在可以被这个效果除外的卡片（指『不能除外』的卡片以外的卡，不受影响的怪兽也是『不能除外』的卡片以外的卡），对方可以发动「`神光之龙`_」的①效果，把「`光道`_」怪兽以外的卡除外。\ `24/1/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24046&keyword=&tag=-1&request_locale=ja>`__
+| 除外「`异响鸣的不调和`_」发动「`天使之声`_」「`恶魔之声`_」的②怪兽效果时，不会放置响鸣指示物。\ `24/1/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24045&keyword=&tag=-1&request_locale=ja>`__
+| 「`古代的机械暗黑巨人`_」在①效果适用中作为素材融合召唤「`古代的机械超巨人`_」的场合，当作「`古代的机械巨人`_」作为融合素材处理。从手卡·卡组等场所作为融合素材，或者场上里侧表示的「`古代的机械巨人`_」或者效果被无效的「`古代的机械巨人`_」作为融合素材的场合，自身①效果不适用，这个场合不是「`古代的机械巨人`_」作为融合素材。\ `24/1/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24044&keyword=&tag=-1&request_locale=ja>`__
+| 「`雷龙融合`_」等，让融合素材回到卡组，来融合召唤怪兽的效果，作为融合素材的融合怪兽回到额外卡组的场合，这次融合召唤的融合怪兽不能是同1张。只在可以作为融合素材使用的1组怪兽和可以使用这组融合素材融合召唤的融合怪兽在额外卡组存在的状况，可以进行融合召唤，不能在使用融合素材后更换融合怪兽。\ `24/1/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23502&keyword=&tag=-1&request_locale=ja>`__
+
 .. _`太古的白石`: https://ygocdb.com/card/name/太古的白石
 .. _`融合识别`: https://ygocdb.com/card/name/融合识别
 .. _`天幻之龙轮`: https://ygocdb.com/card/name/天幻之龙轮
@@ -196,7 +207,7 @@
 .. _`神之通告`: https://ygocdb.com/card/name/神之通告
 .. _`赐炎之咎姬`: https://ygocdb.com/card/name/赐炎之咎姬
 .. _`黑衣大贤者`: https://ygocdb.com/card/name/黑衣大贤者
-.. _`于贝尔`: https://ygocdb.com/card/name/于贝尔
+.. _`于贝尔`: https://ygocdb.com/?search=于贝尔
 .. _`召唤兽 梅尔卡巴`: https://ygocdb.com/card/name/召唤兽%20梅尔卡巴
 .. _`噩梦之苦痛`: https://ygocdb.com/card/name/噩梦之苦痛
 .. _`纳迦`: https://ygocdb.com/card/name/纳迦
@@ -283,3 +294,16 @@
 .. _`青色眼睛的激临`: https://ygocdb.com/card/name/青色眼睛的激临
 .. _`水晶机巧-轴子凤凰`: https://ygocdb.com/card/name/水晶机巧-轴子凤凰
 .. _`文具电子人基地`: https://ygocdb.com/card/name/文具电子人基地
+.. _`异响鸣的不调和`: https://ygocdb.com/card/name/异响鸣的不调和
+.. _`恶魔之声`: https://ygocdb.com/card/name/恶魔之声
+.. _`神光之龙`: https://ygocdb.com/card/name/神光之龙
+.. _`光道雅典娜 密涅瓦`: https://ygocdb.com/card/name/光道雅典娜%20密涅瓦
+.. _`雷龙融合`: https://ygocdb.com/card/name/雷龙融合
+.. _`噩梦之玉座`: https://ygocdb.com/card/name/噩梦之玉座
+.. _`古代的机械巨人`: https://ygocdb.com/card/name/古代的机械巨人
+.. _`古代的机械超巨人`: https://ygocdb.com/card/name/古代的机械超巨人
+.. _`古代的机械暗黑巨人`: https://ygocdb.com/card/name/古代的机械暗黑巨人
+.. _`于贝尔精灵`: https://ygocdb.com/card/name/于贝尔精灵
+.. _`索菲娅之影灵衣`: https://ygocdb.com/card/name/索菲娅之影灵衣
+.. _`光道`: https://ygocdb.com/?search=光道
+.. _`天使之声`: https://ygocdb.com/card/name/天使之声
