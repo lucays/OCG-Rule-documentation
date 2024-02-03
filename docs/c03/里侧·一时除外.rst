@@ -113,13 +113,14 @@
 从何处来
 ========
 
-| 从卡组·额外卡组·墓地等场所特殊召唤的怪兽，变成里侧后，\ **不再是**\ 从这些场所特殊召唤的怪兽。若被一时除外，仍然是从这些场所特殊召唤的怪兽。
+| 从手卡·卡组·额外卡组·墓地等场所特殊召唤的怪兽，变成里侧后，\ **不再是**\ 从这些场所特殊召唤的怪兽。若被一时除外，仍然是从这些场所特殊召唤的怪兽。
 | 例：
 | 「`苦痛的回廊`_」的效果适用中，从卡组特殊召唤的怪兽变成里侧再反转，不受这个效果影响。\ `10/3/14 <http://yugioh-wiki.net/index.php?%A1%D4%B6%EC%C4%CB%A4%CE%B2%F3%CF%AD%A1%D5#faq>`__ 被一时除外的怪兽回到场上后仍受影响。\ `10/9/17 <http://yugioh-wiki.net/index.php?%A1%D4%B6%EC%C4%CB%A4%CE%B2%F3%CF%AD%A1%D5#faq>`__
 | 从额外卡组特殊召唤的怪兽变成里侧表示后，发动「`影依融合`_」的场合不能从卡组选融合素材。\ `14/6/5 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13284&keyword=&tag=-1>`__
 | 从墓地特殊召唤的怪兽变成里侧表示后，再反转的场合不会因「`太阳的祭坛`_」的效果上升攻击力。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9488&keyword=&tag=-1&request_locale=ja>`__
 | 从墓地特殊召唤的，因「`亚空间物质传送装置`_」等效果被一时除外后回到场上的怪兽，仍然是从墓地特殊召唤的怪兽，我方回合可以发动「`救祓少女阿门武装`_」。\ `21/8/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23329&keyword=&tag=-1&request_locale=ja>`__
 | 从额外卡组特殊召唤的怪兽被一时除外后回到场上的场合，仍然当作从额外卡组特殊召唤的怪兽。从额外卡组特殊召唤的怪兽变成里侧守备表示的场合，从这个时点起不再当作从额外卡组特殊召唤的怪兽。（再变成表侧表示的场合也不是从额外卡组特殊召唤的怪兽。）\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23645&keyword=&tag=-1&request_locale=ja>`__
+| 从手卡特殊召唤的「`混沌创世神`_」被一时除外后回到场上的场合，仍然可以发动①效果。\ `20/10/3 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=15475&request_locale=ja>`__
 
 -  | 直接从这些场所里侧表示特殊召唤的怪兽，因为反转本身不会丢失情报，反转后仍然是从这些场所特殊召唤的怪兽。
    | 例：
@@ -631,3 +632,4 @@
 .. _`No.`: https://ygocdb.com/?search=No.
 .. _`几星霜`: https://ygocdb.com/card/name/几星霜
 .. _`地狱猎犬猛龙`: https://ygocdb.com/card/name/地狱猎犬猛龙
+.. _`混沌创世神`: https://ygocdb.com/card/name/混沌创世神

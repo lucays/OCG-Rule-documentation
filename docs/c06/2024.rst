@@ -138,6 +138,9 @@
 1/26
 -------
 
+| wiki:
+| 「`天极辉舰-熊斗龙巧`_」用「`天斗辉巧极`_」的效果才能特殊召唤。「`天斗辉巧极`_」发动时，不能连锁发动「`连续魔法`_」。\ `24/1/26 <https://yugioh-wiki.net/index.php?%A5%B3%A5%D4%A1%BC#faq>`__
+
 | 数据库：
 | 场上存在「`G·B·猎人`_」时，只要对方手卡或墓地存在卡片，我方就可以发动「`文具电子人基地`_」的③效果。此外，这个效果处理时，「`G·B·猎人`_」的效果适用的场合，只让对方手卡·墓地的全部卡片回到卡组。\ `24/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18064&keyword=&tag=-1&request_locale=ja>`__
 
@@ -158,6 +161,9 @@
 1/27
 -------
 
+| wiki:
+| :strike:`手卡的「光道恶魔 魏丝」发动①效果，特殊召唤自身再从卡组把卡送去墓地的场合，是场上的「光道」怪兽的效果从卡组把卡送去墓地的场合，「光道战士 加洛斯」的效果也会发动。`
+
 | 数据库：
 | 「`灵灭术师 海空`_」的①效果适用中，也可以发动「`索菲娅之影灵衣`_」的②效果，效果处理时把场上的卡全部除外；「`王家长眠之谷`_」的②效果适用中，也可以发动「`索菲娅之影灵衣`_」的②效果，效果处理时墓地存在卡的场合，这个效果无效，不会除外场上的卡片，墓地不存在卡的场合这个效果正常适用。\ `24/1/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15079&keyword=&tag=-1&request_locale=ja>`__
 | 「`于贝尔精灵`_」的②效果处理能加入手卡的是有「`于贝尔`_」的卡名记述的1张魔法·陷阱卡，记述『「`于贝尔`_」怪兽』是指定全体卡名带有「`于贝尔`_」字段的怪兽，不是指定「`于贝尔`_」这个卡名。因此这个效果不能选「`噩梦之玉座`_」。\ `24/1/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24048&keyword=&tag=-1&request_locale=ja>`__
@@ -165,6 +171,59 @@
 | 除外「`异响鸣的不调和`_」发动「`天使之声`_」「`恶魔之声`_」的②怪兽效果时，不会放置响鸣指示物。\ `24/1/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24045&keyword=&tag=-1&request_locale=ja>`__
 | 「`古代的机械暗黑巨人`_」在①效果适用中作为素材融合召唤「`古代的机械超巨人`_」的场合，当作「`古代的机械巨人`_」作为融合素材处理。从手卡·卡组等场所作为融合素材，或者场上里侧表示的「`古代的机械巨人`_」或者效果被无效的「`古代的机械巨人`_」作为融合素材的场合，自身①效果不适用，这个场合不是「`古代的机械巨人`_」作为融合素材。\ `24/1/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24044&keyword=&tag=-1&request_locale=ja>`__
 | 「`雷龙融合`_」等，让融合素材回到卡组，来融合召唤怪兽的效果，作为融合素材的融合怪兽回到额外卡组的场合，这次融合召唤的融合怪兽不能是同1张。只在可以作为融合素材使用的1组怪兽和可以使用这组融合素材融合召唤的融合怪兽在额外卡组存在的状况，可以进行融合召唤，不能在使用融合素材后更换融合怪兽。\ `24/1/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23502&keyword=&tag=-1&request_locale=ja>`__
+
+1/28
+-------
+
+| 邮件：
+| 如果对方的怪兽区域只存在「`奇迹之侏罗纪蛋`_」或者「`玄化执行神`_」，我方不能发动「`破坏剑一闪`_」。如果对方的怪兽区域还存在其他可以除外的怪兽（例如「`青眼白龙`_」），我方可以发动「`破坏剑一闪`_」，除外那些可以被除外的怪兽。
+| 如果对方场上只存在「`奇迹之侏罗纪蛋`_」或者「`玄化执行神`_」，墓地不存在卡片，我方不能发动「`武装龙强击炮`_」的②效果。如果对方场上还存在其他可以除外的怪兽（例如「`青眼白龙`_」），我方可以发动「`武装龙强击炮`_」的②效果。
+| 对方场上存在「`最远方的宇宙`_」和鱼族S怪兽的状况，如果对方魔法·陷阱卡区域和墓地都不存在其他魔法·陷阱卡，我方不能发动「`水晶机巧-轴子凤凰`_」的『①』效果，否则可以发动。
+| 对方场上存在「`最远方的宇宙`_」和鱼族S怪兽的状况，如果对方魔法·陷阱卡区域不存在其他卡，我方不能发动「`弧光勇烈龙`_」的①效果，否则可以。
+| 我方场上只存在「`破坏龙 甘多拉-烈光闪`_」，墓地存在2种类「甘多拉」怪兽，对方场上只存在「`奇迹之侏罗纪蛋`_」或「`玄化执行神`_」的状况，我方不能发动「`破坏龙 甘多拉-烈光闪`_」的②效果。对方场上如果存在其他可以被除外的卡，我方可以发动「`破坏龙 甘多拉-烈光闪`_」的②效果。
+| 我方墓地存在3种类「甘多拉」怪兽时，即使对方场上只存在「`奇迹之侏罗纪蛋`_」或「`玄化执行神`_」且对方墓地不存在卡片，我方也可以发动「`破坏龙 甘多拉-烈光闪`_」的②效果，这个场合只把我方场上·墓地的卡除外。
+| 我方卡组存在原本持有者是对方的「`寄生虫 帕拉赛德`_」时，我方发动「`仇极生智图`_」的①效果，翻开的卡片包含这张「`寄生虫 帕拉赛德`_」的场合，如果把这张「`寄生虫 帕拉赛德`_」加入手卡，后续选这张「`寄生虫 帕拉赛德`_」回到卡组下面的长虹，如何处理，调整中；如果把另外1张卡加入手卡，这张「`寄生虫 帕拉赛德`_」在进行『剩下的卡以及自己1张手卡用喜欢的顺序回到卡组下面』处理时如何处理，调整中。
+
+| wiki:
+| 对方场上存在「`门之防壁`_」时，也可以除外「`异响鸣的不调和`_」发动「`天使之声`_」「`恶魔之声`_」的②怪兽效果。\ `24/1/28 <https://yugioh-wiki.net/index.php?%A1%D4%A5%F4%A5%A1%A5%EB%A5%E2%A5%CB%A5%AB%A1%A6%A5%C7%A5%A3%A5%B5%A5%EB%A5%E2%A5%CB%A5%A2%A1%D5#faq>`__
+| 我方怪兽和对方怪兽进行战斗的攻击宣言时，只在我方怪兽是融合怪兽的场合，我方可以对「`决斗融合`_」发动「`融合复制`_」。\ `24/1/28 <https://yugioh-wiki.net/index.php?%A1%D4%CD%BB%B9%E7%CA%A3%C0%BD%A1%D5#faq>`__
+
+1/29
+-------
+
+| 邮件：
+| 我方场上只存在「`光道雅典娜 密涅瓦`_」和不受效果影响的「`光道`_」怪兽时，这只「`光道`_」怪兽不受「`光道雅典娜 密涅瓦`_」的②效果影响，是『不能除外』的卡片以外的卡。对方可以对这只不受效果影响的「`光道`_」怪兽发动「`因果切断`_」，也可以发动「`武装龙强击炮`_」的②效果。
+| 只要我方的卡组存在卡片，即使手卡的数量为0张，我方也可以发动 「`仇极生智图`_」的①效果。
+| 我方的手卡数量在1张以上，我方把「`仇极生智图`_」的①效果发动时，对方连锁发动「`岔子`_」的场合，从翻开的卡之中选1张，那张卡送去墓地（不是因效果送去墓地）。『剩下的卡以及自己1张手卡用喜欢的顺序回到卡组下面』处理正常进行。
+| 我方的手卡数量为0张，我方把「`仇极生智图`_」的①效果发动时，对方连锁发动「`岔子`_」的场合，从翻开的卡之中选1张，那张卡送去墓地（不是因效果送去墓地）。那之后，仅将剩余的翻开的卡用喜欢的顺序回到卡组下面。
+
+24/02
+========
+
+2/1
+-------
+
+| 数据库：
+| 我方P区域不存在可以放置响鸣指示物的卡时，也可以除外「`异响鸣的不调和`_」发动「`天使之声`_」「`恶魔之声`_」的②怪兽效果。\ `24/2/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24049&keyword=&tag=-1&request_locale=ja>`__
+| 怪兽进行战斗的伤害步骤开始时，发动「`天杯龙 发龙`_」的①效果，特殊召唤了「`天杯龙 中龙`_」的场合，不能立即发动「`天杯龙 中龙`_」的②效果。记述在『伤害步骤开始时』发动的诱发效果，只能在伤害步骤开始时最初的连锁发动。\ `24/2/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24050&keyword=&tag=-1&request_locale=ja>`__
+| 我方发动了「`金满而谦虚之壶`_」，这个回合不能抽卡的状况，只在战斗阶段，且我方场上存在「`光之黄金柜`_」以及有那个卡名记述的怪兽，不能发动「`对未来的沉默`_」。\ `24/2/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24052&keyword=&tag=-1&request_locale=ja>`__
+| 我方「`幻奏的音姬 壮丽之巴赫`_」的②效果适用中，「`幻奏的音姬 巨匠之舒伯特`_」发动①效果，对方连锁对其发动「`无限泡影`_」的场合，仍然会除外卡片。由于自身处于无效状态，攻击力不上升，下个回合不再是无效状态，攻击力也保持原样。\ `24/2/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24053&keyword=&tag=-1&request_locale=ja>`__
+| 「`I：P伪装舞会莱娜`_」的①效果在连锁1发动的状况，可以对那次连接召唤发动『特殊召唤无效』的效果；这个效果在连锁2以上发动的状况，不能对那次连接召唤发动『特殊召唤无效』的效果。\ `24/2/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24054&keyword=&tag=-1&request_locale=ja>`__
+
+| 裁定变更：
+| 「`王宫的铁壁`_」在场上存在，「`邪帝 盖乌斯`_」「`怨邪帝 盖乌斯`_」在上级召唤成功时也会发动效果。这个场合不能取卡片为对象，效果处理时不适用。\ `24/2/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7456&keyword=&tag=-1&request_locale=ja>`__
+
+2/2
+-------
+
+| 数据库：
+| 自身①的方法特殊召唤的「`雷仙神`_」被一时除外再回到场上，再被对方破坏的场合，也会发动②效果。\ `24/2/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13075&request_locale=ja>`__
+| 从手卡特殊召唤的「`混沌创世神`_」被一时除外后回到场上的场合，仍然可以发动①效果。\ `20/10/3 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=15475&request_locale=ja>`__
+| 鱼族怪兽衍生物被除外而消灭的场合，不能发动「`魊影之兆 伊克西普`_」的①效果。\ `23/9/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=18036&request_locale=ja>`__
+| 对方的效果让衍生物被除外而消灭的场合，不能发动墓地「`冰水啼 霓石精·海神`_」的②效果。\ `22/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=18183&request_locale=ja>`__
+| 「`光道雅典娜 密涅瓦`_」的②效果是影响自己场上「`光道`_」怪兽的效果。\ `24/1/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=19884&request_locale=ja>`__
+| 可以对昆虫族·植物族·爬虫类族的衍生物发动「`蕾祸之武者髑髅`_」的②效果，这时衍生物消灭，不特殊召唤。\ `24/1/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=19888&request_locale=ja>`__
+| 「`光道战士 加洛斯`_」的效果，是在自己怪兽区域的「`光道`_」怪兽发动效果从卡组把卡送去墓地的场合才会发动。手卡·墓地发动的「`光道`_」怪兽的效果让卡组的卡送去墓地的场合，不会发动。\ `15/1/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7593&request_locale=ja>`__
 
 .. _`太古的白石`: https://ygocdb.com/card/name/太古的白石
 .. _`融合识别`: https://ygocdb.com/card/name/融合识别
@@ -307,3 +366,38 @@
 .. _`索菲娅之影灵衣`: https://ygocdb.com/card/name/索菲娅之影灵衣
 .. _`光道`: https://ygocdb.com/?search=光道
 .. _`天使之声`: https://ygocdb.com/card/name/天使之声
+.. _`光之黄金柜`: https://ygocdb.com/card/name/光之黄金柜
+.. _`天极辉舰-熊斗龙巧`: https://ygocdb.com/card/name/天极辉舰-熊斗龙巧
+.. _`决斗融合`: https://ygocdb.com/card/name/决斗融合
+.. _`邪帝 盖乌斯`: https://ygocdb.com/card/name/邪帝%20盖乌斯
+.. _`仇极生智图`: https://ygocdb.com/card/name/仇极生智图
+.. _`怨邪帝 盖乌斯`: https://ygocdb.com/card/name/怨邪帝%20盖乌斯
+.. _`蕾祸之武者髑髅`: https://ygocdb.com/card/name/蕾祸之武者髑髅
+.. _`破坏龙 甘多拉-烈光闪`: https://ygocdb.com/card/name/破坏龙%20甘多拉-烈光闪
+.. _`玄化执行神`: https://ygocdb.com/card/name/玄化执行神
+.. _`武装龙强击炮`: https://ygocdb.com/card/name/武装龙强击炮
+.. _`王宫的铁壁`: https://ygocdb.com/card/name/王宫的铁壁
+.. _`奇迹之侏罗纪蛋`: https://ygocdb.com/card/name/奇迹之侏罗纪蛋
+.. _`光道战士 加洛斯`: https://ygocdb.com/card/name/光道战士%20加洛斯
+.. _`弧光勇烈龙`: https://ygocdb.com/card/name/弧光勇烈龙
+.. _`冰水啼 霓石精·海神`: https://ygocdb.com/card/name/冰水啼%20霓石精·海神
+.. _`幻奏的音姬 壮丽之巴赫`: https://ygocdb.com/card/name/幻奏的音姬%20壮丽之巴赫
+.. _`连续魔法`: https://ygocdb.com/card/name/连续魔法
+.. _`金满而谦虚之壶`: https://ygocdb.com/card/name/金满而谦虚之壶
+.. _`最远方的宇宙`: https://ygocdb.com/card/name/最远方的宇宙
+.. _`甘多拉`: https://ygocdb.com/?search=甘多拉
+.. _`门之防壁`: https://ygocdb.com/card/name/门之防壁
+.. _`破坏剑一闪`: https://ygocdb.com/card/name/破坏剑一闪
+.. _`对未来的沉默`: https://ygocdb.com/card/name/对未来的沉默
+.. _`天杯龙 发龙`: https://ygocdb.com/card/name/天杯龙%20发龙
+.. _`因果切断`: https://ygocdb.com/card/name/因果切断
+.. _`雷仙神`: https://ygocdb.com/card/name/雷仙神
+.. _`天斗辉巧极`: https://ygocdb.com/card/name/天斗辉巧极
+.. _`融合复制`: https://ygocdb.com/card/name/融合复制
+.. _`I：P伪装舞会莱娜`: https://ygocdb.com/card/name/I：P伪装舞会莱娜
+.. _`岔子`: https://ygocdb.com/card/name/岔子
+.. _`幻奏的音姬 巨匠之舒伯特`: https://ygocdb.com/card/name/幻奏的音姬%20巨匠之舒伯特
+.. _`天杯龙 中龙`: https://ygocdb.com/card/name/天杯龙%20中龙
+.. _`寄生虫 帕拉赛德`: https://ygocdb.com/card/name/寄生虫%20帕拉赛德
+.. _`无限泡影`: https://ygocdb.com/card/name/无限泡影
+.. _`魊影之兆 伊克西普`: https://ygocdb.com/card/name/魊影之兆%20伊克西普
