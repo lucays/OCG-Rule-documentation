@@ -200,6 +200,12 @@
 2/1
 -------
 
+| wiki:
+| 适用了「`英雄假面`_」效果的「`武装龙·雷电 LV5`_」发动②效果的场合是否可以特殊召唤「`武装龙 LV7`_」，调整中。\ `24/2/1 <https://yugioh-wiki.net/index.php?%A1%D4%A5%A2%A1%BC%A5%E0%A5%C9%A1%A6%A5%C9%A5%E9%A5%B4%A5%F3%A1%A6%A5%B5%A5%F3%A5%C0%A1%BC%20%A3%CC%A3%D6%A3%B5%A1%D5#faq2>`__
+| 「`王家长眠之谷`_」的②效果适用中，也可以发动「`因果切断`_」，效果处理时墓地存在对象怪兽同名卡的场合，这个效果无效，否则正常适用。\ `24/2/1 <https://yugioh-wiki.net/index.php?%A1%D4%B2%A6%B2%C8%A4%CE%CC%B2%A4%EB%C3%AB%A1%DD%A5%CD%A5%AF%A5%ED%A5%D0%A5%EC%A1%BC%A1%D5#faq>`__
+| 「`王家长眠之谷`_」的②效果适用中，也可以发动「`地狱暴风`_」，效果处理时墓地存在怪兽的场合，这个效果无效，否则正常适用。\ `24/2/1 <https://yugioh-wiki.net/index.php?%A1%D4%B2%A6%B2%C8%A4%CE%CC%B2%A4%EB%C3%AB%A1%DD%A5%CD%A5%AF%A5%ED%A5%D0%A5%EC%A1%BC%A1%D5#faq>`__
+| 「`王家长眠之谷`_」的②效果适用中，不能发动「`三叉龙之影灵衣`_」的②效果。\ `24/2/1 <https://yugioh-wiki.net/index.php?%A1%D4%B2%A6%B2%C8%A4%CE%CC%B2%A4%EB%C3%AB%A1%DD%A5%CD%A5%AF%A5%ED%A5%D0%A5%EC%A1%BC%A1%D5#faq>`__
+
 | 数据库：
 | 我方P区域不存在可以放置响鸣指示物的卡时，也可以除外「`异响鸣的不调和`_」发动「`天使之声`_」「`恶魔之声`_」的②怪兽效果。\ `24/2/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24049&keyword=&tag=-1&request_locale=ja>`__
 | 怪兽进行战斗的伤害步骤开始时，发动「`天杯龙 发龙`_」的①效果，特殊召唤了「`天杯龙 中龙`_」的场合，不能立即发动「`天杯龙 中龙`_」的②效果。记述在『伤害步骤开始时』发动的诱发效果，只能在伤害步骤开始时最初的连锁发动。\ `24/2/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24050&keyword=&tag=-1&request_locale=ja>`__
@@ -405,3 +411,7 @@
 .. _`无限泡影`: https://ygocdb.com/card/name/无限泡影
 .. _`魊影之兆 伊克西普`: https://ygocdb.com/card/name/魊影之兆%20伊克西普
 .. _`光道恶魔 魏丝`: https://ygocdb.com/card/name/光道恶魔%20魏丝
+.. _`三叉龙之影灵衣`: https://ygocdb.com/card/name/三叉龙之影灵衣
+.. _`武装龙·雷电 LV5`: https://ygocdb.com/card/name/武装龙·雷电%20LV5
+.. _`地狱暴风`: https://ygocdb.com/card/name/地狱暴风
+.. _`武装龙 LV7`: https://ygocdb.com/card/name/武装龙%20LV7
