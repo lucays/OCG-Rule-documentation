@@ -219,6 +219,10 @@
 2/2
 -------
 
+| wiki:
+| 「`守护神的原力`_」的效果处理时，对象怪兽不在场上表侧表示存在的场合，只把对方基本分减半。\ `24/2/2 <https://yugioh-wiki.net/index.php?%A1%D4%A5%D5%A5%A9%A1%BC%A5%B9%A1%A6%A5%AA%A5%D6%A1%A6%A5%AC%A1%BC%A5%C7%A5%A3%A5%A2%A5%F3%A1%D5#faq>`__
+| 「`苏生的天空神`_」发动时，连锁发动「`铁骑的雷锤`_」的场合，由于发动不会被无效，「`铁骑的雷锤`_」的效果处理不适用。\ `24/2/2 <https://yugioh-wiki.net/index.php?%A1%D4%C5%B4%B5%B3%A4%CE%CD%EB%C4%CA%A1%D5#faq>`__
+
 | 数据库：
 | 自身①的方法特殊召唤的「`雷仙神`_」被一时除外再回到场上，再被对方破坏的场合，也会发动②效果。\ `24/2/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13075&request_locale=ja>`__
 | 从手卡特殊召唤的「`混沌创世神`_」被一时除外后回到场上的场合，仍然可以发动①效果。\ `20/10/3 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=15475&request_locale=ja>`__
@@ -233,6 +237,12 @@
 
 | 邮件：
 | 手卡的「`光道恶魔 魏丝`_」发动①效果，特殊召唤自身再从卡组把卡送去墓地的场合，也不是场上的「`光道`_」怪兽的效果从卡组把卡送去墓地的场合，「`光道战士 加洛斯`_」的效果不会发动。
+
+2/7
+------
+
+| wiki:
+| 「`增殖的G`_」「`流氓佣兵部队`_」的效果发动时，连锁发动「`法老的审判`_」的第1个『●』效果的场合，这些怪兽效果也无效。\ `24/2/7 <https://yugioh-wiki.net/index.php?%A1%D4%A5%D5%A5%A1%A5%E9%A5%AA%A4%CE%BF%B3%C8%BD%A1%D5#faq>`__
 
 .. _`太古的白石`: https://ygocdb.com/card/name/太古的白石
 .. _`融合识别`: https://ygocdb.com/card/name/融合识别
@@ -415,3 +425,9 @@
 .. _`武装龙·雷电 LV5`: https://ygocdb.com/card/name/武装龙·雷电%20LV5
 .. _`地狱暴风`: https://ygocdb.com/card/name/地狱暴风
 .. _`武装龙 LV7`: https://ygocdb.com/card/name/武装龙%20LV7
+.. _`苏生的天空神`: https://ygocdb.com/card/name/苏生的天空神
+.. _`法老的审判`: https://ygocdb.com/card/name/法老的审判
+.. _`铁骑的雷锤`: https://ygocdb.com/card/name/铁骑的雷锤
+.. _`守护神的原力`: https://ygocdb.com/card/name/守护神的原力
+.. _`增殖的G`: https://ygocdb.com/card/name/增殖的G
+.. _`流氓佣兵部队`: https://ygocdb.com/card/name/流氓佣兵部队
