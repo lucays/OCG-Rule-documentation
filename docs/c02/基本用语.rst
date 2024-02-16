@@ -697,7 +697,7 @@ cost
    | 放置了魔力指示物的卡的效果被无效的场合，这张卡不再能放置魔力指示物，已经放置的魔力指示物会全部取除。卡的效果无效时，这张卡放置的指示物是否会被取除，取决于指示物的类型，音响指示物、妖仙指示物、坏兽指示物、黑羽指示物、炎星指示物、运动员指示物等和魔力指示物一样，如果放置了这些指示物的卡片被无效，这些指示物会被全部取除。\ `22/12/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13177&keyword=&tag=-1&request_locale=ja>`__
    | 「`混沌场`_」卡的发动时，连锁发动「`漆黑的能量石`_」的效果，不能以其为对象放置魔力指示物。\ `17/7/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14131&keyword=&tag=-1&request_locale=ja>`__
    | 怪兽区域「`魔导兽 刻耳柏洛斯`_」的效果被无效的场合，仍然是『可以放置魔力指示物的卡』。\ `19/3/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22526&keyword=&tag=-1&request_locale=ja>`__
-   | P区域的「`魔导兽 美杜莎水母`_」的P效果不能给自己放置魔力指示物，不是『可以放置魔力指示物的卡』。\ `19/3/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22527&keyword=&tag=-1&request_locale=ja>`__
+   | P区域的「`魔导兽 美杜莎水母`_」的①效果不能给自己放置魔力指示物，不是『可以放置魔力指示物的卡』。\ `19/3/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22527&keyword=&tag=-1&request_locale=ja>`__
    | 场上的「`暗黑女武神`_」没有再1次召唤的场合是通常怪兽，没有给自己放置魔力指示物的效果，不是『可以放置魔力指示物的卡』。\ `19/3/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22531&keyword=&tag=-1&request_locale=ja>`__
    | 「`暗黑女武神`_」本身记述了给自己放置魔力指示物的效果，在卡组内当作『可以放置魔力指示物的卡』，可以被「`恩底弥翁的仆从`_」的P效果特殊召唤，特殊召唤后是通常怪兽，不会放置魔力指示物，只给「`恩底弥翁的仆从`_」放置。此外，「`超合魔兽 拉普提诺斯`_」的效果适用中「`暗黑女武神`_」被特殊召唤的场合，由于是再1次召唤得到了效果的状态，就会放置魔力指示物了。\ `19/3/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22532&keyword=&tag=-1&request_locale=ja>`__
    | 已经放置了魔力指示物的「`魔导战士 破坏者`_」虽然最多只能放置1个，也是能放置魔力指示物的卡。（因为记述了放置魔力指示物的效果）\ `19/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14213&keyword=&tag=-1&request_locale=ja>`__

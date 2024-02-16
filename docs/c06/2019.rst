@@ -352,7 +352,7 @@
 | 「`创圣魔导王 恩底弥翁`_」等的『可以放置魔力指示物的卡』指持有可以给自己放置魔力指示物的效果的卡片。具体地说：
 
 - 怪兽区域「`魔导兽 刻耳柏洛斯`_」的效果被无效的场合，仍然是『可以放置魔力指示物的卡』。\ `19/3/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22526&keyword=&tag=-1&request_locale=ja>`__
-- P区域的「`魔导兽 刻耳柏洛斯`_」的P效果不能给自己放置魔力指示物，不是『可以放置魔力指示物的卡』。\ `19/3/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22527&keyword=&tag=-1&request_locale=ja>`__
+- P区域的「`魔导兽 美杜莎水母`_」的①效果不能给自己放置魔力指示物，不是『可以放置魔力指示物的卡』。\ `19/3/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22527&keyword=&tag=-1&request_locale=ja>`__
 - 场上的「`暗黑女武神`_」没有再1次召唤的场合是通常怪兽，没有给自己放置魔力指示物的效果，不是『可以放置魔力指示物的卡』。\ `19/3/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22531&keyword=&tag=-1&request_locale=ja>`__
 - 「`暗黑女武神`_」本身记述了给自己放置魔力指示物的效果，在卡组内当作『可以放置魔力指示物的卡』，可以被「`恩底弥翁的仆从`_」的P效果特殊召唤，特殊召唤后是通常怪兽，不会放置魔力指示物，只给「`恩底弥翁的仆从`_」放置。此外，「`超合魔兽 拉普提诺斯`_」的效果适用中「`暗黑女武神`_」被特殊召唤的场合，由于是再1次召唤得到了效果的状态，就会放置魔力指示物了。\ `19/3/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22532&keyword=&tag=-1&request_locale=ja>`__
 
@@ -4397,3 +4397,4 @@ wiki：
 .. _`创圣魔导王 恩底弥翁`: https://ygocdb.com/card/name/创圣魔导王%20恩底弥翁
 .. _`古代的机械箱`: https://ygocdb.com/card/name/古代的机械箱
 .. _`植物狮子`: https://ygocdb.com/card/name/植物狮子
+.. _`魔导兽 美杜莎水母`: https://ygocdb.com/card/name/魔导兽%20美杜莎水母

@@ -205,6 +205,9 @@
 | 「`王家长眠之谷`_」的②效果适用中，也可以发动「`因果切断`_」，效果处理时墓地存在对象怪兽同名卡的场合，这个效果无效，否则正常适用。\ `24/2/1 <https://yugioh-wiki.net/index.php?%A1%D4%B2%A6%B2%C8%A4%CE%CC%B2%A4%EB%C3%AB%A1%DD%A5%CD%A5%AF%A5%ED%A5%D0%A5%EC%A1%BC%A1%D5#faq>`__
 | 「`王家长眠之谷`_」的②效果适用中，也可以发动「`地狱暴风`_」，效果处理时墓地存在怪兽的场合，这个效果无效，否则正常适用。\ `24/2/1 <https://yugioh-wiki.net/index.php?%A1%D4%B2%A6%B2%C8%A4%CE%CC%B2%A4%EB%C3%AB%A1%DD%A5%CD%A5%AF%A5%ED%A5%D0%A5%EC%A1%BC%A1%D5#faq>`__
 | 「`王家长眠之谷`_」的②效果适用中，不能发动「`三叉龙之影灵衣`_」的②效果。\ `24/2/1 <https://yugioh-wiki.net/index.php?%A1%D4%B2%A6%B2%C8%A4%CE%CC%B2%A4%EB%C3%AB%A1%DD%A5%CD%A5%AF%A5%ED%A5%D0%A5%EC%A1%BC%A1%D5#faq>`__
+| 以「`双穹之骑士 阿斯特拉姆`_」为对象发动「`闪烁连接离熄`_」的场合，也可以从墓地特殊召唤作为连接素材的1只怪兽。\ `24/2/1 <https://yugioh-wiki.net/index.php?%A1%D4%A5%D6%A5%EA%A5%F3%A5%AF%A5%A2%A5%A6%A5%C8%A1%D5#faq1>`__
+| 连接召唤后，那只连接怪兽被一时除外，再回到场上，以这只连接怪兽为对象发动「`闪烁连接离熄`_」的场合，也可以从墓地特殊召唤作为连接素材的1只怪兽。\ `24/2/1 <https://yugioh-wiki.net/index.php?%A1%D4%A5%D6%A5%EA%A5%F3%A5%AF%A5%A2%A5%A6%A5%C8%A1%D5#faq1>`__
+| 「`新空间侠·黑暗豹`_」得到「`焰圣骑士帝-查理`_」的卡名·效果后，再因其他卡效果等级变成9，装备装备卡，再作为素材连接召唤了「`查理大帝`_」后，以这只「`查理大帝`_」为对象发动「`闪烁连接离熄`_」的场合，也可以从墓地特殊召唤作为连接素材的「`新空间侠·黑暗豹`_」。\ `24/2/1 <https://yugioh-wiki.net/index.php?%A1%D4%A5%D6%A5%EA%A5%F3%A5%AF%A5%A2%A5%A6%A5%C8%A1%D5#faq1>`__
 
 | 数据库：
 | 我方P区域不存在可以放置响鸣指示物的卡时，也可以除外「`异响鸣的不调和`_」发动「`天使之声`_」「`恶魔之声`_」的②怪兽效果。\ `24/2/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24049&keyword=&tag=-1&request_locale=ja>`__
@@ -243,6 +246,37 @@
 
 | wiki:
 | 「`增殖的G`_」「`流氓佣兵部队`_」的效果发动时，连锁发动「`法老的审判`_」的第1个『●』效果的场合，这些怪兽效果也无效。\ `24/2/7 <https://yugioh-wiki.net/index.php?%A1%D4%A5%D5%A5%A1%A5%E9%A5%AA%A4%CE%BF%B3%C8%BD%A1%D5#faq>`__
+
+2/10
+-------
+
+| wiki:
+| 「`固定音型`_」发动时，也可以连锁发动「`屋敷童`_」的①效果。\ `24/2/10 <https://yugioh-wiki.net/index.php?%A1%D4%A5%AA%A5%B9%A5%C6%A5%A3%A5%CA%A1%BC%A5%C8%A1%D5#faq1>`__
+
+2/14
+-------
+
+| 邮件：
+| 对方场上只有攻击表示的「`召唤僧`_」，攻击我方「`新式魔厨的马赛鱼汤布耶尔`_」的场合，不能发动「`新式魔厨的马赛鱼汤布耶尔`_」的②效果。如果场上存在「`技能抽取`_」，「`新式魔厨的马赛鱼汤布耶尔`_」可以发动②效果，这个效果无效；如果连锁发动「`旋风`_」破坏「`技能抽取`_」的场合，这个②效果完全不适用。
+
+| wiki:
+| 我方「`吸血鬼吸食者`_」的③效果适用中，可以解放对方场上2只水属性·不死族怪兽来上级召唤「`云魔物-雨云人`_」，也可以解放我方场上1只水属性怪兽和对方场上1只水属性·不死族怪兽来上级召唤「`云魔物-雨云人`_」。\ `24/2/14 <https://yugioh-wiki.net/index.php?%A1%D4%A5%AA%A5%B9%A5%C6%A5%A3%A5%CA%A1%BC%A5%C8%A1%D5#faq1>`__
+
+2/15
+-------
+
+| 邮件：
+| 我方「`舞台旋转`_」在连锁1发动的场合，处理后可以发动我方「`奥特玛雅·卓尔金`_」的①效果；我方「`舞台旋转`_」在连锁2以上发动的场合，处理后不能发动我方「`奥特玛雅·卓尔金`_」的①效果。
+
+| 数据库：
+| 「`荷鲁斯的先导-哈碧`_」的②效果处理时，可以选要回到额外卡组的融合·S·X·L怪兽等，这个场合仍然我方要决定返回手卡还是卡组，结果都回到额外卡组。如果我方选的是里侧表示除外的这类怪兽，那张卡不需要给不是原本持有者的玩家确认，直接回到原本持有者的额外卡组。\ `23/7/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=19155&request_locale=ja>`__
+| 「`混沌幻影`_」发动①效果，得到「`新空间侠·黑暗豹`_」的卡名·效果后，可以再次发动得到的「`新空间侠·黑暗豹`_」的①效果。这时如果得到了对方场上「`混沌幻影`_」B的卡名·效果，不能再次发动得到的「`混沌幻影`_」B的①效果。\ `24/2/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7032&keyword=&tag=-1&request_locale=ja>`__
+
+2/16
+-------
+
+| 邮件：
+| 对方场上存在「`皇帝斗技场`_」，不存在怪兽，我方场上存在1只怪兽的状况，对方可以发动「`魔法名-「解体与统合」`_」并正常适用；我方也可以发动「`魔法名-「解体与统合」`_」，这个场合『作为对象的自己怪兽在对方场上特殊召唤』正常适用，后续不适用。
 
 .. _`太古的白石`: https://ygocdb.com/card/name/太古的白石
 .. _`融合识别`: https://ygocdb.com/card/name/融合识别
@@ -431,3 +465,17 @@
 .. _`守护神的原力`: https://ygocdb.com/card/name/守护神的原力
 .. _`增殖的G`: https://ygocdb.com/card/name/增殖的G
 .. _`流氓佣兵部队`: https://ygocdb.com/card/name/流氓佣兵部队
+.. _`旋风`: https://ygocdb.com/card/name/旋风
+.. _`云魔物-雨云人`: https://ygocdb.com/card/name/云魔物-雨云人
+.. _`舞台旋转`: https://ygocdb.com/card/name/舞台旋转
+.. _`屋敷童`: https://ygocdb.com/card/name/屋敷童
+.. _`召唤僧`: https://ygocdb.com/card/name/召唤僧
+.. _`荷鲁斯的先导-哈碧`: https://ygocdb.com/card/name/荷鲁斯的先导-哈碧
+.. _`焰圣骑士帝-查理`: https://ygocdb.com/card/name/焰圣骑士帝-查理
+.. _`双穹之骑士 阿斯特拉姆`: https://ygocdb.com/card/name/双穹之骑士%20阿斯特拉姆
+.. _`吸血鬼吸食者`: https://ygocdb.com/card/name/吸血鬼吸食者
+.. _`闪烁连接离熄`: https://ygocdb.com/card/name/闪烁连接离熄
+.. _`新式魔厨的马赛鱼汤布耶尔`: https://ygocdb.com/card/name/新式魔厨的马赛鱼汤布耶尔
+.. _`魔法名-「解体与统合」`: https://ygocdb.com/card/name/魔法名-「解体与统合」
+.. _`查理大帝`: https://ygocdb.com/card/name/查理大帝
+.. _`固定音型`: https://ygocdb.com/card/name/固定音型

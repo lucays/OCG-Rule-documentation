@@ -56,7 +56,7 @@
 
 | 即使包含的特定效果不是立即处理，也能对应。
 | 例：
-| 「`固定音型`_」发动时，虽然从墓地特殊召唤在结束阶段才处理，也可以连锁发动「`屋敷童`_」的①效果。
+| 「`固定音型`_」发动时，虽然从墓地特殊召唤在结束阶段才处理，也可以连锁发动「`屋敷童`_」的①效果。\ `24/2/10 <https://yugioh-wiki.net/index.php?%A1%D4%A5%AA%A5%B9%A5%C6%A5%A3%A5%CA%A1%BC%A5%C8%A1%D5#faq1>`__
 | 「`火之迦具土`_」在伤害计算后发动效果时，虽然丢弃效果在下个回合抽卡阶段的抽卡前才处理，也可以连锁发动「`双生恶魔`_」的效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=95&keyword=&tag=-1&request_locale=ja>`__
 | 「`魔导书的神判`_」发动时，虽然特殊召唤在结束阶段才处理，也可以连锁发动「`神之警告`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12713&request_locale=ja>`__
 | 「`日全食之书`_」发动时，虽然抽卡效果在结束阶段才处理，也可以连锁发动「`灰流丽`_」的①效果。\ `17/3/24 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11500&keyword=&tag=-1>`__
