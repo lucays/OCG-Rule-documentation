@@ -59,6 +59,10 @@ NEED_REPLACED_NAMES = {
     '「Evil★Twin': '「邪恶★双子',
 }
 
+FIX_NAMES = {
+    '「`魔法卡「`灵魂交错`_」`_」': '「`魔法卡「灵魂交错」`_」'
+}
+
 NOT_CARD_NAMES = {
     '攻击力',
     '守备力',
@@ -188,6 +192,8 @@ def add_cdb_url(texts: str) -> str:
             continue
         for old, new in cards_name_dict.items():
             line = line.replace(old, new)
+        for error, correct in FIX_NAMES.items():
+            line = line.replace(error, correct)
         new_texts.append(line)
     new_texts = '\n'.join(new_texts)
 
@@ -251,7 +257,12 @@ def strike_completion(texts: str) -> str:
                 line = line.replace('「`', '「').replace('`_」', '」').strip('`')
             else:
                 line = line.strip('`')
-            line = f'{line}`'
+            if '。\ `' in line:
+                datas = line.split('。\ `')
+                line = '。\ `'.join(datas[:-1]) + '。'
+            line = line.replace('\ :ref:`', '').replace('`\ 。', '。')
+            if '`\ ' not in line:
+                line = f'{line}`'
         new_texts.append(line)
     return '\n'.join(new_texts).strip() + '\n'
 
