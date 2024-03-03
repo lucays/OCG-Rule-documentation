@@ -124,6 +124,7 @@
    | 「`敌袭警报`_」的①效果特殊召唤的怪兽适用了「`幻影雾剑`_」的效果时，对方不能选择任何怪兽作为攻击对象，即对方不能攻击。
    | 对方场上存在2只「`冲锋陷阵的队长`_」时，我方可以进入战斗阶段，不能攻击。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13181&keyword=&tag=-1&request_locale=ja>`__
    | 我方怪兽区域存在多只持有『在可以攻击的场合必须向这张卡作出攻击』效果的「`邪心英雄 恶刃魔王`_」等怪兽时，对方必须攻击，这时我方决定适用哪个效果。「`地球重力`_」「`No.13 该隐恶魔`_」「`No.31 亚伯恶魔`_」等相同效果的处理也一样。\ `22/11/4 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11167&keyword=&tag=-1&request_locale=ja>`__
+   | 「`地球重力`_」的效果适用后，我方场上存在2只以上「`元素英雄 地球侠`_」的场合，对方必须攻击，对方来决定攻击哪1只「`元素英雄 地球侠`_」。\ `23/11/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6922&request_locale=ja>`__
    | 我方场上存在「`噩梦之苦痛`_」和2只「`于贝尔`_」怪兽时，对方必须攻击，对方来决定攻击哪1只「`于贝尔`_」怪兽。\ `23/10/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=19509&request_locale=ja>`__
 
    -  | 『必须作出攻击』的效果适用时，如果没有特别记述，只要对方场上存在可以攻击的怪兽，必须进入战斗阶段，必须攻击。
@@ -1451,3 +1452,4 @@
 .. _`于贝尔`: https://ygocdb.com/?search=于贝尔
 .. _`攻击诱导铠甲`: https://ygocdb.com/card/name/攻击诱导铠甲
 .. _`战吼造育`: https://ygocdb.com/card/name/战吼造育
+.. _`元素英雄 地球侠`: https://ygocdb.com/card/name/元素英雄%20地球侠
