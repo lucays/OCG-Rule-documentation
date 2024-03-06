@@ -356,6 +356,12 @@
 | wiki:
 | 「`地球重力`_」的效果适用后，「`元素英雄 地球侠`_」不在场上存在的场合，等级4以下的怪兽不能攻击。\ `24/3/1 <https://yugioh-wiki.net/index.php?%A1%D4%A5%A2%A1%BC%A5%B9%A1%A6%A5%B0%A5%E9%A5%D3%A5%C6%A5%A3%A1%D5#faq>`__
 
+3/6
+------
+
+| 邮件：
+| 自己场上里侧表示的「`古遗物`_」怪兽因对方「`纳祭之魔`_」的效果放置到对方魔法·陷阱卡区域变成里侧表示的装备卡后，在对方回合自己发动「`旋风`_」破坏这个「`古遗物`_」怪兽卡的场合，之后这个「`古遗物`_」怪兽的效果不能发动。
+
 .. _`太古的白石`: https://ygocdb.com/card/name/太古的白石
 .. _`融合识别`: https://ygocdb.com/card/name/融合识别
 .. _`天幻之龙轮`: https://ygocdb.com/card/name/天幻之龙轮
@@ -606,3 +612,4 @@
 .. _`轨迹之魔术师`: https://ygocdb.com/card/name/轨迹之魔术师
 .. _`六花的白姬`: https://ygocdb.com/card/name/六花的白姬
 .. _`千查万别`: https://ygocdb.com/card/name/千查万别
+.. _`古遗物`: https://ygocdb.com/?search=古遗物
