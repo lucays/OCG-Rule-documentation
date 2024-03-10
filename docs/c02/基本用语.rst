@@ -637,7 +637,8 @@ cost
 | 此外，「`手札对换`_」等场上以外的卡片移动给对方等也是控制权变更。
 | 例：
 | 不能以控制权不能变更的「`盲信的哥布林`_」为对象发动「`精神操作`_」。「`强制转移`_」这样不取对象的效果处理时不能选「`盲信的哥布林`_」。\ `16/11/3 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5714&request_locale=ja>`__
-| 不能以「`魔龙星-饕餮`_」作为素材S召唤的怪兽为对象发动「`No.101 寂静荣誉方舟骑士`_」的①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13405&keyword=&tag=-1&request_locale=ja>`__
+| 不能以控制权不能变更的「`盲信的哥布林`_」为对象「`纳祭之魔`_」的①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23118&keyword=&tag=-1&request_locale=ja>`__
+| 不能以「`魔龙星-饕餮`_」作为素材S召唤的怪兽为对象发动「`No.101 寂静荣誉方舟骑士`_」的①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23119&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 没有可用的怪兽区域时，不能发动夺取控制权的效果。
    | 夺取控制权或归还控制权时没有可用的怪兽区域的场合，那只怪兽在当前控制者的当前怪兽区域被破坏。不当作被效果破坏，也不是因对方而被破坏。
