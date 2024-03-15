@@ -403,7 +403,7 @@
 | 数据库：
 | 不能以攻击力·守备力都是0的怪兽为对象发动「`古代的机械弩士`_」的②效果。\ `24/2/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14933&request_locale=ja>`__
 | 「`沉默剑士·零`_」\ `24/2/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=19843&request_locale=ja>`__\ 「`沉默魔术师·零`_」\ `24/2/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=19844&request_locale=ja>`__\ 的效果提升的等级没有上限，可以提升到13以上。
-| 魔法·陷阱卡区域存在衍生物的场合，不能发动「`沉默剑士·零`_」。\ `18/6/21 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10555&request_locale=ja>`__
+| 魔法·陷阱卡区域存在衍生物的场合，不能发动「`弹幕回避`_」。\ `18/6/21 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10555&request_locale=ja>`__
 
 .. _`太古的白石`: https://ygocdb.com/card/name/太古的白石
 .. _`融合识别`: https://ygocdb.com/card/name/融合识别
@@ -687,3 +687,4 @@
 .. _`沉默剑士·零`: https://ygocdb.com/card/name/沉默剑士·零
 .. _`沉默魔术师·零`: https://ygocdb.com/card/name/沉默魔术师·零
 .. _`古代的机械弩士`: https://ygocdb.com/card/name/古代的机械弩士
+.. _`弹幕回避`: https://ygocdb.com/card/name/弹幕回避
