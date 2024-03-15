@@ -410,6 +410,7 @@
       | 场上只存在「`No.107 银河眼时空龙`_」和攻击力·守备力无变动的效果怪兽时，也可以发动记述是『攻撃力・守備力は元々の数値になる』的①效果并适用。\ `13/2/23 <https://yugioh-wiki.net/index.php?%A1%D4%A3%CE%A3%EF.%A3%B1%A3%B0%A3%B7%20%B6%E4%B2%CF%B4%E3%A4%CE%BB%FE%B6%F5%CE%B5%A1%D5#faq>`__
       | 只能以攻击力不是0的效果怪兽为对象发动「`恐乐园的死配人 ＜A丑角＞`_」的记述是『その後、対象のモンスターの攻撃力を０にする』的②效果。\ `23/1/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=18486&request_locale=ja>`__
       | 「`火箭手`_」的装备怪兽的攻击力已经变成0的场合，也可以发动记述是『攻撃力が０になり』的②效果并适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17069&keyword=&tag=-1&request_locale=ja>`__
+      | 不能以攻击力·守备力都是0的怪兽为对象发动「`古代的机械弩士`_」的记述是『攻撃力・守備力を０にする』的②效果。\ `24/2/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14933&request_locale=ja>`__
 
 -  | 『效果无效+B』的效果，只在第一步的原文是『効果を無効』的场合，不能对效果怪兽以外的怪兽或者效果已经被无效的怪兽发动·适用。『効果は無効』『効果が無効』的文本可以。
    | 『効果は無効』『効果が無効』的文本，只在包含『B』在内，整个效果都不能适用的状况，这个效果不能发动，已经发动的场合不适用。
@@ -1136,3 +1137,4 @@ cost
 .. _`群豪世界-真罗万象`: https://ygocdb.com/card/name/群豪世界-真罗万象
 .. _`交血鬼-吸血鬼·谢里丹`: https://ygocdb.com/card/name/交血鬼-吸血鬼·谢里丹
 .. _`起立吧百夫长骑士！`: https://ygocdb.com/card/name/起立吧百夫长骑士！
+.. _`古代的机械弩士`: https://ygocdb.com/card/name/古代的机械弩士
