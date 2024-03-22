@@ -196,10 +196,10 @@
 | 「`正正堂堂`_」的效果适用中手卡是公开情报。
 | 额外表侧的P怪兽是公开情报。
 
--  | 主卡组·额外卡组·手卡的卡即使是表侧，也不能成为效果的对象。
+-  | 主卡组·额外卡组·手卡的卡不能成为效果的对象。即使表侧表示也不可以。
    | 例：
    | 自己P怪兽被破坏加入额外卡组的场合，自己怪兽区域的「`DDD 死伟王 地狱终末神`_」的①效果是取对象效果，结果不能发动。\ `14/8/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13469&request_locale=ja>`__
-   | 「`邪遗式人鱼风灵`_」把X怪兽战斗破坏，伤害计算后发动效果让那个怪兽在伤害步骤结束时回到额外卡组，「`No.38 希望魁龙 银河巨神`_」的效果不能发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17966&request_locale=ja>`__
+   | 「`邪遗式人鱼风灵`_」把「`真红眼`_」怪兽战斗破坏，伤害计算后发动效果让那只怪兽在伤害步骤结束时回到卡组的场合，不能发动「`真红眼烧灭`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15971&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 「`天变地异`_」等让主卡组翻转时，最上方的卡片是公开情报，其下的卡片仍然是非公开情报。
    | 例：
