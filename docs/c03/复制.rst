@@ -80,6 +80,7 @@
 
 | 得到『通常召唤·上级召唤·特殊召唤』相关条件的效果时，如果满足条件，也可以发动·适用那些效果。
 | 例：
+| 发动「`融合`_」来融合召唤的「`凶饿毒融合龙`_」得到「`娱乐伙伴 异色眼钢爪狼`_」卡名·效果的场合，那个①效果适用，不受其他卡的效果影响。
 | 融合召唤的「`凶饿毒融合龙`_」以「`古生代化石龙 骷髅屠魔龙`_」为对象发动②效果的场合，得到的「`古生代化石龙 骷髅屠魔龙`_」的③效果也会适用。\ `20/7/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12653&keyword=&tag=-1&request_locale=ja>`__
 | 特殊召唤的「`混沌幻影`_」发动①效果，得到了「`幻奏的音女 阿莉娅`_」的卡名·效果的场合，得到的「`幻奏的音女 阿莉娅`_」的①效果也会适用。\ `20/7/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15593&keyword=&tag=-1&request_locale=ja>`__
 | 通常召唤的「`混沌幻影`_」得到「`分段龙`_」效果的场合，也可以发动那个③效果，这时破坏攻击力2600以下的主要怪兽区域的怪兽。\ `24/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6264&keyword=&tag=-1&request_locale=ja>`__
@@ -90,6 +91,8 @@
    | 例：
    | 发动「`融合`_」，把2只「`异色眼霸弧灵摆龙`_」作为素材融合召唤了「`霸王眷龙 凶饿毒`_」后，发动其①效果得到「`超魔导龙骑士-真红眼龙骑士`_」卡名·效果的场合，仍然不能发动得到的那个②效果。
    | 把「`古代的机械`_」怪兽和「`零件`_」怪兽解放上级召唤的「`暴君海王星`_」得到「`古代的机械合成龙`_」的卡名·效果时，那个得到的①和②效果都不会适用，只适用③效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10200&keyword=&tag=-1&request_locale=ja>`__
+   | 只用场上的怪兽为素材作融合召唤的「`凶饿毒融合龙`_」得到「`钢铁魔导骑士-基尔提基亚·弗里德`_」卡名·效果的场合，那个②效果不适用，在同1次的战斗阶段中不能通过②效果作2次攻击。
+   | 用通常怪兽为素材作融合召唤的「`凶饿毒融合龙`_」得到「`元素英雄 火焰翼侠-火焰一击`_」卡名·效果的场合，不能解放自身发动那个③效果。
 
 「`救世星龙`_」
 ======================
@@ -342,7 +345,7 @@
 .. _`神之警告`: https://ygocdb.com/card/name/神之警告
 .. _`分段龙`: https://ygocdb.com/card/name/分段龙
 .. _`战线复归`: https://ygocdb.com/card/name/战线复归
-.. _`钢铁魔导骑士-基尔提基亚·弗里德`: https://ygocdb.com/card/name/钢铁魔导骑士-基尔提基亚·弗里德
+.. _`钢铁魔导骑士-基尔提基亚·弗里德`: https://ygocdb.com/?search=钢铁魔导骑士-基尔提基亚·弗里德
 .. _`决斗融合`: https://ygocdb.com/card/name/决斗融合
 .. _`融合复制`: https://ygocdb.com/card/name/融合复制
 .. _`拉比林斯迷宫连环阵`: https://ygocdb.com/card/name/拉比林斯迷宫连环阵
@@ -396,3 +399,5 @@
 .. _`古代的机械`: https://ygocdb.com/?search=古代的机械
 .. _`零件`: https://ygocdb.com/?search=零件
 .. _`古代的机械合成龙`: https://ygocdb.com/card/name/古代的机械合成龙
+.. _`元素英雄 火焰翼侠-火焰一击`: https://ygocdb.com/?search=元素英雄 火焰翼侠-火焰一击
+.. _`娱乐伙伴 异色眼钢爪狼`: https://ygocdb.com/?search=娱乐伙伴 异色眼钢爪狼
