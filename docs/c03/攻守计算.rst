@@ -42,8 +42,6 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
 | 「`恶醒师 奈特梅尔特`_」的①效果可以把攻击力『？』的怪兽解放来把攻击力『？』的怪兽作为相同攻击力的怪兽特殊召唤。守备力是？的也一样。\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17440&request_locale=ja>`__
 | 攻击力和守备力都是『？』的怪兽不是攻击力和守备力\ **数值**\ 相同的怪兽，「机巧狐-宇迦之御魂稻荷」的②效果不能把这种怪兽特殊召唤。\ `20/1/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22950&keyword=&tag=-1&request_locale=ja>`__
 
-.. tip:: 目前只有「`卡托布莱帕斯与命运之魔女`_」在效果中明确记述了攻击力『？』。
-
 -  | 这类怪兽在场上表侧表示存在时，通过自身效果确定「攻击力·守备力」，\ **「原本攻击力·守备力」当作0**\ 。
    | 效果被无效后，「攻击力·守备力」也是0。
    | 例：
