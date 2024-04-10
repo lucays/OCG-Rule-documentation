@@ -91,10 +91,9 @@
    | 「`天狱之王`_」的①效果适用后，持续公开期间发动「`禁止令`_」宣言「`天狱之王`_」的场合，『这个效果持续公开期间，场上盖放的卡不会被效果破坏』效果仍然适用。\ `21/10/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23403&keyword=&tag=-1&request_locale=ja>`__
    | 「`被诅咒的无花果`_」的效果适用后，在墓地存在时间发动「`禁止令`_」宣言「`被诅咒的无花果`_」的场合，『只要这张卡在墓地存在，选择的卡不能发动』效果仍然适用。\ `13/3/20 <https://yugioh-wiki.net/index.php?%A1%D4%B6%D8%BB%DF%CE%E1%A1%D5#faq0>`__
    | 「`念动力防卫者`_」的效果宣言「`强袭黑羽-雾雨之苦无鸟`_」后，用自身①效果记述的方法特殊召唤的「`强袭黑羽-雾雨之苦无鸟`_」仍然当作调整使用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16344&keyword=&tag=-1&request_locale=ja>`__
-
-   -  | 像「`命运英雄 毁灭凤凰人`_」的③效果这样，不是立即适用的效果，而是在适用的时点来临时，「`禁止令`_」「`念动力防卫者`_」的效果如果在适用中的场合，那个效果不适用。
-      | 例：
-      | 「`命运英雄 毁灭凤凰人`_」的③效果发动后，发动「`禁止令`_」宣言「`命运英雄 毁灭凤凰人`_」的场合，如果下个回合的准备阶段「`禁止令`_」的效果仍然在适用，不会特殊召唤「`命运英雄`_」怪兽。\ `21/11/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23450&keyword=&tag=-1&request_locale=ja>`__
+   | 「`命运英雄 毁灭凤凰人`_」的③效果发动后，发动「`禁止令`_」宣言「`命运英雄 毁灭凤凰人`_」的场合，如果下个回合的准备阶段「`禁止令`_」的效果仍然在适用，也会特殊召唤「`命运英雄 毁灭凤凰人`_」以外的「`命运英雄`_」怪兽。\ `24/4/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24059&keyword=&tag=-1&request_locale=ja>`__
+   | 「`冰剑龙 幻冰龙`_」的③效果发动后，发动「`禁止令`_」宣言「`冰剑龙 幻冰龙`_」的场合，即使下个回合的准备阶段「`禁止令`_」的效果仍然在适用，「`冰剑龙 幻冰龙`_」的③效果也正常适用。\ `24/4/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24059&keyword=&tag=-1&request_locale=ja>`__
+   | 「`PSY骨架王·Ω`_」的①效果或者「`刻剑之魔术师`_」的②效果发动后，发动「`禁止令`_」宣言它们卡名的场合，如果下个回合的准备阶段「`禁止令`_」的效果仍然在适用，它们不能回到场上，放置到墓地，被一时除外的其他卡会回去。「`S：P小夜`_」②效果的场合，如果不是除外自身，那2只怪兽都会回到场上，否则只有另1只怪兽回到场上，「`S：P小夜`_」放置到墓地。\ `24/4/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24059&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 如果卡片放置了魔力指示物等只能给特定卡片放置的指示物，之后变得不能使用的场合，不再是可以放置这些指示物的卡，已经放置的指示物也会全部取除。
    | 例：
@@ -223,3 +222,7 @@
 .. _`陷阱吞噬者`: https://ygocdb.com/card/name/陷阱吞噬者
 .. _`海龟坏兽 加美西耶勒`: https://ygocdb.com/card/name/海龟坏兽%20加美西耶勒
 .. _`次元融合杀`: https://ygocdb.com/card/name/次元融合杀
+.. _`S：P小夜`: https://ygocdb.com/card/name/S：P小夜
+.. _`冰剑龙 幻冰龙`: https://ygocdb.com/card/name/冰剑龙%20幻冰龙
+.. _`PSY骨架王·Ω`: https://ygocdb.com/card/name/PSY骨架王·Ω
+.. _`刻剑之魔术师`: https://ygocdb.com/card/name/刻剑之魔术师
