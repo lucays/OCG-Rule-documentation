@@ -5543,4 +5543,8 @@ https://ygocdb.com/card/name/魔玩具·狂乱奇美拉
 https://ygocdb.com/card/name/召唤限制-力量过滤器
 https://ygocdb.com/card/name/天球的圣刻印
 https://ygocdb.com/card/name/白之轮回
-https://ygocdb.com/card/name/鬼動武者
+https://ygocdb.com/card/name/鬼动武者
+https://ygocdb.com/card/name/光道的裁决
+https://ygocdb.com/card/name/星遗物-『星枪』
+https://ygocdb.com/card/name/猫耳族
+https://ygocdb.com/card/name/防守战术

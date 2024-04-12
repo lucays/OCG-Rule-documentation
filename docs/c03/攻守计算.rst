@@ -437,6 +437,7 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
 - 「`银幕之镜壁`_」
 - 「`地球巨人`_」
 - 「`清净恶龙`_」
+- 「`双天之狮使-阿吽`_」
 - 「`转生炎兽 堇色奇美拉`_」
 - 「`超级漏洞人`_」
 - 「`子机`_」
@@ -728,3 +729,4 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
 .. _`铠黑龙-电子暗黑龙`: https://ygocdb.com/card/name/铠黑龙-电子暗黑龙
 .. _`比翼连鳞`: https://ygocdb.com/card/name/比翼连鳞
 .. _`魔界的足枷`: https://ygocdb.com/card/name/魔界的足枷
+.. _`双天之狮使-阿吽`: https://ygocdb.com/card/name/双天之狮使-阿吽
