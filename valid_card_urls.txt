@@ -5460,7 +5460,7 @@ https://ygocdb.com/card/name/破坏轮回
 https://ygocdb.com/card/name/截敌蛋
 https://ygocdb.com/card/name/毒之魔妖-束胫
 https://ygocdb.com/card/name/夜刀蛇巳
-https://ygocdb.com/card/name/最终禁制咒
+https://ygocdb.com/card/name/最终禁忌
 https://ygocdb.com/card/name/诱向星遗物的噩梦
 https://ygocdb.com/card/name/急袭猛禽-归来
 https://ygocdb.com/card/name/羽翼栗子球%20LV6
@@ -5548,3 +5548,6 @@ https://ygocdb.com/card/name/光道的裁决
 https://ygocdb.com/card/name/星遗物-『星枪』
 https://ygocdb.com/card/name/猫耳族
 https://ygocdb.com/card/name/防守战术
+https://ygocdb.com/card/name/红色机人呼唤
+https://ygocdb.com/card/name/真海皇%20特里冬
+https://ygocdb.com/card/name/猛吹雪
