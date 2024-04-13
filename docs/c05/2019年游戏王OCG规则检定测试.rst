@@ -451,7 +451,7 @@
 .. _`数字机灵`: https://ygocdb.com/card/name/数字机灵
 .. _`反转世界`: https://ygocdb.com/card/name/反转世界
 .. _`坏星坏兽 席兹奇埃鲁`: https://ygocdb.com/card/name/坏星坏兽%20席兹奇埃鲁
-.. _`红莲魔龙/爆裂体`: https://ygocdb.com/card/name/红莲魔龙/爆裂体
+.. _`红莲魔龙/爆裂体`: https://ygocdb.com/card/name/红莲魔龙%2f爆裂体
 .. _`枪口焰龙`: https://ygocdb.com/card/name/枪口焰龙
 .. _`地狱门的契约书`: https://ygocdb.com/card/name/地狱门的契约书
 .. _`蟑螂柱`: https://ygocdb.com/card/name/蟑螂柱

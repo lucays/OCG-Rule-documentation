@@ -299,19 +299,27 @@
    | 对方怪兽的直接攻击宣言时，即使对方手卡·卡组·墓地没有这只攻击怪兽的同名怪兽，我方也可以发动「`方界轮回`_」。这个场合，只把那个攻击怪兽的攻击力变成0，放置方界指示物，变得不能攻击，效果无效。我方还可以再正常特殊召唤「`方界`_」怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19210&keyword=&tag=-1&request_locale=ja&request_locale=ja>`__
    | 对方没有手卡时，手卡数量是公开情报，额外连接状态的「`拓扑篡改感染龙`_」不能发动②效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21896&keyword=&tag=-1&request_locale=ja>`__
 
-   -  | 对于『A。那之后/再B』的效果，如果记述『全部』『尽可能』文本的处理不在第1步，只要第1步的效果可以适用，就可以发动这类效果，不需要考虑『全部』『尽可能』文本的处理是否能正常适用。
+   -  | 对于『A。那之后/再B』的效果，如果记述『全部』『尽可能』文本的处理不在第1步，只要第1步的效果可以适用，基本上可以发动这类效果，不需要考虑『全部』『尽可能』文本的处理是否能正常适用。
       | 例：
-      | 场上只有我方的X怪兽时，也可以对其发动「`升阶魔法-源数之力`_」。
-      | 「`No.68 魔天牢 桑达尔丰`_」的②效果发动后，也可以发动「`真红眼溯刻龙`_」的①效果，处理时只把自身特殊召唤。
+      | 场上只有我方的X怪兽时，也可以对其发动「`升阶魔法-源数之力`_」。\ `20/12/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10662&request_locale=ja>`__
+      | 对方场上没有卡时，也可以发动「`宝玉的泛滥`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6627&keyword=&tag=-1&request_locale=ja>`__
       | 「`虚无空间`_」在场上存在时，或者发动了「`强欲而谦虚之壶`_」等的回合，也可以发动「`世海龙 西兰提斯`_」的②效果，只把怪兽除外；「`虚无魔人`_」在场上存在时，也可以发动「`世海龙 西兰提斯`_」的②效果，结果除外了「`虚无魔人`_」的场合可以进行特殊召唤。
       | 对方场上没有怪兽时，也可以发动「`真海皇 特里冬`_」的效果，只进行特殊召唤。\ `17/12/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10514&request_locale=ja>`__
       | 「`红色机人呼唤`_」的『那之后』部分的效果不能适用的状况，也可以发动「`红色机人呼唤`_」。这时只把那个发动无效并破坏。\ `17/7/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21064&keyword=&tag=-1&request_locale=ja>`__
       | 场上存在「`虚无空间`_」时，也可以发动「`超量叠光延迟`_」。这个场合，只让对方的X怪兽回到额外卡组，不会特殊召唤怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13717&keyword=&tag=-1&request_locale=ja>`__
 
-   .. attention:: 特别地，被战斗破坏确定的怪兽不能适用『自己场上的全部「`战吼`_」怪兽的攻击力直到对方回合结束时上升200』的效果，自己场上只存在1只「`战吼斗士·福蒂亚`_」，不存在其他战士族·地属性怪兽，这只「`战吼斗士·福蒂亚`_」被战斗破坏的场合，伤害计算后不能发动①效果。\ `21/9/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23359&keyword=&tag=-1&request_locale=ja>`__
+   .. attention::
 
-   -  | 其他记述『全部』『尽可能』的效果，只在这个处理可能无法判断是否可以适用的状况，可以发动这个效果。
+      | 也有部分这类记述的效果不能发动。基本上是『那之后/再』的部分的和发动前提有关的效果。
       | 例：
+      | 自己场上只存在1只「`战吼斗士·福蒂亚`_」，不存在其他战士族·地属性怪兽，这只「`战吼斗士·福蒂亚`_」被战斗破坏的场合，自身不能适用『自己场上的全部「`战吼`_」怪兽的攻击力直到对方回合结束时上升200』的效果，结果伤害计算后不能发动①效果。\ `21/9/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23359&keyword=&tag=-1&request_locale=ja>`__
+      | 对方没有手卡时，不能发动「`逐渐削减的生命`_」的③效果。\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5554&request_locale=ja>`__
+
+   -  | 其他记述『全部』『尽可能』的效果，如果是让对方尽可能特殊召唤等我方难以判断的处理，不需要考虑是否能正常适用。
+      | 此外的状况比较复杂，以下列举一些例子。
+      | 例：
+      | 「`No.68 魔天牢 桑达尔丰`_」的②效果发动后，也可以发动「`真红眼溯刻龙`_」的①效果，处理时只把自身特殊召唤。
+      | 场上存在「`王宫的铁壁`_」时，不能发动「`超来来`_」。「`超来来`_」的①效果处理时，「`王宫的铁壁`_」的①效果适用的场合，这个效果完全不适用，也不会翻开卡片。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19650&keyword=&tag=-1&request_locale=ja>`__
       | 对方不能特殊召唤自身表侧表示怪兽同名卡的状况，比如只存在衍生物时，也可以发动「`地狱的暴走召唤`_」，『那只特殊召唤的怪兽的同名怪兽从自己的手卡·卡组·墓地尽可能攻击表示特殊召唤』效果仍会适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11363&keyword=&tag=-1&request_locale=ja>`__
       | 对方不能特殊召唤攻击怪兽同名卡的状况，也可以发动「`方界轮回`_」。由于这个效果记述是『A。B』的形式，其他效果正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19210&keyword=&tag=-1&request_locale=ja>`__
 
@@ -530,7 +538,7 @@
 
 同样地，「`恐啡肽狂龙·乔斯坦伯格隐形翼龙`_」的②效果处理时，『那只怪兽』指代的是『对方把效果发动的怪兽』。从手卡把「`增殖的G`_」送去墓地发动①效果时，可以连锁发动「`恐啡肽狂龙·乔斯坦伯格隐形翼龙`_」的②效果。并且，即使这个效果处理时，「`增殖的G`_」因「`转生的预言`_」等效果不在墓地存在，这个效果正常适用。
 
-卡片从场上离开·被破坏·送去墓地·除外的状况发动的效果
+卡片从场上离开·被破坏·送去墓地·除外的状况能否发动
 =====================================================
 
 由于怪兽被战斗破坏的场合，是先变成表侧表示再被破坏，就结果来说都是在表侧表示的状态下被战斗破坏，与下文场景无关。
@@ -541,7 +549,7 @@
 『○○被破坏』
 --------------------
 
-| 『○○被破坏』的文本，要求在是『○○怪兽』『○○魔法·陷阱卡』『「○○」卡』的状态被破坏。
+| 『○○被破坏』的文本，要求在是『○○』的状态被破坏。
 | 这类文本之前，如果没有记述『场上』等文本，在里侧守备表示的状态被效果破坏的场合，也满足条件。
 | 此外，各种召唤之际，那次召唤无效并破坏的场合，也满足条件。
 | 例：
@@ -556,12 +564,12 @@
    | 例：
    | 魔法·陷阱卡区域的怪兽卡被破坏的场合，是魔法卡被破坏，不是怪兽被破坏，不能发动「`破坏轮回`_」的②效果。\ `22/12/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22122&keyword=&tag=-1&request_locale=ja>`__
    | 自己场上里侧表示的P怪兽被效果破坏的场合，不能发动「`异色眼枪兵龙`_」的①效果。\ `17/7/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20986&keyword=&tag=-1&request_locale=ja>`__
-   | 自己场上里侧表示的「芳香」怪兽被效果破坏的场合，不会发动「`芳香花园`_」的②效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15546&keyword=&tag=-1&request_locale=ja>`__
+   | 自己场上里侧表示的「`芳香`_」怪兽被效果破坏的场合，不会发动「`芳香花园`_」的②效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15546&keyword=&tag=-1&request_locale=ja>`__
    | 怪兽区域的陷阱怪兽被破坏的场合，也可以发动「`妖醒龙 幼生狱风神`_」的①效果。\ `22/12/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22396&keyword=&tag=-1&request_locale=ja>`__
    | 里侧表示的「`急袭猛禽`_」怪兽被效果破坏的场合，不能发动墓地「`急袭猛禽-归来`_」的②效果。\ `22/12/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15577&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 如果在『○○被破坏』后还记述了『送去墓地』等文本，要求送去墓地后也必须是『○○』。另外，没有明确记述『送去自己墓地』『送去对方墓地』的场合，送去哪一方的墓地都满足条件。
-   | 因此，这时衍生物·陷阱怪兽都不满足『怪兽』的条件。
+   | 因此，这时衍生物·陷阱怪兽都不满足『怪兽被破坏』的条件。
    | 例：
    | 自己场上的表侧表示的通常怪兽被战斗·效果破坏送去对方墓地的场合，也可以发动「`珂珑公主`_」的③效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12888&keyword=&tag=-1&request_locale=ja>`__
    | 「`纸箱拳击手`_」战斗破坏对方陷阱怪兽送去墓地的场合，送去墓地后是陷阱卡，不能发动①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17153&keyword=&tag=-1&request_locale=ja>`__
@@ -583,7 +591,7 @@
 『○○从场上离开』
 --------------------
 
-| 这类文本的处理基本上和『○○被破坏』一致，由于已经限定场所，除非只记述『怪兽』『魔法·陷阱卡』，否则必须在表侧表示的状态满足『○○』条件，从场上离开才能发动。
+| 这类文本的处理基本上和『○○被破坏』一致，由于已经限定场所，除非只记述『卡』『怪兽』『魔法·陷阱卡』，否则必须在表侧表示的状态满足『○○』条件，从场上离开才能发动。
 | 例：
 | 不当作陷阱卡使用的陷阱怪兽，被对方的效果送去墓地的场合，因为在场上是怪兽，不是场上的魔法·陷阱卡送去墓地，不能发动「`魔晶龙 水胆魔导神`_」的①效果。\ `22/12/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21821&keyword=&tag=-1&request_locale=ja>`__\ 而如果是\ :ref:`也当作陷阱卡使用的陷阱怪兽`\ ，可以发动「`魔晶龙 水胆魔导神`_」的①效果。\ `22/12/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21820&keyword=&tag=-1&request_locale=ja>`__
 
@@ -615,9 +623,11 @@
    | 场上存在「`不死世界`_」，原本是念动力族的怪兽变成了不死族，在表侧表示状态被除外的场合，不能发动「`PSY骨架王·Λ`_」的②效果。\ `22/12/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22284&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 这类文本之间，如果记述是『○○从场上被除外·送去墓地』，那么『○○』不需要在场上表侧表示存在。里侧守备表示也满足条件。
+   | 另外，在场上的时点，如果记述是『○○怪兽』等，也必须满足是『○○怪兽』等限制。
    | 例：
    | 里侧守备表示的「`水龙-团簇`_」被「`黑洞`_」的效果破坏送去墓地的场合，墓地的「`化学结合-D2O`_」的『「`水龙`_」或者「`水龙-团簇`_」从场上送去自己墓地的场合』效果可以发动。
    | 里侧守备表示的「`太阳神之翼神龙`_」被「`黑洞`_」的效果破坏送去墓地的场合，墓地的「`太阳神之翼神龙-不死鸟`_」的『「`太阳神之翼神龙`_」从场上送去自己墓地的场合』效果会发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17879&keyword=&tag=-1&request_locale=ja>`__
+   | 魔法·陷阱卡区域的怪兽卡送去墓地时，不是怪兽从场上送去墓地，「`死之演算盘`_」的效果不适用。\ `16/9/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5311&request_locale=ja>`__
 
 -  | 这类文本之前，如果没有『场上的·怪兽区域的』等场所限制，那么在除外·送去墓地前，
    | 记述是『○○怪兽』的场合，可以不满足『○○』，但必须是『怪兽』；
@@ -1197,7 +1207,7 @@ cost
 .. _`邪龙 阿难陀`: https://ygocdb.com/card/name/邪龙%20阿难陀
 .. _`毒之魔妖-束胫`: https://ygocdb.com/card/name/毒之魔妖-束胫
 .. _`刀神-不知火`: https://ygocdb.com/card/name/刀神-不知火
-.. _`红莲魔龙/爆裂体`: https://ygocdb.com/card/name/红莲魔龙/爆裂体
+.. _`红莲魔龙/爆裂体`: https://ygocdb.com/card/name/红莲魔龙%2f爆裂体
 .. _`PSY骨架王·Λ`: https://ygocdb.com/card/name/PSY骨架王·Λ
 .. _`相剑大公-承影`: https://ygocdb.com/card/name/相剑大公-承影
 .. _`魔道化 利真`: https://ygocdb.com/card/name/魔道化%20利真
@@ -1267,3 +1277,8 @@ cost
 .. _`凭依解放`: https://ygocdb.com/card/name/凭依解放
 .. _`异色眼枪兵龙`: https://ygocdb.com/card/name/异色眼枪兵龙
 .. _`芳香`: https://ygocdb.com/?search=芳香
+.. _`死之演算盘`: https://ygocdb.com/card/name/死之演算盘
+.. _`超来来`: https://ygocdb.com/card/name/超来来
+.. _`逐渐削减的生命`: https://ygocdb.com/card/name/逐渐削减的生命
+.. _`王宫的铁壁`: https://ygocdb.com/card/name/王宫的铁壁
+.. _`宝玉的泛滥`: https://ygocdb.com/card/name/宝玉的泛滥
