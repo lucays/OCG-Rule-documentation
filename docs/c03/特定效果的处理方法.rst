@@ -611,6 +611,7 @@
 | 例：
 | 自己场上表侧表示的机械族·光属性的同盟怪兽卡被里侧表示除外的场合，不能发动「`X·Y·Z合体`_」的①效果。
 | 自己场上原本属性是光属性（即使因卡片效果当前不是光属性）的机械族同盟怪兽卡被除外的场合，可以发动「`X·Y·Z合体`_」的①效果。自己场上原本属性不是光属性（即使因卡片效果当前变成了光属性）的机械族同盟怪兽卡被除外的场合，不能发动「`X·Y·Z合体`_」的①效果。
+| 里侧表示的「`幻影骑士团`_」怪兽送去自己墓地的场合，也会发动「`幻影骑士团 裂头盔`_」的①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17618&keyword=&tag=-1&request_locale=ja>`__
 | 自己场上表侧表示的爬虫类族陷阱怪兽被战斗破坏的场合，可以发动「`毒蛇的怨念`_」的②效果。但是，不是被战斗破坏，而是因效果而送去墓地的场合，由于送去墓地后不是爬虫类族怪兽，不能发动。\ `22/12/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23788&keyword=&tag=-1&request_locale=ja>`__
 | 衍生物被除外的时点消灭，结果不存在除外后的状态，不能发动「`相剑大公-承影`_」的③效果。\ `21/7/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16528&request_locale=ja>`__
 
@@ -1282,3 +1283,5 @@ cost
 .. _`逐渐削减的生命`: https://ygocdb.com/card/name/逐渐削减的生命
 .. _`王宫的铁壁`: https://ygocdb.com/card/name/王宫的铁壁
 .. _`宝玉的泛滥`: https://ygocdb.com/card/name/宝玉的泛滥
+.. _`幻影骑士团`: https://ygocdb.com/?search=幻影骑士团
+.. _`幻影骑士团 裂头盔`: https://ygocdb.com/card/name/幻影骑士团%20裂头盔
