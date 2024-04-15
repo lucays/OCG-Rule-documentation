@@ -473,6 +473,7 @@
 -------
 
 | 数据库：
+| 「`入魔梦魇骑士`_」的效果在1组连锁上只能发动1次。\ `24/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=9825&request_locale=ja>`__
 | 宣言龙族发动的「`DNA改造手术`_」的效果适用中，发动「`召唤女巫`_」的①效果，把魔法师族怪兽在对方场上特殊召唤的场合，特殊召唤成功的时点是龙族，结果从卡组选龙族怪兽特殊召唤。\ `24/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24057&keyword=&tag=-1&request_locale=ja>`__
 
 4/3
@@ -572,6 +573,17 @@
 | 「`魔术礼帽`_」的①效果把「`炎舞`_」魔法·陷阱卡和「`幻影`_」魔法·陷阱卡当作通常怪兽里侧守备表示表示特殊召唤，再在这个状态因其他效果被破坏的场合，可以发动「`雄炎星-蛇林`_」的效果，「`幻影骑士团 裂头盔`_」的①效果也会发动。
 | 自己场上不存在其他怪兽，「`战吼斗士·福蒂亚`_」适用了「`英雄假面`_」的效果后，直接攻击的场合，伤害计算后不能发动①效果。
 | 「`宣传雁茸天狗`_」的①效果适用后，再被其他效果更改种族例如不死族的场合，自身②效果也会让场上的表侧表示怪兽都变成更改后的种族例如不死族。
+
+4/15
+-------
+
+| 邮件：
+| 以「`奥义之魔导书`_」等记述『这个卡名的卡在1回合只能发动1张』的魔法卡为对象发动「`二重魔法`_」后，这个回合也不能再以那同1张魔法卡为对象发动第2张「`二重魔法`_」。
+
+| 数据库：
+
+| 裁定变更：
+| 「`冥王的咆哮`_」现在是取进行战斗的对方怪兽为对象发动的效果。\ `20/6/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5310&request_locale=ja>`__
 
 .. _`太古的白石`: https://ygocdb.com/card/name/太古的白石
 .. _`融合识别`: https://ygocdb.com/card/name/融合识别
@@ -960,3 +972,7 @@
 .. _`霸雷星 雷神`: https://ygocdb.com/card/name/霸雷星%20雷神
 .. _`肃声之威光`: https://ygocdb.com/card/name/肃声之威光
 .. _`企鹅勇士`: https://ygocdb.com/card/name/企鹅勇士
+.. _`入魔梦魇骑士`: https://ygocdb.com/card/name/入魔梦魇骑士
+.. _`奥义之魔导书`: https://ygocdb.com/card/name/奥义之魔导书
+.. _`二重魔法`: https://ygocdb.com/card/name/二重魔法
+.. _`冥王的咆哮`: https://ygocdb.com/card/name/冥王的咆哮
