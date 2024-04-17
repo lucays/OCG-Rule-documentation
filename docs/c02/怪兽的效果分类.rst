@@ -192,7 +192,7 @@
 3. 破坏·送去墓地
 
 | 例：
-| 对方场上存在守备表示的「`No.41 泥睡魔兽 睡梦貘`_」，②效果适用中的状况，攻击表示X召唤「`DDD 双晓王 末法神`_」的场合，「`DDD 双晓王 末法神`_」的①效果先适用，不会变成守备表示，「`No.41 泥睡魔兽 睡梦貘`_」的效果无效。\ `23/9/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24009&keyword=&tag=-1&request_locale=ja>`__
+| 对方场上存在守备表示的「`No.41 泥睡魔兽 睡梦貘`_」，②效果适用中的状况，攻击表示X召唤「`DDD 双晓王 末法神`_」的场合，「`DDD 双晓王 末法神`_」的①效果先适用，不会变成守备表示，「`No.41 泥睡魔兽 睡梦貘`_」的效果无效。「`超骑甲虫 绝对大力独角仙`_」的①效果也一样，先不受这个效果影响，结果不会变成守备表示。\ `24/4/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24009&keyword=&tag=-1&request_locale=ja>`__
 | 自己场上存在「`群雄割据`_」和宣言魔法师族的「`DNA改造手术`_」，里侧表示的怪兽受到攻击反转的场合，先变成魔法师族，因此自己场上只有魔法师族，「`群雄割据`_」的处理不会把这只怪兽送去墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6242&keyword=&tag=-1&request_locale=ja>`__
 | 对方场上存在「`No.4 猛毒刺胞 隐形水母怪`_」和「`御前试合`_」，效果都适用中的状况，如果我方怪兽区域不存在表侧表示的怪兽，我方仍然可以发动「`铁兽的抗战`_」。效果处理时我方场上没有表侧表示怪兽存在的状况，可以把地属性的「`铁兽战线 克拉斯`_」和炎属性的「`铁兽战线 姬特`_」特殊召唤。特殊召唤成功时，「`No.4 猛毒刺胞 隐形水母怪`_」的①效果立即适用，它们变成水属性。因此「`御前试合`_」的处理不适用。由于这时我方不能特殊召唤水属性以外的怪兽，地属性的「`铁兽战线 徒花之费莉吉特`_」的连接召唤不进行，特殊召唤了的这2只怪兽就这样留在怪兽区域。\ `21/12/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23489&keyword=&tag=-1&request_locale=ja>`__
 
@@ -383,3 +383,4 @@
 .. _`淘气仙星`: https://ygocdb.com/?search=淘气仙星
 .. _`淘气仙星的花束`: https://ygocdb.com/card/name/淘气仙星的花束
 .. _`时空之灵摆读阵`: https://ygocdb.com/card/name/时空之灵摆读阵
+.. _`超骑甲虫 绝对大力独角仙`: https://ygocdb.com/card/name/超骑甲虫%20绝对大力独角仙
