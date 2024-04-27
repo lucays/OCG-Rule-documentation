@@ -615,6 +615,7 @@
 | 里侧表示的「`幻影骑士团`_」怪兽送去自己墓地的场合，也会发动「`幻影骑士团 裂头盔`_」的①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17618&keyword=&tag=-1&request_locale=ja>`__
 | 自己场上表侧表示的爬虫类族陷阱怪兽被战斗破坏的场合，可以发动「`毒蛇的怨念`_」的②效果。但是，不是被战斗破坏，而是因效果而送去墓地的场合，由于送去墓地后不是爬虫类族怪兽，不能发动。\ `22/12/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23788&keyword=&tag=-1&request_locale=ja>`__
 | 衍生物被除外的时点消灭，结果不存在除外后的状态，不能发动「`相剑大公-承影`_」的③效果。\ `21/7/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16528&request_locale=ja>`__
+| 「`幻奏`_」融合怪兽在送去自己墓地前，是作为X素材或者在魔法·陷阱卡区域当作魔法卡使用的场合，也可以发动「`幻奏协奏曲`_」的②效果。\ `24/1/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=19897&request_locale=ja>`__
 
 -  | 这类文本之前，如果还有『自己的』等限制，在除外·送去墓地前必须满足『自己的』等条件。
    | 例：
@@ -1289,3 +1290,5 @@ cost
 .. _`幻影骑士团 裂头盔`: https://ygocdb.com/card/name/幻影骑士团%20裂头盔
 .. _`英雄假面`: https://ygocdb.com/card/name/英雄假面
 .. _`非对称玄化`: https://ygocdb.com/card/name/非对称玄化
+.. _`幻奏协奏曲`: https://ygocdb.com/card/name/幻奏协奏曲
+.. _`幻奏`: https://ygocdb.com/?search=幻奏
