@@ -149,6 +149,8 @@
    | 「`励辉士 入魔蝇王`_」发动被「`光与暗之龙`_」，或者效果被「`技能抽取`_」无效，这个回合对方玩家受到的伤害不会变成0。\ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13019&keyword=&tag=-1>`__
    | 「`雪花之光`_」的『这张卡的发动后，这次决斗中』部分也是效果，只在卡的发动时适用。\ `18/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21681&keyword=&tag=-1&request_locale=ja>`__
 
+   .. attention:: 特别地，「`次世代兵器 还零`_」的『这个回合○○』不在效果处理部分，因此不是效果。场上存在「`技能抽取`_」时，效果无效的「`次世代兵器 还零`_」除外光属性怪兽发动①效果后，这个回合也不能再次除外光属性怪兽发动①效果。
+
 -  | 这类记述应该当作前一段效果附加的效果处理。即使前一段效果处理时不适用，只要没被无效，这部分基本上仍会适用。
    | 这类记述的处理不占用时点。
    | 即使这类记述无法适用，仍然可以发动那些效果。
@@ -322,3 +324,4 @@
 .. _`紧急瞬间移动`: https://ygocdb.com/card/name/紧急瞬间移动
 .. _`雷王`: https://ygocdb.com/card/name/雷王
 .. _`青眼亚白龙`: https://ygocdb.com/card/name/青眼亚白龙
+.. _`次世代兵器 还零`: https://ygocdb.com/card/name/次世代兵器%20还零
