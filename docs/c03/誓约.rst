@@ -164,6 +164,7 @@
       | 「`天邪鬼的诅咒`_」发动后，发动「`钢铁巨兵`_」的效果的场合，守备力下降1000，但『这个回合，○○』部分的效果仍然会适用。
       | 「`钢铁巨兵`_」的效果处理时，自身变成里侧表示，或者不在场上存在的场合，『这个回合，○○』部分的效果不适用。
       | 「`混沌核`_」的①效果处理时，「`门之防壁`_」的①效果适用，不能放置指示物的场合，『这个回合，○○』部分的效果不适用。
+      | 「`古之咒文`_」的①效果处理时，没能把「`太阳神之翼神龙`_」加入手卡的场合，『这个回合，○○』部分的效果不适用。\ `22/12/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23026&keyword=&tag=-1&request_locale=ja>`__
       | 「`女巫特露德`_」的②效果处理时，因对象卡片不存在等状况，无法破坏对象卡片的场合，『这个回合，这张卡在同1次的战斗阶段中最多2次可以向怪兽攻击』效果不适用。\ `22/3/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23593&keyword=&tag=-1&request_locale=ja>`__
       | 「`灵摆区`_」的①效果处理时，作为对象的2张卡其中1张因「`闪珖龙 星尘`_」的效果不会被破坏的场合，剩下那张仍然破坏。由于没有破坏2张卡，『这个回合双方不能作灵摆召唤以外的特殊召唤』仍不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16638&keyword=&tag=-1&request_locale=ja>`__
 
@@ -325,3 +326,5 @@
 .. _`雷王`: https://ygocdb.com/card/name/雷王
 .. _`青眼亚白龙`: https://ygocdb.com/card/name/青眼亚白龙
 .. _`次世代兵器 还零`: https://ygocdb.com/card/name/次世代兵器%20还零
+.. _`太阳神之翼神龙`: https://ygocdb.com/card/name/太阳神之翼神龙
+.. _`古之咒文`: https://ygocdb.com/card/name/古之咒文
