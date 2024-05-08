@@ -680,11 +680,12 @@
 ------
 
 | 数据库：
+| 魔法·陷阱卡为让怪兽的效果发动而被送去自己墓地，那个发动无效，或者那张魔法·陷阱卡已经不在墓地存在，也可以发动「`白森林的阿斯忒瑞亚`_」的②效果。\ `24/4/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=20192&request_locale=ja>`__
 | 「`龙仪巧-天龙流星DAD`_」的③效果处理时，当作仪式召唤把「`龙仪巧-天龙流星DRA`_」「`龙仪巧-天龙流星QUA`_」特殊召唤的场合，不能发动·适用它们的②效果。\ `24/5/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24068&keyword=&tag=-1&request_locale=ja>`__
 | 自己场地区域表侧表示存在「`石板神殿`_」，『场上的卡全部破坏』的效果把「`石板神殿`_」和自己怪兽区域表侧表示存在的「`千年`_」怪兽同时破坏的状况，不能适用「`石板神殿`_」的②效果；自己魔法·陷阱卡区域存在5张卡，「`千年`_」怪兽和魔法·陷阱卡区域的卡片同时被破坏的场合，可以适用「`石板神殿`_」的②效果；自己魔法·陷阱卡区域存在4张卡，2只以上「`千年`_」怪兽同时被破坏的场合，可以适用「`石板神殿`_」的②效果，选1只放置到魔法·陷阱卡区域；此外，「`次元吸引者`_」的①效果等适用的场合，也可以适用「`石板神殿`_」的②效果。\ `24/5/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24064&keyword=&tag=-1&request_locale=ja>`__
 
 | 裁定变更：
-| 自己怪兽区域存在「`G·B·猎人`_」时，不能发动「`千年十字`_」。\ `24/5/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24067&keyword=&tag=-1&request_locale=ja>`__
+| 自己怪兽区域存在「`G·B·猎人`_」时，不能发动「`千年十字`_」。\ `24/5/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24067&keyword=&tag=-1&request_locale=ja&request_locale=ja>`__
 
 5/4
 ------
@@ -704,6 +705,22 @@
 | 裁定变更：
 | 我方通常抽卡前发动「`异热同心力场`_」的③效果时，对方连锁发动「`光神化`_」，特殊召唤了「`勇气之天使 维多利卡`_」的场合，先进行通常抽卡，再发动「`勇气之天使 维多利卡`_」的①效果。
 | 我方通常抽卡前，对方「`火之迦具土`_」的效果让我方丢弃了「`暗黑界的龙神 格拉法`_」，对方场上存在「`魔王 迪亚波罗斯`_」的场合，先发动「`魔王 迪亚波罗斯`_」的②效果，再通常抽卡后，才会发动「`暗黑界的龙神 格拉法`_」的②效果。
+
+| 数据库：
+| 第3次攻击宣言时，或那个战斗步骤，就可以发动「`灿幻升龙 双叉戟龙军王`_」的②效果。\ `24/1/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=19880&request_locale=ja>`__
+| 第5次攻击宣言时，或那个战斗步骤，就可以发动「`流星连打-白黑机人`_」的①效果。\ `22/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=18174&request_locale=ja>`__
+| 「`素银忍者`_」的效果处理时，需要给对方确认特殊召唤的怪兽是哪些，不过不需要告知对方这些怪兽分别盖放在哪个怪兽区域。\ `18/9/3 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=9749&request_locale=ja>`__
+
+5/8
+------
+
+| 邮件：
+| 「`几星霜`_」的②效果适用后，我方可以进行2次战斗阶段的回合，在第1个战斗阶段，「`地狱猎犬猛龙`_」和「`银河眼光子龙`_」战斗，被一时除外，在这个战斗阶段结束时回到场上的场合，在第2个战斗阶段仍然可以直接攻击。
+| 「`冰水咒缚`_」的①效果适用中，召唤·特殊召唤了「`觉星师 莱斯贝尔特`_」后，在这个回合这只「`觉星师 莱斯贝尔特`_」被一时除外再回到场上的状况，也不能再发动效果。
+
+| 数据库：
+| 自己怪兽区域存在「`G·B·猎人`_」时，不能发动「`千年十字`_」。「`千年十字`_」发动后，效果处理时「`G·B·猎人`_」的效果适用的场合，『再让那些全部回到卡组』不适用，不会有卡回到卡组，「`千年十字`_」送去墓地，其他效果全部适用。\ `24/5/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24067&keyword=&tag=-1&request_locale=ja>`__
+| 当回合召唤·反转召唤·特殊召唤·盖放·攻击过的怪兽，被「`亚空间物质回送装置`_」的①效果除外再回到场上的场合，玩家可以按照自己的意志把这只怪兽的表示形式变更。\ `24/5/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24069&keyword=&tag=-1&request_locale=ja>`__
 
 .. _`太古的白石`: https://ygocdb.com/card/name/太古的白石
 .. _`融合识别`: https://ygocdb.com/card/name/融合识别
@@ -1177,3 +1194,10 @@
 .. _`魔王 迪亚波罗斯`: https://ygocdb.com/card/name/魔王%20迪亚波罗斯
 .. _`异热同心力场`: https://ygocdb.com/card/name/异热同心力场
 .. _`暗黑界的龙神 格拉法`: https://ygocdb.com/card/name/暗黑界的龙神%20格拉法
+.. _`冰水咒缚`: https://ygocdb.com/card/name/冰水咒缚
+.. _`流星连打-白黑机人`: https://ygocdb.com/card/name/流星连打-白黑机人
+.. _`灿幻升龙 双叉戟龙军王`: https://ygocdb.com/card/name/灿幻升龙%20双叉戟龙军王
+.. _`几星霜`: https://ygocdb.com/card/name/几星霜
+.. _`觉星师 莱斯贝尔特`: https://ygocdb.com/card/name/觉星师%20莱斯贝尔特
+.. _`地狱猎犬猛龙`: https://ygocdb.com/card/name/地狱猎犬猛龙
+.. _`素银忍者`: https://ygocdb.com/card/name/素银忍者
