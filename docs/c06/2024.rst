@@ -722,6 +722,13 @@
 | 自己怪兽区域存在「`G·B·猎人`_」时，不能发动「`千年十字`_」。「`千年十字`_」发动后，效果处理时「`G·B·猎人`_」的效果适用的场合，『再让那些全部回到卡组』不适用，不会有卡回到卡组，「`千年十字`_」送去墓地，其他效果全部适用。\ `24/5/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24067&keyword=&tag=-1&request_locale=ja>`__
 | 当回合召唤·反转召唤·特殊召唤·盖放·攻击过的怪兽，被「`亚空间物质回送装置`_」的①效果除外再回到场上的场合，玩家可以按照自己的意志把这只怪兽的表示形式变更。\ `24/5/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24069&keyword=&tag=-1&request_locale=ja>`__
 
+5/9
+------
+
+| 邮件：
+| 我方通常抽卡前，对方「`火之迦具土`_」的效果让我方丢弃了「`暗道化师 彼得`_」的场合，抽卡后「`暗道化师 彼得`_」的①效果是否错过时点，能否发动，调整中。
+| 对方场上存在「`魔王 迪亚波罗斯`_」，我方通常抽卡前，对方「`火之迦具土`_」的效果让我方丢弃了「`暗道化师 彼得`_」的场合，先发动「`魔王 迪亚波罗斯`_」的②效果，再通常抽卡后，「`暗道化师 彼得`_」的①效果是否错过时点，能否发动，调整中。
+
 .. _`太古的白石`: https://ygocdb.com/card/name/太古的白石
 .. _`融合识别`: https://ygocdb.com/card/name/融合识别
 .. _`天幻之龙轮`: https://ygocdb.com/card/name/天幻之龙轮
@@ -1201,3 +1208,4 @@
 .. _`觉星师 莱斯贝尔特`: https://ygocdb.com/card/name/觉星师%20莱斯贝尔特
 .. _`地狱猎犬猛龙`: https://ygocdb.com/card/name/地狱猎犬猛龙
 .. _`素银忍者`: https://ygocdb.com/card/name/素银忍者
+.. _`暗道化师 彼得`: https://ygocdb.com/card/name/暗道化师%20彼得
