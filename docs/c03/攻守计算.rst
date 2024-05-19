@@ -91,11 +91,12 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
    | 而「元素英雄 烈焰侠」的描述是『\ **变成**\ 相同』，仍然复原。\ `18/11/5 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13594&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 改变等级·阶级·P刻度·种族·属性的效果在类似状况的处理也一样。
-   | 不过，改变卡名的效果处理不同，无效后卡名不会复原。
+   | 不过，得到卡名·效果的效果处理不同，无效后已经被改变的卡名·得到的效果不会复原。
    | 例：
    | 「`流星登龙`_」的①效果这样，只会改变自身等级的效果适用后，被「`技能抽取`_」等效果无效的场合，等级会复原为等级7。『这个回合，自己不能把送去墓地的那只怪兽以及那些同名怪兽的怪兽效果发动』仍然适用。「`左起子`_」「`加速同调士`_」的①效果等处理也一样。\ `23/7/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21800&keyword=&tag=-1&request_locale=ja>`__
    | 「`我我我妹妹`_」「`星圣·箕宿三`_」「`斩机 乘武`_」等，持有可以改变其他卡等级的怪兽效果适用后（即使只改变自己等级），自身或者被改变等级的怪兽的效果被「`无限泡影`_」等效果无效的场合，已经改变的等级不会复原。\ `23/7/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12942&keyword=&tag=-1&request_locale=ja>`__
    | P区域的「`DDD 死讴王 恶德镇魂神`_」发动①效果把自身特殊召唤，等级变更的状况，是魔法卡的效果导致的等级变更，再发动「`技能抽取`_」的场合，这只「`DDD 死讴王 恶德镇魂神`_」的等级不会复原。\ `22/12/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22932&keyword=&tag=-1&request_locale=ja>`__
+   | P区域「`智天之神星龙`_」的①效果适用后，再被无效的场合，P刻度恢复原本数值。\ `17/1/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12944&request_locale=ja>`__
 
 | 得到了上升攻击力的效果后，又失去效果时，和被无效的情况处理一样。
 | 例：
@@ -801,3 +802,4 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
 .. _`指挥骑士`: https://ygocdb.com/card/name/指挥骑士
 .. _`混沌No.62 超银河眼光子龙皇`: https://ygocdb.com/card/name/混沌No.62%20超银河眼光子龙皇
 .. _`银河眼光子龙`: https://ygocdb.com/card/name/银河眼光子龙
+.. _`智天之神星龙`: https://ygocdb.com/card/name/智天之神星龙
