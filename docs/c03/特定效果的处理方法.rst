@@ -579,10 +579,10 @@
    | 因此，这时衍生物·陷阱怪兽都不满足『怪兽被破坏』的条件。
    | 例：
    | 自己场上的表侧表示的通常怪兽被战斗·效果破坏送去对方墓地的场合，也可以发动「`珂珑公主`_」的③效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12888&keyword=&tag=-1&request_locale=ja>`__
-   | 「`纸箱拳击手`_」战斗破坏对方陷阱怪兽送去墓地的场合，送去墓地后是陷阱卡，不能发动①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17153&keyword=&tag=-1&request_locale=ja>`__
    | 作为装备魔法的怪兽卡被破坏的场合，是魔法卡被破坏，不是怪兽被破坏，不能发动「`截敌蛋`_」。\ `22/8/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14797&keyword=&tag=-1&request_locale=ja>`__
    | 自己场上的怪兽被破坏，即使原本持有者是对方，送去对方墓地，也可以发动「`截敌蛋`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14801&keyword=&tag=-1&request_locale=ja>`__
    | 陷阱怪兽被破坏送去墓地的场合，送去墓地后不是怪兽，不能发动「`截敌蛋`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14798&keyword=&tag=-1&request_locale=ja>`__
+   | 「`电子光虫-散热器蜣螂`_」战斗破坏对方陷阱怪兽送去墓地的场合，送去墓地后是陷阱卡，不能发动②效果。\ `24/6/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19360&keyword=&tag=-1&request_locale=ja>`__
 
 『这张卡被破坏』
 ~~~~~~~~~~~~~~~~~~~
@@ -1300,3 +1300,4 @@ cost
 .. _`幻奏`: https://ygocdb.com/?search=幻奏
 .. _`来自星遗物中的觉醒`: https://ygocdb.com/card/name/来自星遗物中的觉醒
 .. _`梦幻崩影·哥布林`: https://ygocdb.com/card/name/梦幻崩影·哥布林
+.. _`电子光虫-散热器蜣螂`: https://ygocdb.com/card/name/电子光虫-散热器蜣螂
