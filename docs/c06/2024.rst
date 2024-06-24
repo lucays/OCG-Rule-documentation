@@ -939,7 +939,7 @@
 
 | 数据库：
 | 「`急袭猛禽-卫星炮猎鹰`_」的②效果在1组连锁上也可以发动多次，可以对攻击力不足800的怪兽发动。\ `18/11/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12211&request_locale=ja>`__
-| 发动「`黄金乡的征服者`_」，变成通常怪兽后，可以装备「`死灵的残像`_」，可以发动「`死灵的残像`_」的①效果，特殊召唤相同种族·属性·攻击力的「多普勒衍生物」。\ `24/6/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24076&keyword=&tag=-1&request_locale=ja>`__
+| 发动「`黄金乡的征服者`_」，变成通常怪兽后，可以装备「`死灵的残像`_」，可以发动「`死灵的残像`_」的①效果，特殊召唤相同种族·属性·攻击力的「`多普勒衍生物`_」。\ `24/6/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24076&keyword=&tag=-1&request_locale=ja>`__
 | 我方场上存在「`娱乐法师 秋千魔术家`_」「`娱乐法师 秋千高空魔术家`_」时，「`娱乐法师 戏法小丑`_」的①效果发动的场合，只有「`娱乐法师 秋千高空魔术家`_」的②效果适用，我方不受伤害，对方受到1000伤害。\ `24/6/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24074&keyword=&tag=-1&request_locale=ja>`__
 
 .. _`太古的白石`: https://ygocdb.com/card/name/太古的白石
