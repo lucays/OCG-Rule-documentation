@@ -577,7 +577,7 @@
 | 「`幻魔皇 拉比艾尔-天界蹂躏拳`_」的①效果处理时，作为对象的「`幻魔皇 拉比艾尔`_」变成里侧表示的场合，这个效果完全不适用。\ `20/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22989&keyword=&tag=-1&request_locale=ja>`__
 | 对方场上只有1只「`连接栗子球`_」，那只「`连接栗子球`_」解放自身发动①效果时，自己不能连锁发动「`电脑堺龙-龙龙`_」的②效果。\ `20/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22985&keyword=&tag=-1&request_locale=ja>`__
 | 「`电脑堺姬-娘娘`_」①效果适用的回合，也可以发动「`名推理`_」，处理时翻出等级2以下的可以通常召唤的怪兽的场合，不能特殊召唤，和其他卡一样送去墓地。\ `20/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22991&keyword=&tag=-1&request_locale=ja>`__
-| 「`大宇宙`_」的②效果适用中，「`混沌核`_」的①效果处理时，「`神炎皇ウリア`_」「`降雷皇ハモン`_」「`幻魔皇ラビエル`_」没有送去墓地而是被除外的场合，不会放置指示物，这个回合自己仍然会受到战斗伤害。\ `20/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22988&keyword=&tag=-1&request_locale=ja>`__
+| 「`大宇宙`_」的②效果适用中，「`混沌核心`_」的①效果处理时，「`神炎皇ウリア`_」「`降雷皇ハモン`_」「`幻魔皇ラビエル`_」没有送去墓地而是被除外的场合，不会放置指示物，这个回合自己仍然会受到战斗伤害。\ `20/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22988&keyword=&tag=-1&request_locale=ja>`__
 | 「`爆裂埋伏`_」的①效果把「`禁忌之壶`_」里侧守备表示特殊召唤时，「`觉醒的三幻魔`_」的『●1种类以上：每次对方对怪兽的召唤·特殊召唤成功，自己回复那些怪兽的攻击力数值的基本分』效果不适用。\ `20/3/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22986&keyword=&tag=-1&request_locale=ja>`__
 
 3/19
@@ -3878,7 +3878,7 @@
 .. _`魍魉跋扈`: https://ygocdb.com/card/name/魍魉跋扈
 .. _`流星直击`: https://ygocdb.com/card/name/流星直击
 .. _`半龙女仆·耀光龙女`: https://ygocdb.com/card/name/半龙女仆·耀光龙女
-.. _`混沌核`: https://ygocdb.com/card/name/混沌核
+.. _`混沌核心`: https://ygocdb.com/card/name/混沌核心
 .. _`真帝王领域`: https://ygocdb.com/card/name/真帝王领域
 .. _`No.66 霸键甲虫`: https://ygocdb.com/card/name/No.66%20霸键甲虫
 .. _`武装龙的袭雷`: https://ygocdb.com/card/name/武装龙的袭雷
