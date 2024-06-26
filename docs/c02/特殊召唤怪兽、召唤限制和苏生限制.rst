@@ -85,7 +85,7 @@ P召唤                                 ×                ○                   
 | 例：
 | 「`狱火机·拿玛`_」的召唤手续不是效果，「`王家长眠之谷`_」的②效果适用中仍然可以把自身从墓地特殊召唤，由于不能除外墓地的卡，这时必须除外手卡3张「`狱火机`_」怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=65&request_locale=ja00&keyword=&tag=-1>`__\
 | 「`暗黑界的龙神 格拉法`_」可以通常召唤，所以『从墓地特殊召唤』是效果，可以被「`王家长眠之谷`_」\ `16/12/17 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20408>`__ 「`冥界的魔王 哈·迪斯`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11587&request_locale=ja>`__ 等无效。这个场合不能进行特殊召唤，也不能只让怪兽回到手卡。
-| 「`王家长眠之谷`_」在场上存在时，也可以从自己的手卡·墓地让包含仪式魔法卡的2张魔法卡回到卡组，从手卡特殊召唤「`肃声的龙贤圣 始龙`_」（这些魔法卡不是因卡的效果回到卡组）。\ `23/11/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24025&keyword=&tag=-1&request_locale=ja>`__
+| 「`王家长眠之谷`_」在场上存在时，也可以从自己的手卡·墓地让包含仪式魔法卡的2张魔法卡回到卡组，从手卡特殊召唤「`肃声的龙贤圣 始龙`_」。\ `23/11/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24025&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 由于特殊召唤怪兽的召唤条件基本上不是效果，也就不存在效果的发动（=不入连锁），「`神之宣告`_」等可以把这些特殊召唤无效。
    | 特别地，「`斯芬克斯·安德鲁吉尼斯`_」「`黑衣大贤者`_」等，是通过发动自身效果来用正规手续特殊召唤，融合·仪式怪兽基本上是通过发动进行融合·仪式召唤的效果来用正规手续特殊召唤。这个场合的特殊召唤不会被无效。
