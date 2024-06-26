@@ -383,7 +383,7 @@
 
 -  | 自己通过「`强制转移`_」\ `14/3/21 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11474&keyword=&tag=-1&request_locale=ja>`__ 「`御用王`_」\ `16/1/6 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17476&keyword=&tag=-1>`__ 等永久转移控制权的效果夺取了对方怪兽的控制权后，变成里侧或被一时除外的场合，都仍回到我方场上。不会回到对方场上。
    | 例：
-   | 「`玄化黑炎龙`_」的效果夺取了控制权的怪兽变成里侧表示的场合，不会归还控制权，那个回合翻开的场合可以攻击。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14244&request_locale=ja>`__
+   | 「`玄化荷鲁斯龙`_」的效果夺取了控制权的怪兽变成里侧表示的场合，不会归还控制权，那个回合翻开的场合可以攻击。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14244&request_locale=ja>`__
    | 通过「`装弹枪管龙`_」的③效果得到控制权的怪兽变成里侧的场合，不会再因这个效果送去墓地，不会归还控制权。\ `17/7/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11263&keyword=&tag=-1&request_locale=ja>`__
    | 通过「`装弹枪管龙`_」的③效果得到控制权的怪兽被一时除外的场合，回到「`装弹枪管龙`_」持有者的场上后，处理完毕，不会归还控制权，不会再被送去墓地。\ `23/8/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13264&keyword=&tag=-1&request_locale=ja>`__
 
@@ -532,7 +532,7 @@
 .. _`抽卡肌肉`: https://ygocdb.com/card/name/抽卡肌肉
 .. _`十二兽 蛇笞`: https://ygocdb.com/card/name/十二兽%20蛇笞
 .. _`黯黑世界-暗影敌托邦-`: https://ygocdb.com/card/name/黯黑世界-暗影敌托邦-
-.. _`玄化黑炎龙`: https://ygocdb.com/card/name/玄化黑炎龙
+.. _`玄化荷鲁斯龙`: https://ygocdb.com/card/name/玄化荷鲁斯龙
 .. _`太阳的祭坛`: https://ygocdb.com/card/name/太阳的祭坛
 .. _`银河眼光子龙`: https://ygocdb.com/card/name/银河眼光子龙
 .. _`大宇宙`: https://ygocdb.com/card/name/大宇宙

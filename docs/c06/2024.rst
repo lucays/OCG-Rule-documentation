@@ -923,7 +923,7 @@
 
 | 数据库：
 | 可以取控制权不能变更的怪兽如「`植物狮子`_」等为对象发动「`灰篮短吻鳄`_」的①效果，控制权不会变更，『这张卡从场上离开时装备怪兽破坏』效果适用。「`灰篮短吻鳄`_」装备中，「`植物狮子`_」的效果因其他效果被无效的场合，控制权会立即变更。此外，「`闪刀机-黑寡妇抓锚`_」「`御巫的诱轮舞`_」「`战斗瞬间移动`_」和「`异端之福波斯科波斯`_」①效果等也可以对控制权不能变更的怪兽发动。\ `24/6/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10018&keyword=&tag=-1&request_locale=ja>`__
-| 不能取控制权不能变更的怪兽如「`植物狮子`_」等为对象发动「`心变`_」「`强夺`_」「`堕落`_」「`蔷薇刻印`_」「`漫画之手`_」「`大逮捕`_」等效果。\ `24/6/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24075&keyword=&tag=-1&request_locale=ja>`__
+| 不能取控制权不能变更的怪兽如「`植物狮子`_」等为对象发动「`心变`_」「`强夺`_」「`堕落`_」「`蔷薇刻印`_」「`漫画之手`_」「`大逮捕`_」等效果，「`奇迹之魔术门`_」「`三战之才`_」的第2个『●』效果、「`玄化荷鲁斯龙`_」的第3个『●』效果等不取对象的效果也不能选这类怪兽。\ `24/6/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24075&keyword=&tag=-1&request_locale=ja>`__
 
 6/21
 -------
@@ -1543,3 +1543,6 @@
 .. _`方程式同调士`: https://ygocdb.com/card/name/方程式同调士
 .. _`加速同调星尘龙`: https://ygocdb.com/card/name/加速同调星尘龙
 .. _`幻变骚灵协议`: https://ygocdb.com/card/name/幻变骚灵协议
+.. _`奇迹之魔术门`: https://ygocdb.com/card/name/奇迹之魔术门
+.. _`玄化荷鲁斯龙`: https://ygocdb.com/card/name/玄化荷鲁斯龙
+.. _`三战之才`: https://ygocdb.com/card/name/三战之才
