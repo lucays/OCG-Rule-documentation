@@ -7,7 +7,7 @@ import requests
 
 current_dir = Path(__file__).parent.resolve()
 
-HTTPS_PROXY = 'http://127.0.0.1:7890'
+HTTPS_PROXY = 'http://127.0.0.1:7897'
 
 VALID_CARD_URLS_LST = []
 ALL_CARD_URLS, NEW_CARD_URLS, VALID_CARD_URLS = set(), set(), set()
