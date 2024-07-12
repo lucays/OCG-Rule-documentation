@@ -261,7 +261,7 @@ def strike_completion(texts: str) -> str:
                 datas = line.split('。\ `')
                 line = '。\ `'.join(datas[:-1]) + '。'
             line = line.replace('\ :ref:`', '').replace('`\ 。', '。')
-            if '`\ ' not in line:
+            if '`\ ' not in line and '[#]' not in line:
                 line = f'{line}`'
         new_texts.append(line)
     return '\n'.join(new_texts).strip() + '\n'
