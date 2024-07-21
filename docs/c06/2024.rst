@@ -1025,6 +1025,41 @@
 | 裁定变更：
 | 「`超重武者 法螺贝-E`_」这样，『这个方法特殊召唤成功的回合，○○』的效果，和「`风来王 野风`_」这样，『这个方法特殊召唤过的回合，○○』的效果一样，都是在到场上之前就已经适用的效果，即使场上存在「`技能抽取`_」，这类效果也不会被无效。\ `24/7/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20371&keyword=&tag=-1&request_locale=ja>`__
 
+7/14
+-------
+
+| 数据库：
+| 场上存在「`王家长眠之谷`_」时，仍然可以让自己墓地的卡回到卡组来特殊召唤「`于贝尔幻影`_」。「`究极封印神 艾克佐迪奥斯`_」也一样。\ `24/7/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24079&keyword=&tag=-1&request_locale=ja>`__
+
+7/15
+-------
+
+| 邮件：
+| 以「`齐唱僵尸`_」为对象发动「`捕食生成`_」的①效果，「`齐唱僵尸`_」放置1个捕食指示物，等级变成1后，发动自身①效果，等级变成2的状况，对方再以其他怪兽为对象发动第2张「`捕食生成`_」的①效果的场合，那只怪兽的等级变成1，这只「`齐唱僵尸`_」的等级仍然是2。
+
+7/18
+-------
+
+| 数据库：
+| 「`铠狱龙-电子暗冥龙`_」的③效果在1组连锁上可以发动多次。\ `21/5/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13182&request_locale=ja>`__
+| 以作为永续陷阱的「`重骑士 普莉梅拉`_」为对象发动「`鲜花女男爵`_」的①效果，连锁发动这张「`重骑士 普莉梅拉`_」的③效果，特殊召唤到怪兽区域的场合，不再是「`鲜花女男爵`_」的①效果的对象，不会被破坏。\ `24/7/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24003&keyword=&tag=-1&request_locale=ja>`__
+| 「`星尘龙`_」的①效果被无效或者那个发动被无效，或者因「`于贝尔幻影`_」的②效果等被改写的场合，结束阶段这只「`星尘龙`_」不能发动②效果。\ `24/7/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7934&keyword=&tag=-1&request_locale=ja>`__
+
+7/20
+-------
+
+| 数据库：
+| 无论是在战斗阶段还是战斗阶段以外发动「`灿幻开门`_」时，都可以连锁发动「`灰流丽`_」的①效果。\ `24/7/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24085&keyword=&tag=-1&request_locale=ja>`__
+
+7/21
+-------
+
+| 邮件：
+| 在我方的战斗阶段开始时，对方发动「`强制终了`_」，连锁发动卡的效果破坏我方「`影依龙`_」的场合，那只「`影依龙`_」的②效果在我方战斗阶段的结束步骤发动。
+
+| 数据库：
+| 场上存在「`王家长眠之谷`_」时，发动P区域「点火骑士」怪兽①效果的场合，也会破坏自己P区域的全部卡片，从卡组选1只战士族·炎属性怪兽加入手卡。卡组不存在战士族·炎属性怪兽的场合，只破坏自己P区域的全部卡片，加入手卡的处理不适用。\ `24/7/21 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15703&keyword=&tag=-1&request_locale=ja>`__
+
 .. _`太古的白石`: https://ygocdb.com/card/name/太古的白石
 .. _`融合识别`: https://ygocdb.com/card/name/融合识别
 .. _`天幻之龙轮`: https://ygocdb.com/card/name/天幻之龙轮
@@ -1647,3 +1682,13 @@
 .. _`超重武者 法螺贝-E`: https://ygocdb.com/card/name/超重武者%20法螺贝-E
 .. _`强欲之瓶`: https://ygocdb.com/card/name/强欲之瓶
 .. _`No.75 惑乱之风言暗影`: https://ygocdb.com/card/name/No.75%20惑乱之风言暗影
+.. _`点火骑士`: https://ygocdb.com/?search=点火骑士
+.. _`影依龙`: https://ygocdb.com/card/name/影依龙
+.. _`究极封印神 艾克佐迪奥斯`: https://ygocdb.com/card/name/究极封印神%20艾克佐迪奥斯
+.. _`强制终了`: https://ygocdb.com/card/name/强制终了
+.. _`重骑士 普莉梅拉`: https://ygocdb.com/card/name/重骑士%20普莉梅拉
+.. _`捕食生成`: https://ygocdb.com/card/name/捕食生成
+.. _`齐唱僵尸`: https://ygocdb.com/card/name/齐唱僵尸
+.. _`灿幻开门`: https://ygocdb.com/card/name/灿幻开门
+.. _`灰流丽`: https://ygocdb.com/card/name/灰流丽
+.. _`鲜花女男爵`: https://ygocdb.com/card/name/鲜花女男爵
