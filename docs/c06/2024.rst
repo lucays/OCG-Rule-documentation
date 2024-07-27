@@ -1058,7 +1058,54 @@
 | 在我方的战斗阶段开始时，对方发动「`强制终了`_」，连锁发动卡的效果破坏我方「`影依龙`_」的场合，那只「`影依龙`_」的②效果在我方战斗阶段的结束步骤发动。
 
 | 数据库：
-| 场上存在「`王家长眠之谷`_」时，发动P区域「点火骑士」怪兽①效果的场合，也会破坏自己P区域的全部卡片，从卡组选1只战士族·炎属性怪兽加入手卡。卡组不存在战士族·炎属性怪兽的场合，只破坏自己P区域的全部卡片，加入手卡的处理不适用。\ `24/7/21 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15703&keyword=&tag=-1&request_locale=ja>`__
+| 场上存在「`王家长眠之谷`_」时，发动P区域「`点火骑士`_」怪兽①效果的场合，也会破坏自己P区域的全部卡片，从卡组选1只战士族·炎属性怪兽加入手卡。卡组不存在战士族·炎属性怪兽的场合，只破坏自己P区域的全部卡片，加入手卡的处理不适用。\ `24/7/21 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15703&keyword=&tag=-1&request_locale=ja>`__
+
+7/22
+-------
+
+| 数据库：
+| 「`刻魔的乐园`_」①效果处理时，对象怪兽不在场上存在的场合，这个效果正常适用，场上的卡全部送去墓地。\ `24/7/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=20251&request_locale=ja>`__
+
+7/25
+-------
+
+| 邮件：
+| 自己场上只存在「`精灵术师 树精`_」的场合，是『只有水属性怪兽』，可以发动「`渊鲨`_」的①效果。
+| 「`魊影的阴影 斯诺皮奥斯`_」的『那张卡从场上离开的场合除外』效果对魔法·陷阱卡区域的怪兽卡适用后，那张卡因「`蛇眼炎龙`_」的②效果等特殊召唤，再从场上离开的场合不会除外；这个效果对怪兽适用后，那只怪兽「`蛇眼炎龙`_」的①效果等移动到魔法·陷阱卡区域，再从场上离开的场合不会除外。
+| 「`魊影的阴影 斯诺皮奥斯`_」的『那张卡从场上离开的场合除外』效果对怪兽适用后，再发动「`月之书`_」让那只怪兽变成里侧表示，再从场上离开的场合，仍然被除外。
+| 发动「`阿匹卜之化神`_」这样\ :ref:`也当作陷阱卡使用的陷阱怪兽`\ ，连锁发动「`西之七音服·比蒂娅`_」的『那张卡从场上离开的场合除外』效果，对「`阿匹卜之化神`_」适用后，「`阿匹卜之化神`_」在怪兽区域从场上离开的场合，会除外。
+| 「`西之七音服·比蒂娅`_」的『那张卡从场上离开的场合除外』效果对怪兽区域因自身效果特殊召唤的「`阿匹卜之化神`_」适用后，再发动「`王宫的通告`_」，那只「`阿匹卜之化神`_」表侧表示放置到魔法·陷阱卡区域，再从场上离开的场合，会除外。
+| 「`西之七音服·比蒂娅`_」的『那张卡从场上离开的场合除外』效果对怪兽区域因自身效果特殊召唤的「`阿匹卜之化神`_」适用后，再发动「`月之书`_」让那只「`阿匹卜之化神`_」盖放在魔法·陷阱卡区域，再从场上离开的场合，不会除外。
+
+7/26
+-------
+
+| 邮件：
+| 「`封印之黄金柜`_」的①效果从卡组把「`光道兽 沃尔夫`_」除外时，可以发动「`科技属 长柄刀爆破炮手`_」的②效果特殊召唤这只「`光道兽 沃尔夫`_」。
+
+| 调整中确认：
+| 对方场上存在宣言了「`袭击队飞翼`_」的「`禁止令`_」，我方场上存在「`王宫的敕命`_」的状况，召唤「`袭击队飞翼`_」之际，对方发动「`宇宙耀变龙`_」的①效果，我方连锁发动「`水晶翼同调龙`_」的①效果，对方连锁发动「`龙卷龙`_」的①效果，破坏了「`王宫的敕命`_」的场合，结果「`禁止令`_」的效果适用，「`袭击队飞翼`_」召唤失败，送去墓地。由于不是召唤无效，这个连锁处理后，对方不能发动「`魔女的一击`_」；由于「`水晶翼同调龙`_」的①效果适用，我方可以发动「`魔女的一击`_」。
+| 对方场上存在宣言了「`魔妖仙兽 大刃祸是`_」的「`禁止令`_」，我方场上存在「`王宫的敕命`_」的状况，P召唤「`魔妖仙兽 大刃祸是`_」和「`青眼白龙`_」之际，对方发动「`宇宙耀变龙`_」的①效果，我方连锁发动「`水晶翼同调龙`_」的①效果，对方连锁发动「`龙卷龙`_」的①效果，破坏了「`王宫的敕命`_」的场合，结果「`禁止令`_」的效果适用，「`魔妖仙兽 大刃祸是`_」召唤失败，送去墓地。（「`青眼白龙`_」P召唤成功）
+
+7/27
+-------
+
+| 数据库：
+| 「`混沌No.32 海咬龙 鲨龙兽·白煞`_」的①效果在1组连锁上可以发动多次。\ `24/7/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10261&request_locale=ja>`__
+| 怪兽区域存在效果没有被无效的效果怪兽，或者攻击力·守备力和原本数值不同的怪兽时，才能发动「`No.107 银河眼时空龙`_」的①效果。\ `24/7/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10525&request_locale=ja>`__
+| 1组连锁上多次召唤·特殊召唤了等级4以上的怪兽，连锁处理完毕时「`鬼计猫娘`_」的效果会发动多次。此外，『只要场上有这张卡以外的「`鬼计`_」怪兽存在』是在这个效果要发动的时点需要满足的条件，在等级4以上的怪兽召唤·特殊召唤成功时不需要满足这个条件。\ `24/7/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10909&request_locale=ja>`__
+| 1组连锁上多次召唤·反转召唤·特殊召唤了天使族怪兽，连锁处理完毕时「`雅典娜`_」的②效果会发动多次。\ `24/7/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7571&request_locale=ja>`__
+| 「`强韧！无敌！最强！`_」的①效果处理时，对象怪兽不受陷阱效果影响的场合，这个效果全不适用。\ `24/7/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13846&request_locale=ja>`__
+| 不能以攻击力是0或？的怪兽为对象发动「`淘气仙星·科尔奇卡`_」的①效果。\ `24/7/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=20294&request_locale=ja>`__
+| 「`苗丁格尔`_」的①效果在1组连锁上可以发动多次。\ `24/7/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=20404&request_locale=ja>`__
+| 「`魂粉碎`_」的效果在1组连锁上可以发动多次。这个效果处理时，作为对象的1张卡不在墓地存在的场合，另1张仍然除外。被除外的卡片是因为那个持有者来看的对方玩家被除外。\ `24/7/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5314&request_locale=ja>`__
+| 「`钢铁恶魔兽灵X`_」的②效果在1组连锁上满足条件可以发动2次。\ `24/7/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=20482&request_locale=ja>`__
+| 「`原石的皇脉`_」发动③效果时宣言的通常怪兽的卡名不能是二重怪兽或者「`白色灵龙`_」「`圣骑士 鲍斯`_」等怪兽，也不能是没有效果的仪式·融合·S·X·连接怪兽。\ `24/7/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24080&keyword=&tag=-1&request_locale=ja>`__
+| 「`混沌魅惑的女王`_」发动②效果，装备「`魅惑的女王 LV3`_」，再因『这个效果把光·暗属性的怪兽卡装备的场合，可以再从自己的卡组·墓地把1只暗属性「`魅惑的女王`_」怪兽特殊召唤』特殊召唤「`魅惑的女王 LV5`_」的场合，是用「`魅惑的女王 LV3`_」的效果特殊召唤的，可以发动①效果。\ `24/7/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24082&keyword=&tag=-1&request_locale=ja>`__
+| 场上存在「`魅惑的宫殿`_」，「`混沌魅惑的女王`_」发动②效果，装备「`魅惑的女王 LV3`_」，卡名变成同名卡后，把「`魅惑的女王 LV3`_」送去墓地发动得到的『●』效果，特殊召唤「`魅惑的女王 LV5`_」的场合，是用「`魅惑的女王 LV3`_」的效果特殊召唤的，可以发动①效果。\ `24/7/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24081&keyword=&tag=-1&request_locale=ja>`__
+| 「`神圣蓟花`_」的①效果把等级6的「`蓟花`_」融合怪兽给对方观看的场合，需要把1张「`罪宝`_」卡从自己的手卡·场上送去墓地。「`蓟花之欠债者`_」「`蓟花之罪`_」的效果处理也一样。\ `24/7/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24083&keyword=&tag=-1&request_locale=ja>`__
+| 「`黎铭机 厄俄斯瓦罗格`_」的①效果发动后，下个回合的准备阶段，可以把『当作融合召唤特殊召唤』的「`简易融合`_」加入手卡。\ `24/7/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24084&keyword=&tag=-1&request_locale=ja>`__
+| 「`紧急同调`_」等，魔法·陷阱卡的效果发动，让怪兽S·X·P·连接召唤的场合，不是效果进行的特殊召唤，不能发动「`火器之祝台`_」的①效果。\ `24/7/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24086&keyword=&tag=-1&request_locale=ja>`__
 
 .. _`太古的白石`: https://ygocdb.com/card/name/太古的白石
 .. _`融合识别`: https://ygocdb.com/card/name/融合识别
@@ -1692,3 +1739,45 @@
 .. _`灿幻开门`: https://ygocdb.com/card/name/灿幻开门
 .. _`灰流丽`: https://ygocdb.com/card/name/灰流丽
 .. _`鲜花女男爵`: https://ygocdb.com/card/name/鲜花女男爵
+.. _`雅典娜`: https://ygocdb.com/card/name/雅典娜
+.. _`火器之祝台`: https://ygocdb.com/card/name/火器之祝台
+.. _`鬼计`: https://ygocdb.com/?search=鬼计
+.. _`简易融合`: https://ygocdb.com/card/name/简易融合
+.. _`紧急同调`: https://ygocdb.com/card/name/紧急同调
+.. _`混沌No.32 海咬龙 鲨龙兽·白煞`: https://ygocdb.com/card/name/混沌No.32%20海咬龙%20鲨龙兽·白煞
+.. _`鬼计猫娘`: https://ygocdb.com/card/name/鬼计猫娘
+.. _`魊影的阴影 斯诺皮奥斯`: https://ygocdb.com/card/name/魊影的阴影%20斯诺皮奥斯
+.. _`淘气仙星·科尔奇卡`: https://ygocdb.com/card/name/淘气仙星·科尔奇卡
+.. _`蓟花之欠债者`: https://ygocdb.com/card/name/蓟花之欠债者
+.. _`神圣蓟花`: https://ygocdb.com/card/name/神圣蓟花
+.. _`原石的皇脉`: https://ygocdb.com/card/name/原石的皇脉
+.. _`No.107 银河眼时空龙`: https://ygocdb.com/card/name/No.107%20银河眼时空龙
+.. _`龙卷龙`: https://ygocdb.com/card/name/龙卷龙
+.. _`圣骑士 鲍斯`: https://ygocdb.com/card/name/圣骑士%20鲍斯
+.. _`混沌魅惑的女王`: https://ygocdb.com/card/name/混沌魅惑的女王
+.. _`水晶翼同调龙`: https://ygocdb.com/card/name/水晶翼同调龙
+.. _`罪宝`: https://ygocdb.com/?search=罪宝
+.. _`蓟花之罪`: https://ygocdb.com/card/name/蓟花之罪
+.. _`西之七音服·比蒂娅`: https://ygocdb.com/card/name/西之七音服·比蒂娅
+.. _`刻魔的乐园`: https://ygocdb.com/card/name/刻魔的乐园
+.. _`钢铁恶魔兽灵X`: https://ygocdb.com/card/name/钢铁恶魔兽灵X
+.. _`蛇眼炎龙`: https://ygocdb.com/card/name/蛇眼炎龙
+.. _`袭击队飞翼`: https://ygocdb.com/card/name/袭击队飞翼
+.. _`苗丁格尔`: https://ygocdb.com/card/name/苗丁格尔
+.. _`魅惑的女王 LV5`: https://ygocdb.com/card/name/魅惑的女王%20LV5
+.. _`魅惑的女王 LV3`: https://ygocdb.com/card/name/魅惑的女王%20LV3
+.. _`魅惑的宫殿`: https://ygocdb.com/card/name/魅惑的宫殿
+.. _`阿匹卜之化神`: https://ygocdb.com/card/name/阿匹卜之化神
+.. _`魔女的一击`: https://ygocdb.com/card/name/魔女的一击
+.. _`黎铭机 厄俄斯瓦罗格`: https://ygocdb.com/card/name/黎铭机%20厄俄斯瓦罗格
+.. _`渊鲨`: https://ygocdb.com/card/name/渊鲨
+.. _`光道兽 沃尔夫`: https://ygocdb.com/card/name/光道兽%20沃尔夫
+.. _`王宫的敕命`: https://ygocdb.com/card/name/王宫的敕命
+.. _`魅惑的女王`: https://ygocdb.com/?search=魅惑的女王
+.. _`白色灵龙`: https://ygocdb.com/card/name/白色灵龙
+.. _`蓟花`: https://ygocdb.com/?search=蓟花
+.. _`科技属 长柄刀爆破炮手`: https://ygocdb.com/card/name/科技属%20长柄刀爆破炮手
+.. _`封印之黄金柜`: https://ygocdb.com/card/name/封印之黄金柜
+.. _`强韧！无敌！最强！`: https://ygocdb.com/card/name/强韧！无敌！最强！
+.. _`魂粉碎`: https://ygocdb.com/card/name/魂粉碎
+.. _`魔妖仙兽 大刃祸是`: https://ygocdb.com/card/name/魔妖仙兽%20大刃祸是

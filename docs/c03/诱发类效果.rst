@@ -473,22 +473,30 @@
    | 1组连锁中受到2次效果伤害，连锁处理后「`暗黑方界邪神 深红之挪婆·三神一体`_」的④效果会组成连锁发动2次，玩家自己选择分别是对应哪次效果伤害发动。\ `17/7/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6234&keyword=&tag=-1&request_locale=ja>`__
    | 「`小世界现象`_」的①效果处理时，不在同1个时点里侧表示除外了2次卡片，处理后「`俱舍怒威族的香格里拉茧`_」的②效果可以组成连锁发动2次。\ `23/10/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24018&keyword=&tag=-1&request_locale=ja>`__
 
--  | 记述『○○的场合』诱发的效果，目前的处理多为只能发动1次，部分细节上的处理略有不同。
-   | 例：
-   | 发动「`升阶魔法-削魂之力`_」在「`嘣床`_」指定的区域特殊召唤2次效果怪兽后，「`嘣床`_」的效果只能发动1次。
-   | 1组连锁中从墓地特殊召唤了2次怪兽，连锁处理后「`零冰之魔妖-雪女`_」的③效果只能发动1次。\ `19/11/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22889&keyword=&tag=-1&request_locale=ja>`__
-   | 1组连锁中多次特殊召唤了「`PSY骨架`_」怪兽，连锁处理后「`PSY骨架回路`_」的①效果只能发动1次。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12075&request_locale=ja>`__
-   | 1组连锁中对方发动了多个卡的效果，连锁处理后「`幻煌之都 帕西菲斯`_」的②效果只能发动1次。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12548&keyword=&tag=-1&request_locale=ja>`__
-   | 1组连锁中从墓地以外特殊召唤了多次怪兽，连锁处理后「`巨神龙的遗迹`_」的①效果只能发动1次，不过，这个连锁上从墓地以外特殊召唤的怪兽全部无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18435&keyword=&tag=-1&request_locale=ja>`__
-   | 1组连锁中多次在连接怪兽的连接端特殊召唤了怪兽，连锁处理后「`拓扑逻辑轰炸龙`_」的①效果只能发动1次。\ `17/5/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17790&keyword=&tag=-1&request_locale=ja>`__
-   | 1组连锁中对方场上的怪兽多次被战斗·效果破坏送去墓地，连锁处理后「`使破坏剑的高手-破坏剑士`_」的②效果只能发动1次，从被破坏的那些怪兽中选择1只发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17438&keyword=&tag=-1&request_locale=ja>`__
-   | 发动「`愚蠢的埋葬`_」从卡组把卡送去墓地后，「`愚蠢的埋葬`_」也从场上送去墓地，这个状况「`虚无空间`_」的②效果在处理后也只发动1次。\ `20/11/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12929&keyword=&tag=-1&request_locale=ja>`__
-   | 给「`甲虫装机 豆娘`_」装备中的「`甲虫装机 大黄蜂`_」发动③效果把自身送去墓地，破坏这只「`甲虫装机 豆娘`_」的另1张装备卡的场合，处理后「`甲虫装机 豆娘`_」的②效果可以自身连锁发动2次。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11849&keyword=&tag=-1&request_locale=ja>`__
-   | 「`科技属 超图书馆员`_」在场上存在，连锁发动2张「`紧急同调`_」，在一组连锁上进行了2次S召唤，处理后「`科技属 超图书馆员`_」的①效果会自身组成连锁发动2次。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10706&keyword=&tag=-1&request_locale=ja>`__
-   | 对方回合1组连锁中特殊召唤了2次「`古遗物`_」怪兽，连锁处理后「`古遗物 商神杖`_」的效果会自身组成连锁发动2次。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13083&keyword=&tag=-1&request_locale=ja>`__
-   | 1组连锁中自己场上的「`芳香`_」怪兽2次被效果破坏送去墓地，连锁处理后「`芳香花园`_」的②效果会自身组成连锁发动2次。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15544&keyword=&tag=-1&request_locale=ja>`__
-   | 在1组连锁上，多个连锁块的效果处理让怪兽被破坏的状况，连锁处理后「`No.38 希望魁龙 银河巨神`_」的③效果只发动1次。这个效果处理时，对象怪兽可以上升破坏的怪兽中任意1只怪兽的原本攻击力数值。\ `23/5/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17974&keyword=&tag=-1&request_locale=ja>`__
-   | 对方在1组连锁上2次把植物族怪兽特殊召唤，连锁处理后对方「`超越死线`_」的效果会自身组成连锁发动2次，我方「`超重武者 兜-10`_」的①效果只能发动1次。
+-  | 记述『○○的场合』诱发的效果，目前难以判断。
+
+   -  | 以下是可以发动多次的效果。
+      | 例：
+      | 对方在1组连锁上2次把植物族怪兽特殊召唤，连锁处理后对方「`超越死线`_」的效果会自身组成连锁发动2次。
+      | 给「`甲虫装机 豆娘`_」装备中的「`甲虫装机 大黄蜂`_」发动③效果把自身送去墓地，破坏这只「`甲虫装机 豆娘`_」的另1张装备卡的场合，处理后「`甲虫装机 豆娘`_」的②效果可以自身连锁发动2次。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11849&keyword=&tag=-1&request_locale=ja>`__
+      | 「`科技属 超图书馆员`_」在场上存在，连锁发动2张「`紧急同调`_」，在一组连锁上进行了2次S召唤，处理后「`科技属 超图书馆员`_」的①效果会自身组成连锁发动2次。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10706&keyword=&tag=-1&request_locale=ja>`__
+      | 对方回合1组连锁中特殊召唤了2次「`古遗物`_」怪兽，连锁处理后「`古遗物 商神杖`_」的效果会自身组成连锁发动2次。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13083&keyword=&tag=-1&request_locale=ja>`__
+      | 1组连锁中自己场上的「`芳香`_」怪兽2次被效果破坏送去墓地，连锁处理后「`芳香花园`_」的②效果会自身组成连锁发动2次。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15544&keyword=&tag=-1&request_locale=ja>`__
+      | 1组连锁上多次召唤·特殊召唤了等级4以上的怪兽，连锁处理完毕时「`鬼计猫娘`_」的效果会发动多次。\ `24/7/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10909&request_locale=ja>`__
+      | 1组连锁上多次召唤·反转召唤·特殊召唤了天使族怪兽，连锁处理完毕时「`雅典娜`_」的②效果会发动多次。\ `24/7/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7571&request_locale=ja>`__
+
+   -  | 以下是只能发动1次的效果。
+      | 例：
+      | 对方在1组连锁上2次把植物族怪兽特殊召唤，连锁处理后我方「`超重武者 兜-10`_」的①效果只能发动1次。
+      | 发动「`升阶魔法-削魂之力`_」在「`嘣床`_」指定的区域特殊召唤2次效果怪兽后，「`嘣床`_」的效果只能发动1次。
+      | 1组连锁中从墓地特殊召唤了2次怪兽，连锁处理后「`零冰之魔妖-雪女`_」的③效果只能发动1次。\ `19/11/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22889&keyword=&tag=-1&request_locale=ja>`__
+      | 1组连锁中多次特殊召唤了「`PSY骨架`_」怪兽，连锁处理后「`PSY骨架回路`_」的①效果只能发动1次。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12075&request_locale=ja>`__
+      | 1组连锁中对方发动了多个卡的效果，连锁处理后「`幻煌之都 帕西菲斯`_」的②效果只能发动1次。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12548&keyword=&tag=-1&request_locale=ja>`__
+      | 1组连锁中从墓地以外特殊召唤了多次怪兽，连锁处理后「`巨神龙的遗迹`_」的①效果只能发动1次，不过，这个连锁上从墓地以外特殊召唤的怪兽全部无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18435&keyword=&tag=-1&request_locale=ja>`__
+      | 1组连锁中多次在连接怪兽的连接端特殊召唤了怪兽，连锁处理后「`拓扑逻辑轰炸龙`_」的①效果只能发动1次。\ `17/5/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17790&keyword=&tag=-1&request_locale=ja>`__
+      | 1组连锁中对方场上的怪兽多次被战斗·效果破坏送去墓地，连锁处理后「`使破坏剑的高手-破坏剑士`_」的②效果只能发动1次，从被破坏的那些怪兽中选择1只发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17438&keyword=&tag=-1&request_locale=ja>`__
+      | 发动「`愚蠢的埋葬`_」从卡组把卡送去墓地后，「`愚蠢的埋葬`_」也从场上送去墓地，这个状况「`虚无空间`_」的②效果在处理后也只发动1次。\ `20/11/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12929&keyword=&tag=-1&request_locale=ja>`__
+      | 在1组连锁上，多个连锁块的效果处理让怪兽被破坏的状况，连锁处理后「`No.38 希望魁龙 银河巨神`_」的③效果只发动1次。这个效果处理时，对象怪兽可以上升破坏的怪兽中任意1只怪兽的原本攻击力数值。\ `23/5/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17974&keyword=&tag=-1&request_locale=ja>`__
 
 .. _同一时点发动多个诱发类效果:
 
@@ -927,3 +935,5 @@
 .. _`龙辉巧-扶筐增二`: https://ygocdb.com/card/name/龙辉巧-扶筐增二
 .. _`北极天熊-大灰熊`: https://ygocdb.com/card/name/北极天熊-大灰熊
 .. _`璃拉`: https://ygocdb.com/?search=璃拉
+.. _`雅典娜`: https://ygocdb.com/card/name/雅典娜
+.. _`鬼计猫娘`: https://ygocdb.com/card/name/鬼计猫娘
