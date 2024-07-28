@@ -5638,3 +5638,5 @@ https://ygocdb.com/card/name/渊鲨
 https://ygocdb.com/card/name/袭击队飞翼
 https://ygocdb.com/card/name/混沌魅惑的女王
 https://ygocdb.com/card/name/雅典娜
+https://ygocdb.com/card/name/乘龙的翼龙战士
+https://ygocdb.com/card/name/梦鲨

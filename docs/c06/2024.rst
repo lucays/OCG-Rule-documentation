@@ -1090,6 +1090,9 @@
 7/27
 -------
 
+| 邮件：
+| 自己场上只存在2只「`精灵术师 树精`_」的场合，是『只有水属性怪兽』，可以发动「`渊鲨`_」的①效果。
+
 | 数据库：
 | 「`混沌No.32 海咬龙 鲨龙兽·白煞`_」的①效果在1组连锁上可以发动多次。\ `24/7/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10261&request_locale=ja>`__
 | 怪兽区域存在效果没有被无效的效果怪兽，或者攻击力·守备力和原本数值不同的怪兽时，才能发动「`No.107 银河眼时空龙`_」的①效果。\ `24/7/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10525&request_locale=ja>`__
@@ -1106,6 +1109,19 @@
 | 「`神圣蓟花`_」的①效果把等级6的「`蓟花`_」融合怪兽给对方观看的场合，需要把1张「`罪宝`_」卡从自己的手卡·场上送去墓地。「`蓟花之欠债者`_」「`蓟花之罪`_」的效果处理也一样。\ `24/7/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24083&keyword=&tag=-1&request_locale=ja>`__
 | 「`黎铭机 厄俄斯瓦罗格`_」的①效果发动后，下个回合的准备阶段，可以把『当作融合召唤特殊召唤』的「`简易融合`_」加入手卡。\ `24/7/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24084&keyword=&tag=-1&request_locale=ja>`__
 | 「`紧急同调`_」等，魔法·陷阱卡的效果发动，让怪兽S·X·P·连接召唤的场合，不是效果进行的特殊召唤，不能发动「`火器之祝台`_」的①效果。\ `24/7/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24086&keyword=&tag=-1&request_locale=ja>`__
+
+7/28
+-------
+
+| 邮件：
+| 「`混沌魅惑的女王`_」发动②效果，装备「`魅惑的女王 LV3`_」，卡名变成同名卡后，这张「`魅惑的女王 LV3`_」再被破坏的场合，直到结束阶段这只「`混沌魅惑的女王`_」仍然当作「`魅惑的女王 LV3`_」使用。
+| 自己场上只存在表侧表示的「`召唤兽 埃律西昂`_」的场合，是『只有水属性怪兽』，可以发动「`梦鲨`_」的①效果。
+| 对方场上只存在表侧表示的「`召唤兽 埃律西昂`_」的场合，不是『只有地·水·炎属性怪兽』，我方「`乘龙的翼龙战士`_」不能直接攻击。
+
+.. note:: 有点怀疑「`乘龙的翼龙战士`_」这条是事务局搞错了。难以理解。
+
+| 裁定变更：
+| 「`寂静深渊`_」「`电子鱼人-弓手`_」的效果处理时，不会破坏表侧表示的「`召唤兽 埃律西昂`_」。
 
 .. _`太古的白石`: https://ygocdb.com/card/name/太古的白石
 .. _`融合识别`: https://ygocdb.com/card/name/融合识别
@@ -1781,3 +1797,8 @@
 .. _`强韧！无敌！最强！`: https://ygocdb.com/card/name/强韧！无敌！最强！
 .. _`魂粉碎`: https://ygocdb.com/card/name/魂粉碎
 .. _`魔妖仙兽 大刃祸是`: https://ygocdb.com/card/name/魔妖仙兽%20大刃祸是
+.. _`寂静深渊`: https://ygocdb.com/card/name/寂静深渊
+.. _`电子鱼人-弓手`: https://ygocdb.com/card/name/电子鱼人-弓手
+.. _`乘龙的翼龙战士`: https://ygocdb.com/card/name/乘龙的翼龙战士
+.. _`梦鲨`: https://ygocdb.com/card/name/梦鲨
+.. _`召唤兽 埃律西昂`: https://ygocdb.com/card/name/召唤兽%20埃律西昂
