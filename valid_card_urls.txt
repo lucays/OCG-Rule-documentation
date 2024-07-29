@@ -5640,3 +5640,6 @@ https://ygocdb.com/card/name/混沌魅惑的女王
 https://ygocdb.com/card/name/雅典娜
 https://ygocdb.com/card/name/乘龙的翼龙战士
 https://ygocdb.com/card/name/梦鲨
+https://ygocdb.com/card/name/五神龙
+https://ygocdb.com/card/name/圣王的粉碎
+https://ygocdb.com/card/name/赤醋的道口
