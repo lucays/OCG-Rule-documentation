@@ -98,6 +98,12 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
    | P区域的「`DDD 死讴王 恶德镇魂神`_」发动①效果把自身特殊召唤，等级变更的状况，是魔法卡的效果导致的等级变更，再发动「`技能抽取`_」的场合，这只「`DDD 死讴王 恶德镇魂神`_」的等级不会复原。\ `22/12/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22932&keyword=&tag=-1&request_locale=ja>`__
    | P区域「`智天之神星龙`_」的①效果适用后，再被无效的场合，P刻度恢复原本数值。\ `17/1/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12944&request_locale=ja>`__
 
+.. attention::
+
+   | 不是怪兽的状态下发动的效果，让自身当作怪兽使用并影响攻击力·守备力·等级·阶级·P刻度·种族·属性的场合，效果无效也不会复原。
+   | 例：
+   | 「`从骑士 特露迪娅`_」的②效果特殊召唤后，再被无效的场合，是因陷阱卡的效果上升的等级，结果等级不会复原。\ `23/8/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=19373&request_locale=ja>`__
+
 | 得到了上升攻击力的效果后，又失去效果时，和被无效的情况处理一样。
 | 例：
 | 「`霸王眷龙 凶饿毒`_」得到「`混沌之战士 混沌战士`_」效果的状态，发动上升攻击力的效果后，回合结束时失去效果的场合，和效果被无效时处理一样，由于这个只能影响自身，所以攻击力会复原。\ `18/12/3 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8562&keyword=&tag=-1&request_locale=ja>`__
@@ -803,3 +809,4 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
 .. _`混沌No.62 超银河眼光子龙皇`: https://ygocdb.com/card/name/混沌No.62%20超银河眼光子龙皇
 .. _`银河眼光子龙`: https://ygocdb.com/card/name/银河眼光子龙
 .. _`智天之神星龙`: https://ygocdb.com/card/name/智天之神星龙
+.. _`从骑士 特露迪娅`: https://ygocdb.com/card/name/从骑士%20特露迪娅
