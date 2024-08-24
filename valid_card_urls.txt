@@ -5661,3 +5661,7 @@ https://ygocdb.com/card/name/火器的祝台
 https://ygocdb.com/card/name/大逆转谜题
 https://ygocdb.com/card/name/同盟驾驶员
 https://ygocdb.com/card/name/影帽子
+https://ygocdb.com/card/name/同调区域
+https://ygocdb.com/card/name/雷火沸石杆联区
+https://ygocdb.com/card/name/登龙华转生纹
+https://ygocdb.com/card/name/登龙华恐巄门

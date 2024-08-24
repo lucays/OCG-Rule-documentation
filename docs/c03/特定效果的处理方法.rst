@@ -623,7 +623,6 @@
 | 里侧表示的「`幻影骑士团`_」怪兽送去自己墓地的场合，也会发动「`幻影骑士团 裂头盔`_」的①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17618&keyword=&tag=-1&request_locale=ja>`__
 | 自己场上表侧表示的爬虫类族陷阱怪兽被战斗破坏的场合，可以发动「`毒蛇的怨念`_」的②效果。但是，不是被战斗破坏，而是因效果而送去墓地的场合，由于送去墓地后不是爬虫类族怪兽，不能发动。\ `22/12/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23788&keyword=&tag=-1&request_locale=ja>`__
 | 衍生物被除外的时点消灭，结果不存在除外后的状态，不能发动「`相剑大公-承影`_」的③效果。\ `21/7/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16528&request_locale=ja>`__
-| 「`幻奏`_」融合怪兽在送去自己墓地前，是作为X素材或者在魔法·陷阱卡区域当作魔法卡使用的场合，也可以发动「`幻奏协奏曲`_」的②效果。\ `24/1/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=19897&request_locale=ja>`__
 
 -  | 这类文本之前，如果还有『自己的』等限制，在除外·送去墓地前必须满足『自己的』等条件。
    | 例：
@@ -641,12 +640,15 @@
    | 魔法·陷阱卡区域的怪兽卡送去墓地时，不是怪兽从场上送去墓地，「`死之演算盘`_」的效果不适用。\ `16/9/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5311&request_locale=ja>`__
 
 -  | 这类文本之前，如果没有『场上的·怪兽区域的』等场所限制，那么在除外·送去墓地前，
-   | 记述是『○○怪兽』的场合，可以不满足『○○』，但必须是『怪兽』；
-   | 记述是『○○怪兽卡』的场合，可以不满足。记述『「○○」卡』的场合，调整中。
+   | 记述是『○○怪兽』的场合，『○○被除外』的文本，可以不满足『○○』，但必须是『怪兽』；『○○被送去墓地』的文本，可以都不满足。
+   | 记述是『○○怪兽卡』的场合，可以都不满足。
+   | 记述『「○○」卡』的场合，调整中。
    | 例：
    | 自己场上里侧表示的机械族·光属性的同盟\ 怪兽卡_\ 被表侧表示除外的场合，可以发动「`X·Y·Z合体`_」的①效果。
    | 「`玄化`_」怪兽适用了「`英雄假面`_」的效果后，再被除外的场合，能否发动「`非对称玄化`_」的②效果以及「`玄化次元`_」的②效果，调整中。
    | 自己场上原本属性是光属性（即使因卡片效果当前不是光属性）的机械族同盟怪兽卡被除外的场合，可以发动「`X·Y·Z合体`_」的①效果。自己场上原本属性不是光属性（即使因卡片效果当前变成了光属性）的机械族同盟怪兽卡被除外的场合，不能发动「`X·Y·Z合体`_」的①效果。
+   | 只要送去墓地的是调整以外的S怪兽，就可以发动「`同调区域`_」的②效果，和送去墓地之前的状态无关。\ `22/12/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=18442&request_locale=ja>`__
+   | 「`幻奏`_」融合怪兽在送去自己墓地前，是作为X素材或者在魔法·陷阱卡区域当作魔法卡使用的场合，也可以发动「`幻奏协奏曲`_」的②效果。\ `24/1/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=19897&request_locale=ja>`__
    | 当作魔法·陷阱卡处理的怪兽卡被除外、衍生物被除外或者怪兽被里侧表示除外的场合，不能发动「`复烙印`_」的①效果。\ `22/7/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17808&request_locale=ja>`__
    | 卡片在作为怪兽的状态下被效果除外，表侧除外后仍然是怪兽时，才能发动「`深渊之相剑龙`_」的①效果。当作魔法·陷阱卡处理的怪兽卡被除外、衍生物被除外或者怪兽被里侧表示除外的场合，不能发动。\ `22/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=18150&request_locale=ja>`__
 
@@ -1311,3 +1313,4 @@ cost
 .. _`白银之城的龙饰灯`: https://ygocdb.com/card/name/白银之城的龙饰灯
 .. _`幽灵姬-南瓜公主-`: https://ygocdb.com/card/name/幽灵姬-南瓜公主-
 .. _`龙骑兵团-标枪龙`: https://ygocdb.com/card/name/龙骑兵团-标枪龙
+.. _`同调区域`: https://ygocdb.com/card/name/同调区域
