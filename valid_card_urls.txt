@@ -473,7 +473,7 @@ https://ygocdb.com/card/name/转生炎兽%20杂交斑马X
 https://ygocdb.com/card/name/地中族的决战
 https://ygocdb.com/card/name/秘旋谍装备-特级臂甲
 https://ygocdb.com/card/name/堕落
-https://ygocdb.com/card/name/龙仪巧-天龙流星=QUA
+https://ygocdb.com/card/name/龙仪巧-天龙流星QUA
 https://ygocdb.com/card/name/地中族邪界兽·利古钻土蜥
 https://ygocdb.com/card/name/报复的隐齿
 https://ygocdb.com/card/name/绝火之龙神%20巴赫拉姆
@@ -516,7 +516,7 @@ https://ygocdb.com/card/name/惊乐园的支配人%20＜∀丑角＞
 https://ygocdb.com/card/name/沉默的邪恶灵
 https://ygocdb.com/card/name/魂之接力
 https://ygocdb.com/card/name/分段龙
-https://ygocdb.com/card/name/龙仪巧-天龙流星=DRA
+https://ygocdb.com/card/name/龙仪巧-天龙流星DRA
 https://ygocdb.com/card/name/光枪龙之影灵衣
 https://ygocdb.com/card/name/陷阱封印咒符
 https://ygocdb.com/card/name/削魂的死灵
@@ -1200,7 +1200,7 @@ https://ygocdb.com/card/name/灰流丽
 https://ygocdb.com/card/name/元素英雄%20荒野侠
 https://ygocdb.com/card/name/合成魔兽%20加泽特
 https://ygocdb.com/card/name/金属反射史莱姆
-https://ygocdb.com/card/name/死狱乡演员·圣墓访问者
+https://ygocdb.com/card/name/死狱乡演员·奎里蒂斯
 https://ygocdb.com/card/name/原力
 https://ygocdb.com/card/name/武神姬-淡岛
 https://ygocdb.com/card/name/破械双王神%20来迎
@@ -4124,7 +4124,7 @@ https://ygocdb.com/card/name/暗黑之召唤神
 https://ygocdb.com/card/name/妖形杵
 https://ygocdb.com/card/name/抹杀之使徒
 https://ygocdb.com/card/name/巨大化
-https://ygocdb.com/card/name/真次世代先知
+https://ygocdb.com/card/name/真次世代预言机
 https://ygocdb.com/card/name/焰虎
 https://ygocdb.com/card/name/伯吉斯异兽·马尔三叶形虫
 https://ygocdb.com/card/name/虫装三轮车-红黄
@@ -5570,7 +5570,7 @@ https://ygocdb.com/card/name/白森林的阿斯忒瑞亚
 https://ygocdb.com/card/name/幻禄之天杯龙
 https://ygocdb.com/card/name/千年十字
 https://ygocdb.com/card/name/玩具士兵
-https://ygocdb.com/card/name/欢聚友伴·多月水母
+https://ygocdb.com/card/name/欢聚友伴·抖抖海月水母
 https://ygocdb.com/card/name/终戒超兽-武尔德拉斯
 https://ygocdb.com/card/name/宵星之闪光
 https://ygocdb.com/card/name/白森林的莉泽特

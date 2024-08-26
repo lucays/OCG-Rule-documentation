@@ -1993,7 +1993,7 @@
 | 对方场上的有装备卡的「`大贤者`_」怪兽也会适用「`三贤者之书`_」的①效果。\ `20/9/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23073&keyword=&tag=-1&request_locale=ja>`__
 | 自己场上有「`绝火之龙神 巴赫拉姆`_」当作装备卡装备的「`绝火之大贤者 琐罗亚`_」存在，那只「`绝火之大贤者 琐罗亚`_」的控制权转移给对方的场合，由于「`绝火之龙神 巴赫拉姆`_」仍然在我方魔法·陷阱卡区域，②效果仍然作为我方的效果适用，对方场上存在的那只「`绝火之大贤者 琐罗亚`_」不会被对方自身的魔法陷阱卡的效果破坏。\ `20/9/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23075&keyword=&tag=-1&request_locale=ja>`__
 | 「`次元魔法`_」发动时，由于是不确定是否把场上的卡破坏的效果，不能连锁发动「`邪恶★双子轻松通关`_」的『●要让场上的卡破坏的魔法·陷阱·怪兽的效果发动时才能发动。那个效果无效』效果。\ `20/9/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23070&keyword=&tag=-1&request_locale=ja>`__
-| 使用X怪兽或者连接怪兽把「`龙仪巧-天龙流星=DRA`_」仪式召唤时，仪式召唤使用的持有等级的怪兽的等级合计在2以下的场合，这只「`龙仪巧-天龙流星=DRA`_」的②效果也可以适用。\ `20/9/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23067&keyword=&tag=-1&request_locale=ja>`__
+| 使用X怪兽或者连接怪兽把「`龙仪巧-天龙流星DRA`_」仪式召唤时，仪式召唤使用的持有等级的怪兽的等级合计在2以下的场合，这只「`龙仪巧-天龙流星DRA`_」的②效果也可以适用。\ `20/9/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23067&keyword=&tag=-1&request_locale=ja>`__
 | 「`龙辉巧-右枢α`_」把效果发动的回合，也可以通常召唤。\ `20/9/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23068&keyword=&tag=-1&request_locale=ja>`__
 | 「`直播☆双子 入口页`_」的效果不能把「`邪恶★双子星 姬丝基勒·璃拉`_」从卡组特殊召唤。\ `20/9/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23071&keyword=&tag=-1&request_locale=ja>`__
 
@@ -2020,7 +2020,7 @@
 | wiki:
 | 宣言机械族的「`DNA改造手术`_」的效果适用中，「`流星辉巧群`_」的效果处理进行仪式召唤的场合，可以适用变成机械族的「`仪式的供物`_」的效果，不能适用「`影灵衣术士 施里特`_」的①效果。\ `20/9/12 <https://yugioh-wiki.net/index.php?%A1%D4%CE%AE%C0%B1%B5%B1%B9%AA%B7%B2%A1%D5#faq>`__
 | 基本分2000时也可以支付到0发动「`最大瞬移者`_」的效果，这时自己立即决斗败北。\ `20/9/12 <https://yugioh-wiki.net/index.php?%A1%D4%A5%DE%A5%C3%A5%AF%A5%B9%A1%A6%A5%C6%A5%EC%A5%DD%A1%BC%A5%BF%A1%BC%A1%D5#faq>`__
-| 把「`龙仪巧-天龙流星=DRA`_」「`龙仪巧-天龙流星=QUA`_」仪式召唤时使用怪兽的等级参照解放前的数值。用「`精灵的祝福`_」的效果解放原本等级是2但当前变成了12的怪兽把它们仪式召唤的场合，②效果不能发动。用「`流星辉巧群`_」的效果解放原本等级是12但当前变成了2的怪兽把它们仪式召唤的场合，②效果可以发动。\ `20/9/12 <https://yugioh-wiki.net/index.php?%A1%D4%CE%B5%B5%B7%B9%AA%A1%DD%A5%E1%A5%C6%A5%AA%A5%CB%A5%B9%A1%E1%A3%C4%A3%D2%A3%C1%A1%D5#faq>`__
+| 把「`龙仪巧-天龙流星DRA`_」「`龙仪巧-天龙流星QUA`_」仪式召唤时使用怪兽的等级参照解放前的数值。用「`精灵的祝福`_」的效果解放原本等级是2但当前变成了12的怪兽把它们仪式召唤的场合，②效果不能发动。用「`流星辉巧群`_」的效果解放原本等级是12但当前变成了2的怪兽把它们仪式召唤的场合，②效果可以发动。\ `20/9/12 <https://yugioh-wiki.net/index.php?%A1%D4%CE%B5%B5%B7%B9%AA%A1%DD%A5%E1%A5%C6%A5%AA%A5%CB%A5%B9%A1%E1%A3%C4%A3%D2%A3%C1%A1%D5#faq>`__
 | 「`邪恶★双子星 姬丝基勒·璃拉`_」1只就能满足『有「`キスキル`_」怪兽以及「`リィラ`_」怪兽存在』的条件。\ `20/9/12 <https://yugioh-wiki.net/index.php?%A1%D4%A3%C5%A3%F6%A3%E9%A3%EC%A1%FA%A3%D4%A3%F7%A3%E9%A3%EE%A3%F3%20%A5%AD%A5%B9%A5%AD%A5%EB%A1%A6%A5%EA%A5%A3%A5%E9%A1%D5#faq>`__
 
 9/13
@@ -2152,7 +2152,7 @@
 | 「`法典之守护者 艾华斯`_」用自身①效果装备给对方的怪兽，得到控制权后，被破坏的场合，那只怪兽的控制权归还给对方，可以发动效果了。\ `20/9/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6061&keyword=&tag=-1&request_locale=ja>`__
 | 「`龙辉巧-右枢α`_」把效果发动的回合，自己不能发动「`名推理`_」或者「`怪兽之门`_」。发动「`名推理`_」或者「`怪兽之门`_」但没能特殊召唤怪兽的回合，才可以发动「`龙辉巧-右枢α`_」。\ `20/9/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13608&keyword=&tag=-1&request_locale=ja>`__
 | 「`神圣法典`_」的效果进行融合召唤时，要把「`大贤者`_」怪兽融合召唤，用「`大贤者`_」怪兽装备着的当作装备卡使用的怪兽卡为融合素材的场合，如果这张是魔法师族怪兽，另外的融合素材可以都不是魔法师族怪兽。\ `20/9/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=15622&request_locale=ja>`__
-| 「`龙仪巧-天龙流星=DRA`_」的③效果发动时，作为cost除外的怪兽不能有攻击力0或攻击力？的怪兽。\ `20/9/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13827&keyword=&tag=-1&request_locale=ja>`__
+| 「`龙仪巧-天龙流星DRA`_」的③效果发动时，作为cost除外的怪兽不能有攻击力0或攻击力？的怪兽。\ `20/9/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13827&keyword=&tag=-1&request_locale=ja>`__
 
 9/28
 --------
@@ -2869,7 +2869,7 @@
 
 | 邮件：
 | 对方场上存在2只「`电气半黄赤蜻`_」，自己场上存在「`言灵`_」「`死灵的引诱`_」「`卖棺者`_」，且「`言灵`_」的效果直到回合结束时被无效的状况，这个回合结束后，「`言灵`_」的效果恢复适用的场合，「`电气半黄赤蜻`_」被破坏后，「`电气半黄赤蜻`_」的效果能否发动，「`卖棺者`_」的效果是否会发动，「`死灵的引诱`_」的效果是否适用，\ :ref:`调整中`\ 。
-| 适用了②效果的「`龙仪巧-天龙流星=DRA`_」攻击了特殊召唤的怪兽后，就不能攻击通常召唤的怪兽，或者攻击了通常召唤的怪兽后，这个战斗阶段内就不能适用②效果再攻击特殊召唤的怪兽。
+| 适用了②效果的「`龙仪巧-天龙流星DRA`_」攻击了特殊召唤的怪兽后，就不能攻击通常召唤的怪兽，或者攻击了通常召唤的怪兽后，这个战斗阶段内就不能适用②效果再攻击特殊召唤的怪兽。
 | :strike:`用场上的「降龙之魔术师」为素材融合召唤的「霸王眷龙 凶饿毒」发动①效果得到了「超天新龙 异色眼革命龙」的效果后，和龙族怪兽进行战斗的场合，因「降龙之魔术师」的②效果得到的效果是否还适用，调整中。回合结束后不再得到「超天新龙 异色眼革命龙」的效果的「霸王眷龙 凶饿毒」和龙族怪兽进行战斗的场合，因「降龙之魔术师」的②效果得到的效果是否还适用，调整中。`
 | 用「`光天使 天秤`_」为素材X召唤的「`No.69 纹章神 盾徽`_」发动效果得到了另1只X怪兽的效果后，「`光天使 天秤`_」为素材而得到的效果是否还适用，调整中。回合结束后这只「`No.69 纹章神 盾徽`_」不再得到那只X怪兽的效果，这个状况「`光天使 天秤`_」为素材而得到的效果是否还适用，\ :ref:`调整中`\ 。
 
@@ -3165,7 +3165,7 @@
 .. _`机甲卫兵`: https://ygocdb.com/card/name/机甲卫兵
 .. _`DNA移植手术`: https://ygocdb.com/card/name/DNA移植手术
 .. _`连续魔法`: https://ygocdb.com/?search=连续魔法
-.. _`龙仪巧-天龙流星=QUA`: https://ygocdb.com/card/name/龙仪巧-天龙流星=QUA
+.. _`龙仪巧-天龙流星QUA`: https://ygocdb.com/card/name/龙仪巧-天龙流星QUA
 .. _`活死人的呼声`: https://ygocdb.com/card/name/活死人的呼声
 .. _`地帝 格兰玛格`: https://ygocdb.com/card/name/地帝%20格兰玛格
 .. _`拼缝型毛绒动物`: https://ygocdb.com/card/name/拼缝型毛绒动物
@@ -3490,7 +3490,7 @@
 .. _`转生炎兽 日光狼`: https://ygocdb.com/card/name/转生炎兽%20日光狼
 .. _`女武神的契约书`: https://ygocdb.com/card/name/女武神的契约书
 .. _`源数直系`: https://ygocdb.com/card/name/源数直系
-.. _`龙仪巧-天龙流星=DRA`: https://ygocdb.com/card/name/龙仪巧-天龙流星=DRA
+.. _`龙仪巧-天龙流星DRA`: https://ygocdb.com/card/name/龙仪巧-天龙流星DRA
 .. _`深渊鳞甲-鲸鱼`: https://ygocdb.com/card/name/深渊鳞甲-鲸鱼
 .. _`召唤兽`: https://ygocdb.com/?search=召唤兽
 .. _`黄尘妖`: https://ygocdb.com/card/name/黄尘妖
