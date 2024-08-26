@@ -4325,7 +4325,7 @@
 .. _`左轮手枪龙`: https://ygocdb.com/card/name/左轮手枪龙
 .. _`彗圣之将-翌夜之莫桑石骑士`: https://ygocdb.com/card/name/彗圣之将-翌夜之莫桑石骑士
 .. _`绝对的幻神兽`: https://ygocdb.com/card/name/绝对的幻神兽
-.. _`邪心英雄 恶刃恶魔`: https://ygocdb.com/card/name/邪心英雄%20恶刃魔王
+.. _`邪心英雄 恶刃恶魔`: https://ygocdb.com/card/name/邪心英雄%20恶刃恶魔
 .. _`怪兽角子机`: https://ygocdb.com/card/name/怪兽角子机
 .. _`魔玩具圣域`: https://ygocdb.com/card/name/魔玩具圣域
 .. _`空牙团的载货 雷克斯`: https://ygocdb.com/card/name/空牙团的载货%20雷克斯
@@ -4553,7 +4553,7 @@
 .. _`起立吧百夫长骑士！`: https://ygocdb.com/card/name/起立吧百夫长骑士！
 .. _`决斗者创世纪`: https://ygocdb.com/card/name/决斗者创世纪
 .. _`大薰风骑士 翠玉`: https://ygocdb.com/card/name/大薰风骑士%20翠玉
-.. _`破灭龙 甘多拉·交错`: https://ygocdb.com/card/name/破灭龙%20甘多拉X
+.. _`破灭龙 甘多拉·交错`: https://ygocdb.com/card/name/破灭龙%20甘多拉·交错
 .. _`不知火流 转生之阵`: https://ygocdb.com/card/name/不知火流%20转生之阵
 .. _`深渊之兽 阿鲁伯`: https://ygocdb.com/card/name/深渊之兽%20阿鲁伯
 .. _`眼盯盯☆魔术辣妹`: https://ygocdb.com/card/name/眼盯盯☆魔术辣妹

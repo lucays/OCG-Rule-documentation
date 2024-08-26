@@ -4010,7 +4010,7 @@
 .. _`剑斗兽`: https://ygocdb.com/?search=剑斗兽
 .. _`虫惑的落穴`: https://ygocdb.com/card/name/虫惑的落穴
 .. _`森之圣兽 月兔耳兽`: https://ygocdb.com/card/name/森之圣兽%20月兔耳兽
-.. _`邪心英雄 恶刃恶魔`: https://ygocdb.com/card/name/邪心英雄%20恶刃魔王
+.. _`邪心英雄 恶刃恶魔`: https://ygocdb.com/card/name/邪心英雄%20恶刃恶魔
 .. _`音响战士 吉他乐手`: https://ygocdb.com/card/name/音响战士%20吉他乐手
 .. _`未界域的天蛾人`: https://ygocdb.com/card/name/未界域的天蛾人
 .. _`光与暗之龙`: https://ygocdb.com/card/name/光与暗之龙

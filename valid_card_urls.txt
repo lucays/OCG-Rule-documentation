@@ -1945,7 +1945,7 @@ https://ygocdb.com/card/name/究极爆风弹
 https://ygocdb.com/card/name/璃拉说唱
 https://ygocdb.com/card/name/幻影骑士团%20诅咒标枪
 https://ygocdb.com/card/name/邪神%20神之化身
-https://ygocdb.com/card/name/邪心英雄%20恶刃魔王
+https://ygocdb.com/card/name/邪心英雄%20恶刃恶魔
 https://ygocdb.com/card/name/罪%20十字
 https://ygocdb.com/card/name/时间潜行者考勤机蝶
 https://ygocdb.com/card/name/能朋克%20鹿角仙音
@@ -5443,7 +5443,7 @@ https://ygocdb.com/card/name/A警报！
 https://ygocdb.com/card/name/救援ACE队%20火灾防控者
 https://ygocdb.com/card/name/决斗者创世纪
 https://ygocdb.com/card/name/大薰风骑士%20翠玉
-https://ygocdb.com/card/name/破灭龙%20甘多拉X
+https://ygocdb.com/card/name/破灭龙%20甘多拉·交错
 https://ygocdb.com/card/name/深渊之兽%20阿鲁伯
 https://ygocdb.com/card/name/眼盯盯☆魔术辣妹
 https://ygocdb.com/card/name/圣骑士与圣剑的巨城
@@ -5670,3 +5670,5 @@ https://ygocdb.com/card/name/雷火沸石死亡龙卷神
 https://ygocdb.com/card/name/娱乐伙伴%20黏土破坏者
 https://ygocdb.com/card/name/魔偶甜点教师·眼镜蛋奶酥
 https://ygocdb.com/card/name/娱乐伙伴%20异色眼牛头人
+https://ygocdb.com/card/name/原石的鸣狞
+https://ygocdb.com/card/name/恐啡肽狂龙甲壳

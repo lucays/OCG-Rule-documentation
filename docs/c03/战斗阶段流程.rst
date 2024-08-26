@@ -1121,7 +1121,7 @@
 .. _`异次元的女战士`: https://ygocdb.com/card/name/异次元的女战士
 .. _`人造人-念力王者`: https://ygocdb.com/card/name/人造人-念力王者
 .. _`超重型炮塔列车 破天巨爱`: https://ygocdb.com/card/name/超重型炮塔列车%20破天巨爱
-.. _`邪心英雄 恶刃恶魔`: https://ygocdb.com/card/name/邪心英雄%20恶刃魔王
+.. _`邪心英雄 恶刃恶魔`: https://ygocdb.com/card/name/邪心英雄%20恶刃恶魔
 .. _`头位审判`: https://ygocdb.com/card/name/头位审判
 .. _`辉石融合`: https://ygocdb.com/card/name/辉石融合
 .. _`幻影雾剑`: https://ygocdb.com/card/name/幻影雾剑
