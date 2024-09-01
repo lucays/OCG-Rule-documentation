@@ -1271,6 +1271,7 @@
 | 数据库：
 | 1组连锁上对方特殊召唤了多次怪兽的场合，「`抒情歌鸲-合唱小琉璃`_」的②效果只能发动1次，不过可以从那之内选任意1只怪兽发动。\ `24/8/26 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16392&request_locale=ja>`__
 | 「`雷火沸石死亡龙卷神`_」的②效果发动后，对方连锁发动效果的场合，可以再次连锁发动。（即1组连锁上满足条件可以发动多次）\ `24/8/26 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=20578&request_locale=ja>`__
+| 「`登龙华海泷门`_」在自己场上存在，因而得到效果的怪兽发动『让自己场上1张表侧表示的「`龙华`_」永续魔法卡回到卡组最下面』作为cost的效果时，可以把「`登龙华海泷门`_」回到卡组最下面来发动，这个效果正常适用。「`登龙华恐巄门`_」「`登龙华幻胧门`_」「`雪之天气模样`_」等也一样，在效果处理时自身不在魔法·陷阱卡区域存在的场合，已经发动的那些效果正常适用。\ `24/8/26 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9664&keyword=&tag=-1&request_locale=ja>`__
 
 8/29
 --------
@@ -1296,8 +1297,28 @@
 | 数据库：
 | 「`淘气仙星的灯光舞台`_」的②效果这样，效果处理部分记述是『盖放的那张卡』的效果，在处理时作为对象的卡片是表侧表示的场合，不再是这个效果的对象，这个效果不适用。\ `24/8/31 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=71&keyword=&tag=-1&request_locale=ja>`__
 | 把包含P怪兽在内的龙族·暗属性怪兽和兽族怪兽解放，特殊召唤「`野兽眼灵摆龙`_」的场合，虽然不是融合召唤，但那些怪兽是融合素材，因此是『用灵摆怪兽为（融合）素材对融合怪兽的特殊召唤成功』，可以发动「`灵摆次元`_」的①效果，『●融合』效果适用。\ `24/8/31 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22868&keyword=&tag=-1&request_locale=ja>`__
-| 「`起翼升阶魔法-急袭猛禽之力`_」的①效果把「`急袭猛禽-卫星炮猎鹰`_」当作X召唤特殊召唤的场合，由于是先特殊召唤再增加X素材，不是『用「急袭猛禽」怪兽为素材作X召唤成功』，不能发动「`急袭猛禽-卫星炮猎鹰`_」的①效果。\ `24/8/31 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24093&keyword=&tag=-1&request_locale=ja>`__
+| 「`起翼升阶魔法-急袭猛禽之力`_」的①效果把「`急袭猛禽-卫星炮猎鹰`_」当作X召唤特殊召唤的场合，由于是先特殊召唤再增加X素材，不是『用「`急袭猛禽`_」怪兽为素材作X召唤成功』，不能发动「`急袭猛禽-卫星炮猎鹰`_」的①效果。\ `24/8/31 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24093&keyword=&tag=-1&request_locale=ja>`__
 | 「`淘气仙星的灯光舞台`_」的②效果这样，效果处理部分记述是『盖放的那张卡』的效果，以「`地中族的决战`_」为对象发动时，连锁发动这张「`地中族的决战`_」的场合，发动后把自身盖放的时点，仍然是『盖放的那张卡』，结束阶段必须把这张「`地中族的决战`_」送去墓地。\ `24/8/31 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13178&keyword=&tag=-1&request_locale=ja>`__
+
+24/09
+========
+
+9/1
+------
+
+| 邮件：
+| 双方场上各存在1只「`魂之接力`_」的①效果特殊召唤的怪兽，以这2只怪兽为对象发动「`万能地雷未爆弹`_」后，其中1只因「`雷破`_」的效果而被破坏的场合，另1只立即因「`万能地雷未爆弹`_」的效果破坏，双方「`魂之接力`_」的效果都适用，结果平局。
+| 「`宇宙类星龙`_」的①效果处理时，尽管那个效果不会被无效化，也可以适用「`雷火沸石杆联区`_」的③效果，取除1个X素材，结果不会无效。
+| 效果已经被无效化的怪兽发动效果时，也可以适用「`雷火沸石杆联区`_」的③效果，取除1个X素材。
+| 可以解放里侧守备表示的「`特拉戈迪亚`_」来发动「`死之卡组破坏病毒`_」。
+| 「`融合`_」的①效果处理时，可以使用里侧守备表示的「`特拉戈迪亚`_」作为『攻击力·守备力○○以下的怪兽』为融合素材，把「`炼装勇士·精金超人`_」「`A★黑桃之猜大小剑士`_」融合召唤。
+
+| 数据库：
+
+| 裁定变更：
+| 「`次元的裂缝`_」的①效果或「`登龙华幻胧门`_」的②效果适用中，「`碑像天使-亚兹卢恩死月弓碑`_」的『把从魔法与陷阱区域特殊召唤的自己的怪兽区域1张永续陷阱卡送去墓地才能发动』的效果不能发动。\ `24/9/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24094&keyword=&tag=-1&request_locale=ja>`__
+
+.. note:: 「`次元的裂缝`_」的①效果或「`登龙华幻胧门`_」的②效果适用中，当作怪兽使用的魔法·陷阱卡被送去墓地的场合不会被除外，送去墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7959&keyword=&tag=-1&request_locale=ja>`__
 
 .. _`太古的白石`: https://ygocdb.com/card/name/太古的白石
 .. _`融合识别`: https://ygocdb.com/card/name/融合识别
@@ -2065,3 +2086,13 @@
 .. _`行列怪兽 骑士之桂马`: https://ygocdb.com/card/name/行列怪兽%20骑士之桂马
 .. _`淘气仙星的灯光舞台`: https://ygocdb.com/card/name/淘气仙星的灯光舞台
 .. _`库拉莉亚之虫惑魔`: https://ygocdb.com/card/name/库拉莉亚之虫惑魔
+.. _`雪之天气模样`: https://ygocdb.com/card/name/雪之天气模样
+.. _`死之卡组破坏病毒`: https://ygocdb.com/card/name/死之卡组破坏病毒
+.. _`炼装勇士·精金超人`: https://ygocdb.com/card/name/炼装勇士·精金超人
+.. _`碑像天使-亚兹卢恩死月弓碑`: https://ygocdb.com/card/name/碑像天使-亚兹卢恩死月弓碑
+.. _`特拉戈迪亚`: https://ygocdb.com/card/name/特拉戈迪亚
+.. _`魂之接力`: https://ygocdb.com/card/name/魂之接力
+.. _`登龙华海泷门`: https://ygocdb.com/card/name/登龙华海泷门
+.. _`龙华`: https://ygocdb.com/?search=龙华
+.. _`万能地雷未爆弹`: https://ygocdb.com/card/name/万能地雷未爆弹
+.. _`A★黑桃之猜大小剑士`: https://ygocdb.com/card/name/A★黑桃之猜大小剑士
