@@ -1694,7 +1694,6 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 .. _`变则齿轮`: https://ygocdb.com/card/name/变则齿轮
 .. _`黑炎龙 LV6`: https://ygocdb.com/card/name/黑炎龙%20LV6
 .. _`深渊死球`: https://ygocdb.com/card/name/深渊死球
-.. _`无抵抗的真相`: https://ygocdb.com/card/name/无抵抗的真相
 .. _`融合咒印生物`: https://ygocdb.com/?search=融合咒印生物
 .. _`暗黑界的术师 丝诺`: https://ygocdb.com/card/name/暗黑界的术师%20丝诺
 .. _`开辟之骑士`: https://ygocdb.com/card/name/开辟之骑士

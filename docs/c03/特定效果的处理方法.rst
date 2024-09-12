@@ -353,15 +353,13 @@
 | 把手卡的「`影灵衣的返魂术`_」给对方观看发动「`影灵衣巫女 艾莉娅儿`_」①效果的场合，可以连锁把这张「`影灵衣的返魂术`_」再给对方观看发动「`仪水镜的瞑想术`_」。\ `22/5/28 <https://yugioh-wiki.net/index.php?%B8%F8%B3%AB#faq>`__
 | 支付2000基本分，把手卡全部给对方观看发动「`红莲之指名者`_」时，可以连锁再支付2000基本分并把手卡全部给对方观看发动第2张「`红莲之指名者`_」。\ `22/5/20 <https://yugioh-wiki.net/index.php?%B8%F8%B3%AB#faq>`__
 
-.. attention:: 特别地，给对方观看怪兽作为cost发动「`无抵抗的真相`_」时，直到效果处理完毕才不再给对方观看。2张「`无抵抗的真相`_」都要连锁发动的场合，必须给对方观看不同的卡。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8569&keyword=&tag=-1&request_locale=ja>`__
+.. attention:: 可以在1组连锁上给对方观看同1张卡来发动多张「`无抵抗的真相`_」。特别地，最后发动的那张「`无抵抗的真相`_」的效果处理后，给对方观看的手卡那只怪兽已经被特殊召唤，因此其他「`无抵抗的真相`_」的效果全部不适用。\ `24/9/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8569&keyword=&tag=-1&request_locale=ja>`__
 
 | 效果处理需要支付cost时给对方观看的卡的相关信息的场合，参照观看时的信息。即使这时那些卡变得不存在，正常按给对方观看时的信息进行效果处理。
 | 例：
 | 「`辉神鸟 贝努鸟`_」的①效果处理时，给对方观看的怪兽已经不在手卡的场合，这个效果正常适用，作为对象的怪兽等级也会变成相同。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18503&keyword=&tag=-1&request_locale=ja>`__
 | 「`银河剑圣`_」的①效果处理时，给对方观看的「`光子`_」怪兽已经不在手卡的场合，这个效果正常适用，等级也会变成那只「`光子`_」怪兽给对方观看时的等级。\ `22/12/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22040&keyword=&tag=-1&request_locale=ja>`__
 | 「`龙魔导守护者`_」的②效果处理时，给对方观看的怪兽已经不在额外卡组的场合，这个效果正常适用，会特殊召唤怪兽。\ `18/2/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21754&keyword=&tag=-1&request_locale=ja>`__
-
-.. attention:: 特别地，「`无抵抗的真相`_」的效果处理时，给对方观看的怪兽已经不在手卡的场合，这个效果不适用，不会特殊召唤怪兽。
 
 已经公开的场合
 ----------------
