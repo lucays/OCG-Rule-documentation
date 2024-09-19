@@ -112,7 +112,7 @@
    | X召唤的「`幻影骑士团 断碎剑`_」变成里侧守备表示，再反转召唤之际，发动「`神之宣告`_」，这次反转召唤无效并破坏的场合，仍然是X召唤的怪兽被破坏，可以发动②效果。\ `23/10/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17662&keyword=&tag=-1&request_locale=ja>`__
    | 融合召唤的「`暗黑界的龙神王 格拉法`_」变成里侧守备表示，再反转召唤之际，发动「`光之放逐`_」的场合，这次反转召唤无效，可以适用墓地「`暗黑界的惩罚`_」的②效果让场上的「`暗黑界的龙神王 格拉法`_」不被破坏。这个场合，反转召唤被无效的「`暗黑界的龙神王 格拉法`_」不能在场上存在，从场上送去墓地，但不是因对方从场上离开，不能发动②效果。\ `23/10/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24011&keyword=&tag=-1&request_locale=ja>`__
 
-| 墓地等不在场上的怪兽自然没有出场方式的情报，墓地的「`异色眼绝零龙`_」当然不会是特殊召唤的怪兽。更不用说是否是从额外卡组特殊召唤的怪兽了。
+| 墓地等不在怪兽区域的怪兽自然没有出场方式的情报，墓地的「`异色眼绝零龙`_」当然不会是特殊召唤的怪兽。更不用说是否是从额外卡组特殊召唤的怪兽了。
 | 已死之物何来如何上场的情报呢？
 | 因此，「`召唤魔术`_」不能除外墓地的融合·S·X召唤的怪兽来融合召唤「`召唤兽 埃律西昂`_」。
 
@@ -394,8 +394,8 @@
    | 通过「`装弹枪管龙`_」的③效果得到控制权的怪兽变成里侧的场合，不会再因这个效果送去墓地，不会归还控制权。\ `17/7/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11263&keyword=&tag=-1&request_locale=ja>`__
    | 通过「`装弹枪管龙`_」的③效果得到控制权的怪兽被一时除外的场合，回到「`装弹枪管龙`_」持有者的场上后，处理完毕，不会归还控制权，不会再被送去墓地。\ `23/8/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13264&keyword=&tag=-1&request_locale=ja>`__
 
--  | 自己通过「`灰篮鹰`_」\ `15/7/17 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16310&keyword=&tag=-1>`__ 「`漫画之手`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15874&request_locale=ja>`__ 「`光灵使 莱娜`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8467&request_locale=ja>`__ 「`洗脑光线`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12353&request_locale=ja>`__ 「`大逮捕`_」\ `19/1/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11049&keyword=&tag=-1&request_locale=ja>`__ 等\ :ref:`持续取对象`\ 的效果等夺取了对方怪兽的控制权后，变成里侧的场合，就这样一直留在自己场上。
-   | 在被一时除外后，那个怪兽返回自己场上的时点立即再回到对方场上。
+-  | 自己通过「`灰篮鹰`_」\ `24/9/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16310&keyword=&tag=-1&request_locale=ja>`__ 「`大逮捕`_」\ `24/9/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11049&keyword=&tag=-1&request_locale=ja>`__ 等\ :ref:`持续取对象`\ 的效果等夺取了对方怪兽的控制权后，变成里侧的场合，不再是那些效果的对象，那些效果不再适用，那只怪兽回到对方场上。
+   | 在被一时除外后，那只怪兽返回自己场上的时点立即再回到对方场上。
 
 -  | 自己通过「`精神操作`_」「`敌人控制器`_」等记述『直到○○』这样暂时转移控制权的效果夺取了对方怪兽的控制权后，变成里侧后控制权不会立即归还，而是正常地在这些效果不再适用的时点那个里侧怪兽才回到对方场上。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8795&request_locale=ja>`__
    | 被一时除外的场合，在回到自己场上的时点即使控制权变更效果尚未结束，也在回到自己场上后立即回到对方场上。

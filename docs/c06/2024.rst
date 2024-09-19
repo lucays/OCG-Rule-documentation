@@ -1395,9 +1395,44 @@
 --------
 
 | 数据库：
+| 反转怪兽在伤害计算前反转，然后在伤害计算后之前，已经不在怪兽区域表侧表示存在的场合，那个反转效果不会发动。\ `24/9/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24097&keyword=&tag=-1&request_locale=ja>`__
 
 | 裁定变更：
 | 可以在1组连锁上给对方观看同1张卡来发动多张「`无抵抗的真相`_」。不过，最后发动的那张「`无抵抗的真相`_」的效果处理后，给对方观看的手卡那只怪兽已经被特殊召唤，因此其他「`无抵抗的真相`_」的效果全部不适用。\ `24/9/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8569&keyword=&tag=-1&request_locale=ja>`__
+
+9/14
+-------
+
+| 数据库：
+| 「`神圣蓟花`_」的①效果处理时，「`次元障壁`_」的①效果适用，不能把融合怪兽特殊召唤的场合，这个效果完全不适用；「`应战的G`_」的①效果适用的场合，『把额外卡组1只「`蓟花`_」融合怪兽给对方观看，那个等级每4星为1张的「`罪宝`_」卡从自己的手卡·场上送去墓地（里侧表示卡翻开确认）』效果适用，但是不送去墓地而是被除外，之后不会特殊召唤怪兽。\ `24/9/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24098&keyword=&tag=-1&request_locale=ja>`__
+
+9/18
+-------
+
+| 邮件：
+| 从墓地特殊召唤的怪兽从表侧表示变成里侧守备表示再反转的场合，不再是『从墓地特殊召唤的怪兽』，因此是『从墓地以外特殊召唤的怪兽』，不能以「`真血公 吸血鬼`_」为对象发动效果；但是，不论从哪里特殊召唤的「`骑士皇 普莉梅拉·首席百夫长`_」从表侧表示变成里侧守备表示的场合，②效果都不再适用。
+
+9/19
+-------
+
+| 邮件：
+| 我方战斗阶段开始时，「`重铠装-希望鳍条枪兵`_」发动②效果，对方连锁发动「`雷火沸动霍尔洞推进器`_」的②效果，X召唤了另1只「`重铠装-希望鳍条枪兵`_」的场合，那个X召唤成功时还是战斗阶段开始时，可以发动那只「`重铠装-希望鳍条枪兵`_」的②效果。
+| 我方战斗阶段开始时，先发动「`银河眼时源龙`_」的①效果的场合，在这个效果处理完毕后，才能再在连锁1发动作为诱发效果的「`No.107 银河眼时空龙`_」的①效果。
+| 「`神圣守卫者`_」反转时，如果两个『●』效果都处于不能适用的状况，这个效果也会强制发动，完全不适用，不选任何效果来发动。
+| 以「`六花的薄冰`_」为对象发动「`事务回滚`_」时，不能把自己场上1只植物族怪兽解放来发动。
+
+| 裁定变更：
+| 发动「`御巫的诱轮舞`_」，得到对方怪兽的控制权后，那只怪兽变成里侧守备表示的时点，作为装备的「`御巫的诱轮舞`_」立即破坏，那只怪兽不再是那个效果的对象，不会送去墓地，而是回到对方场上。
+
+| 数据库：
+| 「`青眼精灵龙`_」的①效果适用中，不能发动「`光波分光`_」「`替罪羊`_」或「`救祓少女·马尔法`_」的①效果。「`光波分光`_」或「`救祓少女·马尔法`_」的①效果发动时，连锁发动卡片效果特殊召唤「`青眼精灵龙`_」的场合，只把对象怪兽或手卡的自身特殊召唤，这个效果处理完毕；「`替罪羊`_」的场合，不会特殊召唤任何衍生物。此外，「`升阶魔法-死亡双力`_」等2只怪兽的特殊召唤不在1个时点进行的效果可以正常发动并适用。\ `24/9/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18176&keyword=&tag=-1&request_locale=ja>`__
+| 发动「`精神操作`_」，得到对方怪兽的控制权后，那只怪兽变成里侧守备表示的场合，控制权仍然要在结束阶段才归还，『这个效果得到控制权的怪兽不能攻击宣言，不能解放』立即不适用。\ `24/9/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24100&keyword=&tag=-1&request_locale=ja>`__
+| 发动「`人造人-念力层叠者`_」的①效果，得到对方怪兽的控制权后，那只怪兽变成里侧守备表示的场合，控制权仍然要在结束阶段才归还，『这个效果得到控制权的怪兽不能把效果发动，不能攻击宣言』立即不适用。\ `24/9/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23044&keyword=&tag=-1&request_locale=ja>`__
+| 「`No.41 泥睡魔兽 睡梦貘`_」在里侧守备表示的状态被通常怪兽攻击的场合，在伤害计算前反转，自身②效果适用，攻击怪兽变成守备表示，因此战斗终止，不进行伤害计算。\ `24/9/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24099&keyword=&tag=-1&request_locale=ja>`__
+
+| 裁定变更：
+| 自己场上存在因「`灰篮短吻鳄`_」「`灰篮眼镜蛇`_」「`灰篮鹰`_」的②效果而得到控制权的怪兽，那只怪兽变成里侧守备表示的时点，作为装备的「`灰篮短吻鳄`_」「`灰篮眼镜蛇`_」「`灰篮鹰`_」立即破坏，那只怪兽不再是这些效果的对象，②效果全部不适用，那只怪兽不会破坏，并且归还控制权。\ `24/9/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16310&keyword=&tag=-1&request_locale=ja>`__
+| 发动「`大逮捕`_」，得到对方怪兽的控制权后，那只怪兽变成里侧守备表示的时点，那只怪兽不再是「`大逮捕`_」效果的对象，「`大逮捕`_」的效果全部不再适用，作为永续陷阱表侧表示留在场上，那只怪兽的控制权归还给对方。\ `24/9/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11049&keyword=&tag=-1&request_locale=ja>`__ 「`调律师的阴谋`_」的处理也一样。\ `24/9/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9423&keyword=&tag=-1&request_locale=ja>`__
 
 .. _`太古的白石`: https://ygocdb.com/card/name/太古的白石
 .. _`融合识别`: https://ygocdb.com/card/name/融合识别
@@ -2206,3 +2241,21 @@
 .. _`秘仪之力EX-暗之支配者`: https://ygocdb.com/card/name/秘仪之力EX-暗之支配者
 .. _`无抵抗的真相`: https://ygocdb.com/card/name/无抵抗的真相
 .. _`蛛母蜘蛛`: https://ygocdb.com/card/name/蛛母蜘蛛
+.. _`真血公 吸血鬼`: https://ygocdb.com/card/name/真血公%20吸血鬼
+.. _`六花的薄冰`: https://ygocdb.com/card/name/六花的薄冰
+.. _`青眼精灵龙`: https://ygocdb.com/card/name/青眼精灵龙
+.. _`骑士皇 普莉梅拉·首席百夫长`: https://ygocdb.com/card/name/骑士皇%20普莉梅拉·首席百夫长
+.. _`精神操作`: https://ygocdb.com/card/name/精神操作
+.. _`次元障壁`: https://ygocdb.com/card/name/次元障壁
+.. _`重铠装-希望鳍条枪兵`: https://ygocdb.com/card/name/重铠装-希望鳍条枪兵
+.. _`升阶魔法-死亡双力`: https://ygocdb.com/card/name/升阶魔法-死亡双力
+.. _`人造人-念力层叠者`: https://ygocdb.com/card/name/人造人-念力层叠者
+.. _`应战的G`: https://ygocdb.com/card/name/应战的G
+.. _`神圣守卫者`: https://ygocdb.com/card/name/神圣守卫者
+.. _`替罪羊`: https://ygocdb.com/card/name/替罪羊
+.. _`银河眼时源龙`: https://ygocdb.com/card/name/银河眼时源龙
+.. _`光波分光`: https://ygocdb.com/card/name/光波分光
+.. _`调律师的阴谋`: https://ygocdb.com/card/name/调律师的阴谋
+.. _`雷火沸动霍尔洞推进器`: https://ygocdb.com/card/name/雷火沸动霍尔洞推进器
+.. _`灰篮鹰`: https://ygocdb.com/card/name/灰篮鹰
+.. _`救祓少女·马尔法`: https://ygocdb.com/card/name/救祓少女·马尔法
