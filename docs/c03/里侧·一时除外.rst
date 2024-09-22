@@ -386,16 +386,11 @@
 控制权
 ======
 
-总的来说，变成里侧\ **不影响控制权相关效果的处理**\ 。一时除外由于从场上离开了，部分情况和变成里侧表示的结果不一样。
-
 -  | 自己通过「`强制转移`_」\ `14/3/21 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11474&keyword=&tag=-1&request_locale=ja>`__ 「`御用王`_」\ `16/1/6 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17476&keyword=&tag=-1>`__ 等永久转移控制权的效果夺取了对方怪兽的控制权后，变成里侧或被一时除外的场合，都仍回到我方场上。不会回到对方场上。
    | 例：
    | 「`玄化荷鲁斯龙`_」的效果夺取了控制权的怪兽变成里侧表示的场合，不会归还控制权，那个回合翻开的场合可以攻击。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14244&request_locale=ja>`__
    | 通过「`装弹枪管龙`_」的③效果得到控制权的怪兽变成里侧的场合，不会再因这个效果送去墓地，不会归还控制权。\ `17/7/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11263&keyword=&tag=-1&request_locale=ja>`__
    | 通过「`装弹枪管龙`_」的③效果得到控制权的怪兽被一时除外的场合，回到「`装弹枪管龙`_」持有者的场上后，处理完毕，不会归还控制权，不会再被送去墓地。\ `23/8/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13264&keyword=&tag=-1&request_locale=ja>`__
-
--  | 自己通过「`灰篮鹰`_」\ `24/9/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16310&keyword=&tag=-1&request_locale=ja>`__ 「`大逮捕`_」\ `24/9/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11049&keyword=&tag=-1&request_locale=ja>`__ 等\ :ref:`持续取对象`\ 的效果等夺取了对方怪兽的控制权后，变成里侧的场合，不再是那些效果的对象，那些效果不再适用，那只怪兽回到对方场上。
-   | 在被一时除外后，那只怪兽返回自己场上的时点立即再回到对方场上。
 
 -  | 自己通过「`精神操作`_」「`敌人控制器`_」等记述『直到○○』这样暂时转移控制权的效果夺取了对方怪兽的控制权后，变成里侧后控制权不会立即归还，而是正常地在这些效果不再适用的时点那个里侧怪兽才回到对方场上。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8795&request_locale=ja>`__
    | 被一时除外的场合，在回到自己场上的时点即使控制权变更效果尚未结束，也在回到自己场上后立即回到对方场上。
@@ -411,6 +406,9 @@
    | 「`贤者的圣杯`_」的效果特殊召唤的怪兽变成里侧表示或者被一时除外后，不再是『这个效果特殊召唤的怪兽』，结束阶段时的处理都不适用（也可以解放或者作为S素材使用）。
    | 通过自身②效果特殊召唤在对方场上的「`闪刀姬-卡米丽娅`_」，被「`银河眼光子龙`_」的②效果或者「`亚空间物质传送装置`_」「`虫洞`_」等效果一时除外，回到对方场上后，不会再归还控制权。
    | 召唤的「`太阳神之翼神龙-球体形`_」被一时除外，回到场上后不会归还控制权。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16154&request_locale=ja>`__
+
+-  | 自己通过「`灰篮鹰`_」\ `24/9/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16310&keyword=&tag=-1&request_locale=ja>`__ 「`大逮捕`_」\ `24/9/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11049&keyword=&tag=-1&request_locale=ja>`__ 等\ :ref:`持续取对象`\ 的效果等夺取了对方怪兽的控制权后，变成里侧的场合，不再是那些效果的对象，那些效果不再适用，那只怪兽回到对方场上。
+   | 在被一时除外后，那只怪兽返回自己场上的时点立即再回到对方场上。
 
 | 无论是暂时还是永久转移控制权的效果，怪兽被一时除外的场合，除外后是原本持有者的怪兽。原本持有者可以发动「`暗次元之解放`_」等效果将其特殊召唤。特殊召唤的场合一时除外的效果不再存在。
 | 例：
