@@ -75,8 +75,6 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
    | 「`魔玩具·链绵羊`_」的②效果把自身特殊召唤并上升800攻击力后，发动「`技能抽取`_」的场合，「`魔玩具·链绵羊`_」的效果无效，攻击力回到2000。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15108&keyword=&tag=-1&request_locale=ja>`__
    | 「`双汇编亚龙`_」的①效果把自身特殊召唤，攻击力变成一半后，发动「`技能抽取`_」的场合，「`双汇编亚龙`_」的效果无效，攻击力回到原本数值。之后「`技能抽取`_」不再适用的场合，也不会再变成一半。\ `17/7/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21126&keyword=&tag=-1&request_locale=ja>`__
 
-   .. attention:: 特别地，「`多尔·多拉`_」的①效果把自身特殊召唤，攻击力·守备力变成1000后，发动「`技能抽取`_」的场合，「`多尔·多拉`_」的效果无效，攻击力·守备力仍保持1000的状态。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13174&keyword=&tag=-1&request_locale=ja>`__
-
 -  | 这个效果\ **只要能影响其他卡，即使处理时只影响自身**\ 的场合，被无效后那个效果仍然适用，不会复原。
    | 例：
    | 「`锁龙蛇 骷髅四面鬼`_」让连接端的怪兽攻击力上升后，效果被无效的场合，那些怪兽攻击力就那样不会复原。\ `17/10/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12638&request_locale=ja>`__
@@ -688,7 +686,6 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
 .. _`技能抽取`: https://ygocdb.com/card/name/技能抽取
 .. _`附锁链的尖盾`: https://ygocdb.com/card/name/附锁链的尖盾
 .. _`破邪之大剑-黄昏`: https://ygocdb.com/card/name/破邪之大剑-黄昏
-.. _`多尔·多拉`: https://ygocdb.com/card/name/多尔·多拉
 .. _`霞鸟 辉剑鸟`: https://ygocdb.com/card/name/霞鸟%20辉剑鸟
 .. _`No.39 希望皇 霍普`: https://ygocdb.com/card/name/No.39%20希望皇%20霍普
 .. _`鬼岩城`: https://ygocdb.com/card/name/鬼岩城
