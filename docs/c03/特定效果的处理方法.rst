@@ -508,8 +508,9 @@
 发生场所移动也能判断信息的效果
 ===================================
 
-| 把卡片送去墓地·怪兽解放作为cost发动的效果，效果处理记述『送去墓地的怪兽』『解放的怪兽』『那只怪兽』等，需要判断『那张卡』的相关信息的场合，实际上指的是『为这个效果发动而送去墓地·解放的那张卡』，如果那张卡已经不在支付cost之后的场所，基本上这类效果也能适用。
+| 把卡片丢弃·送去墓地·怪兽解放作为cost发动的效果，效果处理记述『丢弃·送去墓地·解放的怪兽』『那只怪兽』等，需要判断『那张卡』的相关信息的场合，实际上指的是『为这个效果发动而送去墓地·解放的那张卡』，如果那张卡已经不在支付cost之后的场所，基本上这类效果也能适用。
 | 例：
+| 「`元素英雄 真诚新宇侠`_」的②效果处理时，作为cost丢弃的怪兽不在墓地存在的场合，这个效果正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20340&keyword=&tag=-1&request_locale=ja>`__
 | 「`幽丽的幻泷`_」的『自己从卡组抽出送去墓地的怪兽的数量＋1张』效果处理时，即使送去墓地的怪兽已经不在墓地存在，抽卡数量也不会变化。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20515&keyword=&tag=-1&request_locale=ja>`__
 | 「`灵摆显现`_」的①效果处理时，作为cost送去墓地的怪兽不在墓地存在的场合，这个效果正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15254&keyword=&tag=-1&request_locale=ja>`__
 | 「`使破坏剑的高手-破坏之剑士`_」的③效果处理时，即使送去墓地的怪兽卡已经不在墓地存在，这个效果也正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17554&keyword=&tag=-1&request_locale=ja>`__
@@ -1316,3 +1317,4 @@ cost
 .. _`魔偶甜点教师·眼镜蛋奶酥`: https://ygocdb.com/card/name/魔偶甜点教师·眼镜蛋奶酥
 .. _`魔偶甜点`: https://ygocdb.com/?search=魔偶甜点
 .. _`混沌魅惑的女王`: https://ygocdb.com/card/name/混沌魅惑的女王
+.. _`元素英雄 真诚新宇侠`: https://ygocdb.com/card/name/元素英雄%20真诚新宇侠
