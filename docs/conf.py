@@ -12,12 +12,12 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
+import sys
 import logging
 import datetime
 from pathlib import Path
-
 import requests
-
+current_dir = Path(__file__).parent.resolve()
 # -- Project information -----------------------------------------------------
 ENV = 'dev'  # change ENV = 'local' to make html/epub in local with no fonts.
 project = 'ocg-rule'
@@ -77,12 +77,21 @@ pygments_style = "sphinx"
 # a list of builtin themes.
 # html_theme = "sphinx_rtd_theme"
 # html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
+card_words_path = current_dir.parent.resolve() / 'card_words.txt'
+card_words = card_words_path.read_text(encoding='utf8').split('\n')
 
 html_theme = 'furo'
 html_logo = ".static/logo.webp"
 html_title = "OCG Rule"
 html_permalinks_icon = "¶"
 html_search_language = "zh"
+package_path = [i for i in sys.path if 'site-packages' in i][0]
+dict_path = Path(package_path) / 'jieba/dict.txt'
+dict_path_texts = dict_path.read_text(encoding='utf8').split('\n')
+dict_path_texts.extend(card_words)
+dict_path.write_text('\n'.join(dict_path_texts), encoding='utf8')
+print('jieba dict path:', dict_path)
+html_search_options = {'dict': str(dict_path)}
 html_theme_options = {
     "navigation_with_keys": True,
     "light_css_variables": {
@@ -144,7 +153,7 @@ htmlhelp_basename = 'ocg-ruledoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
-current_dir = Path(__file__).parent.resolve()
+
 if ENV != 'local':
     fonts_dir = current_dir / 'fonts'
     fonts_dir.mkdir(exist_ok=True)
