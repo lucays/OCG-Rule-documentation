@@ -1,4 +1,5 @@
 git+https://github.com/lucays/furo.git@main
 sphinxcontrib-jquery
+jieba
 requests
 urllib3==1.26.15
