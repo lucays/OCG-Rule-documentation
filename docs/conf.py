@@ -79,6 +79,7 @@ pygments_style = "sphinx"
 # html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 card_words_path = current_dir.parent.resolve() / 'card_words.txt'
 card_words = card_words_path.read_text(encoding='utf8').split('\n')
+card_words = [f'{word} 3 n' for word in card_words if word]
 
 html_theme = 'furo'
 html_logo = ".static/logo.webp"
