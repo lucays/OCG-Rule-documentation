@@ -82,7 +82,7 @@ html_theme = 'furo'
 html_logo = ".static/logo.webp"
 html_title = "OCG Rule"
 html_permalinks_icon = "¶"
-
+html_search_language = "zh"
 html_theme_options = {
     "navigation_with_keys": True,
     "light_css_variables": {
