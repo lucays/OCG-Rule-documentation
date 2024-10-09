@@ -94,6 +94,7 @@ dict_path_texts = [i for i in dict_path_texts if i.strip()]
 dict_path.write_text('\n'.join(dict_path_texts), encoding='utf8')
 print('jieba dict path:', dict_path, ' dict length', len(dict_path_texts))
 html_search_options = {'dict': str(dict_path)}
+html_use_opensearch = 'https://ocg-rule.readthedocs.io/zh_CN/latest/'
 html_theme_options = {
     "navigation_with_keys": True,
     "light_css_variables": {
