@@ -1,4 +1,5 @@
 git+https://github.com/lucays/furo.git@main
+git+https://github.com/lucays/sphinx.git@master
 sphinxcontrib-jquery
 jieba
 requests
