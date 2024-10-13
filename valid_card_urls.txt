@@ -5709,3 +5709,6 @@ https://ygocdb.com/card/name/占卜魔女%20小地
 https://ygocdb.com/card/name/命运女郎·厄希
 https://ygocdb.com/card/name/元素英雄%20新宇精灵
 https://ygocdb.com/card/name/壹世坏-珍珠世界
+https://ygocdb.com/card/name/银河蠕虫
+https://ygocdb.com/card/name/光子驱逐者
+https://ygocdb.com/card/name/混沌落穴
