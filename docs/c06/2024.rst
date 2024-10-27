@@ -1636,7 +1636,7 @@
 | 对方以我方盖放的1张陷阱卡为对象发动「`宇宙旋风`_」，我方连锁发动那张陷阱卡，再连锁发动「`红色重启`_」把那张陷阱卡盖放的场合，那张陷阱卡仍然会被「`宇宙旋风`_」的效果除外。\ `24/10/18 <https://yugioh-wiki.net/index.php?%A1%D4%A5%EC%A5%C3%A5%C9%A1%A6%A5%EA%A5%D6%A1%BC%A5%C8%A1%D5#faq1>`_
 
 | 数据库：
-| 「`逆转的命运`_」「`秘仪呼唤`_」的『投掷硬币所得效果』是指实际进行了投掷硬币而得到了『●表』『●里』效果的怪兽，投掷硬币后，效果再被无效化的怪兽也包含在内。此外，投掷硬币的效果处理时，这个效果被无效，没有实际投掷硬币的场合；投掷硬币后，那只怪兽再变成里侧表示或者被一时除外再回到场上的场合；因为「`光之结界`_」的②效果没有投掷硬币就得到效果的场合，那些怪兽不能成为「`逆转的命运`_」「`秘仪呼唤`_」的效果对象。\ `24/10/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24110&keyword=&tag=-1&request_locale=ja>`__
+| 「`逆转的命运`_」「`秘仪呼唤`_」的『投掷硬币所得效果』是指实际进行了投掷硬币而得到了『●表』『●里』效果的怪兽，投掷硬币后，效果再被无效化的怪兽也包含在内。此外，投掷硬币的效果处理时，这个效果被无效，没有实际投掷硬币的场合；投掷硬币后，那只怪兽再变成里侧表示或者被一时除外再回到场上的场合；因为「`光之结界`_」的②效果没有投掷硬币就得到效果的场合，那些怪兽不能成为「`逆转的命运`_」「`秘仪呼唤`_」的效果对象。\ `24/10/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24110&keyword=&tag=-1&request_locale=ja&request_locale=ja>`__
 | 「`新宇贤者`_」的②效果没能给与对方伤害时，也会回复基本分。\ `19/12/21 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7805&request_locale=ja>`__
 
 | 裁定变更：
@@ -1661,6 +1661,45 @@
 | 裁定变更：
 | 对方场上的「`兽装合体 狮子霍普雷`_」发动①效果，由于这个效果的发动和效果不会被无效化，那个处理时我方「`异热同心武器-天马双翼剑`_」的④效果、「`春化精的女神 春`_」的③效果和「`雷火沸动交界机`_」的③效果全部可以适用，结果不会无效。
 | 对方「`抗拒苏生`_」的①效果特殊召唤的「`宇宙类星龙`_」发动①效果，尽管自身是效果无效化状态，由于这个效果的发动和效果不会被无效化，那个处理时我方「`异热同心武器-天马双翼剑`_」的④效果、「`春化精的女神 春`_」的③效果和「`雷火沸动交界机`_」的③效果全部可以适用，结果不会无效。
+
+10/24
+--------
+
+| 数据库：
+| 「`诱饵人偶`_」在发动时不能是确定破坏卡片的效果，不能连锁发动「`王家的诅咒`_」。\ `24/10/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7271&keyword=&tag=-1&request_locale=ja>`_
+| 「`诱饵人偶`_」的效果处理时，如果作为对象的卡是陷阱卡，且发动时机不正确的场合，那张卡在里侧表示的状态被破坏。对方场上存在「`白龙忍者`_」，我方发动「`诱饵人偶`_」的场合，即使作为对象的卡是陷阱卡，也不会破坏，里侧表示留在魔法·陷阱卡区域。\ `24/10/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7614&keyword=&tag=-1&request_locale=ja>`_
+| 以适用了「`淘气仙星的灯光舞台`_」②效果的卡为对象发动「`诱饵人偶`_」的场合，如果作为对象的卡是陷阱卡，由于那张卡不能发动，结果破坏。\ `24/10/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6115&keyword=&tag=-1&request_locale=ja>`_
+| 「`野蛮人之怒`_」的①效果适用的怪兽战斗破坏陷阱怪兽时，也不送去墓地，回到持有者手卡。\ `24/10/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6858&keyword=&tag=-1&request_locale=ja>`_\ 「`幻界突破`_」的①效果处理也一样，不送去墓地，回到持有者卡组。\ `24/10/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7628&keyword=&tag=-1&request_locale=ja>`_
+| 「`方程式运动员`_」魔法·陷阱卡的效果在1组连锁上发动了多次的场合，处理后「`方程式运动员 暗冥赛道名将`_」的②效果也可以自身组成连锁发动那个次数。\ `18/9/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13709&request_locale=ja>`__\ 「`方程式运动员 电光赛道名将`_」等也一样。\ `18/9/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13710&request_locale=ja>`__
+
+| 裁定变更：
+| 「`秘仪之力`_」怪兽的召唤·反转召唤·特殊召唤时发动效果，那个效果处理时不在怪兽区域表侧表示存在的场合，仍会投掷硬币，这个效果处理完毕。\ `24/10/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6882&keyword=&tag=-1&request_locale=ja>`_
+
+10/25
+--------
+
+| 邮件：
+| 「`光之结界`_」的②效果适用中，「`秘仪之力`_」怪兽的召唤·反转召唤·特殊召唤时发动效果，那个效果处理时不在怪兽区域表侧表示存在的场合，也不投掷硬币。
+| 「`电子暗黑嵌合体`_」的①效果发动后，这个回合内不能把当作魔法卡处理的怪兽卡作为融合素材。不能把魔法·陷阱卡区域的「`电子龙`_」和其他机械族怪兽作为融合素材特殊召唤「`嵌合要塞龙`_」；不能把魔法·陷阱卡区域的融合·同调·超量·连接怪兽卡和魔法师族怪兽卡作为融合素材特殊召唤「`精灵 克罗佐`_」。
+| 在对方回合，我方场上的「`地狱门的契约书`_」被「`DDD 咒血王 赛弗里德`_」的①效果无效后，下个我方准备阶段，我方可以自行决定「`地狱门的契约书`_」的②效果的发动和「`DDD 咒血王 赛弗里德`_」的①效果结束适用的顺序。
+| 自己准备阶段发动了「`光之结界`_」的①效果，结果②③效果都被无效的状况，下次的我方准备阶段，我方自行决定「`光之结界`_」①效果的发动和上次「`光之结界`_」无效自身的①效果结束适用的顺序。
+
+10/26
+--------
+
+| 邮件：
+| 「`白斗气白鲸`_」在战斗阶段内第1次向怪兽攻击的伤害步骤结束时，可以发动「`白之轮回`_」的②效果只再1次继续攻击，不能再通过自身②效果进行第3次攻击。
+| 「`白斗气白鲸`_」在战斗阶段内第2次向怪兽攻击的伤害步骤结束时，不能发动「`白之轮回`_」的②效果。
+
+| 裁定变更：
+| 对方「`圣珖神龙 星尘·零`_」的①效果适用中，自己场上存在2张「`魔术师的左手`_」和魔法师族怪兽时，对方发动陷阱卡的场合，那个效果处理时先适用1张「`魔术师的左手`_」的①效果，那个陷阱效果无效，由于「`圣珖神龙 星尘·零`_」的①效果没被这次效果破坏，之后第2张的①效果适用，结果那个陷阱被破坏。
+| 自己场上存在魔法师族怪兽、「`魔术师的左手`_」和「`魔轰神兽 尤尼科`_」时，对方发动陷阱卡的场合，那个效果处理时如果双方手卡数量相同，那个陷阱卡是被哪个效果无效并破坏，处理后对方是否可以发动「`融爆`_」，调整中。
+
+| 数据库：
+| 「`秘仪之力5-教皇`_」「`秘仪之力19-太阳`_」「`秘仪之力EX-混沌之支配者`_」的包含投掷硬币的效果是在那个处理时适用的效果，没有得到效果，因此即使投掷过硬币，也不能以它们为对象发动「`逆转的命运`_」「`秘仪呼唤`_」。\ `24/10/26 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24110&keyword=&tag=-1&request_locale=ja>`_
+| 「`追光☆姐妹-紫电之堤丢珥`_」「`追光☆姐妹-飞燕之卡帕纽`_」「`追光☆姐妹-屠龙之厄忒俄`_」因其他卡的效果被放置到魔法·陷阱卡区域时，自身①效果不适用。\ `24/10/26 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24113&keyword=&tag=-1&request_locale=ja>`_
+| 持有『○○卡·效果的发动时，才能发动』这类诱发即时效果的怪兽在对方怪兽区域·墓地存在时，才能特殊召唤「`叛逆者厄托`_」。例如，「`海龟坏兽 加美西耶勒`_」的④效果、「`雷火沸动死旋爆震机`_」的②效果都满足条件。而「`效果遮蒙者`_」「`十二兽 龙枪`_」持有的是在连锁1就能发动的诱发即时效果，「`朔夜时雨`_」持有的是诱发效果，都不满足条件。\ `24/10/26 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24112&keyword=&tag=-1&request_locale=ja>`_
+| 判断「`叛逆者厄托`_」是否可以特殊召唤时，记述『得到以下效果』的怪兽，持有『○○卡·效果的发动时，才能发动』这类诱发即时效果的场合，不考虑是否实际得到效果，是否可以发动。例如，不管有没有X素材，「`暗叛逆超量龙`_」都满足条件，「`凤凰剑圣 基亚·弗里德`_」「`光天之摩诃毗卢`_」等也一样；而「`斩机 径武`_」的『●』效果不是自身发动的效果，即使存在以其为素材S·X召唤的「`斩机`_」怪兽，也不满足条件，「`十二兽 鸡拳`_」「`虹天气 彩虹`_」等也一样。\ `24/10/26 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24111&keyword=&tag=-1&request_locale=ja>`_
 
 .. _`太古的白石`: https://ygocdb.com/card/name/太古的白石
 .. _`融合识别`: https://ygocdb.com/card/name/融合识别
@@ -2590,3 +2629,35 @@
 .. _`秘仪之力`: https://ygocdb.com/?search=秘仪之力
 .. _`秘仪之力7-战车`: https://ygocdb.com/card/name/秘仪之力7-战车
 .. _`宇宙旋风`: https://ygocdb.com/card/name/宇宙旋风
+.. _`光天之摩诃毗卢`: https://ygocdb.com/card/name/光天之摩诃毗卢
+.. _`斩机 径武`: https://ygocdb.com/card/name/斩机%20径武
+.. _`斩机`: https://ygocdb.com/?search=斩机
+.. _`电子暗黑嵌合体`: https://ygocdb.com/card/name/电子暗黑嵌合体
+.. _`暗叛逆超量龙`: https://ygocdb.com/card/name/暗叛逆超量龙
+.. _`朔夜时雨`: https://ygocdb.com/card/name/朔夜时雨
+.. _`秘仪之力5-教皇`: https://ygocdb.com/card/name/秘仪之力5-教皇
+.. _`地狱门的契约书`: https://ygocdb.com/card/name/地狱门的契约书
+.. _`凤凰剑圣 基亚·弗里德`: https://ygocdb.com/card/name/凤凰剑圣%20基亚·弗里德
+.. _`十二兽 鸡拳`: https://ygocdb.com/card/name/十二兽%20鸡拳
+.. _`野蛮人之怒`: https://ygocdb.com/card/name/野蛮人之怒
+.. _`方程式运动员 暗冥赛道名将`: https://ygocdb.com/card/name/方程式运动员%20暗冥赛道名将
+.. _`白龙忍者`: https://ygocdb.com/card/name/白龙忍者
+.. _`白斗气白鲸`: https://ygocdb.com/card/name/白斗气白鲸
+.. _`王家的诅咒`: https://ygocdb.com/card/name/王家的诅咒
+.. _`效果遮蒙者`: https://ygocdb.com/card/name/效果遮蒙者
+.. _`追光☆姐妹-屠龙之厄忒俄`: https://ygocdb.com/card/name/追光☆姐妹-屠龙之厄忒俄
+.. _`追光☆姐妹-飞燕之卡帕纽`: https://ygocdb.com/card/name/追光☆姐妹-飞燕之卡帕纽
+.. _`幻界突破`: https://ygocdb.com/card/name/幻界突破
+.. _`叛逆者厄托`: https://ygocdb.com/card/name/叛逆者厄托
+.. _`嵌合要塞龙`: https://ygocdb.com/card/name/嵌合要塞龙
+.. _`虹天气 彩虹`: https://ygocdb.com/card/name/虹天气%20彩虹
+.. _`海龟坏兽 加美西耶勒`: https://ygocdb.com/card/name/海龟坏兽%20加美西耶勒
+.. _`秘仪之力EX-混沌之支配者`: https://ygocdb.com/card/name/秘仪之力EX-混沌之支配者
+.. _`十二兽 龙枪`: https://ygocdb.com/card/name/十二兽%20龙枪
+.. _`DDD 咒血王 赛弗里德`: https://ygocdb.com/card/name/DDD%20咒血王%20赛弗里德
+.. _`雷火沸动死旋爆震机`: https://ygocdb.com/card/name/雷火沸动死旋爆震机
+.. _`魔术师的左手`: https://ygocdb.com/card/name/魔术师的左手
+.. _`融爆`: https://ygocdb.com/card/name/融爆
+.. _`秘仪之力19-太阳`: https://ygocdb.com/card/name/秘仪之力19-太阳
+.. _`追光☆姐妹-紫电之堤丢珥`: https://ygocdb.com/card/name/追光☆姐妹-紫电之堤丢珥
+.. _`方程式运动员`: https://ygocdb.com/?search=方程式运动员

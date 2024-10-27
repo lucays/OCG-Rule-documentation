@@ -175,7 +175,7 @@
 
 | 效果本身的特性可以被变更。
 | 例：
-| 「`自奏圣乐的通天塔`_」的①效果适用中，符合条件的怪兽即使不受魔法影响，发动的效果也当作咒文速度2的诱发即时效果。\ `18/7/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22006&keyword=&tag=-1&request_locale=ja>`__
+| 「`自奏圣乐的通天塔`_」的①效果适用中，符合条件的怪兽即使不受魔法影响，也可以在对方回合发动效果。\ `18/7/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22006&keyword=&tag=-1&request_locale=ja>`__
 | 「`天魔大帝`_」的效果适用中，通常召唤的不受影响的怪兽发动效果时，对方也不能连锁。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18246&request_locale=ja>`__
 
 -  | 效果的发动和效果本身都不会被无效。但是，效果的对象可以被改变，那个效果处理也可以被改写。
