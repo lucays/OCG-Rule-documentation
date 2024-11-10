@@ -1,5 +1,6 @@
 
 import re
+import json
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor
 
@@ -15,12 +16,20 @@ VALID_CARD_URLS_FILE = current_dir / 'valid_card_urls.txt'
 if VALID_CARD_URLS_FILE.exists():
     VALID_CARD_URLS_LST = VALID_CARD_URLS_FILE.read_text(encoding='utf8').split()
     VALID_CARD_URLS = set(VALID_CARD_URLS_LST)
+
 CARD_WORDS = []
 CARD_WORDS_SET = set()
 CARD_WORDS_FILE = current_dir / 'card_words.txt'
 if CARD_WORDS_FILE.exists():
     CARD_WORDS = CARD_WORDS_FILE.read_text(encoding='utf8').split()
     CARD_WORDS_SET = set(CARD_WORDS)
+
+CARD_NAMES = []
+CARD_NAMES_SET = set()
+CARD_NAMES_FILE = current_dir / 'card_names.txt'
+if CARD_NAMES_FILE.exists():
+    CARD_NAMES = CARD_NAMES_FILE.read_text(encoding='utf8').split()
+    CARD_NAMES_SET = set(CARD_NAMES)
 
 NEED_REPLACED_NAMES = {
     '「E·HERO': '「元素英雄',
@@ -283,12 +292,17 @@ def get_card_name_series(texts: str):
     for line in texts.split('\n'):
         if line.startswith('.. _`'):
             name = line.split('.. _`')[1].split('`')[0]
-            for word in name.split():
+            CARD_NAMES.append(name)
+            CARD_NAMES_SET.add(name)
+            for word in re.split('[\s、，。！？“”‘’《》<>「」☆●·★]', name):
                 if word in CARD_WORDS_SET:
                     continue
                 CARD_WORDS.append(word)
                 CARD_WORDS_SET.add(word)
-    CARD_WORDS_FILE.write_text('\n'.join(CARD_WORDS), encoding='utf8')
+    card_words = list(dict.fromkeys(CARD_WORDS))
+    CARD_WORDS_FILE.write_text('\n'.join(card_words), encoding='utf8')
+    card_names = list(dict.fromkeys(CARD_NAMES))
+    CARD_NAMES_FILE.write_text('\n'.join(card_names), encoding='utf8')
 
 
 def do_one(file: Path) -> None:
