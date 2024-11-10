@@ -1950,7 +1950,7 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 .. _`暗之指名者`: https://ygocdb.com/card/name/暗之指名者
 .. _`淘气仙星`: https://ygocdb.com/?search=淘气仙星
 .. _`真红眼钢炎龙`: https://ygocdb.com/card/name/真红眼钢炎龙
-.. _`叛逆者 埃图`: https://ygocdb.com/card/name/叛逆者 埃图
+.. _`叛逆者 埃图`: https://ygocdb.com/card/name/叛逆者%20埃图
 .. _`虹天气 彩虹`: https://ygocdb.com/card/name/虹天气%20彩虹
 .. _`金属化·强化反射装甲`: https://ygocdb.com/card/name/金属化·强化反射装甲
 .. _`凤凰剑圣 基亚·弗里德`: https://ygocdb.com/card/name/凤凰剑圣%20基亚·弗里德
