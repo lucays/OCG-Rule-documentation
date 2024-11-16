@@ -206,7 +206,7 @@ def add_cdb_url(texts: str) -> str:
     for card_name in cards_name_dict:
         card_name = card_name[1:-1].strip('`_')
         if card_name not in have_url_card_names:
-            new_card_url = f'https://ygocdb.com/card/name/{card_name.replace(" ", "%20")}'
+            new_card_url = f'https://ygocdb.com/card/name/{card_name.replace(" ", "%20").replace("/", "%2F")}'
             tail_texts.add(f'.. _`{card_name}`: {new_card_url}')
             NEW_CARD_URLS.add(new_card_url)
     for serie_name in series_name_dict:

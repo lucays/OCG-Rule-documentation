@@ -111,7 +111,7 @@ Q & A
 .. _`恩底弥翁的仆从`: https://ygocdb.com/card/name/恩底弥翁的仆从
 .. _`神之警告`: https://ygocdb.com/card/name/神之警告
 .. _`元素英雄 绝对零度侠`: https://ygocdb.com/card/name/元素英雄%20绝对零度侠
-.. _`星尘龙/爆裂体`: https://ygocdb.com/card/name/星尘龙/爆裂体
+.. _`星尘龙/爆裂体`: https://ygocdb.com/card/name/星尘龙%2F爆裂体
 .. _`青色眼睛的激临`: https://ygocdb.com/card/name/青色眼睛的激临
 .. _`月之书`: https://ygocdb.com/card/name/月之书
 .. _`王宫的弹压`: https://ygocdb.com/card/name/王宫的弹压

@@ -231,7 +231,7 @@ https://ygocdb.com/card/name/烙印的命数
 https://ygocdb.com/card/name/凶饿蛊死灭龙
 https://ygocdb.com/card/name/小灰篮史莱姆
 https://ygocdb.com/card/name/力量结合
-https://ygocdb.com/card/name/奥金魔术师/爆裂体
+https://ygocdb.com/card/name/奥金魔术师%2F爆裂体
 https://ygocdb.com/card/name/娱乐伙伴%20火围巾狮
 https://ygocdb.com/card/name/宝石骑士·珍珠
 https://ygocdb.com/card/name/王道同调士
@@ -1063,7 +1063,7 @@ https://ygocdb.com/card/name/古遗物-圣枪
 https://ygocdb.com/card/name/元素灵剑士·随风
 https://ygocdb.com/card/name/六花精%20仙客来
 https://ygocdb.com/card/name/潜海奇袭II
-https://ygocdb.com/card/name/星尘龙/爆裂体
+https://ygocdb.com/card/name/星尘龙%2F爆裂体
 https://ygocdb.com/card/name/禁忌的一滴
 https://ygocdb.com/card/name/龙骑兵团-小标枪龙
 https://ygocdb.com/card/name/相视相杀
@@ -2874,7 +2874,7 @@ https://ygocdb.com/card/name/光道贼猫%20雷喵
 https://ygocdb.com/card/name/电脑堺都-九龙
 https://ygocdb.com/card/name/星辉士%20夏三角
 https://ygocdb.com/card/name/巨大喷流“冠军”尾宿五
-https://ygocdb.com/card/name/超念力枪手/爆裂体
+https://ygocdb.com/card/name/超念力枪手%2F爆裂体
 https://ygocdb.com/card/name/梦迷枕%20异睡貘
 https://ygocdb.com/card/name/邪遗式人鱼风灵
 https://ygocdb.com/card/name/失落世界
@@ -3351,7 +3351,7 @@ https://ygocdb.com/card/name/物质龙
 https://ygocdb.com/card/name/武装龙·雷电%20LV3
 https://ygocdb.com/card/name/燎星之天火流星神
 https://ygocdb.com/card/name/扰乱皇帝
-https://ygocdb.com/card/name/高速疾行机人/CW骑手
+https://ygocdb.com/card/name/高速疾行机人%2FCW骑手
 https://ygocdb.com/card/name/变形人姐妹
 https://ygocdb.com/card/name/扭蛋魔壳
 https://ygocdb.com/card/name/转生炎兽%20堇色奇美拉
@@ -4548,7 +4548,7 @@ https://ygocdb.com/card/name/灵摆悖论
 https://ygocdb.com/card/name/化学结合-D2O
 https://ygocdb.com/card/name/无限光
 https://ygocdb.com/card/name/神威烈焰加农炮
-https://ygocdb.com/card/name/科技属%20戟炮手/爆裂体
+https://ygocdb.com/card/name/科技属%20戟炮手%2F爆裂体
 https://ygocdb.com/card/name/外界异物
 https://ygocdb.com/card/name/梦幻崩影·狮鹫
 https://ygocdb.com/card/name/神之进化
@@ -4969,7 +4969,7 @@ https://ygocdb.com/card/name/虚无之统括者
 https://ygocdb.com/card/name/『焰圣剑-奥特克莱尔』
 https://ygocdb.com/card/name/兔龙
 https://ygocdb.com/card/name/动力工具龙
-https://ygocdb.com/card/name/巨人斗士/爆裂体
+https://ygocdb.com/card/name/巨人斗士%2F爆裂体
 https://ygocdb.com/card/name/甲虫合体%20六虫锹甲斗士
 https://ygocdb.com/card/name/正正堂堂
 https://ygocdb.com/card/name/焰圣骑士-奥利佛
@@ -5759,3 +5759,7 @@ https://ygocdb.com/card/name/秘仪牌阵
 https://ygocdb.com/card/name/地缚解放
 https://ygocdb.com/card/name/秘仪之力21-世界
 https://ygocdb.com/card/name/空隙之原星龙
+https://ygocdb.com/card/name/融合咒印生物-地
+https://ygocdb.com/card/name/引诱之Δ
+https://ygocdb.com/card/name/百鬼罗刹的大饕兽
+https://ygocdb.com/card/name/杆位

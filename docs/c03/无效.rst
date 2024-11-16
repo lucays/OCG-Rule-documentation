@@ -774,7 +774,7 @@
 .. _`剑斗兽 马斗`: https://ygocdb.com/card/name/剑斗兽%20马斗
 .. _`孤火花`: https://ygocdb.com/card/name/孤火花
 .. _`死灵骑士`: https://ygocdb.com/card/name/死灵骑士
-.. _`星尘龙/爆裂体`: https://ygocdb.com/card/name/星尘龙/爆裂体
+.. _`星尘龙/爆裂体`: https://ygocdb.com/card/name/星尘龙%2F爆裂体
 .. _`罪`: https://ygocdb.com/?search=罪
 .. _`幻妖 胡尔德拉`: https://ygocdb.com/card/name/幻妖%20胡尔德拉
 .. _`白银之迷宫城`: https://ygocdb.com/card/name/白银之迷宫城
@@ -855,7 +855,7 @@
 .. _`超融合`: https://ygocdb.com/card/name/超融合
 .. _`终末之骑士`: https://ygocdb.com/card/name/终末之骑士
 .. _`无限泡影`: https://ygocdb.com/card/name/无限泡影
-.. _`科技属 戟炮手/爆裂体`: https://ygocdb.com/card/name/科技属%20戟炮手/爆裂体
+.. _`科技属 戟炮手/爆裂体`: https://ygocdb.com/card/name/科技属%20戟炮手%2F爆裂体
 .. _`战线复归`: https://ygocdb.com/card/name/战线复归
 .. _`天威无崩之地`: https://ygocdb.com/card/name/天威无崩之地
 .. _`超二重召唤`: https://ygocdb.com/card/name/超二重召唤

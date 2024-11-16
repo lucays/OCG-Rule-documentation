@@ -2906,7 +2906,7 @@
 .. _`落穴`: https://ygocdb.com/?search=落穴
 .. _`海晶少女 青高海牛`: https://ygocdb.com/card/name/海晶少女%20青高海牛
 .. _`兽带斗神“公牛”毕宿一`: https://ygocdb.com/card/name/兽带斗神“公牛”毕宿一
-.. _`科技属 戟炮手/爆裂体`: https://ygocdb.com/card/name/科技属%20戟炮手/爆裂体
+.. _`科技属 戟炮手/爆裂体`: https://ygocdb.com/card/name/科技属%20戟炮手%2F爆裂体
 .. _`雾动机龙·蛇颈龙`: https://ygocdb.com/card/name/雾动机龙·蛇颈龙
 .. _`额外灵摆`: https://ygocdb.com/card/name/额外灵摆
 .. _`群豪世界-百识公国`: https://ygocdb.com/card/name/群豪世界-百识公国

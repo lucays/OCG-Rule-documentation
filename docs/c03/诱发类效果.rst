@@ -788,7 +788,7 @@
 .. _`海龟坏兽 加美西耶勒`: https://ygocdb.com/card/name/海龟坏兽%20加美西耶勒
 .. _`月华龙 黑蔷薇`: https://ygocdb.com/card/name/月华龙%20黑蔷薇
 .. _`魔力吸收`: https://ygocdb.com/card/name/魔力吸收
-.. _`星尘龙/爆裂体`: https://ygocdb.com/card/name/星尘龙/爆裂体
+.. _`星尘龙/爆裂体`: https://ygocdb.com/card/name/星尘龙%2F爆裂体
 .. _`绒儿的魔法阵`: https://ygocdb.com/card/name/绒儿的魔法阵
 .. _`天空圣骑士 阿克珀耳修斯`: https://ygocdb.com/card/name/天空圣骑士%20阿克珀耳修斯
 .. _`幻变骚灵·多功能诈骗者`: https://ygocdb.com/card/name/幻变骚灵·多功能诈骗者

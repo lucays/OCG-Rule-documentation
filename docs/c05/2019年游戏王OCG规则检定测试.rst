@@ -425,7 +425,7 @@
 .. _`装弹枪管狞猛龙`: https://ygocdb.com/card/name/装弹枪管狞猛龙
 .. _`爆裂模式零型`: https://ygocdb.com/card/name/爆裂模式零型
 .. _`魔法筒`: https://ygocdb.com/card/name/魔法筒
-.. _`巨人斗士/爆裂体`: https://ygocdb.com/card/name/巨人斗士/爆裂体
+.. _`巨人斗士/爆裂体`: https://ygocdb.com/card/name/巨人斗士%2F爆裂体
 .. _`幻变骚灵协议`: https://ygocdb.com/card/name/幻变骚灵协议
 .. _`轮回之珀耳修斯`: https://ygocdb.com/card/name/轮回之珀耳修斯
 .. _`才呼粉身`: https://ygocdb.com/card/name/才呼粉身
@@ -534,7 +534,7 @@
 .. _`缺陷编译器`: https://ygocdb.com/card/name/缺陷编译器
 .. _`巨大化`: https://ygocdb.com/card/name/巨大化
 .. _`梦幻崩影·人鱼`: https://ygocdb.com/card/name/梦幻崩影·人鱼
-.. _`科技属 戟炮手/爆裂体`: https://ygocdb.com/card/name/科技属%20戟炮手/爆裂体
+.. _`科技属 戟炮手/爆裂体`: https://ygocdb.com/card/name/科技属%20戟炮手%2F爆裂体
 .. _`魔女术师傅·玻璃女巫`: https://ygocdb.com/card/name/魔女术师傅·玻璃女巫
 .. _`电子界量子龙`: https://ygocdb.com/card/name/电子界量子龙
 .. _`万用电表兵`: https://ygocdb.com/card/name/万用电表兵
@@ -554,7 +554,7 @@
 .. _`荷鲁斯之黑炎龙 LV6`: https://ygocdb.com/card/name/荷鲁斯之黑炎龙%20LV6
 .. _`邪心英雄 地狱小魔`: https://ygocdb.com/card/name/邪心英雄%20地狱小魔
 .. _`炎舞`: https://ygocdb.com/?search=炎舞
-.. _`奥金魔术师/爆裂体`: https://ygocdb.com/card/name/奥金魔术师/爆裂体
+.. _`奥金魔术师/爆裂体`: https://ygocdb.com/card/name/奥金魔术师%2F爆裂体
 .. _`暗黑安琪儿`: https://ygocdb.com/card/name/暗黑安琪儿
 .. _`魔妖仙兽 独眼群主`: https://ygocdb.com/card/name/魔妖仙兽%20独眼群主
 .. _`魔女术师傅·玻璃女巫`: https://ygocdb.com/card/name/魔女术师傅·玻璃女巫
@@ -647,7 +647,7 @@
 .. _`立炎星-董鸡`: https://ygocdb.com/card/name/立炎星-董鸡
 .. _`威风妖怪·蛤蟆`: https://ygocdb.com/card/name/威风妖怪·蛤蟆
 .. _`光道猎犬 雷光`: https://ygocdb.com/card/name/光道猎犬%20雷光
-.. _`星尘龙/爆裂体`: https://ygocdb.com/card/name/星尘龙/爆裂体
+.. _`星尘龙/爆裂体`: https://ygocdb.com/card/name/星尘龙%2F爆裂体
 .. _`儚无水木`: https://ygocdb.com/card/name/儚无水木
 .. _`机动要犀 铁犀三角龙`: https://ygocdb.com/card/name/机动要犀%20铁犀三角龙
 .. _`骸之魔妖-饿者髑髅`: https://ygocdb.com/card/name/骸之魔妖-饿者髑髅

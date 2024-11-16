@@ -3145,7 +3145,7 @@ wiki：
 .. _`亚马逊圣战士`: https://ygocdb.com/card/name/亚马逊圣战士
 .. _`刻印之调停者`: https://ygocdb.com/card/name/刻印之调停者
 .. _`命运之战车`: https://ygocdb.com/card/name/命运之战车
-.. _`科技属 戟炮手/爆裂体`: https://ygocdb.com/card/name/科技属%20戟炮手/爆裂体
+.. _`科技属 戟炮手/爆裂体`: https://ygocdb.com/card/name/科技属%20戟炮手%2F爆裂体
 .. _`动力镐`: https://ygocdb.com/card/name/动力镐
 .. _`天邪鬼的诅咒`: https://ygocdb.com/card/name/天邪鬼的诅咒
 .. _`圣骑士 康尼厄斯`: https://ygocdb.com/card/name/圣骑士%20康尼厄斯

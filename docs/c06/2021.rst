@@ -3631,7 +3631,7 @@
 .. _`魔力诱导者`: https://ygocdb.com/card/name/魔力诱导者
 .. _`失乐之堕天使`: https://ygocdb.com/card/name/失乐之堕天使
 .. _`侵蚀鳞粉`: https://ygocdb.com/card/name/侵蚀鳞粉
-.. _`科技属 戟炮手/爆裂体`: https://ygocdb.com/card/name/科技属%20戟炮手/爆裂体
+.. _`科技属 戟炮手/爆裂体`: https://ygocdb.com/card/name/科技属%20戟炮手%2F爆裂体
 .. _`天邪鬼的诅咒`: https://ygocdb.com/card/name/天邪鬼的诅咒
 .. _`元素英雄 风暴新宇侠`: https://ygocdb.com/card/name/元素英雄%20风暴新宇侠
 .. _`幻变骚灵·十六巫赫斯提`: https://ygocdb.com/card/name/幻变骚灵·十六巫赫斯提
@@ -3780,7 +3780,7 @@
 .. _`英雄障壁`: https://ygocdb.com/card/name/英雄障壁
 .. _`DNA移植手术`: https://ygocdb.com/card/name/DNA移植手术
 .. _`战吼`: https://ygocdb.com/?search=战吼
-.. _`高速疾行机人/CW骑手`: https://ygocdb.com/card/name/高速疾行机人/CW骑手
+.. _`高速疾行机人/CW骑手`: https://ygocdb.com/card/name/高速疾行机人%2FCW骑手
 .. _`连续魔法`: https://ygocdb.com/card/name/连续魔法
 .. _`垂直着陆`: https://ygocdb.com/card/name/垂直着陆
 .. _`龙仪巧-天龙流星QUA`: https://ygocdb.com/card/name/龙仪巧-天龙流星QUA
