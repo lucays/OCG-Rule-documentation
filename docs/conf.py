@@ -156,8 +156,9 @@ htmlhelp_basename = 'ocg-ruledoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
-
+print(f"env: {ENV}")
 if ENV != 'local':
+    print(f"env: {ENV} start get fonts")
     fonts_dir = current_dir / 'fonts'
     fonts_dir.mkdir(exist_ok=True)
     for font in ('NotoSansCJKsc-Bold.otf', 'NotoSansCJKsc-Light.otf'):
@@ -186,6 +187,7 @@ if ENV != 'local':
         font_path.write_bytes(req.content)
 
     fonts_path = str(fonts_dir) + '/'
+    print(f"fonts dir files: {list(fonts_dir.iterdir())}")
     latex_logo = '.static/pdf_cover.png'
     latex_elements = {
         # The paper size ('letterpaper' or 'a4paper').

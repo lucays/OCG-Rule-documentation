@@ -1573,7 +1573,7 @@
 | 支付2000基本分把「`捕食植物 青锁龙森蚺`_」的②效果发动之际，这个效果本身不是『包含把融合怪兽融合召唤』的效果，即使从卡组把「`融合`_」等魔法卡送去墓地来进行融合召唤，也不会适用「`暴走魔法阵`_」的②效果以及「`龙机人`_」的『●这个回合，包含把融合怪兽融合召唤效果的效果由自己发动的场合，那个发动不会被无效化，在那次融合召唤成功时对方不能把魔法·陷阱·怪兽的效果发动』效果。\ `21/6/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22936&keyword=&tag=-1&request_locale=ja>`__
 | 我方发动「`金满而谦虚之壶`_」，『这张卡的发动后，直到回合结束时对方受到的全部伤害变成一半』的效果适用后，我方把「`调皮宝贝·火灯娃`_」的效果发动的场合，『给与对方500伤害』处理让对方受到250伤害，后续的处理也正常进行。\ `21/6/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9692&keyword=&tag=-1&request_locale=ja>`__
 | 对方把手卡的「`原始生命态 尼比鲁`_」的①效果发动时，我方连锁发动「`海造贼-双翼之光照号`_」的②效果的场合，「`原始生命态 尼比鲁`_」的①效果发动被无效，并被破坏，『可以再从卡组把1张「`海造贼`_」卡加入手卡』处理正常进行。对方把手卡的「`效果遮蒙者`_」的①效果发动时，我方连锁发动「`海造贼-双翼之光照号`_」的②效果的场合，「`效果遮蒙者`_」的①效果发动被无效，但是由于「`效果遮蒙者`_」自身已经作为效果发动的cost离开手卡，因此破坏的处理不适用。由于没有成功破坏怪兽，后续的『可以再从卡组把1张「`海造贼`_」卡加入手卡』处理也不进行。\ `21/6/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10996&keyword=&tag=-1&request_locale=ja>`__
-| S召唤后表侧表示加入额外卡组的「`幻透翼疾速龙`_」也可以被「`高速疾行机人/CW骑手`_」的②效果特殊召唤。这个场合必须特殊召唤到额外怪兽区域或者连接怪兽的连接端。\ `21/6/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14262&keyword=&tag=-1&request_locale=ja>`__
+| S召唤后表侧表示加入额外卡组的「`幻透翼疾速龙`_」也可以被「`高速疾行机人/幻透翼骑手`_」的②效果特殊召唤。这个场合必须特殊召唤到额外怪兽区域或者连接怪兽的连接端。\ `21/6/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14262&keyword=&tag=-1&request_locale=ja>`__
 | 「`电子暗黑世界`_」的③效果适用时，以对方墓地的怪兽为对象发动了「`电子暗黑魔角`_」的①效果，处理时「`电子暗黑世界`_」被破坏，③效果不再适用的场合，「`电子暗黑魔角`_」的①效果仍正常适用，从对方墓地把对象怪兽给自身装备。\ `21/6/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19517&keyword=&tag=-1&request_locale=ja>`__
 
 6/13
@@ -3780,7 +3780,7 @@
 .. _`英雄障壁`: https://ygocdb.com/card/name/英雄障壁
 .. _`DNA移植手术`: https://ygocdb.com/card/name/DNA移植手术
 .. _`战吼`: https://ygocdb.com/?search=战吼
-.. _`高速疾行机人/CW骑手`: https://ygocdb.com/card/name/高速疾行机人%2FCW骑手
+.. _`高速疾行机人/幻透翼骑手`: https://ygocdb.com/card/name/高速疾行机人%2F幻透翼骑手
 .. _`连续魔法`: https://ygocdb.com/card/name/连续魔法
 .. _`垂直着陆`: https://ygocdb.com/card/name/垂直着陆
 .. _`龙仪巧-天龙流星QUA`: https://ygocdb.com/card/name/龙仪巧-天龙流星QUA
