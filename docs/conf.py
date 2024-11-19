@@ -13,10 +13,9 @@
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
 import sys
-import logging
 import datetime
 from pathlib import Path
-import requests
+
 current_dir = Path(__file__).parent.resolve()
 # -- Project information -----------------------------------------------------
 ENV = 'dev'  # change ENV = 'local' to make html/epub in local with no fonts.
@@ -156,70 +155,43 @@ htmlhelp_basename = 'ocg-ruledoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
-print(f"env: {ENV}")
-if ENV != 'local':
-    print(f"env: {ENV} start get fonts")
-    fonts_dir = current_dir / 'fonts'
-    fonts_dir.mkdir(exist_ok=True)
-    for font in ('NotoSansCJKsc-Bold.otf', 'NotoSansCJKsc-Light.otf'):
-        font_path = Path(fonts_dir / font)
-        if font_path.exists():
-            logging.info(f'{font_path} exist, continue.')
-            continue
-        url = f'https://raw.githubusercontent.com/notofonts/noto-cjk/main/Sans/OTF/SimplifiedChinese/{font}'
-        req = requests.get(url)
-        font_path.write_bytes(req.content)
-    for font in ('NotoSansMonoCJKsc-Bold.otf', 'NotoSansMonoCJKsc-Regular.otf'):
-        font_path = Path(fonts_dir / font)
-        if font_path.exists():
-            logging.info(f'{font_path} exist, continue.')
-            continue
-        url = f'https://raw.githubusercontent.com/notofonts/noto-cjk/main/Sans/Mono/{font}'
-        req = requests.get(url)
-        font_path.write_bytes(req.content)
-    for font in ('NotoSerifCJKsc-Bold.otf', 'NotoSerifCJKsc-Light.otf'):
-        font_path = Path(fonts_dir / font)
-        if font_path.exists():
-            logging.info(f'{font_path} exist, continue.')
-            continue
-        url = f'https://raw.githubusercontent.com/notofonts/noto-cjk/main/Serif/OTF/SimplifiedChinese/{font}'
-        req = requests.get(url)
-        font_path.write_bytes(req.content)
 
-    fonts_path = str(fonts_dir) + '/'
-    print(f"fonts dir files: {list(fonts_dir.iterdir())}")
-    latex_logo = '.static/pdf_cover.png'
-    latex_elements = {
-        # The paper size ('letterpaper' or 'a4paper').
-        #
-        # 'papersize': 'letterpaper',
+latex_logo = '.static/pdf_cover.png'
+latex_elements = {
+    # The paper size ('letterpaper' or 'a4paper').
+    #
+    # 'papersize': 'letterpaper',
 
-        # The font size ('10pt', '11pt' or '12pt').
-        #
-        # 'pointsize': '10pt',
+    # The font size ('10pt', '11pt' or '12pt').
+    #
+    # 'pointsize': '10pt',
 
-        # Additional stuff for the LaTeX preamble.
-        #
-        # 'preamble': '',
+    # Additional stuff for the LaTeX preamble.
+    #
+    # 'preamble': '',
 
-        # Latex figure (float) alignment
-        #
-        # 'figure_align': 'htbp',
-        'sphinxsetup': 'attentionBorderColor={rgb}{0.012,0.663,0.957}, noteBorderColor={rgb}{0.012,0.663,0.957}, tipBorderColor={rgb}{1,0.412,0.706}',
-        'papersize': 'a4paper',
-        'figure_align': 'H',
-        'extraclassoptions': 'openany,oneside',
-        'preamble': r'''
-            \usepackage[UTF8]{ctex}
-            \usepackage{ulem}
-            \newcommand*{\DUrolestrike}{\sout}
-            \xeCJKsetup{CJKspace=true}
-            \xeCJKDeclareCharClass{CJK}{`①,`②,`③,`④,`⑤,`⇄,`●,`∀}
-            \setCJKmainfont[Path=%s,BoldFont={NotoSerifCJKsc-Bold.otf},ItalicFont={NotoSerifCJKsc-Light.otf}]{NotoSansCJKsc-Light.otf}
-            \setCJKsansfont[Path=%s,BoldFont={NotoSansCJKsc-Bold.otf},ItalicFont={NotoSerifCJKsc-Light.otf}]{NotoSansCJKsc-Light.otf}
-            \setCJKmonofont[Path=%s,BoldFont={NotoSansMonoCJKsc-Bold.otf},ItalicFont={NotoSansMonoCJKsc-Regular.otf}]{NotoSansMonoCJKsc-Regular.otf}
-        ''' % (fonts_path, fonts_path, fonts_path),
-    }
+    # Latex figure (float) alignment
+    #
+    # 'figure_align': 'htbp',
+    'sphinxsetup': 'attentionBorderColor={rgb}{0.012,0.663,0.957}, noteBorderColor={rgb}{0.012,0.663,0.957}, tipBorderColor={rgb}{1,0.412,0.706}',
+    'papersize': 'a4paper',
+    'figure_align': 'H',
+    'extraclassoptions': 'openany,oneside',
+    'preamble': r'''
+        \usepackage{xeCJK}
+        \usepackage{ulem}
+        \newcommand*{\DUrolestrike}{\sout}
+        \xeCJKsetup{CJKspace=true}
+        \xeCJKDeclareCharClass{CJK}{`①,`②,`③,`④,`⑤,`⇄,`●,`∀}
+        \setCJKmainfont{Noto Serif CJK SC}[BoldFont={* Bold}, ItalicFont=AR PL KaitiM GB]
+        \setCJKsansfont{Noto Sans CJK SC}[BoldFont={* Bold}, ItalicFont=AR PL KaitiM GB]
+        \setCJKmonofont{Noto Sans CJK SC}[BoldFont={* Bold}, ItalicFont=AR PL KaitiM GB]
+        \setCJKfallbackfamilyfont{\CJKrmdefault}[AutoFakeBold]{{HanaMinA},{HanaMinB}}
+        \setCJKfallbackfamilyfont{\CJKsfdefault}[AutoFakeBold]{{HanaMinA},{HanaMinB}}
+        \setCJKfallbackfamilyfont{\CJKttdefault}[AutoFakeBold]{{HanaMinA},{HanaMinB}}
+    '''
+}
+
 
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title,
