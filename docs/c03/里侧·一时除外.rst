@@ -39,6 +39,7 @@
 | 里侧表示的怪兽被一时除外的场合，就那样里侧表示除外。之后也是以里侧表示回到场上。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6902&request_locale=ja>`__
 | 特别地，「`未来视界`_」回到场上的效果是入连锁的，如果这个时点效果不适用了，被除外的怪兽就不会回来。这张卡的一时除外的效果处理时，对象怪兽即使变成里侧表示的场合，也表侧表示被除外。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8584&request_locale=ja>`__
 | 例：
+| 里侧表示的卡被一时除外的场合，是里侧表示除外，对方可以发动「`俱舍怒威族的香格里拉茧`_」的②效果。
 | 「`退行手雷破坏者`_」①效果的对象怪兽处理时变成里侧表示的场合，也就那样里侧表示除外，之后里侧表示回到场上。\ `18/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21744&request_locale=ja>`__
 
 指示物
@@ -658,3 +659,4 @@
 .. _`西之七音服·比蒂娅`: https://ygocdb.com/card/name/西之七音服·比蒂娅
 .. _`魊影的阴影 斯诺皮奥斯`: https://ygocdb.com/card/name/魊影的阴影%20斯诺皮奥斯
 .. _`混沌之黑魔术师`: https://ygocdb.com/card/name/混沌之黑魔术师
+.. _`俱舍怒威族的香格里拉茧`: https://ygocdb.com/card/name/俱舍怒威族的香格里拉茧
