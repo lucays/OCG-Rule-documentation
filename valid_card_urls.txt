@@ -1945,7 +1945,7 @@ https://ygocdb.com/card/name/究极爆风弹
 https://ygocdb.com/card/name/璃拉说唱
 https://ygocdb.com/card/name/幻影骑士团%20诅咒标枪
 https://ygocdb.com/card/name/邪神%20神之化身
-https://ygocdb.com/card/name/邪心英雄%20恶刃恶魔
+https://ygocdb.com/card/name/邪心英雄%20恶刃魔鬼
 https://ygocdb.com/card/name/罪%20十字
 https://ygocdb.com/card/name/时间潜行者考勤机蝶
 https://ygocdb.com/card/name/能朋克%20鹿角仙音
@@ -5788,3 +5788,6 @@ https://ygocdb.com/card/name/再生史莱姆
 https://ygocdb.com/card/name/圣天树之幼精
 https://ygocdb.com/card/name/水晶机巧-三位玉晶
 https://ygocdb.com/card/name/剑斗兽%20克劳狄乌斯
+https://ygocdb.com/card/name/卡通黑魔术少女
+https://ygocdb.com/card/name/卡通人鱼
+https://ygocdb.com/card/name/水晶机巧-绿晶龟

@@ -1519,7 +1519,7 @@
 | 除外水属性怪兽发动了「`访问码语者`_」的②效果后，这个回合内，不能除外自身也当作暗·水·风属性怪兽使用的「`防火龙·暗流体-新电磁泄密风`_」来再发动「`访问码语者`_」的②效果。
 
 | 数据库：
-| 我方场上存在「`邪心英雄 恶刃恶魔`_」和装备了「`磁力指轮`_」的怪兽的状况，「`邪心英雄 恶刃恶魔`_」的『对方战斗阶段内，对方场上的全部怪兽变成表侧攻击表示』效果适用，并且对方的怪兽必须攻击，但最终只能攻击装备了「`磁力指轮`_」的怪兽。\ `22/7/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7477&keyword=&tag=-1&request_locale=ja&request_locale=ja>`__
+| 我方场上存在「`邪心英雄 恶刃魔鬼`_」和装备了「`磁力指轮`_」的怪兽的状况，「`邪心英雄 恶刃魔鬼`_」的『对方战斗阶段内，对方场上的全部怪兽变成表侧攻击表示』效果适用，并且对方的怪兽必须攻击，但最终只能攻击装备了「`磁力指轮`_」的怪兽。\ `22/7/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7477&keyword=&tag=-1&request_locale=ja&request_locale=ja>`__
 | 对方场上存在「`皇帝斗技场`_」，双方场上都只存在1只怪兽的状况，我方可以发动「`大逮捕`_」得到对方那只怪兽的控制权。控制权变更不是『让怪兽在自身场上出现』。\ `22/7/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23803&keyword=&tag=-1&request_locale=ja>`__
 | 「`救祓少女·马尔法`_」的①效果处理时，我方主怪兽区域只有1个可用区域的场合，只从手卡把这张卡特殊召唤，这个效果处理完毕，不会从卡组特殊召唤怪兽。\ `22/7/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23802&keyword=&tag=-1&request_locale=ja>`__
 | 场上存在「`技能抽取`_」和因其效果无效化的「`电脑堺狐-仙仙`_」，不能把这张「`技能抽取`_」送去墓地来发动「`禁忌的一滴`_」。\ `22/7/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23801&keyword=&tag=-1&request_locale=ja>`__
@@ -2402,8 +2402,8 @@
 
 | 数据库：
 | 「`I：P伪装舞会莱娜`_」的②效果不是为素材特殊召唤的连接怪兽所持有的效果，因此以其为素材连接召唤的连接怪兽即使效果被无效，也不会被对方的效果破坏。「`炎龙星-狻猊`_」「`风魔女-雪铃`_」等为素材特殊召唤的怪兽被无效的场合也一样。\ `22/11/4 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20015&keyword=&tag=-1&request_locale=ja>`__
-| 我方怪兽区域存在多只持有『在可以攻击的场合必须向这张卡作出攻击』效果的「`邪心英雄 恶刃恶魔`_」等怪兽时，对方必须向持有这些效果的怪兽其中的1只攻击，但由被攻击的我方来选择哪1只怪兽受到攻击。「`地球重力`_」「`No.13 该隐恶魔`_」「`No.31 亚伯恶魔`_」等相同效果的处理也一样。\ `22/11/4 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11167&keyword=&tag=-1&request_locale=ja>`__
-| 我方怪兽区域存在持有『在可以攻击的场合必须向这张卡作出攻击』效果的「`邪心英雄 恶刃恶魔`_」等怪兽和装备了「`磁力指轮`_」的怪兽的状况，对方必须且只能攻击装备了「`磁力指轮`_」的怪兽。「`地球重力`_」「`No.13 该隐恶魔`_」「`No.31 亚伯恶魔`_」等相同效果的处理也一样。\ `22/11/4 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7477&keyword=&tag=-1&request_locale=ja>`__
+| 我方怪兽区域存在多只持有『在可以攻击的场合必须向这张卡作出攻击』效果的「`邪心英雄 恶刃魔鬼`_」等怪兽时，对方必须向持有这些效果的怪兽其中的1只攻击，但由被攻击的我方来选择哪1只怪兽受到攻击。「`地球重力`_」「`No.13 该隐恶魔`_」「`No.31 亚伯恶魔`_」等相同效果的处理也一样。\ `22/11/4 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11167&keyword=&tag=-1&request_locale=ja>`__
+| 我方怪兽区域存在持有『在可以攻击的场合必须向这张卡作出攻击』效果的「`邪心英雄 恶刃魔鬼`_」等怪兽和装备了「`磁力指轮`_」的怪兽的状况，对方必须且只能攻击装备了「`磁力指轮`_」的怪兽。「`地球重力`_」「`No.13 该隐恶魔`_」「`No.31 亚伯恶魔`_」等相同效果的处理也一样。\ `22/11/4 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7477&keyword=&tag=-1&request_locale=ja>`__
 | 场上表侧表示存在的调整数量比场上存在的魔法·陷阱卡数量多的场合，不能发动「`正义盟军 造风鸟`_」的效果；「`正义盟军 造风鸟`_」的效果处理时，场上表侧表示存在的调整数量比场上存在的魔法·陷阱卡数量多的场合，这个效果不适用，不会把任何卡片回到手卡。\ `22/11/4 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7685&keyword=&tag=-1&request_locale=ja>`__
 
 11/5
@@ -4010,7 +4010,7 @@
 .. _`剑斗兽`: https://ygocdb.com/?search=剑斗兽
 .. _`虫惑的落穴`: https://ygocdb.com/card/name/虫惑的落穴
 .. _`森之圣兽 月兔耳兽`: https://ygocdb.com/card/name/森之圣兽%20月兔耳兽
-.. _`邪心英雄 恶刃恶魔`: https://ygocdb.com/card/name/邪心英雄%20恶刃恶魔
+.. _`邪心英雄 恶刃魔鬼`: https://ygocdb.com/card/name/邪心英雄%20恶刃魔鬼
 .. _`音响战士 吉他乐手`: https://ygocdb.com/card/name/音响战士%20吉他乐手
 .. _`未界域的天蛾人`: https://ygocdb.com/card/name/未界域的天蛾人
 .. _`光与暗之龙`: https://ygocdb.com/card/name/光与暗之龙
