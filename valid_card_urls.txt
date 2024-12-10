@@ -5739,7 +5739,7 @@ https://ygocdb.com/card/name/天孔邪鬼
 https://ygocdb.com/card/name/运否的天赋罗-EBI
 https://ygocdb.com/card/name/奈芙提斯之苍凰神
 https://ygocdb.com/card/name/直播☆双子麻烦桑
-https://ygocdb.com/card/name/欢聚友伴·喵喵噜渔猫咪
+https://ygocdb.com/card/name/欢聚友伴·喵喵豹猫
 https://ygocdb.com/card/name/暗镇魂超量龙
 https://ygocdb.com/card/name/火球
 https://ygocdb.com/card/name/歼灭之时空螺旋
@@ -5791,3 +5791,7 @@ https://ygocdb.com/card/name/剑斗兽%20克劳狄乌斯
 https://ygocdb.com/card/name/卡通黑魔术少女
 https://ygocdb.com/card/name/卡通人鱼
 https://ygocdb.com/card/name/水晶机巧-绿晶龟
+https://ygocdb.com/card/name/幻龙
+https://ygocdb.com/card/name/晴之天气模样
+https://ygocdb.com/card/name/螺旋龙
+https://ygocdb.com/card/name/六武众之理
