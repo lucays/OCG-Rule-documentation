@@ -2028,6 +2028,34 @@
 | 邮件：
 | 「`机关傀儡-素瓷人偶`_」的②效果适用后，第2只「`机关傀儡-素瓷人偶`_」在这个回合不能发动②效果。
 
+12/17
+--------
+
+| 数据库：
+| 「`码丽丝<兵卒>睡鼠`_」的①效果适用后，这个回合内「`码丽丝<王后>红心加密`_」发动②效果的场合，攻击力是2500×2+600=5600。\ `24/12/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24124&keyword=&tag=-1&request_locale=ja>`__
+| 我方发动「`原始生命态 尼比鲁`_」①效果时，可以连锁发动『这个效果发动的回合，○○不能特殊召唤』的「`自奏圣乐之阶`_」②效果等效果，从这个连锁块起，这个连锁上不能再发动特殊召唤那以外怪兽的效果，之后「`原始生命态 尼比鲁`_」的①效果处理时，只解放怪兽，不特殊召唤。\ `24/12/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24123&keyword=&tag=-1&request_locale=ja>`__
+
+12/18
+--------
+
+| 邮件：
+| 「`技能抽取`_」在场上存在时，效果无效化的「`深渊之兽 阿鲁伯`_」适用了「`英雄假面`_」的效果，卡名变更后，「`技能抽取`_」从场上离开的场合，这个回合内这只「`深渊之兽 阿鲁伯`_」仍然只当作「`元素英雄`_」怪兽，不当作「`阿不思的落胤`_」。
+
+| wiki:
+| 「`恶作剧风之幼龙妖精`_」在对方回合特殊召唤的场合，不能发动①效果。\ `24/12/18 <https://yugioh-wiki.net/index.php?%B6%F5%B7%E2%A4%C1#faq>`__
+
+12/19
+--------
+
+| wiki:
+| 对方「`燃烧的竹光`_」①效果适用时，是下个我方回合的主要阶段1跳过，这个回合内我方发动「`赌博`_」没有猜中，下个我方整个回合跳过的场合，『下次的对方主要阶段1跳过』也适用完毕，再经过对方回合后的我方回合不会再跳过。\ `24/12/19 <https://yugioh-wiki.net/index.php?%A1%D4%A5%AE%A5%E3%A5%F3%A5%D6%A5%EB%A1%D5#faq>`__
+
+12/20
+--------
+
+| 邮件：
+| 「`龙骑士 黑魔术师`_」确定被战斗破坏的伤害计算后，卡名仍然是「`黑魔术师`_」，会因「`永远之魂`_」的②效果不受对方「`混沌之黑魔术师`_」②效果等的影响。
+
 .. _`太古的白石`: https://ygocdb.com/card/name/太古的白石
 .. _`融合识别`: https://ygocdb.com/card/name/融合识别
 .. _`天幻之龙轮`: https://ygocdb.com/card/name/天幻之龙轮
@@ -3140,3 +3168,13 @@
 .. _`捕食植物 青锁龙森蚺`: https://ygocdb.com/card/name/捕食植物%20青锁龙森蚺
 .. _`真红眼融合`: https://ygocdb.com/card/name/真红眼融合
 .. _`机关傀儡-素瓷人偶`: https://ygocdb.com/card/name/机关傀儡-素瓷人偶
+.. _`原始生命态 尼比鲁`: https://ygocdb.com/card/name/原始生命态%20尼比鲁
+.. _`龙骑士 黑魔术师`: https://ygocdb.com/card/name/龙骑士%20黑魔术师
+.. _`永远之魂`: https://ygocdb.com/card/name/永远之魂
+.. _`恶作剧风之幼龙妖精`: https://ygocdb.com/card/name/恶作剧风之幼龙妖精
+.. _`码丽丝<兵卒>睡鼠`: https://ygocdb.com/card/name/码丽丝<兵卒>睡鼠
+.. _`混沌之黑魔术师`: https://ygocdb.com/card/name/混沌之黑魔术师
+.. _`燃烧的竹光`: https://ygocdb.com/card/name/燃烧的竹光
+.. _`赌博`: https://ygocdb.com/card/name/赌博
+.. _`深渊之兽 阿鲁伯`: https://ygocdb.com/card/name/深渊之兽%20阿鲁伯
+.. _`自奏圣乐之阶`: https://ygocdb.com/card/name/自奏圣乐之阶

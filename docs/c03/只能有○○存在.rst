@@ -168,8 +168,13 @@
 | 多只「`丽之魔妖-妲姬`_」在墓地存在，「`魔妖`_」怪兽从额外卡组往自己场上特殊召唤时，可以连锁把这些「`丽之魔妖-妲姬`_」的②效果都发动。在第1只「`丽之魔妖-妲姬`_」特殊召唤成功后，其余效果不适用，留在墓地。\ `18/8/3 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22067&keyword=&tag=-1&request_locale=ja>`__
 | 对方场上存在「`坏兽`_」怪兽时，不能把对方场上的怪兽（包括那只「`坏兽`_」怪兽）解放来特殊召唤自己手卡的「`坏兽`_」怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19940&keyword=&tag=-1&request_locale=ja>`__
 | 卡组存在和「`神禽王 亚力克特`_」相同等级的鸟兽族怪兽时，才能解放「`神禽王 亚力克特`_」来发动「`燕巢`_」，处理时由于场上已经不存在「`神禽王 亚力克特`_」，可以特殊召唤第2只。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13830&keyword=&tag=-1&request_locale=ja>`__
+| 魔法·陷阱卡区域已经存在「`火山烈焰加农炮`_」的状况，如果手卡·卡组存在其他「`烈焰加农炮`_」卡，发动「`火山缘发弹`_」的第2个『●』效果后，除外这张「`火山烈焰加农炮`_」的场合，可以从手卡·卡组把另1张「`火山烈焰加农炮`_」表侧表示放置在场上。（如果手卡·卡组只存在「`火山烈焰加农炮`_」，不能发动第2个『●』效果）\ `24/4/3 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23988&keyword=&tag=-1&request_locale=ja>`__
 
-.. attention:: 特别地，即使场上存在「`坏兽`_」怪兽，也可以发动「`遭受妨碍的坏兽安眠`_」。「`坏兽`_」怪兽在内的全部怪兽破坏后，再正常把2只「`坏兽`_」怪兽特殊召唤到自己·对方场上。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19928&keyword=&tag=-1&request_locale=ja>`__
+.. attention::
+
+   | 特别地，
+   | 自己魔法·陷阱卡区域存在「`晴之天气模样`_」，手卡·卡组只存在「`晴之天气模样`_」时，也可以把「`晴之天气模样`_」送去墓地来发动「`晴天气 锈红`_」或「`雷天气 姜黄`_」的①效果，把第2张「`晴之天气模样`_」表侧表示放置。
+   | 即使场上存在「`坏兽`_」怪兽，也可以发动「`遭受妨碍的坏兽安眠`_」。「`坏兽`_」怪兽在内的全部怪兽破坏后，再正常把2只「`坏兽`_」怪兽特殊召唤到自己·对方场上。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19928&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 这类文本是卡片自身的效果，因此可以被无效。不过，即使把场上持有这类文本的卡的效果无效，由于手卡·墓地·除外·卡组·额外卡组·场上里侧表示的卡没有被无效，因此第2张仍然不能在场上表侧表示出现。
    | 只在连第2张卡也被无效的场合，可以出现在怪兽区域。
@@ -469,3 +474,9 @@
 .. _`星遗物-『星枪』`: https://ygocdb.com/card/name/星遗物-『星枪』
 .. _`过浅的墓穴`: https://ygocdb.com/card/name/过浅的墓穴
 .. _`混沌魅惑的女王`: https://ygocdb.com/card/name/混沌魅惑的女王
+.. _`晴天气 锈红`: https://ygocdb.com/card/name/晴天气%20锈红
+.. _`雷天气 姜黄`: https://ygocdb.com/card/name/雷天气%20姜黄
+.. _`火山缘发弹`: https://ygocdb.com/card/name/火山缘发弹
+.. _`烈焰加农炮`: https://ygocdb.com/?search=烈焰加农炮
+.. _`火山烈焰加农炮`: https://ygocdb.com/card/name/火山烈焰加农炮
+.. _`晴之天气模样`: https://ygocdb.com/card/name/晴之天气模样
