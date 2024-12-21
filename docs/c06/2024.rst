@@ -2056,6 +2056,12 @@
 | 邮件：
 | 「`龙骑士 黑魔术师`_」确定被战斗破坏的伤害计算后，卡名仍然是「`黑魔术师`_」，会因「`永远之魂`_」的②效果不受对方「`混沌之黑魔术师`_」②效果等的影响。
 
+12/21
+--------
+
+| 数据库：
+| 「`自奏圣乐的通天塔`_」的②效果适用中，「`宵星之骑士 恩利尔吉尔苏`_」从额外怪兽区域送去墓地的回合，不论是在对方回合还是我方回合的任何阶段，只要在伤害步骤以外，就可以发动「`宵星之骑士 恩利尔吉尔苏`_」的②效果。\ `24/12/21 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24120&keyword=&tag=-1&request_locale=ja>`__
+
 .. _`太古的白石`: https://ygocdb.com/card/name/太古的白石
 .. _`融合识别`: https://ygocdb.com/card/name/融合识别
 .. _`天幻之龙轮`: https://ygocdb.com/card/name/天幻之龙轮
@@ -3178,3 +3184,5 @@
 .. _`赌博`: https://ygocdb.com/card/name/赌博
 .. _`深渊之兽 阿鲁伯`: https://ygocdb.com/card/name/深渊之兽%20阿鲁伯
 .. _`自奏圣乐之阶`: https://ygocdb.com/card/name/自奏圣乐之阶
+.. _`宵星之骑士 恩利尔吉尔苏`: https://ygocdb.com/card/name/宵星之骑士%20恩利尔吉尔苏
+.. _`自奏圣乐的通天塔`: https://ygocdb.com/card/name/自奏圣乐的通天塔
