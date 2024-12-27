@@ -93,12 +93,12 @@
 
 -  | 基本上，即使处理时后1步不能适用的场合，前1步也会适用。
    | 例：
-   | 「`水晶机巧-中枢黑晶`_」的①效果处理时，自身不在怪兽区域表侧表示存在的场合，仍然会特殊召唤作为对象的怪兽，不进行S召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8715&keyword=&tag=-1&request_locale=ja>`__
+   | 「`水晶机巧-胶子黑晶`_」的①效果处理时，自身不在怪兽区域表侧表示存在的场合，仍然会特殊召唤作为对象的怪兽，不进行S召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8715&keyword=&tag=-1&request_locale=ja>`__
 
    .. note::
 
       | 特别地，「`水晶机巧-量子白晶`_」「`宝玉的牵绊`_」的①效果这样，在效果处理时，前1步处理需要根据后1步的处理进行，且后1步必须适用的效果，在效果处理时后1步不能适用的场合，连带前1步也不会适用。
-      | 而「`水晶机巧-中枢黑晶`_」「`斩机超阶乘`_」的①效果这样，在发动时就决定好了前1步如何处理的效果，在效果处理时后1步不能适用的场合，会处理到前1步正常适用为止。
+      | 而「`水晶机巧-胶子黑晶`_」「`斩机超阶乘`_」的①效果这样，在发动时就决定好了前1步如何处理的效果，在效果处理时后1步不能适用的场合，会处理到前1步正常适用为止。
       | 例：
       | 「`宝玉的牵绊`_」的①效果处理时，卡组只存在1种「`宝玉兽`_」怪兽的场合，也不会从卡组把1只「`宝玉兽`_」怪兽加入手卡。
       | 「`水晶机巧-量子白晶`_」的①效果处理时，自身不在怪兽区域表侧表示存在的场合，这个效果完全不适用，不会把任何怪兽特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8751&keyword=&tag=-1&request_locale=ja>`__
@@ -1127,7 +1127,7 @@ cost
 .. _`世海龙 西兰提斯`: https://ygocdb.com/card/name/世海龙%20西兰提斯
 .. _`狱火机·提耶拉`: https://ygocdb.com/card/name/狱火机·提耶拉
 .. _`光之召集`: https://ygocdb.com/card/name/光之召集
-.. _`水晶机巧-中枢黑晶`: https://ygocdb.com/card/name/水晶机巧-中枢黑晶
+.. _`水晶机巧-胶子黑晶`: https://ygocdb.com/card/name/水晶机巧-胶子黑晶
 .. _`拓扑篡改感染龙`: https://ygocdb.com/card/name/拓扑篡改感染龙
 .. _`闪珖龙 星尘`: https://ygocdb.com/card/name/闪珖龙%20星尘
 .. _`黑蔷薇龙`: https://ygocdb.com/card/name/黑蔷薇龙

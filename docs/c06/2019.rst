@@ -189,7 +189,7 @@
 | 数据库：
 | 「`死灵守卫者`_」的效果不是在发动的处理时立即处理的效果，即使在「`暗黑方界神 深红之挪婆`_」攻击宣言时发动这个效果，也会把这次攻击无效。\ `19/2/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22470&keyword=&tag=-1&request_locale=ja>`__
 | 「`命运之一枚`_」效果处理时有一方玩家卡组数量不足4张的场合，整个效果不适用，不会从卡组选卡片。\ `19/2/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22466&keyword=&tag=-1&request_locale=ja>`__
-| 「`闪刀机关-多任务战刀机`_」在场上表侧表示存在，「`虚拟世界`_」的效果把「`闪刀空域-零区`_」发动的场合，不当作自己发动了「`闪刀`_」魔法卡。没有其他「`闪刀`_」魔法卡发动的状况，结束阶段「`闪刀机关-多任务战刀机`_」的②效果不能发动。\ `19/2/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22468&keyword=&tag=-1&request_locale=ja>`__
+| :strike:`「闪刀机关-多任务战刀机」在场上表侧表示存在，「虚拟世界」的效果把「闪刀空域-零区」发动的场合，不当作自己发动了「闪刀」魔法卡。没有其他「闪刀」魔法卡发动的状况，结束阶段「闪刀机关-多任务战刀机」的②效果不能发动。`
 
 2/13
 --------

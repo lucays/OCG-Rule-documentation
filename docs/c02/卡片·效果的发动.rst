@@ -223,6 +223,7 @@
 | 例：
 | 「`诱饵人偶`_」把陷阱卡强制发动时，也计入卡名1回合1次。我方或者对方用「`诱饵人偶`_」把我方的「`礼物卡`_」发动后，我方不能在这个回合再发动「`礼物卡`_」。
 | 对方「`自然蔷薇鞭`_」或者「`大将军 紫炎`_」的效果适用中，我方通过「`尸界的班西`_」的②效果把「`不死世界`_」发动的场合，这个回合我方不能再发动其他魔法·陷阱卡。
+| 「`闪刀机关-多任务战刀机`_」在场上表侧表示存在，「`虚拟世界`_」的效果把「`闪刀空域-零区`_」发动的场合，当作自己发动了1次「`闪刀`_」魔法卡。没有其他「`闪刀`_」魔法卡发动的状况，结束阶段仍然可以发动「`闪刀机关-多任务战刀机`_」的②效果。\ `24/12/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22468&keyword=&tag=-1&request_locale=ja>`__
 | 「`吸血鬼移地`_」等效果把场地魔法卡发动、「`娱乐伙伴 天空魔术家`_」的②效果和「`真龙战士 点火烈·炽热`_」的①效果把永续魔法卡发动的场合，「`凤凰剑圣 基亚·弗里德`_」「`暗黑荷鲁斯龙`_」等效果不能发动。「`淘气仙星·坎迪娜`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20802&keyword=&tag=-1&request_locale=ja>`__ 「`王立魔法图书馆`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20506&keyword=&tag=-1&request_locale=ja>`__ 「`魔术师的右手`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11939&keyword=&tag=-1&request_locale=ja>`__ 等效果不适用。
 | 「`吸血鬼移地`_」等效果把场地魔法卡发动、「`真龙战士 点火烈·炽热`_」的①效果把永续魔法卡发动的场合，「`娱乐伙伴 天空魔术家`_」的①效果不能发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20507&keyword=&tag=-1&request_locale=ja>`__\
 | 通过「`弹出式翻页`_」「`诱饵人偶`_」「`二重魔法`_」等效果把「`拉比林斯迷宫`_」卡发动的回合，不能发动「`迷宫城的白银姬`_」的①效果。\ `22/7/22 <https://yugioh-wiki.net/index.php?%A1%D4%CC%C2%B5%DC%BE%EB%A4%CE%C7%F2%B6%E4%C9%B1%A1%D5#faq>`__
@@ -456,3 +457,7 @@
 .. _`鬼签`: https://ygocdb.com/card/name/鬼签
 .. _`亚马逊拜谒间`: https://ygocdb.com/card/name/亚马逊拜谒间
 .. _`亚马逊的秘汤`: https://ygocdb.com/card/name/亚马逊的秘汤
+.. _`闪刀空域-零区`: https://ygocdb.com/card/name/闪刀空域-零区
+.. _`闪刀机关-多任务战刀机`: https://ygocdb.com/card/name/闪刀机关-多任务战刀机
+.. _`闪刀`: https://ygocdb.com/?search=闪刀
+.. _`虚拟世界`: https://ygocdb.com/card/name/虚拟世界

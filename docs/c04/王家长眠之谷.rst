@@ -19,7 +19,7 @@
 -  | 同时把包含墓地在内的多个区域的卡除外的效果中，类似「`索菲娅之影灵衣`_」的②效果这样，必须都除外的效果，如果只有墓地存在卡，不能发动。其他要除外的区域存在卡的场合，可以发动这类效果，效果处理时要除外墓地，且墓地存在卡的场合，这个效果无效，否则正常适用。
    | 「`冰结界之龙 三叉龙`_」这样，可以选不除外墓地的卡的效果，处理时不能选除外墓地。即使除外了场上的「`王家长眠之谷`_」，也不能再除外墓地。
    | 例：
-   | 场上存在「`王家长眠之谷`_」时，即使对方墓地存在魔法·陷阱卡，只要对方场上也存在，我方就可以发动「`水晶机巧-轴子凤凰`_」的①效果，这个效果处理时，对方墓地存在魔法·陷阱卡的场合，这个效果无效，否则正常适用。\ `24/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19660&keyword=&tag=-1&request_locale=ja>`__
+   | 场上存在「`王家长眠之谷`_」时，即使对方墓地存在魔法·陷阱卡，只要对方场上也存在，我方就可以发动「`水晶机巧-量子红雀白晶`_」的①效果，这个效果处理时，对方墓地存在魔法·陷阱卡的场合，这个效果无效，否则正常适用。\ `24/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19660&keyword=&tag=-1&request_locale=ja>`__
    | 场上存在「`王家长眠之谷`_」时，只在我方怪兽区域表侧表示存在1或2种「`冰结界`_」S怪兽，且对方场上存在卡片的状况，或者我方怪兽区域表侧表示存在3种「`冰结界`_」S怪兽，且对方场上或者手卡有1处存在卡片的状况，我方可以发动「`三叉龙的鼓动`_」。这个效果处理时，如果要进行除外墓地的处理且对方墓地存在卡片，这个效果无效，否则正常适用。\ `24/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24043&keyword=&tag=-1&request_locale=ja>`__
    | 「`王家长眠之谷`_」的②效果适用中，也可以发动「`青色眼睛的激临`_」。这个效果处理时墓地存在卡片的场合，这个效果无效，否则正常适用。\ `24/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12596&keyword=&tag=-1&request_locale=ja>`__
    | 对方「`王家长眠之谷`_」的②效果适用中，我方可以发动「`冰结界之龙 三叉龙`_」的①效果。这个场合最多只能选对方手卡·场上的1张卡除外。即使把场上这张「`王家长眠之谷`_」除外，也不能再除外墓地的卡。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9670&keyword=&tag=-1&request_locale=ja>`__
@@ -196,7 +196,7 @@
 .. _`混沌无限`: https://ygocdb.com/card/name/混沌无限
 .. _`机皇`: https://ygocdb.com/?search=机皇
 .. _`灵灭术师 海空`: https://ygocdb.com/card/name/灵灭术师%20海空
-.. _`水晶机巧-轴子凤凰`: https://ygocdb.com/card/name/水晶机巧-轴子凤凰
+.. _`水晶机巧-量子红雀白晶`: https://ygocdb.com/card/name/水晶机巧-量子红雀白晶
 .. _`系统崩溃`: https://ygocdb.com/card/name/系统崩溃
 .. _`三叉龙的鼓动`: https://ygocdb.com/card/name/三叉龙的鼓动
 .. _`冰结界`: https://ygocdb.com/?search=冰结界

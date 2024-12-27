@@ -3994,7 +3994,7 @@ https://ygocdb.com/card/name/彼岸的黑天使%20基路伯
 https://ygocdb.com/card/name/交织绵羊
 https://ygocdb.com/card/name/氧素龙
 https://ygocdb.com/card/name/人偶城堡
-https://ygocdb.com/card/name/水晶机巧-量子刚玉
+https://ygocdb.com/card/name/水晶机巧-量子刚玉白晶
 https://ygocdb.com/card/name/电子界时钟龙
 https://ygocdb.com/card/name/魔界台本「魔王的降临」
 https://ygocdb.com/card/name/No.26%20次元孔路%20绕道章鱼
@@ -4480,7 +4480,7 @@ https://ygocdb.com/card/name/铁兽的咆哮
 https://ygocdb.com/card/name/念力调整
 https://ygocdb.com/card/name/幻魔皇%20拉比艾尔-天界蹂躏拳
 https://ygocdb.com/card/name/妖醒龙%20幼生狱风神
-https://ygocdb.com/card/name/水晶机巧-轴子凤凰
+https://ygocdb.com/card/name/水晶机巧-量子红雀白晶
 https://ygocdb.com/card/name/福悲喜
 https://ygocdb.com/card/name/电脑堺姬-娘娘
 https://ygocdb.com/card/name/复仇死者的续魂再结
@@ -5123,7 +5123,7 @@ https://ygocdb.com/card/name/三角阵-O
 https://ygocdb.com/card/name/No.1%20感染蝇王%20巴力·西卜
 https://ygocdb.com/card/name/地狱猛禽翼龙
 https://ygocdb.com/card/name/月影龙%20基利亚
-https://ygocdb.com/card/name/水晶机巧-中枢黑晶
+https://ygocdb.com/card/name/水晶机巧-胶子黑晶
 https://ygocdb.com/card/name/火山烈焰加农炮
 https://ygocdb.com/card/name/超重神将%20遮那王-O
 https://ygocdb.com/card/name/刚鬼%20双人夹击猪
@@ -5802,3 +5802,10 @@ https://ygocdb.com/card/name/黑魔术的继承
 https://ygocdb.com/card/name/超级量子机神王%20大磁炎
 https://ygocdb.com/card/name/码丽丝<兵卒>睡鼠
 https://ygocdb.com/card/name/宵星之骑士%20恩利尔吉尔苏
+https://ygocdb.com/card/name/DD%20计数测量员
+https://ygocdb.com/card/name/半龙女仆·蒸馏室龙女
+https://ygocdb.com/card/name/结晶魔术%20光之泪
+https://ygocdb.com/card/name/莫忘卡库塔斯
+https://ygocdb.com/card/name/闪光No.38%20银河巨神
+https://ygocdb.com/card/name/奴隶熊
+https://ygocdb.com/card/name/DD%20额外测量员
