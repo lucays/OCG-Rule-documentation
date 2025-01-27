@@ -76,23 +76,13 @@ pygments_style = "sphinx"
 # a list of builtin themes.
 # html_theme = "sphinx_rtd_theme"
 # html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
-card_words_path = current_dir.parent.resolve() / 'card_words.txt'
-card_words = card_words_path.read_text(encoding='utf8').split('\n')
-card_words = [f'{word} 3 n' for word in card_words if word]
 
 html_theme = 'furo'
 html_logo = ".static/logo.webp"
 html_title = "OCG Rule"
 html_permalinks_icon = "¶"
 html_search_language = "zh"
-package_path = [i for i in sys.path if 'site-packages' in i][0]
-dict_path = Path(package_path) / 'jieba/dict.txt'
-dict_path_texts = dict_path.read_text(encoding='utf8').split('\n')
-dict_path_texts.extend(card_words)
-dict_path_texts = [i for i in dict_path_texts if i.strip()]
-dict_path.write_text('\n'.join(dict_path_texts), encoding='utf8')
-print('jieba dict path:', dict_path, ' dict length', len(dict_path_texts))
-html_search_options = {'dict': str(dict_path)}
+
 html_use_opensearch = 'https://ocg-rule.readthedocs.io/zh_CN/latest/'
 html_theme_options = {
     "navigation_with_keys": True,
