@@ -99,7 +99,7 @@
 | 「`融合识别`_」的①效果处理时，给对方观看「`圣蓟花`_」的场合，可以把作为对象的那只怪兽和对方1只表侧表示怪兽解放作为融合素材来特殊召唤「`赎罪神女`_」。\ `24/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24135&keyword=&tag=-1&request_locale=ja>`__
 | 墓地不存在怪兽时，不能取除作为X素材的「`岩征龙-锈龙`_」发动「`极征龙-烛龙`_」的①效果。\ `24/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24136&keyword=&tag=-1&request_locale=ja>`__
 | 「`极征龙-烛龙`_」的①效果发动时，不论送去墓地的怪兽是什么，都不能连锁发动「`灰流丽`_」「`珠泪哀歌族·鲁莎卡人鱼`_」「`星尘龙`_」等的效果。\ `24/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24138&keyword=&tag=-1&request_locale=ja>`__
-| 额外卡组只存在「`No.69 纹章神 盾徽-神之愤怒`_」时，不能以包含「`纹章兽 狮鹫`_」在内的2只「`纹章兽`_」怪兽为对象发动「`高等纹章术`_」；额外卡组存在其他4×2的「`纹章兽`_」X怪兽时，可以这样发动，并X召唤「`No.69 纹章神 盾徽-神之愤怒`_」。\ `24/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24137&keyword=&tag=-1&request_locale=ja>`__
+| 额外卡组只存在「`No.69 纹章神 盾徽`_」时，不能以包含「`纹章兽 狮鹫`_」在内的2只「`纹章兽`_」怪兽为对象发动「`高等纹章术`_」；额外卡组存在其他4×2的「`纹章兽`_」X怪兽时，可以这样发动，并X召唤「`No.69 纹章神 盾徽`_」。\ `24/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24137&keyword=&tag=-1&request_locale=ja>`__
 
 1/26
 -------
@@ -259,3 +259,4 @@
 .. _`纹章兽 狮鹫`: https://ygocdb.com/card/name/纹章兽%20狮鹫
 .. _`高等纹章术`: https://ygocdb.com/card/name/高等纹章术
 .. _`DNA改造手术`: https://ygocdb.com/card/name/DNA改造手术
+.. _`No.69 纹章神 盾徽`: https://ygocdb.com/card/name/No.69%20纹章神%20盾徽
