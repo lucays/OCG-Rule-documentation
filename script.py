@@ -7,7 +7,7 @@ import requests
 
 current_dir = Path(__file__).parent.resolve()
 
-HTTPS_PROXY = 'http://127.0.0.1:7897'
+HTTPS_PROXY = 'http://127.0.0.1:7890'
 
 VALID_CARD_URLS_LST = []
 ALL_CARD_URLS, NEW_CARD_URLS, VALID_CARD_URLS = set(), set(), set()
@@ -15,12 +15,6 @@ VALID_CARD_URLS_FILE = current_dir / 'valid_card_urls.txt'
 if VALID_CARD_URLS_FILE.exists():
     VALID_CARD_URLS_LST = VALID_CARD_URLS_FILE.read_text(encoding='utf8').split()
     VALID_CARD_URLS = set(VALID_CARD_URLS_LST)
-CARD_WORDS = []
-CARD_WORDS_SET = set()
-CARD_WORDS_FILE = current_dir / 'card_words.txt'
-if CARD_WORDS_FILE.exists():
-    CARD_WORDS = CARD_WORDS_FILE.read_text(encoding='utf8').split()
-    CARD_WORDS_SET = set(CARD_WORDS)
 
 NEED_REPLACED_NAMES = {
     '「E·HERO': '「元素英雄',
@@ -279,18 +273,6 @@ def replace_not_card(texts: str):
     return texts
 
 
-def get_card_name_series(texts: str):
-    for line in texts.split('\n'):
-        if line.startswith('.. _`'):
-            name = line.split('.. _`')[1].split('`')[0]
-            for word in name.split():
-                if word in CARD_WORDS_SET:
-                    continue
-                CARD_WORDS.append(word)
-                CARD_WORDS_SET.add(word)
-    CARD_WORDS_FILE.write_text('\n'.join(CARD_WORDS), encoding='utf8')
-
-
 def do_one(file: Path) -> None:
     old_texts = file.read_text(encoding='utf8')
     texts = replace_en_name(old_texts)
@@ -299,7 +281,6 @@ def do_one(file: Path) -> None:
     texts = strike_completion(texts)
     texts = replace_not_card(texts)
     exract_card_urls(texts)
-    get_card_name_series(texts)
     if texts != old_texts:
         file.write_text(texts, encoding='utf8', newline='\n')
 

@@ -130,7 +130,6 @@
 
       | 和\ `『A，B』`_\ 部分一样，如果前后效果处理有关联，在效果处理时后1步不能适用的场合，前1步基本上也不会适用。
       | 例：
-      | 「`光之召集`_」的①效果处理时，墓地的光属性怪兽比自己手卡数要少的场合，这个效果完全不适用，也不会丢弃手卡。\ `09/3/14 <https://yugioh-wiki.net/index.php?%A1%D4%B8%F7%A4%CE%BE%A4%BD%B8%A1%D5#faq>`__
       | 「`天底的使徒`_」的①效果处理时，卡组·墓地不存在「`教导`_」怪兽或者「`阿不思的落胤`_」的场合，这个效果完全不适用，『从额外卡组把1只怪兽送去墓地』的处理也不会进行。\ `20/6/4 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8342&keyword=&tag=-1&request_locale=ja>`__
 
       | 特别地，解放植物族怪兽发动的「`六花绚烂`_」的①效果处理时，卡组不存在和已有的「`六花`_」怪兽的卡名不同但原本等级相同的植物族怪兽的场合，也可以从卡组把1只「`六花`_」怪兽加入手卡。（存在的场合，前段处理只能从符合条件的「`六花`_」怪兽中选）
@@ -1126,7 +1125,6 @@ cost
 .. _`冰冻诅咒的神碑`: https://ygocdb.com/card/name/冰冻诅咒的神碑
 .. _`世海龙 西兰提斯`: https://ygocdb.com/card/name/世海龙%20西兰提斯
 .. _`狱火机·提耶拉`: https://ygocdb.com/card/name/狱火机·提耶拉
-.. _`光之召集`: https://ygocdb.com/card/name/光之召集
 .. _`水晶机巧-胶子黑晶`: https://ygocdb.com/card/name/水晶机巧-胶子黑晶
 .. _`拓扑篡改感染龙`: https://ygocdb.com/card/name/拓扑篡改感染龙
 .. _`闪珖龙 星尘`: https://ygocdb.com/card/name/闪珖龙%20星尘
