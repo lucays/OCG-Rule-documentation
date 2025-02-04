@@ -97,7 +97,7 @@
 | 数据库：
 | 「`融合强兵`_」的①效果处理时，给对方观看「`赎罪神女`_」的场合，『那只怪兽有卡名记述的1只融合素材怪兽』只参照融合怪兽记述融合素材的那行文本，只能特殊召唤「`蓟花之妖魔`_」。\ `24/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24134&keyword=&tag=-1&request_locale=ja>`__
 | 「`融合识别`_」的①效果处理时，给对方观看「`圣蓟花`_」的场合，可以把作为对象的那只怪兽和对方1只表侧表示怪兽解放作为融合素材来特殊召唤「`赎罪神女`_」。\ `24/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24135&keyword=&tag=-1&request_locale=ja>`__
-| 墓地不存在怪兽时，不能取除作为X素材的「`岩征龙-锈龙`_」发动「`极征龙-烛龙`_」的①效果。\ `24/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24136&keyword=&tag=-1&request_locale=ja>`__
+| 墓地不存在怪兽时，不能把「`岩征龙-锈龙`_」送去墓地来发动「`极征龙-烛龙`_」的①效果。\ `24/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24136&keyword=&tag=-1&request_locale=ja>`__
 | 「`极征龙-烛龙`_」的①效果发动时，不论送去墓地的怪兽是什么，都不能连锁发动「`灰流丽`_」「`珠泪哀歌族·鲁莎卡人鱼`_」「`星尘龙`_」等的效果。\ `24/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24138&keyword=&tag=-1&request_locale=ja>`__
 | 额外卡组只存在「`No.69 纹章神 盾徽`_」时，不能以包含「`纹章兽 狮鹫`_」在内的2只「`纹章兽`_」怪兽为对象发动「`高等纹章术`_」；额外卡组存在其他4×2的「`纹章兽`_」X怪兽时，可以这样发动，并X召唤「`No.69 纹章神 盾徽`_」。\ `24/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24137&keyword=&tag=-1&request_locale=ja>`__
 
@@ -163,6 +163,21 @@
 | 以怪兽区域「`阿尔戈☆群星-紫电的堤丢尔`_」为对象发动「`雷破`_」，连锁发动「`阿尔戈☆群星-紫电的堤丢尔`_」的效果放置到魔法·陷阱卡区域的场合，仍然被破坏；「`雷破`_」换成「`赐炎之咎姬`_」③效果的场合，由于效果处理是『那些怪兽破坏』，此时「`阿尔戈☆群星-紫电的堤丢尔`_」已经不是怪兽，结果「`赐炎之咎姬`_」③效果完全不适用。\ `24/1/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24141&keyword=&tag=-1&request_locale=ja>`__
 | 「`亡龙之旋律`_」等宣言卡名的效果不能宣言「`不明`_」。\ `24/1/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24142&keyword=&tag=-1&request_locale=ja>`__
 | 以多张卡为对象发动「`械刀婪魔皇断`_」后，那个效果处理时部分对象不在场上存在的场合，剩下作为对象的卡每有1张，我方1张手卡或额外卡组6张卡里侧除外，那些卡回到手卡。\ `24/1/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24143&keyword=&tag=-1&request_locale=ja>`__
+
+25/02
+========
+
+2/2
+------
+
+| 邮件：
+| 我方发动「`大逮捕`_」，得到对方怪兽的控制权后，那只怪兽因「`月之书`_」的效果而变成里侧表示，控制权归还的场合，是我方可以发动「`企鹅勇士`_」的①效果。
+
+2/4
+------
+
+| 数据库：
+| 对方场上只存在也当作陷阱卡使用的陷阱怪兽和连接怪兽，发动「`魔炮战机 达磨羯磨`_」，陷阱怪兽盖放在魔法·陷阱卡区域的场合，不当作成功适用了『变成里侧守备表示』，因此『那之后』的处理不适用。\ `24/2/4 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24145&keyword=&tag=-1&request_locale=ja>`__
 
 .. _`电力军曹`: https://ygocdb.com/card/name/电力军曹
 .. _`融合强兵`: https://ygocdb.com/card/name/融合强兵
@@ -298,3 +313,5 @@
 .. _`篮板球`: https://ygocdb.com/card/name/篮板球
 .. _`龙华`: https://ygocdb.com/?search=龙华
 .. _`妖龙之禁姬`: https://ygocdb.com/card/name/妖龙之禁姬
+.. _`企鹅勇士`: https://ygocdb.com/card/name/企鹅勇士
+.. _`魔炮战机 达磨羯磨`: https://ygocdb.com/card/name/魔炮战机%20达磨羯磨
