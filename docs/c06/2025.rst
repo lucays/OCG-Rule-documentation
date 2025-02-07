@@ -341,5 +341,5 @@
 .. _`天罚`: https://ygocdb.com/card/name/天罚
 .. _`幻煌龙 螺旋`: https://ygocdb.com/card/name/幻煌龙%20螺旋
 .. _`高等仪式术`: https://ygocdb.com/card/name/高等仪式术
-.. _`电子龙核`: https://ygocdb.com/card/name/电子龙核
+.. _`电子龙核`: https://ygocdb.com/?search=电子龙核
 .. _`墓穴的指名者`: https://ygocdb.com/card/name/墓穴的指名者
