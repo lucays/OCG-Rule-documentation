@@ -22,16 +22,16 @@
 | 对方以自己场上的「`隆隆隆咕噜`_」为对象发动「`大逮捕`_」，我方连锁发动「`扰乱三人组`_」让对方没有可用的怪兽区域的场合，这只「`隆隆隆咕噜`_」被破坏，不当作被效果破坏，「`大逮捕`_」也被破坏。
 
 | 数据库：
-| 「`电子壶`_」的①效果处理时，从回合玩家开始进行『那之后』的处理，规则上当作双方同时进行，特殊召唤了「`化石恐龙 肿头龙`_」的场合，非回合玩家仍然正常特殊召唤怪兽。\ `24/1/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24132&keyword=&tag=-1&request_locale=ja>`__
+| 「`电子壶`_」的①效果处理时，从回合玩家开始进行『那之后』的处理，规则上当作双方同时进行，特殊召唤了「`化石恐龙 肿头龙`_」的场合，非回合玩家仍然正常特殊召唤怪兽。\ `25/1/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24132&keyword=&tag=-1&request_locale=ja>`__
 
 1/8
 -------
 
 | wiki:
-| 「`言语道断侍`_」的效果发动并适用后，不能再发动这只或者其他「`言语道断侍`_」的效果。此外，「`言语道断侍`_」的效果发动时，因「`技能抽取`_」「`健忘`_」而被无效的场合，这个回合仍然不能再次发动这只「`言语道断侍`_」的效果。\ `24/1/8 <https://yugioh-wiki.net/index.php?%A1%D4%B8%C0%B8%EC%C6%BB%C3%C7%BB%F8%A1%D5#faq>`__
+| 「`言语道断侍`_」的效果发动并适用后，不能再发动这只或者其他「`言语道断侍`_」的效果。此外，「`言语道断侍`_」的效果发动时，因「`技能抽取`_」「`健忘`_」而被无效的场合，这个回合仍然不能再次发动这只「`言语道断侍`_」的效果。\ `25/1/8 <https://yugioh-wiki.net/index.php?%A1%D4%B8%C0%B8%EC%C6%BB%C3%C7%BB%F8%A1%D5#faq>`__
 
 | 数据库:
-| 「`电力军曹`_」的①效果适用后，因「`技能抽取`_」等效果变得无效的场合，作为对象的卡会变得可以发动。之后因「`技能抽取`_」等效果不适用，自身恢复有效的场合，作为对象的卡会再变得不能发动。「`银岭之巨神`_」也一样。\ `24/1/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9830&keyword=&tag=-1&request_locale=ja>`__
+| 「`电力军曹`_」的①效果适用后，因「`技能抽取`_」等效果变得无效的场合，作为对象的卡会变得可以发动。之后因「`技能抽取`_」等效果不适用，自身恢复有效的场合，作为对象的卡会再变得不能发动。「`银岭之巨神`_」也一样。\ `25/1/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9830&keyword=&tag=-1&request_locale=ja>`__
 
 1/9
 -------
@@ -55,7 +55,7 @@
 | 我方可以对我方的「`混沌之黑魔术师`_」或通过自身①效果特殊召唤的「`僵尸带菌者`_」发动「`魊影的阴影 斯诺皮奥斯`_」的②效果。
 
 | 数据库：
-| 「`融合征兵`_」「`融合强兵`_」的①效果处理时，『那只怪兽有卡名记述的1只融合素材怪兽』只参照融合怪兽记述融合素材的那行文本。「`霸王天龙 异色眼霸弧光迹龙`_」记述的是『龙族的融合·同调·超量·灵摆怪兽各1只合计4只』，没有记述卡名，因此不能给对方观看。\ `24/1/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24133&keyword=&tag=-1&request_locale=ja>`__
+| 「`融合征兵`_」「`融合强兵`_」的①效果处理时，『那只怪兽有卡名记述的1只融合素材怪兽』只参照融合怪兽记述融合素材的那行文本。「`霸王天龙 异色眼霸弧光迹龙`_」记述的是『龙族的融合·同调·超量·灵摆怪兽各1只合计4只』，没有记述卡名，因此不能给对方观看。\ `25/1/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24133&keyword=&tag=-1&request_locale=ja>`__
 
 1/11
 -------
@@ -89,17 +89,17 @@
 -------
 
 | 裁定变更：
-| 「`最终突击命令`_」在场上存在时，对方守备表示特殊召唤怪兽，立即变成攻击表示的场合，「`奥西里斯之天空龙`_」的④效果不会发动。\ `24/1/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12313&keyword=&tag=-1&request_locale=ja>`__
+| 「`最终突击命令`_」在场上存在时，对方守备表示特殊召唤怪兽，立即变成攻击表示的场合，「`奥西里斯之天空龙`_」的④效果不会发动。\ `25/1/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12313&keyword=&tag=-1&request_locale=ja>`__
 
 1/25
 -------
 
 | 数据库：
-| 「`融合强兵`_」的①效果处理时，给对方观看「`赎罪神女`_」的场合，『那只怪兽有卡名记述的1只融合素材怪兽』只参照融合怪兽记述融合素材的那行文本，只能特殊召唤「`蓟花之妖魔`_」。\ `24/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24134&keyword=&tag=-1&request_locale=ja>`__
-| 「`融合识别`_」的①效果处理时，给对方观看「`圣蓟花`_」的场合，可以把作为对象的那只怪兽和对方1只表侧表示怪兽解放作为融合素材来特殊召唤「`赎罪神女`_」。\ `24/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24135&keyword=&tag=-1&request_locale=ja>`__
-| 墓地不存在怪兽时，不能把「`岩征龙-锈龙`_」送去墓地来发动「`极征龙-烛龙`_」的①效果。\ `24/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24136&keyword=&tag=-1&request_locale=ja>`__
-| 「`极征龙-烛龙`_」的①效果发动时，不论送去墓地的怪兽是什么，都不能连锁发动「`灰流丽`_」「`珠泪哀歌族·鲁莎卡人鱼`_」「`星尘龙`_」等的效果。\ `24/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24138&keyword=&tag=-1&request_locale=ja>`__
-| 额外卡组只存在「`No.69 纹章神 盾徽`_」时，不能以包含「`纹章兽 狮鹫`_」在内的2只「`纹章兽`_」怪兽为对象发动「`高等纹章术`_」；额外卡组存在其他4×2的「`纹章兽`_」X怪兽时，可以这样发动，并X召唤「`No.69 纹章神 盾徽`_」。\ `24/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24137&keyword=&tag=-1&request_locale=ja>`__
+| 「`融合强兵`_」的①效果处理时，给对方观看「`赎罪神女`_」的场合，『那只怪兽有卡名记述的1只融合素材怪兽』只参照融合怪兽记述融合素材的那行文本，只能特殊召唤「`蓟花之妖魔`_」。\ `25/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24134&keyword=&tag=-1&request_locale=ja>`__
+| 「`融合识别`_」的①效果处理时，给对方观看「`圣蓟花`_」的场合，可以把作为对象的那只怪兽和对方1只表侧表示怪兽解放作为融合素材来特殊召唤「`赎罪神女`_」。\ `25/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24135&keyword=&tag=-1&request_locale=ja>`__
+| 墓地不存在怪兽时，不能把「`岩征龙-锈龙`_」送去墓地来发动「`极征龙-烛龙`_」的①效果。\ `25/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24136&keyword=&tag=-1&request_locale=ja>`__
+| 「`极征龙-烛龙`_」的①效果发动时，不论送去墓地的怪兽是什么，都不能连锁发动「`灰流丽`_」「`珠泪哀歌族·鲁莎卡人鱼`_」「`星尘龙`_」等的效果。\ `25/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24138&keyword=&tag=-1&request_locale=ja>`__
+| 额外卡组只存在「`No.69 纹章神 盾徽`_」时，不能以包含「`纹章兽 狮鹫`_」在内的2只「`纹章兽`_」怪兽为对象发动「`高等纹章术`_」；额外卡组存在其他4×2的「`纹章兽`_」X怪兽时，可以这样发动，并X召唤「`No.69 纹章神 盾徽`_」。\ `25/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24137&keyword=&tag=-1&request_locale=ja>`__
 
 1/26
 -------
@@ -158,11 +158,11 @@
 | 手卡只有1张光属性怪兽，「`光之召集`_」效果处理时，墓地不存在光属性怪兽的场合，这个效果正常适用，丢弃那只光属性怪兽，之后再把那只怪兽加入手卡。
 
 | 数据库：
-| 我方发动了「`白银之城的拉比林斯`_」②效果的回合，再召唤1只「`白银之城的拉比林斯`_」，卡名因「`No.69 纹章神 盾徽-神之愤怒`_」的①效果变成「`不明`_」的场合，这个卡名的②效果已经使用，这个回合仍然不能再次发动②效果。\ `24/1/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24139&keyword=&tag=-1&request_locale=ja>`__
-| 「`技能抽取`_」的①效果适用中，通过自身①效果特殊召唤的「`魔术师的徒弟-黑魔术少女`_」的卡名仍然是「`黑魔术少女`_」。「`复写机块 复印小矮人`_」也一样，仍然『直到结束阶段当作和作为对象的怪兽同名卡使用』。\ `24/1/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24140&keyword=&tag=-1&request_locale=ja>`__
-| 以怪兽区域「`阿尔戈☆群星-紫电的堤丢尔`_」为对象发动「`雷破`_」，连锁发动「`阿尔戈☆群星-紫电的堤丢尔`_」的效果放置到魔法·陷阱卡区域的场合，仍然被破坏；「`雷破`_」换成「`赐炎之咎姬`_」③效果的场合，由于效果处理是『那些怪兽破坏』，此时「`阿尔戈☆群星-紫电的堤丢尔`_」已经不是怪兽，结果「`赐炎之咎姬`_」③效果完全不适用。\ `24/1/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24141&keyword=&tag=-1&request_locale=ja>`__
-| 「`亡龙之旋律`_」等宣言卡名的效果不能宣言「`不明`_」。\ `24/1/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24142&keyword=&tag=-1&request_locale=ja>`__
-| 以多张卡为对象发动「`械刀婪魔皇断`_」后，那个效果处理时部分对象不在场上存在的场合，剩下作为对象的卡每有1张，我方1张手卡或额外卡组6张卡里侧除外，那些卡回到手卡。\ `24/1/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24143&keyword=&tag=-1&request_locale=ja>`__
+| 我方发动了「`白银之城的拉比林斯`_」②效果的回合，再召唤1只「`白银之城的拉比林斯`_」，卡名因「`No.69 纹章神 盾徽-神之愤怒`_」的①效果变成「`不明`_」的场合，这个卡名的②效果已经使用，这个回合仍然不能再次发动②效果。\ `25/1/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24139&keyword=&tag=-1&request_locale=ja>`__
+| 「`技能抽取`_」的①效果适用中，通过自身①效果特殊召唤的「`魔术师的徒弟-黑魔术少女`_」的卡名仍然是「`黑魔术少女`_」。「`复写机块 复印小矮人`_」也一样，仍然『直到结束阶段当作和作为对象的怪兽同名卡使用』。\ `25/1/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24140&keyword=&tag=-1&request_locale=ja>`__
+| 以怪兽区域「`阿尔戈☆群星-紫电的堤丢尔`_」为对象发动「`雷破`_」，连锁发动「`阿尔戈☆群星-紫电的堤丢尔`_」的效果放置到魔法·陷阱卡区域的场合，仍然被破坏；「`雷破`_」换成「`赐炎之咎姬`_」③效果的场合，由于效果处理是『那些怪兽破坏』，此时「`阿尔戈☆群星-紫电的堤丢尔`_」已经不是怪兽，结果「`赐炎之咎姬`_」③效果完全不适用。\ `25/1/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24141&keyword=&tag=-1&request_locale=ja>`__
+| 「`亡龙之旋律`_」等宣言卡名的效果不能宣言「`不明`_」。\ `25/1/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24142&keyword=&tag=-1&request_locale=ja>`__
+| 以多张卡为对象发动「`械刀婪魔皇断`_」后，那个效果处理时部分对象不在场上存在的场合，剩下作为对象的卡每有1张，我方1张手卡或额外卡组6张卡里侧除外，那些卡回到手卡。\ `25/1/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24143&keyword=&tag=-1&request_locale=ja>`__
 
 25/02
 ========
@@ -183,7 +183,7 @@
 | 「`登龙华幻胧门`_」在自己场上存在时，「`幻煌龙 螺旋`_」的等级因其他卡的效果变成10以上，得到那个『●』效果，变成效果怪兽，再让「`登龙华幻胧门`_」回到卡组最下面发动这个『●』效果的场合，虽然这个时点不再是得到『●』效果的状况，这个效果正常适用；此外，可以连锁发动『效果怪兽的效果发动无效并破坏』的「`天罚`_」等效果。
 
 | 数据库：
-| 对方场上只存在也当作陷阱卡使用的陷阱怪兽和连接怪兽，发动「`魔炮战机 达磨羯磨`_」，陷阱怪兽盖放在魔法·陷阱卡区域的场合，不当作成功适用了『变成里侧守备表示』，因此『那之后』的处理不适用。\ `24/2/4 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24145&keyword=&tag=-1&request_locale=ja>`__
+| 对方场上只存在也当作陷阱卡使用的陷阱怪兽和连接怪兽，发动「`魔炮战机 达磨羯磨`_」，陷阱怪兽盖放在魔法·陷阱卡区域的场合，不当作成功适用了『变成里侧守备表示』，因此『那之后』的处理不适用。\ `25/2/4 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24145&keyword=&tag=-1&request_locale=ja>`__
 
 2/6
 -------
