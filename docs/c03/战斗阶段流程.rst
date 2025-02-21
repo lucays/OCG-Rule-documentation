@@ -976,6 +976,13 @@
 | 「`清净恶龙`_」的攻击宣言时，发动「`死之卡组破坏病毒`_」，连锁发动「`魔术臂盾`_」的场合，之后「`死之卡组破坏病毒`_」的效果处理的时点已经在伤害计算后，「`清净恶龙`_」的攻击力复原，不会被破坏。
 | 对方以连接端有3只怪兽的「`解码语者·扩展`_」为对象发动「`解码终结`_」，用其攻击自己「`希望皇 拟声乌托邦`_」时，自己发动「`王宫的铁壁`_」「`我我我防御`_」「`魔术臂盾`_」作为连锁1以及2和3的状况，「`魔术臂盾`_」处理后，「`解码终结`_」的效果适用，立即把「`魔术臂盾`_」的效果夺取控制权进行战斗的另一只怪兽除外，之后在连锁处理完毕时，「`解码终结`_」的效果发动，适用「`我我我防御`_」效果以外的卡全部破坏。
 
+-  | 这类效果处理时，如果要进行伤害计算的其中1只怪兽不在之前的怪兽区域存在，这个效果不适用。
+   | 在那个怪兽区域变成里侧守备表示的场合，反转并正常进行伤害计算。
+   | 例：
+   | 对方怪兽攻击宣言时，我方发动「`超重武者 松明-2`_」的①效果或②效果，连锁发动「`强制脱出装置`_」，对方那只怪兽回到手卡的场合，那次攻击终止，「`超重武者 松明-2`_」的②效果不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15663&keyword=&tag=-1&request_locale=ja>`__\ \ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15659&keyword=&tag=-1&request_locale=ja>`__
+   | 对方怪兽攻击宣言时，我方发动「`超重武者 松明-2`_」的①效果或②效果，连锁发动「`敌人控制器`_」或「`强制脱出装置`_」，作为对象的怪兽或者自身的控制权变更或者不在怪兽区域存在的场合，因为无法转移攻击对象，「`超重武者 松明-2`_」的②效果不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15664&keyword=&tag=-1&request_locale=ja>`__\ \ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15660&keyword=&tag=-1&request_locale=ja>`__
+   | 对方怪兽攻击宣言时，我方发动「`超重武者 松明-2`_」的①效果或②效果，连锁发动「`月之书`_」，作为对象的怪兽或者自身变成里侧守备表示的场合，反转并正常进行伤害计算。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15665&keyword=&tag=-1&request_locale=ja>`__\ \ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15661&keyword=&tag=-1&request_locale=ja>`__
+
 -  | 由于在连锁处理完毕时才进入伤害步骤结束时，在连锁2以上发生伤害计算的场合，『战斗破坏怪兽送去墓地时才能发动』的效果不会错过时点。
    | 例：
    | 「`黑羽-苍炎之修罗`_」在连锁2以上与「`我我我侍`_」进行战斗，在这组连锁处理完毕时，「`我我我侍`_」被战斗破坏送去墓地，「`黑羽-苍炎之修罗`_」的效果可以发动。
@@ -1516,3 +1523,6 @@
 .. _`圣蓟花`: https://ygocdb.com/card/name/圣蓟花
 .. _`背信圣徒 森恶狼母`: https://ygocdb.com/card/name/背信圣徒%20森恶狼母
 .. _`讴歌死亡的魔瞳`: https://ygocdb.com/card/name/讴歌死亡的魔瞳
+.. _`超重武者 松明-2`: https://ygocdb.com/card/name/超重武者%20松明-2
+.. _`敌人控制器`: https://ygocdb.com/card/name/敌人控制器
+.. _`月之书`: https://ygocdb.com/card/name/月之书

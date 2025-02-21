@@ -256,7 +256,14 @@
 | 之前「`剑斗兽 克劳狄乌斯`_」的①效果让我方战斗阶段可以进行2次的回合，对方场上存在「`噩梦之苦痛`_」和「`于贝尔`_」的状况，我方场上存在可以攻击的怪兽，结果必须进入战斗阶段的场合，在那第1个战斗阶段结束后，是否必须进入第2个战斗阶段，是否可以直接进入主要阶段2，\ :ref:`调整中`\ 。
 
 | 调整中确认：
-| 「`变形壶`_」在1组连锁上因效果反转2次的场合，那个连锁处理后自身①效果组成连锁发动2次并适用。
+| 作为反转怪兽的「`变形壶`_」在1组连锁上因效果反转2次的场合，那个连锁处理后自身①效果组成连锁发动2次并适用。
+
+2/20
+-------
+
+| 数据库：
+| 1只「`封锁守卫者`_」的②效果在1组连锁上只能发动1次。\ `17/10/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13372&request_locale=ja>`__
+| 我方发动「`神圣蓟花`_」，连锁发动「`“罪宝狩猎之恶魔”`_」，对方连锁发动「`屋敷童`_」①效果的场合，「`神圣蓟花`_」的①效果处理时，卡的发动被无效的「`“罪宝狩猎之恶魔”`_」不在场上，因此不能选「`“罪宝狩猎之恶魔”`_」送去墓地。\ `25/2/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24148&keyword=&tag=-1&request_locale=ja>`__
 
 .. _`电力军曹`: https://ygocdb.com/card/name/电力军曹
 .. _`融合强兵`: https://ygocdb.com/card/name/融合强兵
@@ -439,3 +446,7 @@
 .. _`虹光新宇侠`: https://ygocdb.com/card/name/虹光新宇侠
 .. _`元素英雄 水波新宇侠`: https://ygocdb.com/card/name/元素英雄%20水波新宇侠
 .. _`新空间侠·水波海豚`: https://ygocdb.com/card/name/新空间侠·水波海豚
+.. _`屋敷童`: https://ygocdb.com/card/name/屋敷童
+.. _`“罪宝狩猎之恶魔”`: https://ygocdb.com/card/name/“罪宝狩猎之恶魔”
+.. _`封锁守卫者`: https://ygocdb.com/card/name/封锁守卫者
+.. _`神圣蓟花`: https://ygocdb.com/card/name/神圣蓟花
