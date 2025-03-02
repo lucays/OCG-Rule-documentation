@@ -136,7 +136,7 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
    | 「`刷拉拉破坏者`_」攻击力不足800时也会发动效果，正常适用，攻击力结果是0。
    | 「`银河骑士`_」效果处理时不足1000的场合，结果是0，仍然特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12535&request_locale=ja>`__
    | 「`三刃戟海龙神`_」对攻击力不足800的怪兽发动效果，结果是0，效果仍被无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9809&keyword=&tag=-1&request_locale=ja>`__
-   | 「`黑羽龙`_」在攻击力0时受到效果伤害也会作为代替放置指示物。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9809&keyword=&tag=-1&request_locale=ja>`__ 可以对攻击力低的怪兽发动效果，取除全部指示物，那个怪兽攻击力下降到0，造成攻击力数值的伤害。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9808&keyword=&tag=-1&request_locale=ja>`__
+   | 「`黑翼龙`_」在攻击力0时受到效果伤害也会作为代替放置指示物。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9809&keyword=&tag=-1&request_locale=ja>`__ 可以对攻击力低的怪兽发动效果，取除全部指示物，那个怪兽攻击力下降到0，造成攻击力数值的伤害。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9808&keyword=&tag=-1&request_locale=ja>`__
    | 「`捕食植物 奇美拉大花草`_」的②效果处理时对方怪兽攻击力不足1000的场合，结果是0，自身仍然上升1000攻击力。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7514&request_locale=ja>`__
    | 「`禁忌的圣枪`_」以攻击力0的怪兽为对象发动效果，后续也正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12476&request_locale=ja>`__
    | 对方场上的怪兽攻击力全是0的场合，「`混沌No.39 希望皇 霍普雷`_」也可以发动效果，自身上升500。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11844&request_locale=ja>`__
@@ -609,7 +609,7 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
 .. _`我我我枪手`: https://ygocdb.com/card/name/我我我枪手
 .. _`爆裂龙息`: https://ygocdb.com/card/name/爆裂龙息
 .. _`No.32 海咬龙 鲨龙兽`: https://ygocdb.com/card/name/No.32%20海咬龙%20鲨龙兽
-.. _`黑羽龙`: https://ygocdb.com/card/name/黑羽龙
+.. _`黑翼龙`: https://ygocdb.com/card/name/黑翼龙
 .. _`捕食植物 奇美拉大花草`: https://ygocdb.com/card/name/捕食植物%20奇美拉大花草
 .. _`邪精衍生物`: https://ygocdb.com/?search=邪精衍生物
 .. _`超级交通机人-隐形合体`: https://ygocdb.com/card/name/超级交通机人-隐形合体

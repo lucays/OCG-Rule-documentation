@@ -233,7 +233,7 @@
 | wiki:
 | 「`元素英雄 死灵萨满`_」的①效果会因场上存在「`王家长眠之谷`_」而无效。\ `22/2/4 <https://yugioh-wiki.net/index.php?%A1%D4%B2%A6%B2%C8%A4%CE%CC%B2%A4%EB%C3%AB%A1%DD%A5%CD%A5%AF%A5%ED%A5%D0%A5%EC%A1%BC%A1%D5#faq>`__
 | 对方「`两件套工具D&C`_」装备的怪兽受到「`黑羽-疾风之盖尔`_」②效果影响的场合，下个回合以及之后的对方回合那只怪兽不会因「`两件套工具D&C`_」的效果上升攻击力。\ `22/2/4 <https://yugioh-wiki.net/index.php?%A1%D4%A3%C2%A3%C6%A1%DD%BC%C0%C9%F7%A4%CE%A5%B2%A5%A4%A5%EB%A1%D5#faq3>`__
-| 对方怪兽受到「`黑羽-疾风之盖尔`_」②效果的影响后，再装备「`大日棱柱体`_」的场合，之后进行战斗的伤害步骤会上升攻击力。而如果是已经装备了「`大日棱柱体`_」的怪兽，再受到「`黑羽-疾风之盖尔`_」②效果的影响的场合，之后进行战斗的伤害步骤攻击力不会上升。\ `22/2/4 <https://yugioh-wiki.net/index.php?%A1%D4%A3%C2%A3%C6%A1%DD%BC%C0%C9%F7%A4%CE%A5%B2%A5%A4%A5%EB%A1%D5#faq3>`__
+| :strike:`对方怪兽受到「黑羽-疾风之盖尔」②效果的影响后，再装备「大日棱柱体」的场合，之后进行战斗的伤害步骤会上升攻击力。而如果是已经装备了「大日棱柱体」的怪兽，再受到「黑羽-疾风之盖尔」②效果的影响的场合，之后进行战斗的伤害步骤攻击力不会上升。`
 
 2/5
 -------
@@ -1546,8 +1546,8 @@
 | 数据库：
 | 「`沉默狼-卡鲁波狼犬`_」的①效果处理时，卡组最上方是「`鲜花花剑`_」这样只能用自身效果给怪兽装备的装备魔法，或者「`两件套工具D&C`_」这样只能给特定怪兽装备的装备魔法卡的场合，也会正常里侧表示装备。\ `22/7/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23811&keyword=&tag=-1&request_locale=ja>`__
 | 「`沉默狼-卡鲁波狼犬`_」的①效果处理时，卡组最上方是「`禁止令`_」的效果宣言的卡的场合，不能装备，放置到墓地。\ `22/7/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23805&keyword=&tag=-1&request_locale=ja>`__ [#]_
-| 「`大宇宙`_」的②效果适用中，也可以发动「`黑羽-无赖之伐他`_」的②效果。这个效果处理时，要送去墓地的「`黑羽`_」怪兽被除外的场合，不会特殊召唤「`黑羽龙`_」。\ `22/7/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23810&keyword=&tag=-1&request_locale=ja>`__
-| 「`黑羽-无赖之伐他`_」的②效果处理时，这张卡不在场上存在的场合，这个效果完全不适用，也不会从卡组选「`黑羽`_」怪兽送去墓地；这张卡在场上变成里侧表示或者控制权转移的场合，这个效果正常适用，把变成里侧的这张卡或者在对方怪兽区域的这张卡和卡组的「`黑羽`_」怪兽送去墓地，特殊召唤「`黑羽龙`_」。\ `22/7/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23804&keyword=&tag=-1&request_locale=ja>`__
+| 「`大宇宙`_」的②效果适用中，也可以发动「`黑羽-无赖之伐他`_」的②效果。这个效果处理时，要送去墓地的「`黑羽`_」怪兽被除外的场合，不会特殊召唤「`黑翼龙`_」。\ `22/7/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23810&keyword=&tag=-1&request_locale=ja>`__
+| 「`黑羽-无赖之伐他`_」的②效果处理时，这张卡不在场上存在的场合，这个效果完全不适用，也不会从卡组选「`黑羽`_」怪兽送去墓地；这张卡在场上变成里侧表示或者控制权转移的场合，这个效果正常适用，把变成里侧的这张卡或者在对方怪兽区域的这张卡和卡组的「`黑羽`_」怪兽送去墓地，特殊召唤「`黑翼龙`_」。\ `22/7/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23804&keyword=&tag=-1&request_locale=ja>`__
 | 没有仪式召唤就送去墓地的「`冥占术姬 塔罗幽巫女`_」也可以被「`圣占术姬 塔罗光巫女`_」的③效果特殊召唤。\ `22/7/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23809&keyword=&tag=-1&request_locale=ja>`__
 | 和「`黯黑世界-暗影敌托邦-`_」的③效果以及「`闪刀机关-多任务战刀机`_」的②效果等类似，「`地中界的灾厄`_」被「`白之咆哮`_」等效果无效，之后恢复有效的场合，在无效期间反转的自己场上的怪兽，其攻击力·守备力也会上升1500。\ `22/7/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23808&keyword=&tag=-1&request_locale=ja>`__
 | 即使场上不存在「`珠泪哀歌族`_」怪兽或者「`维萨斯-斯塔弗罗斯特`_」，如果把「`珠泪哀歌族`_」怪兽或者「`维萨斯-斯塔弗罗斯特`_」召唤·特殊召唤，也可以发动「`劈穿壹世坏的弦声`_」的①效果。换句话说，「`劈穿壹世坏的弦声`_」的①效果的发动条件是在怪兽召唤·特殊召唤的时点，自己场上要存在「`珠泪哀歌族`_」怪兽或者「`维萨斯-斯塔弗罗斯特`_」。\ `22/7/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23807&keyword=&tag=-1&request_locale=ja>`__
@@ -2423,7 +2423,7 @@
 | 场上存在持有X素材的「`星辉士 星圣冬钻龙`_」时，「`无尽机关 银星系统`_」的②效果处理时只选1张加入手卡，另1张除外。\ `22/11/5 <https://yugioh-wiki.net/index.php?%A1%D4%CC%B5%BF%D4%B5%A1%B4%D8%A5%A2%A5%EB%A5%AE%A5%ED%A1%A6%A5%B7%A5%B9%A5%C6%A5%E0%A1%D5#faq2>`__
 | 作为陷阱怪兽的「`伯吉斯异兽·高足杯虫`_」通过②效果从墓地特殊召唤到场上变成怪兽的场合，不是从墓地把怪兽特殊召唤，不能发动「`璃拉说唱`_」的①效果。\ `22/11/5 <https://yugioh-wiki.net/index.php?%A1%D4%A5%EA%A5%A3%A5%E9%A5%C3%A5%D7%A1%D5#faq>`__
 | 对方发动「`雷击`_」，我方连锁发动「`战线复归`_」，把怪兽从墓地特殊召唤后又被破坏的场合，处理后仍然可以发动「`璃拉说唱`_」的①效果。\ `22/11/5 <https://yugioh-wiki.net/index.php?%A1%D4%A5%EA%A5%A3%A5%E9%A5%C3%A5%D7%A1%D5#faq>`__
-| 「`清净世界`_」发动『●炎：』效果的处理时，场上的怪兽因「`日全食之书`_」全部变成里侧守备表示的场合，这个效果不适用。\ `22/11/5 <https://yugioh-wiki.net/index.php?%A1%D4%A5%AF%A5%EA%A5%A2%A1%BC%A1%A6%A5%EF%A1%BC%A5%EB%A5%C9%A1%D5#faq6>`__
+| 「`清透世界`_」发动『●炎：』效果的处理时，场上的怪兽因「`日全食之书`_」全部变成里侧守备表示的场合，这个效果不适用。\ `22/11/5 <https://yugioh-wiki.net/index.php?%A1%D4%A5%AF%A5%EA%A5%A2%A1%BC%A1%A6%A5%EF%A1%BC%A5%EB%A5%C9%A1%D5#faq6>`__
 
 | 数据库：
 | 玩家的卡被多次里侧表示除外的场合，双方可以确认每张里侧表示除外的卡是因什么而被里侧表示除外的。例如，「`No.89 电脑兽 系统破坏神`_」的①效果发动了2次除外了2次，双方可以判别里侧表示除外的卡是被第一次发动的这个效果除外的还是被第二次发动的这个效果除外的。「`强欲而贪欲之壶`_」把10张卡里侧表示除外后，双方可以知道被这个cost除外的10张卡是哪10张，不过，不会有从卡组最上面里侧除外的是哪张的情报，这10张从双方看来每1张之间没有区别。此外，为了便于分辨，可以把被里侧除外的卡分开分堆放置来进行决斗（除外的卡没有顺序）。\ `22/11/5 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23918&keyword=&tag=-1&request_locale=ja>`__
@@ -3201,7 +3201,7 @@
 .. _`科技属 互换蜻蜓`: https://ygocdb.com/card/name/科技属%20互换蜻蜓
 .. _`元素英雄 海洋新宇侠`: https://ygocdb.com/card/name/元素英雄%20海洋新宇侠
 .. _`投送燕`: https://ygocdb.com/card/name/投送燕
-.. _`清净世界`: https://ygocdb.com/card/name/清净世界
+.. _`清透世界`: https://ygocdb.com/card/name/清透世界
 .. _`代码枪管龙`: https://ygocdb.com/card/name/代码枪管龙
 .. _`幽灵衍生物`: https://ygocdb.com/?search=幽灵衍生物
 .. _`星级爆破`: https://ygocdb.com/card/name/星级爆破
@@ -3805,7 +3805,7 @@
 .. _`羽翼栗子球 LV9`: https://ygocdb.com/card/name/羽翼栗子球%20LV9
 .. _`歌冰丽月`: https://ygocdb.com/card/name/歌冰丽月
 .. _`企鹅士兵`: https://ygocdb.com/card/name/企鹅士兵
-.. _`黑羽龙`: https://ygocdb.com/card/name/黑羽龙
+.. _`黑翼龙`: https://ygocdb.com/card/name/黑翼龙
 .. _`暗黑界的术师 丝诺`: https://ygocdb.com/card/name/暗黑界的术师%20丝诺
 .. _`魔轰神兽 凯希`: https://ygocdb.com/card/name/魔轰神兽%20凯希
 .. _`开辟之骑士`: https://ygocdb.com/card/name/开辟之骑士
