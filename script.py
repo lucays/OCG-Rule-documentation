@@ -252,6 +252,7 @@ def strike_completion(texts: str) -> str:
     new_texts = []
     for line in texts.split('\n'):
         if '| :strike:' in line:
+            continue
             if '「`' in line:
                 line = line.split('\ `')[0]
                 line = line.replace('「`', '「').replace('`_」', '」').strip('`')
