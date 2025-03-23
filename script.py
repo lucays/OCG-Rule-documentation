@@ -335,15 +335,15 @@ def do_git():
 
     if 'valid' in repo.branches:
         do_all('valid')
-        repo.delete_head('valid')
+        repo.delete_head('valid', force=True)
     repo.git.checkout('-b', 'valid')
     if repo.is_dirty():
         repo.git.add('.')
         repo.index.commit('rm invalid faq')
-        repo.git.push(force=True)
+        repo.git.push('--set-upstream', 'origin', 'valid', '-f')
 
     if 'main' in repo.branches:
-        repo.delete_head('main')
+        repo.delete_head('main', force=True)
     repo.git.checkout('-b', 'main')
     delete_folder(current_dir / 'docs/c06')
     delete_folder(current_dir / 'doc/c07')
@@ -352,7 +352,7 @@ def do_git():
     if repo.is_dirty():
         repo.git.add('.')
         repo.index.commit('rm faq')
-        repo.git.push(force=True)
+        repo.git.push('--set-upstream', 'origin', 'main', '-f')
 
 
 if __name__ == '__main__':
