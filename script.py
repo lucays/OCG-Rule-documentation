@@ -328,17 +328,19 @@ def do_git():
     do_all()
     repo = Repo(current_dir)
     repo.git.checkout('dev')
-    repo.git.add('.')
-    repo.index.commit('add faq')
-    repo.git.push()
+    if repo.is_dirty():
+        repo.git.add('.')
+        repo.index.commit('add faq')
+        repo.git.push()
 
     if 'valid' in repo.branches:
         do_all('valid')
         repo.delete_head('valid')
     repo.git.checkout('-b', 'valid')
-    repo.git.add('.')
-    repo.index.commit('rm invalid faq')
-    repo.git.push(force=True)
+    if repo.is_dirty():
+        repo.git.add('.')
+        repo.index.commit('rm invalid faq')
+        repo.git.push(force=True)
 
     if 'main' in repo.branches:
         repo.delete_head('main')
@@ -347,9 +349,10 @@ def do_git():
     delete_folder(current_dir / 'doc/c07')
     (current_dir / 'docs/chapters/p06_ocg_rule_faq.rst').unlink()
     (current_dir / 'docs/chapters/p07_ocg_deck_course.rst').unlink()
-    repo.git.add('.')
-    repo.index.commit('rm faq')
-    repo.git.push(force=True)
+    if repo.is_dirty():
+        repo.git.add('.')
+        repo.index.commit('rm faq')
+        repo.git.push(force=True)
 
 
 if __name__ == '__main__':
