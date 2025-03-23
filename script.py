@@ -4,6 +4,7 @@ from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor
 
 import requests
+from git import Repo
 
 current_dir = Path(__file__).parent.resolve()
 
@@ -267,35 +268,90 @@ def strike_completion(texts: str) -> str:
     return '\n'.join(new_texts).strip() + '\n'
 
 
+def remove_strike_completion(texts: str) -> str:
+    new_texts = []
+    for line in texts.split('\n'):
+        if '| :strike:' in line:
+            if '「`' in line:
+                continue
+        new_texts.append(line)
+    return '\n'.join(new_texts).strip() + '\n'
+
+
 def replace_not_card(texts: str):
     for not_card_name in NOT_CARD_NAMES:
         texts = texts.replace(f'「`{not_card_name}`_」', f'「{not_card_name}」')
     return texts
 
 
-def do_one(file: Path) -> None:
+def do_one(file: Path, branch='dev') -> None:
     old_texts = file.read_text(encoding='utf8')
     texts = replace_en_name(old_texts)
     texts = add_cdb_url(texts)
     texts = add_jp_locale_in_db_url(texts)
-    texts = strike_completion(texts)
+    if branch == 'dev':
+        texts = strike_completion(texts)
+    else:
+        texts = remove_strike_completion(texts)
     texts = replace_not_card(texts)
     exract_card_urls(texts)
     if texts != old_texts:
         file.write_text(texts, encoding='utf8', newline='\n')
 
 
-def do_all() -> None:
+def do_all(branch='dev') -> None:
     docs_path = Path(__file__).parent / 'docs'
     for sub_path in docs_path.iterdir():
         if sub_path.is_file() and sub_path.name.endswith('.rst'):
-            do_one(sub_path)
+            do_one(sub_path, branch)
         elif sub_path.is_dir():
             for file in sub_path.iterdir():
                 if file.name.endswith('.rst'):
                     do_one(file)
 
 
-if __name__ == '__main__':
+def delete_folder(folder_path: Path) -> None:
+    if folder_path.exists() and folder_path.is_dir():
+        # 递归删除文件夹中的所有文件和子文件夹
+        for item in folder_path.iterdir():
+            if item.is_dir():
+                delete_folder(item)  # 递归删除子文件夹
+            else:
+                item.unlink()  # 删除文件
+        folder_path.rmdir()  # 删除空文件夹
+        print(f"已删除文件夹: {folder_path}")
+    else:
+        print(f"文件夹不存在或不是目录: {folder_path}")
+
+
+def do_git():
     do_all()
+    repo = Repo(current_dir)
+    repo.git.checkout('dev')
+    repo.git.add('.')
+    repo.index.commit('add faq')
+    repo.git.push()
+
+    if 'valid' in repo.branches:
+        do_all('valid')
+        repo.delete_head('valid')
+    repo.git.checkout('-b', 'valid')
+    repo.git.add('.')
+    repo.index.commit('rm invalid faq')
+    repo.git.push(force=True)
+
+    if 'main' in repo.branches:
+        repo.delete_head('main')
+    repo.git.checkout('-b', 'main')
+    delete_folder(current_dir / 'docs/c06')
+    delete_folder(current_dir / 'doc/c07')
+    (current_dir / 'docs/chapters/p06_ocg_rule_faq.rst').unlink()
+    (current_dir / 'docs/chapters/p07_ocg_deck_course.rst').unlink()
+    repo.git.add('.')
+    repo.index.commit('rm faq')
+    repo.git.push(force=True)
+
+
+if __name__ == '__main__':
+    do_git()
     check_card_urls(ALL_CARD_URLS)
