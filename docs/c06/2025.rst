@@ -488,7 +488,7 @@
 -------
 
 | 邮件：
-| 「`创星龙华-光巴`_」的①效果处理时，解放的怪兽不是仪式召唤而被解放的怪兽，「`升华之魂`_」的效果不能发动。此外，对方场上存在「`深渊之兽`_」，对方「`烙印的即凶剧`_」的②效果适用时也不会除外。
+| 「`创星龙华-光巴`_」的①效果处理时，解放的怪兽不是仪式召唤而被解放的怪兽，「`升华之魂`_」的效果不能发动。此外，对方场上存在「`深渊之兽`_」怪兽时，对方「`烙印的即凶剧`_」的②效果适用时也不会除外。
 
 | 数据库：
 | 把怪兽特殊召唤到效果发动时，连锁发动效果特殊召唤「`奥秘之龙冠`_」的场合，如果那个效果是『发动的怪兽的效果让那只怪兽或者原本种族和那只怪兽相同的怪兽特殊召唤』的状况，连锁处理后可以发动「`奥秘之龙冠`_」的②效果。\ `25/3/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24157&keyword=&tag=-1&request_locale=ja>`__
@@ -875,7 +875,6 @@
 .. _`味美喵娱乐★握力幸运火箭`: https://ygocdb.com/card/name/味美喵娱乐★握力幸运火箭
 .. _`欢聚友伴·茸茸长尾山雀`: https://ygocdb.com/card/name/欢聚友伴·茸茸长尾山雀
 .. _`天威之龙鬼神`: https://ygocdb.com/card/name/天威之龙鬼神
-.. _`深渊之兽`: https://ygocdb.com/card/name/深渊之兽
 .. _`光子龙降临`: https://ygocdb.com/card/name/光子龙降临
 .. _`味美喵★点心抓取猫`: https://ygocdb.com/card/name/味美喵★点心抓取猫
 .. _`欢聚友伴`: https://ygocdb.com/?search=欢聚友伴
@@ -896,3 +895,4 @@
 .. _`诱饵人偶`: https://ygocdb.com/card/name/诱饵人偶
 .. _`扭力调整齿轮`: https://ygocdb.com/card/name/扭力调整齿轮
 .. _`星辰法宫 狮子宝瓶龙魔`: https://ygocdb.com/card/name/星辰法宫%20狮子宝瓶龙魔
+.. _`深渊之兽`: https://ygocdb.com/?search=深渊之兽
