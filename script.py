@@ -334,9 +334,9 @@ def do_git():
         repo.git.push()
 
     if 'valid' in repo.branches:
-        do_all('valid')
         repo.delete_head('valid', force=True)
     repo.git.checkout('-b', 'valid')
+    do_all('valid')
     if repo.is_dirty():
         repo.git.add('.')
         repo.index.commit('rm invalid faq')
