@@ -657,6 +657,7 @@
    | 「`幻奏`_」融合怪兽在送去自己墓地前，是作为X素材或者在魔法·陷阱卡区域当作魔法卡使用的场合，也可以发动「`幻奏协奏曲`_」的②效果。\ `24/1/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=19897&request_locale=ja>`__
    | 当作魔法·陷阱卡处理的怪兽卡被除外、衍生物被除外或者怪兽被里侧表示除外的场合，不能发动「`复烙印`_」的①效果。\ `22/7/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17808&request_locale=ja>`__
    | 卡片在作为怪兽的状态下被效果除外，表侧除外后仍然是怪兽时，才能发动「`深渊之相剑龙`_」的①效果。当作魔法·陷阱卡处理的怪兽卡被除外、衍生物被除外或者怪兽被里侧表示除外的场合，不能发动。\ `22/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=18150&request_locale=ja>`__
+   | 即使不当作怪兽使用，只要是怪兽卡，且有2张以上同时送去墓地（不论从何处送去墓地）的场合，就是『怪兽2只以上同时被送去墓地』，可以发动「`星辰法宫 狮子宝瓶龙魔`_」「`星辰爪龙 巨蟹摩羯龙魔`_」的②效果。（作为X素材或在魔法·陷阱卡区域存在的怪兽卡也一样）\ `25/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24158&keyword=&tag=-1&request_locale=ja>`__
 
 | 类似地，「`吸血鬼吸食者`_」这样『从自己·对方的○○有○○怪兽特殊召唤的场合』条件处理时，那些怪兽在墓地时可以不是『○○怪兽』，在特殊召唤成功时必须是『○○怪兽』（宣言不死族发动的「`DNA改造手术`_」等效果适用中也满足条件）。
 | 不过，特殊召唤之前，必须是『怪兽』，墓地的魔法·陷阱卡因自身效果特殊召唤到场上成为不死族怪兽，不满足条件。
@@ -1330,3 +1331,5 @@ cost
 .. _`教导的圣女 艾克莉西娅`: https://ygocdb.com/card/name/教导的圣女%20艾克莉西娅
 .. _`千六百七十七万工房`: https://ygocdb.com/card/name/千六百七十七万工房
 .. _`通贩卖员`: https://ygocdb.com/card/name/通贩卖员
+.. _`星辰爪龙 巨蟹摩羯龙魔`: https://ygocdb.com/card/name/星辰爪龙%20巨蟹摩羯龙魔
+.. _`星辰法宫 狮子宝瓶龙魔`: https://ygocdb.com/card/name/星辰法宫%20狮子宝瓶龙魔
