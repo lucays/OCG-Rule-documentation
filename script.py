@@ -330,7 +330,7 @@ def do_git():
     repo.git.checkout('dev')
     if repo.is_dirty():
         repo.git.add('.')
-        repo.index.commit('add faq')
+        repo.index.commit('fix script')
         repo.git.push()
 
     if 'valid' in repo.branches:
@@ -346,13 +346,14 @@ def do_git():
         repo.delete_head('main', force=True)
     repo.git.checkout('-b', 'main')
     delete_folder(current_dir / 'docs/c06')
-    delete_folder(current_dir / 'doc/c07')
+    delete_folder(current_dir / 'docs/c07')
     (current_dir / 'docs/chapters/p06_ocg_rule_faq.rst').unlink()
     (current_dir / 'docs/chapters/p07_ocg_deck_course.rst').unlink()
     if repo.is_dirty():
         repo.git.add('.')
         repo.index.commit('rm faq')
         repo.git.push('--set-upstream', 'origin', 'main', '-f')
+    repo.git.checkout('dev')
 
 
 if __name__ == '__main__':
