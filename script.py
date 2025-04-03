@@ -330,7 +330,7 @@ def do_git():
     repo.git.checkout('dev')
     if repo.is_dirty():
         repo.git.add('.')
-        repo.index.commit('fix valid version')
+        repo.index.commit('fix faq')
         repo.git.push()
 
     if 'valid' in repo.branches:
