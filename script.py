@@ -272,8 +272,7 @@ def remove_strike_completion(texts: str) -> str:
     new_texts = []
     for line in texts.split('\n'):
         if '| :strike:' in line:
-            if '「`' in line:
-                continue
+            continue
         new_texts.append(line)
     return '\n'.join(new_texts).strip() + '\n'
 
@@ -307,7 +306,7 @@ def do_all(branch='dev') -> None:
         elif sub_path.is_dir():
             for file in sub_path.iterdir():
                 if file.name.endswith('.rst'):
-                    do_one(file)
+                    do_one(file, branch)
 
 
 def delete_folder(folder_path: Path) -> None:
@@ -326,11 +325,12 @@ def delete_folder(folder_path: Path) -> None:
 
 def do_git():
     do_all()
+    check_card_urls(ALL_CARD_URLS)
     repo = Repo(current_dir)
     repo.git.checkout('dev')
     if repo.is_dirty():
         repo.git.add('.')
-        repo.index.commit('add faq')
+        repo.index.commit('fix valid version')
         repo.git.push()
 
     if 'valid' in repo.branches:
@@ -358,4 +358,3 @@ def do_git():
 
 if __name__ == '__main__':
     do_git()
-    check_card_urls(ALL_CARD_URLS)
