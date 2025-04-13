@@ -96,7 +96,7 @@
 
 -  融合召唤的怪兽变成里侧或被一时除外后，\ **仍然是融合召唤的怪兽**\ 。\ `16/7/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19553&keyword=&tag=-1>`__
 
--  仪式召唤的怪兽变成里侧或被一时除外后，\ **仍然是仪式召唤的怪兽**\ 。\ `17/9/21 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=69&keyword=&tag=-1&request_locale=ja>`__ `17/10/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13294&keyword=&tag=-1&request_locale=ja>`__
+-  仪式召唤的怪兽变成里侧或被一时除外后，\ **仍然是仪式召唤的怪兽**\ 。\ `17/9/21 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=69&keyword=&tag=-1&request_locale=ja>`__
 
 -  P召唤的怪兽变成里侧后，不再是P召唤的怪兽。\ `14/11/14 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14266&keyword=&tag=-1>`__ 被一时除外后，还是P召唤的怪兽。\ `16/1/8 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18305&keyword=&tag=-1>`__
 
@@ -207,7 +207,7 @@
 
 -  | 『这张卡的①的效果特殊召唤的这张卡』『这张卡的①的方法特殊召唤的这张卡』相关状况如下。
    | 例：
-   | 自身①效果特殊召唤的「`应战的G`_」，因「`月之书`_」等效果变成里侧表示后，再变成表侧表示的场合，那个②效果也不再适用；因「`亚空间物质传送装置`_」等效果被一时除外的场合，回到场上后②效果继续适用。
+   | 自身①效果特殊召唤的「`应战的G`_」，因「`月之书`_」等效果变成里侧表示后，再变成表侧表示的场合，那个②效果也不再适用；因「`亚空间物质传送装置`_」等效果被一时除外的场合，回到场上后②效果继续适用。\ `25/4/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15447&keyword=&tag=-1&request_locale=ja>`__
    | 自身②效果特殊召唤的「`小滴答与小回声`_」，因「`月之书`_」等效果变成里侧表示后，再变成表侧表示的场合，那个③效果也不再适用；因「`亚空间物质传送装置`_」等效果被一时除外的场合，回到场上后③效果继续适用。
    | 通过自身①的方法特殊召唤的「`凭依装着`_」怪兽被一时除外的场合，回到场上后②效果继续适用。
    | 通过自身①的方法特殊召唤的「`雷仙神`_」被一时除外，回到场上后再被对方破坏的场合，也可以发动②效果。

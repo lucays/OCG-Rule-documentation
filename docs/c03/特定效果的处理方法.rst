@@ -721,6 +721,7 @@
 -  | 场上的衍生物被消灭，也是从场上离开。
    | 例：
    | 「`幻煌龙衍生物`_」因卡的效果被除外的场合，可以发动「`冰水浸蚀`_」的②效果。
+   | 我方场上的衍生物因对方的效果而被消灭的场合，也可以发动「`味美喵娱乐★握力幸运火箭`_」的②效果。\ `25/3/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=21373&request_locale=ja>`__
    | 因「`自然调整`_」的效果，变成调整的衍生物从场上离开的场合，也会发动「`黑面波波`_」的效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9464&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 『被破坏可以不送去墓地放置在魔法·陷阱卡区域』的效果是从场上离开。
@@ -1337,3 +1338,4 @@ cost
 .. _`星辰法宫 狮子宝瓶龙魔`: https://ygocdb.com/card/name/星辰法宫%20狮子宝瓶龙魔
 .. _`嗤笑的黑山羊`: https://ygocdb.com/card/name/嗤笑的黑山羊
 .. _`星云龙 尼布拉龙`: https://ygocdb.com/card/name/星云龙%20尼布拉龙
+.. _`味美喵娱乐★握力幸运火箭`: https://ygocdb.com/card/name/味美喵娱乐★握力幸运火箭

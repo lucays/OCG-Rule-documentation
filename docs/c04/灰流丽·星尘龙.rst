@@ -13,7 +13,7 @@
 | 对方场上没有从额外卡组特殊召唤的怪兽，自己发动「`影依融合`_」时，对方仍然可以连锁发动「`灰流丽`_」的①效果。\ `17/3/24 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20586&keyword=&tag=-1>`__
 | 对方发动「`PSY骨架装备·γ`_」的①效果时，即使这时墓地没有「`PSY骨架驱动者`_」，也可以连锁发动「`屋敷童`_」的①效果。\ `18/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10463&request_locale=ja>`__
 
-| 「星尘龙」「娱乐法师 伤害杂耍人」这样不是记述『包含○○』，而是记述『持有..』或直接记述『把卡片破坏』『给与伤害』等的效果，只能对应\ **发动时一定会**\ 那样处理的效果。进一步地，「反大革命」这样，只能对应发动时一定会破坏2张以上卡片的效果。
+| 「星尘龙」「娱乐法师 伤害杂耍人」这样不是记述『包含○○』，而是记述『持有..』或直接记述『把卡片破坏』『给与伤害』等的效果，只能对应\ **发动时就会**\ 那样处理的效果。进一步地，「反大革命」这样，只能对应发动时就会破坏2张以上卡片的效果。
 | 例：
 | 「`次元魔法`_」这样处理时可以不破坏卡片的效果发动时，「`替罪的黑暗`_」不能对应发动。\ `19/2/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22442&keyword=&tag=-1&request_locale=ja>`__
 | 「`潜行狙击手`_」等，根据骰子或硬币的结果决定是否要破坏卡片的效果发动时，「`星尘龙`_」的①效果不能对应发动。若双方场上都有怪兽，「`时间魔术师`_」不论结果如何都会破坏卡片，这时是一定会破坏卡片的效果，可以连锁发动「`星尘龙`_」的①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7407&request_locale=ja>`__
@@ -41,6 +41,7 @@
    | 即使「`饼蛙`_」的②效果对应的那个怪兽因苏生限制等不能被这个效果特殊召唤，也可以连锁发动「`神之警告`_」。
    | 即使「`怨邪帝 盖乌斯`_」效果的对象选择的是任意魔法·陷阱卡（包括场地魔法等），也可以连锁发动「`屋敷童`_」的①效果。
    | 对「`假面英雄 暗爪`_」发动「`融合解除`_」时，也可以连锁发动「`屋敷童`_」的①效果。
+   | 「`小丑与锁鸟`_」的①效果适用中，「`三战之号`_」发动时，仍然可以连锁发动「`圣王的粉碎`_」或「`灰流丽`_」的①效果。\ `25/4/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24162&keyword=&tag=-1&request_locale=ja>`__
    | 「`心灵崩坏`_」发动时，可以连锁发动「`守墓的监视者`_」的效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11731&keyword=&tag=-1&request_locale=ja>`__
    | 「`大宇宙`_」的②效果适用中，发动「`愚蠢的埋葬`_」的场合，仍然可以连锁发动「`灰流丽`_」的①效果。\ `17/3/24 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20543&keyword=&tag=-1>`__
    | 「`女神薇儿丹蒂的引导`_」的②效果发动时，不管宣言的卡的种类是什么，这都是包含把怪兽特殊召唤的效果，可以连锁发动「`珠泪哀歌族·鲁莎卡人鱼`_」的②效果。\ `22/7/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23806&keyword=&tag=-1&request_locale=ja>`__
@@ -191,3 +192,6 @@
 .. _`无效`: https://ygocdb.com/card/name/无效
 .. _`糖果屋`: https://ygocdb.com/card/name/糖果屋
 .. _`反大革命`: https://ygocdb.com/card/name/反大革命
+.. _`圣王的粉碎`: https://ygocdb.com/card/name/圣王的粉碎
+.. _`三战之号`: https://ygocdb.com/card/name/三战之号
+.. _`小丑与锁鸟`: https://ygocdb.com/card/name/小丑与锁鸟
