@@ -601,6 +601,12 @@
 | 「`三战之才`_」发动时，如果选择发动的是『●自己抽2张』，可以连锁发动「`灰流丽`_」的①效果；如果选择发动的是其他效果，不能连锁发动「`灰流丽`_」的①效果。\ `25/4/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24163&keyword=&tag=-1&request_locale=ja>`__
 | 以墓地的卡为对象发动「`S：P小夜`_」的①效果时，可以连锁发动「`屋敷童`_」的①效果；以场上的卡为对象发动「`S：P小夜`_」的①效果时，不能连锁发动「`屋敷童`_」的①效果。\ `25/4/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24161&keyword=&tag=-1&request_locale=ja>`__
 
+4/16
+-------
+
+| 数据库：
+| 「`灾厄之星 提·丰`_」用自身记述的召唤方法特殊召唤过的回合，自己不能把怪兽召唤·特殊召唤。可以把怪兽盖放来通常召唤。\ `25/4/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24169&keyword=&tag=-1&request_locale=ja>`__
+
 .. _`电力军曹`: https://ygocdb.com/card/name/电力军曹
 .. _`融合强兵`: https://ygocdb.com/card/name/融合强兵
 .. _`大逮捕`: https://ygocdb.com/card/name/大逮捕
@@ -1014,3 +1020,4 @@
 .. _`圣王的粉碎`: https://ygocdb.com/card/name/圣王的粉碎
 .. _`脆刃之剑`: https://ygocdb.com/card/name/脆刃之剑
 .. _`大日女之御巫`: https://ygocdb.com/card/name/大日女之御巫
+.. _`灾厄之星 提·丰`: https://ygocdb.com/card/name/灾厄之星%20提·丰
