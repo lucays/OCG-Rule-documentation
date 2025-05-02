@@ -645,6 +645,32 @@
 | 裁定变更：
 | 我方场上存在「`于贝尔精灵`_」和「`献祭魔界莲`_」，对方场上存在「`于贝尔`_」的状况，对方结束阶段，对方「`于贝尔`_」的③效果发动时，我方连锁发动「`献祭魔界莲`_」的②效果，把这个效果处理改写为『场上1只「`于贝尔`_」怪兽破坏』后，对方选「`于贝尔`_」自身破坏的场合，不是被自身③效果破坏，因此可以发动④效果。
 
+4/26
+-------
+
+| 数据库：
+| 效果未被无效的「`青眼亚白龙`_」在怪兽区域·墓地是「`青眼白龙`_」，「`正义的传说 海马侠`_」的①效果可以把这样的「`青眼亚白龙`_」给双方确认，不能把手卡·卡组·魔法或陷阱卡区域的「`青眼亚白龙`_」给双方确认。之后从手卡·卡组不能特殊召唤「`青眼亚白龙`_」，从墓地也只能特殊召唤已经正规出场过的「`青眼亚白龙`_」。\ `25/4/26 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24173&keyword=&tag=-1&request_locale=ja>`__
+| 「`原石龙 地下黄砷榴石龙`_」的②效果是，参照对方场上的怪兽发动效果之际（支付cost之前）等级·阶级·连接的数值，那个效果处理时自己的场上·墓地的通常怪兽数量，满足条件的场合发动的效果无效。因此，自己场上·墓地通常怪兽数量合计是3，对方场上等级3的怪兽发动效果，那个处理时通常怪兽数量仍然是3的场合，效果无效；通常怪兽数量减少到2的场合，效果不会无效。\ `25/4/26 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24172&keyword=&tag=-1&request_locale=ja>`__
+| 「`撕裂时间的魔瞳`_」「`讴歌死亡的魔瞳`_」「`拥抱过咎的魔瞳`_」发动时，都不能连锁发动「`精灵之镜`_」。\ `25/4/26 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23939&keyword=&tag=-1&request_locale=ja>`__
+| 「`闪刀姬-零衣`_」的①效果发动后，那个同1连锁上，发动「`闪刀亚式-双纽闪门`_」的场合，由于「闪刀」怪兽特殊召唤的时点「`闪刀亚式-双纽闪门`_」还没有送去墓地，连锁处理后不能发动②效果。\ `25/4/26 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24167&keyword=&tag=-1&request_locale=ja>`__
+| 记述『必须把3只解放作召唤』『把自己场上3只怪兽解放的场合才能通常召唤』『把自己场上3只「机壳」怪兽解放的场合才能通常召唤』『把1只通常怪兽解放的场合才能召唤』的「`欧贝利斯克之巨神兵`_」「`邪神 抹灭者`_」「`隐藏的机壳杀手 物质主义`_」「`原石龙 帝王黄玉龙`_」不能适用「`拥抱过咎的魔瞳`_」的『●自己在5星以上的怪兽召唤的场合需要的解放可以不用』的效果来不用解放作召唤·通常召唤，必须按照自身记述的召唤手续进行召唤·通常召唤。\ `25/4/26 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24171&keyword=&tag=-1&request_locale=ja>`__
+| 双方场地区域都存在卡片，「`宇迦御狐之御稻成`_」的③效果处理时，先决定是否适用2个『●』效果，决定都适用的场合，即使『●对方场上1张卡破坏』破坏了场地区域的卡片，仍然会继续进行第2个『●』效果的处理。\ `25/4/26 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24168&keyword=&tag=-1&request_locale=ja>`__
+
+4/28
+-------
+
+| 数据库：
+| 「`月光舞蹈会`_」的②效果适用了的回合，即使自己怪兽区域不存在怪兽，也可以发动「`代理F魔术师`_」的①效果，只除外墓地的怪兽来融合召唤。\ `25/4/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24175&keyword=&tag=-1&request_locale=ja>`__
+
+25/05
+=========
+
+5/2
+-------
+
+| 数据库：
+| 把手卡「`征服斗魂 重型电子人`_」给对方观看，发动「`征服斗魂 霍丽·苏`_」①效果的连锁上，发动其他「征服斗魂」卡的效果，作为cost要给对方观看「征服斗魂」怪兽的场合，可以把之前连锁块上发动效果的自身（这只「`征服斗魂 霍丽·苏`_」）或已经作为cost给对方观看过的怪兽（这只「`征服斗魂 重型电子人`_」）再给对方观看。\ `25/4/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24176&keyword=&tag=-1&request_locale=ja>`__
+
 .. _`电力军曹`: https://ygocdb.com/card/name/电力军曹
 .. _`融合强兵`: https://ygocdb.com/card/name/融合强兵
 .. _`大逮捕`: https://ygocdb.com/card/name/大逮捕
@@ -1099,3 +1125,22 @@
 .. _`光子蝶刺客`: https://ygocdb.com/card/name/光子蝶刺客
 .. _`隐藏的机壳杀手 物质主义`: https://ygocdb.com/card/name/隐藏的机壳杀手%20物质主义
 .. _`起动的机壳`: https://ygocdb.com/card/name/起动的机壳
+.. _`闪刀亚式-双纽闪门`: https://ygocdb.com/card/name/闪刀亚式-双纽闪门
+.. _`讴歌死亡的魔瞳`: https://ygocdb.com/card/name/讴歌死亡的魔瞳
+.. _`机壳`: https://ygocdb.com/?search=机壳
+.. _`邪神 抹灭者`: https://ygocdb.com/card/name/邪神%20抹灭者
+.. _`精灵之镜`: https://ygocdb.com/card/name/精灵之镜
+.. _`原石龙 帝王黄玉龙`: https://ygocdb.com/card/name/原石龙%20帝王黄玉龙
+.. _`月光舞蹈会`: https://ygocdb.com/card/name/月光舞蹈会
+.. _`征服斗魂 霍丽·苏`: https://ygocdb.com/card/name/征服斗魂%20霍丽·苏
+.. _`青眼亚白龙`: https://ygocdb.com/card/name/青眼亚白龙
+.. _`闪刀`: https://ygocdb.com/?search=闪刀
+.. _`撕裂时间的魔瞳`: https://ygocdb.com/card/name/撕裂时间的魔瞳
+.. _`原石龙 地下黄砷榴石龙`: https://ygocdb.com/card/name/原石龙%20地下黄砷榴石龙
+.. _`拥抱过咎的魔瞳`: https://ygocdb.com/card/name/拥抱过咎的魔瞳
+.. _`征服斗魂 重型电子人`: https://ygocdb.com/card/name/征服斗魂%20重型电子人
+.. _`征服斗魂`: https://ygocdb.com/?search=征服斗魂
+.. _`正义的传说 海马侠`: https://ygocdb.com/card/name/正义的传说%20海马侠
+.. _`欧贝利斯克之巨神兵`: https://ygocdb.com/card/name/欧贝利斯克之巨神兵
+.. _`宇迦御狐之御稻成`: https://ygocdb.com/card/name/宇迦御狐之御稻成
+.. _`代理F魔术师`: https://ygocdb.com/card/name/代理F魔术师
