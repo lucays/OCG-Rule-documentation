@@ -2734,7 +2734,7 @@
 | 「`真正之光`_」的『●从卡组选同名卡不在自己的场上·墓地存在的1张有「`青眼白龙`_」的卡名记述的魔法·陷阱卡在自己场上盖放』效果处理时，可以选这个时点在场上盖放的的魔法·陷阱卡的同名卡。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23374&keyword=&tag=-1&request_locale=ja>`__
 | 「`命运英雄 毁灭凤凰人`_」的③效果发动时，连锁发动「`墓穴的指名者`_」无效的场合，这个效果无效，下个回合的准备阶段也不会特殊召唤怪兽。「`命运英雄 毁灭凤凰人`_」的③效果发动并适用后，再才发动「`墓穴的指名者`_」除外同名卡的场合，下个回合的准备阶段会正常特殊召唤怪兽。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23373&keyword=&tag=-1&request_locale=ja>`__
 | 「`电脑堺门-朱雀`_」②效果以等级3以下的怪兽为对象发动的场合，处理时只能选上升3，不能选下降。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23370&keyword=&tag=-1&request_locale=ja>`__
-| 「`吸入暗阴的魔镜`_」在场上存在时，墓地或场上的暗属性怪兽发动效果后，处理时变成里侧表示的场合，那个发动的效果仍然无效。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23369&keyword=&tag=-1&request_locale=ja>`__
+| 「`吸入暗阴的魔镜`_」在场上存在时，场上的暗属性怪兽发动效果后，处理时变成里侧表示的场合，那个发动的效果仍然无效。\ `21/10/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23369&keyword=&tag=-1&request_locale=ja>`__
 
 10/16
 --------

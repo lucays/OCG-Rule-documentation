@@ -122,7 +122,7 @@ def add_jp_locale_in_db_url(texts: str) -> str:
 def add_cdb_url(texts: str) -> str:
 
     def need_skip(line: str) -> bool:
-        if ':strike:' in line or '\ *' in line or '**' in line or line.startswith('.. _`'):
+        if ':strike:' in line or r'\ *' in line or '**' in line or line.startswith('.. _`'):
 
             if '*' in line and '「`' in line:
                 for i in re.findall('(?<=「)[^」]*[^「]*(?=」)', line):
@@ -254,15 +254,15 @@ def strike_completion(texts: str) -> str:
     for line in texts.split('\n'):
         if '| :strike:' in line:
             if '「`' in line:
-                line = line.split('\ `')[0]
+                line = line.split(r'\ `')[0]
                 line = line.replace('「`', '「').replace('`_」', '」').strip('`')
             else:
                 line = line.strip('`')
-            if '。\ `' in line:
-                datas = line.split('。\ `')
-                line = '。\ `'.join(datas[:-1]) + '。'
-            line = line.replace('\ :ref:`', '').replace('`\ 。', '。')
-            if '`\ ' not in line and '[#]' not in line:
+            if r'。\ `' in line:
+                datas = line.split(r'。\ `')
+                line = r'。\ `'.join(datas[:-1]) + '。'
+            line = line.replace(r'\ :ref:`', '').replace(r'`\ 。', '。')
+            if r'`\ ' not in line and '[#]' not in line:
                 line = f'{line}`'
         new_texts.append(line)
     return '\n'.join(new_texts).strip() + '\n'
