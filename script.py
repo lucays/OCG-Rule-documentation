@@ -330,7 +330,7 @@ def do_git():
     repo.git.checkout('dev')
     if repo.is_dirty():
         repo.git.add('.')
-        repo.index.commit('add faq')
+        repo.index.commit('正文内容补充')
         repo.git.push()
 
     if 'valid' in repo.branches:
