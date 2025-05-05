@@ -43,6 +43,8 @@
 | 『\ **发动的回合**\ ，○○』\ **不是效果。整个回合内只能选两者之中的1个进行**\ 。\ `23/12/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23896&keyword=&tag=-1&request_locale=ja>`__
 | 在第九期后的文本中，有的放在了效果序号之前，而有的放在了序号之后，没有区别，只能选1个进行。
 | 例：
+| 「`战华之叛-吕奉`_」的卡名变更为「`不明`_」后，不能发动自身的①效果。
+| 「`幻奏的音姬 殊荣之弗朗索瓦`_」的属性变更为暗后，不能发动自身的①效果。
 | 进行了通常召唤的回合，\ **不能**\ 发动「高速疾行机人 魔剑玉」的③效果。\ `15/8/16 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11640>`__
 | 发动过卡的效果的回合，\ **不能**\ 发动「混沌帝龙 -终焉的使者-」的效果。\ `16/12/17 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5860>`__
 
@@ -329,3 +331,6 @@
 .. _`太阳神之翼神龙`: https://ygocdb.com/card/name/太阳神之翼神龙
 .. _`古之咒文`: https://ygocdb.com/card/name/古之咒文
 .. _`DDD 双晓王 末法神`: https://ygocdb.com/card/name/DDD%20双晓王%20末法神
+.. _`不明`: https://ygocdb.com/card/name/不明
+.. _`战华之叛-吕奉`: https://ygocdb.com/card/name/战华之叛-吕奉
+.. _`幻奏的音姬 殊荣之弗朗索瓦`: https://ygocdb.com/card/name/幻奏的音姬%20殊荣之弗朗索瓦
