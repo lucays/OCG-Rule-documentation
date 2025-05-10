@@ -326,6 +326,7 @@ def delete_folder(folder_path: Path) -> None:
 def do_git():
     do_all()
     check_card_urls(ALL_CARD_URLS)
+    print('start git')
     repo = Repo(current_dir)
     repo.git.checkout('dev')
     if repo.is_dirty():
