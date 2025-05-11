@@ -1,7 +1,6 @@
 
 import re
 from pathlib import Path
-from concurrent.futures import ThreadPoolExecutor
 
 import requests
 from git import Repo
@@ -132,7 +131,7 @@ def add_cdb_url(texts: str) -> str:
             return True
         return False
 
-    def get_names_dict(names: list):
+    def get_names_dict(names: list) -> dict:
         names_dict = {}
         for name in names:
             name = name[1:-1].strip('`_')
@@ -226,7 +225,7 @@ def exract_card_urls(texts: str):
         ALL_CARD_URLS.add(card_url)
 
 
-def check_card_urls(card_urls):
+def check_card_urls(card_urls: list[str]) -> None:
     c = 0
     for card_url in card_urls:
         if card_url in VALID_CARD_URLS:
@@ -277,13 +276,13 @@ def remove_strike_completion(texts: str) -> str:
     return '\n'.join(new_texts).strip() + '\n'
 
 
-def replace_not_card(texts: str):
+def replace_not_card(texts: str) -> str:
     for not_card_name in NOT_CARD_NAMES:
         texts = texts.replace(f'「`{not_card_name}`_」', f'「{not_card_name}」')
     return texts
 
 
-def do_one(file: Path, branch='dev') -> None:
+def process_one_file(file: Path, branch: str) -> None:
     old_texts = file.read_text(encoding='utf8')
     texts = replace_en_name(old_texts)
     texts = add_cdb_url(texts)
@@ -298,15 +297,15 @@ def do_one(file: Path, branch='dev') -> None:
         file.write_text(texts, encoding='utf8', newline='\n')
 
 
-def do_all(branch='dev') -> None:
+def process_all(branch: str = 'dev') -> None:
     docs_path = Path(__file__).parent / 'docs'
     for sub_path in docs_path.iterdir():
         if sub_path.is_file() and sub_path.name.endswith('.rst'):
-            do_one(sub_path, branch)
+            process_one_file(sub_path, branch)
         elif sub_path.is_dir():
             for file in sub_path.iterdir():
                 if file.name.endswith('.rst'):
-                    do_one(file, branch)
+                    process_one_file(file, branch)
 
 
 def delete_folder(folder_path: Path) -> None:
@@ -323,21 +322,18 @@ def delete_folder(folder_path: Path) -> None:
         print(f"文件夹不存在或不是目录: {folder_path}")
 
 
-def do_git():
-    do_all()
-    check_card_urls(ALL_CARD_URLS)
-    print('start git')
+def git_operations(commit_message: str) -> None:
     repo = Repo(current_dir)
     repo.git.checkout('dev')
     if repo.is_dirty():
         repo.git.add('.')
-        repo.index.commit('add faq')
+        repo.index.commit(commit_message)
         repo.git.push()
 
     if 'valid' in repo.branches:
         repo.delete_head('valid', force=True)
     repo.git.checkout('-b', 'valid')
-    do_all('valid')
+    process_all('valid')
     if repo.is_dirty():
         repo.git.add('.')
         repo.index.commit('rm invalid faq')
@@ -357,5 +353,11 @@ def do_git():
     repo.git.checkout('dev')
 
 
+def main(commit_message: str = 'add faq') -> None:
+    process_all()
+    check_card_urls(ALL_CARD_URLS)
+    git_operations(commit_message)
+
+
 if __name__ == '__main__':
-    do_git()
+    main('fix faq')
