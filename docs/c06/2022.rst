@@ -924,7 +924,7 @@
 | 除了「`鲜花花剑`_」的①效果和③效果以外的效果，不能把「`鲜花花剑`_」给怪兽装备。\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16387&request_locale=ja>`__
 | 「`克隆复制`_」的效果特殊召唤的「`克隆衍生物`_」是通常怪兽，不持有原本的种族·属性·等级·攻击力·守备力。\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5574&request_locale=ja>`__
 | 「`攻击诱导铠甲`_」的『●以那只攻击怪兽以外的自己或者对方场上1只怪兽为对象才能发动。攻击对象转移为那只怪兽进行伤害计算。』效果发动时，不能以已经成为攻击对象的那只怪兽为对象发动。\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5487&request_locale=ja>`__
-| 「`恶醒师 奈特梅尔特`_」的①效果可以把攻击力『？』的怪兽解放来把攻击力『？』的怪兽作为相同攻击力的怪兽特殊召唤。守备力是？的也一样。\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17440&request_locale=ja>`__
+| 「`恶醒师 奈特梅尔特`_」的①效果可以把攻击力是『？』的怪兽解放来把攻击力是『？』的怪兽作为相同攻击力的怪兽特殊召唤。守备力是？的也一样。\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17440&request_locale=ja>`__
 | 自己把墓地陷阱卡的效果发动的场合，「`白银之迷宫城`_」的②效果不能发动。\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23647&keyword=&tag=-1&request_locale=ja>`__
 | 「`骑龙 驮龙`_」的③效果会被「`王家长眠之谷`_」的②效果无效化。\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23646&keyword=&tag=-1&request_locale=ja>`__
 | 从额外卡组特殊召唤的怪兽被一时除外后回到场上的场合，仍然当作从额外卡组特殊召唤的怪兽。从额外卡组特殊召唤的怪兽变成里侧守备表示的场合，从这个时点起不再当作从额外卡组特殊召唤的怪兽。（再变成表侧表示的场合也不是从额外卡组特殊召唤的怪兽。）\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23645&keyword=&tag=-1&request_locale=ja>`__

@@ -510,6 +510,7 @@
    | 此外，要被改写的效果和改写后的效果可以完全一致。
    | 例：
    | 对方发动通常魔法卡时，我方连锁发动「`暗之取引`_」，把对方通常魔法卡的效果变成『对方随机把手卡丢弃1张』后，我方手卡「`暗黑界的魔神 雷恩`_」被对方这张通常魔法卡的效果丢弃的场合，会发动自身①效果特殊召唤，然后会发动②效果。
+   | 对方场上没有卡，我方把「神艺」怪兽的效果发动时，不能连锁发动「`创狱神 涅瓦`_」的②效果把那个效果变成『对方场上的卡全部破坏』。
    | 对方以我方场上的「`灰篮短吻鳄`_」为对象发动「`精神操作`_」，我方连锁发动「`灰篮战斗`_」，把「`精神操作`_」的效果变成『作为对象的1只怪兽破坏』，结果「`灰篮短吻鳄`_」被破坏的场合，是被魔法卡的效果破坏，可以发动①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19598&keyword=&tag=-1&request_locale=ja>`__
    | 「`王战的支配`_」的①效果发动时，不能连锁发动「`灰流丽`_」。\ `19/8/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22759&keyword=&tag=-1&request_locale=ja>`__
    | 对方场上存在「`神殿守卫者`_」时，我方「`No.75 惑乱之风言暗影`_」的①效果不能发动。\ `18/5/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21888&keyword=&tag=-1&request_locale=ja>`__
@@ -965,3 +966,5 @@
 .. _`机壳的再星`: https://ygocdb.com/card/name/机壳的再星
 .. _`幻煌龙 螺旋`: https://ygocdb.com/card/name/幻煌龙%20螺旋
 .. _`灰篮龙`: https://ygocdb.com/card/name/灰篮龙
+.. _`创狱神 涅瓦`: https://ygocdb.com/card/name/创狱神%20涅瓦
+.. _`神艺`: https://ygocdb.com/?search=神艺
