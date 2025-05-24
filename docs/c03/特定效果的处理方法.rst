@@ -54,9 +54,18 @@
    | 「`淘气仙星·福克希维琪`_」造成效果伤害后让「`淘气仙星的灯光舞台`_」也造成效果伤害的场合，是同时造成的伤害。\ `17/12/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21673&request_locale=ja>`__ 但本身造成了2次伤害，「`噩梦之拷问室`_」的效果会连锁发动2次。\ `17/7/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20805&request_locale=ja>`__ 「`DDD 反骨王 列奥尼达`_」从手卡发动效果时选择回复其中1次受到伤害的数值，也就是回复200基本分，不能回复两次。\ `17/12/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6135&request_locale=ja>`__
    | 「`神影依·米德拉什`_」的②效果适用中，也可以发动「`救祓少女·马尔法`_」的①效果并正常适用。「`救祓少女·马尔法`_」的①效果特殊召唤的2只怪兽是在同1时点特殊召唤的，只当作进行了1次特殊召唤。\ `22/6/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23789&keyword=&tag=-1&request_locale=ja>`__
 
--  | 「`魔导书的神判`_」「`堕恶之爪`_」等明确记述的文本以外的，不入连锁的处理不占用时点。
+-  | 「`魔导书的神判`_」「`堕恶之爪`_」等明确记述的文本以外的，不入连锁的处理基本上不占用时点。
    | 例：
    | 「`辉龙星-蚣蝮`_」的②效果处理时，破坏了效果无效的「`黑洞龙`_」，特殊召唤了「`彼岸`_」怪兽，「`彼岸`_」怪兽立即因自身效果破坏的场合，也不能发动墓地「`黑洞龙`_」的①效果。
+
+   .. attention::
+
+      | 特别地，进行特定行动需要的手续是否是同时处理，\ :ref:`调整中`\ 。
+      | 例：
+      | 对方场上存在2张「`守墓的使魔`_」，我方怪兽攻击宣言之际，从卡组最上面把2只怪兽送去墓地的场合，是否可以发动「`星辰爪龙 巨蟹摩羯龙魔`_」的②效果，\ :ref:`调整中`\ 。
+      | 对方场上存在「`通行增税`_」，我方「`白之枢机龙`_」攻击宣言之际，因自身②效果和「`通行增税`_」的①效果而把2只怪兽送去墓地的场合，是否可以发动「`星辰爪龙 巨蟹摩羯龙魔`_」的②效果，\ :ref:`调整中`\ 。
+      | 对方场上存在「`通行增税`_」，P区域存在「`娱乐伙伴 古典栗子球`_」，我方怪兽的直接攻击宣言之际，因「`通行增税`_」的①效果和「`娱乐伙伴 古典栗子球`_」的①效果而有2只怪兽送去墓地的场合，是否可以发动「`星辰爪龙 巨蟹摩羯龙魔`_」的②效果，\ :ref:`调整中`\ 。
+      | 我方场上存在持有2个X素材的「`虚空之黑魔导师`_」，对方怪兽的效果发动时，我方适用「`虚空之黑魔导师`_」的①效果取除1个X素材，并取除1个X素材作为cost从手卡发动「`超量阻挡`_」的场合，是否可以发动「`星辰爪龙 巨蟹摩羯龙魔`_」的②效果，\ :ref:`调整中`\ 。
 
 | 多步处理之间如果记述了『那之后』『再』这样的文本，就不是同时处理。
 | 此外，进行融合召唤·仪式召唤的效果，或者「`假面变化`_」等把特定融合怪兽特殊召唤的效果，虽然文本没有『那之后』『再』等记述，卡片送去墓地·除外等的处理和怪兽的特殊召唤不在同1个时点进行。
@@ -465,7 +474,7 @@
    | 可以对效果已经被无效化的怪兽发动「`神龙骑士 闪耀`_」的①效果，效果正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12932&keyword=&tag=-1&request_locale=ja>`__
    | 不能对已经适用了「`水物语-浦岛`_」的怪兽发动第2张「`水物语-浦岛`_」。\ `15/5/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11922&request_locale=ja>`__ 可以对攻击力·守备力已经是100的怪兽发动「`水物语-浦岛`_」并正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16002&keyword=&tag=-1&request_locale=ja>`__ 可以对效果已经被无效的怪兽发动「`水物语-浦岛`_」，对效果被「`技能抽取`_」无效的怪兽发动「`水物语-浦岛`_」的场合，那只怪兽不受「`技能抽取`_」的效果影响，而因「`水物语-浦岛`_」的效果变成『效果无效化，攻击力·守备力变成100，不受对方的效果影响』状态。\ `20/12/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15999&keyword=&tag=-1&request_locale=ja>`__
 
-   .. attention:: 特别地，记述是『効果を無効』的「`机壳的再星`_」的①②效果都会对已经适用了「`技能抽取`_」的怪兽适用。这个回合「`技能抽取`_」不适用的场合，那些怪兽仍然会因「`机壳的再星`_」的①②效果被无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14411&keyword=&tag=-1&request_locale=ja>`__
+   .. attention:: 特别地，记述是『効果を無効』的「`机壳的再星`_」的①②效果都会对已经适用了「`技能抽取`_」的怪兽适用。这个回合「`技能抽取`_」不适用的场合，那些怪兽仍然会因「`机壳的再星`_」的①②效果被无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14411&keyword=&tag=-1&request_locale=ja>`__ 类似描述的「`巨神龙的遗迹`_」的①效果如何处理，\ :ref:`调整中`\ 。
 
    -  | 『A+效果无效』的效果，只在『A』部分也是对要无效的怪兽适用的效果时，才能对效果已经被无效的卡适用。
       | 例：
@@ -1479,3 +1488,10 @@ cost
 .. _`天邪鬼的诅咒`: https://ygocdb.com/card/name/天邪鬼的诅咒
 .. _`地缚牢`: https://ygocdb.com/card/name/地缚牢
 .. _`命运英雄 血魔-D`: https://ygocdb.com/card/name/命运英雄%20血魔-D
+.. _`虚空之黑魔导师`: https://ygocdb.com/card/name/虚空之黑魔导师
+.. _`娱乐伙伴 古典栗子球`: https://ygocdb.com/card/name/娱乐伙伴%20古典栗子球
+.. _`超量阻挡`: https://ygocdb.com/card/name/超量阻挡
+.. _`巨神龙的遗迹`: https://ygocdb.com/card/name/巨神龙的遗迹
+.. _`守墓的使魔`: https://ygocdb.com/card/name/守墓的使魔
+.. _`通行增税`: https://ygocdb.com/card/name/通行增税
+.. _`白之枢机龙`: https://ygocdb.com/card/name/白之枢机龙

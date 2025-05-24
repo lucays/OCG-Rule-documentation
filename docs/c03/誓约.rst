@@ -139,6 +139,7 @@
 
    | 效果处理部分的括号也有可能不是效果。
    | 例：
+   | 「`七皇转生`_」的①效果处理时，『（（把持有超量素材的怪兽除外的场合那些超量素材也全部除外））』让作为X素材的「`悲剧之死狱乡演员`_」被除外的场合，是被效果除外，可以发动①效果。
    | 「`群豪世界-百识公国`_」的②效果处理时，『（所要放置区的卡破坏）』让魔法·陷阱卡破坏的场合，不是效果破坏。\ `22/3/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17359&request_locale=ja>`__
 
 .. _`效果的附加处理`:
@@ -350,3 +351,5 @@
 .. _`装弹枪管狞猛龙`: https://ygocdb.com/card/name/装弹枪管狞猛龙
 .. _`神艺学都 神艺学园`: https://ygocdb.com/card/name/神艺学都%20神艺学园
 .. _`群豪世界-百识公国`: https://ygocdb.com/card/name/群豪世界-百识公国
+.. _`悲剧之死狱乡演员`: https://ygocdb.com/card/name/悲剧之死狱乡演员
+.. _`七皇转生`: https://ygocdb.com/card/name/七皇转生

@@ -360,4 +360,4 @@ def main(commit_message: str = 'add faq') -> None:
 
 
 if __name__ == '__main__':
-    main('内容扩充')
+    main('add faq')
