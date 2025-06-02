@@ -564,6 +564,9 @@
 4/13
 -------
 
+| 邮件：
+| 「`重力均衡`_」的①效果处理时，可以特殊召唤攻击力和守备力都是0的怪兽。
+
 | 数据库：
 | 自己场上存在「`杯满的灿幻庄`_」和龙族·炎属性怪兽，自己的主要阶段1，对方发动「`肃声之威光`_」，「`杯满的灿幻庄`_」和龙族·炎属性怪兽都成为对象的场合，只破坏「`杯满的灿幻庄`_」。\ `24/4/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24063&keyword=&tag=-1&request_locale=ja>`__
 
@@ -3280,3 +3283,4 @@
 .. _`灵摆融合`: https://ygocdb.com/card/name/灵摆融合
 .. _`元素英雄 水波新宇侠`: https://ygocdb.com/card/name/元素英雄%20水波新宇侠
 .. _`新空间侠·水波海豚`: https://ygocdb.com/card/name/新空间侠·水波海豚
+.. _`重力均衡`: https://ygocdb.com/card/name/重力均衡

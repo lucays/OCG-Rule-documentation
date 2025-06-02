@@ -24,13 +24,12 @@
 『包含○○』
 =============
 
-| 部分效果的发动时，就已经确定了是否包含特定效果。
+| 取对象效果、选择1个发动的效果等，部分效果在发动时可以确定是否『包含○○』。
 | 例：
 | 「`沉眠于星遗物的深层`_」发动时，不选择对象的场合，不是包含把怪兽特殊召唤的效果，不能连锁发动「`神之警告`_」。
 | 「`自然的神星树`_」等永续陷阱卡的发动时，如果不同时发动把怪兽特殊召唤的效果，那么不能连锁发动「`神之警告`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13786&request_locale=ja>`__
-| 怪兽卡的怪兽效果的发动时，或者在P区域把P怪兽卡当作魔法卡发动时，连锁把「`饼蛙`_」的②效果发动的场合，不论是连锁什么怪兽卡来发动，都可以接着连锁发动「`神之警告`_」或「`屋敷童`_」的①效果。\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19625&keyword=&tag=-1&request_locale=ja>`__
 | 「`刚地帝 格兰玛格`_」不是用地属性怪兽解放来上级召唤时发动效果的场合，由于发动时确定不可能抽卡，不能连锁发动「`灰流丽`_」的①效果。\ `17/3/24 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20547&keyword=&tag=-1>`__
-| 4种类怪兽融合召唤的「`狱火机 提耶拉`_」在融合召唤成功时发动效果，不能连锁发动「`灰流丽`_」的①效果。\ `17/3/24 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10690&keyword=&tag=-1>`__
+| 4种类怪兽融合召唤的「`狱火机 提耶拉`_」在融合召唤成功时发动效果时，不能连锁发动「`灰流丽`_」的①效果。\ `17/3/24 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10690&keyword=&tag=-1>`__
 | 墓地「`森之番人 绿狒狒`_」的①效果发动时，可以连锁发动「`屋敷童`_」的①效果。手卡「`森之番人 绿狒狒`_」的①效果发动时，不能连锁发动「`屋敷童`_」的①效果。\ `18/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21723&request_locale=ja>`__
 | 「`狱火机·莉莉丝`_」的②效果对应墓地怪兽效果的发动而发动时，可以连锁发动「`屋敷童`_」的①效果。对应墓地以外怪兽效果的发动而发动时，不能连锁发动「`屋敷童`_」的①效果。\ `18/1/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7984&request_locale=ja>`__\ 「`召唤兽 梅尔卡巴`_」同样。
 | 「`小法师 水鱿火达磨`_」的③效果以墓地的怪兽为对象发动时，可以连锁发动「`屋敷童`_」的①效果。以除外的怪兽为对象发动时，不能连锁发动「`屋敷童`_」的①效果。\ `18/1/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10733&request_locale=ja>`__
@@ -38,9 +37,9 @@
 
 -  | 不论游戏状况如何，只要包含了特定效果，就可以对应发动。
    | 例：
-   | 即使「`饼蛙`_」的②效果对应的那个怪兽因苏生限制等不能被这个效果特殊召唤，也可以连锁发动「`神之警告`_」。
    | 即使「`怨邪帝 盖乌斯`_」效果的对象选择的是任意魔法·陷阱卡（包括场地魔法等），也可以连锁发动「`屋敷童`_」的①效果。
    | 对「`假面英雄 暗爪`_」发动「`融合解除`_」时，也可以连锁发动「`屋敷童`_」的①效果。
+   | 怪兽卡发动效果时（怪兽效果的发动时，或者在P区域把P怪兽卡当作魔法卡发动时），连锁把「`饼蛙`_」的②效果发动的场合，不论是连锁什么怪兽卡来发动（即使「`饼蛙`_」的②效果对应的那个怪兽因苏生限制等不能被这个效果特殊召唤），都可以再连锁发动「`神之警告`_」或「`屋敷童`_」的①效果。\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19625&keyword=&tag=-1&request_locale=ja>`__
    | 「`小丑与锁鸟`_」的①效果适用中，「`三战之号`_」发动时，仍然可以连锁发动「`圣王的粉碎`_」或「`灰流丽`_」的①效果。\ `25/4/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24162&keyword=&tag=-1&request_locale=ja>`__
    | 「`心灵崩坏`_」发动时，可以连锁发动「`守墓的监视者`_」的效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11731&keyword=&tag=-1&request_locale=ja>`__
    | 「`大宇宙`_」的②效果适用中，发动「`愚蠢的埋葬`_」的场合，仍然可以连锁发动「`灰流丽`_」的①效果。\ `17/3/24 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20543&keyword=&tag=-1>`__
@@ -54,6 +53,7 @@
 -  | 必发效果强制发动时，可能不包含特定效果。
    | 例：
    | 墓地没有「`废铁`_」怪兽，「`废铁龙`_」的②效果不取对象强制发动时，不能连锁发动「`屋敷童`_」的①效果。
+   | 我方墓地不存在「古遗物」怪兽，「`古遗物-雷神锤`_」的③效果强制发动时不取对象，这时对方不能连锁发动「`屋敷童`_」的①效果。\ `25/5/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24180&keyword=&tag=-1&request_locale=ja>`__
 
 | 即使包含的特定效果不是立即处理，也能对应。
 | 例：
@@ -77,20 +77,22 @@
 『把卡片破坏』『给与伤害』等
 =============================
 
-| 部分效果的发动时，自身就已经确定了处理结果。
+| 取对象效果、选择1个发动的效果等，部分效果在发动时可以确定是否『把卡片破坏』『给与伤害』。
 | 例：
 | 「`炎舞-「瑶光」`_」发动时，不选择对象不丢弃手卡的场合，就没有发动那个破坏效果，不能连锁发动「`星尘龙`_」的①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10216&request_locale=ja>`__
 | 「`No.90 银河眼光子卿`_」的②效果发动时，取除的X素材不是「`银河`_」卡的场合，就只能无效，不能破坏，不能连锁发动「`破坏干扰`_」。是的场合，可以连锁发动「`破坏干扰`_」。\ `18/5/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21890&request_locale=ja>`__
-| 「`一时休战`_」的效果适用中，发动「`破坏轮`_」时，一定不会造成伤害，不能连锁发动「`娱乐法师 伤害杂耍人`_」的①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15398&request_locale=ja>`__
 
 -  | 部分效果的发动时，如果这时的游戏状况确定能适用，也可以连锁发动对应的效果。
+   | 本身确定『把卡片破坏』的效果发动时，那些卡不会被效果破坏或者不受效果影响的场合，也可以连锁发动对应的效果。
+   | 本身确定『给与伤害』的效果发动时，「`一时休战`_」等效果已经适用中的场合，这个效果就不是确定『给与伤害』的效果，不能连锁发动。
    | 例：
    | 「`武装新宇侠`_」的①效果发动时，如果我方墓地只有1只龙族怪兽，且对方场上存在2只以上等级在其以下的怪兽的状况，对方可以连锁发动「`星光大道`_」。
    | 「`宇迦御狐之御稻成`_」的③效果发动时，如果场上只有1张场地魔法，对方场上没有卡的状况，对方可以连锁发动「`娱乐伙伴 雨衣山羊`_」的①效果；如果对方场上存在卡，对方不能连锁发动「`娱乐伙伴 雨衣山羊`_」的①效果。
+   | 「`一时休战`_」的效果适用中，发动「`破坏轮`_」时，一定不会造成伤害，不能连锁发动「`娱乐法师 伤害杂耍人`_」的①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15398&request_locale=ja>`__
    | 「`水晶机巧-柠晶龙`_」①效果发动时，如果自己场上存在卡片，可以连锁发动「`星尘龙`_」的①效果；如果自己场上没有卡片，不能连锁发动「`星尘龙`_」的①效果。（即使效果处理会把自身特殊召唤再把场上的自身破坏）\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20074&keyword=&tag=-1&request_locale=ja>`__
    | 自己场上有攻击力1500以上怪兽表侧表示存在的场合，对方发动「`死之卡组破坏病毒`_」时，我方可以连锁发动「`我身作盾`_」。有2只以上的场合，可以连锁发动「`星光大道`_」。自己场上只有里侧表示怪兽或没有怪兽存在时，「`我身作盾`_」「`星光大道`_」不能连锁发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14572&request_locale=ja>`__
    | 「`真龙皇 阿耆尼马兹德·消灭`_」的①效果由于在处理时才选要破坏手卡还是场上的怪兽，基本上不能连锁发动「`我身作盾`_」。但如果手卡只有这1张，也就是效果处理时必须破坏场上怪兽的状况，可以连锁发动「`我身作盾`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18723&request_locale=ja>`__
-   | 自己「`古遗物 巨怒剑`_」的破坏效果发动时，对方场上表侧表示的卡只有怪兽的状况，可以连锁发动「`我身作盾`_」，既有怪兽还有魔法·陷阱卡的状况，就不能发动了。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13169&request_locale=ja>`__
+   | 自己「`古遗物 巨怒剑`_」的破坏效果发动时，对方场上表侧表示的卡只有怪兽的状况，可以连锁发动「`我身作盾`_」，既有怪兽还有魔法·陷阱卡的状况，不能发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13169&request_locale=ja>`__
    | 「`无差别崩坏`_」的效果由于在处理时不能确定会破坏怪兽，基本上不能连锁发动「`我身作盾`_」。但如果场上有等级1的怪兽，由于无论点数多少都会被破坏，就可以连锁发动「`我身作盾`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20860&request_locale=ja>`__
    | 「`零-最大`_」发动时，如果场上没有比取对象的怪兽攻击力更低的怪兽，那么不能连锁发动「`星尘龙`_」的①效果。有的场合才能发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=192&request_locale=ja>`__
    | 对方「`药物引发的副作用`_」的效果适用中，对方发动「`礼品卡`_」的场合，是给与伤害的效果，可以连锁发动「`娱乐伙伴 雨衣山羊`_」的①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17573&request_locale=ja>`__
@@ -199,3 +201,5 @@
 .. _`小丑与锁鸟`: https://ygocdb.com/card/name/小丑与锁鸟
 .. _`宇迦御狐之御稻成`: https://ygocdb.com/card/name/宇迦御狐之御稻成
 .. _`水晶机巧-柠晶龙`: https://ygocdb.com/card/name/水晶机巧-柠晶龙
+.. _`古遗物`: https://ygocdb.com/?search=古遗物
+.. _`古遗物-雷神锤`: https://ygocdb.com/card/name/古遗物-雷神锤
