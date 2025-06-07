@@ -74,6 +74,12 @@
 | 「`堕天使`_」怪兽以墓地「`堕天使的追放`_」为对象发动②效果时，不能连锁发动「`灰流丽`_」的①效果。
 | 「`紧急仪式术`_」的效果本身就包含仪式召唤，因此可以连锁发动「`神之警告`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7942&request_locale=ja>`__
 
+| 「`连锁素材`_」等效果不是让融合召唤的效果本身变得『包含○○』。
+| 例：
+| 「`连锁素材`_」「`电子融合支援`_」「`被埋葬的牲祭`_」发动时，不能连锁发动「`屋敷童`_」的效果。
+| 「`电子暗黑嵌合体`_」发动时，不能连锁发动发动「`屋敷童`_」的效果。\ `21/6/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17579&keyword=&tag=-1&request_locale=ja>`__
+| 「`电子暗黑嵌合体`_」的①效果适用的回合，我方把「`力量结合`_」发动时，不能连锁发动「`屋敷童`_」的效果。\ `21/6/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18784&keyword=&tag=-1&request_locale=ja>`__
+
 『把卡片破坏』『给与伤害』等
 =============================
 
@@ -115,6 +121,10 @@
 | 例：
 | 「`堕天使`_」怪兽以墓地「`背德的堕天使`_」为对象发动②效果时，不能连锁发动「`星尘龙`_」的①效果。
 | 「`芙莉西亚之虫惑魔`_」的③效果不是破坏效果，即使把「`奈落的落穴`_」送去墓地作为cost发动，也不能连锁发动「`星尘龙`_」的效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16681&keyword=&tag=-1&request_locale=ja>`__
+
+| 「`连锁素材`_」等效果会让融合召唤的效果在发动时可能变得不确定『把卡片破坏』『给与伤害』。
+| 例：
+| 我方把「`电子暗黑嵌合体`_」的①效果发动过的回合，场上不存在怪兽，墓地存在2只以上「`电子龙`_」怪兽的场合，也可以发动「`速射扳机`_」。这时对方不能连锁发动「`星尘龙`_」的①效果。
 
 .. _`奈落的落穴`: https://ygocdb.com/card/name/奈落的落穴
 .. _`珠泪哀歌族·鲁莎卡人鱼`: https://ygocdb.com/card/name/珠泪哀歌族·鲁莎卡人鱼
@@ -203,3 +213,10 @@
 .. _`水晶机巧-柠晶龙`: https://ygocdb.com/card/name/水晶机巧-柠晶龙
 .. _`古遗物`: https://ygocdb.com/?search=古遗物
 .. _`古遗物-雷神锤`: https://ygocdb.com/card/name/古遗物-雷神锤
+.. _`电子融合支援`: https://ygocdb.com/card/name/电子融合支援
+.. _`连锁素材`: https://ygocdb.com/card/name/连锁素材
+.. _`速射扳机`: https://ygocdb.com/card/name/速射扳机
+.. _`电子暗黑嵌合体`: https://ygocdb.com/card/name/电子暗黑嵌合体
+.. _`力量结合`: https://ygocdb.com/card/name/力量结合
+.. _`被埋葬的牲祭`: https://ygocdb.com/card/name/被埋葬的牲祭
+.. _`电子龙`: https://ygocdb.com/?search=电子龙
