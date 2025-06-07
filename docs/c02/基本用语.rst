@@ -586,7 +586,7 @@ cost
 | 例：
 | 场上存在因「`沙尘防护罩 -尘埃之力-`_」的①效果变成里侧守备表示的「`天照大神`_」，这只「`天照大神`_」仍然可以把自身变成表侧守备表示作为cost发动①效果。
 | 「`掷骰战斗`_」的②效果让对方怪兽向自己怪兽攻击的场合，不是进行攻击宣言，那个怪兽在主要阶段2仍然可以变更表示形式。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7088&request_locale=ja>`__
-| 当回合召唤·反转召唤·特殊召唤·盖放·攻击过的怪兽，被「`亚空间物质回送装置`_」的①效果除外再回到场上的场合，玩家可以按照自己的意志把这只怪兽的表示形式变更。\ `24/5/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24069&keyword=&tag=-1&request_locale=ja>`__
+| 当回合召唤·反转召唤·特殊召唤·盖放·表示形式已经变更过·攻击宣言过的怪兽，被「`亚空间物质回送装置`_」的①效果除外再回到场上的场合，玩家可以按照自己的意志把这只怪兽的表示形式变更。\ `24/5/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24069&keyword=&tag=-1&request_locale=ja>`__
 
 .. note:: 记述『攻击』和『攻击宣言』的更多区别见\ :ref:`战斗步骤`\ 。
 

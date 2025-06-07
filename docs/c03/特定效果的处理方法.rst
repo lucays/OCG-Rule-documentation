@@ -486,8 +486,6 @@
    | 可以对效果已经被无效化的怪兽发动「`神龙骑士 闪耀`_」的①效果，效果正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12932&keyword=&tag=-1&request_locale=ja>`__
    | 不能对已经适用了「`水物语-浦岛`_」的怪兽发动第2张「`水物语-浦岛`_」。\ `15/5/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11922&request_locale=ja>`__ 可以对攻击力·守备力已经是100的怪兽发动「`水物语-浦岛`_」并正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16002&keyword=&tag=-1&request_locale=ja>`__ 可以对效果已经被无效的怪兽发动「`水物语-浦岛`_」，对效果被「`技能抽取`_」无效的怪兽发动「`水物语-浦岛`_」的场合，那只怪兽不受「`技能抽取`_」的效果影响，而因「`水物语-浦岛`_」的效果变成『效果无效化，攻击力·守备力变成100，不受对方的效果影响』状态。\ `20/12/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15999&keyword=&tag=-1&request_locale=ja>`__
 
-   .. attention:: 特别地，记述是『効果を無効』的「`机壳的再星`_」的①②效果都会对已经适用了「`技能抽取`_」的怪兽适用。这个回合「`技能抽取`_」不适用的场合，那些怪兽仍然会因「`机壳的再星`_」的①②效果被无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14411&keyword=&tag=-1&request_locale=ja>`__ 类似描述的「`巨神龙的遗迹`_」的①效果如何处理，\ :ref:`调整中`\ 。
-
    -  | 『A+效果无效』的效果，只在『A』部分也是对要无效的怪兽适用的效果时，才能对效果已经被无效的卡适用。
       | 例：
       | 对攻击力不是0的，效果被「`技能抽取`_」「`禁忌的圣杯`_」无效的怪兽发动记述是『攻撃力を０にし、その効果を無効にする』的「`辉光公子 帕拉迪奥斯`_」的效果后，「`技能抽取`_」「`禁忌的圣杯`_」的效果不再适用的场合，那只怪兽的攻击力仍然是0，效果仍然无效。\ `14/1/31 <https://yugioh-wiki.net/index.php?%A1%D4%B5%B1%B8%F7%BB%D2%A5%D1%A5%E9%A5%C7%A5%A3%A5%AA%A5%B9%A1%D5#faq1>`__
