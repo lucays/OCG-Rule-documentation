@@ -360,4 +360,4 @@ def main(commit_message: str = 'add faq') -> None:
 
 
 if __name__ == '__main__':
-    main('add faq')
+    main('fix card url')
