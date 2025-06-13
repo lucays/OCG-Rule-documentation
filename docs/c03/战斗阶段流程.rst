@@ -212,20 +212,24 @@
 | 例：
 | 「`雷击坏兽 雷鸣龙王`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19912&request_locale=ja>`__ 「`方程式运动员 音速赛道名手`_」\ `17/9/21 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9019&request_locale=ja>`__ 「`超重型炮塔列车 破天巨爱`_」\ `18/11/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22241&keyword=&tag=-1&request_locale=ja>`__
 | 对方场上没有怪兽，「`No.95 银河眼暗物质龙`_」也能发动②效果。这个状态又直接攻击后，再出现怪兽的场合，也不能向怪兽攻击。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14804&request_locale=ja>`__
+| 「`冥骸合龙-莫忘冥地王灵`_」已经直接攻击进行了伤害计算的战斗阶段内，因卡片效果对方场上出现怪兽的场合，也不能再向怪兽攻击。此外，「`冥骸合龙-莫忘冥地王灵`_」已经和对方怪兽进行战斗的战斗阶段内，不能再直接攻击。\ `24/8/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16016&request_locale=ja>`__
 
 -  | 直接攻击被无效或发生卷回后选择放弃攻击等状况，也不能再向怪兽攻击。
    | 向怪兽攻击发生卷回时，不能再直接攻击。
    | 例：
    | 「`青眼双爆裂龙`_」直接攻击被无效，不能再向怪兽攻击。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=178&request_locale=ja97&request_locale=ja>`__
-   | 「`暴君爆风龙`_」向「`发条兔`_」攻击，「`发条兔`_」发动效果除外自身后发生卷回时，没有其他怪兽存在的场合，如果还未向其他怪兽攻击（这是「`暴君爆风龙`_」的第1次攻击），就可以选择直接攻击，否则战斗终止。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16015&request_locale=ja>`__
-   | 「`阿修罗`_」向怪兽攻击时，战斗步骤内那个怪兽因其他效果从场上离开，发生卷回时，没有其他怪兽存在的场合，如果还未向其他怪兽攻击（这是「`阿修罗`_」的第1次攻击），就可以选择直接攻击，否则战斗终止。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=136&request_locale=ja>`__
-   | 装备了「`流星之弓-烨焰`_」的「`暴君爆风龙`_」直接攻击时，对方发动「`旋风`_」破坏了「`流星之弓-烨焰`_」，发生卷回后选择向怪兽攻击的场合，这次攻击后不能再向怪兽攻击。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16016&request_locale=ja>`__
+   | 对方场上只有1只怪兽，我方「`冥骸合龙-莫忘冥地王灵`_」第1次攻击宣言时，因卡片效果那只对方怪兽从场上离开，发生战斗步骤的卷回的场合，可以直接攻击。（如果已经攻击其他怪兽进行过战斗的场合，不能直接攻击，战斗终止）\ `24/8/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16016&request_locale=ja>`__
+   | 装备了「`流星之弓-烨焰`_」的「`冥骸合龙-莫忘冥地王灵`_」直接攻击时，对方发动「`旋风`_」破坏了「`流星之弓-烨焰`_」，发生卷回后选择向怪兽攻击的场合，这次攻击后不能再向怪兽攻击。\ `24/8/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16016&request_locale=ja>`__
+
+| 『可以向对方全部怪兽各作1次攻击』效果在攻击对象转移的场合，可以再次攻击最初作为攻击对象的那只怪兽。
+| 例：
+| 装备「`异热同心武器-阿修罗副腕`_」的「希望皇 霍普」怪兽攻击对方「`无赖特急 蝙蝠列车`_」时，对方从手卡发动「`工作列车 红色信号`_」的①效果，攻击对象转移给自身进行伤害计算的场合，战斗后这个战斗阶段内「希望皇 霍普」怪兽不能再次攻击那只「`工作列车 红色信号`_」，但可以再次攻击「`无赖特急 蝙蝠列车`_」。\ `25/6/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10214&keyword=&tag=-1&request_locale=ja>`__
 
 .. note::
 
    | 这类效果类似\ :ref:`誓约`\ ，只能在直接攻击和适用这个效果中二选一。
    | 特别地，「`扩散的波动`_」这样强制全部攻击的效果，在直接攻击后，对方又特殊召唤了怪兽的场合仍然必须作出攻击。
-   | 另外，「`狂暴死龙`_」等，持有『可以向对方怪兽全部各作1次攻击』效果的怪兽，在攻击被无效、卷回后放弃攻击、攻击对象转移等时，都不能对同1个怪兽再度攻击。即使「`扩散的波动`_」的强制全部攻击效果也是如此。
+   | 另外，「`狂暴死龙`_」等，持有『可以向对方怪兽全部各作1次攻击』效果的怪兽，在攻击被无效、卷回后放弃攻击时，都不能对同1个怪兽再度攻击。即使「`扩散的波动`_」的强制全部攻击效果也是如此。
 
 『只再1次可以攻击』『只再1次可以继续攻击』『可以继续攻击』
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1560,3 +1564,8 @@
 .. _`雾动机龙`: https://ygocdb.com/?search=雾动机龙
 .. _`魔犀族战士`: https://ygocdb.com/card/name/魔犀族战士
 .. _`鬼动武者`: https://ygocdb.com/card/name/鬼动武者
+.. _`冥骸合龙-莫忘冥地王灵`: https://ygocdb.com/card/name/冥骸合龙-莫忘冥地王灵
+.. _`希望皇 霍普`: https://ygocdb.com/?search=希望皇 霍普
+.. _`无赖特急 蝙蝠列车`: https://ygocdb.com/card/name/无赖特急%20蝙蝠列车
+.. _`工作列车 红色信号`: https://ygocdb.com/card/name/工作列车%20红色信号
+.. _`异热同心武器-阿修罗副腕`: https://ygocdb.com/card/name/异热同心武器-阿修罗副腕
