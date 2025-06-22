@@ -407,6 +407,7 @@
 
    | 不过，只记述『这张卡持续公开』的「`升阶魔法-七皇之剑`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7819&keyword=&tag=-1&request_locale=ja>`__\ 等效果可以正常发动。
    | 只记述『确认』的「`命运英雄 冲刺人`_」③效果\ `21/11/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23439&keyword=&tag=-1&request_locale=ja>`__\ 也可以发动。
+   | 此外，『确认』中的卡不能给对方观看。例如，我方场上存在「`向征服斗魂进发！`_」和「`征服斗魂 重型电子人`_」，手卡存在「`征服斗魂 潘特拉`_」时，对方发动「`影之卡组破坏病毒`_」，我方手卡全部确认，破坏「`征服斗魂 重型电子人`_」的场合，不能适用「`向征服斗魂进发！`_」的②效果给对方观看「`征服斗魂 潘特拉`_」来代替破坏。
 
 | 卡组·额外卡组的卡即使在表侧表示状态，也可以给对方观看。
 | 例：
@@ -1512,3 +1513,6 @@ cost
 .. _`水晶机巧晶簇`: https://ygocdb.com/card/name/水晶机巧晶簇
 .. _`机壳守护神 路径灵`: https://ygocdb.com/card/name/机壳守护神%20路径灵
 .. _`电子多变龙`: https://ygocdb.com/card/name/电子多变龙
+.. _`征服斗魂 潘特拉`: https://ygocdb.com/card/name/征服斗魂%20潘特拉
+.. _`向征服斗魂进发！`: https://ygocdb.com/card/name/向征服斗魂进发！
+.. _`影之卡组破坏病毒`: https://ygocdb.com/card/name/影之卡组破坏病毒
