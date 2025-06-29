@@ -417,7 +417,9 @@ cost
 
 | 这类文本指的是，效果文本栏中记述作为卡名存在的「○○」。
 | 即使是不作为效果处理的文本记述了「○○」卡名，也满足条件。
+| 但记述的如果不是卡名而是字段，不满足条件。
 | 例：
+| 「`灵魂共鸣者`_」「`魔族石人`_」「`真红莲区域`_」效果文本记述的『有那个卡名记述的S怪兽』指的是记述「`红莲魔龙`_」为卡名的S怪兽，即「`救世魔龙`_」「`真红莲新星龙`_」「`红莲魔龙·右红痕`_」「`真红莲魔`_」。不包含「`红莲魔龙·暴君`_」。\ `23/6/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23986&keyword=&tag=-1&request_locale=ja>`__
 | 「`蒂迈欧之眼`_」「`黑·魔·导·爆·裂·破`_」的效果文本记述的是『「`黑魔术师`_」怪兽』『「`黑魔术少女`_」怪兽』，「`黑魔术师`_」「`黑魔术少女`_」不是作为卡名，而是作为字段存在。因此，「`黑魔术的继承`_」的①效果处理时，不能选「`蒂迈欧之眼`_」「`黑·魔·导·爆·裂·破`_」。\ `24/5/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18936&keyword=%E3%82%AB%E3%83%BC%E3%83%89%E5%90%8D%E3%81%8C%E8%A8%98%E3%81%95%E3%82%8C&tag=-1&request_locale=ja>`__
 
 咒文速度
@@ -2130,3 +2132,12 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 .. _`魔法花盆`: https://ygocdb.com/card/name/魔法花盆
 .. _`圣剑 加拉廷`: https://ygocdb.com/card/name/圣剑%20加拉廷
 .. _`圣骑士 莫德雷德`: https://ygocdb.com/card/name/圣骑士%20莫德雷德
+.. _`真红莲新星龙`: https://ygocdb.com/card/name/真红莲新星龙
+.. _`魔族石人`: https://ygocdb.com/card/name/魔族石人
+.. _`救世魔龙`: https://ygocdb.com/card/name/救世魔龙
+.. _`红莲魔龙·暴君`: https://ygocdb.com/card/name/红莲魔龙·暴君
+.. _`红莲魔龙`: https://ygocdb.com/card/name/红莲魔龙
+.. _`真红莲魔`: https://ygocdb.com/card/name/真红莲魔
+.. _`灵魂共鸣者`: https://ygocdb.com/card/name/灵魂共鸣者
+.. _`真红莲区域`: https://ygocdb.com/card/name/真红莲区域
+.. _`红莲魔龙·右红痕`: https://ygocdb.com/card/name/红莲魔龙·右红痕

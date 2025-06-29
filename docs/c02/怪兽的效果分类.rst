@@ -90,6 +90,19 @@
 
 .. attention:: 也存在「`真魔兽 加泽特`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14300&keyword=&tag=-1&request_locale=ja>`__ 「`地中族邪界妖魔`_」\ `17/9/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21394&keyword=&tag=-1&request_locale=ja>`__ 等，只在召唤·特殊召唤的时点适用1次的永续效果。效果被无效让攻击力复原后，效果再恢复适用的场合，攻击力也保持当前数值，不会再改变。
 
+-  | 改变怪兽卡名·种族·属性·等级·攻击力·守备力等的永续效果适用中，特殊召唤怪兽的场合，当作是特殊召唤了改变后的状态的怪兽。
+   | 例：
+   | 「`毁灭之黑魔术师`_」特殊召唤成功时，自身①效果立即适用，是『自己场上有「`黑魔术师`_」召唤·特殊召唤的场合』，可以发动「`黑魔导阵`_」的②效果。\ `25/6/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18706&keyword=&tag=-1&request_locale=ja>`__
+   | 我方怪兽区域「`No.4 猛毒刺胞 隐形水母怪`_」的①效果适用中，对方S召唤「`红莲升龙`_」成功时，是从额外卡组特殊召唤龙族·水属性怪兽，由于『这个效果发动的回合，自己不是龙族·暗属性同调怪兽不能从额外卡组特殊召唤』，结果不能发动①效果。\ `25/6/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24188&keyword=&tag=-1&request_locale=ja>`__
+   | 「`传说之都 亚特兰蒂斯`_」的②效果适用中，「`歧蜥·魔蜥义豪`_」召唤的场合，是召唤了等级4的怪兽，这个回合不能发动「`虫饵`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7633&keyword=&tag=-1&request_locale=ja>`__
+   | 「`诸刃的活人剑术`_」的①效果把「`真六武众-阴鬼`_」和「`真六武众-辉斩`_」特殊召唤成功时，「`真六武众-阴鬼`_」因自身②效果适用攻击力结果是1700，可以发动「`奈落的落穴`_」，「`真六武众-阴鬼`_」和「`真六武众-辉斩`_」都被破坏并除外。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11726&keyword=&tag=-1&request_locale=ja>`__
+
+   .. attention::
+
+      | 特别地，改变怪兽表示形式的永续效果适用中，特殊召唤怪兽的场合，仍然是以最初的表示形式的特殊召唤的怪兽。
+      | 例：
+      | 「`最终突击命令`_」在场上存在时，对方守备表示特殊召唤怪兽，立即变成攻击表示的场合，「`奥西里斯之天空龙`_」的④效果不会发动。\ `25/1/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12313&keyword=&tag=-1&request_locale=ja>`__
+
 -  | 『每次把○○发动』『成为效果的对象时』适用的永续效果，在那些效果处理完毕时才适用。
    | 例：
    | 以「`削魂的死灵`_」为对象发动效果时，其不会立即破坏，而是在效果处理完毕时破坏。以其为对象发动「`月之书`_」的场合，由于变成里侧表示了，结果不会被破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9199&keyword=&tag=-1&request_locale=ja>`__ 不过，「`技能抽取`_」的①效果适用中，「`削魂的死灵`_」被装备卡装备，持续取对象时，发动「`非常食`_」把「`技能抽取`_」当作cost送去墓地的时点，其立即破坏。
@@ -260,12 +273,13 @@
 不同类型的多个效果适用的场合，大致按类型划分，在先后适用的场合，适用顺序如下：
 
 1. 效果无效·不受效果影响
-2. 变更属性·种族·攻守·表示形式等
+2. 变更卡名·属性·种族·攻守·表示形式等
 3. 破坏·送去墓地
 
 | 例：
 | 对方场上存在守备表示的「`No.41 泥睡魔兽 睡梦貘`_」，②效果适用中的状况，攻击表示X召唤「`DDD 双晓王 末法神`_」的场合，「`DDD 双晓王 末法神`_」的①效果先适用，不会变成守备表示，「`No.41 泥睡魔兽 睡梦貘`_」的效果无效。「`超骑甲虫 绝对大力独角仙`_」的①效果也一样，先不受这个效果影响，结果不会变成守备表示。\ `24/4/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24009&keyword=&tag=-1&request_locale=ja>`__
 | 自己场上存在「`群雄割据`_」和宣言魔法师族的「`DNA改造手术`_」，里侧表示的怪兽受到攻击反转的场合，先变成魔法师族，因此自己场上只有魔法师族，「`群雄割据`_」的处理不会把这只怪兽送去墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6242&keyword=&tag=-1&request_locale=ja>`__
+| 对方场上存在「`命运英雄 血魔-D`_」，「`毁灭之黑魔术师`_」特殊召唤成功时立即被无效，不能发动「`黑魔导阵`_」的②效果，即使我方场上存在「`永远之魂`_」也一样。\ `25/6/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18706&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 效果无效的不入连锁效果已经存在时，再出现不受效果影响的不入连锁效果的场合，被无效而不适用。
    | 不受效果影响的效果已经存在时，再出现效果无效的不入连锁效果的场合，不受影响，不会被无效。
@@ -459,3 +473,17 @@
 .. _`通行增税`: https://ygocdb.com/card/name/通行增税
 .. _`圣珖神龙 星尘·零`: https://ygocdb.com/card/name/圣珖神龙%20星尘·零
 .. _`通行税`: https://ygocdb.com/card/name/通行税
+.. _`诸刃的活人剑术`: https://ygocdb.com/card/name/诸刃的活人剑术
+.. _`虫饵`: https://ygocdb.com/card/name/虫饵
+.. _`奥西里斯之天空龙`: https://ygocdb.com/card/name/奥西里斯之天空龙
+.. _`黑魔导阵`: https://ygocdb.com/card/name/黑魔导阵
+.. _`永远之魂`: https://ygocdb.com/card/name/永远之魂
+.. _`奈落的落穴`: https://ygocdb.com/card/name/奈落的落穴
+.. _`真六武众-阴鬼`: https://ygocdb.com/card/name/真六武众-阴鬼
+.. _`歧蜥·魔蜥义豪`: https://ygocdb.com/card/name/歧蜥·魔蜥义豪
+.. _`传说之都 亚特兰蒂斯`: https://ygocdb.com/card/name/传说之都%20亚特兰蒂斯
+.. _`红莲升龙`: https://ygocdb.com/card/name/红莲升龙
+.. _`真六武众-辉斩`: https://ygocdb.com/card/name/真六武众-辉斩
+.. _`毁灭之黑魔术师`: https://ygocdb.com/card/name/毁灭之黑魔术师
+.. _`黑魔术师`: https://ygocdb.com/card/name/黑魔术师
+.. _`最终突击命令`: https://ygocdb.com/card/name/最终突击命令

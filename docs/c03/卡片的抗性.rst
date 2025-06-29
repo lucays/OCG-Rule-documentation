@@ -152,12 +152,12 @@
 
 -  | 之前已经适用过的效果，即使怪兽进入不受效果影响的状态，也就那样适用。
    | 例：
-   | 对被「`零鸟兽 水风女精`_」「`突破技能`_」无效的怪兽发动「`No.81 超重型炮塔列车 优越多拉炮`_」的效果，那个怪兽仍然被无效。
    | 以「`捕食花盆`_」的效果特殊召唤的怪兽为对象发动「`禁忌的圣枪`_」，那个怪兽仍然无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20250&request_locale=ja>`__
    | 以「`小龙探物摆`_」的效果特殊召唤的怪兽为对象发动「`神龙骑士 闪耀`_」的效果，结束阶段那个怪兽仍然破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14278&request_locale=ja>`__
    | 「`青天霹雳`_」特殊召唤的「`毒蛇神 维诺米纳迦`_」仍然会回到卡组。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=123&keyword=&tag=-1&request_locale=ja>`__
    | 之前已经适用的「`突进`_」「`收缩`_」等魔法·陷阱卡的效果不会被「`侵略的泛发感染`_」清除。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12121&keyword=&tag=-1&request_locale=ja>`__
    | 「`地龙星-狴犴`_」为素材S召唤「`黑羽-重装铠翼鸦`_」时，「`地龙星-狴犴`_」的效果适用，再「`黑羽-重装铠翼鸦`_」的①效果适用而不受影响的场合，仍然就这样不会被战斗破坏。\ `18/6/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7459&request_locale=ja>`__
+   | 「`蒂迈欧之眼光`_」的①效果特殊召唤「`合体魔龙 蒂迈欧`_」的场合，『这个效果特殊召唤的怪兽在下个回合的结束阶段除外』在「`合体魔龙 蒂迈欧`_」的①效果适用之前就已经适用，因此下个回合的结束阶段「`合体魔龙 蒂迈欧`_」仍然被除外。\ `25/6/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24192&keyword=&tag=-1&request_locale=ja>`__
 
    -  | 「深渊死球」「废铁油带」「活化石」这样\ **特殊召唤怪兽并持续取对象**\ 的魔法·陷阱卡，附加的『这个效果特殊召唤的怪兽』其实是持续影响那个怪兽的效果。此外，注意区分「古代的机械苏生」和「深渊死球」等的描述区别，「古代的机械苏生」这样的不是持续影响怪兽的效果。
       | 例：
@@ -615,3 +615,5 @@
 .. _`科技属 戟炮手/爆裂体`: https://ygocdb.com/card/name/科技属%20戟炮手%2F爆裂体
 .. _`交血鬼-吸血鬼·谢里丹`: https://ygocdb.com/card/name/交血鬼-吸血鬼·谢里丹
 .. _`光道主·大天使 米迦勒`: https://ygocdb.com/card/name/光道主·大天使%20米迦勒
+.. _`合体魔龙 蒂迈欧`: https://ygocdb.com/card/name/合体魔龙%20蒂迈欧
+.. _`蒂迈欧之眼光`: https://ygocdb.com/card/name/蒂迈欧之眼光
