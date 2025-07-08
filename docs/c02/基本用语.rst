@@ -119,8 +119,8 @@ cost
 | 在「`大宇宙`_」的②效果等适用中，由于不能把卡片送去墓地，不能发动送去墓地作为cost的效果。
 | 但这个状况依然可以解放卡片或从手卡丢弃卡片，因此这时仍然可以支付这些cost来发动效果，结果被除外。
 | 例：
-| 场上表侧表示的通常怪兽只有P怪兽的场合，不能发动「`马骨的对价`_」。
 | 「`升级转变`_」不能把自身效果特殊召唤的「`消战者`_」或衍生物送去墓地。
+| 「`禁忌的一滴`_」发动之际，作为cost不能把魔法·陷阱卡区域或怪兽区域的P怪兽卡（里侧表示也一样）送去墓地，只能把手卡的P怪兽卡送去墓地。不过，如果场上存在「`G·B·猎人`_」且效果适用中，可以把场上的P怪兽卡送去墓地来发动。\ `25/7/3 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24195&keyword=&tag=-1&request_locale=ja>`__
 | 「`大宇宙`_」的②效果适用中，手卡的「`增殖的G`_」的①效果不能发动。\ `25/4/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14540&keyword=&tag=-1&request_locale=ja>`__ 也不能把这张「`大宇宙`_」送去墓地来发动「`魔法花盆`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8451&keyword=&tag=-1&request_locale=ja>`__
 
 维持cost
@@ -2141,3 +2141,5 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 .. _`灵魂共鸣者`: https://ygocdb.com/card/name/灵魂共鸣者
 .. _`真红莲区域`: https://ygocdb.com/card/name/真红莲区域
 .. _`红莲魔龙·右红痕`: https://ygocdb.com/card/name/红莲魔龙·右红痕
+.. _`禁忌的一滴`: https://ygocdb.com/card/name/禁忌的一滴
+.. _`G·B·猎人`: https://ygocdb.com/card/name/G·B·猎人
