@@ -740,18 +740,34 @@ cost
 | 此外，「`手札对换`_」等场上以外的卡片移动给对方等也是控制权变更。
 | 例：
 | 不能以控制权不能变更的「`盲信的哥布林`_」为对象发动「`精神操作`_」。「`强制转移`_」这样不取对象的效果处理时不能选「`盲信的哥布林`_」。\ `16/11/3 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5714&request_locale=ja>`__
-| 不能以控制权不能变更的「`盲信的哥布林`_」为对象「`纳祭之魔`_」的①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23118&keyword=&tag=-1&request_locale=ja>`__
+| 不能以控制权不能变更的「`盲信的哥布林`_」为对象发动「`纳祭之魔`_」的①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23118&keyword=&tag=-1&request_locale=ja>`__
+| 不能以控制权不能变更的「`魔龙星-饕餮`_」为对象发动「`法典之守护者 艾华斯`_」的①效果给对方装备。\ `24/11/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24075&keyword=&tag=-1&request_locale=ja&request_locale=ja>`__
 | 不能以「`魔龙星-饕餮`_」作为素材S召唤的怪兽为对象发动「`No.101 寂静荣誉方舟骑士`_」的①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23119&keyword=&tag=-1&request_locale=ja>`__
 
--  | 没有可用的怪兽区域时，不能发动夺取控制权的效果。
-   | 夺取或归还怪兽的控制权时，没有可用的怪兽区域的场合，那只怪兽在当前控制者的当前怪兽区域被破坏。不当作被效果破坏，也不是因对方而被破坏。
-   | 不过，如果是「`三战之才`_」等发动时不确定涉及哪些怪兽的效果，效果处理时没有可用的怪兽区域的场合，不会选怪兽，效果不适用。\ `24/6/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=15296&request_locale=ja>`__
+.. attention::
+
+   | 特别地，即使是控制权不能变更的怪兽，也能成为部分效果处理的对象，但是结果不会转移控制权。
    | 例：
+   | 可以对表侧表示的「`植物狮子`_」发动「`灰篮短吻鳄`_」「`假面魔兽 死亡护法师`_」「`灰篮眼镜蛇`_」「`灰篮鹰`_」「`暗黑人偶 妮可罗菲娅`_」「`古神 哈斯塔`_」「`异端之福波斯科波斯`_」「`闪刀机-黑寡妇抓锚`_」「`御巫的诱轮舞`_」「`战斗瞬间移动`_」的①效果。如果是变成装备卡的效果，之后如果「`植物狮子`_」的效果无效，会立即得到控制权。\ `24/7/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10018&keyword=&tag=-1&request_locale=ja>`__
+
+-  | 没有可用的怪兽区域时，基本上不能发动夺取控制权的效果。
+   | 「`No.26 次元孔路 绕道章鱼`_」的②效果等这类效果强制发动时，或者已经发动了这类效果，那个效果处理时没有可用的怪兽区域的场合，那只怪兽在当前控制者的当前怪兽区域被破坏。不当作被效果破坏，也不是因对方而被破坏。
+   | 不过，如果是「`三战之才`_」等发动时不确定涉及哪些怪兽的效果，效果处理时没有可用的怪兽区域的场合，不会选怪兽，效果不适用。\ `24/6/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24075&keyword=&tag=-1&request_locale=ja>`__
+   | 例：
+   | 自己没有可用的主要怪兽区域时，不能以对方怪兽为对象发动「`强夺`_」「`堕落`_」「`蔷薇刻印`_」「`漫画之手`_」「`大逮捕`_」「`惊乐家族脸`_」等。
    | 对方以我方场上的「`冰剑龙 幻冰龙`_」为对象发动「`大逮捕`_」，我方连锁发动「`扰乱三人组`_」，结果对方场上没有可用的怪兽区域，作为「`大逮捕`_」的对象的「`冰剑龙 幻冰龙`_」从我方场上被破坏送去墓地的场合，不是因对方从场上离开，不能发动③效果。
    | 对方以我方场上的「`进化虫·侧喙头蜥`_」为对象发动「`洗脑`_」，我方连锁发动「`扰乱三人组`_」，结果对方场上没有可用的怪兽区域，「`进化虫·侧喙头蜥`_」被破坏的场合，是从我方场上被破坏，可以发动效果。\ `16/5/16 <https://yugioh-wiki.net/index.php?%A5%B3%A5%F3%A5%C8%A5%ED%A1%BC%A5%EB#faq>`__
    | 对方场上有6只怪兽，我方有1只怪兽的状况，发动「`强制转移`_」时，对方不能选额外怪兽区域的怪兽。\ `17/7/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20735&request_locale=ja>`__
    | 自己发动「`扰乱三人组`_」在对方场上特殊召唤3只「`扰乱衍生物`_」后，「`所有者的刻印`_」让这些「`扰乱衍生物`_」的控制权归还时，自己场上没有3个可用怪兽区域的场合，尽可能归还后把剩余的「`扰乱衍生物`_」破坏，对方受到这个数量×300的伤害。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7316&request_locale=ja>`__
    | 以对方场上「`古代的机械巨人`_」为对象发动墓地「`电子化天使-那沙帝弥-`_」的③效果，处理时自己怪兽区域只有1个可用的场合，「`电子化天使-那沙帝弥-`_」特殊召唤后「`古代的机械巨人`_」被破坏。不是被效果破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20179&request_locale=ja>`__
+
+.. attention::
+
+   | 特别地，即使没有可用的怪兽区域时，也可以发动「`灰篮鹰`_」「`御巫的诱轮舞`_」等效果。
+   | 此外，『发动无效，得到控制权』这样的效果也可以发动。
+   | 例：
+   | 我方主要怪兽区域有5只怪兽存在的状态，对方场上的「`机巧牙-御神尊真神`_」的②效果发动时也能连锁发动「`头位审判`_」的效果。那个场合，如果对投掷硬币的结果猜测错误，「`机巧牙-御神尊真神`_」的效果发动无效，由于可用区域不足而无法转移控制权，结果「`机巧牙-御神尊真神`_」被破坏。
+   | 我方主要怪兽区域有5只怪兽存在的状态，对方场上的「`机巧牙-御神尊真神`_」的②效果发动时也能连锁发动「`未来No.0 未来龙皇 霍普`_」的②效果。那个场合，「`机巧牙-御神尊真神`_」的效果发动无效，由于可用区域不足而无法转移控制权，结果「`机巧牙-御神尊真神`_」被破坏。
 
 -  | 玩家发动得到控制权、交换控制权、把控制权移给对方的效果时，或者把怪兽特殊召唤到对方玩家场上的状况，最终怪兽放置的区域都由这个玩家决定。
    | 「`过浅的墓穴`_」这样各自把怪兽特殊召唤的效果，由双方玩家各自选择放置的区域。
@@ -2143,3 +2159,21 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 .. _`红莲魔龙·右红痕`: https://ygocdb.com/card/name/红莲魔龙·右红痕
 .. _`禁忌的一滴`: https://ygocdb.com/card/name/禁忌的一滴
 .. _`G·B·猎人`: https://ygocdb.com/card/name/G·B·猎人
+.. _`灰篮短吻鳄`: https://ygocdb.com/card/name/灰篮短吻鳄
+.. _`植物狮子`: https://ygocdb.com/card/name/植物狮子
+.. _`假面魔兽 死亡护法师`: https://ygocdb.com/card/name/假面魔兽%20死亡护法师
+.. _`灰篮鹰`: https://ygocdb.com/card/name/灰篮鹰
+.. _`异端之福波斯科波斯`: https://ygocdb.com/card/name/异端之福波斯科波斯
+.. _`御巫的诱轮舞`: https://ygocdb.com/card/name/御巫的诱轮舞
+.. _`未来No.0 未来龙皇 霍普`: https://ygocdb.com/card/name/未来No.0%20未来龙皇%20霍普
+.. _`机巧牙-御神尊真神`: https://ygocdb.com/card/name/机巧牙-御神尊真神
+.. _`堕落`: https://ygocdb.com/card/name/堕落
+.. _`惊乐家族脸`: https://ygocdb.com/card/name/惊乐家族脸
+.. _`战斗瞬间移动`: https://ygocdb.com/card/name/战斗瞬间移动
+.. _`强夺`: https://ygocdb.com/card/name/强夺
+.. _`蔷薇刻印`: https://ygocdb.com/card/name/蔷薇刻印
+.. _`暗黑人偶 妮可罗菲娅`: https://ygocdb.com/card/name/暗黑人偶%20妮可罗菲娅
+.. _`头位审判`: https://ygocdb.com/card/name/头位审判
+.. _`古神 哈斯塔`: https://ygocdb.com/card/name/古神%20哈斯塔
+.. _`漫画之手`: https://ygocdb.com/card/name/漫画之手
+.. _`闪刀机-黑寡妇抓锚`: https://ygocdb.com/card/name/闪刀机-黑寡妇抓锚
