@@ -263,6 +263,7 @@
 | 例：
 | 「`黑色花园`_」的②效果记述的是『这张卡以及场上的植物族怪兽全部破坏』，这个效果处理时，没有植物族怪兽的场合，自身破坏，也会特殊召唤对象怪兽；\ `18/11/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22262&keyword=&tag=-1&request_locale=ja>`__\ 场上存在植物族怪兽，其中1只在处理时变成里侧表示的场合，自身和其他表侧表示的全部破坏，仍会特殊召唤怪兽；\ `18/11/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22259&keyword=&tag=-1&request_locale=ja>`__\ 场上存在植物族怪兽，其中1只在处理时不受魔法效果影响，没被破坏的场合，自身和其他表侧表示的植物族怪兽仍会被破坏，由于没有全部破坏，『全部破坏的场合，作为对象的怪兽特殊召唤』不适用。\ `18/11/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22260&keyword=&tag=-1&request_locale=ja>`__
 | 「`真红莲超新星龙`_」的②效果记述的是『这张卡以及对方场上的卡全部除外』，这个效果处理时，自身不在场上存在的场合，也会把对方场上的卡全部除外。\ `21/12/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23498&keyword=&tag=-1&request_locale=ja>`__
+| 「`残丝断魂双玉绪`_」的装备怪兽不会被效果破坏的场合，也可以发动那个①效果，只破坏对象怪兽，仍然受到那1只怪兽原本攻击力的伤害，再给与对方相同数值的伤害。此外，如果是对方特殊召唤的怪兽不会被效果破坏或不受效果影响的场合，也可以发动这个效果，破坏装备怪兽，先后给与双方伤害。\ `25/7/26 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24205&keyword=&tag=-1&request_locale=ja>`__
 
 『全部』『尽可能』
 --------------------
@@ -1519,3 +1520,4 @@ cost
 .. _`征服斗魂 螺禅`: https://ygocdb.com/card/name/征服斗魂%20螺禅
 .. _`征服斗魂 狂爱博士`: https://ygocdb.com/card/name/征服斗魂%20狂爱博士
 .. _`死之卡组破坏病毒`: https://ygocdb.com/card/name/死之卡组破坏病毒
+.. _`残丝断魂双玉绪`: https://ygocdb.com/card/name/残丝断魂双玉绪
