@@ -1189,7 +1189,7 @@
 | 以墓地的怪兽为对象发动「`凶导的圣兽`_」的①效果，那个效果处理时，那只怪兽不在墓地存在，例如被除外的场合，不会把怪兽送去墓地，不会特殊召唤。『这张卡的发动后』的处理仍然适用。\ `25/7/26 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24202&keyword=&tag=-1&request_locale=ja>`__
 | 我方「`七音服·索尔费吉娅`_」在怪兽区域发动②效果时，如果没有把自身解放，不能连锁发动「`屋敷童`_」的①效果；如果把自身解放来发动，不论我方墓地是否存在怪兽，都可以连锁发动「`屋敷童`_」的①效果。\ `25/7/26 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24201&keyword=&tag=-1&request_locale=ja>`__
 | 「`瘴烟之死灵术师`_」的①效果处理把「`混沌之魔术师`_」加入手卡的场合，由于「`混沌之魔术师`_」在手卡不是「`黑魔术师`_」，这个回合卡名是「`混沌之魔术师`_」的卡不能发动效果。因此「`毁灭之黑魔术师`_」等卡的效果可以正常发动。\ `25/7/26 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24199&keyword=&tag=-1&request_locale=ja>`__
-| 对方场上的「`S：P小夜`_」以包含自身在内的2只怪兽为对象发动效果时，我方连锁发动「`巨石遗物·诺特拉·普鲁拉`_」的②效果的场合，可以把发动被无效的这只「`S：P小夜`_」解放。\ `25/7/26 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24198&keyword=&tag=-1&request_locale=ja>`__
+| 对方场上的「`S：P小夜`_」以我方「`巨石遗物·诺特拉·普鲁拉`_」为对象发动①效果，我方连锁发动「`巨石遗物·诺特拉·普鲁拉`_」的②效果时，对方以我方「`巨石遗物·诺特拉·普鲁拉`_」为对象发动「`S：P小夜`_」②效果的场合，「`巨石遗物·诺特拉·普鲁拉`_」的②效果处理时「`S：P小夜`_」不在场上，但是那个发动被无效，『可以再把对方场上1只怪兽解放』正常适用。\ `25/7/26 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24198&keyword=&tag=-1&request_locale=ja>`__
 
 | 邮件：
 | 「`额外灵摆`_」的①效果适用，进行了2次P召唤的回合，也可以发动「`DDD 天空王 宙斯末日神`_」的①效果（但是不能再次进行P召唤）。
@@ -1200,6 +1200,13 @@
 
 | 数据库：
 | 我方场上「`接触的G`_」的②效果适用中，我方「`味美☆味美☆味美喵`_」的②效果不能发动。\ `25/7/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24206&keyword=&tag=-1&request_locale=ja>`__
+
+7/29
+-------
+
+| 邮件：
+| 只要有可以破坏的卡，「`DDD 天空王 宙斯末日神`_」的①效果就可以多次发动。
+| 控制权不能变更的「`奇袭的又佐`_」攻击对方「甲虫装机」怪兽时，对方是否可以发动「`虫装变换`_」，\ :ref:`调整中`\ 。
 
 .. _`电力军曹`: https://ygocdb.com/card/name/电力军曹
 .. _`融合强兵`: https://ygocdb.com/card/name/融合强兵
@@ -2021,3 +2028,6 @@
 .. _`真龙魔王 卓辉星·拼图`: https://ygocdb.com/card/name/真龙魔王%20卓辉星·拼图
 .. _`接触的G`: https://ygocdb.com/card/name/接触的G
 .. _`残丝断魂双玉绪`: https://ygocdb.com/card/name/残丝断魂双玉绪
+.. _`甲虫装机`: https://ygocdb.com/?search=甲虫装机
+.. _`虫装变换`: https://ygocdb.com/card/name/虫装变换
+.. _`奇袭的又佐`: https://ygocdb.com/card/name/奇袭的又佐
