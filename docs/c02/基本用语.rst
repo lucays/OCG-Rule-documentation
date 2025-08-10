@@ -570,7 +570,11 @@ cost
 | 「`青色眼睛的少女`_」被选择作为攻击对象时发动效果，连锁发动「`月之书`_」把它变成里侧守备表示的场合，处理时把自身变成表侧攻击表示，把「`青眼白龙`_」特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12856&keyword=&tag=-1&request_locale=ja>`__
 | 「`光之护封剑`_」把里侧守备表示的怪兽反转成表侧守备表示，不是表示形式变更，「`电子光虫-核心菜粉蝶`_」的②效果不会发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18141&keyword=&tag=-1&request_locale=ja>`__
 
-.. note:: 也就是说，表示形式变更是攻击表示⇄守备表示。不是里侧表示⇄表侧表示。
+.. note::
+
+   | 也就是说，表示形式变更是攻击表示⇄守备表示。不是里侧表示⇄表侧表示。
+   | 例：
+   | 场上存在因「`沙尘防护罩 -尘埃之力-`_」的①效果变成里侧守备表示的「`天照大神`_」，这只「`天照大神`_」仍然可以把自身变成表侧守备表示作为cost发动①效果。
 
 玩家意志变更表示形式
 --------------------
@@ -586,7 +590,6 @@ cost
 | 『表示形式不能变更』的效果适用中，只是指不能这样变更表示形式。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15983&request_locale=ja>`__
 | 在当回合通常召唤·反转召唤·特殊召唤·攻击宣言过的怪兽，不能这样变更表示形式，即使变成里侧表示过也是如此。不过，被一时除外的场合，回到场上后可以这样变更表示形式。
 | 例：
-| 场上存在因「`沙尘防护罩 -尘埃之力-`_」的①效果变成里侧守备表示的「`天照大神`_」，这只「`天照大神`_」仍然可以把自身变成表侧守备表示作为cost发动①效果。
 | 「`掷骰战斗`_」的②效果让对方怪兽向自己怪兽攻击的场合，不是进行攻击宣言，那个怪兽在主要阶段2仍然可以变更表示形式。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7088&request_locale=ja>`__
 | 当回合召唤·反转召唤·特殊召唤·盖放·表示形式已经变更过·攻击宣言过的怪兽，被「`亚空间物质回送装置`_」的①效果除外再回到场上的场合，玩家可以按照自己的意志把这只怪兽的表示形式变更。\ `24/5/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24069&keyword=&tag=-1&request_locale=ja>`__
 
@@ -706,11 +709,13 @@ cost
 
 .. attention::
 
-   | 如果这类效果不在效果处理的第1步，即使已经通过这类效果追加（通常）召唤怪兽，作为可选适用的处理，也可能可以发动那个效果。详见\ :ref:`效果的附加处理`\ 和\ :ref:`能否发动的判断方法`\ 。
+   | 即使这类效果不在效果处理的第1步，如果已经通过这类效果追加（通常）召唤怪兽，不能再发动那个效果。详见\ :ref:`效果的附加处理`\ 和\ :ref:`能否发动的判断方法`\ 。
    | 例：
-   | 已经通过「`宝石骑士 斜绿`_」的①效果通常召唤了怪兽的回合，连接召唤「`梦幻崩影·哥布林`_」的场合，即使是互相连接状态，也不能发动①效果。不过，可以发动「`卡片上移`_」「`机关傀儡-机械降临的粉丝幻想`_」「`废铁盗龙`_」的①效果，但都不能再次召唤·上级召唤。
-   | 不能进行通常召唤的回合，也可以发动「`卡片上移`_」，确认最多5张卡并用喜欢的顺序回到卡组上面。\ `15/9/18 <http://yugioh-wiki.net/index.php?%A1%D4%A5%AB%A1%BC%A5%C9%A1%A6%A5%A2%A5%C9%A5%D0%A5%F3%A5%B9%A1%D5#faq1>`__
-   | 即使已经通过「`宝石骑士 斜绿`_」的①效果通常召唤了怪兽的回合，也可以发动「`古之咒文`_」，只选1只「`太阳神之翼神龙`_」加入手卡。\ `22/12/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23025&keyword=&tag=-1&request_locale=ja>`__
+   | 「`梦幻崩影·哥布林`_」的①效果适用的回合，或者对方回合，不能发动「`梦幻崩影·哥布林`_」的①效果。\ `18/1/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13598&request_locale=ja>`__
+   | 1个回合内已经发动了1张「`卡片上移`_」，没有被无效或改写的状况，即使还没有进行追加的上级召唤，也不能再次发动「`卡片上移`_」。\ `25/8/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11425&request_locale=ja>`__
+   | 「`武器洞`_」发动的回合，不能进行通常召唤，这个状况不能发动「`卡片上移`_」。\ `25/8/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17215&keyword=&tag=-1&request_locale=ja>`__
+   | 「`DDD 天空王 宙斯末日神`_」的①效果适用，通过这个效果进行追加P召唤的场合，这个回合不能再次发动「`DDD 天空王 宙斯末日神`_」的①效果。\ `25/8/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=21815&request_locale=ja>`__
+   | 「`宝石骑士 斜绿`_」的①效果适用后，这个回合还没有通过这个效果追加通常召唤（还没有通常召唤、或使用1回合1次通常召唤权进行的通常召唤）的场合，可以发动「`古之咒文`_」；但是，已经通过这个效果追加通常召唤的场合，这个回合不能发动「`古之咒文`_」。\ `25/8/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23025&keyword=&tag=-1&request_locale=ja>`__
 
 3. 「`二重召唤`_」「`召唤连锁`_」等效果，实际上是把原本1回合只有1次的\ **本来的通常召唤次数**\ 变成了2次或3次等。
 
@@ -2182,3 +2187,5 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 .. _`废铁盗龙`: https://ygocdb.com/card/name/废铁盗龙
 .. _`真龙的继承`: https://ygocdb.com/card/name/真龙的继承
 .. _`机关傀儡-机械降临的粉丝幻想`: https://ygocdb.com/card/name/机关傀儡-机械降临的粉丝幻想
+.. _`DDD 天空王 宙斯末日神`: https://ygocdb.com/card/name/DDD%20天空王%20宙斯末日神
+.. _`武器洞`: https://ygocdb.com/card/name/武器洞

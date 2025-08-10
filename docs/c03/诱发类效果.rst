@@ -510,6 +510,7 @@
       | 1组连锁中对方场上的怪兽多次被战斗·效果破坏送去墓地，连锁处理后「`使破坏剑的高手-破坏剑士`_」的②效果只能发动1次，从被破坏的那些怪兽中选择1只发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17438&keyword=&tag=-1&request_locale=ja>`__
       | 发动「`愚蠢的埋葬`_」从卡组把卡送去墓地后，「`愚蠢的埋葬`_」也从场上送去墓地，这个状况「`虚无空间`_」的②效果在处理后也只发动1次。\ `20/11/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12929&keyword=&tag=-1&request_locale=ja>`__
       | 在1组连锁上，多个连锁块的效果处理让怪兽被破坏的状况，连锁处理后「`No.38 希望魁龙 银河巨神`_」的③效果只发动1次。这个效果处理时，对象怪兽可以上升破坏的怪兽中任意1只怪兽的原本攻击力数值。\ `23/5/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17974&keyword=&tag=-1&request_locale=ja>`__
+      | 里侧表示的反转怪兽在1组连锁上反转了2次的场合，处理后只能发动1次反转诱发的效果。\ `25/8/9 <https://yugioh-wiki.net/index.php?%A5%EA%A5%D0%A1%BC%A5%B9%A5%E2%A5%F3%A5%B9%A5%BF%A1%BC#faq>`__
 
 .. _同一时点发动多个诱发类效果:
 
