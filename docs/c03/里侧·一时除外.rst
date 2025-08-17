@@ -217,8 +217,9 @@
    | 例：
    | 通过自身①的方法，不用解放作召唤的「`邪神机-狱炎`_」「`迷雾恶魔`_」被一时除外，当回合回到场上后，结束阶段仍然要发动②效果。
    | 通过自身①的方法，不用解放作召唤的「`战栗之凶皇-始祖恶魔`_」被一时除外，当回合回到场上后，攻击力·守备力回到3000/2000，结束阶段不会破坏。
+   | 用「进化虫」怪兽的效果特殊召唤的「`进化龙·蜥结龙`_」变成里侧表示后再被战斗破坏的场合不能发动效果，被一时除外后回到场上再被战斗破坏的场合可以发动效果。这2种情况守备力都不会再上升500。\ `17/6/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=9865&request_locale=ja>`__
    | 通过自身记述的召唤方法召唤的「`光神机-樱火`_」「`光神机-轰龙`_」在结束阶段前变成里侧表示再翻开的场合，结束阶段不会发动效果；被一时除外再回到场上的场合，结束阶段仍然会发动效果。\ `23/11/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24031&keyword=&tag=-1&request_locale=ja>`__
-   | 「`轻盈水星`_」用②效果召唤后，变成里侧表示的场合③效果不再适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19376&keyword=&tag=-1&request_locale=ja>`__ 被一时除外的场合，仍然适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6211&keyword=&tag=-1&request_locale=ja>`__
+   | 「`轻盈水星`_」用②效果召唤后，变成里侧表示的场合③效果不再适用，被一时除外的场合，仍然适用。\ `16/5/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=9430&request_locale=ja>`__
    | 用自身记述的方法召唤的「`守护神 艾克佐迪亚`_」在被一时除外后，自身②效果不再适用，攻击力·守备力是0。但是，因其他卡上升攻击力，战斗破坏原本持有者是对方的恶魔族·暗属性怪兽时，会胜利。\ `24/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10736&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 『○○（字段·卡名）的效果特殊召唤的这张卡』相关状况如下。
@@ -665,3 +666,5 @@
 .. _`俱舍怒威族的香格里拉茧`: https://ygocdb.com/card/name/俱舍怒威族的香格里拉茧
 .. _`暗黑栗子球`: https://ygocdb.com/card/name/暗黑栗子球
 .. _`抹杀之指名者`: https://ygocdb.com/card/name/抹杀之指名者
+.. _`进化虫`: https://ygocdb.com/?search=进化虫
+.. _`进化龙·蜥结龙`: https://ygocdb.com/card/name/进化龙·蜥结龙
