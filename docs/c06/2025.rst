@@ -1327,6 +1327,43 @@
 | 即使通过正规手续召唤过，在额外卡组表侧存在「`DDD 赦俿王 死亡机降神`_」不能被P召唤（没有等级）。\ `25/8/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16849&request_locale=ja>`__
 | 「`味美喵☆惊喜奖品`_」这样在发动时要从多个『●』中选1个发动的效果，只有在选的是包含把怪兽特殊召唤的效果时，才能连锁发动「`灵王的波动`_」「`神之警告`_」。\ `25/8/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13612&keyword=&tag=-1&request_locale=ja>`__
 
+8/19
+--------
+
+| 邮件：
+| 「`超魔神 本我`_」在自己场上表侧表示存在时，是否可以发动「`吸血鬼的领域`_」的①效果，\ :ref:`调整中`\ 。
+| 自己「`超魔神 本我`_」的效果因「`技能抽取`_」而被无效时，自己发动「`吸血鬼的领域`_」的①效果，连锁发动「`旋风`_」破坏「`技能抽取`_」的状况，「`吸血鬼的领域`_」的①效果如何处理，\ :ref:`调整中`\ 。这个回合内「`超魔神 本我`_」再因「`黑洞`_」等效果从场上离开的场合，是否可以追加召唤「吸血鬼」怪兽，\ :ref:`调整中`\ 。
+
+8/22
+--------
+
+| 邮件：
+| 「`和睦的使者`_」发动并适用的回合，不能再发动第2张「`和睦的使者`_」。「`抒情歌鸲-聚集夜莺`_」的③效果也一样。
+| 「`抒情歌鸲-聚集夜莺`_」的③效果发动并适用的回合，仍然可以发动「`三振障壁`_」的『●这个回合，自己受到的战斗伤害变成0』效果，「`背护卫`_」的①效果也一样可以发动。
+| 「`军神 概布`_」在场上存在时，以自身为对象发动「`召唤兽 雷电`_」「`冥府的执行者 普鲁托`_」的①效果，变成里侧守备表示后立即反转的场合，是否可以再次发动这些卡的①效果，\ :ref:`调整中`\ 。
+| 除外状态没有卡时，「`天球之圣刻印`_」的②效果特殊召唤「`破坏龙 甘多拉·禁忌`_」后，除外状况出现1张卡的场合，「`破坏龙 甘多拉·禁忌`_」的攻击力会因自身②效果上升300。
+| 除外状态存在3张卡时，「`天球之圣刻印`_」的②效果特殊召唤「`破坏龙 甘多拉·禁忌`_」的场合，「`破坏龙 甘多拉·禁忌`_」的攻击力会因自身②效果上升900。
+| 场上只存在1只「DDD」怪兽，「`DD 夜吼怪`_」的①效果特殊召唤「`DDD 疾风大王 决策亚历山大`_」，攻击力·守备力变成0后，场上出现3只以上「DDD」怪兽的场合，「`DDD 疾风大王 决策亚历山大`_」的攻击力会因自身①效果上升3000。
+| 场上已经存在3只「DDD」怪兽，「`DD 夜吼怪`_」的①效果特殊召唤「`DDD 疾风大王 决策亚历山大`_」的场合，攻击力会因自身①效果上升3000。
+| 对方场上没有怪兽，「`光神化`_」的效果特殊召唤「`女武神·布伦希尔德`_」后，对方场上出现1只怪兽的场合，「`女武神·布伦希尔德`_」的攻击力会因自身①效果上升500，结果1400。
+| 对方场上存在3只怪兽，「`光神化`_」的效果特殊召唤「`女武神·布伦希尔德`_」的场合，「`女武神·布伦希尔德`_」的攻击力会因自身①效果上升1500，结果2400。
+
+8/23
+--------
+
+| 邮件：
+| 「`召唤限制器`_」在场上存在，我方已经进行了1次特殊召唤后，第2次特殊召唤了「`人造人-念力震慑者`_」，「`召唤限制器`_」的效果无效的状况，是否可以把这只「`人造人-念力震慑者`_」作为素材进行S·X召唤，\ :ref:`调整中`\ 。
+
+| 数据库：
+| 「`原始生命态 尼比鲁`_」的①效果在对方场上特殊召唤的「原始生命态衍生物」的原本持有者是发动这个效果的玩家，因此对方可以把自己场上1只幻想魔族怪兽和这只「原始生命态衍生物」解放来特殊召唤「`不可见之神 乔扎之手`_」。\ `25/8/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24215&keyword=&tag=-1&request_locale=ja>`__
+| 「`真龙凰骑 玛丽亚姆内·悖论`_」的①效果发动时，连锁发动「`真龙皇的复活`_」①效果的场合，「`真龙凰骑 玛丽亚姆内·悖论`_」的①效果处理时由于不能特殊召唤，只把1张「真龙」卡破坏，这个效果处理完毕。\ `25/8/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24214&keyword=&tag=-1&request_locale=ja>`__
+| 「`恐啡肽狂龙·狂飙霸王龙`_」的①效果适用中，对方基本分100的场合，对方不能发动里侧守备表示的「纠罪巧」怪兽的效果。里侧守备表示的「`机怪神 超机怪虫神`_」「`天照大神`_」的处理也一样。\ `25/8/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24213&keyword=&tag=-1&request_locale=ja>`__
+| 「`千查万别`_」「`群雄割据`_」「`御前试合`_」之中的1张在场上存在，因而不能存在第2只机械族怪兽、新的机械族怪兽或新的地属性怪兽的场合，不能发动里侧守备表示的「纠罪巧」怪兽的效果。里侧守备表示的「`机怪神 超机怪虫神`_」「`天照大神`_」的处理也一样。\ `25/8/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24212&keyword=&tag=-1&request_locale=ja>`__
+| 「`暗之护封剑`_」等『不能把表示形式变更』的效果适用中，里侧守备表示变成表侧守备表示不是变更表示形式，里侧守备表示的「纠罪巧」怪兽的效果和「`机怪神 超机怪虫神`_」「`天照大神`_」的效果都可以发动。\ `25/8/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24211&keyword=&tag=-1&request_locale=ja>`__
+| 怪兽的效果发动时，连锁发动『发动无效并破坏』的效果的场合，如果那只怪兽是把自身解放·送去墓地作为cost来发动效果，发动时已经不在场上存在，不能连锁『发动无效并破坏』的效果来发动「`星尘龙`_」的①效果；否则就可以连锁发动「`星尘龙`_」的①效果。\ `25/8/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24210&keyword=&tag=-1&request_locale=ja>`__
+| 「`王宫的号令`_」的效果适用中，「纠罪巧」怪兽卡仍然可以放置到P区域作为魔法卡发动，之后也可以在P区域发动作为魔法卡的效果。\ `25/8/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24209&keyword=&tag=-1&request_locale=ja>`__
+| 场上的「杀手级调整曲」怪兽每有1只，作为素材作S召唤的场合就可以用手卡1只调整作为S素材。即场上存在2只「杀手级调整曲」怪兽时，都作为素材进行S召唤的场合，可以用手卡2只调整为素材来进行S召唤。「`龙子`_」和「`尸龙子`_」的处理也一样。\ `25/8/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24208&keyword=&tag=-1&request_locale=ja>`__
+
 .. _`电力军曹`: https://ygocdb.com/card/name/电力军曹
 .. _`融合强兵`: https://ygocdb.com/card/name/融合强兵
 .. _`大逮捕`: https://ygocdb.com/card/name/大逮捕
@@ -2187,3 +2224,31 @@
 .. _`嵌合要塞龙`: https://ygocdb.com/card/name/嵌合要塞龙
 .. _`突破技能`: https://ygocdb.com/card/name/突破技能
 .. _`味美喵☆惊喜奖品`: https://ygocdb.com/card/name/味美喵☆惊喜奖品
+.. _`DDD 疾风大王 决策亚历山大`: https://ygocdb.com/card/name/DDD%20疾风大王%20决策亚历山大
+.. _`光神化`: https://ygocdb.com/card/name/光神化
+.. _`召唤兽 雷电`: https://ygocdb.com/card/name/召唤兽%20雷电
+.. _`冥府的执行者 普鲁托`: https://ygocdb.com/card/name/冥府的执行者%20普鲁托
+.. _`和睦的使者`: https://ygocdb.com/card/name/和睦的使者
+.. _`背护卫`: https://ygocdb.com/card/name/背护卫
+.. _`原始生命态 尼比鲁`: https://ygocdb.com/card/name/原始生命态%20尼比鲁
+.. _`原始生命态衍生物`: https://ygocdb.com/?search=原始生命态衍生物
+.. _`真龙`: https://ygocdb.com/?search=真龙
+.. _`DDD`: https://ygocdb.com/?search=DDD
+.. _`王宫的号令`: https://ygocdb.com/card/name/王宫的号令
+.. _`吸血鬼的领域`: https://ygocdb.com/card/name/吸血鬼的领域
+.. _`召唤限制器`: https://ygocdb.com/card/name/召唤限制器
+.. _`真龙凰骑 玛丽亚姆内·悖论`: https://ygocdb.com/card/name/真龙凰骑%20玛丽亚姆内·悖论
+.. _`恐啡肽狂龙·狂飙霸王龙`: https://ygocdb.com/card/name/恐啡肽狂龙·狂飙霸王龙
+.. _`天球之圣刻印`: https://ygocdb.com/card/name/天球之圣刻印
+.. _`杀手级调整曲`: https://ygocdb.com/?search=杀手级调整曲
+.. _`不可见之神 乔扎之手`: https://ygocdb.com/card/name/不可见之神%20乔扎之手
+.. _`暗之护封剑`: https://ygocdb.com/card/name/暗之护封剑
+.. _`三振障壁`: https://ygocdb.com/card/name/三振障壁
+.. _`DD 夜吼怪`: https://ygocdb.com/card/name/DD%20夜吼怪
+.. _`黑洞`: https://ygocdb.com/card/name/黑洞
+.. _`吸血鬼`: https://ygocdb.com/?search=吸血鬼
+.. _`纠罪巧`: https://ygocdb.com/?search=纠罪巧
+.. _`真龙皇的复活`: https://ygocdb.com/card/name/真龙皇的复活
+.. _`超魔神 本我`: https://ygocdb.com/card/name/超魔神%20本我
+.. _`抒情歌鸲-聚集夜莺`: https://ygocdb.com/card/name/抒情歌鸲-聚集夜莺
+.. _`天照大神`: https://ygocdb.com/card/name/天照大神

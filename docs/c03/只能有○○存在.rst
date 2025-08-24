@@ -37,7 +37,7 @@
 | 「`死者苏生`_」等取对象或者不取对象的特殊召唤效果也不能特殊召唤不符合条件的怪兽，没有符合条件的怪兽时不能发动这些效果。
 | 可以把不符合条件的怪兽里侧表示通常召唤·特殊召唤\ `21/9/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5622&sort=1&page=2&request_locale=ja>`__\ ，在里侧表示状态下一时除外的场合也可以正常回到场上。
 | 例：
-| 我方场上存在「`机怪虫·树突虫`_」和里侧表示的「`机怪神 超机怪虫神`_」，对方场上「`千查万别`_」的①效果适用中，对方以盖放的这只「`机怪神 超机怪虫神`_」为对象发动效果时，我方不能连锁发动「`机怪神 超机怪虫神`_」的①效果。
+| 「`千查万别`_」「`群雄割据`_」「`御前试合`_」之中的1张在场上存在，因而不能存在第2只机械族怪兽、新的机械族怪兽或新的地属性怪兽的场合，不能发动里侧守备表示的「纠罪巧」怪兽的效果。里侧守备表示的「`机怪神 超机怪虫神`_」「`天照大神`_」的处理也一样。\ `25/8/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24212&keyword=&tag=-1&request_locale=ja>`__
 | 「`群雄割据`_」在场上存在时，只要任意玩家场上存在岩石族以外的怪兽，就不能从手卡发动「`原始生命态 尼比鲁`_」的①效果。\ `19/9/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22802&keyword=&tag=-1&request_locale=ja>`__
 | 「`群雄割据`_」在场上存在时，我方场上存在2只战士族怪兽的状况，我方进行X召唤的场合，只能把战士族怪兽X召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11272&keyword=&tag=-1&request_locale=ja>`__
 | 「`千查万别`_」在场上存在时，我方场上存在战士族怪兽和机械族怪兽各1只的状况，不能把这2只怪兽作为素材连接召唤战士族或机械族怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12759&keyword=&tag=-1&request_locale=ja>`__
@@ -488,3 +488,5 @@
 .. _`闪刀姬-零衣`: https://ygocdb.com/card/name/闪刀姬-零衣
 .. _`机怪虫·树突虫`: https://ygocdb.com/card/name/机怪虫·树突虫
 .. _`机怪神 超机怪虫神`: https://ygocdb.com/card/name/机怪神%20超机怪虫神
+.. _`纠罪巧`: https://ygocdb.com/?search=纠罪巧
+.. _`天照大神`: https://ygocdb.com/card/name/天照大神
