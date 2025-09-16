@@ -2692,7 +2692,7 @@
 --------
 
 | 数据库：
-| 场上存在持有X素材的「`入魔龙祖 俄菲翁`_」时，手卡的「`喔喔公鸡`_」可以适用自身①或②效果特殊召唤。\ `22/12/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13732&keyword=&tag=-1&request_locale=ja>`__
+| :strike:`场上存在持有X素材的「入魔龙祖 俄菲翁」时，手卡的「喔喔公鸡」可以适用自身①或②效果特殊召唤。`
 | P区域的「`DDD 死讴王 恶德镇魂神`_」发动①效果把自身特殊召唤，等级变更的状况，是魔法卡的效果导致的等级变更，再发动「`技能抽取`_」的场合，这只「`DDD 死讴王 恶德镇魂神`_」的等级不会复原。\ `22/12/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22932&keyword=&tag=-1&request_locale=ja>`__
 | 「`风来王 野风`_」的①效果这样，『这个方法特殊召唤过的回合』效果，不是在场上适用的效果，即使场上存在「`技能抽取`_」，这类效果也不会被无效。「`娱乐法师 高跷射手`_」「`圣刻龙-泰芙龙`_」「`寂静鮟鱇`_」的①效果等相同文本的处理也一样。\ `22/12/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20371&keyword=&tag=-1&request_locale=ja>`__
 | 即使场上存在「`技能抽取`_」，通过自身①效果特殊召唤的「`恐龙摔跤手·席拉腔骨龙`_」的『把这个方法特殊召唤的这张卡作为连接召唤的素材的场合，不是「`恐龙摔跤手`_」怪兽的连接召唤不能使用』效果仍然适用。\ `22/12/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22419&keyword=&tag=-1&request_locale=ja>`__
