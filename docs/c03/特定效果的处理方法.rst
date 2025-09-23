@@ -853,7 +853,7 @@ cost
    | 自己场上里侧表示的「`芳香`_」怪兽被效果破坏的场合，不会发动「`芳香花园`_」的②效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15546&keyword=&tag=-1&request_locale=ja>`__
    | 怪兽区域的陷阱怪兽被破坏的场合，也可以发动「`妖醒龙 幼生狱风神`_」的①效果。\ `22/12/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22396&keyword=&tag=-1&request_locale=ja>`__
    | 里侧表示的「`急袭猛禽`_」怪兽被效果破坏的场合，不能发动墓地「`急袭猛禽-归来`_」的②效果。\ `22/12/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15577&keyword=&tag=-1&request_locale=ja>`__
-   | 「`DDD猎头`_」的①效果得到控制权的怪兽卡名当作「DDD」怪兽使用的状况，再被破坏的场合，可以发动额外卡组表侧存在的「`DDD 零死王 零·机降神`_」的①效果。「`罪 真实龙`_」的①效果和P区域「`娱乐法师 火布偶`_」的①效果处理也是参照在场上表侧时的卡名进行。\ `25/9/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16380&keyword=&tag=-1&request_locale=ja>`__
+   | 「`DDD猎头`_」的①效果得到控制权的怪兽卡名当作「`DDD`_」怪兽使用的状况，再被破坏的场合，可以发动额外卡组表侧存在的「`DDD 零死王 零·机降神`_」的①效果。「`罪 真实龙`_」的①效果和P区域「`娱乐法师 火布偶`_」的①效果处理也是参照在场上表侧时的卡名进行。\ `25/9/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16380&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 如果在『○○被破坏』后还记述了『送去墓地』等文本，要求送去墓地后也必须是『○○』。另外，没有明确记述『送去自己墓地』『送去对方墓地』的场合，送去哪一方的墓地都满足条件。
    | 因此，这时衍生物·陷阱怪兽都不满足『怪兽被破坏』的条件。
