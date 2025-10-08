@@ -188,6 +188,7 @@
 | 自己主要阶段对方把怪兽效果发动，被我方用「`神之通告`_」等把那个发动无效的场合，当作对方没有发动过怪兽效果，自己不能发动「`三战之才`_」。
 | 「`召唤兽 卡利古拉`_」在场上存在，自己怪兽效果发动被无效的场合，这个回合自己怪兽的效果不可以再发动。此外，「`欢聚友伴·茸茸长尾山雀`_」的效果发动被无效，这个回合内发动第2张「`欢聚友伴·茸茸长尾山雀`_」的效果，『自己只能有1次把这张卡以外的「`欢聚友伴`_」怪兽的效果发动』适用的场合，第1次发动无效的次数仍然计入，这个回合不能发动第3张「`欢聚友伴`_」怪兽的效果。\ `25/3/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7813&keyword=&tag=-1&request_locale=ja>`__
 | 「`大将军 紫炎`_」在对方场上存在，自己魔法·陷阱卡的发动被无效的场合，这个回合自己仍然可以再发动1次魔法·陷阱卡。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11730&request_locale=ja>`__\
+| 『决斗中只能使用1次』的「`天羽羽斩之巳剑`_」①效果等，只要发动了，即使发动无效、效果无效、效果被「`No.75 惑乱之风言暗影`_」的①效果等改写，或者因其他效果处理时不能正常适用的场合，都当作已经使用过，这次决斗中不能再次发动。\ `25/9/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23336&keyword=&tag=-1&request_locale=ja>`__
 
 .. attention:: 特别地，「`命运之抽卡`_」\ `18/12/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22342&keyword=&tag=-1&request_locale=ja>`__ 「`交错之魂`_」\ `20/12/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=15838&request_locale=ja>`__ 这类『只能有1次把魔法·陷阱·怪兽的效果发动』文本的裁定中统一化，魔法·陷阱·怪兽的效果发动被无效的场合，不会计数，这个回合还能再发动1次。
 
@@ -481,3 +482,5 @@
 .. _`淘气仙星·布拉蒂玛丽`: https://ygocdb.com/card/name/淘气仙星·布拉蒂玛丽
 .. _`黄金荣耀-灭杀者`: https://ygocdb.com/card/name/黄金荣耀-灭杀者
 .. _`毁灭之黑魔术师`: https://ygocdb.com/card/name/毁灭之黑魔术师
+.. _`天羽羽斩之巳剑`: https://ygocdb.com/card/name/天羽羽斩之巳剑
+.. _`No.75 惑乱之风言暗影`: https://ygocdb.com/card/name/No.75%20惑乱之风言暗影

@@ -27,7 +27,7 @@
 | 取对象效果、选择1个发动的效果等，部分效果在发动时可以确定是否『包含○○』。
 | 例：
 | 「`沉眠于星遗物的深层`_」发动时，不选择对象的场合，不是包含把怪兽特殊召唤的效果，不能连锁发动「`神之警告`_」。
-| 怪兽的效果发动时，连锁发动『发动无效并破坏』的效果的场合，如果那只怪兽是把自身解放·送去墓地作为cost来发动效果，发动时已经不在场上存在，不能连锁『发动无效并破坏』的效果来发动「`星尘龙`_」的①效果；否则就可以连锁发动「`星尘龙`_」的①效果。\ `25/8/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24210&keyword=&tag=-1&request_locale=ja>`__
+| 「`巳剑降临`_」的效果处理可以把卡组的卡解放，就结果来说送去墓地，这仍然不是从卡组把卡送去墓地的效果，不能连锁发动「`灰流丽`_」的①效果。\ `25/9/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24226&keyword=&tag=-1&request_locale=ja>`__
 | 「`自然的神星树`_」等永续陷阱卡的发动时，如果不同时发动把怪兽特殊召唤的效果，那么不能连锁发动「`神之警告`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13786&request_locale=ja>`__
 | 「`刚地帝 格兰玛格`_」不是用地属性怪兽解放来上级召唤时发动效果的场合，由于发动时确定不可能抽卡，不能连锁发动「`灰流丽`_」的①效果。\ `17/3/24 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20547&keyword=&tag=-1>`__
 | 4种类怪兽融合召唤的「`狱火机 提耶拉`_」在融合召唤成功时发动效果时，不能连锁发动「`灰流丽`_」的①效果。\ `17/3/24 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10690&keyword=&tag=-1>`__
@@ -41,6 +41,8 @@
    | 例：
    | 即使「`怨邪帝 盖乌斯`_」效果的对象选择的是任意魔法·陷阱卡（包括场地魔法等），也可以连锁发动「`屋敷童`_」的①效果。
    | 对「`假面英雄 暗爪`_」发动「`融合解除`_」时，也可以连锁发动「`屋敷童`_」的①效果。
+   | 只把怪兽表侧除外来发动怪兽的效果，那个连锁处理完毕时发动「`断影烈破`_」①效果的场合，仍然可以连锁发动「`圣王的粉碎`_」或「`灰流丽`_」的①效果。\ `25/9/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24227&keyword=&tag=-1&request_locale=ja>`__
+   | 没有通过正规手续出场过的「`天丛云之巳剑`_」被解放，在墓地发动③效果的场合，虽然确定不能特殊召唤，仍然可以连锁发动「`屋敷童`_」的①效果。此外，因「`大宇宙`_」等效果解放后被除外，在除外状态发动③效果的场合，不能连锁发动「`屋敷童`_」的①效果。「`布都御魂之巳剑`_」的②效果处理也一样。\ `25/9/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24225&keyword=&tag=-1&request_locale=ja>`__
    | 怪兽卡发动效果时（怪兽效果的发动时，或者在P区域把P怪兽卡当作魔法卡发动时），连锁把「`饼蛙`_」的②效果发动的场合，不论是连锁什么怪兽卡来发动（即使「`饼蛙`_」的②效果对应的那个怪兽因苏生限制等不能被这个效果特殊召唤），都可以再连锁发动「`神之警告`_」或「`屋敷童`_」的①效果。\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19625&keyword=&tag=-1&request_locale=ja>`__
    | 「`小丑与锁鸟`_」的①效果适用中，「`三战之号`_」发动时，仍然可以连锁发动「`圣王的粉碎`_」或「`灰流丽`_」的①效果。\ `25/4/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24162&keyword=&tag=-1&request_locale=ja>`__
    | 「`心灵崩坏`_」发动时，可以连锁发动「`守墓的监视者`_」的效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11731&keyword=&tag=-1&request_locale=ja>`__
@@ -54,7 +56,7 @@
 
 -  | 必发效果强制发动时，可能不包含特定效果。
    | 例：
-   | 对方场上里侧表示存在2只「`彼岸`_」怪兽，我方用「`恶魔斗牛士`_」攻击其中1只，伤害计算后那只怪兽因自身②效果立即破坏从场上离开之后，「`恶魔斗牛士`_」也会强制发动③效果，这时不是确定破坏卡的效果，不能连锁发动「`废品栗子球`_」的①效果。
+   | 墓地没有「`废铁`_」怪兽，「`废铁龙`_」的②效果不取对象强制发动时，不能连锁发动「`屋敷童`_」的①效果。
    | 我方墓地不存在「`古遗物`_」怪兽，「`古遗物-雷神锤`_」的③效果强制发动时不取对象，这时对方不能连锁发动「`屋敷童`_」的①效果。\ `25/5/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24180&keyword=&tag=-1&request_locale=ja>`__
 
 | 即使包含的特定效果不是立即处理，也能对应。
@@ -87,8 +89,10 @@
 
 | 取对象效果、选择1个发动的效果等，部分效果在发动时可以确定是否『把卡片破坏』『给与伤害』。
 | 例：
+| 对方场上里侧表示存在2只「`彼岸`_」怪兽，我方用「`恶魔斗牛士`_」攻击其中1只，伤害计算后那只怪兽因自身②效果立即破坏从场上离开之后，「`恶魔斗牛士`_」也会强制发动③效果，这时不是确定破坏卡的效果，不能连锁发动「`废品栗子球`_」的①效果。
 | 「`炎舞-「瑶光」`_」发动时，不选择对象不丢弃手卡的场合，就没有发动那个破坏效果，不能连锁发动「`星尘龙`_」的①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10216&request_locale=ja>`__
 | 「`No.90 银河眼光子卿`_」的②效果发动时，取除的X素材不是「`银河`_」卡的场合，就只能无效，不能破坏，不能连锁发动「`破坏干扰`_」。是的场合，可以连锁发动「`破坏干扰`_」。\ `18/5/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21890&request_locale=ja>`__
+| 怪兽的效果发动时，连锁发动『发动无效并破坏』的效果的场合，如果那只怪兽是把自身解放·送去墓地作为cost来发动效果，发动时已经不在场上存在，不能连锁『发动无效并破坏』的效果来发动「`星尘龙`_」的①效果；否则就可以连锁发动「`星尘龙`_」的①效果。\ `25/8/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24210&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 部分效果的发动时，如果这时的游戏状况确定能适用，也可以连锁发动对应的效果。
    | 本身确定『把卡片破坏』的效果发动时，那些卡不会被效果破坏或者不受效果影响的场合，也可以连锁发动对应的效果。
@@ -229,3 +233,7 @@
 .. _`味美喵☆惊喜奖品`: https://ygocdb.com/card/name/味美喵☆惊喜奖品
 .. _`恶魔斗牛士`: https://ygocdb.com/card/name/恶魔斗牛士
 .. _`彼岸`: https://ygocdb.com/?search=彼岸
+.. _`巳剑降临`: https://ygocdb.com/card/name/巳剑降临
+.. _`天丛云之巳剑`: https://ygocdb.com/card/name/天丛云之巳剑
+.. _`布都御魂之巳剑`: https://ygocdb.com/card/name/布都御魂之巳剑
+.. _`断影烈破`: https://ygocdb.com/card/name/断影烈破

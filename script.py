@@ -150,6 +150,8 @@ def add_cdb_url(texts: str) -> str:
             if stack:
                 name_chars.append(char)
             if char == '」':
+                if not stack:
+                    print(line, 'error!')
                 stack.pop()
                 if not stack:
                     name = ''.join(name_chars)

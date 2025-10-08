@@ -96,6 +96,7 @@
    | 我方怪兽区域「`No.4 猛毒刺胞 隐形水母怪`_」的①效果适用中，对方S召唤「`红莲升龙`_」成功时，是从额外卡组特殊召唤龙族·水属性怪兽，由于『这个效果发动的回合，自己不是龙族·暗属性同调怪兽不能从额外卡组特殊召唤』，结果不能发动①效果。\ `25/6/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24188&keyword=&tag=-1&request_locale=ja>`__
    | 「`传说之都 亚特兰蒂斯`_」的②效果适用中，「`歧蜥·魔蜥义豪`_」召唤的场合，是召唤了等级4的怪兽，这个回合不能发动「`虫饵`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7633&keyword=&tag=-1&request_locale=ja>`__
    | 「`诸刃的活人剑术`_」的①效果把「`真六武众-阴鬼`_」和「`真六武众-辉斩`_」特殊召唤成功时，「`真六武众-阴鬼`_」因自身②效果适用攻击力结果是1700，可以发动「`奈落的落穴`_」，「`真六武众-阴鬼`_」和「`真六武众-辉斩`_」都被破坏并除外。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11726&keyword=&tag=-1&request_locale=ja>`__
+   | 『○○族怪兽特殊召唤时·的场合』诱发的效果，在「`DNA改造手术`_」的效果适用中（宣言那个种族），有原本不是那个种族的怪兽被特殊召唤，在场上变成那个种族的状况，当作满足发动条件，可以发动或强制发动。『从自己墓地有8星以上的鱼族同调怪兽特殊召唤的场合』的「`白之轮回`_」的处理也一样，只要是从自己墓地特殊召唤，在场上特殊召唤的时点是鱼族即满足发动条件，不考虑在墓地时的种族。\ `25/10/4 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21680&keyword=&tag=-1&request_locale=ja>`__
 
    .. attention::
 
@@ -494,3 +495,4 @@
 .. _`最终突击命令`: https://ygocdb.com/card/name/最终突击命令
 .. _`古代的机械魔神`: https://ygocdb.com/card/name/古代的机械魔神
 .. _`虚龙魔王 无形矢·心灵`: https://ygocdb.com/card/name/虚龙魔王%20无形矢·心灵
+.. _`白之轮回`: https://ygocdb.com/card/name/白之轮回
