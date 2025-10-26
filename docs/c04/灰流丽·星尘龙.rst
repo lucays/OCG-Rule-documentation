@@ -76,6 +76,7 @@
 | 基本上不能对应可以变成或适用其他效果的效果。
 | 例：
 | 「`堕天使`_」怪兽以墓地「`堕天使的追放`_」为对象发动②效果时，不能连锁发动「`灰流丽`_」的①效果。
+| 「`堕天使 伊希塔布`_」的②效果发动时，不论作为对象的卡是什么，都不能连锁发动「`灵王的波动`_」「`灰流丽`_」「`星尘龙`_」的①效果。其他「`堕天使`_」怪兽的『那张魔法·陷阱卡的效果适用』效果也一样。\ `25/10/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24234&keyword=&tag=-1&request_locale=ja>`__
 | 「`紧急仪式术`_」的效果本身就包含仪式召唤，因此可以连锁发动「`神之警告`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7942&request_locale=ja>`__
 
 | 「`连锁素材`_」等效果不是让融合召唤的效果本身变得『包含○○』。
@@ -237,3 +238,4 @@
 .. _`天丛云之巳剑`: https://ygocdb.com/card/name/天丛云之巳剑
 .. _`布都御魂之巳剑`: https://ygocdb.com/card/name/布都御魂之巳剑
 .. _`断影烈破`: https://ygocdb.com/card/name/断影烈破
+.. _`堕天使 伊希塔布`: https://ygocdb.com/card/name/堕天使%20伊希塔布
