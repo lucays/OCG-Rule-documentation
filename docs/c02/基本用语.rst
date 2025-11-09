@@ -57,7 +57,7 @@
 
 -  | 『这张卡的卡名规则上当作○○使用』的卡片尽管和『○○』在卡组内合计只能投入最多3张，如果有效果使用次数限制，和『○○』分开计数。
    | 例：
-   | 1个回合内可以各自发动「`阿不思的落胤`_」和「`白龙的落胤`_」的效果。「`轻水龙`_」和「`水龙`_」、「`霸王天龙 异色眼霸弧光迹龙`_」和「`霸王龙 扎克`_」的效果也一样。\ `25/10/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24244&keyword=&tag=-1&request_locale=ja>`__
+   | 1个回合内可以各自发动「`阿不思的落胤`_」和「`白龙之落胤`_」的效果。「`轻水龙`_」和「`水龙`_」、「`霸王天龙 异色眼霸弧光迹龙`_」和「`霸王龙 扎克`_」的效果也一样。\ `25/10/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24244&keyword=&tag=-1&request_locale=ja>`__
 
 .. attention::
 
@@ -2218,4 +2218,4 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 .. _`水龙`: https://ygocdb.com/card/name/水龙
 .. _`神艺智慧的少女`: https://ygocdb.com/card/name/神艺智慧的少女
 .. _`电磁蓑衣虫`: https://ygocdb.com/card/name/电磁蓑衣虫
-.. _`白龙的落胤`: https://ygocdb.com/card/name/白龙的落胤
+.. _`白龙之落胤`: https://ygocdb.com/card/name/白龙之落胤

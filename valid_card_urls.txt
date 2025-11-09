@@ -6151,7 +6151,7 @@ https://ygocdb.com/card/name/妖精灵%20缎带栗子
 https://ygocdb.com/card/name/秘仪之力15-恶魔
 https://ygocdb.com/card/name/幻惑之魔术师
 https://ygocdb.com/card/name/深海恶魔
-https://ygocdb.com/card/name/白龙的落胤
+https://ygocdb.com/card/name/白龙之落胤
 https://ygocdb.com/card/name/DDD%20超死伟王%20黑地狱终末神
 https://ygocdb.com/card/name/傀儡流仪-傀儡鲨
 https://ygocdb.com/card/name/钢铁幻想师
@@ -6186,3 +6186,9 @@ https://ygocdb.com/card/name/阳炎殿的君主
 https://ygocdb.com/card/name/久延毘古
 https://ygocdb.com/card/name/悠悠
 https://ygocdb.com/card/name/杀龙剑
+https://ygocdb.com/card/name/纠罪巧-嗜蝎%20Archaη.TAIL
+https://ygocdb.com/card/name/禁忌的圣冠
+https://ygocdb.com/card/name/电气王国
+https://ygocdb.com/card/name/决斗进化-爆裂区域
+https://ygocdb.com/card/name/绚岚之海灵%20派比安
+https://ygocdb.com/card/name/轰雷机龙-雷龙
