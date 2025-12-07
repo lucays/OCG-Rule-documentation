@@ -27,6 +27,10 @@
 | 宣言自身卡名的场合，由于「`禁止令`_」的效果不影响已经在场上的自身，只会让其他的「`禁止令`_」不能出现在场上；「`念动力防卫者`_」的场合，直到下次的对方回合结束时场上的自身都会变得不能使用。
 | 此外，作为宣言卡名的效果，不能宣言衍生物\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12551&keyword=&tag=-1&request_locale=ja>`__\ ，也不能宣言规则上不存在的「`传说之都 亚特兰蒂斯`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13585&keyword=&tag=-1&request_locale=ja>`__
 
+-  | 宣言的卡持有『规则上也当作○○』的文本时，「○○」也不能使用。
+   | 例：
+   | 「`禁止令`_」可以宣言「`新空间侠·海洋海豚`_」，这时「`新空间侠·水波海豚`_」也不能使用。
+
 『对从这个效果的适用前开始在场上存在的卡不适用』
 ------------------------------------------------
 
@@ -258,3 +262,5 @@
 .. _`暗黑女武神`: https://ygocdb.com/card/name/暗黑女武神
 .. _`同盟飞行员`: https://ygocdb.com/card/name/同盟飞行员
 .. _`同盟驾驶员`: https://ygocdb.com/card/name/同盟驾驶员
+.. _`新空间侠·水波海豚`: https://ygocdb.com/card/name/新空间侠·水波海豚
+.. _`新空间侠·海洋海豚`: https://ygocdb.com/card/name/新空间侠·海洋海豚
