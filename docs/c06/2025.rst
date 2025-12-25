@@ -2137,6 +2137,76 @@
 | 数据库：
 | 「`赐炎之咎姬`_」的①效果适用时，不能把「`赐炎之咎姬`_」送去墓地发动「`耀圣之诗～回乡之平行体～`_」。\ `25/12/4 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24255&keyword=&tag=-1&request_locale=ja>`__
 
+12/6
+--------
+
+| wiki:
+| 宣言机械族的「`轮回独断`_」的效果适用中，仍然不能对墓地已经变成机械族的「`影雄之烬 神子晶`_」发动场上的「`影雄之烬 神子晶`_」的①效果。\ `25/12/6 <https://yugioh-wiki.net/index.php?%A1%D4%A5%C8%A5%D5%A5%B7%A5%E3%A5%C9%A1%BC%A5%EB%20%A5%A8%A5%B0%A5%EA%A5%B9%A5%BF%A1%D5#faq1>`__
+
+12/11
+--------
+
+| 数据库：
+
+| 裁定变更：
+| 「`变形斗士·智能机`_」的①效果处理时，卡组没有卡的场合，仍然投掷骰子。\ `22/5/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11550&request_locale=ja>`__ 「`变形斗士·电话`_」\ `22/5/21 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17596&request_locale=ja>`__\ 「`变形斗士·手机`_」\ `22/5/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7874&request_locale=ja>`__\ 也是如此。
+| 「`群豪之狂化者-侯爵`_」的①效果处理时，卡组没有卡的场合，仍然投掷骰子。\ `22/3/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17353&request_locale=ja>`__
+| 「`席取-六双丸`_」的①效果处理时，自身不在怪兽区域存在的场合，仍然投掷骰子。\ `22/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17158&request_locale=ja>`__
+| 「`席取-六双丸`_」的②效果处理时，自身不在怪兽区域存在的场合，仍然投掷骰子。\ `22/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17159&request_locale=ja>`__
+| 「`铁球魔神 戈逻工`_」的③效果处理时，作为对象的卡不在墓地存在的场合，仍然投掷骰子。\ `22/6/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17622&request_locale=ja>`__
+
+12/12
+--------
+
+| 邮件：
+| 对方场上存在装备了「`异热同心武器-阿修罗副腕`_」的怪兽，我方发动「`心变`_」得到控制权后，「`异热同心武器-阿修罗副腕`_」的控制权仍然在对方，③效果是攻击我方怪兽时才能各作1次攻击，已经在我方场上的这只怪兽不能向对方怪兽各作1次攻击。
+
+12/13
+---------
+
+| 邮件：
+| 对方场上存在「`异星的最终战士`_」，我方发动「`魔法卡「灵魂交错」`_」，解放「`异星的最终战士`_」上级召唤的场合，那只怪兽不能表侧表示召唤，只能盖放。
+| 卡组内存在「`新空间侠·水波海豚`_」时，发动「`抹杀之指名者`_」的场合，是否可以宣言「`新空间侠·海洋海豚`_」，\ :ref:`调整中`\ 。
+
+12/15
+---------
+
+| 数据库：
+
+| 裁定变更：
+| 我方「`人偶城堡`_」「`美西螈绅士`_」「`双穹之骑士 阿斯特拉姆`_」的效果适用的场合，我方也可以发动「`No.38 希望魁龙 银河巨神`_」的②效果把攻击对象转移给自身进行伤害计算。此外，我方「`传说的渔人`_」的②效果适用的场合，我方也可以对其发动「`攻击诱导铠甲`_」第2个『●』效果并适用。\ `25/12/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17980&keyword=&tag=-1&request_locale=ja>`__
+
+12/16
+---------
+
+| 邮件：
+| 可以对不受魔法效果影响的怪兽发动「`假面变化`_」，效果不适用。
+
+12/19
+---------
+
+| 数据库：
+| 「`破灭与终焉之支配者`_」的②效果发动时，是确定进行仪式召唤的效果，可以连锁发动「`灵王的波动`_」「`神之警告`_」等效果。不过，具体来说，除外「`破灭与终焉之支配者`_」发动「`破灭与终焉之支配者`_」的②效果时，不是从特定场所特殊召唤的效果，不能连锁发动「`屋敷童`_」「`灰流丽`_」的①效果等效果。\ `25/12/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7942&keyword=&tag=-1&request_locale=ja>`__
+| 已经发动过「`巳剑降临`_」某个『●』效果或使用过「`影灵衣的万华镜`_」①效果的回合，可以通过发动「`破灭与终焉之支配者`_」的②效果来再次适用同1个效果，不需要考虑那些次数限制。\ `25/12/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16653&keyword=&tag=-1&request_locale=ja>`__
+
+12/22
+---------
+
+| 数据库：
+| 「`突然变异`_」的效果是从额外卡组特殊召唤，不是融合召唤，不能特殊召唤记述『融合召唤（及以下方法）才能从额外卡组特殊召唤』的「`青眼暴君龙`_」「`影依`_」怪兽等，『不用融合召唤不能特殊召唤』的「`元素英雄`_」融合怪兽等也不能被这个效果特殊召唤。可以特殊召唤「`自然木龙兽`_」以及融合召唤过再加入表侧额外卡组的「`凶饿蛊龙`_」。\ `25/12/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20&keyword=&tag=-1&request_locale=ja>`__
+
+12/24
+---------
+
+| 数据库：
+| 「`仪式的事前准备`_」的①效果处理时，如果卡组或墓地存在「`破灭之女神 露茵`_」「`终焉之王 迪米斯`_」之内的1只，可以从卡组把「`世界末日`_」「`世界不灭`_」加入手卡，再选「`破灭之女神 露茵`_」「`终焉之王 迪米斯`_」之内的1只加入手卡。不能选只在手卡·场上改变卡名的「`终焉之恶魔 迪米斯`_」「`终焉之霸王 迪米斯`_」「`破灭之天使 露茵`_」「`破灭之美神 露茵`_」「`破灭与终焉之支配者`_」。\ `25/12/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18082&keyword=&tag=-1&request_locale=ja>`__
+
+12/25
+---------
+
+| 邮件：
+| 我方主要怪兽区域存在5只怪兽，其中1只有装备装备卡，额外怪兽区域也存在1只怪兽并且装备了装备卡的状况，我方发动「`超进化之茧`_」，对方连锁发动「`虚无空间`_」的场合，不会特殊召唤，仍然需要解放怪兽，这时可以解放额外怪兽区域那只怪兽。
+
 .. _`电力军曹`: https://ygocdb.com/card/name/电力军曹
 .. _`融合强兵`: https://ygocdb.com/card/name/融合强兵
 .. _`大逮捕`: https://ygocdb.com/card/name/大逮捕
@@ -3519,3 +3589,28 @@
 .. _`耀圣之诗～狂奏之狂想曲～`: https://ygocdb.com/card/name/耀圣之诗～狂奏之狂想曲～
 .. _`耀圣之诗～回乡之平行体～`: https://ygocdb.com/card/name/耀圣之诗～回乡之平行体～
 .. _`恐吓爪牙族·特莱希哈特`: https://ygocdb.com/card/name/恐吓爪牙族·特莱希哈特
+.. _`破灭之美神 露茵`: https://ygocdb.com/card/name/破灭之美神%20露茵
+.. _`世界不灭`: https://ygocdb.com/card/name/世界不灭
+.. _`影灵衣的万华镜`: https://ygocdb.com/card/name/影灵衣的万华镜
+.. _`破灭之女神 露茵`: https://ygocdb.com/card/name/破灭之女神%20露茵
+.. _`群豪之狂化者-侯爵`: https://ygocdb.com/card/name/群豪之狂化者-侯爵
+.. _`传说的渔人`: https://ygocdb.com/card/name/传说的渔人
+.. _`世界末日`: https://ygocdb.com/card/name/世界末日
+.. _`破灭与终焉之支配者`: https://ygocdb.com/card/name/破灭与终焉之支配者
+.. _`青眼暴君龙`: https://ygocdb.com/card/name/青眼暴君龙
+.. _`人偶城堡`: https://ygocdb.com/card/name/人偶城堡
+.. _`元素英雄`: https://ygocdb.com/?search=元素英雄
+.. _`破灭之天使 露茵`: https://ygocdb.com/card/name/破灭之天使%20露茵
+.. _`假面变化`: https://ygocdb.com/card/name/假面变化
+.. _`终焉之恶魔 迪米斯`: https://ygocdb.com/card/name/终焉之恶魔%20迪米斯
+.. _`铁球魔神 戈逻工`: https://ygocdb.com/card/name/铁球魔神%20戈逻工
+.. _`异星的最终战士`: https://ygocdb.com/card/name/异星的最终战士
+.. _`超进化之茧`: https://ygocdb.com/card/name/超进化之茧
+.. _`突然变异`: https://ygocdb.com/card/name/突然变异
+.. _`仪式的事前准备`: https://ygocdb.com/card/name/仪式的事前准备
+.. _`变形斗士·电话`: https://ygocdb.com/card/name/变形斗士·电话
+.. _`美西螈绅士`: https://ygocdb.com/card/name/美西螈绅士
+.. _`终焉之王 迪米斯`: https://ygocdb.com/card/name/终焉之王%20迪米斯
+.. _`变形斗士·智能机`: https://ygocdb.com/card/name/变形斗士·智能机
+.. _`终焉之霸王 迪米斯`: https://ygocdb.com/card/name/终焉之霸王%20迪米斯
+.. _`魔法卡「`灵魂交错`_」`: https://ygocdb.com/card/name/魔法卡「`灵魂交错`_」
