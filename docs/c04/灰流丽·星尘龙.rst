@@ -41,10 +41,12 @@
    | 例：
    | 即使「`怨邪帝 盖乌斯`_」效果的对象选择的是任意魔法·陷阱卡（包括场地魔法等），也可以连锁发动「`屋敷童`_」的①效果。
    | 对「`假面英雄 暗爪`_」发动「`融合解除`_」时，也可以连锁发动「`屋敷童`_」的①效果。
+   | 主要怪兽区域的「`死亡女王恶魔`_」的①效果发动时，也可以连锁发动「`屋敷童`_」的①效果。\ `26/1/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24264&keyword=&tag=-1&request_locale=ja>`__
    | 只把怪兽表侧除外来发动怪兽的效果，那个连锁处理完毕时发动「`断影烈破`_」①效果的场合，仍然可以连锁发动「`圣王的粉碎`_」或「`灰流丽`_」的①效果。\ `25/9/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24227&keyword=&tag=-1&request_locale=ja>`__
    | 没有通过正规手续出场过的「`天丛云之巳剑`_」被解放，在墓地发动③效果的场合，虽然确定不能特殊召唤，仍然可以连锁发动「`屋敷童`_」的①效果。此外，因「`大宇宙`_」等效果解放后被除外，在除外状态发动③效果的场合，不能连锁发动「`屋敷童`_」的①效果。「`布都御魂之巳剑`_」的②效果处理也一样。\ `25/9/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24225&keyword=&tag=-1&request_locale=ja>`__
    | 怪兽卡发动效果时（怪兽效果的发动时，或者在P区域把P怪兽卡当作魔法卡发动时），连锁把「`饼蛙`_」的②效果发动的场合，不论是连锁什么怪兽卡来发动（即使「`饼蛙`_」的②效果对应的那个怪兽因苏生限制等不能被这个效果特殊召唤），都可以再连锁发动「`神之警告`_」或「`屋敷童`_」的①效果。\ `22/4/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19625&keyword=&tag=-1&request_locale=ja>`__
    | 「`小丑与锁鸟`_」的①效果适用中，「`三战之号`_」发动时，仍然可以连锁发动「`圣王的粉碎`_」或「`灰流丽`_」的①效果。\ `25/4/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24162&keyword=&tag=-1&request_locale=ja>`__
+   | 对方「`古代的进军`_」等『这张卡发动的回合，自己不能把卡盖放』文本适用的状况，对方发动「`三战之号`_」时，我方仍然可以连锁发动「`纠罪巧γ'-欺瞒“exapatisIA”`_」的②效果。\ `26/1/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24265&keyword=&tag=-1&request_locale=ja>`__
    | 「`心灵崩坏`_」发动时，可以连锁发动「`守墓的监视者`_」的效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11731&keyword=&tag=-1&request_locale=ja>`__
    | 「`大宇宙`_」的②效果适用中，发动「`愚蠢的埋葬`_」的场合，仍然可以连锁发动「`灰流丽`_」的①效果。\ `17/3/24 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20543&keyword=&tag=-1>`__
    | 「`女神薇儿丹蒂的引导`_」的②效果发动时，不管宣言的卡的种类是什么，这都是包含把怪兽特殊召唤的效果，可以连锁发动「`珠泪哀歌族·鲁莎卡人鱼`_」的②效果。\ `22/7/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23806&keyword=&tag=-1&request_locale=ja>`__
@@ -82,6 +84,7 @@
 -  | 『变成发动时的效果相同』『那个效果适用』这样的复制类效果如果本身没有其他处理，不能对应。
    | 例：
    | 「`堕天使`_」怪兽以墓地「`堕天使的追放`_」为对象发动②效果时，不能连锁发动「`灰流丽`_」的①效果。
+   | 「`妖精传姬-塔利娅`_」发动②效果时，不能连锁发动「`纠罪巧γ'-欺瞒“exapatisIA”`_」的②效果。\ `26/1/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24272&keyword=&tag=-1&request_locale=ja>`__
    | 「`堕天使 伊希塔布`_」的②效果发动时，不论作为对象的卡是什么，都不能连锁发动「`灵王的波动`_」「`灰流丽`_」的①效果。其他「`堕天使`_」怪兽的『那张魔法·陷阱卡的效果适用』效果也一样。\ `25/10/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24234&keyword=&tag=-1&request_locale=ja>`__
    | 「`紧急仪式术`_」的效果本身就包含仪式召唤，因此可以连锁发动「`神之警告`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7942&request_locale=ja>`__
 
@@ -255,3 +258,7 @@
 .. _`空牙团的奥义`: https://ygocdb.com/card/name/空牙团的奥义
 .. _`救祓少女圣母悼歌`: https://ygocdb.com/card/name/救祓少女圣母悼歌
 .. _`纠罪巧-嗜蝎 Archaη.TAIL`: https://ygocdb.com/card/name/纠罪巧-嗜蝎%20Archaη.TAIL
+.. _`死亡女王恶魔`: https://ygocdb.com/card/name/死亡女王恶魔
+.. _`纠罪巧γ'-欺瞒“exapatisIA”`: https://ygocdb.com/card/name/纠罪巧γ'-欺瞒“exapatisIA”
+.. _`古代的进军`: https://ygocdb.com/card/name/古代的进军
+.. _`妖精传姬-塔利娅`: https://ygocdb.com/card/name/妖精传姬-塔利娅

@@ -18,7 +18,6 @@
 -------
 
 | 邮件：
-| 以「`月光舞狮子神姬`_」为对象发动「`凶饿蛊龙`_」①效果，卡名先变成「`月光`_」卡的场合，『那之后，作为对象的怪兽的攻击力·守备力下降500，效果无效化，给与对方500伤害』仍然不适用。
 | 以「`月光舞狮子神姬`_」为对象发动「`凶饿蛊龙`_」①效果，连锁发动「`月光舞狮子神姬`_」③效果的场合，「`凶饿蛊龙`_」被破坏，那个①效果全不适用。
 
 1/8
@@ -34,6 +33,56 @@
 | 因「`杀手级调整曲·红印鉴唱片师`_」的②效果适用而上升等级的对方怪兽在那之后原本攻击力变得高于1700的场合，等级会复原结果降低1。
 | 「`杀手级调整曲·红印鉴唱片师`_」的②效果适用中，对方「`代价降低`_」的①效果适用的回合，对方召唤等级5的「`贪婪类星体`_」的场合，发生无限循环，结果那个攻击力是多少，\ :ref:`调整中`\ 。
 
+1/13
+--------
+
+| 邮件：
+| 我方怪兽攻击时，我方发动「`先手必掌`_」的①效果，对方连锁发动「`神圣防护罩 -反射镜力-`_」，那只攻击怪兽被破坏的场合，「`先手必掌`_」的①效果全不适用，不投掷骰子。
+
+1/19
+--------
+
+| 数据库：
+| 「`小丑与锁鸟`_」的①效果适用后，『不能从卡组把卡加入手卡』的状况，也可以发动「`亚空间战斗`_」。处理时一方怪兽攻击力较高的场合，那只怪兽送去墓地（不当作因效果送去墓地）。后续处理也正常适用。\ `26/1/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24259&keyword=&tag=-1&request_locale=ja>`__
+| 我方卡组只存在攻击力是『？』的怪兽时，或者攻击力不是『？』的怪兽只存在1只的场合，只要对方卡组存在1只以上攻击力不是『？』的怪兽，对方就可以发动「`亚空间战斗`_」。处理时如果我方卡组只存在攻击力是『？』的怪兽，告知对方这个结果，处理完毕；如果我方卡组攻击力不是『？』的怪兽只存在1只的场合，『●』的效果适用1次，之后如果我方卡组变得只存在攻击力是『？』的怪兽，不再继续适用『●』的效果，处理完毕。\ `26/1/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24262&keyword=&tag=-1&request_locale=ja>`__
+
+1/22
+--------
+
+| 邮件：
+| 以「`月光舞狮子神姬`_」为对象发动「`凶饿毒融合龙`_」的②效果，得到卡名·效果后，发动得到的「`月光舞狮子神姬`_」的③效果时，那只「`月光舞狮子神姬`_」也连锁发动③效果的场合，「`凶饿毒融合龙`_」被破坏，那个得到的③效果处理时仍然破坏「`月光舞狮子神姬`_」。
+
+| 数据库：
+| 「`电气红松鼠`_」「`入魔鬼火`_」「`武装海洋猎手`_」这类需要发动的『和这张卡进行战斗的效果怪兽的效果在伤害计算后无效化』效果是，从伤害计算后开始，那只怪兽表侧在场上到送去墓地后，发动·适用的效果都被无效化，即使那只怪兽在场上时已经被「`禁忌的圣杯`_」等效果无效也是如此。此外，因这类效果无效的「`暗道化师 彼得`_」把自身从墓地除外作为cost发动①效果的场合，由于是在墓地发动的效果，仍然无效。不过，从场上离开后没去墓地，或者离开墓地之后发动·适用的效果不会无效化。例如，「`大宇宙`_」在场上存在时，进行战斗的怪兽在伤害步骤结束时被除外的场合，持有的效果不再被无效化。\ `26/1/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8636&keyword=&tag=-1&request_locale=ja>`__
+| 「`亚空间战斗`_」发动时，可以连锁发动「`灰流丽`_」的①效果。\ `26/1/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24270&keyword=&tag=-1&request_locale=ja>`__
+| 「`亚空间战斗`_」的效果处理选「`破灭与终焉之支配者`_」「`电子龙核`_」「`魔术师的徒弟-黑魔术少女`_」的场合，这个回合双方不能发动「`破灭与终焉之支配者`_」「`电子龙核`_」「`魔术师的徒弟-黑魔术少女`_」的怪兽效果，可以发动「`终焉之王 迪米斯`_」「`电子龙`_」「`黑魔术少女`_」的怪兽效果。\ `26/1/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24261&keyword=&tag=-1&request_locale=ja>`__
+| 「`深渊的宣告者`_」、「`流星登龙`_」的①效果或「`混沌女武神`_」的②效果处理时，不能发动的卡名参考的是那只怪兽在墓地的卡名。例如，「`白骨王子`_」被这类效果送去墓地的场合，那个回合不能发动②效果和③效果；「`白骨公主`_」被这类效果送去墓地后，在那个回合又被其他效果特殊召唤的场合，在场上不是「`白骨`_」，可以发动②效果。\ `26/1/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24263&keyword=&tag=-1&request_locale=ja>`__
+
+| 裁定变更：
+| 「`变化气圈鸟`_」装备的怪兽卡不能被特殊召唤的状况，或者「`虚无魔人`_」等不能特殊召唤的效果适用中，「`变化气圈鸟`_」在结束阶段发动效果的场合，那个效果不适用，那张装备的怪兽卡仍然就这样装备。\ `26/1/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9621&keyword=&tag=-1&request_locale=ja>`__
+
+1/23
+--------
+
+| 数据库：
+| 「`杀手级调整曲·噼啪削波手`_」的①②效果处理时，除外融合·P怪兽或者S·P怪兽、X·P怪兽的场合，如果那只怪兽之前在额外卡组表侧存在，之后表侧回到额外卡组；如果那只怪兽之前在额外卡组里侧存在，之后里侧回到额外卡组。\ `26/1/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24260&keyword=&tag=-1&request_locale=ja>`__
+| 「`杀手级调整曲·噼啪削波手`_」的①②效果处理时，除外表侧的「`狱神影兽-涅瓦红化兽`_」「`疾行机人 辉翼同调士`_」，之后表侧回到额外卡组的场合，可以发动②效果。P区域「`娱乐法师 杯子戏法师`_」的①效果也可以发动。\ `26/1/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24271&keyword=&tag=-1&request_locale=ja>`__
+| 主要怪兽区域的「`死亡女王恶魔`_」的①效果发动时，也可以连锁发动「`屋敷童`_」的①效果。\ `26/1/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24264&keyword=&tag=-1&request_locale=ja>`__
+| 「`纠罪巧γ'-欺瞒“exapatisIA”`_」的『包含把卡盖放效果的卡的效果』是指，把魔法·陷阱卡盖放的效果、把怪兽里侧表示特殊召唤的效果、场上的怪兽从表侧变成里侧表示的效果以及记述『发动后这张卡不送去墓地，直接盖放』『那个发动无效，那张卡直接盖放』『把1只怪兽通常召唤』『把1只怪兽上级召唤』的效果。\ `26/1/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24265&keyword=&tag=-1&request_locale=ja>`__
+| 对方「`古代的进军`_」等『这张卡发动的回合，自己不能把卡盖放』文本适用的状况，对方发动「`三战之号`_」时，我方仍然可以连锁发动「`纠罪巧γ'-欺瞒“exapatisIA”`_」的②效果。\ `26/1/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24265&keyword=&tag=-1&request_locale=ja>`__
+| 不是在手卡被公开中的状态的「`天狱之王`_」发动②效果时，不能连锁发动「`纠罪巧γ'-欺瞒“exapatisIA”`_」的②效果。\ `26/1/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24266&keyword=&tag=-1&request_locale=ja>`__
+| 「`妖精传姬-塔利娅`_」发动②效果时，不能连锁发动「`纠罪巧γ'-欺瞒“exapatisIA”`_」的②效果。\ `26/1/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24272&keyword=&tag=-1&request_locale=ja>`__
+| 「`道化一座 花式火小丑`_」「`道化一座 空竹魔小丑`_」「`道化一座 舞流星小丑`_」「`道化一座 双魔棍小丑`_」的②效果发动时，如果选择发动第1个『●』效果，不论墓地是否存在对应的怪兽，都可以连锁发动「`屋敷童`_」的①效果；如果选择发动第2个『●』效果，不能连锁发动「`屋敷童`_」的①效果。\ `26/1/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24267&keyword=&tag=-1&request_locale=ja>`__
+| 以「`月光舞狮子神姬`_」为对象发动「`凶饿蛊龙`_」①效果，卡名先变成「`月光`_」卡的场合，『那之后，作为对象的怪兽的攻击力·守备力下降500，效果无效化，给与对方500伤害』也会适用。此外，以「`月光舞狮子神姬`_」为对象发动「`凶饿蛊龙`_」①效果，连锁发动「`月光舞狮子神姬`_」③效果的场合，「`凶饿蛊龙`_」被破坏，那个①效果全不适用。以「`炎斩机 终末西格马`_」「`超级量子机神王 大磁炎`_」「`混绝狱神 比托利姆`_」为对象发动「`凶饿蛊龙`_」①效果的场合也一样，那个①效果正常适用。\ `26/1/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24268&keyword=&tag=-1&request_locale=ja>`__
+| 通过自身②效果盖放的「`微睡之罪宝-梦王鸦`_」发动时，或者「`恶魔娘 玛莉丝`_」的①效果盖放的陷阱卡发动时，连锁支付3000基本分发动「`神之密告`_」的场合，由于魔法·陷阱卡的发动被无效的时点不再是场上的卡，不是从场上离开，因此『对方把原本卡名和这个效果除外的卡相同的卡从自身的手卡·卡组全部除外』正常适用。\ `26/1/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24269&keyword=&tag=-1&request_locale=ja>`__
+
+1/24
+--------
+
+| 邮件：
+| 「`巨盾守卫者`_」的①效果发动时，仍然是里侧表示，对方不能连锁发动「`DDD 赦俿王 死亡机降神`_」的②效果。
+| 「纠罪巧」怪兽把里侧表示的自身变成表侧表示作为cost发动②效果时，对方可以连锁发动「`DDD 赦俿王 死亡机降神`_」的②效果。
+
 .. _`吸血鬼·格蕾丝`: https://ygocdb.com/card/name/吸血鬼·格蕾丝
 .. _`天变地异`: https://ygocdb.com/card/name/天变地异
 .. _`杀手级调整曲·红印鉴唱片师`: https://ygocdb.com/card/name/杀手级调整曲·红印鉴唱片师
@@ -42,3 +91,53 @@
 .. _`月光舞狮子神姬`: https://ygocdb.com/card/name/月光舞狮子神姬
 .. _`凶饿蛊龙`: https://ygocdb.com/card/name/凶饿蛊龙
 .. _`月光`: https://ygocdb.com/?search=月光
+.. _`恶魔娘 玛莉丝`: https://ygocdb.com/card/name/恶魔娘%20玛莉丝
+.. _`终焉之王 迪米斯`: https://ygocdb.com/card/name/终焉之王%20迪米斯
+.. _`道化一座 双魔棍小丑`: https://ygocdb.com/card/name/道化一座%20双魔棍小丑
+.. _`白骨`: https://ygocdb.com/card/name/白骨
+.. _`先手必掌`: https://ygocdb.com/card/name/先手必掌
+.. _`亚空间战斗`: https://ygocdb.com/card/name/亚空间战斗
+.. _`死亡女王恶魔`: https://ygocdb.com/card/name/死亡女王恶魔
+.. _`破灭与终焉之支配者`: https://ygocdb.com/card/name/破灭与终焉之支配者
+.. _`纠罪巧γ'-欺瞒“exapatisIA”`: https://ygocdb.com/card/name/纠罪巧γ'-欺瞒“exapatisIA”
+.. _`微睡之罪宝-梦王鸦`: https://ygocdb.com/card/name/微睡之罪宝-梦王鸦
+.. _`小丑与锁鸟`: https://ygocdb.com/card/name/小丑与锁鸟
+.. _`狱神影兽-涅瓦红化兽`: https://ygocdb.com/card/name/狱神影兽-涅瓦红化兽
+.. _`炎斩机 终末西格马`: https://ygocdb.com/card/name/炎斩机%20终末西格马
+.. _`DDD 赦俿王 死亡机降神`: https://ygocdb.com/card/name/DDD%20赦俿王%20死亡机降神
+.. _`神圣防护罩 -反射镜力-`: https://ygocdb.com/card/name/神圣防护罩%20-反射镜力-
+.. _`变化气圈鸟`: https://ygocdb.com/card/name/变化气圈鸟
+.. _`大宇宙`: https://ygocdb.com/card/name/大宇宙
+.. _`深渊的宣告者`: https://ygocdb.com/card/name/深渊的宣告者
+.. _`巨盾守卫者`: https://ygocdb.com/card/name/巨盾守卫者
+.. _`混绝狱神 比托利姆`: https://ygocdb.com/card/name/混绝狱神%20比托利姆
+.. _`流星登龙`: https://ygocdb.com/card/name/流星登龙
+.. _`杀手级调整曲·噼啪削波手`: https://ygocdb.com/card/name/杀手级调整曲·噼啪削波手
+.. _`天狱之王`: https://ygocdb.com/card/name/天狱之王
+.. _`暗道化师 彼得`: https://ygocdb.com/card/name/暗道化师%20彼得
+.. _`电子龙`: https://ygocdb.com/card/name/电子龙
+.. _`三战之号`: https://ygocdb.com/card/name/三战之号
+.. _`道化一座 空竹魔小丑`: https://ygocdb.com/card/name/道化一座%20空竹魔小丑
+.. _`道化一座 舞流星小丑`: https://ygocdb.com/card/name/道化一座%20舞流星小丑
+.. _`屋敷童`: https://ygocdb.com/card/name/屋敷童
+.. _`凶饿毒融合龙`: https://ygocdb.com/card/name/凶饿毒融合龙
+.. _`禁忌的圣杯`: https://ygocdb.com/card/name/禁忌的圣杯
+.. _`神之密告`: https://ygocdb.com/card/name/神之密告
+.. _`混沌女武神`: https://ygocdb.com/card/name/混沌女武神
+.. _`娱乐法师 杯子戏法师`: https://ygocdb.com/card/name/娱乐法师%20杯子戏法师
+.. _`电子龙核`: https://ygocdb.com/card/name/电子龙核
+.. _`纠罪巧`: https://ygocdb.com/?search=纠罪巧
+.. _`白骨公主`: https://ygocdb.com/card/name/白骨公主
+.. _`灰流丽`: https://ygocdb.com/card/name/灰流丽
+.. _`虚无魔人`: https://ygocdb.com/card/name/虚无魔人
+.. _`古代的进军`: https://ygocdb.com/card/name/古代的进军
+.. _`道化一座 花式火小丑`: https://ygocdb.com/card/name/道化一座%20花式火小丑
+.. _`电气红松鼠`: https://ygocdb.com/card/name/电气红松鼠
+.. _`疾行机人 辉翼同调士`: https://ygocdb.com/card/name/疾行机人%20辉翼同调士
+.. _`武装海洋猎手`: https://ygocdb.com/card/name/武装海洋猎手
+.. _`魔术师的徒弟-黑魔术少女`: https://ygocdb.com/card/name/魔术师的徒弟-黑魔术少女
+.. _`黑魔术少女`: https://ygocdb.com/card/name/黑魔术少女
+.. _`妖精传姬-塔利娅`: https://ygocdb.com/card/name/妖精传姬-塔利娅
+.. _`入魔鬼火`: https://ygocdb.com/card/name/入魔鬼火
+.. _`白骨王子`: https://ygocdb.com/card/name/白骨王子
+.. _`超级量子机神王 大磁炎`: https://ygocdb.com/card/name/超级量子机神王%20大磁炎

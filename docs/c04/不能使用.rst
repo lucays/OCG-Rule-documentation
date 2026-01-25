@@ -55,7 +55,7 @@
 | 「`禁止令`_」宣言了「`炎舞-「天枢」`_」后，「`英炎星-鹰荣`_」被对方破坏发动效果的场合，也不能盖放「`炎舞-「天枢」`_」。\ `17/5/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7471&keyword=&tag=-1&request_locale=ja>`__
 | 「`禁止令`_」宣言了「`龙骑兵团-方阵龙`_」后，「`龙骑兵团神枪`_」的②效果不能选卡组的「`龙骑兵团-方阵龙`_」给怪兽装备。如果卡组的龙族「`龙骑兵团`_」调整只有「`龙骑兵团-方阵龙`_」，不能发动这个效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14185&keyword=&tag=-1&request_locale=ja>`__
 | 「`禁止令`_」宣言了「`吸血鬼帝国`_」后，不能发动「`吸血鬼移地`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13592&keyword=&tag=-1&request_locale=ja>`__
-| 「`禁止令`_」宣言的怪兽被一时除外（即使以里侧表示的状态被一时除外也一样）后，要回到场上的时点如果「`禁止令`_」的效果仍在适用中，不会回到场上，送去墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14374&keyword=&tag=-1&request_locale=ja>`__
+| 「`禁止令`_」宣言的怪兽被一时除外（即使以里侧表示的状态被一时除外也一样）后，要回到场上的时点如果「`禁止令`_」的效果仍在适用中，不会回到场上，放置到墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14374&keyword=&tag=-1&request_locale=ja>`__
 | 「`龙呼相争`_」的①效果处理时，不能选不能使用的怪兽。如果除了不能使用的怪兽，卡组没有其他的1只「`龙剑士`_」P怪兽和1只「`龙魔王`_」P怪兽，不能发动「`龙呼相争`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17519&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 不能使用的怪兽，只要不在场上，不能选出重叠在X怪兽下作为X素材。
