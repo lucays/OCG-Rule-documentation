@@ -118,7 +118,7 @@
 | 「`杀手级调整曲 B2B`_」素材中记述的『S怪兽1只以上』必须全部是S怪兽。\ `26/1/26 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24274&keyword=&tag=-1&request_locale=ja>`__
 | 装备了「`终刻起动『终末龙雷』`_」的「`终刻`_」怪兽发动第2个『●』效果并适用后，那个回合内作为装备卡的这张「`终刻起动『终末龙雷』`_」从场上离开或者效果无效的场合，『这张卡在这个回合攻击力上升这张卡的等级·阶级×100，可以直接攻击，进行战斗的伤害步骤结束时破坏』仍然正常适用。不过，装备怪兽的效果无效的场合，攻击力复原，『可以直接攻击，进行战斗的伤害步骤结束时破坏』仍然适用。\ `26/1/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24275&keyword=&tag=-1&request_locale=ja>`__
 | 「`神艺学都 神艺学园`_」的②效果发动时，可以宣言规则上也当作「`神艺`_」卡使用的「`狱神影兽-涅瓦红化兽`_」。（这个回合，不能为「`神艺学都 神艺学园`_」的②效果发动而再次宣言「`狱神影兽-涅瓦红化兽`_」）\ `26/1/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24276&keyword=&tag=-1&request_locale=ja>`__
-| 「`妖精传姬开始啦开始啦`_」「`道化一座『新加入』`_」「`雷火沸动质量驱动器`_」卡的发动被无效送去墓地的场合，不是从场上送去墓地，所以可以发动「`这张卡从场上以外送去墓地的场合才能发动`_」的效果。\ `26/1/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24277&keyword=&tag=-1&request_locale=ja>`__
+| 「`妖精传姬开始啦开始啦`_」「`道化一座『新加入』`_」「`雷火沸动质量驱动器`_」卡的发动被无效送去墓地的场合，不是从场上送去墓地，所以可以发动『这张卡从场上以外送去墓地的场合才能发动』的效果。\ `26/1/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24277&keyword=&tag=-1&request_locale=ja>`__
 | 「`连击的帝王`_」「`血之代偿`_」的①效果或「`道化一座 白脸小丑`_」的②效果发动时，可以上级召唤「`太阳神之翼神龙-球体形`_」。自选在哪个玩家场上召唤并解放那个玩家场上的3只怪兽。\ `26/1/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16178&keyword=&tag=-1&request_locale=ja>`__
 
 1/30
@@ -153,7 +153,7 @@
 | 数据库：
 | 『不能把效果连锁发动』的效果适用中，多个必发效果要发动的场合，只能发动其中1个。例如，P区域「`无形噬体·忧郁`_」的①效果适用中，我方发动「`鹰身女妖的羽毛扫`_」，对方盖放的2张「`古遗物-金刚杵`_」被破坏的场合，只能发动其中1张的②效果。\ `26/2/5 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18288&keyword=&tag=-1&request_locale=ja>`__
 | 对方墓地不存在陷阱卡的状况，对方发动「`霆王的闪光`_」「`命王的螺旋`_」时，我方不能连锁发动「`我身作盾`_」；对方墓地存在陷阱卡，我方魔法·陷阱卡区域或P区域的怪兽卡发动效果，对方发动「`霆王的闪光`_」「`命王的螺旋`_」时，我方不能连锁发动「`我身作盾`_」；对方墓地存在陷阱卡，我方怪兽区域的怪兽把自身送去墓地·解放·除外等作为cost发动效果，对方发动「`霆王的闪光`_」「`命王的螺旋`_」时，我方不能连锁发动「`我身作盾`_」；对方墓地存在陷阱卡，我方怪兽区域的「`无垢者 米底乌斯`_」发动①效果，支付cost后还在场上表侧表示存在，对方发动「`霆王的闪光`_」「`命王的螺旋`_」时，我方可以连锁发动「`我身作盾`_」。\ `26/2/5 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24281&keyword=&tag=-1&request_locale=ja>`__
-| 『这个卡名在规则上也当作「元素英雄」卡使用』的「`奇迹除外士`_」「`羽翼栗子球 LV6`_」在卡组等场所也是「元素英雄」怪兽，「`E-紧急呼唤`_」的①效果处理时可以选这些卡加入手卡。\ `26/2/5 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24282&keyword=&tag=-1&request_locale=ja>`__
+| 『这个卡名在规则上也当作「`元素英雄`_」卡使用』的「`奇迹除外士`_」「`羽翼栗子球 LV6`_」在卡组等场所也是「`元素英雄`_」怪兽，「`E-紧急呼唤`_」的①效果处理时可以选这些卡加入手卡。\ `26/2/5 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24282&keyword=&tag=-1&request_locale=ja>`__
 | 装备「`终刻反转『阿德剌斯忒亚』`_」的「`终狱龙机12-德剌斯特里乌斯`_」在1个回合内第1次要被战斗破坏的场合，「`终刻反转『阿德剌斯忒亚』`_」的①效果和「`终狱龙机12-德剌斯特里乌斯`_」的②效果同时适用，不会被那次战斗破坏。这个回合内再被战斗破坏的场合，正常被战斗破坏。\ `26/2/5 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24283&keyword=&tag=-1&request_locale=ja>`__
 | 我方「`撕裂时间的魔瞳`_」「`道化一座 舞流星小丑`_」等『在自己怪兽的上级召唤成功时对方不能把怪兽的效果发动』这类效果是，我方在自己或对方场上上级召唤怪兽时都会适用。例如，我方把「`太阳神之翼神龙-球体形`_」在对方场上上级召唤成功时，对方也不能发动怪兽效果。\ `26/2/5 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24284&keyword=&tag=-1&request_locale=ja>`__
 | 我方场上存在「`黯黑世界-暗影敌托邦-`_」，我方把「`不可见之导引手`_」的①效果发动的场合，如果对方场上原本持有者是对方的暗属性怪兽存在2只以上，作为「`不可见之导引手`_」①效果发动的cost，可以适用「`黯黑世界-暗影敌托邦-`_」的②效果解放对方场上的怪兽；如果对方场上原本持有者是对方的暗属性怪兽只存在1只，不能适用「`黯黑世界-暗影敌托邦-`_」的②效果来发动「`不可见之导引手`_」的①效果。\ `26/2/5 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24285&keyword=&tag=-1&request_locale=ja>`__
@@ -232,7 +232,6 @@
 .. _`大轮之魔导书`: https://ygocdb.com/card/name/大轮之魔导书
 .. _`命运英雄 钻石人`: https://ygocdb.com/card/name/命运英雄%20钻石人
 .. _`杀手级调整曲 B2B`: https://ygocdb.com/card/name/杀手级调整曲%20B2B
-.. _`这张卡从场上以外送去墓地的场合才能发动`: https://ygocdb.com/card/name/这张卡从场上以外送去墓地的场合才能发动
 .. _`星辰铗龙 天蝎金牛龙魔`: https://ygocdb.com/card/name/星辰铗龙%20天蝎金牛龙魔
 .. _`英雄假面`: https://ygocdb.com/card/name/英雄假面
 .. _`同调传送`: https://ygocdb.com/card/name/同调传送
