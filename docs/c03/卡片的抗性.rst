@@ -24,6 +24,7 @@
 -  | 只有1次不会被破坏的效果存在多个的场合，那些效果在卡片被破坏的时点全部适用，结果合计只有1次不会被破坏。
    | 例：
    | 双方场上都存在「`龙神阵·略图`_」，上级召唤的「`真龙`_」怪兽被战斗破坏的时点2张场地的效果全部适用，结果这个回合只有1次不会被战斗破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8574&keyword=&tag=-1&request_locale=ja>`__
+   | 装备「`终刻反转『阿德剌斯忒亚』`_」的「`终狱龙机12-德剌斯特里乌斯`_」在1个回合内第1次要被战斗破坏的场合，「`终刻反转『阿德剌斯忒亚』`_」的①效果和「`终狱龙机12-德剌斯特里乌斯`_」的②效果同时适用，不会被那次战斗破坏。这个回合内再被战斗破坏的场合，正常被战斗破坏。\ `26/2/5 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24283&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 放弃维持而破坏等不是卡片效果导致的破坏正常处理。
    | 例：
@@ -635,3 +636,5 @@
 .. _`凶饿毒融合龙`: https://ygocdb.com/card/name/凶饿毒融合龙
 .. _`混绝狱神 比托利姆`: https://ygocdb.com/card/name/混绝狱神%20比托利姆
 .. _`超级量子机神王 大磁炎`: https://ygocdb.com/card/name/超级量子机神王%20大磁炎
+.. _`终狱龙机12-德剌斯特里乌斯`: https://ygocdb.com/card/name/终狱龙机12-德剌斯特里乌斯
+.. _`终刻反转『阿德剌斯忒亚』`: https://ygocdb.com/card/name/终刻反转『阿德剌斯忒亚』

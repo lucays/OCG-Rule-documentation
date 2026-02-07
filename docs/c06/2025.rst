@@ -2240,6 +2240,9 @@
 
 .. [#] 「使破坏剑的高手-破坏之剑士」的③效果记述的是『\ **送去墓地**\ 的那张怪兽卡相同种族』，因此处理时参考送去墓地后的种族。
 
+| 裁定变更：
+| 「`魔导杂货商人`_」的①效果处理时，卡组没有魔法·陷阱卡的场合，这个效果完全不适用。
+
 .. _`电力军曹`: https://ygocdb.com/card/name/电力军曹
 .. _`融合强兵`: https://ygocdb.com/card/name/融合强兵
 .. _`大逮捕`: https://ygocdb.com/card/name/大逮捕
@@ -3657,3 +3660,4 @@
 .. _`英雄标记`: https://ygocdb.com/card/name/英雄标记
 .. _`纯爱妖精快乐回忆`: https://ygocdb.com/card/name/纯爱妖精快乐回忆
 .. _`爬虫妖女·梅露辛`: https://ygocdb.com/card/name/爬虫妖女·梅露辛
+.. _`魔导杂货商人`: https://ygocdb.com/card/name/魔导杂货商人

@@ -3898,7 +3898,7 @@
 .. _`大日棱柱体`: https://ygocdb.com/card/name/大日棱柱体
 .. _`PSY骨架装备·γ`: https://ygocdb.com/card/name/PSY骨架装备·γ
 .. _`拘束足`: https://ygocdb.com/card/name/拘束足
-.. _`成功确率0%`: https://ygocdb.com/card/name/成功确率0%
+.. _`成功确率0%`: https://ygocdb.com/card/name/成功确率0%25
 .. _`贤者的圣杯`: https://ygocdb.com/card/name/贤者的圣杯
 .. _`魔导书`: https://ygocdb.com/?search=魔导书
 .. _`灰篮短吻鳄`: https://ygocdb.com/card/name/灰篮短吻鳄

@@ -206,6 +206,8 @@
    | 特别地，「`升阶魔法-七皇之剑`_」「`粗人舞导`_」等记述的是『适用』次数。即使效果被无效的场合，还能再发动1张。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13164&request_locale=ja>`__ ，可以连锁发动「`连续魔法`_」，由于只会适用1次，结果在「`连续魔法`_」的效果适用后，连锁1的自身效果不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=241&request_locale=ja>`__
    | 另外，只要没被无效，即使处理时因「`虚无空间`_」等不适用等情况，这次决斗中也不能再发动。
 
+| 记述『这个卡名的以下效果1回合各能选择1次』的卡片，那些『●』效果发动被无效，或发动的效果被无效的场合，那个回合不能再次发动同1个『●』效果。\ `26/1/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23977&keyword=&tag=-1&request_locale=ja>`__
+
 .. _`在效果处理中发动魔法·陷阱卡`:
 
 在效果处理中发动魔法·陷阱卡
