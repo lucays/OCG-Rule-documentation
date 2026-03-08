@@ -235,6 +235,7 @@
    -  | 由于cost等，效果处理时自身不再表侧表示存在的场合，可以被无效。
       | 例：
       | 受到「`禁忌的圣枪`_」影响的「`卡片汽车·D`_」解放自身发动效果，会被「`鹰身女妖的羽毛吹雪`_」无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12523&keyword=&tag=-1&request_locale=ja>`__
+      | 适用了「`闪刀机-鹰式推进器`_」①效果的「`闪刀姬=零露`_」把自身解放发动②效果的场合，在解放的时点『那只表侧表示怪兽不受自身以外的卡的效果影响』立即不再适用，那个②效果的发动和效果可以被无效化。\ `26/3/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24296&keyword=&tag=-1&request_locale=ja>`__
 
    .. note:: 不受其他卡的效果影响是给场上的这个怪兽附加的，从场上离开后不再当作同一张卡，也不再是这个状态。目前也没有使场外的卡片不受效果影响的效果。
 
@@ -638,3 +639,4 @@
 .. _`超级量子机神王 大磁炎`: https://ygocdb.com/card/name/超级量子机神王%20大磁炎
 .. _`终狱龙机12-德剌斯特里乌斯`: https://ygocdb.com/card/name/终狱龙机12-德剌斯特里乌斯
 .. _`终刻反转『阿德剌斯忒亚』`: https://ygocdb.com/card/name/终刻反转『阿德剌斯忒亚』
+.. _`闪刀姬=零露`: https://ygocdb.com/card/name/闪刀姬=零露

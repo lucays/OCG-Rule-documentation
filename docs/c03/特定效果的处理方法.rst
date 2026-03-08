@@ -855,6 +855,7 @@ cost
 | 这类文本的处理基本上和『○○被破坏』一致，由于已经限定场所，除非只记述『卡』『怪兽』『魔法·陷阱卡』，否则必须在表侧表示的状态满足『○○』条件，从场上离开才能发动。
 | 例：
 | 不当作陷阱卡使用的陷阱怪兽，被对方的效果送去墓地的场合，因为在场上是怪兽，不是场上的魔法·陷阱卡送去墓地，不能发动「`魔晶龙 水胆魔导神`_」的①效果。\ `22/12/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21821&keyword=&tag=-1&request_locale=ja>`__\ 而如果是\ :ref:`也当作陷阱卡使用的陷阱怪兽`\ ，可以发动「`魔晶龙 水胆魔导神`_」的①效果。\ `22/12/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21820&keyword=&tag=-1&request_locale=ja>`__
+| 自己场上的「闪刀姬」连接怪兽因卡的效果卡名变更，不当作「闪刀姬」连接怪兽处理的状况，因对方的效果从场上离开或被战斗破坏的场合，不能发动墓地「`闪刀姬-零衣`_」的②效果。\ `26/2/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24289&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 即使部分效果记述是『从场上离开，被送去墓地的场合或者被除外的场合』，也不会在送去墓地或者被除外后再次判断是否满足『○○』。
    | 这个文本的意思是，那些卡从场上离开后，送去墓地了或者被除外了，就当作满足条件。那些卡因自身的效果从场上离开时被除外的场合，也满足条件。没有明确记述『送去自己墓地』『送去对方墓地』的场合，送去哪一方的墓地都满足条件。
@@ -1508,3 +1509,5 @@ cost
 .. _`DDD猎头`: https://ygocdb.com/card/name/DDD猎头
 .. _`罪 真实龙`: https://ygocdb.com/card/name/罪%20真实龙
 .. _`调和之天救龙`: https://ygocdb.com/card/name/调和之天救龙
+.. _`闪刀姬-零衣`: https://ygocdb.com/card/name/闪刀姬-零衣
+.. _`闪刀姬`: https://ygocdb.com/?search=闪刀姬

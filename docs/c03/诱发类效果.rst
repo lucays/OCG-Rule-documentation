@@ -504,6 +504,7 @@
       | 例：
       | 对方在1组连锁上2次把植物族怪兽特殊召唤，连锁处理后我方「`超重武者 兜-10`_」的①效果只能发动1次。
       | 发动「`升阶魔法-削魂之力`_」在「`嘣床`_」指定的区域特殊召唤2次效果怪兽后，「`嘣床`_」的效果只能发动1次。
+      | 1组连锁上多次在「`拓扑三叶双头蛇`_」「`拓扑零日衔尾蛇`_」的连接端特殊召唤怪兽的场合，那个连锁处理后「`拓扑三叶双头蛇`_」的①效果和「`拓扑零日衔尾蛇`_」的②效果只能发动1次。
       | 1组连锁中从墓地特殊召唤了2次怪兽，连锁处理后「`零冰之魔妖-雪女`_」的③效果只能发动1次。\ `19/11/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22889&keyword=&tag=-1&request_locale=ja>`__
       | 1组连锁中多次特殊召唤了「`PSY骨架`_」怪兽，连锁处理后「`PSY骨架回路`_」的①效果只能发动1次。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12075&request_locale=ja>`__
       | 1组连锁中对方发动了多个卡的效果，连锁处理后「`幻煌之都 帕西菲斯`_」的②效果只能发动1次。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12548&keyword=&tag=-1&request_locale=ja>`__
@@ -1045,3 +1046,4 @@
 .. _`死灵骑士`: https://ygocdb.com/card/name/死灵骑士
 .. _`救祓少女七曜悼歌`: https://ygocdb.com/card/name/救祓少女七曜悼歌
 .. _`地狱的暴走召唤`: https://ygocdb.com/card/name/地狱的暴走召唤
+.. _`拓扑零日衔尾蛇`: https://ygocdb.com/card/name/拓扑零日衔尾蛇
