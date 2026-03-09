@@ -242,7 +242,7 @@
 -------
 
 | 邮件：
-| 「`神之密告`_」给对象观看的陷阱卡不能是「`魔术礼帽`_」的效果盖放在怪兽区域只当作通常怪兽处理的陷阱卡。
+| 「`神之密告`_」给对方观看的陷阱卡不能是「`魔术礼帽`_」的效果盖放在怪兽区域只当作通常怪兽处理的陷阱卡。
 
 | 数据库：
 | 作为「`黑羽-双影`_」①效果发动的cost回到卡组的怪兽不是S素材，这个效果S召唤「`强袭黑羽-丛云之草薙剑鸟`_」的场合攻击力不上升。\ `26/2/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24293&keyword=&tag=-1&request_locale=ja>`__
@@ -285,6 +285,17 @@
 | 我方「`娱乐伙伴 灵摆魔术家`_」的①效果破坏了「`四天之龙 异色眼灵摆龙`_」，发动②效果的场合，对方不能连锁发动「`灵王的波动`_」。
 | 当作怪兽处理的陷阱卡被战斗·效果破坏的场合，不能发动「`星霜之魔术师-宙读之魔术士`_」的①效果。
 | 我方P区域存在2张卡，各自刻度是1和8，P召唤「`混沌幻影`_」，发动①效果得到「`四天之龙 异色眼灵摆龙`_」的卡名·效果后，攻击力是2500+7×300=4600。
+
+3/9
+-------
+
+| 邮件：
+| 我方场上存在上级召唤的怪兽，我方「`处刑人-摩休罗`_」①效果适用，从手卡发动「`帝王的极致`_」时，对方连锁发动「`活死人的呼声`_」特殊召唤怪兽的场合，连锁处理后「`帝王的极致`_」可以发动①效果。
+
+| 数据库：
+| 「`黑蔷薇华园`_」的②效果适用中，也可以发动「`血树龙姬 龙血树鬼`_」的效果，就结果来说是把植物族怪兽特殊召唤。\ `26/3/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24297&keyword=&tag=-1&request_locale=ja>`__
+| 「`血树龙姬 龙血树鬼`_」的效果发动的回合，即使「`黑蔷薇华园`_」的②效果适用中，也不能S召唤原本种族不是龙族·植物族的怪兽。\ `26/3/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24298&keyword=&tag=-1&request_locale=ja>`__
+| 「`霆王的闪光`_」「`命王的螺旋`_」「`圣王的粉碎`_」「`灵王的波动`_」等『这次决斗中自己不能把○○属性怪兽的效果发动』的效果适用后，持有多个属性的怪兽例如「`防火龙·暗流体-新电磁泄密风`_」只要有1个属性受到限制，就不能发动效果。\ `26/3/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24299&keyword=&tag=-1&request_locale=ja>`__
 
 .. _`吸血鬼·格蕾丝`: https://ygocdb.com/card/name/吸血鬼·格蕾丝
 .. _`天变地异`: https://ygocdb.com/card/name/天变地异
@@ -412,7 +423,6 @@
 .. _`拓扑零日衔尾蛇`: https://ygocdb.com/card/name/拓扑零日衔尾蛇
 .. _`来自星遗物中的觉醒`: https://ygocdb.com/card/name/来自星遗物中的觉醒
 .. _`闪刀姬=零露`: https://ygocdb.com/card/name/闪刀姬=零露
-.. _`超天新龙 异色眼革命龙`: https://ygocdb.com/?search=超天新龙 异色眼革命龙
 .. _`纠罪巧-欲蛛 Atilε.SPIA`: https://ygocdb.com/card/name/纠罪巧-欲蛛%20Atilε.SPIA
 .. _`扰乱衍生物`: https://ygocdb.com/?search=扰乱衍生物
 .. _`天邪鬼的诅咒`: https://ygocdb.com/card/name/天邪鬼的诅咒
@@ -475,3 +485,8 @@
 .. _`书灵师介入`: https://ygocdb.com/card/name/书灵师介入
 .. _`水泡幻像`: https://ygocdb.com/card/name/水泡幻像
 .. _`地底之阿剌克涅`: https://ygocdb.com/card/name/地底之阿剌克涅
+.. _`黑蔷薇华园`: https://ygocdb.com/card/name/黑蔷薇华园
+.. _`防火龙·暗流体-新电磁泄密风`: https://ygocdb.com/card/name/防火龙·暗流体-新电磁泄密风
+.. _`血树龙姬 龙血树鬼`: https://ygocdb.com/card/name/血树龙姬%20龙血树鬼
+.. _`处刑人-摩休罗`: https://ygocdb.com/card/name/处刑人-摩休罗
+.. _`活死人的呼声`: https://ygocdb.com/card/name/活死人的呼声
