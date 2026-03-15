@@ -799,7 +799,6 @@
 .. _`同路人`: https://ygocdb.com/card/name/同路人
 .. _`棉花球`: https://ygocdb.com/card/name/棉花球
 .. _`太阳龙 因蒂`: https://ygocdb.com/card/name/太阳龙%20因蒂
-.. _`秘仪之力EX-暗之支配者`: https://ygocdb.com/card/name/秘仪之力EX-暗之支配者
 .. _`增殖的G`: https://ygocdb.com/card/name/增殖的G
 .. _`D.D. 乌鸦`: https://ygocdb.com/card/name/D.D.%20乌鸦
 .. _`邪遗式人鱼风灵`: https://ygocdb.com/card/name/邪遗式人鱼风灵

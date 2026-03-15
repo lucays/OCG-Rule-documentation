@@ -254,6 +254,12 @@
 26/03
 =========
 
+3/1
+-------
+
+| wiki:
+| 只有从手卡把P怪兽当作魔法卡放置在两端魔法·陷阱卡区域发动，或者通过放置到P区域的效果在两侧魔法·陷阱卡区域放置的状况，那个区域才当作P区域，才能发动·适用P效果，适用那个刻度进行P召唤。那以外的方式，例如「`谜式密码大师·紧缩位压缩员`_」的①效果把P怪兽放在两端的魔法·陷阱卡区域时，不是P区域，不能发动·适用作为P卡时的魔法效果，不能适用刻度进行P召唤。\ `26/3/1 <https://yugioh-wiki.net/index.php?%A1%D4%A5%A8%A5%CB%A5%B0%A5%DE%A5%B9%A5%BF%A1%BC%A1%A6%A5%D1%A5%C3%A5%AF%A5%D3%A5%C3%A5%C8%A1%D5#faq1>`__
+
 3/2
 -------
 
@@ -296,6 +302,15 @@
 | 「`黑蔷薇华园`_」的②效果适用中，也可以发动「`血树龙姬 龙血树鬼`_」的效果，就结果来说是把植物族怪兽特殊召唤。\ `26/3/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24297&keyword=&tag=-1&request_locale=ja>`__
 | 「`血树龙姬 龙血树鬼`_」的效果发动的回合，即使「`黑蔷薇华园`_」的②效果适用中，也不能S召唤原本种族不是龙族·植物族的怪兽。\ `26/3/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24298&keyword=&tag=-1&request_locale=ja>`__
 | 「`霆王的闪光`_」「`命王的螺旋`_」「`圣王的粉碎`_」「`灵王的波动`_」等『这次决斗中自己不能把○○属性怪兽的效果发动』的效果适用后，持有多个属性的怪兽例如「`防火龙·暗流体-新电磁泄密风`_」只要有1个属性受到限制，就不能发动效果。\ `26/3/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24299&keyword=&tag=-1&request_locale=ja>`__
+
+3/14
+-------
+
+| 邮件：
+| 「`墓穴的指名者`_」的效果除外了「`冰灵神 穆兰格雷斯`_」的回合，第2只「`冰灵神 穆兰格雷斯`_」从场上离开时，那个②效果不会无效，正常适用。
+| 「`墓穴的指名者`_」的效果除外了「`秘仪之力EX-暗之支配者`_」的回合，第2只得到『●里：』效果的「`秘仪之力EX-暗之支配者`_」从场上离开时，那个『●里：』效果无效而不适用。
+
+.. note:: 「`秘仪之力EX-暗之支配者`_」的『●里：』效果是和「宝玉兽」怪兽的②效果文本和处理一致。
 
 .. _`吸血鬼·格蕾丝`: https://ygocdb.com/card/name/吸血鬼·格蕾丝
 .. _`天变地异`: https://ygocdb.com/card/name/天变地异
@@ -490,3 +505,7 @@
 .. _`血树龙姬 龙血树鬼`: https://ygocdb.com/card/name/血树龙姬%20龙血树鬼
 .. _`处刑人-摩休罗`: https://ygocdb.com/card/name/处刑人-摩休罗
 .. _`活死人的呼声`: https://ygocdb.com/card/name/活死人的呼声
+.. _`秘仪之力EX-暗之支配者`: https://ygocdb.com/card/name/秘仪之力EX-暗之支配者
+.. _`冰灵神 穆兰格雷斯`: https://ygocdb.com/card/name/冰灵神%20穆兰格雷斯
+.. _`宝玉兽`: https://ygocdb.com/?search=宝玉兽
+.. _`谜式密码大师·紧缩位压缩员`: https://ygocdb.com/card/name/谜式密码大师·紧缩位压缩员
