@@ -90,9 +90,11 @@
 
 .. attention:: 也存在「`真魔兽 加泽特`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14300&keyword=&tag=-1&request_locale=ja>`__ 「`地中族邪界妖魔`_」\ `17/9/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21394&keyword=&tag=-1&request_locale=ja>`__ 等，只在召唤·特殊召唤的时点适用1次的永续效果。效果被无效让攻击力复原后，效果再恢复适用的场合，攻击力也保持当前数值，不会再改变。
 
--  | 改变怪兽卡名·种族·属性·等级·攻击力·守备力等的永续效果适用中，特殊召唤怪兽的场合，当作是特殊召唤了改变后的状态的怪兽。
+-  | 改变怪兽卡名·种族·属性·等级·攻击力·守备力等的永续效果适用中，召唤·反转召唤·特殊召唤怪兽的场合，是以改变后的状态直接出现在场上。（没有任何时点是原本状态）
    | 例：
    | 「`毁灭之黑魔术师`_」特殊召唤成功时，自身①效果立即适用，是『自己场上有「`黑魔术师`_」召唤·特殊召唤的场合』，可以发动「`黑魔导阵`_」的②效果。\ `25/6/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18706&keyword=&tag=-1&request_locale=ja>`__
+   | 把「`真红莲魔`_」S召唤的场合，就结果来说是把「`红莲魔龙`_」S召唤，这个决斗中可以发动「`真红莲新星龙-燃烧之魂`_」的①效果。\ `26/3/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24302&keyword=&tag=-1&request_locale=ja>`__
+   | 表侧表示特殊召唤成功了「`武装龙·雷电 LV7`_」的场合，也当作是特殊召唤成功了「`武装龙 LV7`_」。因此，如果这次决斗中「`VWXYZ-神龙强击炮`_」也特殊召唤成功了的场合，可以从额外卡组把「`武装龙强击炮`_」通过自身的方法特殊召唤。另外，「`龙魔导守护者`_」的②效果等把「`武装龙·雷电 LV7`_」里侧守备表示特殊召唤的场合，其①效果尚未适用，不当作是把「`武装龙 LV7`_」特殊召唤成功。\ `20/11/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18784&keyword=&tag=-1&request_locale=ja>`__
    | 我方怪兽区域「`No.4 猛毒刺胞 隐形水母怪`_」的①效果适用中，对方S召唤「`红莲升龙`_」成功时，是从额外卡组特殊召唤龙族·水属性怪兽，由于『这个效果发动的回合，自己不是龙族·暗属性同调怪兽不能从额外卡组特殊召唤』，结果不能发动①效果。\ `25/6/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24188&keyword=&tag=-1&request_locale=ja>`__
    | 「`传说之都 亚特兰蒂斯`_」的②效果适用中，「`歧蜥·魔蜥义豪`_」召唤的场合，是召唤了等级4的怪兽，这个回合不能发动「`虫饵`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7633&keyword=&tag=-1&request_locale=ja>`__
    | 「`诸刃的活人剑术`_」的①效果把「`真六武众-阴鬼`_」和「`真六武众-辉斩`_」特殊召唤成功时，「`真六武众-阴鬼`_」因自身②效果适用攻击力结果是1700，可以发动「`奈落的落穴`_」，「`真六武众-阴鬼`_」和「`真六武众-辉斩`_」都被破坏并除外。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11726&keyword=&tag=-1&request_locale=ja>`__
@@ -152,7 +154,7 @@
    | 例：
    | 「`超合魔兽 拉普提诺斯`_」的效果已经在适用中，「`暗黑女武神`_」被「`恩底弥翁的仆从`_」的P效果特殊召唤的场合，立即是再1次召唤得到了效果的状态，会放置魔力指示物。\ `19/3/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22532&keyword=&tag=-1&request_locale=ja>`__
 
-   -  | 如上文所述，改变怪兽卡名·种族·属性·等级·攻击力·守备力等的永续效果适用中，特殊召唤怪兽的场合，当作是特殊召唤了改变后的状态的怪兽。因此『种族·属性·等级变更』的效果是立即适用。
+   -  | 如上文所述，改变怪兽卡名·种族·属性·等级·攻击力·守备力等的永续效果适用中，特殊召唤怪兽的场合，当作是特殊召唤了改变后的状态的怪兽。因此『卡名·种族·属性·等级·攻击力·守备力等变更』的效果是立即适用。
       | 例：
       | 对方场上存在「`魔人之歌`_」，我方「`战华史略-矫诏之叛`_」的①效果特殊召唤等级4的「`战华之美-周公`_」时，是把等级3的怪兽特殊召唤，受到300伤害。
       | 对方「`小人的恶作剧`_」的①效果适用中，我方发动「`永火上膛者`_」的效果抽卡，抽到「`青眼白龙`_」的场合，等级是7，给与对方1400伤害。
@@ -191,6 +193,7 @@
 
 -  | 部分效果不管是否已经在场上表侧表示，都会在效果处理途中立即适用。
    | 例：
+   | 「`秘仪之力EX-暗之支配者`_」的『●里：』效果以及「`宝玉兽`_」怪兽的②效果在「`闪刀术式-烈火再燃`_」的①效果处理途中被破坏的时点立即适用。然后再适用『那之后，自己墓地有魔法卡3张以上存在的场合，可以选场上1张魔法·陷阱卡破坏』效果。
    | 「`混沌无限`_」的效果处理时让里侧表示的「`虚无魔人`_」变成表侧表示的场合，「`虚无魔人`_」的效果立即适用，特殊召唤的处理不进行。\ `18/2/1 <http://yugioh-wiki.net/index.php?%A1%D4%A5%AB%A5%AA%A5%B9%A1%A6%A5%A4%A5%F3%A5%D5%A5%A3%A5%CB%A5%C6%A5%A3%A1%D5#faq>`__
 
 -  | 部分效果非常难以判断，特定场景的处理不同。
@@ -509,3 +512,14 @@
 .. _`魔人之歌`: https://ygocdb.com/card/name/魔人之歌
 .. _`永火上膛者`: https://ygocdb.com/card/name/永火上膛者
 .. _`战华史略-矫诏之叛`: https://ygocdb.com/card/name/战华史略-矫诏之叛
+.. _`武装龙 LV7`: https://ygocdb.com/card/name/武装龙%20LV7
+.. _`武装龙·雷电 LV7`: https://ygocdb.com/card/name/武装龙·雷电%20LV7
+.. _`龙魔导守护者`: https://ygocdb.com/card/name/龙魔导守护者
+.. _`真红莲魔`: https://ygocdb.com/card/name/真红莲魔
+.. _`武装龙强击炮`: https://ygocdb.com/card/name/武装龙强击炮
+.. _`宝玉兽`: https://ygocdb.com/?search=宝玉兽
+.. _`红莲魔龙`: https://ygocdb.com/card/name/红莲魔龙
+.. _`闪刀术式-烈火再燃`: https://ygocdb.com/card/name/闪刀术式-烈火再燃
+.. _`VWXYZ-神龙强击炮`: https://ygocdb.com/card/name/VWXYZ-神龙强击炮
+.. _`秘仪之力EX-暗之支配者`: https://ygocdb.com/card/name/秘仪之力EX-暗之支配者
+.. _`真红莲新星龙-燃烧之魂`: https://ygocdb.com/card/name/真红莲新星龙-燃烧之魂

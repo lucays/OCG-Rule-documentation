@@ -310,7 +310,42 @@
 | 「`墓穴的指名者`_」的效果除外了「`冰灵神 穆兰格雷斯`_」的回合，第2只「`冰灵神 穆兰格雷斯`_」从场上离开时，那个②效果不会无效，正常适用。
 | 「`墓穴的指名者`_」的效果除外了「`秘仪之力EX-暗之支配者`_」的回合，第2只得到『●里：』效果的「`秘仪之力EX-暗之支配者`_」从场上离开时，那个『●里：』效果无效而不适用。
 
-.. note:: 「`秘仪之力EX-暗之支配者`_」的『●里：』效果是和「宝玉兽」怪兽的②效果文本和处理一致。
+.. note:: 「`秘仪之力EX-暗之支配者`_」的『●里：』效果是和「`宝玉兽`_」怪兽的②效果文本和处理一致。
+
+3/16
+-------
+
+| 数据库：
+| 通过『●』的方式特殊召唤「`捕食植物 魔爪花蛮勇鬼`_」的场合，由于不是融合召唤，P区域「`捕食植物 黏菖蒲螳螂`_」的①效果不适用。\ `26/3/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24300&keyword=&tag=-1&request_locale=ja>`__
+
+3/19
+-------
+
+| 邮件：
+| 我方场上卡名已经变成「`不明`_」的「`征服斗魂 螺禅`_」给对方观看「`征服斗魂`_」怪兽发动①效果，对方连锁发动「`绚岚涡丽 派比安`_」的②效果，「`征服斗魂 螺禅`_」的①效果无效并破坏的场合，是否当作『为让「`征服斗魂`_」卡的效果发动而把手卡给人观看的场合』，连锁处理后是否可以发动手卡「`征服斗魂 蛟龙`_」的①效果，\ :ref:`调整中`\ 。
+| 我方场上的「`征服斗魂 螺禅`_」给对方观看「`征服斗魂`_」怪兽发动①效果，对方连锁发动「`纹章的明灭`_」，这只「`征服斗魂 螺禅`_」的卡名变成「`不明`_」的场合，是否当作『为让「`征服斗魂`_」卡的效果发动而把手卡给人观看的场合』，连锁处理后是否可以发动手卡「`征服斗魂 蛟龙`_」的①效果，\ :ref:`调整中`\ 。
+
+| 数据库：
+| 「`龙引导呼笛`_」的①效果处理特殊召唤「`黑衣龙 白界龙`_」的场合，就结果来说是把「`阿不思的落胤`_」特殊召唤，『可以再从卡组把特殊召唤的怪兽的1只同名怪兽特殊召唤』的效果适用时，可以特殊召唤的是卡组的「`阿不思的落胤`_」。\ `26/3/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24304&keyword=&tag=-1&request_locale=ja>`__
+| 抽卡阶段通常抽卡抽到「`白色幻兽-青眼白龙`_」或「`彩宝龙`_」时，可以发动那个①效果。「`真次世代加速器`_」在怪兽区域，通常抽卡抽到「`次世代`_」怪兽的场合也一样。\ `26/3/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=276&keyword=&tag=-1&request_locale=ja>`__
+| 对方怪兽攻击宣言时，我方发动「`次元幽闭`_」，对方以攻击怪兽为对象连锁发动「`魔族之链`_」的场合，在连锁处理完毕之前仍然是『攻击怪兽』，「`次元幽闭`_」的效果处理时，那只怪兽仍然被除外。\ `26/3/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24306&keyword=&tag=-1&request_locale=ja>`__
+| 「`混沌终结支配者-开辟与终焉的支配者-`_」的③效果处理时，有衍生物被除外的场合，那些衍生物不计入『对方这个效果除外的数量』。\ `26/3/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24305&keyword=&tag=-1&request_locale=ja>`__
+| 「`苍之深渊 渊眼白龙`_」的②效果发动条件参考的是送去墓地后的卡名。即使在场上不是「`青眼`_」仪式怪兽或「`青眼白龙`_」，只要送去自己墓地后是「`青眼`_」仪式怪兽或「`青眼白龙`_」，就可以发动「`苍之深渊 渊眼白龙`_」的②效果。\ `26/3/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24303&keyword=&tag=-1&request_locale=ja>`__
+| 把「`真红莲魔`_」S召唤的场合，就结果来说是把「`红莲魔龙`_」S召唤，这个决斗中可以发动「`真红莲新星龙-燃烧之魂`_」的①效果。\ `26/3/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24302&keyword=&tag=-1&request_locale=ja>`__
+| 『把1只「`红莲魔龙`_」当作S召唤作特殊召唤』的效果特殊召唤「`红莲魔龙`_」的场合，这个决斗中可以发动「`真红莲新星龙-燃烧之魂`_」的①效果。\ `26/3/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24301&keyword=&tag=-1&request_locale=ja>`__
+| 「`白色幻兽-青眼白龙`_」的③效果在1组连锁上可以发动多次。\ `26/3/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=22716&request_locale=ja>`__
+| 「`红莲魔族之链`_」的①效果处理时，作为对象的怪兽有一部分不是正确对象的场合，对剩下的怪兽持续取对象；作为对象的怪兽都不是正确对象的场合，这张卡破坏。此外，这个效果适用后，作为对象的怪兽有1只从场上离开的场合，正常对剩下的怪兽持续取对象。\ `26/3/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=22724&request_locale=ja>`__
+
+3/20
+-------
+
+| 邮件：
+| 「`秘仪之力EX-暗之支配者`_」的『●里：』效果以及「`宝玉兽`_」怪兽的②效果在「`闪刀术式-烈火再燃`_」的①效果处理途中被破坏的时点立即适用。然后再适用『那之后，自己墓地有魔法卡3张以上存在的场合，可以选场上1张魔法·陷阱卡破坏』效果。
+| P怪兽被战斗破坏，加入额外卡组，怪兽区域的「`星霜之魔术师-宙读之魔术士`_」发动①效果时，可以连锁发动「`屋敷童`_」的①效果；P区域的「`娱乐伙伴 变形链长颈鹿`_」发动①效果时，文本没有明确记述『墓地』，不能连锁发动「`屋敷童`_」的①效果。
+| 「`混沌之黑魔术师`_」战斗破坏融合怪兽的伤害计算后发动②效果时，是否可以把这只确定被战斗破坏的融合怪兽除外来连锁发动「`神艺学的厚涂-夺还-`_」或「`悖论融合`_」，可以的场合之后是否正常回到场上，\ :ref:`调整中`\ 。
+
+| 裁定变更：
+| 「`无效`_」发动时，可以连锁发动「`灰流丽`_」的①效果。
 
 .. _`吸血鬼·格蕾丝`: https://ygocdb.com/card/name/吸血鬼·格蕾丝
 .. _`天变地异`: https://ygocdb.com/card/name/天变地异
@@ -509,3 +544,34 @@
 .. _`冰灵神 穆兰格雷斯`: https://ygocdb.com/card/name/冰灵神%20穆兰格雷斯
 .. _`宝玉兽`: https://ygocdb.com/?search=宝玉兽
 .. _`谜式密码大师·紧缩位压缩员`: https://ygocdb.com/card/name/谜式密码大师·紧缩位压缩员
+.. _`无效`: https://ygocdb.com/card/name/无效
+.. _`捕食植物 魔爪花蛮勇鬼`: https://ygocdb.com/card/name/捕食植物%20魔爪花蛮勇鬼
+.. _`混沌之黑魔术师`: https://ygocdb.com/card/name/混沌之黑魔术师
+.. _`悖论融合`: https://ygocdb.com/card/name/悖论融合
+.. _`彩宝龙`: https://ygocdb.com/card/name/彩宝龙
+.. _`闪刀术式-烈火再燃`: https://ygocdb.com/card/name/闪刀术式-烈火再燃
+.. _`龙引导呼笛`: https://ygocdb.com/card/name/龙引导呼笛
+.. _`真红莲新星龙-燃烧之魂`: https://ygocdb.com/card/name/真红莲新星龙-燃烧之魂
+.. _`捕食植物 黏菖蒲螳螂`: https://ygocdb.com/card/name/捕食植物%20黏菖蒲螳螂
+.. _`青眼`: https://ygocdb.com/?search=青眼
+.. _`真红莲魔`: https://ygocdb.com/card/name/真红莲魔
+.. _`征服斗魂`: https://ygocdb.com/?search=征服斗魂
+.. _`苍之深渊 渊眼白龙`: https://ygocdb.com/card/name/苍之深渊%20渊眼白龙
+.. _`白色幻兽-青眼白龙`: https://ygocdb.com/card/name/白色幻兽-青眼白龙
+.. _`绚岚涡丽 派比安`: https://ygocdb.com/card/name/绚岚涡丽%20派比安
+.. _`不明`: https://ygocdb.com/card/name/不明
+.. _`真次世代加速器`: https://ygocdb.com/card/name/真次世代加速器
+.. _`青眼白龙`: https://ygocdb.com/card/name/青眼白龙
+.. _`神艺学的厚涂-夺还-`: https://ygocdb.com/card/name/神艺学的厚涂-夺还-
+.. _`征服斗魂 蛟龙`: https://ygocdb.com/card/name/征服斗魂%20蛟龙
+.. _`魔族之链`: https://ygocdb.com/card/name/魔族之链
+.. _`次世代`: https://ygocdb.com/?search=次世代
+.. _`征服斗魂 螺禅`: https://ygocdb.com/card/name/征服斗魂%20螺禅
+.. _`次元幽闭`: https://ygocdb.com/card/name/次元幽闭
+.. _`红莲魔族之链`: https://ygocdb.com/card/name/红莲魔族之链
+.. _`红莲魔龙`: https://ygocdb.com/card/name/红莲魔龙
+.. _`混沌终结支配者-开辟与终焉的支配者-`: https://ygocdb.com/card/name/混沌终结支配者-开辟与终焉的支配者-
+.. _`娱乐伙伴 变形链长颈鹿`: https://ygocdb.com/card/name/娱乐伙伴%20变形链长颈鹿
+.. _`纹章的明灭`: https://ygocdb.com/card/name/纹章的明灭
+.. _`黑衣龙 白界龙`: https://ygocdb.com/card/name/黑衣龙%20白界龙
+.. _`阿不思的落胤`: https://ygocdb.com/card/name/阿不思的落胤
