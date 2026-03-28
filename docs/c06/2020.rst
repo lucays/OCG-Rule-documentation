@@ -4406,3 +4406,7 @@
 .. _`后被称为龟的神`: https://ygocdb.com/card/name/后被称为龟的神
 .. _`幻透翼同调龙`: https://ygocdb.com/card/name/幻透翼同调龙
 .. _`疾行机人 磁铁恶魔`: https://ygocdb.com/card/name/疾行机人%20磁铁恶魔
+
+.. _`作为对象的1只怪兽破坏`: https://ygocdb.com/?search=作为对象的1只怪兽破坏
+.. _`原本攻击力·守备力`: https://ygocdb.com/?search=原本攻击力·守备力
+.. _`攻击力·守备力`: https://ygocdb.com/?search=攻击力·守备力

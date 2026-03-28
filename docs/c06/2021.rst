@@ -5356,3 +5356,8 @@
 .. _`创圣魔导王 恩底弥翁`: https://ygocdb.com/card/name/创圣魔导王%20恩底弥翁
 .. _`古代的机械箱`: https://ygocdb.com/card/name/古代的机械箱
 .. _`次世代`: https://ygocdb.com/?search=次世代
+
+.. _`トリックスター・キャンディナ`: https://ygocdb.com/?search=トリックスター・キャンディナ
+.. _`トリックスター・ライトステージ`: https://ygocdb.com/?search=トリックスター・ライトステージ
+.. _`二重怪兽`: https://ygocdb.com/?search=二重怪兽
+.. _`悪夢の拷問部屋`: https://ygocdb.com/?search=悪夢の拷問部屋

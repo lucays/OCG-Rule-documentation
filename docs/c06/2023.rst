@@ -3605,7 +3605,7 @@
 .. _`幻变骚灵·查询昆提兰那克`: https://ygocdb.com/card/name/幻变骚灵·查询昆提兰那克
 .. _`光来的奇迹`: https://ygocdb.com/card/name/光来的奇迹
 .. _`魔界造车-GT19`: https://ygocdb.com/card/name/魔界造车-GT19
-.. _`メタバース`: https://ygocdb.com/card/name/メタバース
+.. _`メタバース`: https://ygocdb.com/?search=メタバース
 .. _`DNA移植手术`: https://ygocdb.com/card/name/DNA移植手术
 .. _`奇迹之侏罗纪蛋`: https://ygocdb.com/card/name/奇迹之侏罗纪蛋
 .. _`自然兽`: https://ygocdb.com/card/name/自然兽
@@ -4586,3 +4586,6 @@
 .. _`羽翼栗子球 LV6`: https://ygocdb.com/card/name/羽翼栗子球%20LV6
 .. _`召唤兽 埃律西昂`: https://ygocdb.com/card/name/召唤兽%20埃律西昂
 .. _`地灵媒师 奥丝`: https://ygocdb.com/card/name/地灵媒师%20奥丝
+
+.. _`○○（卡名）`: https://ygocdb.com/?search=○○（卡名）
+.. _`罪 サイバー・エンド・ドラゴン`: https://ygocdb.com/?search=罪 サイバー・エンド・ドラゴン

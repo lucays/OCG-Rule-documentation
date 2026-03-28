@@ -264,3 +264,5 @@
 .. _`同盟驾驶员`: https://ygocdb.com/card/name/同盟驾驶员
 .. _`新空间侠·水波海豚`: https://ygocdb.com/card/name/新空间侠·水波海豚
 .. _`新空间侠·海洋海豚`: https://ygocdb.com/card/name/新空间侠·海洋海豚
+
+.. _`○○`: https://ygocdb.com/?search=○○

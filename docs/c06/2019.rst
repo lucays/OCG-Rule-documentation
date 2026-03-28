@@ -4397,3 +4397,12 @@ wiki:
 .. _`古代的机械箱`: https://ygocdb.com/card/name/古代的机械箱
 .. _`植物狮子`: https://ygocdb.com/card/name/植物狮子
 .. _`魔导兽 美杜莎水母`: https://ygocdb.com/card/name/魔导兽%20美杜莎水母
+
+.. _`A`: https://ygocdb.com/?search=A
+.. _`E`: https://ygocdb.com/?search=E
+.. _`H`: https://ygocdb.com/?search=H
+.. _`T`: https://ygocdb.com/?search=T
+.. _`カウンター罠を発動した時`: https://ygocdb.com/?search=カウンター罠を発動した時
+.. _`カードの発動を無効にした時`: https://ygocdb.com/?search=カードの発動を無効にした時
+.. _`作为对象的1只怪兽破坏`: https://ygocdb.com/?search=作为对象的1只怪兽破坏
+.. _`卡名`: https://ygocdb.com/?search=卡名

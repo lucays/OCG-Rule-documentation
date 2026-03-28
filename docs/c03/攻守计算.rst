@@ -815,3 +815,10 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
 .. _`完美电子多元驱动蛇·神龙`: https://ygocdb.com/card/name/完美电子多元驱动蛇·神龙
 .. _`黑洞`: https://ygocdb.com/card/name/黑洞
 .. _`旋风`: https://ygocdb.com/card/name/旋风
+
+.. _`原本守备力`: https://ygocdb.com/?search=原本守备力
+.. _`原本攻击力`: https://ygocdb.com/?search=原本攻击力
+.. _`原本攻击力·守备力`: https://ygocdb.com/?search=原本攻击力·守备力
+.. _`守备力`: https://ygocdb.com/?search=守备力
+.. _`攻击力`: https://ygocdb.com/?search=攻击力
+.. _`攻击力·守备力`: https://ygocdb.com/?search=攻击力·守备力
