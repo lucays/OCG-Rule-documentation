@@ -159,6 +159,7 @@
    | 之前已经适用的「`突进`_」「`收缩`_」等魔法·陷阱卡的效果不会被「`侵略的泛发感染`_」清除。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12121&keyword=&tag=-1&request_locale=ja>`__
    | 「`地龙星-狴犴`_」为素材S召唤「`黑羽-重装铠翼鸦`_」时，「`地龙星-狴犴`_」的效果适用，再「`黑羽-重装铠翼鸦`_」的①效果适用而不受影响的场合，仍然就这样不会被战斗破坏。\ `18/6/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7459&request_locale=ja>`__
    | 「`蒂迈欧之眼光`_」的①效果特殊召唤「`合体魔龙 蒂迈欧`_」的场合，『这个效果特殊召唤的怪兽在下个回合的结束阶段除外』在「`合体魔龙 蒂迈欧`_」的①效果适用之前就已经适用，因此下个回合的结束阶段「`合体魔龙 蒂迈欧`_」仍然被除外。\ `25/6/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24192&keyword=&tag=-1&request_locale=ja>`__
+   | 「`赫之烙印`_」的①效果融合召唤了「`吞食圣痕之龙`_」的场合，即使场上·墓地存在「`艾克莉西娅`_」，这个回合这只「`吞食圣痕之龙`_」也不能直接攻击。\ `26/3/26 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24309&keyword=&tag=-1&request_locale=ja>`__
 
    -  | 「深渊死球」「废铁油带」「活化石」这样\ **特殊召唤怪兽并持续取对象**\ 的魔法·陷阱卡，附加的『这个效果特殊召唤的怪兽』其实是持续影响那个怪兽的效果。此外，注意区分「古代的机械苏生」和「深渊死球」等的描述区别，「古代的机械苏生」这样的不是持续影响怪兽的效果。
       | 例：
@@ -640,3 +641,6 @@
 .. _`终狱龙机12-德剌斯特里乌斯`: https://ygocdb.com/card/name/终狱龙机12-德剌斯特里乌斯
 .. _`终刻反转『阿德剌斯忒亚』`: https://ygocdb.com/card/name/终刻反转『阿德剌斯忒亚』
 .. _`闪刀姬=零露`: https://ygocdb.com/card/name/闪刀姬=零露
+.. _`赫之烙印`: https://ygocdb.com/card/name/赫之烙印
+.. _`吞食圣痕之龙`: https://ygocdb.com/card/name/吞食圣痕之龙
+.. _`艾克莉西娅`: https://ygocdb.com/card/name/艾克莉西娅
