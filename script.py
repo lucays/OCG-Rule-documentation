@@ -81,24 +81,42 @@ def add_cdb_url(texts: str) -> str:
     for line in texts.split('\n'):
         if need_skip(line): continue
         stack, name_chars = [], []
+        bracket_depth = 0
         for i, char in enumerate(line):
+            if char == '『': bracket_depth += 1
+            elif char == '』': bracket_depth -= 1
+            
             if char == '「': stack.append(char)
             if stack: name_chars.append(char)
             if char == '」':
                 if stack: stack.pop()
                 if not stack:
+                    if bracket_depth > 0:
+                        name_chars = []
+                        continue
+                    
                     full_name = ''.join(name_chars)
                     clean_name = full_name.strip('「`_」')
+                    
                     is_card = True
                     if clean_name in NOT_CARD_NAMES or '○○' in full_name:
                         is_card = False
-                    elif any(line[i+1:].startswith(s) for s in SERIES_SUFFIXES) and not line[i+1:].startswith('卡的发动'):
-                        is_card = False
-                    elif clean_name in SERIES_NAMES or ('衍生物' in full_name and '○○' not in full_name):
+                    
+                    is_series = False
+                    if any(line[i+1:].startswith(s) for s in SERIES_SUFFIXES) and not line[i+1:].startswith('卡的发动'):
+                        is_series = True
+                    elif clean_name in SERIES_NAMES:
+                        is_series = True
+                    elif '衍生物' in full_name and '○○' not in full_name:
+                        is_series = True
+                    
+                    if is_series:
+                        series_name.append(full_name)
                         is_card = False
                     
-                    if is_card: cards_name.append(full_name)
-                    else: series_name.append(full_name)
+                    if is_card:
+                        cards_name.append(full_name)
+                    
                     name_chars = []
 
     def to_dict(names):
@@ -114,7 +132,7 @@ def add_cdb_url(texts: str) -> str:
             for old, new in cards_dict.items(): line = line.replace(old, new)
             for err, cor in FIX_NAMES.items(): line = line.replace(err, cor)
         lines.append(line)
-    new_texts = '\n'.join(lines)
+    new_texts = '\n'.join(lines) + '\n'
 
     for name_raw in cards_dict:
         name = name_raw[1:-1].strip('`_')
@@ -133,8 +151,8 @@ def add_cdb_url(texts: str) -> str:
             new_texts = new_texts.replace(old_pattern, f'.. _`{name}`: {url}')
 
     if tail_links:
-        new_texts += '\n\n' + '\n'.join(sorted(tail_links))
-    return new_texts + '\n'
+        new_texts += '\n'.join(sorted(tail_links)) + '\n'
+    return new_texts
 
 def check_card_urls(card_urls: Set[str]) -> None:
     updated = False
