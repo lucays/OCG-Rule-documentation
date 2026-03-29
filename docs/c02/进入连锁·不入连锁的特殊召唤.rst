@@ -23,7 +23,7 @@
 - \ :ref:`特殊召唤怪兽`\ 通过满足其召唤条件（非效果文本）进行的特殊召唤
 - 「`暗黑界的龙神 格拉法`_」等通常召唤怪兽通过满足其记载的特殊召唤条件（无种类效果）进行的特殊召唤
 
-由于没有效果的发动，在这些怪兽的特殊召唤之际，没有效果需要处理，这类特殊召唤\ **可以被「神之宣告」等效果无效**\ 。
+由于没有效果的发动，在这些怪兽的特殊召唤之际，没有效果需要处理，这类特殊召唤\ **可以被「`神之宣告`_」等效果无效**\ 。
 
 -  | 这类特殊召唤被无效，没有其他特殊效果适用的场合，预定要特殊召唤的那些怪兽全部因这个效果送去墓地。这个状况不当作从手卡·场上·卡组·额外卡组任一区域的卡送去墓地。
    | 例：
@@ -39,7 +39,7 @@
 | 含有把怪兽特殊召唤的效果的效果处理完毕时是『特殊召唤成功时』这一时点。也就是说，『特殊召唤之际』在这个效果处理途中，因此，「`神之宣告`_」等可以无效特殊召唤的效果，没法插入效果处理发动去把这次特殊召唤无效。
 | 效果的发动或这次效果本身被无效的场合，由于效果的发动时基本上不会立即处理，\ **被无效的是那个发动或那个特殊召唤的效果**\ 。
 | 例：
-| 「`融合`_」的发动之际选择不发动「神之宣告」的场合，这次融合怪兽的融合召唤本身不能被「神之宣告」无效，即\ **之后「神之宣告」不能发动，不能把融合怪兽破坏送墓**\ 。
+| 「`融合`_」的发动之际选择不发动「`神之宣告`_」的场合，这次融合怪兽的融合召唤本身不能被「`神之宣告`_」无效，即\ **之后「`神之宣告`_」不能发动，不能把融合怪兽破坏送墓**\ 。
 | 「`融合`_」的发动被「`魔宫的贿赂`_」无效的场合，此时「`融合`_」的效果被发动无效，完全不处理并破坏送去墓地，而\ **融合素材和融合怪兽均不会送去墓地**\ 。被「`王宫的敕命`_」把效果无效的场合，在无效状态下处理，\ **融合素材和融合怪兽也不会送去墓地**\ 。
 | 「`彼岸的恶鬼 格拉菲亚卡内`_」的把自身特殊召唤的效果的发动被「`流天类星龙`_」无效的场合，「`彼岸的恶鬼 格拉菲亚卡内`_」的效果的发动被无效，完全不处理并从手卡被破坏送去墓地。
 
@@ -60,7 +60,7 @@
 发动效果地条件特殊召唤
 -------------------------
 
-「龙星」「奇妙超量」等记述着『把○○S·X·连接召唤』的效果，让玩家可以在其他时点进行条件特殊召唤，但条件特殊召唤本身不入连锁，这些效果是在\ **处理完毕后才进行条件特殊召唤**\ 。
+「`龙星`_」「`奇妙超量`_」等记述着『把○○S·X·连接召唤』的效果，让玩家可以在其他时点进行条件特殊召唤，但条件特殊召唤本身不入连锁，这些效果是在\ **处理完毕后才进行条件特殊召唤**\ 。
 
 .. tip:: 「`血之代偿`_」「`真龙皇的复活`_」「`死皇帝的陵墓`_」「`妖仙兽 镰壹太刀`_」等把怪兽通常召唤的效果也是一样处理。
 
@@ -145,103 +145,3 @@
   | 所有不能无效召唤·反转召唤·特殊召唤的效果，记述着『召唤时·场合』发动的，等价于在『召唤成功时·场合』发动。
   | 例：
   | 「`次元魔法`_」把怪兽特殊召唤之后，要处理『那之后，可以选场上1只怪兽破坏』的效果的场合，「`激流葬`_」\ :ref:`错过时点`\ 不能发动。
-
-.. _`转生的预言`: https://ygocdb.com/card/name/转生的预言
-.. _`珠泪哀歌族·鲁莎卡人鱼`: https://ygocdb.com/card/name/珠泪哀歌族·鲁莎卡人鱼
-.. _`命运英雄 毁灭凤凰人`: https://ygocdb.com/card/name/命运英雄%20毁灭凤凰人
-.. _`邪心衍生物`: https://ygocdb.com/?search=邪心衍生物
-.. _`地狱的暴走召唤`: https://ygocdb.com/card/name/地狱的暴走召唤
-.. _`流天类星龙`: https://ygocdb.com/card/name/流天类星龙
-.. _`闭锁世界的冥神`: https://ygocdb.com/card/name/闭锁世界的冥神
-.. _`异次元复活`: https://ygocdb.com/card/name/异次元复活
-.. _`朋克`: https://ygocdb.com/?search=朋克
-.. _`朱光之宣告者`: https://ygocdb.com/card/name/朱光之宣告者
-.. _`真龙皇的复活`: https://ygocdb.com/card/name/真龙皇的复活
-.. _`妖仙兽 镰壹太刀`: https://ygocdb.com/card/name/妖仙兽%20镰壹太刀
-.. _`光道`: https://ygocdb.com/?search=光道
-.. _`升天的黑角笛`: https://ygocdb.com/card/name/升天的黑角笛
-.. _`活死人的呼声`: https://ygocdb.com/card/name/活死人的呼声
-.. _`电子龙`: https://ygocdb.com/card/name/电子龙
-.. _`真源的帝王`: https://ygocdb.com/card/name/真源的帝王
-.. _`方程式同调士`: https://ygocdb.com/card/name/方程式同调士
-.. _`灯之魔精`: https://ygocdb.com/card/name/灯之魔精
-.. _`彼岸的恶鬼 格拉菲亚卡内`: https://ygocdb.com/card/name/彼岸的恶鬼%20格拉菲亚卡内
-.. _`伯吉斯异兽·奇虾`: https://ygocdb.com/card/name/伯吉斯异兽·奇虾
-.. _`No.75 惑乱之风言暗影`: https://ygocdb.com/card/name/No.75%20惑乱之风言暗影
-.. _`ABC-神龙歼灭者`: https://ygocdb.com/card/name/ABC-神龙歼灭者
-.. _`贪欲之壶`: https://ygocdb.com/card/name/贪欲之壶
-.. _`人造天使`: https://ygocdb.com/card/name/人造天使
-.. _`高等纹章术`: https://ygocdb.com/card/name/高等纹章术
-.. _`神之宣告`: https://ygocdb.com/card/name/神之宣告
-.. _`来自星遗物中的觉醒`: https://ygocdb.com/card/name/来自星遗物中的觉醒
-.. _`恩底弥翁的统领`: https://ygocdb.com/card/name/恩底弥翁的统领
-.. _`DDD 双晓王 末法神`: https://ygocdb.com/card/name/DDD%20双晓王%20末法神
-.. _`融合`: https://ygocdb.com/?search=融合
-.. _`虚无空间`: https://ygocdb.com/card/name/虚无空间
-.. _`紧急同调`: https://ygocdb.com/card/name/紧急同调
-.. _`大宇宙`: https://ygocdb.com/card/name/大宇宙
-.. _`机壳守护神 路径灵`: https://ygocdb.com/card/name/机壳守护神%20路径灵
-.. _`星尘战士`: https://ygocdb.com/card/name/星尘战士
-.. _`裁决之龙`: https://ygocdb.com/card/name/裁决之龙
-.. _`神之警告`: https://ygocdb.com/card/name/神之警告
-.. _`电子龙·无限`: https://ygocdb.com/card/name/电子龙·无限
-.. _`血之代偿`: https://ygocdb.com/card/name/血之代偿
-.. _`攻击无力化`: https://ygocdb.com/card/name/攻击无力化
-.. _`红莲升龙`: https://ygocdb.com/card/name/红莲升龙
-.. _`死皇帝的陵墓`: https://ygocdb.com/card/name/死皇帝的陵墓
-.. _`I：P伪装舞会莱娜`: https://ygocdb.com/card/name/I：P伪装舞会莱娜
-.. _`禁忌的一滴`: https://ygocdb.com/card/name/禁忌的一滴
-.. _`激流葬`: https://ygocdb.com/card/name/激流葬
-.. _`堕恶之爪`: https://ygocdb.com/card/name/堕恶之爪
-.. _`呼龙笛`: https://ygocdb.com/card/name/呼龙笛
-.. _`齿轮齿轮变形`: https://ygocdb.com/card/name/齿轮齿轮变形
-.. _`浮世绘朋克 娑乐斋`: https://ygocdb.com/card/name/浮世绘朋克%20娑乐斋
-.. _`影依融合`: https://ygocdb.com/card/name/影依融合
-.. _`魔法神灯`: https://ygocdb.com/card/54912977
-.. _`迅捷鼯鼠`: https://ygocdb.com/card/name/迅捷鼯鼠
-.. _`机龙衍生物`: https://ygocdb.com/?search=机龙衍生物
-.. _`PSY骨架装备·γ`: https://ygocdb.com/card/name/PSY骨架装备·γ
-.. _`神影依·米德拉什`: https://ygocdb.com/card/name/神影依·米德拉什
-.. _`奇妙超量`: https://ygocdb.com/card/name/奇妙超量
-.. _`机龙生成器`: https://ygocdb.com/card/name/机龙生成器
-.. _`人造天使衍生物`: https://ygocdb.com/?search=人造天使衍生物
-.. _`龙子`: https://ygocdb.com/card/name/龙子
-.. _`星云龙 尼布拉龙`: https://ygocdb.com/card/name/星云龙%20尼布拉龙
-.. _`升阶魔法`: https://ygocdb.com/?search=升阶魔法
-.. _`星杯战士 宁吉尔苏`: https://ygocdb.com/card/name/星杯战士%20宁吉尔苏
-.. _`雷王`: https://ygocdb.com/card/name/雷王
-.. _`妖形杵`: https://ygocdb.com/card/name/妖形杵
-.. _`同调呼唤`: https://ygocdb.com/card/name/同调呼唤
-.. _`次元魔法`: https://ygocdb.com/card/name/次元魔法
-.. _`暗黑界的龙神 格拉法`: https://ygocdb.com/card/name/暗黑界的龙神%20格拉法
-.. _`神影依·神子晶`: https://ygocdb.com/card/name/神影依·神子晶
-.. _`同调素材`: https://ygocdb.com/card/name/同调素材
-.. _`替罪羊`: https://ygocdb.com/card/name/替罪羊
-.. _`宇宙耀变龙`: https://ygocdb.com/card/name/宇宙耀变龙
-.. _`奥秘之龙冠`: https://ygocdb.com/card/name/奥秘之龙冠
-.. _`赫焉龙 大木偶剧场龙`: https://ygocdb.com/card/name/赫焉龙%20大木偶剧场龙
-.. _`双穹之骑士 阿斯特拉姆`: https://ygocdb.com/card/name/双穹之骑士%20阿斯特拉姆
-.. _`复仇死者的续魂再结`: https://ygocdb.com/card/name/复仇死者的续魂再结
-.. _`魔神仪-蜡烛人偶`: https://ygocdb.com/card/name/魔神仪-蜡烛人偶
-.. _`魔神仪`: https://ygocdb.com/?search=魔神仪
-.. _`王宫的敕命`: https://ygocdb.com/card/name/王宫的敕命
-.. _`魔宫的贿赂`: https://ygocdb.com/card/name/魔宫的贿赂
-.. _`强欲之瓶`: https://ygocdb.com/card/name/强欲之瓶
-.. _`随风旅鸟与未知之风`: https://ygocdb.com/card/name/随风旅鸟与未知之风
-.. _`随风旅鸟×白头鹰`: https://ygocdb.com/card/name/随风旅鸟×白头鹰
-.. _`不死世界`: https://ygocdb.com/card/name/不死世界
-.. _`吸血鬼·格蕾丝`: https://ygocdb.com/card/name/吸血鬼·格蕾丝
-.. _`星尘龙`: https://ygocdb.com/card/name/星尘龙
-.. _`加速同调星尘龙`: https://ygocdb.com/card/name/加速同调星尘龙
-.. _`黄金乡的七摩天`: https://ygocdb.com/card/name/黄金乡的七摩天
-.. _`火器之祝台`: https://ygocdb.com/card/name/火器之祝台
-.. _`闪刀姬-魁奈`: https://ygocdb.com/card/name/闪刀姬-魁奈
-.. _`真红眼钢炎龙`: https://ygocdb.com/card/name/真红眼钢炎龙
-.. _`闪刀亚式-双纽闪门`: https://ygocdb.com/card/name/闪刀亚式-双纽闪门
-.. _`黑魔女 迪亚贝尔斯塔尔`: https://ygocdb.com/card/name/黑魔女%20迪亚贝尔斯塔尔
-.. _`虚无魔人`: https://ygocdb.com/card/name/虚无魔人
-.. _`技能抽取`: https://ygocdb.com/card/name/技能抽取
-.. _`命运英雄 血魔-D`: https://ygocdb.com/card/name/命运英雄%20血魔-D
-.. _`真帝王领域`: https://ygocdb.com/card/name/真帝王领域
-.. _`恶魔们的玉座`: https://ygocdb.com/card/name/恶魔们的玉座
-.. _`死亡皇帝恶魔`: https://ygocdb.com/card/name/死亡皇帝恶魔

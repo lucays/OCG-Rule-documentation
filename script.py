@@ -1,7 +1,7 @@
 import re
 import shutil
 from pathlib import Path
-from typing import Set
+from typing import Set, Dict
 
 import requests
 from git import Repo
@@ -9,17 +9,21 @@ from git import Repo
 # 配置与路径
 CURRENT_DIR = Path(__file__).parent.resolve()
 DOCS_DIR = CURRENT_DIR / 'docs'
-VALID_CARD_URLS_FILE = CURRENT_DIR / 'valid_card_urls.txt'
+LINKS_FILE = DOCS_DIR / 'links.rst'
 HTTPS_PROXY = {'https': 'http://127.0.0.1:7890'}
 
 # 全局状态
-ALL_CARD_URLS: Set[str] = set()
-VALID_CARD_URLS: Set[str] = set()
+GLOBAL_LINKS: Dict[str, str] = {} # 汇总所有文件的链接定义 {name: url}
 
-if VALID_CARD_URLS_FILE.exists():
-    VALID_CARD_URLS = set(VALID_CARD_URLS_FILE.read_text(encoding='utf8').split())
+# 初始化时从现有文件加载已有链接，防止丢失
+if LINKS_FILE.exists():
+    link_pattern = re.compile(r'^\.\. _`(.+?)`: (.+)$')
+    for line in LINKS_FILE.read_text(encoding='utf8').splitlines():
+        match = link_pattern.match(line)
+        if match:
+            GLOBAL_LINKS[match.group(1)] = match.group(2)
 
-# 映射配置
+# 映射配置与原始代码一致
 NEED_REPLACED_NAMES = {
     '「E·HERO': '「元素英雄', '「D-HERO': '「命运英雄', '「C·HERO': '「对极英雄',
     '「M·HERO': '「假面英雄', '「HERO': '「英雄', '「EM': '「娱乐伙伴',
@@ -44,14 +48,14 @@ NOT_CARD_NAMES = {
     'トリックスター・ライトステージ', '悪夢の拷問部屋', '永续效果', '诱发即时效果',
     '増殖するG', 'メタバース', '罪 サイバー・エンド・ドラゴン', 'E', 'T', 'A', 'H',
     '作为对象的1只怪兽破坏', 'カウンター罠を発動した時', '卡名',
-    'カードの発動を無効にした時', '二重怪兽',
+    'カードの発動を无効にした时', '二重怪兽',
 }
 
 SERIES_NAMES = {'隆隆隆', '刷拉拉', '我我我', '怒怒怒', 'ゴゴゴ'}
 SERIES_SUFFIXES = (
     '怪兽', '魔法', '陷阱', '卡', '通常怪兽', '调整', '效果怪兽', '连接怪兽',
     'S怪兽', 'X怪兽', 'P怪兽', '融合怪兽', '仪式怪兽', '速攻魔法', '装备魔法',
-    '永续魔法', '永续陷阱', '通常魔法', '通常陷阱', '反击陷阱'
+    '永续魔法', '场地魔法', '永续陷阱', '通常魔法', '通常陷阱', '反击陷阱'
 )
 
 def replace_en_name(texts: str) -> str:
@@ -70,105 +74,109 @@ def add_jp_locale_in_db_url(texts: str) -> str:
 
 def add_cdb_url(texts: str) -> str:
     def need_skip(line: str) -> bool:
-        if any(x in line for x in (':strike:', r'\ *', '**')) or line.startswith('.. _`'):
-            if '*' in line and '「`' in line:
-                names = re.findall(r'(?<=「)[^」]*[^「]*(?=」)', line)
-                return all(f'.. _`{n.strip("_`")}' in texts for n in names)
+        if any(x in line for x in (':strike:',)) or line.startswith('.. _`'):
             return True
         return False
 
     cards_name, series_name = [], []
+    
     for line in texts.split('\n'):
         if need_skip(line): continue
-        stack, name_chars = [], []
-        bracket_depth = 0
+        
+        stack = []
+        name_chars = []
+        bracket_depth = 0 # 处理 『』 嵌套
+        
         for i, char in enumerate(line):
             if char == '『': bracket_depth += 1
             elif char == '』': bracket_depth -= 1
             
-            if char == '「': stack.append(char)
-            if stack: name_chars.append(char)
+            if char == '「':
+                stack.append(i)
+            
+            if stack:
+                name_chars.append(char)
+            
             if char == '」':
-                if stack: stack.pop()
-                if not stack:
-                    if bracket_depth > 0:
+                if stack:
+                    stack.pop()
+                    if not stack: # 最外层括号闭合
+                        if bracket_depth > 0:
+                            name_chars = []
+                            continue
+                        
+                        full_content = ''.join(name_chars)
                         name_chars = []
-                        continue
-                    
-                    full_name = ''.join(name_chars)
-                    clean_name = full_name.strip('「`_」')
-                    
-                    is_card = True
-                    if clean_name in NOT_CARD_NAMES or '○○' in full_name:
-                        is_card = False
-                    
-                    is_series = False
-                    if any(line[i+1:].startswith(s) for s in SERIES_SUFFIXES) and not line[i+1:].startswith('卡的发动'):
-                        is_series = True
-                    elif clean_name in SERIES_NAMES:
-                        is_series = True
-                    elif '衍生物' in full_name and '○○' not in full_name:
-                        is_series = True
-                    
-                    if is_series:
-                        series_name.append(full_name)
-                        is_card = False
-                    
-                    if is_card:
-                        cards_name.append(full_name)
-                    
-                    name_chars = []
+                        
+                        # 仅移除最外层的一对 「 」
+                        if full_content.startswith('「') and full_content.endswith('」'):
+                            inner_content = full_content[1:-1]
+                        else:
+                            inner_content = full_content
+                        
+                        clean_name = inner_content.strip('`_')
+                        if not clean_name or clean_name in NOT_CARD_NAMES or '○○' in clean_name:
+                            continue
+                            
+                        is_series = False
+                        after_text = line[i+1:]
+                        if any(after_text.startswith(s) for s in SERIES_SUFFIXES) and not after_text.startswith('卡的发动'):
+                            is_series = True
+                        elif clean_name in SERIES_NAMES:
+                            is_series = True
+                        elif '衍生物' in clean_name and '○○' not in clean_name:
+                            is_series = True
+                            
+                        if is_series:
+                            series_name.append(clean_name)
+                        else:
+                            cards_name.append(clean_name)
 
-    def to_dict(names):
-        return {n: f"「`{n[1:-1].strip('`_')}`_」" for n in names}
+    # 汇总已有链接并清理正文末尾（旧脚本留下的定义行）
+    existing_defs = re.findall(r'.. _`(.*?)`: (http.*)', texts)
+    for name, url in existing_defs:
+        GLOBAL_LINKS[name] = url
 
-    cards_dict, series_dict = to_dict(cards_name), to_dict(series_name)
-    existing_urls = set(re.findall(r'.. _`(.*?)`: ', texts))
-    tail_links = set()
+    replace_map = {}
+    for name in cards_name:
+        replace_map[f'「{name}」'] = f'「`{name}`_」'
+        replace_map[f'「`{name}`」'] = f'「`{name}`_」'
+        
+    for name in series_name:
+        replace_map[f'「{name}」'] = f'「`{name}`_」'
+        replace_map[f'「`{name}`」'] = f'「`{name}`_」'
 
     lines = []
     for line in texts.strip().split('\n'):
+        if line.startswith('.. _`'): continue
         if not need_skip(line):
-            for old, new in cards_dict.items(): line = line.replace(old, new)
-            for err, cor in FIX_NAMES.items(): line = line.replace(err, cor)
+            for old, new in replace_map.items():
+                line = line.replace(old, new)
+            for err, cor in FIX_NAMES.items():
+                line = line.replace(err, cor)
         lines.append(line)
-    new_texts = '\n'.join(lines) + '\n'
+    new_texts = '\n'.join(lines).strip() + '\n'
 
-    for name_raw in cards_dict:
-        name = name_raw[1:-1].strip('`_')
-        if name not in existing_urls:
+    for name in cards_name:
+        if name not in GLOBAL_LINKS:
             url = f'https://ygocdb.com/card/name/{name.replace(" ", "%20").replace("/", "%2F")}'
-            tail_links.add(f'.. _`{name}`: {url}')
+            GLOBAL_LINKS[name] = url
 
-    for name_raw in series_dict:
-        name = name_raw[1:-1].strip('`_')
-        url = f'https://ygocdb.com/?search={name}'
-        if name not in existing_urls:
-            tail_links.add(f'.. _`{name}`: {url}')
-        else:
-            new_texts = new_texts.replace(f'「{name}」', f'「`{name}`_」')
-            old_pattern = f'.. _`{name}`: https://ygocdb.com/card/name/{name}'
-            new_texts = new_texts.replace(old_pattern, f'.. _`{name}`: {url}')
+    for name in series_name:
+        if name not in GLOBAL_LINKS or '/card/name/' in GLOBAL_LINKS[name]:
+            url = f'https://ygocdb.com/?search={name}'
+            GLOBAL_LINKS[name] = url
 
-    if tail_links:
-        new_texts += '\n'.join(sorted(tail_links)) + '\n'
     return new_texts
 
-def check_card_urls(card_urls: Set[str]) -> None:
-    updated = False
-    for i, url in enumerate(sorted(card_urls), 1):
-        if url in VALID_CARD_URLS: continue
-        try:
-            r = requests.get(url, proxies=HTTPS_PROXY, timeout=10)
-            if '没有找到对应卡片' not in r.text:
-                VALID_CARD_URLS.add(url)
-                updated = True
-            if i % 10 == 0 and updated:
-                VALID_CARD_URLS_FILE.write_text('\n'.join(sorted(VALID_CARD_URLS)), encoding='utf8')
-        except Exception as e:
-            print(f"Error checking {url}: {e}")
-    if updated:
-        VALID_CARD_URLS_FILE.write_text('\n'.join(sorted(VALID_CARD_URLS)), encoding='utf8')
+def write_global_links() -> None:
+    """将所有收集到的链接写入唯一的汇总文件"""
+    content = []
+    for name in sorted(GLOBAL_LINKS.keys()):
+        url = GLOBAL_LINKS[name]
+        content.append(f'.. _`{name}`: {url}')
+    LINKS_FILE.write_text('\n'.join(content) + '\n', encoding='utf8')
+    print(f"已更新汇总链接文件: {LINKS_FILE}")
 
 def strike_completion(texts: str) -> str:
     lines = []
@@ -200,14 +208,12 @@ def process_one_file(file: Path, branch: str) -> None:
     for name in NOT_CARD_NAMES:
         content = content.replace(f'「`{name}`_」', f'「{name}」')
     
-    for url in re.findall(r': (https://ygocdb.com/card/name/.*)', content):
-        ALL_CARD_URLS.add(url)
-        
     if content != old_content:
         file.write_text(content, encoding='utf8', newline='\n')
 
 def process_all(branch: str = 'dev') -> None:
     for file in DOCS_DIR.rglob('*.rst'):
+        if file.name == 'links.rst': continue
         process_one_file(file, branch)
 
 def git_operations(commit_message: str) -> None:
@@ -227,6 +233,7 @@ def git_operations(commit_message: str) -> None:
                 (CURRENT_DIR / f).unlink(missing_ok=True)
         else:
             process_all(target)
+            write_global_links()
         
         if repo.is_dirty():
             repo.git.add('.')
@@ -236,7 +243,7 @@ def git_operations(commit_message: str) -> None:
 
 def main(commit_message: str = 'add faq') -> None:
     process_all('dev')
-    check_card_urls(ALL_CARD_URLS)
+    write_global_links()
     git_operations(commit_message)
 
 if __name__ == '__main__':

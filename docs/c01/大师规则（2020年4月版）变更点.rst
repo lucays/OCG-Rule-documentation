@@ -30,13 +30,13 @@ Q & A
 | **Q. 对方使用了2个EX怪兽区域的场合，我方还能从额外卡组特殊召唤融合·S·X怪兽吗？**
 | A. 可以。我方可以特殊召唤到主怪兽区域。
 
-| **Q. 「恶魔科学怪人」「星光大道」的效果等，用融合·S·X召唤以外的方法从额外卡组特殊召唤融合·S·X怪兽的场合，应该放置到哪个区域？**
+| **Q. 「`恶魔科学怪人`_」「`星光大道`_」的效果等，用融合·S·X召唤以外的方法从额外卡组特殊召唤融合·S·X怪兽的场合，应该放置到哪个区域？**
 | A. 也可以选择放置到EX怪兽区域或主怪兽区域。
 
 | **Q. 无视召唤条件从额外卡组特殊召唤怪兽的场合，应该放置到哪个区域？**
 | A. 融合·S·X怪兽可以放置到EX怪兽区域或主怪兽区域。P怪兽和连接怪兽只能放置到EX怪兽区域或连接怪兽的连接端指向的主怪兽区域。
 
-| **Q. 「霸王黑龙 异色眼叛逆龙」等，P+S、P+X、P+融合怪兽从额外卡组特殊召唤的场合，应该放置到哪个区域？**
+| **Q. 「`霸王黑龙 异色眼叛逆龙`_」等，P+S、P+X、P+融合怪兽从额外卡组特殊召唤的场合，应该放置到哪个区域？**
 | A. 额外卡组里侧表示存在的这些怪兽，可以放置到EX怪兽区域或主怪兽区域。额外卡组表侧表示存在的这些怪兽，只能放置到EX怪兽区域或连接怪兽的连接端指向的主怪兽区域。
 
 规则改订伴随的变更
@@ -98,32 +98,3 @@ Q & A
 -  | 此外，被无效的场合，仍然回到魔法·陷阱卡区域成为效果无效的陷阱卡，放置的区域由控制者自行选择。
    | 变成里侧守备表示的场合，回到魔法·陷阱卡区域成为盖放的陷阱卡（规则上从下个回合起可以再发动），放置的区域由控制者自行选择。
    | 即使没有可用的魔法·陷阱卡区域，也可以对其发动「`月之书`_」。这个场合，送去墓地，不当作被破坏。
-
-.. _`入魔人偶 葛佩利亚`: https://ygocdb.com/card/name/入魔人偶%20葛佩利亚
-.. _`冰剑龙 幻冰龙`: https://ygocdb.com/card/name/冰剑龙%20幻冰龙
-.. _`纳迦`: https://ygocdb.com/card/name/纳迦
-.. _`高速疾行机人 比剑骑手`: https://ygocdb.com/card/name/高速疾行机人%20比剑骑手
-.. _`强制脱出装置`: https://ygocdb.com/card/name/强制脱出装置
-.. _`青色眼睛的少女`: https://ygocdb.com/card/name/青色眼睛的少女
-.. _`神之宣告`: https://ygocdb.com/card/name/神之宣告
-.. _`死之卡组破坏病毒`: https://ygocdb.com/card/name/死之卡组破坏病毒
-.. _`狂惑的落穴`: https://ygocdb.com/card/name/狂惑的落穴
-.. _`恩底弥翁的仆从`: https://ygocdb.com/card/name/恩底弥翁的仆从
-.. _`神之警告`: https://ygocdb.com/card/name/神之警告
-.. _`元素英雄 绝对零度侠`: https://ygocdb.com/card/name/元素英雄%20绝对零度侠
-.. _`星尘龙/爆裂体`: https://ygocdb.com/card/name/星尘龙%2F爆裂体
-.. _`青色眼睛的激临`: https://ygocdb.com/card/name/青色眼睛的激临
-.. _`月之书`: https://ygocdb.com/card/name/月之书
-.. _`王宫的弹压`: https://ygocdb.com/card/name/王宫的弹压
-.. _`D.D.乌鸦`: https://ygocdb.com/card/name/D.D.乌鸦
-.. _`超魔导师-黑魔术师徒`: https://ygocdb.com/card/name/超魔导师-黑魔术师徒
-.. _`恐啡肽狂龙·钉状龙女王`: https://ygocdb.com/card/name/恐啡肽狂龙·钉状龙女王
-.. _`斯芬克斯·安德鲁吉尼斯`: https://ygocdb.com/card/name/斯芬克斯·安德鲁吉尼斯
-.. _`神影依·米德拉什`: https://ygocdb.com/card/name/神影依·米德拉什
-.. _`阿匹卜之化神`: https://ygocdb.com/card/name/阿匹卜之化神
-.. _`三眼怪`: https://ygocdb.com/card/name/三眼怪
-.. _`珠泪哀歌族·水仙女人鱼`: https://ygocdb.com/card/name/珠泪哀歌族·水仙女人鱼
-.. _`深渊之兽 德鲁伊鳞虫`: https://ygocdb.com/card/name/深渊之兽%20德鲁伊鳞虫
-.. _`天罚`: https://ygocdb.com/card/name/天罚
-.. _`神影依·拿非利`: https://ygocdb.com/card/name/神影依·拿非利
-.. _`元素英雄 熔岩新宇侠`: https://ygocdb.com/card/name/元素英雄%20熔岩新宇侠

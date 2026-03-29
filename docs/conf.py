@@ -14,6 +14,7 @@
 #
 import sys
 import datetime
+import re
 from pathlib import Path
 
 current_dir = Path(__file__).parent.resolve()
@@ -217,6 +218,39 @@ texinfo_documents = [
 ]
 
 
+# Load global links for performance optimization
+GLOBAL_LINKS_DICT = {}
+links_file = Path(__file__).parent / 'links.rst'
+if links_file.exists():
+    # Pattern to match: .. _`Name`: URL
+    link_pattern = re.compile(r'^\.\. _`(.+?)`: (.+)$')
+    for line in links_file.read_text(encoding='utf8').splitlines():
+        match = link_pattern.match(line)
+        if match:
+            GLOBAL_LINKS_DICT[match.group(1)] = match.group(2)
+
+def setup(app):
+    def on_source_read(app, docname, source):
+        content = source[0]
+        # Find all `Name`_
+        # Note: We use a non-greedy match for the name
+        refs = re.findall(r'`([^`]+)`_', content)
+        if not refs:
+            return
+            
+        used_links = []
+        # Use a set to avoid duplicate definitions in the same file
+        seen = set()
+        for ref in refs:
+            if ref in GLOBAL_LINKS_DICT and ref not in seen:
+                used_links.append(f'.. _`{ref}`: {GLOBAL_LINKS_DICT[ref]}')
+                seen.add(ref)
+        
+        if used_links:
+            source[0] += '\n\n' + '\n'.join(used_links) + '\n'
+
+    app.connect('source-read', on_source_read)
+
 # -- Options for Epub output -------------------------------------------------
 
 # Bibliographic Dublin Core info.
@@ -231,3 +265,6 @@ texinfo_documents = [
 # epub_uid = ''
 epub_show_urls = 'no'
 epub_cover = ('_static/epub_cover.png', 'epub-cover.html')
+
+rst_epilog = """
+"""

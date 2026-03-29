@@ -15,19 +15,19 @@
    | ①：以场上1只怪兽为对象才能发动（这个效果\ **发动的回合**\ ，这张卡不能攻击）。那只怪兽除外。
 
 -  | 强欲而谦虚之壶
-   | 「强欲而谦虚之壶」在1回合只能发动1张，这张卡\ **发动的回合**\ 自己不能特殊召唤。①：从自己卡组上面把3张卡翻开，从那之中选1张加入手卡，剩下的卡回到卡组。
+   | 「`强欲而谦虚之壶`_」在1回合只能发动1张，这张卡\ **发动的回合**\ 自己不能特殊召唤。①：从自己卡组上面把3张卡翻开，从那之中选1张加入手卡，剩下的卡回到卡组。
 
 -  | 恐吓爪牙族·特莱希哈特
-   | ③：1回合1次，这张卡在额外怪兽区域存在的场合，以自己墓地1只3星「恐吓爪牙族」怪兽为对象才能发动。那只怪兽特殊召唤，从卡组把1只「恐吓爪牙族」怪兽加入手卡。这个效果发动\ **过**\ 的回合，自己不是「恐吓爪牙族」怪兽不能特殊召唤。
+   | ③：1回合1次，这张卡在额外怪兽区域存在的场合，以自己墓地1只3星「`恐吓爪牙族`_」怪兽为对象才能发动。那只怪兽特殊召唤，从卡组把1只「`恐吓爪牙族`_」怪兽加入手卡。这个效果发动\ **过**\ 的回合，自己不是「`恐吓爪牙族`_」怪兽不能特殊召唤。
 
 -  | 罗睺星辰
-   | ①：自己的手卡·卡组·场上的怪兽作为融合素材，把1只「星辰」融合怪兽融合召唤。这张卡的\ **发动后，直到回合结束时**\ 自己不是融合怪兽不能从额外卡组特殊召唤。
+   | ①：自己的手卡·卡组·场上的怪兽作为融合素材，把1只「`星辰`_」融合怪兽融合召唤。这张卡的\ **发动后，直到回合结束时**\ 自己不是融合怪兽不能从额外卡组特殊召唤。
 
 -  | 味美喵★点心抓取猫
-   | ①：这张卡特殊召唤的场合才能发动。从手卡·卡组把1张「味美喵」场地魔法卡在自己场上表侧表示放置。\ **这个回合**\ ，自己不能把连接3以上的连接怪兽连接召唤。
+   | ①：这张卡特殊召唤的场合才能发动。从手卡·卡组把1张「`味美喵`_」场地魔法卡在自己场上表侧表示放置。\ **这个回合**\ ，自己不能把连接3以上的连接怪兽连接召唤。
 
 -  | 神艺学都 神艺学园
-   | ②：从手卡丢弃1张魔法·陷阱卡，宣言1个同名怪兽不在自己场上存在的「神艺」怪兽的卡名才能发动\ **（这个回合**\ ，不能为这个卡名的这个效果发动而宣言相同卡名）。宣言的1只怪兽从卡组加入手卡。\ **这个回合**\ ，自己不是「神艺」怪兽以及「无垢者 米底乌斯」不能特殊召唤（除从额外卡组的特殊召唤外）。
+   | ②：从手卡丢弃1张魔法·陷阱卡，宣言1个同名怪兽不在自己场上存在的「`神艺`_」怪兽的卡名才能发动\ **（这个回合**\ ，不能为这个卡名的这个效果发动而宣言相同卡名）。宣言的1只怪兽从卡组加入手卡。\ **这个回合**\ ，自己不是「`神艺`_」怪兽以及「`无垢者 米底乌斯`_」不能特殊召唤（除从额外卡组的特殊召唤外）。
 
 .. attention::
 
@@ -43,8 +43,8 @@
 | 例：
 | 「`战华之叛-吕奉`_」的卡名变更为「`不明`_」后，不能发动自身的①效果。
 | 「`幻奏的音姬 殊荣之弗朗索瓦`_」的属性变更为暗后，不能发动自身的①效果。
-| 进行了通常召唤的回合，\ **不能**\ 发动「高速疾行机人 魔剑玉」的③效果。\ `15/8/16 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11640>`__
-| 发动过卡的效果的回合，\ **不能**\ 发动「混沌帝龙 -终焉的使者-」的效果。\ `16/12/17 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5860>`__
+| 进行了通常召唤的回合，\ **不能**\ 发动「`高速疾行机人 魔剑玉`_」的③效果。\ `15/8/16 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11640>`__
+| 发动过卡的效果的回合，\ **不能**\ 发动「`混沌帝龙 -终焉的使者-`_」的效果。\ `16/12/17 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5860>`__
 
 -  | 不是效果所以在发动时会立即适用。
    | 例：
@@ -66,15 +66,15 @@
 
 -  | 这个发动被无效的场合，这种描述不再适用。
    | 例：
-   | 「高速疾行机人 魔剑玉」的③效果的发动被「天罚」无效的场合，这个回合\ **仍可以**\ 进行通常召唤。\ `14/12/14 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14551&keyword=&tag=-1>`__
-   | 「混沌帝龙 -终焉的使者-」的效果的发动被「天罚」无效的场合，这个回合\ **仍可以**\ 发动其他卡的效果。\ `15/1/1 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14597>`__
-   | 「卡片炮击士」的怪兽效果发动或「死者苏生」卡的发动被「光与暗之龙」无效的场合，这个回合\ **仍可以**\ 发动「混沌帝龙 -终焉的使者-」的效果。`15/1/1 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14599&keyword=&tag=-1>`__
+   | 「`高速疾行机人 魔剑玉`_」的③效果的发动被「`天罚`_」无效的场合，这个回合\ **仍可以**\ 进行通常召唤。\ `14/12/14 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14551&keyword=&tag=-1>`__
+   | 「`混沌帝龙 -终焉的使者-`_」的效果的发动被「`天罚`_」无效的场合，这个回合\ **仍可以**\ 发动其他卡的效果。\ `15/1/1 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14597>`__
+   | 「`卡片炮击士`_」的怪兽效果发动或「`死者苏生`_」卡的发动被「`光与暗之龙`_」无效的场合，这个回合\ **仍可以**\ 发动「`混沌帝龙 -终焉的使者-`_」的效果。`15/1/1 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14599&keyword=&tag=-1>`__
 
 -  | 发动成功，只是效果被无效，或不适用的场合，由于这种描述不是效果，仍会适用。
    | 例：
-   | 「高速疾行机人 魔剑玉」的③效果被「魔轰神兽 尤尼科」无效的场合，这个回合\ **不能**\ 进行通常召唤。\ `14/12/14 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14550&keyword=&tag=-1>`__
-   | 「混沌帝龙 -终焉的使者-」的效果发动被「效果遮蒙者」无效的场合，这个回合\ **不能**\ 发动其他卡的效果。\ `15/1/1 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14597>`__
-   | 「卡片炮击士」的怪兽效果或「死者苏生」的效果被「魔轰神兽 尤尼科」无效的场合，这个回合\ **不能**\ 发动「混沌帝龙 -终焉的使者-」的效果。`15/1/1 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14599&keyword=&tag=-1>`__
+   | 「`高速疾行机人 魔剑玉`_」的③效果被「`魔轰神兽 尤尼科`_」无效的场合，这个回合\ **不能**\ 进行通常召唤。\ `14/12/14 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14550&keyword=&tag=-1>`__
+   | 「`混沌帝龙 -终焉的使者-`_」的效果发动被「`效果遮蒙者`_」无效的场合，这个回合\ **不能**\ 发动其他卡的效果。\ `15/1/1 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14597>`__
+   | 「`卡片炮击士`_」的怪兽效果或「`死者苏生`_」的效果被「`魔轰神兽 尤尼科`_」无效的场合，这个回合\ **不能**\ 发动「`混沌帝龙 -终焉的使者-`_」的效果。`15/1/1 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14599&keyword=&tag=-1>`__
 
    -  | 可以选择不进行的效果被无效的场合，由于没有进行，可以发动这类效果。
       | 例：
@@ -152,7 +152,7 @@
    | 「`七皇转生`_」的①效果处理时，『（（把持有超量素材的怪兽除外的场合那些超量素材也全部除外））』让作为X素材的「`悲剧之死狱乡演员`_」被除外的场合，是被效果除外，可以发动①效果。
    | 「`群豪世界-百识公国`_」的②效果处理时，『（所要放置区的卡破坏）』让魔法·陷阱卡破坏的场合，不是效果破坏。\ `22/3/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17359&request_locale=ja>`__
 
-.. _`效果的附加处理`:
+.. _效果的附加处理:
 
 效果的附加处理
 -----------------
@@ -252,126 +252,3 @@
    | 「`星圣神龙 托勒密星团M7`_」「`永远的淑女 贝阿特丽切`_」「`No.77 七罪蛛`_」「`灾厄之星 提·丰`_」等特殊召唤怪兽的召唤方法之后记述的『这个方法特殊召唤过的回合』不是效果，其他处理同上，没有区别。
    | 例：
    | 我方「`灾厄之星 提·丰`_」通过自身记述的方法特殊召唤之际，对方连锁发动「`科技属 戟炮手`_」①效果时，『这个方法特殊召唤过的回合，自己不能把怪兽召唤·特殊召唤』还没有适用，我方可以再连锁发动「`紧急瞬间移动`_」等会把怪兽特殊召唤的效果。
-
-.. _`钻头战士`: https://ygocdb.com/card/name/钻头战士
-.. _`流星龙`: https://ygocdb.com/card/name/流星龙
-.. _`真红眼融合`: https://ygocdb.com/card/name/真红眼融合
-.. _`影蜥蜴`: https://ygocdb.com/card/name/影蜥蜴
-.. _`No.11 巨眼`: https://ygocdb.com/card/name/No.11%20巨眼
-.. _`幻变骚灵 多功能诈骗者`: https://ygocdb.com/card/name/幻变骚灵%20多功能诈骗者
-.. _`闪珖龙 星尘`: https://ygocdb.com/card/name/闪珖龙%20星尘
-.. _`融合`: https://ygocdb.com/card/name/融合
-.. _`帝王的烈旋`: https://ygocdb.com/card/name/帝王的烈旋
-.. _`灰流丽`: https://ygocdb.com/card/name/灰流丽
-.. _`金满而谦虚之壶`: https://ygocdb.com/card/name/金满而谦虚之壶
-.. _`闪刀姬-燎里`: https://ygocdb.com/card/name/闪刀姬-燎里
-.. _`虹彩之魔术师`: https://ygocdb.com/card/name/虹彩之魔术师
-.. _`冥帝从骑 哀多斯`: https://ygocdb.com/card/name/冥帝从骑%20哀多斯
-.. _`励辉士 入魔蝇王`: https://ygocdb.com/card/name/励辉士%20入魔蝇王
-.. _`惊天动地`: https://ygocdb.com/card/name/惊天动地
-.. _`门之防壁`: https://ygocdb.com/card/name/门之防壁
-.. _`超重武者 拳-C`: https://ygocdb.com/card/name/超重武者%20拳-C
-.. _`No.95 银河眼暗物质龙`: https://ygocdb.com/card/name/No.95%20银河眼暗物质龙
-.. _`堕天使 莫斯提马`: https://ygocdb.com/card/name/堕天使%20莫斯提马
-.. _`光与暗之龙`: https://ygocdb.com/card/name/光与暗之龙
-.. _`神之宣告`: https://ygocdb.com/card/name/神之宣告
-.. _`线性加农炮`: https://ygocdb.com/card/name/线性加农炮
-.. _`堕天使 特斯卡特利波卡`: https://ygocdb.com/card/name/堕天使%20特斯卡特利波卡
-.. _`花札卫-月花见-`: https://ygocdb.com/card/name/花札卫-月花见-
-.. _`红莲魔龙之壶`: https://ygocdb.com/card/name/红莲魔龙之壶
-.. _`毛绒动物·鼠`: https://ygocdb.com/card/name/毛绒动物·鼠
-.. _`魔轰神兽 尤尼科`: https://ygocdb.com/card/name/魔轰神兽%20尤尼科
-.. _`混沌幻影`: https://ygocdb.com/card/name/混沌幻影
-.. _`魔界剧团-圆熟女主演`: https://ygocdb.com/card/name/魔界剧团-圆熟女主演
-.. _`混沌帝龙 -终焉的使者-`: https://ygocdb.com/card/name/混沌帝龙%20-终焉的使者-
-.. _`元素英雄 天空侠`: https://ygocdb.com/card/name/元素英雄%20天空侠
-.. _`圣刻龙-泰芙龙`: https://ygocdb.com/card/name/圣刻龙-泰芙龙
-.. _`审判女士`: https://ygocdb.com/card/name/审判女士
-.. _`假面变色龙`: https://ygocdb.com/card/name/假面变色龙
-.. _`钢铁巨兵`: https://ygocdb.com/card/name/钢铁巨兵
-.. _`妖精传姬-塔利娅`: https://ygocdb.com/card/name/妖精传姬-塔利娅
-.. _`魔界剧团`: https://ygocdb.com/?search=魔界剧团
-.. _`堕天使`: https://ygocdb.com/?search=堕天使
-.. _`混沌核心`: https://ygocdb.com/card/name/混沌核心
-.. _`电子界量子龙`: https://ygocdb.com/card/name/电子界量子龙
-.. _`技能抽取`: https://ygocdb.com/card/name/技能抽取
-.. _`狱火机`: https://ygocdb.com/?search=狱火机
-.. _`魔孔石人`: https://ygocdb.com/card/name/魔孔石人
-.. _`娱乐伙伴 额外射手`: https://ygocdb.com/card/name/娱乐伙伴%20额外射手
-.. _`超重忍者 忍足-A·C`: https://ygocdb.com/card/name/超重忍者%20忍足-A·C
-.. _`娱乐法师 高跷射手`: https://ygocdb.com/card/name/娱乐法师%20高跷射手
-.. _`天邪鬼的诅咒`: https://ygocdb.com/card/name/天邪鬼的诅咒
-.. _`炼狱之骑士 多禄某`: https://ygocdb.com/card/name/炼狱之骑士%20多禄某
-.. _`高等纹章术`: https://ygocdb.com/card/name/高等纹章术
-.. _`魔宫的贿赂`: https://ygocdb.com/card/name/魔宫的贿赂
-.. _`银河眼光波龙`: https://ygocdb.com/card/name/银河眼光波龙
-.. _`女巫特露德`: https://ygocdb.com/card/name/女巫特露德
-.. _`娱乐法师 秋千魔术家`: https://ygocdb.com/card/name/娱乐法师%20秋千魔术家
-.. _`雷帝家臣 密特拉`: https://ygocdb.com/card/name/雷帝家臣%20密特拉
-.. _`岔子`: https://ygocdb.com/card/name/岔子
-.. _`雪花之光`: https://ygocdb.com/card/name/雪花之光
-.. _`青色眼睛的激临`: https://ygocdb.com/card/name/青色眼睛的激临
-.. _`恐龙摔跤手·席拉腔骨龙`: https://ygocdb.com/card/name/恐龙摔跤手·席拉腔骨龙
-.. _`灵摆区`: https://ygocdb.com/card/name/灵摆区
-.. _`神影依·米德拉什`: https://ygocdb.com/card/name/神影依·米德拉什
-.. _`熔岩魔神`: https://ygocdb.com/card/name/熔岩魔神
-.. _`灵兽使的长老`: https://ygocdb.com/card/name/灵兽使的长老
-.. _`闪刀姬-雫空`: https://ygocdb.com/card/name/闪刀姬-雫空
-.. _`天罚`: https://ygocdb.com/card/name/天罚
-.. _`替罪羊`: https://ygocdb.com/card/name/替罪羊
-.. _`炼狱的消华`: https://ygocdb.com/card/name/炼狱的消华
-.. _`强袭黑羽-雾雨之苦无鸟`: https://ygocdb.com/card/name/强袭黑羽-雾雨之苦无鸟
-.. _`连续魔法`: https://ygocdb.com/card/name/连续魔法
-.. _`活死人的呼声`: https://ygocdb.com/card/name/活死人的呼声
-.. _`天魔神 恩莱兹`: https://ygocdb.com/card/name/天魔神%20恩莱兹
-.. _`超重武者 魂-C`: https://ygocdb.com/card/name/超重武者%20魂-C
-.. _`天声的服从`: https://ygocdb.com/card/name/天声的服从
-.. _`拷问巨人`: https://ygocdb.com/card/name/拷问巨人
-.. _`恩底弥翁的仆从`: https://ygocdb.com/card/name/恩底弥翁的仆从
-.. _`死者苏生`: https://ygocdb.com/card/name/死者苏生
-.. _`升阶魔法-七皇之剑`: https://ygocdb.com/card/name/升阶魔法-七皇之剑
-.. _`战线复归`: https://ygocdb.com/card/name/战线复归
-.. _`灵兽使 蕾拉`: https://ygocdb.com/card/name/灵兽使%20蕾拉
-.. _`燃烧拳击手 练习拳手`: https://ygocdb.com/card/name/燃烧拳击手%20练习拳手
-.. _`风魔女-冰铃`: https://ygocdb.com/card/name/风魔女-冰铃
-.. _`激流葬`: https://ygocdb.com/card/name/激流葬
-.. _`风来王 野风`: https://ygocdb.com/card/name/风来王%20野风
-.. _`哥布林德伯格`: https://ygocdb.com/card/name/哥布林德伯格
-.. _`雷击坏兽 雷鸣龙王`: https://ygocdb.com/card/name/雷击坏兽%20雷鸣龙王
-.. _`神之通告`: https://ygocdb.com/card/name/神之通告
-.. _`寂静鮟鱇`: https://ygocdb.com/card/name/寂静鮟鱇
-.. _`炎舞-「开阳」`: https://ygocdb.com/card/name/炎舞-「开阳」
-.. _`强欲而谦虚之壶`: https://ygocdb.com/card/name/强欲而谦虚之壶
-.. _`堕天使 路西法`: https://ygocdb.com/card/name/堕天使%20路西法
-.. _`DD 俄耳托斯`: https://ygocdb.com/card/name/DD%20俄耳托斯
-.. _`超重武者 法螺贝-E`: https://ygocdb.com/card/name/超重武者%20法螺贝-E
-.. _`星圣神龙 托勒密星团M7`: https://ygocdb.com/card/name/星圣神龙%20托勒密星团M7
-.. _`永远的淑女 贝阿特丽切`: https://ygocdb.com/card/name/永远的淑女%20贝阿特丽切
-.. _`No.77 七罪蛛`: https://ygocdb.com/card/name/No.77%20七罪蛛
-.. _`灾厄之星 提·丰`: https://ygocdb.com/card/name/灾厄之星%20提·丰
-.. _`青眼白龙`: https://ygocdb.com/card/name/青眼白龙
-.. _`召唤限制器`: https://ygocdb.com/card/name/召唤限制器
-.. _`紧急瞬间移动`: https://ygocdb.com/card/name/紧急瞬间移动
-.. _`雷王`: https://ygocdb.com/card/name/雷王
-.. _`青眼亚白龙`: https://ygocdb.com/card/name/青眼亚白龙
-.. _`次世代兵器 还零`: https://ygocdb.com/card/name/次世代兵器%20还零
-.. _`太阳神之翼神龙`: https://ygocdb.com/card/name/太阳神之翼神龙
-.. _`古之咒文`: https://ygocdb.com/card/name/古之咒文
-.. _`DDD 双晓王 末法神`: https://ygocdb.com/card/name/DDD%20双晓王%20末法神
-.. _`不明`: https://ygocdb.com/card/name/不明
-.. _`战华之叛-吕奉`: https://ygocdb.com/card/name/战华之叛-吕奉
-.. _`幻奏的音姬 殊荣之弗朗索瓦`: https://ygocdb.com/card/name/幻奏的音姬%20殊荣之弗朗索瓦
-.. _`神艺学之狱神兽`: https://ygocdb.com/card/name/神艺学之狱神兽
-.. _`召命之神弓-阿波罗萨`: https://ygocdb.com/card/name/召命之神弓-阿波罗萨
-.. _`装弹枪管狞猛龙`: https://ygocdb.com/card/name/装弹枪管狞猛龙
-.. _`神艺学都 神艺学园`: https://ygocdb.com/card/name/神艺学都%20神艺学园
-.. _`群豪世界-百识公国`: https://ygocdb.com/card/name/群豪世界-百识公国
-.. _`悲剧之死狱乡演员`: https://ygocdb.com/card/name/悲剧之死狱乡演员
-.. _`七皇转生`: https://ygocdb.com/card/name/七皇转生
-.. _`No.4 猛毒刺胞 隐形水母怪`: https://ygocdb.com/card/name/No.4%20猛毒刺胞%20隐形水母怪
-.. _`红莲升龙`: https://ygocdb.com/card/name/红莲升龙
-.. _`科技属 戟炮手`: https://ygocdb.com/card/name/科技属%20戟炮手
-.. _`机关傀儡-梦魇`: https://ygocdb.com/card/name/机关傀儡-梦魇
-.. _`DNA改造手术`: https://ygocdb.com/card/name/DNA改造手术
-.. _`不死世界`: https://ygocdb.com/card/name/不死世界
-.. _`一齐蜂起`: https://ygocdb.com/card/name/一齐蜂起
