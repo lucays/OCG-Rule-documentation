@@ -2803,6 +2803,7 @@
 .. _`撤收命令`: https://ygocdb.com/card/name/撤收命令
 .. _`收缩`: https://ygocdb.com/card/name/收缩
 .. _`攻击反射装置`: https://ygocdb.com/card/name/攻击反射装置
+.. _`攻击宣言时`: https://ygocdb.com/card/name/攻击宣言时
 .. _`攻击无力化`: https://ygocdb.com/card/name/攻击无力化
 .. _`攻击诱导装甲`: https://ygocdb.com/card/name/攻击诱导装甲
 .. _`攻击诱导铠甲`: https://ygocdb.com/card/name/攻击诱导铠甲
