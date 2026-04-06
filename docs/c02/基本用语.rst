@@ -192,7 +192,7 @@ cost
    | 自己场上存在作为装备卡存在的衍生物时，就不能发动「`弹幕回避`_」。
    | 「`磁石战士 电磁武神`_」不能把作为装备卡的「`磁石战士α`_」「`磁石战士β`_」「`磁石战士γ`_」解放来特殊召唤。\ `13/7/5 <http://yugioh-wiki.net/index.php?%A1%D4%BC%A7%C0%D0%A4%CE%C0%EF%BB%CE%A5%DE%A5%B0%A5%CD%A5%C3%A5%C8%A1%A6%A5%D0%A5%EB%A5%AD%A5%EA%A5%AA%A5%F3%A1%D5#faq>`__ 
 
-   .. attention:: 「`迷宫变化`_」\ `16/8/4 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=4658&request_locale=ja>`__ 「`王女的试炼`_」\ `16/8/4 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6616&request_locale=ja>`__ 虽然记述的是『把「`迷宮壁`_」和装备的这张卡作为祭品』『把装备怪兽和这张卡作为祭品』，现在调整为解放的只是装备怪兽，它们只是因装备怪兽从场上离开而被破坏送去墓地。
+   .. attention:: 「`迷宫变化`_」\ `16/8/4 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=4658&request_locale=ja>`__ 「`王女的试炼`_」\ `16/8/4 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6616&request_locale=ja>`__ 虽然记述的是『把「迷宮壁」和装备的这张卡作为祭品』『把装备怪兽和这张卡作为祭品』，现在调整为解放的只是装备怪兽，它们只是因装备怪兽从场上离开而被破坏送去墓地。
 
 必发效果·选发效果
 -----------------

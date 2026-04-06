@@ -6037,6 +6037,7 @@
 .. _`雷天气 姜黄`: https://ygocdb.com/card/name/雷天气%20姜黄
 .. _`雷帝家臣 密特拉`: https://ygocdb.com/card/name/雷帝家臣%20密特拉
 .. _`雷帝神`: https://ygocdb.com/card/name/雷帝神
+.. _`雷火沸动`: https://ygocdb.com/?search=雷火沸动
 .. _`雷火沸动交界机`: https://ygocdb.com/card/name/雷火沸动交界机
 .. _`雷火沸动死旋爆震机`: https://ygocdb.com/card/name/雷火沸动死旋爆震机
 .. _`雷火沸动质量驱动器`: https://ygocdb.com/card/name/雷火沸动质量驱动器
@@ -6548,6 +6549,7 @@
 .. _`黑魔导的幕帘`: https://ygocdb.com/card/name/黑魔导的幕帘
 .. _`黑魔导阵`: https://ygocdb.com/card/name/黑魔导阵
 .. _`黑魔族复活之棺`: https://ygocdb.com/card/name/黑魔族复活之棺
+.. _`黑魔术`: https://ygocdb.com/?search=黑魔术
 .. _`黑魔术少女`: https://ygocdb.com/card/name/黑魔术少女
 .. _`黑魔术师`: https://ygocdb.com/?search=黑魔术师
 .. _`黑魔术的帷幕`: https://ygocdb.com/card/name/黑魔术的帷幕
