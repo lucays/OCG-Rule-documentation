@@ -163,6 +163,7 @@
 .. _`No.95 银河眼暗物质龙`: https://ygocdb.com/card/name/No.95%20银河眼暗物质龙
 .. _`No.97 龙影神 引力子龙`: https://ygocdb.com/card/name/No.97%20龙影神%20引力子龙
 .. _`No.98 绝望皇 霍普勒斯`: https://ygocdb.com/card/name/No.98%20绝望皇%20霍普勒斯
+.. _`No.99`: https://ygocdb.com/?search=No.99
 .. _`No.99 希望皇 霍普德拉戈纳`: https://ygocdb.com/card/name/No.99%20希望皇%20霍普德拉戈纳
 .. _`No.XX 无限之达克霍普`: https://ygocdb.com/card/name/No.XX%20无限之达克霍普
 .. _`OZ之主`: https://ygocdb.com/card/name/OZ之主
@@ -2003,6 +2004,7 @@
 .. _`屏蔽盾处理器`: https://ygocdb.com/card/name/屏蔽盾处理器
 .. _`山铜合神偶`: https://ygocdb.com/card/name/山铜合神偶
 .. _`山铜结界`: https://ygocdb.com/card/name/山铜结界
+.. _`山铜魔封剑`: https://ygocdb.com/card/name/山铜魔封剑
 .. _`岔子`: https://ygocdb.com/card/name/岔子
 .. _`岚征龙-飙龙`: https://ygocdb.com/card/name/岚征龙-飙龙
 .. _`岩带的美技-磷钇矿吉他手`: https://ygocdb.com/card/name/岩带的美技-磷钇矿吉他手
@@ -2591,6 +2593,7 @@
 .. _`惊奇游乐设施·∀·神奇摩天轮`: https://ygocdb.com/card/name/惊奇游乐设施·∀·神奇摩天轮
 .. _`惊异灵摆`: https://ygocdb.com/card/name/惊异灵摆
 .. _`惊心供应链`: https://ygocdb.com/card/name/惊心供应链
+.. _`惊煌甩尾`: https://ygocdb.com/card/name/惊煌甩尾
 .. _`惑星探查车`: https://ygocdb.com/card/name/惑星探查车
 .. _`惩戒之龙`: https://ygocdb.com/card/name/惩戒之龙
 .. _`惩罚游戏！`: https://ygocdb.com/card/name/惩罚游戏！
@@ -3325,6 +3328,7 @@
 .. _`机械驱动的骑士`: https://ygocdb.com/card/name/机械驱动的骑士
 .. _`机械龙 动力工具`: https://ygocdb.com/card/name/机械龙%20动力工具
 .. _`机灵兔骑士`: https://ygocdb.com/card/name/机灵兔骑士
+.. _`机炮食人魔`: https://ygocdb.com/card/name/机炮食人魔
 .. _`机甲上校`: https://ygocdb.com/card/name/机甲上校
 .. _`机甲卫兵`: https://ygocdb.com/card/name/机甲卫兵
 .. _`机甲和平卫士`: https://ygocdb.com/card/name/机甲和平卫士
@@ -5014,6 +5018,8 @@
 .. _`给死者的供物`: https://ygocdb.com/card/name/给死者的供物
 .. _`绚岚之权能`: https://ygocdb.com/card/name/绚岚之权能
 .. _`绚岚之海灵 派比安`: https://ygocdb.com/card/name/绚岚之海灵%20派比安
+.. _`绚岚之罗莎`: https://ygocdb.com/card/name/绚岚之罗莎
+.. _`绚岚之见神`: https://ygocdb.com/card/name/绚岚之见神
 .. _`绚岚涡丽 派比安`: https://ygocdb.com/card/name/绚岚涡丽%20派比安
 .. _`绚岚豪火 凤凰`: https://ygocdb.com/card/name/绚岚豪火%20凤凰
 .. _`绝体绝命`: https://ygocdb.com/?search=绝体绝命
@@ -5457,6 +5463,7 @@
 .. _`超二重召唤`: https://ygocdb.com/card/name/超二重召唤
 .. _`超再生能力`: https://ygocdb.com/card/name/超再生能力
 .. _`超升阶魔法-乌托邦之力`: https://ygocdb.com/card/name/超升阶魔法-乌托邦之力
+.. _`超升阶魔法-究极之力`: https://ygocdb.com/card/name/超升阶魔法-究极之力
 .. _`超古深海王 空棘鱼`: https://ygocdb.com/card/name/超古深海王%20空棘鱼
 .. _`超合魔兽 拉普提诺斯`: https://ygocdb.com/card/name/超合魔兽%20拉普提诺斯
 .. _`超天新龙 异色眼革命龙`: https://ygocdb.com/?search=超天新龙 异色眼革命龙
@@ -5784,6 +5791,7 @@
 .. _`金满而谦虚之壶`: https://ygocdb.com/card/name/金满而谦虚之壶
 .. _`金色魅惑的女王`: https://ygocdb.com/card/name/金色魅惑的女王
 .. _`针虫的巢窟`: https://ygocdb.com/card/name/针虫的巢窟
+.. _`钢卷尺骑士`: https://ygocdb.com/card/name/钢卷尺骑士
 .. _`钢核收纳`: https://ygocdb.com/card/name/钢核收纳
 .. _`钢核的光辉`: https://ygocdb.com/card/name/钢核的光辉
 .. _`钢炎之剑士`: https://ygocdb.com/card/name/钢炎之剑士

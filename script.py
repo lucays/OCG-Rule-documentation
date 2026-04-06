@@ -48,7 +48,7 @@ NOT_CARD_NAMES = {
     'トリックスター・ライトステージ', '悪夢の拷問部屋', '永续效果', '诱发即时效果',
     '増殖するG', 'メタバース', '罪 サイバー・エンド・ドラゴン', 'E', 'T', 'A', 'H',
     '作为对象的1只怪兽破坏', 'カウンター罠を発動した時', '卡名',
-    'カードの発動を无効にした时', '二重怪兽',
+    'カードの発動を無効にした時', '二重怪兽',
 }
 
 SERIES_NAMES = {'隆隆隆', '刷拉拉', '我我我', '怒怒怒', 'ゴゴゴ'}
@@ -241,10 +241,12 @@ def git_operations(commit_message: str) -> None:
             repo.git.push('--set-upstream', 'origin', target, '-f')
     repo.git.checkout('dev')
 
-def main(commit_message: str = 'add faq') -> None:
+def main(commit_message: str) -> None:
     process_all('dev')
     write_global_links()
     git_operations(commit_message)
 
 if __name__ == '__main__':
-    main()
+    import sys
+    msg = sys.argv[1] if len(sys.argv) > 1 else 'add faq'
+    main(msg)
