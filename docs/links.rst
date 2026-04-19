@@ -1362,6 +1362,7 @@
 .. _`哥布林拦路贼`: https://ygocdb.com/card/name/哥布林拦路贼
 .. _`哥布林的敷衍了事`: https://ygocdb.com/card/name/哥布林的敷衍了事
 .. _`哥布林突击部队`: https://ygocdb.com/card/name/哥布林突击部队
+.. _`哥布林降下部队`: https://ygocdb.com/card/name/哥布林降下部队
 .. _`唤醒你沉睡的元素英雄`: https://ygocdb.com/card/name/唤醒你沉睡的元素英雄
 .. _`善变的裁缝师`: https://ygocdb.com/card/name/善变的裁缝师
 .. _`善德激流弹`: https://ygocdb.com/card/name/善德激流弹
@@ -2092,6 +2093,7 @@
 .. _`帝王的极致`: https://ygocdb.com/card/name/帝王的极致
 .. _`帝王的烈旋`: https://ygocdb.com/card/name/帝王的烈旋
 .. _`帝王的轰毅`: https://ygocdb.com/card/name/帝王的轰毅
+.. _`帝王龙`: https://ygocdb.com/?search=帝王龙
 .. _`带刻印者`: https://ygocdb.com/card/name/带刻印者
 .. _`帧缓存火牛`: https://ygocdb.com/card/name/帧缓存火牛
 .. _`席取-六双丸`: https://ygocdb.com/card/name/席取-六双丸
@@ -3850,6 +3852,7 @@
 .. _`深渊的指名者`: https://ygocdb.com/card/name/深渊的指名者
 .. _`深渊的潜伏者`: https://ygocdb.com/card/name/深渊的潜伏者
 .. _`深渊的结界像`: https://ygocdb.com/card/name/深渊的结界像
+.. _`深渊青眼龙`: https://ygocdb.com/card/name/深渊青眼龙
 .. _`深渊鳞甲-乌贼`: https://ygocdb.com/card/name/深渊鳞甲-乌贼
 .. _`深渊鳞甲-蛟`: https://ygocdb.com/card/name/深渊鳞甲-蛟
 .. _`深渊鳞甲-鲸鱼`: https://ygocdb.com/card/name/深渊鳞甲-鲸鱼
@@ -5308,6 +5311,7 @@
 .. _`融合之门`: https://ygocdb.com/card/name/融合之门
 .. _`融合体杀手`: https://ygocdb.com/card/name/融合体杀手
 .. _`融合再生机构`: https://ygocdb.com/card/name/融合再生机构
+.. _`融合准备`: https://ygocdb.com/card/name/融合准备
 .. _`融合募兵`: https://ygocdb.com/card/name/融合募兵
 .. _`融合命运`: https://ygocdb.com/card/name/融合命运
 .. _`融合咒印生物`: https://ygocdb.com/?search=融合咒印生物

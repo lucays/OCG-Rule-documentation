@@ -13,7 +13,7 @@ LINKS_FILE = DOCS_DIR / 'links.rst'
 HTTPS_PROXY = {'https': 'http://127.0.0.1:7890'}
 
 # 全局状态
-GLOBAL_LINKS: Dict[str, str] = {} # 汇总所有文件的链接定义 {name: url}
+GLOBAL_LINKS: Dict[str, str] = {}  # 汇总所有文件的链接定义 {name: url}
 
 # 初始化时从现有文件加载已有链接，防止丢失
 if LINKS_FILE.exists():
@@ -58,11 +58,13 @@ SERIES_SUFFIXES = (
     '永续魔法', '场地魔法', '永续陷阱', '通常魔法', '通常陷阱', '反击陷阱'
 )
 
+
 def replace_en_name(texts: str) -> str:
     texts = texts.replace('\n\n\n', '\n\n')
     for old, new in NEED_REPLACED_NAMES.items():
         texts = texts.replace(old, new)
     return texts
+
 
 def add_jp_locale_in_db_url(texts: str) -> str:
     def replacer(match):
@@ -72,6 +74,7 @@ def add_jp_locale_in_db_url(texts: str) -> str:
         return f'<{url}>'
     return re.sub(r'<(.*?)>', replacer, texts)
 
+
 def add_cdb_url(texts: str) -> str:
     def need_skip(line: str) -> bool:
         if any(x in line for x in (':strike:',)) or line.startswith('.. _`'):
@@ -79,45 +82,48 @@ def add_cdb_url(texts: str) -> str:
         return False
 
     cards_name, series_name = [], []
-    
+
     for line in texts.split('\n'):
-        if need_skip(line): continue
-        
+        if need_skip(line):
+            continue
+
         stack = []
         name_chars = []
-        bracket_depth = 0 # 处理 『』 嵌套
-        
+        bracket_depth = 0  # 处理 『』 嵌套
+
         for i, char in enumerate(line):
-            if char == '『': bracket_depth += 1
-            elif char == '』': bracket_depth -= 1
-            
+            if char == '『':
+                bracket_depth += 1
+            elif char == '』':
+                bracket_depth -= 1
+
             if char == '「':
                 stack.append(i)
-            
+
             if stack:
                 name_chars.append(char)
-            
+
             if char == '」':
                 if stack:
                     stack.pop()
-                    if not stack: # 最外层括号闭合
+                    if not stack:  # 最外层括号闭合
                         if bracket_depth > 0:
                             name_chars = []
                             continue
-                        
+
                         full_content = ''.join(name_chars)
                         name_chars = []
-                        
+
                         # 仅移除最外层的一对 「 」
                         if full_content.startswith('「') and full_content.endswith('」'):
                             inner_content = full_content[1:-1]
                         else:
                             inner_content = full_content
-                        
+
                         clean_name = inner_content.strip('`_')
                         if not clean_name or clean_name in NOT_CARD_NAMES or '○○' in clean_name:
                             continue
-                            
+
                         is_series = False
                         after_text = line[i+1:]
                         if any(after_text.startswith(s) for s in SERIES_SUFFIXES) and not after_text.startswith('卡的发动'):
@@ -126,7 +132,7 @@ def add_cdb_url(texts: str) -> str:
                             is_series = True
                         elif '衍生物' in clean_name and '○○' not in clean_name:
                             is_series = True
-                            
+
                         if is_series:
                             series_name.append(clean_name)
                         else:
@@ -141,14 +147,15 @@ def add_cdb_url(texts: str) -> str:
     for name in cards_name:
         replace_map[f'「{name}」'] = f'「`{name}`_」'
         replace_map[f'「`{name}`」'] = f'「`{name}`_」'
-        
+
     for name in series_name:
         replace_map[f'「{name}」'] = f'「`{name}`_」'
         replace_map[f'「`{name}`」'] = f'「`{name}`_」'
 
     lines = []
     for line in texts.strip().split('\n'):
-        if line.startswith('.. _`'): continue
+        if line.startswith('.. _`'):
+            continue
         if not need_skip(line):
             for old, new in replace_map.items():
                 line = line.replace(old, new)
@@ -169,6 +176,7 @@ def add_cdb_url(texts: str) -> str:
 
     return new_texts
 
+
 def write_global_links() -> None:
     """将所有收集到的链接写入唯一的汇总文件"""
     content = []
@@ -178,12 +186,14 @@ def write_global_links() -> None:
     LINKS_FILE.write_text('\n'.join(content) + '\n', encoding='utf8')
     print(f"已更新汇总链接文件: {LINKS_FILE}")
 
+
 def strike_completion(texts: str) -> str:
     lines = []
     for line in texts.split('\n'):
         if '| :strike:' in line:
             if '「`' in line:
-                line = line.split(r'\ `')[0].replace('「`', '「').replace('`_」', '」').strip('`')
+                line = line.split(r'\ `')[0].replace(
+                    '「`', '「').replace('`_」', '」').strip('`')
             else:
                 line = line.strip('`')
             if r'。\ `' in line:
@@ -194,27 +204,32 @@ def strike_completion(texts: str) -> str:
         lines.append(line)
     return '\n'.join(lines).strip() + '\n'
 
+
 def process_one_file(file: Path, branch: str) -> None:
     old_content = file.read_text(encoding='utf8')
     content = replace_en_name(old_content)
     content = add_cdb_url(content)
     content = add_jp_locale_in_db_url(content)
-    
+
     if branch == 'dev':
         content = strike_completion(content)
     else:
-        content = '\n'.join(l for l in content.split('\n') if '| :strike:' not in l).strip() + '\n'
-    
+        content = '\n'.join(l for l in content.split(
+            '\n') if '| :strike:' not in l).strip() + '\n'
+
     for name in NOT_CARD_NAMES:
         content = content.replace(f'「`{name}`_」', f'「{name}」')
-    
+
     if content != old_content:
         file.write_text(content, encoding='utf8', newline='\n')
 
+
 def process_all(branch: str = 'dev') -> None:
     for file in DOCS_DIR.rglob('*.rst'):
-        if file.name == 'links.rst': continue
+        if file.name == 'links.rst':
+            continue
         process_one_file(file, branch)
+
 
 def git_operations(commit_message: str) -> None:
     repo = Repo(CURRENT_DIR)
@@ -225,26 +240,30 @@ def git_operations(commit_message: str) -> None:
         repo.git.push()
 
     for target, msg, is_main in [('valid', 'rm invalid faq', False), ('main', 'rm faq', True)]:
-        if target in repo.branches: repo.delete_head(target, force=True)
+        if target in repo.branches:
+            repo.delete_head(target, force=True)
         repo.git.checkout('-b', target)
         if is_main:
-            for p in ['docs/c06', 'docs/c07']: shutil.rmtree(DOCS_DIR / p.split('/')[-1], ignore_errors=True)
+            for p in ['docs/c06', 'docs/c07']:
+                shutil.rmtree(DOCS_DIR / p.split('/')[-1], ignore_errors=True)
             for f in ['docs/chapters/p06_ocg_rule_faq.rst', 'docs/chapters/p07_ocg_deck_course.rst']:
                 (CURRENT_DIR / f).unlink(missing_ok=True)
         else:
             process_all(target)
             write_global_links()
-        
+
         if repo.is_dirty():
             repo.git.add('.')
             repo.index.commit(msg)
             repo.git.push('--set-upstream', 'origin', target, '-f')
     repo.git.checkout('dev')
 
+
 def main(commit_message: str) -> None:
     process_all('dev')
     write_global_links()
     git_operations(commit_message)
+
 
 if __name__ == '__main__':
     import sys
