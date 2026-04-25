@@ -77,6 +77,7 @@
 .. _`G·B·猎人`: https://ygocdb.com/card/name/G·B·猎人
 .. _`H-火热之心`: https://ygocdb.com/card/name/H-火热之心
 .. _`I：P伪装舞会莱娜`: https://ygocdb.com/card/name/I：P伪装舞会莱娜
+.. _`I：P百变莱娜`: https://ygocdb.com/card/name/I：P百变莱娜
 .. _`K9-666号 “杰克组合”`: https://ygocdb.com/card/name/K9-666号%20“杰克组合”
 .. _`K9-66a号 霜妖`: https://ygocdb.com/card/name/K9-66a号%20霜妖
 .. _`K9-EX强制解除`: https://ygocdb.com/card/name/K9-EX强制解除
@@ -2180,6 +2181,7 @@
 .. _`幻影骑士团 失常磁环`: https://ygocdb.com/card/name/幻影骑士团%20失常磁环
 .. _`幻影骑士团 失落护臂甲`: https://ygocdb.com/card/name/幻影骑士团%20失落护臂甲
 .. _`幻影骑士团 影佑`: https://ygocdb.com/card/name/幻影骑士团%20影佑
+.. _`幻影骑士团 敌意死镰`: https://ygocdb.com/card/name/幻影骑士团%20敌意死镰
 .. _`幻影骑士团 断碎剑`: https://ygocdb.com/card/name/幻影骑士团%20断碎剑
 .. _`幻影骑士团 无声靴`: https://ygocdb.com/card/name/幻影骑士团%20无声靴
 .. _`幻影骑士团 暗黑手甲`: https://ygocdb.com/card/name/幻影骑士团%20暗黑手甲
@@ -3721,6 +3723,10 @@
 .. _`治安战警队 引力微子`: https://ygocdb.com/card/name/治安战警队%20引力微子
 .. _`治安战警队 样本`: https://ygocdb.com/card/name/治安战警队%20样本
 .. _`治安战警队 正名者`: https://ygocdb.com/card/name/治安战警队%20正名者
+.. _`治安战警队 追溯者`: https://ygocdb.com/card/name/治安战警队%20追溯者
+.. _`治安战警队 黑夜杀伐者`: https://ygocdb.com/card/name/治安战警队%20黑夜杀伐者
+.. _`治安战警队世界整列`: https://ygocdb.com/card/name/治安战警队世界整列
+.. _`治安战警队追缉`: https://ygocdb.com/card/name/治安战警队追缉
 .. _`沼地的泥龙王`: https://ygocdb.com/card/name/沼地的泥龙王
 .. _`沼地的魔神王`: https://ygocdb.com/card/name/沼地的魔神王
 .. _`沼地魔神王`: https://ygocdb.com/card/name/沼地魔神王
@@ -5122,6 +5128,7 @@
 .. _`脆刃之剑`: https://ygocdb.com/card/name/脆刃之剑
 .. _`脑开发研究所`: https://ygocdb.com/card/name/脑开发研究所
 .. _`脱壳蝉`: https://ygocdb.com/card/name/脱壳蝉
+.. _`腐朽的祭仪要录`: https://ygocdb.com/card/name/腐朽的祭仪要录
 .. _`自业自得`: https://ygocdb.com/card/name/自业自得
 .. _`自动手枪弹丸龙`: https://ygocdb.com/card/name/自动手枪弹丸龙
 .. _`自奏圣乐`: https://ygocdb.com/?search=自奏圣乐
@@ -5372,6 +5379,7 @@
 .. _`被诅咒的黄金国度`: https://ygocdb.com/card/name/被诅咒的黄金国度
 .. _`被选中者`: https://ygocdb.com/card/name/被选中者
 .. _`袭击队飞翼`: https://ygocdb.com/card/name/袭击队飞翼
+.. _`袭击队骑士`: https://ygocdb.com/card/name/袭击队骑士
 .. _`裁决下达者-伏尔泰尼斯`: https://ygocdb.com/card/name/裁决下达者-伏尔泰尼斯
 .. _`裁决之代行者 萨图恩`: https://ygocdb.com/card/name/裁决之代行者%20萨图恩
 .. _`裁决之光`: https://ygocdb.com/card/name/裁决之光
@@ -5461,6 +5469,7 @@
 .. _`赫谟之爪`: https://ygocdb.com/card/name/赫谟之爪
 .. _`起动指令 齿轮突击`: https://ygocdb.com/card/name/起动指令%20齿轮突击
 .. _`起动的机壳`: https://ygocdb.com/card/name/起动的机壳
+.. _`起始之神 法拉`: https://ygocdb.com/card/name/起始之神%20法拉
 .. _`起爆兽 火神炮龙`: https://ygocdb.com/card/name/起爆兽%20火神炮龙
 .. _`起立吧百夫长骑士！`: https://ygocdb.com/card/name/起立吧百夫长骑士！
 .. _`起翼升阶魔法-急袭猛禽之力`: https://ygocdb.com/card/name/起翼升阶魔法-急袭猛禽之力
@@ -5579,6 +5588,7 @@
 .. _`踢火`: https://ygocdb.com/card/name/踢火
 .. _`身演恶魔迪亚贝尔`: https://ygocdb.com/card/name/身演恶魔迪亚贝尔
 .. _`车轮同调士`: https://ygocdb.com/card/name/车轮同调士
+.. _`车道管制`: https://ygocdb.com/card/name/车道管制
 .. _`轨迹之魔术师`: https://ygocdb.com/card/name/轨迹之魔术师
 .. _`转临的守护龙`: https://ygocdb.com/card/name/转临的守护龙
 .. _`转惺龙华-暗巴`: https://ygocdb.com/card/name/转惺龙华-暗巴

@@ -1,9 +1,7 @@
 import re
 import shutil
 from pathlib import Path
-from typing import Set, Dict
 
-import requests
 from git import Repo
 
 # 配置与路径
@@ -13,7 +11,7 @@ LINKS_FILE = DOCS_DIR / 'links.rst'
 HTTPS_PROXY = {'https': 'http://127.0.0.1:7890'}
 
 # 全局状态
-GLOBAL_LINKS: Dict[str, str] = {}  # 汇总所有文件的链接定义 {name: url}
+GLOBAL_LINKS: dict[str, str] = {}  # 汇总所有文件的链接定义 {name: url}
 
 # 初始化时从现有文件加载已有链接，防止丢失
 if LINKS_FILE.exists():

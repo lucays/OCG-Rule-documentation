@@ -455,3 +455,22 @@
 
 | 数据库：
 | 「`电子龙核`_」在里侧守备表示的状态下①效果不适用，不当作「`电子龙`_」，只能作为『机械族怪兽1只以上』的部分成为「`嵌合要塞龙`_」的融合素材。\ `26/4/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24314&keyword=&tag=-1&request_locale=ja>`__
+
+4/21
+-------
+
+| 邮件：
+| 「`魔女术的小巷`_」适用②效果作为「`魔女术`_」怪兽为让效果发动而把手卡丢弃的代替送去墓地的场合，可以发动「`身演恶魔迪亚贝尔`_」的①效果。
+
+4/24
+-------
+
+| 数据库：
+| 把「`起始之神 法拉`_」自身和「`王之遗宝祭祀圣域`_」给对方观看发动「`起始之神 法拉`_」的①效果并适用的状况，这个回合「`王之遗宝祭祀圣域`_」卡的发动时，对方不能连锁发动卡片效果；之后场地区域的「`王之遗宝祭祀圣域`_」的卡名是「`王家的神殿`_」，发动③效果时，对方可以连锁发动卡片效果。\ `26/4/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24315&keyword=&tag=-1&request_locale=ja>`__
+| 「`袭击队骑士`_」的①效果把「`超量龙`_」怪兽当作X召唤特殊召唤的场合，「`幻影骑士团 敌意死镰`_」的②效果可以发动。\ `26/4/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24316&keyword=&tag=-1&request_locale=ja>`__
+| 「`车道管制`_」的②效果适用中，也可以1次特殊召唤多只怪兽，这时必须按顺序使用可以使用的最左侧的区域。\ `26/4/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24317&keyword=&tag=-1&request_locale=ja>`__
+| 「`车道管制`_」的②效果适用中，主要怪兽区域不存在怪兽，左侧或右侧额外怪兽区域存在「`I：P百变莱娜`_」，只有额外卡组表侧存在可以P召唤的怪兽时，不能P召唤；如果「`I：P百变莱娜`_」在左侧额外怪兽区域存在，同纵列的主要怪兽区域存在怪兽，或者不止额外，手卡也存在可以P召唤的怪兽时，可以P召唤；如果左侧额外怪兽区域存在的是「`锁龙蛇-骷髅四面鬼`_」，主要怪兽区域不存在怪兽，即使只有额外怪兽区域存在2只可以P召唤的怪兽，也可以P召唤；如果主要怪兽区域和额外怪兽区域都不存在怪兽，自己只有手卡存在2只可以P召唤的怪兽时，可以P召唤。\ `26/4/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24318&keyword=&tag=-1&request_locale=ja>`__
+| 「`破灭与终焉之支配者`_」记述的是『「`世界末日`_」卡降临』，这里「`世界末日`_」不作为卡名，而是字段，因此「`腐朽的祭仪要录`_」的①效果处理时不能把「`世界末日`_」给对方观看来把「`破灭与终焉之支配者`_」加入手卡。\ `26/4/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24319&keyword=&tag=-1&request_locale=ja>`__
+| 「`治安战警队 黑夜杀伐者`_」的②效果发动时，可以适用「`治安战警队 追溯者`_」的③效果把自身和墓地的「`治安战警队 追溯者`_」除外来发动。「`治安战警队世界整列`_」的①效果和「`治安战警队追缉`_」的②效果也可以适用。\ `26/4/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24321&keyword=&tag=-1&request_locale=ja>`__
+| 「`锁缚龙 锁镰`_」适用①效果不作为调整来成为素材S召唤「`白森林的妖魔 迪亚贝尔`_」的场合，那个「`白森林的妖魔 迪亚贝尔`_」不能发动①效果。\ `26/4/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24322&keyword=&tag=-1&request_locale=ja>`__
+| 「`调和之天救龙`_」的①效果处理先特殊召唤后破坏了「`赫焉龙 大木偶剧场龙`_」的场合，「`赫焉龙 大木偶剧场龙`_」不能发动②效果。\ `26/4/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24323&keyword=&tag=-1&request_locale=ja>`__
