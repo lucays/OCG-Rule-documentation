@@ -205,6 +205,7 @@
 .. _`Y-机敏龙头`: https://ygocdb.com/card/name/Y-机敏龙头
 .. _`Y-龙头`: https://ygocdb.com/card/name/Y-龙头
 .. _`Z-无穷履带`: https://ygocdb.com/card/name/Z-无穷履带
+.. _`Ω眼镜`: https://ygocdb.com/card/name/Ω眼镜
 .. _`“K9案件”`: https://ygocdb.com/card/name/“K9案件”
 .. _`“罪宝狩猎之恶魔”`: https://ygocdb.com/card/name/“罪宝狩猎之恶魔”
 .. _`“艾”之仪式`: https://ygocdb.com/card/name/“艾”之仪式
@@ -2434,6 +2435,7 @@
 .. _`征服斗魂 蛟龙`: https://ygocdb.com/card/name/征服斗魂%20蛟龙
 .. _`征服斗魂 螺旋流辻风`: https://ygocdb.com/card/name/征服斗魂%20螺旋流辻风
 .. _`征服斗魂 螺禅`: https://ygocdb.com/card/name/征服斗魂%20螺禅
+.. _`征服斗魂 里螺旋流雪风`: https://ygocdb.com/card/name/征服斗魂%20里螺旋流雪风
 .. _`征服斗魂 重型电子人`: https://ygocdb.com/card/name/征服斗魂%20重型电子人
 .. _`征服斗魂 霍丽·苏`: https://ygocdb.com/card/name/征服斗魂%20霍丽·苏
 .. _`征服斗魂 龙帝 瓦利乌斯`: https://ygocdb.com/card/name/征服斗魂%20龙帝%20瓦利乌斯
@@ -3895,6 +3897,7 @@
 .. _`混沌之幻想魔术师`: https://ygocdb.com/card/name/混沌之幻想魔术师
 .. _`混沌之战士 混沌战士`: https://ygocdb.com/card/name/混沌之战士%20混沌战士
 .. _`混沌之魔术师`: https://ygocdb.com/card/name/混沌之魔术师
+.. _`混沌之魔术箱`: https://ygocdb.com/card/name/混沌之魔术箱
 .. _`混沌之魔神`: https://ygocdb.com/card/name/混沌之魔神
 .. _`混沌之黑魔术师`: https://ygocdb.com/?search=混沌之黑魔术师
 .. _`混沌凤凰神 奈芙提斯`: https://ygocdb.com/card/name/混沌凤凰神%20奈芙提斯
