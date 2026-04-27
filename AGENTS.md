@@ -22,7 +22,25 @@ This repository is a Yu-Gi-Oh! OCG ruling documentation project. Agents working 
 - Card names inside Japanese `「」` or `《》` should be resolved from the external file:
   - `D:\codes\ygocdb-data\cards.json`
 - Do not rely on the repository-local `cards.json` for this step.
-- After retrieving a candidate Chinese name, search the repository and prefer the already-established in-repo wording when the project consistently uses one variant.
+- Use the `cn_name` field as the default Chinese card name for new FAQ translations.
+- Do not default to `cnocg_n` when `cn_name` exists.
+- If a card cannot be found immediately, first verify the lookup method before assuming the card is missing.
+
+## Correct search method for `cards.json`
+
+- Use Python with UTF-8 when querying the external card database, for example `python -X utf8 -`.
+- Open the file with `encoding='utf-8'`.
+- Prefer exact lookup by stable keys when available:
+  - direct dict access by `cid`
+  - exact `jp_name`
+  - exact `wiki_en` / `en_name`
+- If exact `jp_name` lookup fails, check whether the query string was corrupted by shell or terminal encoding.
+- Also check for punctuation/normalization differences such as full-width vs half-width symbols, especially `－` vs `-`.
+- A reliable fallback is:
+  1. search by an ASCII field such as `wiki_en` or `en_name`
+  2. confirm the matched `jp_name`
+  3. take the corresponding `cn_name`
+- Previous failure mode to avoid: passing Japanese literals through a shell path that produced mojibake, which made exact `jp_name` matching falsely return no result.
 
 ## Translation rules for FAQ entries
 

@@ -1735,6 +1735,7 @@
 .. _`奈芙提斯之苍凰神`: https://ygocdb.com/card/name/奈芙提斯之苍凰神
 .. _`奈芙提斯的轮回`: https://ygocdb.com/card/name/奈芙提斯的轮回
 .. _`奈落的落穴`: https://ygocdb.com/card/name/奈落的落穴
+.. _`奋如恶魔迪亚贝尔`: https://ygocdb.com/card/name/奋如恶魔迪亚贝尔
 .. _`契约书`: https://ygocdb.com/?search=契约书
 .. _`契约遂行`: https://ygocdb.com/card/name/契约遂行
 .. _`奥义之魔导书`: https://ygocdb.com/card/name/奥义之魔导书
@@ -2496,6 +2497,7 @@
 .. _`怒怒怒斗笠剑士`: https://ygocdb.com/card/name/怒怒怒斗笠剑士
 .. _`怒气冲冲的队长`: https://ygocdb.com/card/name/怒气冲冲的队长
 .. _`怒炎坏兽 多哥兰`: https://ygocdb.com/card/name/怒炎坏兽%20多哥兰
+.. _`怠慢之壶`: https://ygocdb.com/card/name/怠慢之壶
 .. _`急兔马`: https://ygocdb.com/card/name/急兔马
 .. _`急袭猛禽`: https://ygocdb.com/?search=急袭猛禽
 .. _`急袭猛禽 究极猎鹰`: https://ygocdb.com/card/name/急袭猛禽%20究极猎鹰
@@ -3728,6 +3730,7 @@
 .. _`治安战警队 追溯者`: https://ygocdb.com/card/name/治安战警队%20追溯者
 .. _`治安战警队 黑夜杀伐者`: https://ygocdb.com/card/name/治安战警队%20黑夜杀伐者
 .. _`治安战警队世界整列`: https://ygocdb.com/card/name/治安战警队世界整列
+.. _`治安战警队起源`: https://ygocdb.com/card/name/治安战警队起源
 .. _`治安战警队追缉`: https://ygocdb.com/card/name/治安战警队追缉
 .. _`沼地的泥龙王`: https://ygocdb.com/card/name/沼地的泥龙王
 .. _`沼地的魔神王`: https://ygocdb.com/card/name/沼地的魔神王
