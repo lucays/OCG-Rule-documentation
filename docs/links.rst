@@ -327,6 +327,7 @@
 .. _`业火之结界像`: https://ygocdb.com/card/name/业火之结界像
 .. _`东方龙`: https://ygocdb.com/card/name/东方龙
 .. _`两件套工具D&C`: https://ygocdb.com/card/name/两件套工具D&C
+.. _`两颗心灵`: https://ygocdb.com/card/name/两颗心灵
 .. _`严格的老魔术师`: https://ygocdb.com/card/name/严格的老魔术师
 .. _`个人欺骗攻击`: https://ygocdb.com/card/name/个人欺骗攻击
 .. _`中型盾守卫者`: https://ygocdb.com/card/name/中型盾守卫者
@@ -357,6 +358,7 @@
 .. _`二重烧蚀`: https://ygocdb.com/card/name/二重烧蚀
 .. _`二重电光`: https://ygocdb.com/card/name/二重电光
 .. _`二重英雄攻击`: https://ygocdb.com/card/name/二重英雄攻击
+.. _`二重陷阱`: https://ygocdb.com/card/name/二重陷阱
 .. _`二重魔术臂束缚`: https://ygocdb.com/card/name/二重魔术臂束缚
 .. _`二重魔法`: https://ygocdb.com/card/name/二重魔法
 .. _`于贝尔`: https://ygocdb.com/?search=于贝尔
@@ -603,6 +605,7 @@
 .. _`先手必掌`: https://ygocdb.com/card/name/先手必掌
 .. _`光与暗之龙`: https://ygocdb.com/card/name/光与暗之龙
 .. _`光与暗之龙王`: https://ygocdb.com/card/name/光与暗之龙王
+.. _`光与暗的仪式`: https://ygocdb.com/?search=光与暗的仪式
 .. _`光之创造神 哈拉克提`: https://ygocdb.com/card/name/光之创造神%20哈拉克提
 .. _`光之召集`: https://ygocdb.com/card/name/光之召集
 .. _`光之回弹`: https://ygocdb.com/card/name/光之回弹
@@ -712,6 +715,7 @@
 .. _`六武众之理`: https://ygocdb.com/card/name/六武众之理
 .. _`六武众的师范`: https://ygocdb.com/card/name/六武众的师范
 .. _`六武众的影忍术`: https://ygocdb.com/card/name/六武众的影忍术
+.. _`六武众的影武者`: https://ygocdb.com/card/name/六武众的影武者
 .. _`六武众的御灵代`: https://ygocdb.com/card/name/六武众的御灵代
 .. _`六武众的真影`: https://ygocdb.com/card/name/六武众的真影
 .. _`六武式真传天魔六段冲`: https://ygocdb.com/card/name/六武式真传天魔六段冲
@@ -3925,6 +3929,7 @@
 .. _`混沌炸裂`: https://ygocdb.com/card/name/混沌炸裂
 .. _`混沌猎人`: https://ygocdb.com/card/name/混沌猎人
 .. _`混沌的使者`: https://ygocdb.com/card/name/混沌的使者
+.. _`混沌礼帽`: https://ygocdb.com/card/name/混沌礼帽
 .. _`混沌终结`: https://ygocdb.com/card/name/混沌终结
 .. _`混沌终结支配者-开辟与终焉的支配者-`: https://ygocdb.com/card/name/混沌终结支配者-开辟与终焉的支配者-
 .. _`混沌落穴`: https://ygocdb.com/card/name/混沌落穴
@@ -6068,6 +6073,8 @@
 .. _`雷电娘娘`: https://ygocdb.com/card/name/雷电娘娘
 .. _`雷电手`: https://ygocdb.com/card/name/雷电手
 .. _`雷电龙-雷龙`: https://ygocdb.com/card/name/雷电龙-雷龙
+.. _`雷盟-交流发电机`: https://ygocdb.com/card/name/雷盟-交流发电机
+.. _`雷盟-可断开式`: https://ygocdb.com/card/name/雷盟-可断开式
 .. _`雷破`: https://ygocdb.com/card/name/雷破
 .. _`雷神龙-雷龙`: https://ygocdb.com/card/name/雷神龙-雷龙
 .. _`雷霆之魔军神`: https://ygocdb.com/card/name/雷霆之魔军神
