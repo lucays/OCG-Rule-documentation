@@ -516,5 +516,5 @@
 -------
 
 | 数据库：
-| 不能把「`混沌礼帽`_」效果特殊召唤的里侧守备表示的卡回到手卡来发动「`两颗心灵`_」②效果。发动「`两颗心灵`_」②效果之际，作为cost必须把我方怪兽区域表侧表示存在的等级7以上怪兽回到手卡。\ `26/4/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24325&keyword=&tag=-1&request_locale=ja>`__
-| 「`混沌礼帽`_」效果特殊召唤的卡变成表侧表示后，可以把那张卡回到手卡来发动「`两颗心灵`_」②效果。这个场合，无视召唤条件特殊召唤卡名和回到手卡的卡不同的，记述了「`光与暗的仪式`_」卡名的怪兽。\ `26/4/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24325&keyword=&tag=-1&request_locale=ja>`__
+| 不能让「`混沌礼帽`_」效果特殊召唤的里侧守备表示的卡回到手卡来发动「`两颗心灵`_」②效果。发动「`两颗心灵`_」②效果之际，作为cost必须让我方怪兽区域表侧表示存在的等级7以上怪兽回到手卡。\ `26/4/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24325&keyword=&tag=-1&request_locale=ja>`__
+| 「`混沌礼帽`_」效果特殊召唤的卡变成表侧表示后，可以让那张卡回到手卡来发动「`两颗心灵`_」②效果。这个场合，无视召唤条件特殊召唤卡名和回到手卡的卡不同的，记述了「`光与暗的仪式`_」卡名的怪兽。\ `26/4/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24325&keyword=&tag=-1&request_locale=ja>`__
