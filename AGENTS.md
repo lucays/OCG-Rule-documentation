@@ -47,6 +47,7 @@ This repository is a Yu-Gi-Oh! OCG ruling documentation project. Agents working 
 - Match the existing FAQ prose in `docs/c06/*.rst`.
 - When the Japanese text contrasts `自分` and `相手`, translate `自分` as `我方`.
 - `テキスト通り処理を行います` should be rendered as `正常适用`, not `按文本处理`.
+- For returning cards to a location, prefer `让...回到某个场所` instead of `把...返回某个场所`.
 - Keep ruling prose concise and declarative. Avoid adding explanation not present in the source.
 - If effect text is quoted with `『』`, nested `「」` or `《》` inside that quoted effect text must **not** be wrapped with `` ` `` and `_`.
 - Outside quoted effect text, card names should continue to use the repository's normal RST markup such as `「\`卡名\`_」`.
@@ -70,4 +71,5 @@ This repository is a Yu-Gi-Oh! OCG ruling documentation project. Agents working 
 - Card names match project usage.
 - `我方/对方` wording is consistent.
 - `正常适用` is used where the source says to process according to text.
+- Returning cards to a location uses `让...回到某个场所` wording, not `把...返回某个场所`.
 - Nested quoted effect text does not contain inappropriate card markup.
