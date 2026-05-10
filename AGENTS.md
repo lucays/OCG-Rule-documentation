@@ -48,7 +48,9 @@ This repository is a Yu-Gi-Oh! OCG ruling documentation project. Agents working 
 - When the Japanese text contrasts `自分` and `相手`, translate `自分` as `我方`.
 - `テキスト通り処理を行います` should be rendered as `正常适用`, not `按文本处理`.
 - For returning cards to a location, prefer `让...回到某个场所` instead of `把...返回某个场所`.
+- If the official/mail answer only says to discuss with the opponent or proceed by judge decision instead of giving a ruling, summarize the pending question and mark it with ``\ :ref:`调整中`\ 。`` rather than translating the customer-service wording.
 - Keep ruling prose concise and declarative. Avoid adding explanation not present in the source.
+- If effect text is quoted with `『』`, do not freely translate the Japanese text. Identify the card whose effect text is being quoted, look it up in the external `D:\codes\ygocdb-data\cards.json`, and use the corresponding Chinese effect text from `text.desc` / `text.pdesc` as the source for the quoted wording.
 - If effect text is quoted with `『』`, nested `「」` or `《》` inside that quoted effect text must **not** be wrapped with `` ` `` and `_`.
 - Outside quoted effect text, card names should continue to use the repository's normal RST markup such as `「\`卡名\`_」`.
 
@@ -72,4 +74,6 @@ This repository is a Yu-Gi-Oh! OCG ruling documentation project. Agents working 
 - `我方/对方` wording is consistent.
 - `正常适用` is used where the source says to process according to text.
 - Returning cards to a location uses `让...回到某个场所` wording, not `把...返回某个场所`.
+- Non-ruling customer-service answers are condensed to `调整中` wording.
+- Quoted `『』` effect text is based on the matching card's Chinese `text.desc` / `text.pdesc` from the external `cards.json`.
 - Nested quoted effect text does not contain inappropriate card markup.
