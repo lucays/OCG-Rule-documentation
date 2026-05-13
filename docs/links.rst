@@ -604,6 +604,7 @@
 .. _`先史遗产-金字塔眼板`: https://ygocdb.com/card/name/先史遗产-金字塔眼板
 .. _`先史遗产石纹`: https://ygocdb.com/card/name/先史遗产石纹
 .. _`先手必掌`: https://ygocdb.com/card/name/先手必掌
+.. _`光与暗之战士 混沌战士`: https://ygocdb.com/card/name/光与暗之战士%20混沌战士
 .. _`光与暗之龙`: https://ygocdb.com/card/name/光与暗之龙
 .. _`光与暗之龙王`: https://ygocdb.com/card/name/光与暗之龙王
 .. _`光与暗的仪式`: https://ygocdb.com/?search=光与暗的仪式
@@ -1315,6 +1316,7 @@
 .. _`告天子龙 百灵`: https://ygocdb.com/card/name/告天子龙%20百灵
 .. _`告知幸运的白鸮`: https://ygocdb.com/card/name/告知幸运的白鸮
 .. _`员工餐的食谱`: https://ygocdb.com/card/name/员工餐的食谱
+.. _`呜呼的落穴`: https://ygocdb.com/card/name/呜呼的落穴
 .. _`味美☆味美☆味美喵`: https://ygocdb.com/card/name/味美☆味美☆味美喵
 .. _`味美喵`: https://ygocdb.com/?search=味美喵
 .. _`味美喵★点心抓取猫`: https://ygocdb.com/card/name/味美喵★点心抓取猫
@@ -3105,13 +3107,18 @@
 .. _`星辉士 夏三角`: https://ygocdb.com/card/name/星辉士%20夏三角
 .. _`星辉士 星圣冬钻龙`: https://ygocdb.com/card/name/星辉士%20星圣冬钻龙
 .. _`星辰`: https://ygocdb.com/?search=星辰
+.. _`星辰响手 金牛魔`: https://ygocdb.com/card/name/星辰响手%20金牛魔
+.. _`星辰枪手 巨蟹魔`: https://ygocdb.com/card/name/星辰枪手%20巨蟹魔
 .. _`星辰法宫 狮子宝瓶龙魔`: https://ygocdb.com/card/name/星辰法宫%20狮子宝瓶龙魔
+.. _`星辰炮手 宝瓶魔`: https://ygocdb.com/card/name/星辰炮手%20宝瓶魔
 .. _`星辰爪龙 巨蟹摩羯龙魔`: https://ygocdb.com/card/name/星辰爪龙%20巨蟹摩羯龙魔
 .. _`星辰的刺毒`: https://ygocdb.com/card/name/星辰的刺毒
 .. _`星辰的吼炎`: https://ygocdb.com/card/name/星辰的吼炎
 .. _`星辰的裂角`: https://ygocdb.com/card/name/星辰的裂角
 .. _`星辰铗龙 天蝎金牛龙魔`: https://ygocdb.com/card/name/星辰铗龙%20天蝎金牛龙魔
+.. _`星辰龙 天蝎龙`: https://ygocdb.com/card/name/星辰龙%20天蝎龙
 .. _`星辰龙 摩羯龙`: https://ygocdb.com/card/name/星辰龙%20摩羯龙
+.. _`星辰龙 狮子龙`: https://ygocdb.com/card/name/星辰龙%20狮子龙
 .. _`星逢的天河`: https://ygocdb.com/card/name/星逢的天河
 .. _`星遗物`: https://ygocdb.com/?search=星遗物
 .. _`星遗物-『星冠』`: https://ygocdb.com/card/name/星遗物-『星冠』
@@ -3796,6 +3803,7 @@
 .. _`流离的狮鹫骑手`: https://ygocdb.com/card/name/流离的狮鹫骑手
 .. _`浆果魔术少女`: https://ygocdb.com/card/name/浆果魔术少女
 .. _`浑然的斗牛诗-俄耳甫斯金公牛`: https://ygocdb.com/card/name/浑然的斗牛诗-俄耳甫斯金公牛
+.. _`浪涌雷盟兵`: https://ygocdb.com/card/name/浪涌雷盟兵
 .. _`浮上`: https://ygocdb.com/card/name/浮上
 .. _`浮世绘朋克 娑乐斋`: https://ygocdb.com/card/name/浮世绘朋克%20娑乐斋
 .. _`浮幽樱`: https://ygocdb.com/card/name/浮幽樱
@@ -5563,6 +5571,7 @@
 .. _`超越死线`: https://ygocdb.com/card/name/超越死线
 .. _`超越融合`: https://ygocdb.com/card/name/超越融合
 .. _`超进化之茧`: https://ygocdb.com/card/name/超进化之茧
+.. _`超逸融合`: https://ygocdb.com/card/name/超逸融合
 .. _`超重剑圣 武藏-C`: https://ygocdb.com/card/name/超重剑圣%20武藏-C
 .. _`超重力网`: https://ygocdb.com/card/name/超重力网
 .. _`超重型炮塔列车 古斯塔夫最大炮`: https://ygocdb.com/card/name/超重型炮塔列车%20古斯塔夫最大炮
@@ -6589,6 +6598,7 @@
 .. _`黑羽-魔风之玻瑞阿斯`: https://ygocdb.com/card/name/黑羽-魔风之玻瑞阿斯
 .. _`黑翼音速`: https://ygocdb.com/card/name/黑翼音速
 .. _`黑翼龙`: https://ygocdb.com/?search=黑翼龙
+.. _`黑色混沌之魔术师 黑混沌`: https://ygocdb.com/card/name/黑色混沌之魔术师%20黑混沌
 .. _`黑色花园`: https://ygocdb.com/card/name/黑色花园
 .. _`黑色魔族-狮子男巫`: https://ygocdb.com/card/name/黑色魔族-狮子男巫
 .. _`黑色魔术师-黑魔术师`: https://ygocdb.com/card/name/黑色魔术师-黑魔术师
