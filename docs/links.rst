@@ -3287,6 +3287,7 @@
 .. _`月光舞狮子神姬`: https://ygocdb.com/card/name/月光舞狮子神姬
 .. _`月光舞猫姬`: https://ygocdb.com/card/name/月光舞猫姬
 .. _`月光舞蹈会`: https://ygocdb.com/card/name/月光舞蹈会
+.. _`月光苍猫`: https://ygocdb.com/card/name/月光苍猫
 .. _`月光轮回舞踊`: https://ygocdb.com/card/name/月光轮回舞踊
 .. _`月光银狗`: https://ygocdb.com/card/name/月光银狗
 .. _`月光黄鼬`: https://ygocdb.com/card/name/月光黄鼬
@@ -3600,6 +3601,7 @@
 .. _`死之信息「E」`: https://ygocdb.com/card/name/死之信息「E」
 .. _`死之信息「H」`: https://ygocdb.com/card/name/死之信息「H」
 .. _`死之信息「T」`: https://ygocdb.com/card/name/死之信息「T」
+.. _`死之信息『H』`: https://ygocdb.com/card/name/死之信息『H』
 .. _`死之卡组破坏病毒`: https://ygocdb.com/card/name/死之卡组破坏病毒
 .. _`死之合唱`: https://ygocdb.com/card/name/死之合唱
 .. _`死之四星瓢虫`: https://ygocdb.com/card/name/死之四星瓢虫
@@ -4267,6 +4269,7 @@
 .. _`狱火机·路西弗格`: https://ygocdb.com/card/name/狱火机·路西弗格
 .. _`狱火机十进管`: https://ygocdb.com/card/name/狱火机十进管
 .. _`狱火班西`: https://ygocdb.com/card/name/狱火班西
+.. _`狱神`: https://ygocdb.com/?search=狱神
 .. _`狱神影兽-涅瓦红化兽`: https://ygocdb.com/card/name/狱神影兽-涅瓦红化兽
 .. _`猎卡死神`: https://ygocdb.com/card/name/猎卡死神
 .. _`猎龙`: https://ygocdb.com/card/name/猎龙
@@ -4891,6 +4894,7 @@
 .. _`稀有金属骑士`: https://ygocdb.com/card/name/稀有金属骑士
 .. _`稀有金属龙`: https://ygocdb.com/card/name/稀有金属龙
 .. _`稀炼装勇士·铋巫`: https://ygocdb.com/card/name/稀炼装勇士·铋巫
+.. _`稚绿忍者`: https://ygocdb.com/card/name/稚绿忍者
 .. _`究极·背水之阵`: https://ygocdb.com/card/name/究极·背水之阵
 .. _`究极传导恐兽`: https://ygocdb.com/card/name/究极传导恐兽
 .. _`究极体 秘异三变联体`: https://ygocdb.com/card/name/究极体%20秘异三变联体
