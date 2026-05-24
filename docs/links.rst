@@ -185,6 +185,7 @@
 .. _`PSY骨架驱动者`: https://ygocdb.com/card/name/PSY骨架驱动者
 .. _`R・R・R`: https://ygocdb.com/card/name/R・R・R
 .. _`S：P小夜`: https://ygocdb.com/card/name/S：P小夜
+.. _`S：P小夜骑士`: https://ygocdb.com/card/name/S：P小夜骑士
 .. _`TG-SX1`: https://ygocdb.com/card/name/TG-SX1
 .. _`TG1-EM1`: https://ygocdb.com/card/name/TG1-EM1
 .. _`TGX1-HL`: https://ygocdb.com/card/name/TGX1-HL
@@ -865,6 +866,7 @@
 .. _`凶导的白骑士`: https://ygocdb.com/card/name/凶导的白骑士
 .. _`凶导的福音`: https://ygocdb.com/card/name/凶导的福音
 .. _`凶导的葬列`: https://ygocdb.com/card/name/凶导的葬列
+.. _`凶暴化之假面`: https://ygocdb.com/card/name/凶暴化之假面
 .. _`凶邪魔玩具 梦魇玛丽`: https://ygocdb.com/card/name/凶邪魔玩具%20梦魇玛丽
 .. _`凶饿毒捕食融合龙`: https://ygocdb.com/card/name/凶饿毒捕食融合龙
 .. _`凶饿毒融合龙`: https://ygocdb.com/card/name/凶饿毒融合龙
@@ -1611,6 +1613,7 @@
 .. _`大和神`: https://ygocdb.com/card/name/大和神
 .. _`大圣剑博物馆`: https://ygocdb.com/card/name/大圣剑博物馆
 .. _`大地力量`: https://ygocdb.com/card/name/大地力量
+.. _`大地震`: https://ygocdb.com/card/name/大地震
 .. _`大天使 克里斯提亚`: https://ygocdb.com/card/name/大天使%20克里斯提亚
 .. _`大宇宙`: https://ygocdb.com/card/name/大宇宙
 .. _`大寒波`: https://ygocdb.com/card/name/大寒波
@@ -3756,6 +3759,7 @@
 .. _`治安战警队 引力微子`: https://ygocdb.com/card/name/治安战警队%20引力微子
 .. _`治安战警队 样本`: https://ygocdb.com/card/name/治安战警队%20样本
 .. _`治安战警队 正名者`: https://ygocdb.com/card/name/治安战警队%20正名者
+.. _`治安战警队 莫名者`: https://ygocdb.com/card/name/治安战警队%20莫名者
 .. _`治安战警队 追溯者`: https://ygocdb.com/card/name/治安战警队%20追溯者
 .. _`治安战警队 黑夜杀伐者`: https://ygocdb.com/card/name/治安战警队%20黑夜杀伐者
 .. _`治安战警队世界整列`: https://ygocdb.com/card/name/治安战警队世界整列
@@ -5015,6 +5019,7 @@
 .. _`红莲升龙`: https://ygocdb.com/card/name/红莲升龙
 .. _`红莲屏障`: https://ygocdb.com/card/name/红莲屏障
 .. _`红莲新星`: https://ygocdb.com/card/name/红莲新星
+.. _`红莲王 炎罪`: https://ygocdb.com/card/name/红莲王%20炎罪
 .. _`红莲蔷薇龙`: https://ygocdb.com/card/name/红莲蔷薇龙
 .. _`红莲霸权`: https://ygocdb.com/card/name/红莲霸权
 .. _`红莲魔兽 塔·伊沙`: https://ygocdb.com/card/name/红莲魔兽%20塔·伊沙
