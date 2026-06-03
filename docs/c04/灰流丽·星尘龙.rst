@@ -74,6 +74,7 @@
 | 「`大宇宙`_」的②效果适用中，发动「`愚蠢的埋葬`_」的场合，仍然可以连锁发动「`灰流丽`_」的①效果。\ `17/3/24 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20543&keyword=&tag=-1>`__
 | 对方「`古代的进军`_」等『这张卡发动的回合，自己不能把卡盖放』文本适用的状况，对方发动「`三战之号`_」时，我方仍然可以连锁发动「`纠罪巧γ'-欺瞒“exapatisIA”`_」的②效果。\ `26/1/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24265&keyword=&tag=-1&request_locale=ja>`__
 | 「`女神薇儿丹蒂的引导`_」的②效果发动时，不管宣言的卡的种类是什么，这都是包含把怪兽特殊召唤的效果，可以连锁发动「`珠泪哀歌族·鲁莎卡人鱼`_」的②效果。\ `22/7/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23806&keyword=&tag=-1&request_locale=ja>`__
+| 「`破械冥官 神丛`_」的①效果发动时，不论作为对象的卡是否包含怪兽卡，即使只以表侧表示的魔法·陷阱卡为对象发动，或只以里侧表示卡为对象发动，也可以连锁发动「`圣王的粉碎`_」或「`灰流丽`_」的效果。「`双天的调伏`_」的场合也一样，不论作为对象的卡的种类如何，都可以连锁发动这些效果。\ `26/5/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23050&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 即使包含的『○○』效果不是在发动的连锁块立即处理，也能对应。
    | 例：
