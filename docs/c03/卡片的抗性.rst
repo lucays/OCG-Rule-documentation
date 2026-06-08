@@ -374,10 +374,11 @@
 
 -  | 『作为代替把○○卡破坏』的效果适用，要让『○○卡』被破坏时，如果还存在可以代替『○○卡』破坏的效果，必须适用的效果会适用，可选适用的效果不能适用。
    | 例：
-   | 装备着「`A-突击核`_」等会强制代替破坏的怪兽可以被「`代理龙`_」的效果选。之后由「`A-突击核`_」等代替破坏，连接端的那只怪兽不破坏。
+   | 「`代理龙`_」的效果选出怪兽来代替破坏时，不会再适用「`复活的福音`_」等可选的代替破坏效果。\ `17/6/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13693&keyword=&tag=-1&request_locale=ja>`__
    | 我方「`破械焰魔天 阎摩`_」被战斗·效果破坏之际适用②效果，选择对方的「`卡通世界`_」作为代替破坏的卡的场合，对方不能适用墓地「`卡通书签`_」的『自己场上的「`卡通世界`_」被效果破坏的场合，可以作为代替把墓地的这张卡除外』效果。\ `26/5/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13693&keyword=&tag=-1&request_locale=ja>`__
    | 我方「`破械焰魔天 阎摩`_」被战斗·效果破坏之际适用②效果，选择对方的「`破械焰魔天 阎摩`_」作为代替破坏的卡的场合，对方不能适用那只「`破械焰魔天 阎摩`_」②效果，对方的「`破械焰魔天 阎摩`_」被破坏。「`代理龙`_」的效果适用的场合也一样。\ `26/5/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24336&keyword=&tag=-1&request_locale=ja>`__
-   | 「`代理龙`_」的效果选出怪兽来代替破坏时，不会再适用「`复活的福音`_」等可选的代替破坏效果。\ `17/6/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13693&keyword=&tag=-1&request_locale=ja>`__
+   | 我方「`破械焰魔天 阎摩`_」②效果适用之际选择装备了「`六武众的御灵代`_」的怪兽的场合，适用「`六武众的御灵代`_」的代替破坏效果，破坏「`六武众的御灵代`_」。同类『装备怪兽被破坏的场合，作为代替破坏自身』效果也一样。\ `26/6/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24343&keyword=&tag=-1&request_locale=ja>`__
+   | 我方「`破械焰魔天 阎摩`_」②效果适用之际选择持有X素材的「`转生炎兽 烈焰龙`_」的场合，也适用其『这张卡被战斗·效果破坏的场合，作为代替把这张卡1个X素材取除』效果，因此包含「`转生炎兽 烈焰龙`_」在内，任何卡都不会被破坏。\ `26/6/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24343&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 同1时点双方都要适用代替破坏的效果时，回合玩家的先适用，之后非回合玩家持有这类效果的卡已经不在场上存在的场合，不适用。
    | 例：

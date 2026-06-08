@@ -420,6 +420,9 @@
 
 -  | 自己通过「`灰篮鹰`_」\ `24/9/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16310&keyword=&tag=-1&request_locale=ja>`__ 「`大逮捕`_」\ `24/9/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11049&keyword=&tag=-1&request_locale=ja>`__ 等\ :ref:`持续取对象`\ 的效果等夺取了对方怪兽的控制权后，变成里侧的场合，不再是那些效果的对象，那些效果不再适用，那只怪兽回到对方场上。
    | 在被一时除外后，那只怪兽返回自己场上的时点立即再回到对方场上。
+   | 例：
+   | 发动「`大逮捕`_」的同1组连锁上发动的效果让对象怪兽变成里侧守备表示的场合，以保持里侧守备表示的状态获得那只怪兽的控制权。『那只怪兽在自己场上存在的场合，不能攻击，不能发动效果』效果也适用，之后那只里侧守备表示怪兽变成表侧表示的场合，仍不能攻击，也不能发动效果。\ `26/6/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11049&keyword=&tag=-1&request_locale=ja>`__
+   | 通过「`大逮捕`_」效果获得控制权的怪兽之后变成里侧守备表示的场合，那只怪兽不再作为「`大逮捕`_」的对象，控制权回到对方。『那只怪兽在自己场上存在的场合，不能攻击，不能发动效果』效果的适用也消失，可以攻击和发动效果。此外，「`大逮捕`_」以表侧表示留在魔法·陷阱卡区域，『那只怪兽从场上离开时这张卡破坏』处理也不再适用。\ `26/6/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11049&keyword=&tag=-1&request_locale=ja>`__
 
 | 无论是暂时还是永久转移控制权的效果，怪兽被一时除外的场合，除外后是原本持有者的怪兽。原本持有者可以发动「`暗次元之解放`_」等效果将其特殊召唤。特殊召唤的场合一时除外的效果不再存在。
 | 例：

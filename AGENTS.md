@@ -47,12 +47,22 @@ This repository is a Yu-Gi-Oh! OCG ruling documentation project. Agents working 
 - Match the existing FAQ prose in `docs/c06/*.rst`.
 - When the Japanese text contrasts `自分` and `相手`, translate `自分` as `我方`.
 - `テキスト通り処理を行います` should be rendered as `正常适用`, not `按文本处理`.
+- `一時的に除外` should be rendered as `一时除外`, not `暂时除外`.
 - For returning cards to a location, prefer `让...回到某个场所` instead of `把...返回某个场所`.
 - If the official/mail answer only says to discuss with the opponent or proceed by judge decision instead of giving a ruling, summarize the pending question and mark it with ``\ :ref:`调整中`\ 。`` rather than translating the customer-service wording.
 - Keep ruling prose concise and declarative. Avoid adding explanation not present in the source.
 - If effect text is quoted with `『』`, do not freely translate the Japanese text. Identify the card whose effect text is being quoted, look it up in the external `D:\codes\ygocdb-data\cards.json`, and use the corresponding Chinese effect text from `text.desc` / `text.pdesc` as the source for the quoted wording.
 - If effect text is quoted with `『』`, nested `「」` or `《》` inside that quoted effect text must **not** be wrapped with `` ` `` and `_`.
 - Outside quoted effect text, card names should continue to use the repository's normal RST markup such as `「\`卡名\`_」`.
+
+## RST entry format
+
+Each FAQ entry in `docs/c06/*.rst` must follow these formatting rules:
+
+- Each ruling is a standalone `| ` line. No Q&A structure (no `Q.` / `A.`).
+- When the Japanese source has `(A)`/`(B)`/`(C)` sub-questions, translate each as a separate `| ` line without the labels. Do not repeat the question; just state the scenario and the ruling declaratively.
+- Multiple entries under the same source label (e.g. `| 数据库：`) are separate `| ` lines. Each line is self-contained.
+- New card names referenced via `「\`卡名\`_」` must have a matching entry in `docs/links.rst` for the RST reference to resolve. Add it alphabetically using the format ``.. _`卡名`: https://ygocdb.com/card/name/卡名``.
 
 ## Historical FAQ reconciliation
 
@@ -77,3 +87,5 @@ This repository is a Yu-Gi-Oh! OCG ruling documentation project. Agents working 
 - Non-ruling customer-service answers are condensed to `调整中` wording.
 - Quoted `『』` effect text is based on the matching card's Chinese `text.desc` / `text.pdesc` from the external `cards.json`.
 - Nested quoted effect text does not contain inappropriate card markup.
+- Each entry is a standalone `| ` line with no Q&A structure or sub-question labels.
+- New card names referenced via `「\`卡名\`_」` have matching entries in `docs/links.rst`.
