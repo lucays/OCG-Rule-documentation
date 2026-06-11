@@ -1075,8 +1075,10 @@
 .. _`卡通书签`: https://ygocdb.com/card/name/卡通书签
 .. _`卡通人鱼`: https://ygocdb.com/card/name/卡通人鱼
 .. _`卡通假面魔道士`: https://ygocdb.com/card/name/卡通假面魔道士
+.. _`卡通加农炮兵`: https://ygocdb.com/card/name/卡通加农炮兵
 .. _`卡通双生精灵`: https://ygocdb.com/card/name/卡通双生精灵
 .. _`卡通古代的机械巨人`: https://ygocdb.com/card/name/卡通古代的机械巨人
+.. _`卡通哥布林突击部队`: https://ygocdb.com/card/name/卡通哥布林突击部队
 .. _`卡通左轮手枪龙`: https://ygocdb.com/card/name/卡通左轮手枪龙
 .. _`卡通恐怖`: https://ygocdb.com/card/name/卡通恐怖
 .. _`卡通恶魔`: https://ygocdb.com/card/name/卡通恶魔
@@ -2435,7 +2437,6 @@
 .. _`影依蜥蜴`: https://ygocdb.com/card/name/影依蜥蜴
 .. _`影依融合`: https://ygocdb.com/card/name/影依融合
 .. _`影依龙`: https://ygocdb.com/card/name/影依龙
-.. _`影子潜伏者`: https://ygocdb.com/card/name/影子潜伏者
 .. _`影帽子`: https://ygocdb.com/card/name/影帽子
 .. _`影星轨道兵器 着陆九头蛇`: https://ygocdb.com/card/name/影星轨道兵器%20着陆九头蛇
 .. _`影武者狸衍生物`: https://ygocdb.com/?search=影武者狸衍生物
@@ -5332,6 +5333,7 @@
 .. _`落大穴`: https://ygocdb.com/card/name/落大穴
 .. _`落消之方块游戏家`: https://ygocdb.com/card/name/落消之方块游戏家
 .. _`落穴`: https://ygocdb.com/?search=落穴
+.. _`落胤与圣女`: https://ygocdb.com/card/name/落胤与圣女
 .. _`落魂`: https://ygocdb.com/card/name/落魂
 .. _`落魂衍生物`: https://ygocdb.com/?search=落魂衍生物
 .. _`蒂奥之虫惑魔`: https://ygocdb.com/card/name/蒂奥之虫惑魔

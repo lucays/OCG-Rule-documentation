@@ -60,7 +60,9 @@ This repository is a Yu-Gi-Oh! OCG ruling documentation project. Agents working 
 Each FAQ entry in `docs/c06/*.rst` must follow these formatting rules:
 
 - Each ruling is a standalone `| ` line. No Q&A structure (no `Q.` / `A.`).
+- Never use question marks or interrogative phrasing (e.g. `可以...吗？`) inside a ruling line. Answers must be stated declaratively (e.g. `不能连锁发动` instead of `可以连锁发动吗？都不能发动。`).
 - When the Japanese source has `(A)`/`(B)`/`(C)` sub-questions, translate each as a separate `| ` line without the labels. Do not repeat the question; just state the scenario and the ruling declaratively.
+- When listing multiple card names in a ruling, separate them with `、` (e.g. `「`卡名A`_」、「`卡名B`_」④、「`卡名C`_」③`).
 - Multiple entries under the same source label (e.g. `| 数据库：`) are separate `| ` lines. Each line is self-contained.
 - New card names referenced via `「\`卡名\`_」` must have a matching entry in `docs/links.rst` for the RST reference to resolve. Add it alphabetically using the format ``.. _`卡名`: https://ygocdb.com/card/name/卡名``.
 
@@ -88,4 +90,6 @@ Each FAQ entry in `docs/c06/*.rst` must follow these formatting rules:
 - Quoted `『』` effect text is based on the matching card's Chinese `text.desc` / `text.pdesc` from the external `cards.json`.
 - Nested quoted effect text does not contain inappropriate card markup.
 - Each entry is a standalone `| ` line with no Q&A structure or sub-question labels.
+- No question marks or interrogative phrasing in ruling lines.
+- Multiple card names listed in a ruling are separated by `、`.
 - New card names referenced via `「\`卡名\`_」` have matching entries in `docs/links.rst`.
