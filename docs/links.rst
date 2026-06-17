@@ -471,6 +471,7 @@
 .. _`休息一回`: https://ygocdb.com/card/name/休息一回
 .. _`休战增援`: https://ygocdb.com/card/name/休战增援
 .. _`优丽的灵镜`: https://ygocdb.com/card/name/优丽的灵镜
+.. _`优丽的灵镜姬`: https://ygocdb.com/card/name/优丽的灵镜姬
 .. _`伟人庇护战车骑士`: https://ygocdb.com/card/name/伟人庇护战车骑士
 .. _`伟大之魂`: https://ygocdb.com/card/name/伟大之魂
 .. _`传承的大御巫`: https://ygocdb.com/card/name/传承的大御巫
@@ -709,6 +710,7 @@
 .. _`八云断巳剑`: https://ygocdb.com/card/name/八云断巳剑
 .. _`八尺勾玉`: https://ygocdb.com/card/name/八尺勾玉
 .. _`八汰镜`: https://ygocdb.com/card/name/八汰镜
+.. _`八雷天神`: https://ygocdb.com/card/name/八雷天神
 .. _`公爵恶魔`: https://ygocdb.com/card/name/公爵恶魔
 .. _`六世坏根清净`: https://ygocdb.com/card/name/六世坏根清净
 .. _`六武众`: https://ygocdb.com/?search=六武众
@@ -890,6 +892,7 @@
 .. _`刚鬼 双人夹击猪`: https://ygocdb.com/card/name/刚鬼%20双人夹击猪
 .. _`刚鬼 固定眼镜蛇`: https://ygocdb.com/card/name/刚鬼%20固定眼镜蛇
 .. _`刚鬼 大巨人食人魔`: https://ygocdb.com/card/name/刚鬼%20大巨人食人魔
+.. _`刚鬼 巨人食人魔`: https://ygocdb.com/card/name/刚鬼%20巨人食人魔
 .. _`刚鬼 暴君食人魔`: https://ygocdb.com/card/name/刚鬼%20暴君食人魔
 .. _`刚鬼 毁灭食人魔`: https://ygocdb.com/card/name/刚鬼%20毁灭食人魔
 .. _`刚鬼 硬铠食人魔`: https://ygocdb.com/card/name/刚鬼%20硬铠食人魔
@@ -3415,6 +3418,7 @@
 .. _`机皇神 机录∞`: https://ygocdb.com/card/name/机皇神%20机录∞
 .. _`机皇神龙 三曲枝`: https://ygocdb.com/card/name/机皇神龙%20三曲枝
 .. _`机皇统制`: https://ygocdb.com/card/name/机皇统制
+.. _`机雷化的栗子球`: https://ygocdb.com/card/name/机雷化的栗子球
 .. _`机龙生成器`: https://ygocdb.com/card/name/机龙生成器
 .. _`机龙衍生物`: https://ygocdb.com/?search=机龙衍生物
 .. _`杀人蛇`: https://ygocdb.com/card/name/杀人蛇
@@ -3446,6 +3450,7 @@
 .. _`来自黑暗的呼声`: https://ygocdb.com/card/name/来自黑暗的呼声
 .. _`杯满的灿幻庄`: https://ygocdb.com/card/name/杯满的灿幻庄
 .. _`杰作拼图`: https://ygocdb.com/card/name/杰作拼图
+.. _`杰拉`: https://ygocdb.com/card/name/杰拉
 .. _`杰拉的天使`: https://ygocdb.com/card/name/杰拉的天使
 .. _`极光仙·阿诣罗`: https://ygocdb.com/card/name/极光仙·阿诣罗
 .. _`极天气 川绿`: https://ygocdb.com/card/name/极天气%20川绿
@@ -4634,6 +4639,7 @@
 .. _`真之光`: https://ygocdb.com/card/name/真之光
 .. _`真六武众-瑞穂`: https://ygocdb.com/card/name/真六武众-瑞穂
 .. _`真六武众-竹刀`: https://ygocdb.com/card/name/真六武众-竹刀
+.. _`真六武众-紫炎`: https://ygocdb.com/card/name/真六武众-紫炎
 .. _`真六武众-辉斩`: https://ygocdb.com/card/name/真六武众-辉斩
 .. _`真六武众-阴鬼`: https://ygocdb.com/card/name/真六武众-阴鬼
 .. _`真化护法 主教`: https://ygocdb.com/card/name/真化护法%20主教
@@ -4682,6 +4688,7 @@
 .. _`真艾克佐迪亚`: https://ygocdb.com/card/name/真艾克佐迪亚
 .. _`真血公 吸血鬼`: https://ygocdb.com/card/name/真血公%20吸血鬼
 .. _`真青眼究极龙`: https://ygocdb.com/card/name/真青眼究极龙
+.. _`真魔六武众-紫炎`: https://ygocdb.com/card/name/真魔六武众-紫炎
 .. _`真魔兽 加泽特`: https://ygocdb.com/card/name/真魔兽%20加泽特
 .. _`真龙`: https://ygocdb.com/?search=真龙
 .. _`真龙凰的使徒`: https://ygocdb.com/card/name/真龙凰的使徒
@@ -4746,7 +4753,7 @@
 .. _`破戒蛮龙-破坏龙`: https://ygocdb.com/card/name/破戒蛮龙-破坏龙
 .. _`破械`: https://ygocdb.com/?search=破械
 .. _`破械习合`: https://ygocdb.com/card/name/破械习合
-.. _`破械冥官 神丛`: https://ygocdb.com/card/name/破械冥官%20神丛
+.. _`破械冥官 篁`: https://ygocdb.com/card/name/破械冥官%20篁
 .. _`破械双极`: https://ygocdb.com/card/name/破械双极
 .. _`破械双王神 来迎`: https://ygocdb.com/card/name/破械双王神%20来迎
 .. _`破械式鬼 斯玛`: https://ygocdb.com/card/name/破械式鬼%20斯玛
@@ -5624,6 +5631,7 @@
 .. _`超重力网`: https://ygocdb.com/card/name/超重力网
 .. _`超重型炮塔列车 古斯塔夫最大炮`: https://ygocdb.com/card/name/超重型炮塔列车%20古斯塔夫最大炮
 .. _`超重型炮塔列车 破天巨爱`: https://ygocdb.com/card/name/超重型炮塔列车%20破天巨爱
+.. _`超重天神 益荒男-O`: https://ygocdb.com/card/name/超重天神%20益荒男-O
 .. _`超重忍者 忍足-A·C`: https://ygocdb.com/card/name/超重忍者%20忍足-A·C
 .. _`超重机回送`: https://ygocdb.com/card/name/超重机回送
 .. _`超重武者 兜-10`: https://ygocdb.com/card/name/超重武者%20兜-10
@@ -5757,6 +5765,7 @@
 .. _`进化之茧`: https://ygocdb.com/card/name/进化之茧
 .. _`进化光焰`: https://ygocdb.com/card/name/进化光焰
 .. _`进化合兽 二氧鬼神`: https://ygocdb.com/card/name/进化合兽%20二氧鬼神
+.. _`进化合兽 水蛇龙`: https://ygocdb.com/card/name/进化合兽%20水蛇龙
 .. _`进化帝·半鸟龙`: https://ygocdb.com/card/name/进化帝·半鸟龙
 .. _`进化帝·黎明神龙翼龙`: https://ygocdb.com/card/name/进化帝·黎明神龙翼龙
 .. _`进化的人类`: https://ygocdb.com/card/name/进化的人类
