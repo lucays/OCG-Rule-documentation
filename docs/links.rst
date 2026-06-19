@@ -142,6 +142,7 @@
 .. _`No.66 霸键甲虫`: https://ygocdb.com/card/name/No.66%20霸键甲虫
 .. _`No.67 平行骰子天堂锤手`: https://ygocdb.com/card/name/No.67%20平行骰子天堂锤手
 .. _`No.68 魔天牢 桑达尔丰`: https://ygocdb.com/card/name/No.68%20魔天牢%20桑达尔丰
+.. _`No.69 纹章神`: https://ygocdb.com/card/name/No.69%20纹章神
 .. _`No.69 纹章神 盾徽`: https://ygocdb.com/card/name/No.69%20纹章神%20盾徽
 .. _`No.69 纹章神 盾徽-神之愤怒`: https://ygocdb.com/card/name/No.69%20纹章神%20盾徽-神之愤怒
 .. _`No.7 幸运条纹人`: https://ygocdb.com/card/name/No.7%20幸运条纹人
@@ -555,6 +556,8 @@
 .. _`僵尸男孩`: https://ygocdb.com/card/name/僵尸男孩
 .. _`儚无水木`: https://ygocdb.com/card/name/儚无水木
 .. _`元素灵剑士·日炙`: https://ygocdb.com/card/name/元素灵剑士·日炙
+.. _`元素灵剑士·波涛`: https://ygocdb.com/card/name/元素灵剑士·波涛
+.. _`元素灵剑士·电光`: https://ygocdb.com/card/name/元素灵剑士·电光
 .. _`元素灵剑士·辟地`: https://ygocdb.com/card/name/元素灵剑士·辟地
 .. _`元素灵剑士·随风`: https://ygocdb.com/card/name/元素灵剑士·随风
 .. _`元素英雄`: https://ygocdb.com/?search=元素英雄
@@ -922,6 +925,7 @@
 .. _`刻魔的咏圣`: https://ygocdb.com/card/name/刻魔的咏圣
 .. _`刻魔的神圣棺`: https://ygocdb.com/card/name/刻魔的神圣棺
 .. _`削命的宝札`: https://ygocdb.com/card/name/削命的宝札
+.. _`削短枪管龙`: https://ygocdb.com/card/name/削短枪管龙
 .. _`削魂的死灵`: https://ygocdb.com/card/name/削魂的死灵
 .. _`前托枪管龙`: https://ygocdb.com/card/name/前托枪管龙
 .. _`剑之指挥`: https://ygocdb.com/card/name/剑之指挥
@@ -1623,6 +1627,7 @@
 .. _`夜龙巫妖`: https://ygocdb.com/card/name/夜龙巫妖
 .. _`夢魔鏡`: https://ygocdb.com/?search=夢魔鏡
 .. _`大傩主水`: https://ygocdb.com/card/name/大傩主水
+.. _`大凛魔天使 蔷薇仙`: https://ygocdb.com/card/name/大凛魔天使%20蔷薇仙
 .. _`大君主之圣像骑士`: https://ygocdb.com/card/name/大君主之圣像骑士
 .. _`大和神`: https://ygocdb.com/card/name/大和神
 .. _`大圣剑博物馆`: https://ygocdb.com/card/name/大圣剑博物馆
@@ -1779,6 +1784,7 @@
 .. _`奥金魔导师`: https://ygocdb.com/card/name/奥金魔导师
 .. _`奥金魔术师/爆裂体`: https://ygocdb.com/card/name/奥金魔术师%2F爆裂体
 .. _`女巫特露德`: https://ygocdb.com/card/name/女巫特露德
+.. _`女忍战士`: https://ygocdb.com/card/name/女忍战士
 .. _`女武神`: https://ygocdb.com/?search=女武神
 .. _`女武神 希格露恩`: https://ygocdb.com/card/name/女武神%20希格露恩
 .. _`女武神·布伦希尔德`: https://ygocdb.com/card/name/女武神·布伦希尔德
@@ -1835,6 +1841,7 @@
 .. _`始祖龙 古龙`: https://ygocdb.com/card/name/始祖龙%20古龙
 .. _`威光魔人`: https://ygocdb.com/card/name/威光魔人
 .. _`威吓之咆哮`: https://ygocdb.com/card/name/威吓之咆哮
+.. _`威胁武装龙`: https://ygocdb.com/card/name/威胁武装龙
 .. _`威胁的人造人-念力震慑者`: https://ygocdb.com/card/name/威胁的人造人-念力震慑者
 .. _`威迫矿石-迫选召唤石`: https://ygocdb.com/card/name/威迫矿石-迫选召唤石
 .. _`威风妖怪`: https://ygocdb.com/?search=威风妖怪
@@ -3961,6 +3968,7 @@
 .. _`混沌之召唤神`: https://ygocdb.com/card/name/混沌之召唤神
 .. _`混沌之幻想魔术师`: https://ygocdb.com/card/name/混沌之幻想魔术师
 .. _`混沌之战士 混沌战士`: https://ygocdb.com/card/name/混沌之战士%20混沌战士
+.. _`混沌之魔导`: https://ygocdb.com/card/name/混沌之魔导
 .. _`混沌之魔术师`: https://ygocdb.com/card/name/混沌之魔术师
 .. _`混沌之魔术箱`: https://ygocdb.com/card/name/混沌之魔术箱
 .. _`混沌之魔神`: https://ygocdb.com/card/name/混沌之魔神
@@ -4083,6 +4091,7 @@
 .. _`灰姑娘`: https://ygocdb.com/card/name/灰姑娘
 .. _`灰尘王 灰划`: https://ygocdb.com/card/name/灰尘王%20灰划
 .. _`灰流丽`: https://ygocdb.com/card/name/灰流丽
+.. _`灰灭都的咒术师`: https://ygocdb.com/card/name/灰灭都的咒术师
 .. _`灰烬龙 落胤龙`: https://ygocdb.com/card/name/灰烬龙%20落胤龙
 .. _`灰篮`: https://ygocdb.com/?search=灰篮
 .. _`灰篮史莱姆`: https://ygocdb.com/card/name/灰篮史莱姆
@@ -4766,6 +4775,7 @@
 .. _`破械童子 娑罗摩`: https://ygocdb.com/card/name/破械童子%20娑罗摩
 .. _`破械童子 罗鬼刹`: https://ygocdb.com/card/name/破械童子%20罗鬼刹
 .. _`破械童子 阿罗汉`: https://ygocdb.com/card/name/破械童子%20阿罗汉
+.. _`破械转生`: https://ygocdb.com/card/name/破械转生
 .. _`破洞露蒂亚之虫惑魔`: https://ygocdb.com/card/name/破洞露蒂亚之虫惑魔
 .. _`破灭与终焉之支配者`: https://ygocdb.com/card/name/破灭与终焉之支配者
 .. _`破灭之天使 露茵`: https://ygocdb.com/card/name/破灭之天使%20露茵
@@ -5024,6 +5034,7 @@
 .. _`精灵狩人`: https://ygocdb.com/card/name/精灵狩人
 .. _`精灵的世界`: https://ygocdb.com/card/name/精灵的世界
 .. _`精灵的祝福`: https://ygocdb.com/card/name/精灵的祝福
+.. _`精灵龙`: https://ygocdb.com/card/name/精灵龙
 .. _`精确防御`: https://ygocdb.com/card/name/精确防御
 .. _`精神寄生体`: https://ygocdb.com/card/name/精神寄生体
 .. _`精神探寻者`: https://ygocdb.com/card/name/精神探寻者
@@ -5142,6 +5153,7 @@
 .. _`绝火之龙神 巴赫拉姆`: https://ygocdb.com/card/name/绝火之龙神%20巴赫拉姆
 .. _`绝神鸟 斯摩夫`: https://ygocdb.com/card/name/绝神鸟%20斯摩夫
 .. _`统合秘异三变联体`: https://ygocdb.com/card/name/统合秘异三变联体
+.. _`维舍斯-阿修特罗德`: https://ygocdb.com/card/name/维舍斯-阿修特罗德
 .. _`维萨斯-斯塔弗罗斯特`: https://ygocdb.com/card/name/维萨斯-斯塔弗罗斯特
 .. _`维萨斯-阿密哩多罗`: https://ygocdb.com/card/name/维萨斯-阿密哩多罗
 .. _`绿光之宣告者`: https://ygocdb.com/card/name/绿光之宣告者
@@ -5358,6 +5370,7 @@
 .. _`蓟花之罪`: https://ygocdb.com/card/name/蓟花之罪
 .. _`蔷薇之公主`: https://ygocdb.com/card/name/蔷薇之公主
 .. _`蔷薇刻印`: https://ygocdb.com/card/name/蔷薇刻印
+.. _`蔷薇占术师`: https://ygocdb.com/card/name/蔷薇占术师
 .. _`蔷薇少女`: https://ygocdb.com/card/name/蔷薇少女
 .. _`蔷薇恋人`: https://ygocdb.com/card/name/蔷薇恋人
 .. _`蔷薇藤蔓`: https://ygocdb.com/card/name/蔷薇藤蔓
@@ -5517,6 +5530,7 @@
 .. _`诅咒之吸血鬼`: https://ygocdb.com/card/name/诅咒之吸血鬼
 .. _`诅咒之龙`: https://ygocdb.com/card/name/诅咒之龙
 .. _`诅咒人偶 妮可罗菲娅`: https://ygocdb.com/card/name/诅咒人偶%20妮可罗菲娅
+.. _`识无边世坏`: https://ygocdb.com/card/name/识无边世坏
 .. _`试号闪刀姬-天津`: https://ygocdb.com/card/name/试号闪刀姬-天津
 .. _`试胆竞速`: https://ygocdb.com/card/name/试胆竞速
 .. _`诡计恶魔`: https://ygocdb.com/card/name/诡计恶魔
@@ -5966,6 +5980,7 @@
 .. _`银河光子龙`: https://ygocdb.com/card/name/银河光子龙
 .. _`银河剑圣`: https://ygocdb.com/card/name/银河剑圣
 .. _`银河卫龙`: https://ygocdb.com/card/name/银河卫龙
+.. _`银河女王之光`: https://ygocdb.com/card/name/银河女王之光
 .. _`银河旋风`: https://ygocdb.com/card/name/银河旋风
 .. _`银河栗子球`: https://ygocdb.com/card/name/银河栗子球
 .. _`银河海蛇`: https://ygocdb.com/card/name/银河海蛇
@@ -6552,6 +6567,7 @@
 .. _`魔神仪-蜡烛人偶`: https://ygocdb.com/card/name/魔神仪-蜡烛人偶
 .. _`魔神仪的创造主-创造祭台`: https://ygocdb.com/card/name/魔神仪的创造主-创造祭台
 .. _`魔神仪的祝诞`: https://ygocdb.com/card/name/魔神仪的祝诞
+.. _`魔神王的契约书`: https://ygocdb.com/card/name/魔神王的契约书
 .. _`魔神王的禁断契约书`: https://ygocdb.com/card/name/魔神王的禁断契约书
 .. _`魔装战士 龙天`: https://ygocdb.com/card/name/魔装战士%20龙天
 .. _`魔轰神`: https://ygocdb.com/?search=魔轰神
@@ -6614,9 +6630,11 @@
 .. _`黄金乡的征服者`: https://ygocdb.com/card/name/黄金乡的征服者
 .. _`黄金乡的盗墓者`: https://ygocdb.com/card/name/黄金乡的盗墓者
 .. _`黄金卿 黄金国巫妖`: https://ygocdb.com/card/name/黄金卿%20黄金国巫妖
+.. _`黄金柜的守卫`: https://ygocdb.com/card/name/黄金柜的守卫
 .. _`黄金狂 黄金国巫妖`: https://ygocdb.com/card/name/黄金狂%20黄金国巫妖
 .. _`黄金瓢虫`: https://ygocdb.com/card/name/黄金瓢虫
 .. _`黄金荣耀-开启引擎`: https://ygocdb.com/card/name/黄金荣耀-开启引擎
+.. _`黄金荣耀-弹球手`: https://ygocdb.com/card/name/黄金荣耀-弹球手
 .. _`黄金荣耀-氮氧爆破手`: https://ygocdb.com/card/name/黄金荣耀-氮氧爆破手
 .. _`黄金荣耀-灭杀者`: https://ygocdb.com/card/name/黄金荣耀-灭杀者
 .. _`黎明之堕天使 路西法`: https://ygocdb.com/card/name/黎明之堕天使%20路西法
