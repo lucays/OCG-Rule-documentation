@@ -549,6 +549,7 @@
 .. _`健忘`: https://ygocdb.com/card/name/健忘
 .. _`健美操妖精Ξ`: https://ygocdb.com/card/name/健美操妖精Ξ
 .. _`傀儡流仪-傀儡鲨`: https://ygocdb.com/card/name/傀儡流仪-傀儡鲨
+.. _`傅科魔炮石`: https://ygocdb.com/card/name/傅科魔炮石
 .. _`催眠术`: https://ygocdb.com/card/name/催眠术
 .. _`僵尸之主`: https://ygocdb.com/card/name/僵尸之主
 .. _`僵尸带菌者`: https://ygocdb.com/card/name/僵尸带菌者
@@ -4114,6 +4115,7 @@
 .. _`灵摆区`: https://ygocdb.com/card/name/灵摆区
 .. _`灵摆吊坠`: https://ygocdb.com/card/name/灵摆吊坠
 .. _`灵摆呼唤`: https://ygocdb.com/card/name/灵摆呼唤
+.. _`灵摆回归`: https://ygocdb.com/card/name/灵摆回归
 .. _`灵摆多福鸟`: https://ygocdb.com/card/name/灵摆多福鸟
 .. _`灵摆悖论`: https://ygocdb.com/card/name/灵摆悖论
 .. _`灵摆显现`: https://ygocdb.com/card/name/灵摆显现

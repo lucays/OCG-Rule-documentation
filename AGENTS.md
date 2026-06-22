@@ -49,6 +49,7 @@ This repository is a Yu-Gi-Oh! OCG ruling documentation project. Agents working 
 - `テキスト通り処理を行います` should be rendered as `正常适用`, not `按文本处理`.
 - `一時的に除外` should be rendered as `一时除外`, not `暂时除外`.
 - For returning cards to a location, prefer `让...回到某个场所` instead of `把...返回某个场所`.
+- When translating effect costs, use `cost` directly (e.g. `作为cost送去墓地`) instead of translating to `成本`.
 - If the official/mail answer only says to discuss with the opponent or proceed by judge decision instead of giving a ruling, summarize the pending question and mark it with ``\ :ref:`调整中`\ 。`` rather than translating the customer-service wording.
 - Keep ruling prose concise and declarative. Avoid adding explanation not present in the source.
 - If effect text is quoted with `『』`, do not freely translate the Japanese text. Identify the card whose effect text is being quoted, look it up in the external `D:\codes\ygocdb-data\cards.json`, and use the corresponding Chinese effect text from `text.desc` / `text.pdesc` as the source for the quoted wording.
