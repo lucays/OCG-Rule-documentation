@@ -73,6 +73,8 @@
 .. _`F.A.`: https://ygocdb.com/?search=F.A.
 .. _`FNo.0 未来皇 霍普`: https://ygocdb.com/card/name/FNo.0%20未来皇%20霍普
 .. _`FNo.0 未来龙皇 霍普`: https://ygocdb.com/card/name/FNo.0%20未来龙皇%20霍普
+.. _`GMX-完美复合霸王龙`: https://ygocdb.com/card/name/GMX-完美复合霸王龙
+.. _`GMX应用试验55号`: https://ygocdb.com/card/name/GMX应用试验55号
 .. _`GO-DDD 神零王 零神·零儿`: https://ygocdb.com/card/name/GO-DDD%20神零王%20零神·零儿
 .. _`G·B·猎人`: https://ygocdb.com/card/name/G·B·猎人
 .. _`H-火热之心`: https://ygocdb.com/card/name/H-火热之心
@@ -469,6 +471,7 @@
 .. _`伊奘凪`: https://ygocdb.com/card/name/伊奘凪
 .. _`伊奘波`: https://ygocdb.com/card/name/伊奘波
 .. _`伍世坏-喜悦世界`: https://ygocdb.com/card/name/伍世坏-喜悦世界
+.. _`伍世坏净心`: https://ygocdb.com/card/name/伍世坏净心
 .. _`休息一回`: https://ygocdb.com/card/name/休息一回
 .. _`休战增援`: https://ygocdb.com/card/name/休战增援
 .. _`优丽的灵镜`: https://ygocdb.com/card/name/优丽的灵镜
@@ -1260,6 +1263,7 @@
 .. _`召唤神 艾克佐迪亚`: https://ygocdb.com/card/name/召唤神%20艾克佐迪亚
 .. _`召唤过度`: https://ygocdb.com/card/name/召唤过度
 .. _`召唤连锁`: https://ygocdb.com/card/name/召唤连锁
+.. _`召唤限制-不协和扇区`: https://ygocdb.com/card/name/召唤限制-不协和扇区
 .. _`召唤限制-力量过滤器`: https://ygocdb.com/card/name/召唤限制-力量过滤器
 .. _`召唤限制器`: https://ygocdb.com/card/name/召唤限制器
 .. _`召唤魔术`: https://ygocdb.com/card/name/召唤魔术
@@ -1766,6 +1770,7 @@
 .. _`奇迹之魔术门`: https://ygocdb.com/card/name/奇迹之魔术门
 .. _`奇迹同调融合`: https://ygocdb.com/card/name/奇迹同调融合
 .. _`奇迹接触`: https://ygocdb.com/card/name/奇迹接触
+.. _`奇迹的供物`: https://ygocdb.com/card/name/奇迹的供物
 .. _`奇迹融合`: https://ygocdb.com/card/name/奇迹融合
 .. _`奇迹除外士`: https://ygocdb.com/card/name/奇迹除外士
 .. _`奇采之普鲁菲尼斯`: https://ygocdb.com/card/name/奇采之普鲁菲尼斯
@@ -1776,6 +1781,10 @@
 .. _`奈芙提斯的轮回`: https://ygocdb.com/card/name/奈芙提斯的轮回
 .. _`奈落的落穴`: https://ygocdb.com/card/name/奈落的落穴
 .. _`奋如恶魔迪亚贝尔`: https://ygocdb.com/card/name/奋如恶魔迪亚贝尔
+.. _`奏悦机组 牧羊人权杖`: https://ygocdb.com/card/name/奏悦机组%20牧羊人权杖
+.. _`奏悦机组 筑工切割机`: https://ygocdb.com/card/name/奏悦机组%20筑工切割机
+.. _`奏悦机组 筑工钻机`: https://ygocdb.com/card/name/奏悦机组%20筑工钻机
+.. _`奏悦机组 舞台登场`: https://ygocdb.com/card/name/奏悦机组%20舞台登场
 .. _`契约书`: https://ygocdb.com/?search=契约书
 .. _`契约遂行`: https://ygocdb.com/card/name/契约遂行
 .. _`奥义之魔导书`: https://ygocdb.com/card/name/奥义之魔导书
@@ -2422,6 +2431,7 @@
 .. _`强者的苦痛`: https://ygocdb.com/card/name/强者的苦痛
 .. _`强袭同调士`: https://ygocdb.com/card/name/强袭同调士
 .. _`强袭黑羽-丛云之草薙剑鸟`: https://ygocdb.com/card/name/强袭黑羽-丛云之草薙剑鸟
+.. _`强袭黑羽-五月雨之骚速刀鸟`: https://ygocdb.com/card/name/强袭黑羽-五月雨之骚速刀鸟
 .. _`强袭黑羽-雾雨之苦无鸟`: https://ygocdb.com/card/name/强袭黑羽-雾雨之苦无鸟
 .. _`强袭黑羽-骤雨之雷切刀鸟`: https://ygocdb.com/card/name/强袭黑羽-骤雨之雷切刀鸟
 .. _`强韧！无敌！最强！`: https://ygocdb.com/card/name/强韧！无敌！最强！
@@ -2680,6 +2690,7 @@
 .. _`我我我魔术师`: https://ygocdb.com/card/name/我我我魔术师
 .. _`我我我魔术师-我我我魔导`: https://ygocdb.com/card/name/我我我魔术师-我我我魔导
 .. _`我身作盾`: https://ygocdb.com/card/name/我身作盾
+.. _`戒指的魔灵`: https://ygocdb.com/card/name/戒指的魔灵
 .. _`战华`: https://ygocdb.com/?search=战华
 .. _`战华之义-关云`: https://ygocdb.com/card/name/战华之义-关云
 .. _`战华之仲-孙谋`: https://ygocdb.com/card/name/战华之仲-孙谋
@@ -3433,6 +3444,7 @@
 .. _`杀手番茄`: https://ygocdb.com/card/name/杀手番茄
 .. _`杀手级调整曲`: https://ygocdb.com/?search=杀手级调整曲
 .. _`杀手级调整曲 B2B`: https://ygocdb.com/card/name/杀手级调整曲%20B2B
+.. _`杀手级调整曲·再混音手`: https://ygocdb.com/card/name/杀手级调整曲·再混音手
 .. _`杀手级调整曲·削波手`: https://ygocdb.com/card/name/杀手级调整曲·削波手
 .. _`杀手级调整曲·唱片师`: https://ygocdb.com/card/name/杀手级调整曲·唱片师
 .. _`杀手级调整曲·噼啪削波手`: https://ygocdb.com/card/name/杀手级调整曲·噼啪削波手
@@ -3674,6 +3686,8 @@
 .. _`死皇帝之陵墓`: https://ygocdb.com/card/name/死皇帝之陵墓
 .. _`死皇帝的陵墓`: https://ygocdb.com/card/name/死皇帝的陵墓
 .. _`死眼之传灵-普绪科蓬波斯`: https://ygocdb.com/card/name/死眼之传灵-普绪科蓬波斯
+.. _`死祖之隶龙 沃洛`: https://ygocdb.com/card/name/死祖之隶龙%20沃洛
+.. _`死翼之虎钳巨鹰`: https://ygocdb.com/card/name/死翼之虎钳巨鹰
 .. _`死者所生`: https://ygocdb.com/card/name/死者所生
 .. _`死者苏生`: https://ygocdb.com/card/name/死者苏生
 .. _`死者转生`: https://ygocdb.com/card/name/死者转生
@@ -3972,6 +3986,7 @@
 .. _`混沌之魔导`: https://ygocdb.com/card/name/混沌之魔导
 .. _`混沌之魔术师`: https://ygocdb.com/card/name/混沌之魔术师
 .. _`混沌之魔术箱`: https://ygocdb.com/card/name/混沌之魔术箱
+.. _`混沌之魔王-骸骨恶魔`: https://ygocdb.com/card/name/混沌之魔王-骸骨恶魔
 .. _`混沌之魔神`: https://ygocdb.com/card/name/混沌之魔神
 .. _`混沌之黑魔术师`: https://ygocdb.com/?search=混沌之黑魔术师
 .. _`混沌凤凰神 奈芙提斯`: https://ygocdb.com/card/name/混沌凤凰神%20奈芙提斯
@@ -4018,6 +4033,7 @@
 .. _`清透世界`: https://ygocdb.com/card/name/清透世界
 .. _`清透恶龙`: https://ygocdb.com/card/name/清透恶龙
 .. _`清闲的埋葬`: https://ygocdb.com/card/name/清闲的埋葬
+.. _`渊眼白龙`: https://ygocdb.com/card/name/渊眼白龙
 .. _`渊鲨`: https://ygocdb.com/card/name/渊鲨
 .. _`游乐设施`: https://ygocdb.com/?search=游乐设施
 .. _`游戏王 VRAINS`: https://ygocdb.com/card/name/游戏王%20VRAINS
@@ -5146,6 +5162,7 @@
 .. _`绝对的幻神兽`: https://ygocdb.com/card/name/绝对的幻神兽
 .. _`绝对防御将军`: https://ygocdb.com/card/name/绝对防御将军
 .. _`绝对魔法禁止区域`: https://ygocdb.com/card/name/绝对魔法禁止区域
+.. _`绝无的狱神界-比托利亚`: https://ygocdb.com/card/name/绝无的狱神界-比托利亚
 .. _`绝望与希望的逆转`: https://ygocdb.com/card/name/绝望与希望的逆转
 .. _`绝望天王星`: https://ygocdb.com/card/name/绝望天王星
 .. _`绝望神 安提霍普`: https://ygocdb.com/card/name/绝望神%20安提霍普
@@ -5839,6 +5856,7 @@
 .. _`造反剧`: https://ygocdb.com/card/name/造反剧
 .. _`逢华妖丽谭-魔妖不知火语`: https://ygocdb.com/card/name/逢华妖丽谭-魔妖不知火语
 .. _`逢魔之妖刀-不知火`: https://ygocdb.com/card/name/逢魔之妖刀-不知火
+.. _`遂进龙 丹宁`: https://ygocdb.com/card/name/遂进龙%20丹宁
 .. _`道化一座 双魔棍小丑`: https://ygocdb.com/card/name/道化一座%20双魔棍小丑
 .. _`道化一座 白脸小丑`: https://ygocdb.com/card/name/道化一座%20白脸小丑
 .. _`道化一座 空竹魔小丑`: https://ygocdb.com/card/name/道化一座%20空竹魔小丑
@@ -6495,6 +6513,7 @@
 .. _`魔术师`: https://ygocdb.com/?search=魔术师
 .. _`魔术师之杖`: https://ygocdb.com/card/name/魔术师之杖
 .. _`魔术师之袍`: https://ygocdb.com/card/name/魔术师之袍
+.. _`魔术师双魂`: https://ygocdb.com/card/name/魔术师双魂
 .. _`魔术师的右手`: https://ygocdb.com/card/name/魔术师的右手
 .. _`魔术师的导门阵`: https://ygocdb.com/card/name/魔术师的导门阵
 .. _`魔术师的左手`: https://ygocdb.com/card/name/魔术师的左手
