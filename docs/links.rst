@@ -1423,6 +1423,7 @@
 .. _`因幡之白兔`: https://ygocdb.com/card/name/因幡之白兔
 .. _`因果切断`: https://ygocdb.com/card/name/因果切断
 .. _`团结 UNITY`: https://ygocdb.com/card/name/团结%20UNITY
+.. _`团结与牵绊之魔导师`: https://ygocdb.com/card/name/团结与牵绊之魔导师
 .. _`团结之力`: https://ygocdb.com/card/name/团结之力
 .. _`团结的剑斗兽`: https://ygocdb.com/card/name/团结的剑斗兽
 .. _`围绕星遗物的战斗`: https://ygocdb.com/card/name/围绕星遗物的战斗
@@ -1470,6 +1471,7 @@
 .. _`圣炎王 大鹏不死鸟`: https://ygocdb.com/card/name/圣炎王%20大鹏不死鸟
 .. _`圣王的粉碎`: https://ygocdb.com/card/name/圣王的粉碎
 .. _`圣珖神龙 星尘·零`: https://ygocdb.com/card/name/圣珖神龙%20星尘·零
+.. _`圣神兽 塞勒凯特`: https://ygocdb.com/card/name/圣神兽%20塞勒凯特
 .. _`圣神蛇 阿匹卜`: https://ygocdb.com/card/name/圣神蛇%20阿匹卜
 .. _`圣种之地灵`: https://ygocdb.com/card/name/圣种之地灵
 .. _`圣种的地灵`: https://ygocdb.com/card/name/圣种的地灵
