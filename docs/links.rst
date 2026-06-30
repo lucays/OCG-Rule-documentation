@@ -1417,6 +1417,7 @@
 .. _`噬腐复仇死者`: https://ygocdb.com/card/name/噬腐复仇死者
 .. _`四兽层 摇晃乐师`: https://ygocdb.com/card/name/四兽层%20摇晃乐师
 .. _`四天之龙 异色眼灵摆龙`: https://ygocdb.com/card/name/四天之龙%20异色眼灵摆龙
+.. _`四花缭乱之灵使`: https://ygocdb.com/card/name/四花缭乱之灵使
 .. _`回生之铁丹尼拘律树`: https://ygocdb.com/card/name/回生之铁丹尼拘律树
 .. _`回转调车`: https://ygocdb.com/card/name/回转调车
 .. _`因士`: https://ygocdb.com/?search=因士
