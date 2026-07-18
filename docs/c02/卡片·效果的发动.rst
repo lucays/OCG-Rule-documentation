@@ -39,6 +39,7 @@
    | 「`DDD 双晓王 末法神`_」的『这张卡以外的场上的卡的效果不能发动并无效化』效果适用的回合，手卡的魔法·陷阱卡不是『场上的卡的效果』，可以发动，放置到场上进行卡的发动后，此时是『场上的卡的效果』，结果无效。（已经盖放在场上的魔法·陷阱卡不能发动）\ `16/11/26 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11994&request_locale=ja>`__
    | 「`GO-DDD 神零王 零神·零儿`_」的『●对方不能把魔法与陷阱区域的卡的效果发动』效果适用的回合，手卡的魔法·陷阱卡如「`无限泡影`_」等不是『场上的卡的效果』，可以发动，效果正常适用。\ `22/12/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23478&keyword=&tag=-1&request_locale=ja>`__
    | 「`GO-DDD 神零王 零神·零儿`_」的『●对方不能把手卡·墓地的卡的效果发动』效果适用的回合，手卡的魔法·陷阱卡如「`无限泡影`_」等不能放置到场上作卡的发动。\ `22/12/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21564&keyword=&tag=-1&request_locale=ja>`__
+   | 对方从手卡把「`颉颃胜负`_」以『自己场上没有卡存在的场合，这张卡的发动从手卡也能用』的方法发动的场合，不能连锁发动「`天下独步的大义贼`_」的①效果。对方从手卡把魔法·陷阱卡放置在场上并发动的状况，不属于『对方把手卡·墓地·除外状态的卡的效果发动时』。 \ `26/7/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24365&keyword=&tag=-1&request_locale=ja>`__
 
 | 卡的发动的顺序如下：
 | 1. 从手卡把魔法·陷阱卡表侧表示放到魔法·陷阱卡·场地·P区域，或把盖放的魔法·陷阱卡翻开成表侧表示
