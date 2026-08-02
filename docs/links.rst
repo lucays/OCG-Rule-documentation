@@ -149,6 +149,7 @@
 .. _`No.69 纹章神`: https://ygocdb.com/card/name/No.69%20纹章神
 .. _`No.69 纹章神 盾徽`: https://ygocdb.com/card/name/No.69%20纹章神%20盾徽
 .. _`No.69 纹章神 盾徽-神之愤怒`: https://ygocdb.com/card/name/No.69%20纹章神%20盾徽-神之愤怒
+.. _`No.69 纹章神 盾徽-神之粉碎`: https://ygocdb.com/card/name/No.69%20纹章神%20盾徽-神之粉碎
 .. _`No.7 幸运条纹人`: https://ygocdb.com/card/name/No.7%20幸运条纹人
 .. _`No.71 海异鲨`: https://ygocdb.com/card/name/No.71%20海异鲨
 .. _`No.73 激泷神 渊涛`: https://ygocdb.com/card/name/No.73%20激泷神%20渊涛
@@ -518,6 +519,7 @@
 .. _`佯动作战`: https://ygocdb.com/card/name/佯动作战
 .. _`使破坏剑的高手-破坏之剑士`: https://ygocdb.com/card/name/使破坏剑的高手-破坏之剑士
 .. _`使破坏剑的高手-破坏剑士`: https://ygocdb.com/card/name/使破坏剑的高手-破坏剑士
+.. _`依鬼之咒咆`: https://ygocdb.com/card/name/依鬼之咒咆
 .. _`侵入魔鬼`: https://ygocdb.com/?search=侵入魔鬼
 .. _`侵入魔鬼·威角`: https://ygocdb.com/card/name/侵入魔鬼·威角
 .. _`侵入魔鬼·巨角`: https://ygocdb.com/card/name/侵入魔鬼·巨角
@@ -842,9 +844,11 @@
 .. _`冰结界的依巫`: https://ygocdb.com/card/name/冰结界的依巫
 .. _`冰结界的军师`: https://ygocdb.com/card/name/冰结界的军师
 .. _`冰结界的净玻璃`: https://ygocdb.com/card/name/冰结界的净玻璃
+.. _`冰结界的大僧正`: https://ygocdb.com/card/name/冰结界的大僧正
 .. _`冰结界的封魔团`: https://ygocdb.com/card/name/冰结界的封魔团
 .. _`冰结界的术者`: https://ygocdb.com/card/name/冰结界的术者
 .. _`冰结界的照魔师`: https://ygocdb.com/card/name/冰结界的照魔师
+.. _`冰结界的破术师`: https://ygocdb.com/card/name/冰结界的破术师
 .. _`冰结界的虎将 莱蓬`: https://ygocdb.com/card/name/冰结界的虎将%20莱蓬
 .. _`冰结界的虎将 韦恩`: https://ygocdb.com/card/name/冰结界的虎将%20韦恩
 .. _`冰结界的虎王 雪虎`: https://ygocdb.com/card/name/冰结界的虎王%20雪虎
@@ -1165,6 +1169,7 @@
 .. _`反冲`: https://ygocdb.com/card/name/反冲
 .. _`反击准备`: https://ygocdb.com/card/name/反击准备
 .. _`反击的毒牙`: https://ygocdb.com/card/name/反击的毒牙
+.. _`反叛曲机器人放克码头`: https://ygocdb.com/card/name/反叛曲机器人放克码头
 .. _`反大革命`: https://ygocdb.com/card/name/反大革命
 .. _`反射之圣刻印`: https://ygocdb.com/card/name/反射之圣刻印
 .. _`反射镜力启动`: https://ygocdb.com/card/name/反射镜力启动
@@ -1494,7 +1499,10 @@
 .. _`圣精灵-圣爆裂疾风弹`: https://ygocdb.com/card/name/圣精灵-圣爆裂疾风弹
 .. _`圣菓使 考维曲天使`: https://ygocdb.com/card/name/圣菓使%20考维曲天使
 .. _`圣蓟花`: https://ygocdb.com/card/name/圣蓟花
+.. _`圣蔓之剑士`: https://ygocdb.com/card/name/圣蔓之剑士
+.. _`圣蔓之守护者`: https://ygocdb.com/card/name/圣蔓之守护者
 .. _`圣蔓之少女`: https://ygocdb.com/card/name/圣蔓之少女
+.. _`圣蔓之治愈者`: https://ygocdb.com/card/name/圣蔓之治愈者
 .. _`圣蛇的息吹`: https://ygocdb.com/card/name/圣蛇的息吹
 .. _`圣邪之彩色玻璃花窗`: https://ygocdb.com/card/name/圣邪之彩色玻璃花窗
 .. _`圣骑士`: https://ygocdb.com/?search=圣骑士
@@ -2810,6 +2818,8 @@
 .. _`护宝炮妖`: https://ygocdb.com/?search=护宝炮妖
 .. _`护宝炮妖·小火箭`: https://ygocdb.com/card/name/护宝炮妖·小火箭
 .. _`护宝炮妖·鱼雷`: https://ygocdb.com/card/name/护宝炮妖·鱼雷
+.. _`护宝炮妖中间介入`: https://ygocdb.com/card/name/护宝炮妖中间介入
+.. _`护宝炮妖战利品`: https://ygocdb.com/card/name/护宝炮妖战利品
 .. _`护宝炮妖爆破！`: https://ygocdb.com/card/name/护宝炮妖爆破！
 .. _`护宝炮妖船 喧闹探险者号`: https://ygocdb.com/card/name/护宝炮妖船%20喧闹探险者号
 .. _`护宝炮妖船长 尾宿五`: https://ygocdb.com/card/name/护宝炮妖船长%20尾宿五
@@ -4639,9 +4649,11 @@
 .. _`白色灵龙`: https://ygocdb.com/card/name/白色灵龙
 .. _`白蔷薇回廊`: https://ygocdb.com/card/name/白蔷薇回廊
 .. _`白金零件`: https://ygocdb.com/card/name/白金零件
+.. _`白银之城的召使 阿里亚娜`: https://ygocdb.com/card/name/白银之城的召使%20阿里亚娜
 .. _`白银之城的召使 阿里安娜`: https://ygocdb.com/card/name/白银之城的召使%20阿里安娜
 .. _`白银之城的执事 阿里亚斯`: https://ygocdb.com/card/name/白银之城的执事%20阿里亚斯
 .. _`白银之城的拉比林斯`: https://ygocdb.com/card/name/白银之城的拉比林斯
+.. _`白银之城的火吹炉`: https://ygocdb.com/card/name/白银之城的火吹炉
 .. _`白银之城的狂时钟`: https://ygocdb.com/card/name/白银之城的狂时钟
 .. _`白银之城的魔神像`: https://ygocdb.com/card/name/白银之城的魔神像
 .. _`白银之城的龙饰灯`: https://ygocdb.com/card/name/白银之城的龙饰灯
@@ -4763,6 +4775,7 @@
 .. _`真龙凰的使徒`: https://ygocdb.com/card/name/真龙凰的使徒
 .. _`真龙凰骑 玛丽亚姆内·悖论`: https://ygocdb.com/card/name/真龙凰骑%20玛丽亚姆内·悖论
 .. _`真龙剑皇 卓辉星·拼图`: https://ygocdb.com/card/name/真龙剑皇%20卓辉星·拼图
+.. _`真龙导士 威风凛·少女`: https://ygocdb.com/card/name/真龙导士%20威风凛·少女
 .. _`真龙战士 点火烈·炽热`: https://ygocdb.com/card/name/真龙战士%20点火烈·炽热
 .. _`真龙拳士 雾动轰·铁拳`: https://ygocdb.com/card/name/真龙拳士%20雾动轰·铁拳
 .. _`真龙机兵 十二炼机圣`: https://ygocdb.com/card/name/真龙机兵%20十二炼机圣
@@ -4775,6 +4788,7 @@
 .. _`真龙皇 法·王·兽`: https://ygocdb.com/card/name/真龙皇%20法·王·兽
 .. _`真龙皇 阿耆尼马兹德·消灭`: https://ygocdb.com/card/name/真龙皇%20阿耆尼马兹德·消灭
 .. _`真龙皇的复活`: https://ygocdb.com/card/name/真龙皇的复活
+.. _`真龙骑将 得律阿斯3世`: https://ygocdb.com/card/name/真龙骑将%20得律阿斯3世
 .. _`真龙魔王 卓辉星·拼图`: https://ygocdb.com/card/name/真龙魔王%20卓辉星·拼图
 .. _`眩月龙 塞勒格莱尔`: https://ygocdb.com/card/name/眩月龙%20塞勒格莱尔
 .. _`眼盯盯☆魔术辣妹`: https://ygocdb.com/card/name/眼盯盯☆魔术辣妹
@@ -4985,6 +4999,7 @@
 .. _`秘仪之力21-世界`: https://ygocdb.com/card/name/秘仪之力21-世界
 .. _`秘仪之力5-教皇`: https://ygocdb.com/card/name/秘仪之力5-教皇
 .. _`秘仪之力7-战车`: https://ygocdb.com/card/name/秘仪之力7-战车
+.. _`秘仪之力EX-光之支配者`: https://ygocdb.com/card/name/秘仪之力EX-光之支配者
 .. _`秘仪之力EX-暗之支配者`: https://ygocdb.com/card/name/秘仪之力EX-暗之支配者
 .. _`秘仪之力EX-混沌之支配者`: https://ygocdb.com/card/name/秘仪之力EX-混沌之支配者
 .. _`秘仪呼唤`: https://ygocdb.com/card/name/秘仪呼唤
@@ -5325,6 +5340,7 @@
 .. _`自然黄蜂针`: https://ygocdb.com/card/name/自然黄蜂针
 .. _`自爆开关`: https://ygocdb.com/card/name/自爆开关
 .. _`至爱接触`: https://ygocdb.com/card/name/至爱接触
+.. _`至钢之玉 红青玉`: https://ygocdb.com/card/name/至钢之玉%20红青玉
 .. _`舍利军贯`: https://ygocdb.com/?search=舍利军贯
 .. _`舍身的宝札`: https://ygocdb.com/card/name/舍身的宝札
 .. _`舔舔三舌犬`: https://ygocdb.com/card/name/舔舔三舌犬
@@ -5898,6 +5914,7 @@
 .. _`通行税`: https://ygocdb.com/card/name/通行税
 .. _`通贩卖员`: https://ygocdb.com/card/name/通贩卖员
 .. _`速射扳机`: https://ygocdb.com/card/name/速射扳机
+.. _`速攻召唤`: https://ygocdb.com/card/name/速攻召唤
 .. _`速攻同调士`: https://ygocdb.com/card/name/速攻同调士
 .. _`速攻稻草人`: https://ygocdb.com/card/name/速攻稻草人
 .. _`造反剧`: https://ygocdb.com/card/name/造反剧
@@ -5943,6 +5960,7 @@
 .. _`邪恶★双子轻松通关`: https://ygocdb.com/card/name/邪恶★双子轻松通关
 .. _`邪恶之棘`: https://ygocdb.com/card/name/邪恶之棘
 .. _`邪恶的仪式`: https://ygocdb.com/card/name/邪恶的仪式
+.. _`邪恶的魔王-佐克`: https://ygocdb.com/card/name/邪恶的魔王-佐克
 .. _`邪恶苏生`: https://ygocdb.com/card/name/邪恶苏生
 .. _`邪炎帝王 泰斯塔罗斯`: https://ygocdb.com/card/name/邪炎帝王%20泰斯塔罗斯
 .. _`邪王 特拉卡埃莱尔`: https://ygocdb.com/card/name/邪王%20特拉卡埃莱尔

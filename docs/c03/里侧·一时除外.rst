@@ -275,7 +275,7 @@
 | 『进行过战斗』的情报在变成里侧表示或被一时除外后都丢失。
 | 例：
 | 和「`电气啄木鸟`_」战斗过的怪兽变成里侧的场合，之后就可以改变表示形式了。被一时除外再反转的场合，也一样。
-| 战斗过的「`水晶龙`_」变成里侧再反转的场合，不能发动效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19715&keyword=&tag=-1&request_locale=ja>`__
+| 战斗过的「`水晶龙`_」变成里侧再反转的场合，不能发动效果。\ `19/2/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12692&request_locale=ja>`__
 
 | 战斗破坏了怪兽的情报在变成里侧后丢失，一时除外后不丢失。
 | 例：
