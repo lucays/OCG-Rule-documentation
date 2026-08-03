@@ -444,7 +444,7 @@
 | 「`No.39 希望皇 霍普·翻倍`_」的①效果特殊召唤的「`No.39 希望皇 霍普`_」X怪兽的效果无效的场合，攻击力仍然是2倍的数值，不会变回原本攻击力（因为不是自身的效果引起的攻击力变更）。\ `22/3/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23581&keyword=&tag=-1&request_locale=ja>`__
 | 「`机巧传-神使记纪图`_」的①效果处理时，「`古遗物-圣枪`_」的③效果等适用，不能把卡除外的场合，这个效果不适用，不会翻开卡组。\ `22/3/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23580&keyword=&tag=-1&request_locale=ja>`__
 | 「`死制棺 石棺`_」被对方不死族怪兽战斗破坏的场合，也可以发动①效果，得到那只对方怪兽的控制权，攻击力·守备力会变成0。\ `22/3/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23579&keyword=&tag=-1&request_locale=ja>`__
-| 「`命运英雄 钻石人`_」的①效果把「`源数网络`_」送去墓地后，下个自己回合的主要阶段要把「`源数网络`_」的①效果发动的场合，即使不是自己场上的表侧表示的「`混沌No.1 混沌源数门-空`_」被怪兽的效果破坏的回合，也能发动这个效果。\ `22/3/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23577&keyword=&tag=-1&request_locale=ja>`__
+| 「`命运英雄 钻石人`_」的①效果把「`源数混沌仪式`_」送去墓地后，下个自己回合的主要阶段要把「`源数混沌仪式`_」的①效果发动的场合，即使不是自己场上的表侧表示的「`混沌No.1 混沌源数门-空`_」被怪兽的效果破坏的回合，也能发动这个效果。\ `22/3/2 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23577&keyword=&tag=-1&request_locale=ja>`__
 
 3/3
 -------
