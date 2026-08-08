@@ -1206,6 +1206,7 @@
 .. _`古之叶`: https://ygocdb.com/card/name/古之叶
 .. _`古之咒文`: https://ygocdb.com/card/name/古之咒文
 .. _`古之森`: https://ygocdb.com/card/name/古之森
+.. _`古之秘仪`: https://ygocdb.com/card/name/古之秘仪
 .. _`古代妖精生命龙`: https://ygocdb.com/card/name/古代妖精生命龙
 .. _`古代妖精龙`: https://ygocdb.com/card/name/古代妖精龙
 .. _`古代的机械`: https://ygocdb.com/?search=古代的机械
@@ -1262,6 +1263,7 @@
 .. _`古遗物-雷神锤`: https://ygocdb.com/card/name/古遗物-雷神锤
 .. _`古遗物的神智`: https://ygocdb.com/card/name/古遗物的神智
 .. _`古遗物运动机构`: https://ygocdb.com/card/name/古遗物运动机构
+.. _`只要这张卡在魔法与陷阱区域存在，相同种族的怪兽在双方场上各自只能有1只表侧表示存在`: https://ygocdb.com/card/name/只要这张卡在魔法与陷阱区域存在，相同种族的怪兽在双方场上各自只能有1只表侧表示存在
 .. _`召命之神弓-阿波罗萨`: https://ygocdb.com/card/name/召命之神弓-阿波罗萨
 .. _`召唤之门`: https://ygocdb.com/card/name/召唤之门
 .. _`召唤僧`: https://ygocdb.com/card/name/召唤僧
@@ -1479,6 +1481,7 @@
 .. _`圣天树的幼精`: https://ygocdb.com/card/name/圣天树的幼精
 .. _`圣天树的开花`: https://ygocdb.com/card/name/圣天树的开花
 .. _`圣导骑士 伊什扎克`: https://ygocdb.com/card/name/圣导骑士%20伊什扎克
+.. _`圣心防护罩 -心灵之力-`: https://ygocdb.com/card/name/圣心防护罩%20-心灵之力-
 .. _`圣战士 混沌战士`: https://ygocdb.com/card/name/圣战士%20混沌战士
 .. _`圣杯情侣双A`: https://ygocdb.com/card/name/圣杯情侣双A
 .. _`圣殿的水遣`: https://ygocdb.com/card/name/圣殿的水遣
@@ -1573,6 +1576,7 @@
 .. _`地缚解放`: https://ygocdb.com/card/name/地缚解放
 .. _`地雷石人`: https://ygocdb.com/card/name/地雷石人
 .. _`地龙星-狴犴`: https://ygocdb.com/card/name/地龙星-狴犴
+.. _`场上的表侧表示怪兽变成机械族`: https://ygocdb.com/card/name/场上的表侧表示怪兽变成机械族
 .. _`场地防护罩`: https://ygocdb.com/card/name/场地防护罩
 .. _`均衡负载王`: https://ygocdb.com/card/name/均衡负载王
 .. _`坏兽`: https://ygocdb.com/?search=坏兽
@@ -2901,6 +2905,7 @@
 .. _`推荐捏军贯`: https://ygocdb.com/card/name/推荐捏军贯
 .. _`掷骰战斗`: https://ygocdb.com/card/name/掷骰战斗
 .. _`提示符叉角羚`: https://ygocdb.com/card/name/提示符叉角羚
+.. _`携手魔人`: https://ygocdb.com/card/name/携手魔人
 .. _`摇号机GO！GO！`: https://ygocdb.com/card/name/摇号机GO！GO！
 .. _`摇晃的目光`: https://ygocdb.com/card/name/摇晃的目光
 .. _`摩天一击`: https://ygocdb.com/card/name/摩天一击
@@ -3109,6 +3114,7 @@
 .. _`时空的落穴`: https://ygocdb.com/card/name/时空的落穴
 .. _`时空警察`: https://ygocdb.com/card/name/时空警察
 .. _`时空转生`: https://ygocdb.com/card/name/时空转生
+.. _`时空银河支配者`: https://ygocdb.com/card/name/时空银河支配者
 .. _`时空银河螺旋`: https://ygocdb.com/card/name/时空银河螺旋
 .. _`时花之贤者`: https://ygocdb.com/card/name/时花之贤者
 .. _`时读之魔术师`: https://ygocdb.com/card/name/时读之魔术师
@@ -5323,6 +5329,7 @@
 .. _`自奏圣乐的通天塔`: https://ygocdb.com/card/name/自奏圣乐的通天塔
 .. _`自奏圣乐的释音`: https://ygocdb.com/card/name/自奏圣乐的释音
 .. _`自尊的咆哮`: https://ygocdb.com/card/name/自尊的咆哮
+.. _`自己场上的魔法·陷阱卡的效果的发动以及那些发动的效果不会被无效化`: https://ygocdb.com/card/name/自己场上的魔法·陷阱卡的效果的发动以及那些发动的效果不会被无效化
 .. _`自然`: https://ygocdb.com/?search=自然
 .. _`自然之森`: https://ygocdb.com/card/name/自然之森
 .. _`自然兽`: https://ygocdb.com/card/name/自然兽
@@ -6773,6 +6780,7 @@
 .. _`黑羽-铠翼鸦`: https://ygocdb.com/card/name/黑羽-铠翼鸦
 .. _`黑羽-隐身蓑之斯蒂姆`: https://ygocdb.com/card/name/黑羽-隐身蓑之斯蒂姆
 .. _`黑羽-魔风之玻瑞阿斯`: https://ygocdb.com/card/name/黑羽-魔风之玻瑞阿斯
+.. _`黑翼强袭龙`: https://ygocdb.com/card/name/黑翼强袭龙
 .. _`黑翼音速`: https://ygocdb.com/card/name/黑翼音速
 .. _`黑翼龙`: https://ygocdb.com/?search=黑翼龙
 .. _`黑色混沌之魔术师 黑混沌`: https://ygocdb.com/card/name/黑色混沌之魔术师%20黑混沌

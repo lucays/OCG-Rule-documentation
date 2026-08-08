@@ -50,6 +50,8 @@ This repository is a Yu-Gi-Oh! OCG ruling documentation project. Agents working 
 - `一時的に除外` should be rendered as `一时除外`, not `暂时除外`.
 - For returning cards to a location, prefer `让...回到某个场所` instead of `把...返回某个场所`.
 - When translating effect costs, use `cost` directly (e.g. `作为cost送去墓地`) instead of translating to `成本`.
+- Do not use `该` in ruling prose. Render `この～` as `这个/这次/这只/这张` and `その～` as `那个/那次/那只/那张`, choosing the word that matches the referent (卡/效果/怪兽/场合 etc.).
+- When `同调`/`超量`/`连接` appear outside card names and quoted effect text, use `S`/`X`/`L` shorthand instead, e.g. `S怪兽`、`X素材`、`S召唤` or `S·X·L`. Inside card names and `『』` effect text, keep the full Chinese terms from the official card text.
 - If the official/mail answer only says to discuss with the opponent or proceed by judge decision instead of giving a ruling, summarize the pending question and mark it with ``\ :ref:`调整中`\ 。`` rather than translating the customer-service wording.
 - Keep ruling prose concise and declarative. Avoid adding explanation not present in the source.
 - If effect text is quoted with `『』`, do not freely translate the Japanese text. Identify the card whose effect text is being quoted, look it up in the external `D:\codes\ygocdb-data\cards.json`, and use the corresponding Chinese effect text from `text.desc` / `text.pdesc` as the source for the quoted wording.
@@ -62,7 +64,7 @@ Each FAQ entry in `docs/c06/*.rst` must follow these formatting rules:
 
 - Each ruling is a standalone `| ` line. No Q&A structure (no `Q.` / `A.`).
 - Never use question marks or interrogative phrasing (e.g. `可以...吗？`) inside a ruling line. Answers must be stated declaratively (e.g. `不能连锁发动` instead of `可以连锁发动吗？都不能发动。`).
-- When the Japanese source has `(A)`/`(B)`/`(C)` sub-questions, translate each as a separate `| ` line without the labels. Do not repeat the question; just state the scenario and the ruling declaratively.
+- When the Japanese source has `(A)`/`(B)`/`(C)` sub-questions, translate them together in a single `| ` line, separating each case with `；` (e.g. `（A）的情况...；这种情况...`). Do not split them into separate `| ` lines and do not repeat the whole question; just state each scenario and its ruling declaratively.
 - When listing multiple card names in a ruling, separate them with `、` (e.g. `「`卡名A`_」、「`卡名B`_」④、「`卡名C`_」③`).
 - Multiple entries under the same source label (e.g. `| 数据库：`) are separate `| ` lines. Each line is self-contained.
 - New card names referenced via `「\`卡名\`_」` must have a matching entry in `docs/links.rst` for the RST reference to resolve. Add it alphabetically using the format ``.. _`卡名`: https://ygocdb.com/card/name/卡名``.
@@ -91,6 +93,9 @@ Each FAQ entry in `docs/c06/*.rst` must follow these formatting rules:
 - Quoted `『』` effect text is based on the matching card's Chinese `text.desc` / `text.pdesc` from the external `cards.json`.
 - Nested quoted effect text does not contain inappropriate card markup.
 - Each entry is a standalone `| ` line with no Q&A structure or sub-question labels.
+- `(A)`/`(B)`/`(C)` multi-case QAs are combined into a single `| ` line separated by `；`, not split into separate lines.
 - No question marks or interrogative phrasing in ruling lines.
+- `该` is not used in ruling prose; referent pronouns use `这个/这次/这只/这张` or `那个/那次/那只/那张` matching the referent.
+- 同调/超量/连接 outside card names and `『』` effect text uses `S`/`X`/`L` shorthand.
 - Multiple card names listed in a ruling are separated by `、`.
 - New card names referenced via `「\`卡名\`_」` have matching entries in `docs/links.rst`.
