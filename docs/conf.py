@@ -83,7 +83,9 @@ html_logo = ".static/logo.webp"
 html_title = "OCG Rule"
 html_permalinks_icon = "¶"
 html_search_language = "zh"
-
+card_words_path = current_dir.parent.resolve() / 'card_words.txt'
+if card_words_path.exists():
+    html_search_options = {'dict': str(card_words_path)}
 html_use_opensearch = 'https://ocg-rule.readthedocs.io/zh_CN/latest/'
 html_theme_options = {
     "navigation_with_keys": True,

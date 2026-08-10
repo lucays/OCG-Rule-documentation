@@ -185,6 +185,32 @@ def write_global_links() -> None:
     print(f"已更新汇总链接文件: {LINKS_FILE}")
 
 
+CARD_WORDS_FILE = CURRENT_DIR / 'card_words.txt'
+
+
+def write_card_words_dict() -> None:
+    """从 links.rst 提取卡名（精确卡名与系列名都保留），生成 jieba 用户词典
+
+    jieba 用户词典每行格式为 ``词 词频 词性``。使用很大的词频可以让
+    jieba 把这些卡名当作不可再切分的整体，从而保证 `千查万别` 这类卡名
+    在索引中成为独立词条。
+    """
+    if not LINKS_FILE.exists():
+        print(f"跳过卡名词典生成：{LINKS_FILE} 不存在")
+        return
+    names = set()
+    link_pattern = re.compile(r'^\.\. _`(.+?)`: https?://')
+    for line in LINKS_FILE.read_text(encoding='utf8').splitlines():
+        match = link_pattern.match(line)
+        if match:
+            name = match.group(1).strip()
+            if name:
+                names.add(' '.join(name.split()))
+    lines = sorted(f'{word} 999999 n' for word in names)
+    CARD_WORDS_FILE.write_text('\n'.join(lines) + '\n', encoding='utf8')
+    print(f"已更新 jieba 卡名词典: {CARD_WORDS_FILE} ({len(lines)} 词条)")
+
+
 def strike_completion(texts: str) -> str:
     lines = []
     for line in texts.split('\n'):
@@ -260,6 +286,7 @@ def git_operations(commit_message: str) -> None:
 def main(commit_message: str) -> None:
     process_all('dev')
     write_global_links()
+    write_card_words_dict()
     git_operations(commit_message)
 
 
