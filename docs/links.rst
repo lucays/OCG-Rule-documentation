@@ -4353,6 +4353,7 @@
 .. _`牲祭升阶`: https://ygocdb.com/card/name/牲祭升阶
 .. _`牲祭封印之假面`: https://ygocdb.com/card/name/牲祭封印之假面
 .. _`牲祭栗子球`: https://ygocdb.com/card/name/牲祭栗子球
+.. _`特异英雄 恐惧破坏者`: https://ygocdb.com/card/name/特异英雄%20恐惧破坏者
 .. _`特拉戈迪亚`: https://ygocdb.com/card/name/特拉戈迪亚
 .. _`特殊二重召唤`: https://ygocdb.com/card/name/特殊二重召唤
 .. _`特洛伊炸弹`: https://ygocdb.com/card/name/特洛伊炸弹
@@ -5329,7 +5330,6 @@
 .. _`自奏圣乐的通天塔`: https://ygocdb.com/card/name/自奏圣乐的通天塔
 .. _`自奏圣乐的释音`: https://ygocdb.com/card/name/自奏圣乐的释音
 .. _`自尊的咆哮`: https://ygocdb.com/card/name/自尊的咆哮
-.. _`自己场上的魔法·陷阱卡的效果的发动以及那些发动的效果不会被无效化`: https://ygocdb.com/card/name/自己场上的魔法·陷阱卡的效果的发动以及那些发动的效果不会被无效化
 .. _`自然`: https://ygocdb.com/?search=自然
 .. _`自然之森`: https://ygocdb.com/card/name/自然之森
 .. _`自然兽`: https://ygocdb.com/card/name/自然兽
