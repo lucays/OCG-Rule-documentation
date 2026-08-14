@@ -3496,7 +3496,6 @@
 .. _`杀手级调整曲·削波手`: https://ygocdb.com/card/name/杀手级调整曲·削波手
 .. _`杀手级调整曲·唱片师`: https://ygocdb.com/card/name/杀手级调整曲·唱片师
 .. _`杀手级调整曲·噼啪削波手`: https://ygocdb.com/card/name/杀手级调整曲·噼啪削波手
-.. _`杀手级调整曲·指时手`: https://ygocdb.com/card/name/杀手级调整曲·指时手
 .. _`杀手级调整曲·提示员`: https://ygocdb.com/card/name/杀手级调整曲·提示员
 .. _`杀手级调整曲·混音手`: https://ygocdb.com/card/name/杀手级调整曲·混音手
 .. _`杀手级调整曲·红印鉴唱片师`: https://ygocdb.com/card/name/杀手级调整曲·红印鉴唱片师
