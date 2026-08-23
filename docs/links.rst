@@ -1332,6 +1332,7 @@
 .. _`同调英雄`: https://ygocdb.com/card/name/同调英雄
 .. _`同调解除`: https://ygocdb.com/card/name/同调解除
 .. _`同调贪欲`: https://ygocdb.com/card/name/同调贪欲
+.. _`同调障壁`: https://ygocdb.com/card/name/同调障壁
 .. _`同路人`: https://ygocdb.com/card/name/同路人
 .. _`名匠 加米尔`: https://ygocdb.com/card/name/名匠%20加米尔
 .. _`名推理`: https://ygocdb.com/card/name/名推理
@@ -1690,6 +1691,7 @@
 .. _`大灵术-「一轮」`: https://ygocdb.com/card/name/大灵术-「一轮」
 .. _`大热波`: https://ygocdb.com/card/name/大热波
 .. _`大狼雷鸣`: https://ygocdb.com/card/name/大狼雷鸣
+.. _`大电脑兵厂`: https://ygocdb.com/card/name/大电脑兵厂
 .. _`大胆无敌`: https://ygocdb.com/card/name/大胆无敌
 .. _`大落穴`: https://ygocdb.com/card/name/大落穴
 .. _`大薰风凤凰`: https://ygocdb.com/card/name/大薰风凤凰
@@ -2071,6 +2073,7 @@
 .. _`封印师 明晴`: https://ygocdb.com/card/name/封印师%20明晴
 .. _`封印的黄金柜`: https://ygocdb.com/card/name/封印的黄金柜
 .. _`封神之剑鬼 水分`: https://ygocdb.com/card/name/封神之剑鬼%20水分
+.. _`封神之剑鬼 水子守`: https://ygocdb.com/card/name/封神之剑鬼 水子守
 .. _`封锁守卫者`: https://ygocdb.com/card/name/封锁守卫者
 .. _`封魔一闪`: https://ygocdb.com/card/name/封魔一闪
 .. _`封魔之矢`: https://ygocdb.com/card/name/封魔之矢
@@ -2407,6 +2410,7 @@
 .. _`异热同心武器-风神云龙剑`: https://ygocdb.com/card/name/异热同心武器-风神云龙剑
 .. _`异热同心联盟`: https://ygocdb.com/card/name/异热同心联盟
 .. _`异界共鸣-同调融合`: https://ygocdb.com/card/name/异界共鸣-同调融合
+.. _`异界流星衔尾龙`: https://ygocdb.com/card/name/异界流星衔尾龙
 .. _`异睡衍生物`: https://ygocdb.com/?search=异睡衍生物
 .. _`异种斗争`: https://ygocdb.com/card/name/异种斗争
 .. _`异端之福波斯科波斯`: https://ygocdb.com/card/name/异端之福波斯科波斯
@@ -4229,6 +4233,7 @@
 .. _`炎星仙-鹫真人`: https://ygocdb.com/card/name/炎星仙-鹫真人
 .. _`炎星皇-晁狮`: https://ygocdb.com/card/name/炎星皇-晁狮
 .. _`炎涡的胎动`: https://ygocdb.com/card/name/炎涡的胎动
+.. _`炎狱反击`: https://ygocdb.com/card/name/炎狱反击
 .. _`炎狱护卫龙`: https://ygocdb.com/card/name/炎狱护卫龙
 .. _`炎狱魔人 地狱焚魔`: https://ygocdb.com/card/name/炎狱魔人%20地狱焚魔
 .. _`炎狱魔神`: https://ygocdb.com/card/name/炎狱魔神
@@ -4603,6 +4608,7 @@
 .. _`疫病`: https://ygocdb.com/card/name/疫病
 .. _`疫病狼`: https://ygocdb.com/card/name/疫病狼
 .. _`疫神之依鬼 丰吾`: https://ygocdb.com/card/name/疫神之依鬼%20丰吾
+.. _`疫神之依鬼 夜亚`: https://ygocdb.com/card/name/疫神之依鬼 夜亚
 .. _`疯帽黑客`: https://ygocdb.com/card/name/疯帽黑客
 .. _`疾行机人`: https://ygocdb.com/?search=疾行机人
 .. _`疾行机人 OMK口香糖`: https://ygocdb.com/card/name/疾行机人%20OMK口香糖
@@ -4869,6 +4875,7 @@
 .. _`砾岩灵长-巨大砾岩金刚`: https://ygocdb.com/card/name/砾岩灵长-巨大砾岩金刚
 .. _`硬邦邦岩铁`: https://ygocdb.com/card/name/硬邦邦岩铁
 .. _`硼素死神 杰克南瓜`: https://ygocdb.com/card/name/硼素死神%20杰克南瓜
+.. _`碑像天使-亚兹卢恩`: https://ygocdb.com/card/name/碑像天使-亚兹卢恩
 .. _`碑像天使-亚兹卢恩死月弓碑`: https://ygocdb.com/card/name/碑像天使-亚兹卢恩死月弓碑
 .. _`碧钢之机龙`: https://ygocdb.com/card/name/碧钢之机龙
 .. _`磁力`: https://ygocdb.com/card/name/磁力
@@ -4951,6 +4958,7 @@
 .. _`神艺学的厚涂-夺还-`: https://ygocdb.com/card/name/神艺学的厚涂-夺还-
 .. _`神艺学的杰作-继承-`: https://ygocdb.com/card/name/神艺学的杰作-继承-
 .. _`神艺学的破坏-袭击-`: https://ygocdb.com/card/name/神艺学的破坏-袭击-
+.. _`神艺学的突转-激荡-`: https://ygocdb.com/card/name/神艺学的突转-激荡-
 .. _`神艺学都 神艺学园`: https://ygocdb.com/card/name/神艺学都%20神艺学园
 .. _`神艺智慧少女`: https://ygocdb.com/card/name/神艺智慧少女
 .. _`神艺智慧的少女`: https://ygocdb.com/card/name/神艺智慧的少女
@@ -5985,6 +5993,7 @@
 .. _`采矿鼹鼠`: https://ygocdb.com/card/name/采矿鼹鼠
 .. _`里风之精灵`: https://ygocdb.com/card/name/里风之精灵
 .. _`重之忍者-磁翁`: https://ygocdb.com/card/name/重之忍者-磁翁
+.. _`重力之斧-咆哮`: https://ygocdb.com/card/name/重力之斧-咆哮
 .. _`重力均衡`: https://ygocdb.com/card/name/重力均衡
 .. _`重力崩坏`: https://ygocdb.com/card/name/重力崩坏
 .. _`重力炮`: https://ygocdb.com/card/name/重力炮
@@ -6446,6 +6455,7 @@
 .. _`鬼动武者`: https://ygocdb.com/card/name/鬼动武者
 .. _`鬼岩城`: https://ygocdb.com/card/name/鬼岩城
 .. _`鬼牛肉`: https://ygocdb.com/card/name/鬼牛肉
+.. _`鬼神 水子守命`: https://ygocdb.com/card/name/鬼神 水子守命
 .. _`鬼神的连击`: https://ygocdb.com/card/name/鬼神的连击
 .. _`鬼签`: https://ygocdb.com/card/name/鬼签
 .. _`鬼计`: https://ygocdb.com/?search=鬼计
@@ -6590,6 +6600,7 @@
 .. _`魔术师之袍`: https://ygocdb.com/card/name/魔术师之袍
 .. _`魔术师双魂`: https://ygocdb.com/card/name/魔术师双魂
 .. _`魔术师的右手`: https://ygocdb.com/card/name/魔术师的右手
+.. _`魔术师的守护`: https://ygocdb.com/card/name/魔术师的守护
 .. _`魔术师的导门阵`: https://ygocdb.com/card/name/魔术师的导门阵
 .. _`魔术师的左手`: https://ygocdb.com/card/name/魔术师的左手
 .. _`魔术师的徒弟-黑魔术少女`: https://ygocdb.com/card/name/魔术师的徒弟-黑魔术少女
