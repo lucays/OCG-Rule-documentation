@@ -3974,6 +3974,7 @@
 .. _`淘气仙星的花束`: https://ygocdb.com/card/name/淘气仙星的花束
 .. _`淘气仙星融合`: https://ygocdb.com/card/name/淘气仙星融合
 .. _`深夜急行骑士`: https://ygocdb.com/card/name/深夜急行骑士
+.. _`深海之怒`: https://ygocdb.com/card/name/深海之怒
 .. _`深海之都 墨瓦腊泥加`: https://ygocdb.com/card/name/深海之都%20墨瓦腊泥加
 .. _`深海吟游诗人`: https://ygocdb.com/card/name/深海吟游诗人
 .. _`深海哨兵`: https://ygocdb.com/card/name/深海哨兵
@@ -4032,6 +4033,7 @@
 .. _`混沌No.92 伪骸虚龙 心地心混沌龙`: https://ygocdb.com/card/name/混沌No.92%20伪骸虚龙%20心地心混沌龙
 .. _`混沌No.96 黑飙`: https://ygocdb.com/card/name/混沌No.96%20黑飙
 .. _`混沌XYZ 冀望皇 异晶人`: https://ygocdb.com/card/name/混沌XYZ%20冀望皇%20异晶人
+.. _`混沌之三幻魔`: https://ygocdb.com/card/name/混沌之三幻魔
 .. _`混沌之双翼`: https://ygocdb.com/card/name/混沌之双翼
 .. _`混沌之召唤神`: https://ygocdb.com/card/name/混沌之召唤神
 .. _`混沌之幻想魔术师`: https://ygocdb.com/card/name/混沌之幻想魔术师
