@@ -52,6 +52,7 @@ This repository is a Yu-Gi-Oh! OCG ruling documentation project. Agents working 
 - When translating effect costs, use `cost` directly (e.g. `作为cost送去墓地`) instead of translating to `成本`.
 - Do not use `该` in ruling prose. Render `この～` as `这个/这次/这只/这张` and `その～` as `那个/那次/那只/那张`, choosing the word that matches the referent (卡/效果/怪兽/场合 etc.).
 - When `同调`/`超量`/`连接` appear outside card names and quoted effect text, use `S`/`X`/`L` shorthand instead, e.g. `S怪兽`、`X素材`、`S召唤` or `S·X·L`. Inside card names and `『』` effect text, keep the full Chinese terms from the official card text.
+- Punctuation: Japanese `、` also serves as a clause/predicate separator, so do not carry it over mechanically. Use `，` at clause and predicate boundaries, in action sequences (e.g. `发动「`卡名`_」的效果，解放自身并以…为对象`), across chained chain links (e.g. `我方连锁1发动A，对方连锁2发动B`) and in state/condition descriptions (e.g. `我方手卡7张，我方场上存在「`卡名`_」，对方场上存在…`). Reserve `、` for short coordinate words/phrases only: enumerated card names with effect markers (e.g. `「`卡名A`_」①、「`卡名B`_」②`) and short parallel terms (e.g. `L召唤、X召唤或S召唤`). Do not put `、` directly before `或`/`或者` when the joined parts are clauses or long phrases.
 - If the official/mail answer only says to discuss with the opponent or proceed by judge decision instead of giving a ruling, summarize the pending question and mark it with ``\ :ref:`调整中`\ 。`` rather than translating the customer-service wording.
 - Keep ruling prose concise and declarative. Avoid adding explanation not present in the source.
 - If effect text is quoted with `『』`, do not freely translate the Japanese text. Identify the card whose effect text is being quoted, look it up in the external `D:\codes\ygocdb-data\cards.json`, and use the corresponding Chinese effect text from `text.desc` / `text.pdesc` as the source for the quoted wording.
@@ -98,4 +99,5 @@ Each FAQ entry in `docs/c06/*.rst` must follow these formatting rules:
 - `该` is not used in ruling prose; referent pronouns use `这个/这次/这只/这张` or `那个/那次/那只/那张` matching the referent.
 - 同调/超量/连接 outside card names and `『』` effect text uses `S`/`X`/`L` shorthand.
 - Multiple card names listed in a ruling are separated by `、`.
+- `、`(顿号) appears only between short coordinate words/phrases (card-name lists, short parallel terms); clause/predicate boundaries, action sequences, chained chain links and state descriptions use `，`(逗号), never `、`.
 - New card names referenced via `「\`卡名\`_」` have matching entries in `docs/links.rst`.
