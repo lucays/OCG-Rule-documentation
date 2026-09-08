@@ -279,6 +279,7 @@
 .. _`三栅极男巫`: https://ygocdb.com/card/name/三栅极男巫
 .. _`三步业`: https://ygocdb.com/card/name/三步业
 .. _`三相魔神 科迪乌斯`: https://ygocdb.com/card/name/三相魔神%20科迪乌斯
+.. _`三眼小巫师`: https://ygocdb.com/card/name/三眼小巫师
 .. _`三眼怪`: https://ygocdb.com/card/name/三眼怪
 .. _`三角攻势`: https://ygocdb.com/card/name/三角攻势
 .. _`三角阵-O`: https://ygocdb.com/card/name/三角阵-O
@@ -565,6 +566,7 @@
 .. _`僵尸之主`: https://ygocdb.com/card/name/僵尸之主
 .. _`僵尸带菌者`: https://ygocdb.com/card/name/僵尸带菌者
 .. _`僵尸拦路贼`: https://ygocdb.com/card/name/僵尸拦路贼
+.. _`僵尸牧人`: https://ygocdb.com/card/name/僵尸牧人
 .. _`僵尸男孩`: https://ygocdb.com/card/name/僵尸男孩
 .. _`儚无水木`: https://ygocdb.com/card/name/儚无水木
 .. _`元素灵剑士·日炙`: https://ygocdb.com/card/name/元素灵剑士·日炙
@@ -1055,12 +1057,6 @@
 .. _`升天的黑角笛`: https://ygocdb.com/card/name/升天的黑角笛
 .. _`升灵术师 奘玄`: https://ygocdb.com/card/name/升灵术师%20奘玄
 .. _`升级转变`: https://ygocdb.com/card/name/升级转变
-.. _`升辉月之刃 莎娜`: https://ygocdb.com/card/name/升辉月之刃%20莎娜
-.. _`升辉月之帐 西耶洛`: https://ygocdb.com/card/name/升辉月之帐%20西耶洛
-.. _`升辉月之朔 挤牌龟`: https://ygocdb.com/card/name/升辉月之朔%20挤牌龟
-.. _`升辉月之灯 珂尔谢`: https://ygocdb.com/card/name/升辉月之灯%20珂尔谢
-.. _`升辉月之翼 菈比`: https://ygocdb.com/card/name/升辉月之翼%20菈比
-.. _`升辉月之雅 卡萝尔`: https://ygocdb.com/card/name/升辉月之雅%20卡萝尔
 .. _`升阶魔法`: https://ygocdb.com/?search=升阶魔法
 .. _`升阶魔法-七皇之剑`: https://ygocdb.com/?search=升阶魔法-七皇之剑
 .. _`升阶魔法-削魂之力`: https://ygocdb.com/card/name/升阶魔法-削魂之力
@@ -1775,7 +1771,7 @@
 .. _`天邪鬼的诅咒`: https://ygocdb.com/card/name/天邪鬼的诅咒
 .. _`天降的宝札`: https://ygocdb.com/card/name/天降的宝札
 .. _`天霆号 阿宙斯`: https://ygocdb.com/card/name/天霆号%20阿宙斯
-.. _`天霆异解△黄泉国`: https://ygocdb.com/card/name/天霆异解△黄泉国
+.. _`天霆异解△幽谜`: https://ygocdb.com/card/name/天霆异解△幽谜
 .. _`天马之翼`: https://ygocdb.com/card/name/天马之翼
 .. _`天魔之声选器-『异响鸣琴』`: https://ygocdb.com/card/name/天魔之声选器-『异响鸣琴』
 .. _`天魔大帝`: https://ygocdb.com/card/name/天魔大帝
@@ -2520,6 +2516,7 @@
 .. _`影星轨道兵器 着陆九头蛇`: https://ygocdb.com/card/name/影星轨道兵器%20着陆九头蛇
 .. _`影武者狸衍生物`: https://ygocdb.com/?search=影武者狸衍生物
 .. _`影灵之翼 文蒂`: https://ygocdb.com/card/name/影灵之翼%20文蒂
+.. _`影灵翼骑 影文蒂`: https://ygocdb.com/card/name/影灵翼骑%20影文蒂
 .. _`影灵衣`: https://ygocdb.com/?search=影灵衣
 .. _`影灵衣巫女 艾莉娅儿`: https://ygocdb.com/card/name/影灵衣巫女%20艾莉娅儿
 .. _`影灵衣术士 施里特`: https://ygocdb.com/card/name/影灵衣术士%20施里特
@@ -2922,6 +2919,7 @@
 .. _`接触的G`: https://ygocdb.com/card/name/接触的G
 .. _`推荐捏军贯`: https://ygocdb.com/card/name/推荐捏军贯
 .. _`掷骰战斗`: https://ygocdb.com/card/name/掷骰战斗
+.. _`提斯蒂娜之瘴神`: https://ygocdb.com/card/name/提斯蒂娜之瘴神
 .. _`提示符叉角羚`: https://ygocdb.com/card/name/提示符叉角羚
 .. _`携手魔人`: https://ygocdb.com/card/name/携手魔人
 .. _`摇号机GO！GO！`: https://ygocdb.com/card/name/摇号机GO！GO！
@@ -3669,6 +3667,7 @@
 .. _`正义盟军 造风鸟`: https://ygocdb.com/card/name/正义盟军%20造风鸟
 .. _`正正堂堂`: https://ygocdb.com/card/name/正正堂堂
 .. _`正统的血统`: https://ygocdb.com/card/name/正统的血统
+.. _`步向破灭的速攻抽卡`: https://ygocdb.com/card/name/步向破灭的速攻抽卡
 .. _`武力军奏`: https://ygocdb.com/card/name/武力军奏
 .. _`武力解除`: https://ygocdb.com/card/name/武力解除
 .. _`武器呼唤`: https://ygocdb.com/card/name/武器呼唤
@@ -4384,7 +4383,7 @@
 .. _`特洛伊炸弹`: https://ygocdb.com/card/name/特洛伊炸弹
 .. _`特莱恩之虫惑魔`: https://ygocdb.com/card/name/特莱恩之虫惑魔
 .. _`特许权的契约书类`: https://ygocdb.com/card/name/特许权的契约书类
-.. _`狂岚异解△冥神府`: https://ygocdb.com/card/name/狂岚异解△冥神府
+.. _`狂岚异解△普戮托尼翁`: https://ygocdb.com/card/name/狂岚异解△普戮托尼翁
 .. _`狂惑的落穴`: https://ygocdb.com/card/name/狂惑的落穴
 .. _`狂战士之魂`: https://ygocdb.com/card/name/狂战士之魂
 .. _`狂战士断碎`: https://ygocdb.com/card/name/狂战士断碎
@@ -4715,6 +4714,13 @@
 .. _`皇帝斗技场`: https://ygocdb.com/card/name/皇帝斗技场
 .. _`皇帝的新装`: https://ygocdb.com/card/name/皇帝的新装
 .. _`皮里·雷斯地图`: https://ygocdb.com/card/name/皮里·雷斯地图
+.. _`盈彩月夜之刃 希耶娜`: https://ygocdb.com/card/name/盈彩月夜之刃%20希耶娜
+.. _`盈彩月夜之天 西艾萝-一掷乾坤`: https://ygocdb.com/card/name/盈彩月夜之天%20西艾萝-一掷乾坤
+.. _`盈彩月夜之帐 西艾萝`: https://ygocdb.com/card/name/盈彩月夜之帐%20西艾萝
+.. _`盈彩月夜之朔 斯奎兹`: https://ygocdb.com/card/name/盈彩月夜之朔%20斯奎兹
+.. _`盈彩月夜之灯 库露雪`: https://ygocdb.com/card/name/盈彩月夜之灯%20库露雪
+.. _`盈彩月夜之翼 菈碧`: https://ygocdb.com/card/name/盈彩月夜之翼%20菈碧
+.. _`盈彩月夜之雅 卡萝尔`: https://ygocdb.com/card/name/盈彩月夜之雅%20卡萝尔
 .. _`盗墓者`: https://ygocdb.com/card/name/盗墓者
 .. _`盗墓者的报应`: https://ygocdb.com/card/name/盗墓者的报应
 .. _`盗贼的七道具`: https://ygocdb.com/card/name/盗贼的七道具
@@ -4900,7 +4906,7 @@
 .. _`硼素死神 杰克南瓜`: https://ygocdb.com/card/name/硼素死神%20杰克南瓜
 .. _`碑像天使-亚兹卢恩`: https://ygocdb.com/card/name/碑像天使-亚兹卢恩
 .. _`碑像天使-亚兹卢恩死月弓碑`: https://ygocdb.com/card/name/碑像天使-亚兹卢恩死月弓碑
-.. _`碧之异解△图奥内拉`: https://ygocdb.com/card/name/碧之异解△图奥内拉
+.. _`碧之异解△屠奥内拉`: https://ygocdb.com/card/name/碧之异解△屠奥内拉
 .. _`碧钢之机龙`: https://ygocdb.com/card/name/碧钢之机龙
 .. _`磁力`: https://ygocdb.com/card/name/磁力
 .. _`磁力指轮`: https://ygocdb.com/card/name/磁力指轮
@@ -5474,7 +5480,7 @@
 .. _`落胤与圣女`: https://ygocdb.com/card/name/落胤与圣女
 .. _`落魂`: https://ygocdb.com/card/name/落魂
 .. _`落魂衍生物`: https://ygocdb.com/?search=落魂衍生物
-.. _`葬岭异解△战殒地`: https://ygocdb.com/card/name/葬岭异解△战殒地
+.. _`葬岭异解△危尔海姆`: https://ygocdb.com/card/name/葬岭异解△危尔海姆
 .. _`蒂奥之虫惑魔`: https://ygocdb.com/card/name/蒂奥之虫惑魔
 .. _`蒂斯衍生物`: https://ygocdb.com/?search=蒂斯衍生物
 .. _`蒂迈欧之眼`: https://ygocdb.com/card/name/蒂迈欧之眼
@@ -5497,7 +5503,7 @@
 .. _`蕾祸之姬邪眼`: https://ygocdb.com/card/name/蕾祸之姬邪眼
 .. _`蕾祸之武者髑髅`: https://ygocdb.com/card/name/蕾祸之武者髑髅
 .. _`薰风的风尘`: https://ygocdb.com/card/name/薰风的风尘
-.. _`虚之异解△欣嫩谷`: https://ygocdb.com/card/name/虚之异解△欣嫩谷
+.. _`虚之异解△盖赫纳`: https://ygocdb.com/card/name/虚之异解△盖赫纳
 .. _`虚光之宣告者`: https://ygocdb.com/card/name/虚光之宣告者
 .. _`虚拟世界`: https://ygocdb.com/card/name/虚拟世界
 .. _`虚无之统括者`: https://ygocdb.com/card/name/虚无之统括者
@@ -5508,7 +5514,7 @@
 .. _`虚空之黑魔导师`: https://ygocdb.com/card/name/虚空之黑魔导师
 .. _`虚空俏丽魔术师`: https://ygocdb.com/card/name/虚空俏丽魔术师
 .. _`虚荣的大猿`: https://ygocdb.com/card/name/虚荣的大猿
-.. _`虚蚀异解△多罪海`: https://ygocdb.com/card/name/虚蚀异解△多罪海
+.. _`虚蚀异解△灾罕纳姆`: https://ygocdb.com/card/name/虚蚀异解△灾罕纳姆
 .. _`虚龙魔王 无形矢·心灵`: https://ygocdb.com/card/name/虚龙魔王%20无形矢·心灵
 .. _`虫惑之园`: https://ygocdb.com/card/name/虫惑之园
 .. _`虫惑的落穴`: https://ygocdb.com/card/name/虫惑的落穴
@@ -5682,6 +5688,7 @@
 .. _`调试瓢虫女郎`: https://ygocdb.com/card/name/调试瓢虫女郎
 .. _`谜式密码大师·紧缩位压缩员`: https://ygocdb.com/card/name/谜式密码大师·紧缩位压缩员
 .. _`谜题`: https://ygocdb.com/card/name/谜题
+.. _`豪回游鲸 VIP巨鲸`: https://ygocdb.com/card/name/豪回游鲸%20VIP巨鲸
 .. _`豪雨之结界像`: https://ygocdb.com/card/name/豪雨之结界像
 .. _`贤石炼金师`: https://ygocdb.com/card/name/贤石炼金师
 .. _`贤者之石-萨巴希尔`: https://ygocdb.com/card/name/贤者之石-萨巴希尔
@@ -5997,6 +6004,7 @@
 .. _`邪心衍生物`: https://ygocdb.com/?search=邪心衍生物
 .. _`邪恶★双子`: https://ygocdb.com/?search=邪恶★双子
 .. _`邪恶★双子 姬丝基勒`: https://ygocdb.com/card/name/邪恶★双子%20姬丝基勒
+.. _`邪恶★双子 姬丝基勒·交易`: https://ygocdb.com/card/name/邪恶★双子%20姬丝基勒·交易
 .. _`邪恶★双子 璃拉`: https://ygocdb.com/card/name/邪恶★双子%20璃拉
 .. _`邪恶★双子 礼物`: https://ygocdb.com/card/name/邪恶★双子%20礼物
 .. _`邪恶★双子克星 麻烦·桑妮`: https://ygocdb.com/card/name/邪恶★双子克星%20麻烦·桑妮
