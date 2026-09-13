@@ -2437,6 +2437,7 @@
 .. _`异色眼风雷龙`: https://ygocdb.com/card/name/异色眼风雷龙
 .. _`异色眼龙`: https://ygocdb.com/card/name/异色眼龙
 .. _`异虫·零`: https://ygocdb.com/card/name/异虫·零
+.. _`异解△审判`: https://ygocdb.com/card/name/异解△审判
 .. _`异谭的忍法帖`: https://ygocdb.com/card/name/异谭的忍法帖
 .. _`弑逆的魔轰神`: https://ygocdb.com/card/name/弑逆的魔轰神
 .. _`引用通告黑鸟`: https://ygocdb.com/card/name/引用通告黑鸟
