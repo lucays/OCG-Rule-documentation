@@ -870,6 +870,7 @@
 .. _`冷蔷薇的抱香`: https://ygocdb.com/card/name/冷蔷薇的抱香
 .. _`冷酷遗式术师`: https://ygocdb.com/card/name/冷酷遗式术师
 .. _`冻结之心映照的神影`: https://ygocdb.com/card/name/冻结之心映照的神影
+.. _`净化与腐败之无垢大艺术`: https://ygocdb.com/card/name/净化与腐败之无垢大艺术
 .. _`净化光`: https://ygocdb.com/card/name/净化光
 .. _`净琉璃朋克 蜘蛛夫人`: https://ygocdb.com/card/name/净琉璃朋克%20蜘蛛夫人
 .. _`净琉璃朋克危险口裂`: https://ygocdb.com/card/name/净琉璃朋克危险口裂
@@ -1614,6 +1615,7 @@
 .. _`堕天使的追放`: https://ygocdb.com/card/name/堕天使的追放
 .. _`堕恶之爪`: https://ygocdb.com/card/name/堕恶之爪
 .. _`堕落`: https://ygocdb.com/card/name/堕落
+.. _`塞尼特纳赫特·斯芬克斯`: https://ygocdb.com/card/name/塞尼特纳赫特·斯芬克斯
 .. _`塞拉之虫惑魔`: https://ygocdb.com/card/name/塞拉之虫惑魔
 .. _`墓地墓地的怨恨`: https://ygocdb.com/card/name/墓地墓地的怨恨
 .. _`墓场看守者`: https://ygocdb.com/card/name/墓场看守者
@@ -2289,6 +2291,7 @@
 .. _`幻影骑士团 敌意死镰`: https://ygocdb.com/card/name/幻影骑士团%20敌意死镰
 .. _`幻影骑士团 断碎剑`: https://ygocdb.com/card/name/幻影骑士团%20断碎剑
 .. _`幻影骑士团 无声靴`: https://ygocdb.com/card/name/幻影骑士团%20无声靴
+.. _`幻影骑士团 暗影焰剑苍骑`: https://ygocdb.com/card/name/幻影骑士团%20暗影焰剑苍骑
 .. _`幻影骑士团 暗黑手甲`: https://ygocdb.com/card/name/幻影骑士团%20暗黑手甲
 .. _`幻影骑士团 破手套`: https://ygocdb.com/card/name/幻影骑士团%20破手套
 .. _`幻影骑士团 破洞鳞甲`: https://ygocdb.com/card/name/幻影骑士团%20破洞鳞甲
@@ -2341,6 +2344,8 @@
 .. _`库拉莉亚之虫惑魔`: https://ygocdb.com/card/name/库拉莉亚之虫惑魔
 .. _`应战的G`: https://ygocdb.com/card/name/应战的G
 .. _`应身之机械天使`: https://ygocdb.com/card/name/应身之机械天使
+.. _`废品前锋`: https://ygocdb.com/card/name/废品前锋
+.. _`废品压阵者`: https://ygocdb.com/card/name/废品压阵者
 .. _`废品同调士`: https://ygocdb.com/card/name/废品同调士
 .. _`废品增速者`: https://ygocdb.com/card/name/废品增速者
 .. _`废品弓手`: https://ygocdb.com/card/name/废品弓手
@@ -2437,6 +2442,7 @@
 .. _`异色眼风雷龙`: https://ygocdb.com/card/name/异色眼风雷龙
 .. _`异色眼龙`: https://ygocdb.com/card/name/异色眼龙
 .. _`异虫·零`: https://ygocdb.com/card/name/异虫·零
+.. _`异解△`: https://ygocdb.com/?search=异解△
 .. _`异解△审判`: https://ygocdb.com/card/name/异解△审判
 .. _`异谭的忍法帖`: https://ygocdb.com/card/name/异谭的忍法帖
 .. _`弑逆的魔轰神`: https://ygocdb.com/card/name/弑逆的魔轰神
@@ -3105,6 +3111,7 @@
 .. _`无谋的贪心`: https://ygocdb.com/card/name/无谋的贪心
 .. _`无败将军 弗里德`: https://ygocdb.com/card/name/无败将军%20弗里德
 .. _`无赖特急 蝙蝠列车`: https://ygocdb.com/card/name/无赖特急%20蝙蝠列车
+.. _`无限与有限之无垢大艺术`: https://ygocdb.com/card/name/无限与有限之无垢大艺术
 .. _`无限光`: https://ygocdb.com/card/name/无限光
 .. _`无限恐龙`: https://ygocdb.com/card/name/无限恐龙
 .. _`无限械`: https://ygocdb.com/card/name/无限械
@@ -5245,6 +5252,7 @@
 .. _`终结之阿努比斯`: https://ygocdb.com/card/name/终结之阿努比斯
 .. _`绊醒师 塞姆贝尔`: https://ygocdb.com/card/name/绊醒师%20塞姆贝尔
 .. _`绒儿的魔法阵`: https://ygocdb.com/card/name/绒儿的魔法阵
+.. _`结合与乖离之无垢大艺术`: https://ygocdb.com/card/name/结合与乖离之无垢大艺术
 .. _`结合术-D2O`: https://ygocdb.com/card/name/结合术-D2O
 .. _`结合术-H2O`: https://ygocdb.com/card/name/结合术-H2O
 .. _`结晶之魔女 桑德里永`: https://ygocdb.com/card/name/结晶之魔女%20桑德里永
@@ -5614,6 +5622,7 @@
 .. _`被封印者的右足`: https://ygocdb.com/card/name/被封印者的右足
 .. _`被封印者的左腕`: https://ygocdb.com/card/name/被封印者的左腕
 .. _`被封印者的左足`: https://ygocdb.com/card/name/被封印者的左足
+.. _`被斩裂的黑暗`: https://ygocdb.com/card/name/被斩裂的黑暗
 .. _`被星杯所劝诱者`: https://ygocdb.com/card/name/被星杯所劝诱者
 .. _`被星杯所选中者`: https://ygocdb.com/card/name/被星杯所选中者
 .. _`被检体 秘异三变体M-05`: https://ygocdb.com/card/name/被检体%20秘异三变体M-05
@@ -6472,6 +6481,7 @@
 .. _`骑龙`: https://ygocdb.com/card/name/骑龙
 .. _`骑龙 驮龙`: https://ygocdb.com/card/name/骑龙%20驮龙
 .. _`骨木鱼`: https://ygocdb.com/card/name/骨木鱼
+.. _`骨猪一掷`: https://ygocdb.com/card/name/骨猪一掷
 .. _`骰子旋风`: https://ygocdb.com/card/name/骰子旋风
 .. _`骷髅大王`: https://ygocdb.com/card/name/骷髅大王
 .. _`骷髅炎鬼`: https://ygocdb.com/card/name/骷髅炎鬼
