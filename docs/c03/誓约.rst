@@ -151,7 +151,7 @@
    | 例：
    | 「`七皇转生`_」的①效果处理时，『（把持有超量素材的怪兽除外的场合那些超量素材也全部除外）』让作为X素材的「`悲剧之死狱乡演员`_」被除外的场合，是被效果除外，可以发动①效果。
    | 「`群豪世界-百识公国`_」的②效果处理时，『（所要放置区的卡破坏）』让魔法·陷阱卡破坏的场合，不是效果破坏。\ `22/3/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17359&request_locale=ja>`__
-   | 「`异解△审判`_」的①效果处理时，对象不在怪兽区域表侧表示存在的场合『（这个回合，这个卡名的这个效果不能选相同属性的怪兽）』不会选怪兽，结果不适用。\ `26/9/4 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=23564&request_locale=ja>`__
+   | 「`异解△审判`_」的①效果处理时，作为对象的怪兽不在怪兽区表侧表示存在的场合，不进行加入手卡或特殊召唤的处理；因为没有选择怪兽，那个回合可以以相同属性的怪兽为对象再次发动①效果。\ `26/9/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=23564&request_locale=ja>`__
 
 .. _效果的附加处理:
 

@@ -1273,6 +1273,7 @@
 .. _`召唤之门`: https://ygocdb.com/card/name/召唤之门
 .. _`召唤僧`: https://ygocdb.com/card/name/召唤僧
 .. _`召唤兽`: https://ygocdb.com/?search=召唤兽
+.. _`召唤兽 光体`: https://ygocdb.com/card/name/召唤兽%20光体
 .. _`召唤兽 卡利古拉`: https://ygocdb.com/card/name/召唤兽%20卡利古拉
 .. _`召唤兽 埃律西昂`: https://ygocdb.com/card/name/召唤兽%20埃律西昂
 .. _`召唤兽 墨瓦腊泥加`: https://ygocdb.com/card/name/召唤兽%20墨瓦腊泥加
@@ -1692,6 +1693,7 @@
 .. _`大星义初始龙`: https://ygocdb.com/card/name/大星义初始龙
 .. _`大星义终极龙`: https://ygocdb.com/card/name/大星义终极龙
 .. _`大欲之壶`: https://ygocdb.com/card/name/大欲之壶
+.. _`大气吸收者`: https://ygocdb.com/card/name/大气吸收者
 .. _`大气圈神鸟`: https://ygocdb.com/card/name/大气圈神鸟
 .. _`大沙海 黄金戈尔工达`: https://ygocdb.com/card/name/大沙海%20黄金戈尔工达
 .. _`大混战模式-加入`: https://ygocdb.com/card/name/大混战模式-加入
@@ -2324,6 +2326,7 @@
 .. _`幻透翼同调龙`: https://ygocdb.com/card/name/幻透翼同调龙
 .. _`幻透翼疾速龙`: https://ygocdb.com/card/name/幻透翼疾速龙
 .. _`幻魔之召唤神`: https://ygocdb.com/card/name/幻魔之召唤神
+.. _`幻魔帝 三联电子人`: https://ygocdb.com/card/name/幻魔帝%20三联电子人
 .. _`幻魔的殉教者`: https://ygocdb.com/card/name/幻魔的殉教者
 .. _`幻魔的肖像`: https://ygocdb.com/card/name/幻魔的肖像
 .. _`幻魔皇 拉比艾尔`: https://ygocdb.com/?search=幻魔皇 拉比艾尔
@@ -2913,6 +2916,7 @@
 .. _`捕食植物 蜘蛛兰`: https://ygocdb.com/card/name/捕食植物%20蜘蛛兰
 .. _`捕食植物 露松水螅龙`: https://ygocdb.com/card/name/捕食植物%20露松水螅龙
 .. _`捕食植物 青锁龙森蚺`: https://ygocdb.com/card/name/捕食植物%20青锁龙森蚺
+.. _`捕食植物 食虫粉衣凤梨森蚺`: https://ygocdb.com/card/name/捕食植物%20食虫粉衣凤梨森蚺
 .. _`捕食植物 魔爪花蛮勇鬼`: https://ygocdb.com/card/name/捕食植物%20魔爪花蛮勇鬼
 .. _`捕食植物 黏菖蒲螳螂`: https://ygocdb.com/card/name/捕食植物%20黏菖蒲螳螂
 .. _`捕食生成`: https://ygocdb.com/card/name/捕食生成
@@ -4607,11 +4611,13 @@
 .. _`电磁蓑衣虫`: https://ygocdb.com/card/name/电磁蓑衣虫
 .. _`电磁轨道炮`: https://ygocdb.com/card/name/电磁轨道炮
 .. _`电脑堺`: https://ygocdb.com/?search=电脑堺
+.. _`电脑堺兽-鹫鹫`: https://ygocdb.com/?search=电脑堺兽-鹫鹫
 .. _`电脑堺姬-娘娘`: https://ygocdb.com/card/name/电脑堺姬-娘娘
 .. _`电脑堺媛-瑞瑞`: https://ygocdb.com/card/name/电脑堺媛-瑞瑞
 .. _`电脑堺悟-老老`: https://ygocdb.com/card/name/电脑堺悟-老老
 .. _`电脑堺狐-仙仙`: https://ygocdb.com/card/name/电脑堺狐-仙仙
 .. _`电脑堺甲-甲甲`: https://ygocdb.com/card/name/电脑堺甲-甲甲
+.. _`电脑堺虎-虎虎`: https://ygocdb.com/card/name/电脑堺虎-虎虎
 .. _`电脑堺豸-豸豸`: https://ygocdb.com/card/name/电脑堺豸-豸豸
 .. _`电脑堺都-九龙`: https://ygocdb.com/card/name/电脑堺都-九龙
 .. _`电脑堺门`: https://ygocdb.com/?search=电脑堺门
@@ -4942,6 +4948,7 @@
 .. _`神圣之影 商神杖灵`: https://ygocdb.com/card/name/神圣之影%20商神杖灵
 .. _`神圣光辉`: https://ygocdb.com/card/name/神圣光辉
 .. _`神圣守卫者`: https://ygocdb.com/card/name/神圣守卫者
+.. _`神圣心灵防护罩 -心灵之力-`: https://ygocdb.com/card/name/神圣心灵防护罩%20-心灵之力-
 .. _`神圣法典`: https://ygocdb.com/card/name/神圣法典
 .. _`神圣煌炎`: https://ygocdb.com/card/name/神圣煌炎
 .. _`神圣生命防护罩`: https://ygocdb.com/card/name/神圣生命防护罩
@@ -5251,6 +5258,7 @@
 .. _`终结之始`: https://ygocdb.com/card/name/终结之始
 .. _`终结之阿努比斯`: https://ygocdb.com/card/name/终结之阿努比斯
 .. _`绊醒师 塞姆贝尔`: https://ygocdb.com/card/name/绊醒师%20塞姆贝尔
+.. _`绒儿的读心术`: https://ygocdb.com/card/name/绒儿的读心术
 .. _`绒儿的魔法阵`: https://ygocdb.com/card/name/绒儿的魔法阵
 .. _`结合与乖离之无垢大艺术`: https://ygocdb.com/card/name/结合与乖离之无垢大艺术
 .. _`结合术-D2O`: https://ygocdb.com/card/name/结合术-D2O
@@ -6145,6 +6153,7 @@
 .. _`银河眼时源龙`: https://ygocdb.com/card/name/银河眼时源龙
 .. _`银河眼残光龙`: https://ygocdb.com/card/name/银河眼残光龙
 .. _`银河眼煌星龙`: https://ygocdb.com/card/name/银河眼煌星龙
+.. _`银河眼重铠光子龙`: https://ygocdb.com/card/name/银河眼重铠光子龙
 .. _`银河蠕虫`: https://ygocdb.com/card/name/银河蠕虫
 .. _`银河骑士`: https://ygocdb.com/card/name/银河骑士
 .. _`银河魔镜士`: https://ygocdb.com/card/name/银河魔镜士
