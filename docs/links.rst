@@ -1102,6 +1102,7 @@
 .. _`卡片扫描`: https://ygocdb.com/card/name/卡片扫描
 .. _`卡片汽车·D`: https://ygocdb.com/card/name/卡片汽车·D
 .. _`卡片炮击士`: https://ygocdb.com/card/name/卡片炮击士
+.. _`卡诺匹斯的守护者`: https://ygocdb.com/card/name/卡诺匹斯的守护者
 .. _`卡通`: https://ygocdb.com/?search=卡通
 .. _`卡通世界`: https://ygocdb.com/card/name/卡通世界
 .. _`卡通书签`: https://ygocdb.com/card/name/卡通书签
@@ -5991,6 +5992,7 @@
 .. _`逢魔之妖刀-不知火`: https://ygocdb.com/card/name/逢魔之妖刀-不知火
 .. _`遂进龙 丹宁`: https://ygocdb.com/card/name/遂进龙%20丹宁
 .. _`道化一座 双魔棍小丑`: https://ygocdb.com/card/name/道化一座%20双魔棍小丑
+.. _`道化一座 帽隐士小丑`: https://ygocdb.com/card/name/道化一座%20帽隐士小丑
 .. _`道化一座 白脸小丑`: https://ygocdb.com/card/name/道化一座%20白脸小丑
 .. _`道化一座 空竹魔小丑`: https://ygocdb.com/card/name/道化一座%20空竹魔小丑
 .. _`道化一座 舞流星小丑`: https://ygocdb.com/card/name/道化一座%20舞流星小丑
