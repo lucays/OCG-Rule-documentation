@@ -34,6 +34,7 @@
    | 不是仪式召唤的「`电子界代码魔术师`_」发动②效果时，不能连锁发动「`神之警告`_」「`灵王的波动`_」。\ `26/2/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24290&keyword=&tag=-1&request_locale=ja>`__
    | 「`刚地帝 格兰玛格`_」不是用地属性怪兽解放来上级召唤时发动效果的场合，不能连锁发动「`灰流丽`_」的①效果。\ `17/3/24 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20547&keyword=&tag=-1>`__
    | 4种类怪兽融合召唤的「`狱火机 提耶拉`_」在融合召唤成功时发动效果时，不能连锁发动「`灰流丽`_」的①效果。\ `17/3/24 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10690&keyword=&tag=-1>`__
+   | 发动「`闪光之封杀剑`_」时，如果是发动盖放的「`闪光之封杀剑`_」，可以连锁发动「`灰流丽`_」的效果；从手卡发动「`闪光之封杀剑`_」的场合，不能连锁发动「`灰流丽`_」的效果。此外，这个状况不考虑对方手卡是否有5星以上的怪兽。\ `26/9/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24394&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 发动时根据cost确定效果处理的效果。
    | 例：
