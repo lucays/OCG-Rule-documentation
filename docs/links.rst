@@ -2610,6 +2610,7 @@
 .. _`忘我画派`: https://ygocdb.com/card/name/忘我画派
 .. _`念力宝剑`: https://ygocdb.com/card/name/念力宝剑
 .. _`念力恶魔`: https://ygocdb.com/card/name/念力恶魔
+.. _`念力流浪者`: https://ygocdb.com/card/name/念力流浪者
 .. _`念力电子巨人`: https://ygocdb.com/card/name/念力电子巨人
 .. _`念力终结处刑者`: https://ygocdb.com/card/name/念力终结处刑者
 .. _`念力调整`: https://ygocdb.com/card/name/念力调整
@@ -3446,6 +3447,7 @@
 .. _`未界域的天蛾人`: https://ygocdb.com/card/name/未界域的天蛾人
 .. _`未界域的尼斯水怪`: https://ygocdb.com/card/name/未界域的尼斯水怪
 .. _`未界域的槌子蛇`: https://ygocdb.com/card/name/未界域的槌子蛇
+.. _`未眠之城的『盈彩月夜』`: https://ygocdb.com/card/name/未眠之城的『盈彩月夜』
 .. _`本性暴露`: https://ygocdb.com/card/name/本性暴露
 .. _`朱光之宣告者`: https://ygocdb.com/card/name/朱光之宣告者
 .. _`朱罗纪伶盗龙`: https://ygocdb.com/card/name/朱罗纪伶盗龙
@@ -3767,6 +3769,7 @@
 .. _`死狱乡的凶剧`: https://ygocdb.com/card/name/死狱乡的凶剧
 .. _`死狱乡的大导剧神`: https://ygocdb.com/card/name/死狱乡的大导剧神
 .. _`死狱乡的导化 阿鲁伯`: https://ygocdb.com/card/name/死狱乡的导化%20阿鲁伯
+.. _`死界王战 赫尔女王`: https://ygocdb.com/card/name/死界王战%20赫尔女王
 .. _`死皇帝之陵墓`: https://ygocdb.com/card/name/死皇帝之陵墓
 .. _`死皇帝的陵墓`: https://ygocdb.com/card/name/死皇帝的陵墓
 .. _`死眼之传灵-普绪科蓬波斯`: https://ygocdb.com/card/name/死眼之传灵-普绪科蓬波斯
@@ -5660,6 +5663,7 @@
 .. _`装弹枪管狞猛龙`: https://ygocdb.com/card/name/装弹枪管狞猛龙
 .. _`装弹枪管龙`: https://ygocdb.com/card/name/装弹枪管龙
 .. _`装甲电子翼`: https://ygocdb.com/card/name/装甲电子翼
+.. _`装甲魔导士 帕智`: https://ygocdb.com/card/name/装甲魔导士%20帕智
 .. _`西之七音服·比蒂娅`: https://ygocdb.com/card/name/西之七音服·比蒂娅
 .. _`西托莉丝之虫惑魔`: https://ygocdb.com/card/name/西托莉丝之虫惑魔
 .. _`西格马大日`: https://ygocdb.com/card/name/西格马大日
@@ -5866,6 +5870,7 @@
 .. _`身演恶魔迪亚贝尔`: https://ygocdb.com/card/name/身演恶魔迪亚贝尔
 .. _`车轮同调士`: https://ygocdb.com/card/name/车轮同调士
 .. _`车道管制`: https://ygocdb.com/card/name/车道管制
+.. _`车道限制`: https://ygocdb.com/card/name/车道限制
 .. _`轨迹之魔术师`: https://ygocdb.com/card/name/轨迹之魔术师
 .. _`转临的守护龙`: https://ygocdb.com/card/name/转临的守护龙
 .. _`转惺龙华-暗巴`: https://ygocdb.com/card/name/转惺龙华-暗巴
