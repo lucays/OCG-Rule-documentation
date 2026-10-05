@@ -70,6 +70,7 @@
 .. _`E.M.R.`: https://ygocdb.com/card/name/E.M.R.
 .. _`EN切换`: https://ygocdb.com/card/name/EN切换
 .. _`EN波动`: https://ygocdb.com/card/name/EN波动
+.. _`E紧急！`: https://ygocdb.com/card/name/E紧急！
 .. _`F.A.`: https://ygocdb.com/?search=F.A.
 .. _`FNo.0 未来皇 霍普`: https://ygocdb.com/card/name/FNo.0%20未来皇%20霍普
 .. _`FNo.0 未来龙皇 霍普`: https://ygocdb.com/card/name/FNo.0%20未来龙皇%20霍普
@@ -2114,6 +2115,7 @@
 .. _`尘妖的拖把`: https://ygocdb.com/card/name/尘妖的拖把
 .. _`尤尼科之影灵衣`: https://ygocdb.com/card/name/尤尼科之影灵衣
 .. _`尸界的班西`: https://ygocdb.com/card/name/尸界的班西
+.. _`尸魔侠`: https://ygocdb.com/card/name/尸魔侠
 .. _`尸龙子`: https://ygocdb.com/card/name/尸龙子
 .. _`屋尘妖`: https://ygocdb.com/card/name/屋尘妖
 .. _`屋敷童`: https://ygocdb.com/card/name/屋敷童
@@ -6860,6 +6862,7 @@
 .. _`黑焰衍生物`: https://ygocdb.com/?search=黑焰衍生物
 .. _`黑白的波动`: https://ygocdb.com/card/name/黑白的波动
 .. _`黑羽`: https://ygocdb.com/?search=黑羽
+.. _`黑羽-上弦之灭弓鸟`: https://ygocdb.com/card/name/黑羽-上弦之灭弓鸟
 .. _`黑羽-东云之东风`: https://ygocdb.com/card/name/黑羽-东云之东风
 .. _`黑羽-二太刀之厄特西安`: https://ygocdb.com/card/name/黑羽-二太刀之厄特西安
 .. _`黑羽-南风之奥斯特`: https://ygocdb.com/card/name/黑羽-南风之奥斯特
