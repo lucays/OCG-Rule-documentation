@@ -105,7 +105,6 @@
    | 例：
    | 「`混沌No.103 神葬零娘 暮永`_」的效果处理时没能造成伤害的场合，不会除外怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13573&request_locale=ja>`__
    | 「`黑蔷薇龙`_」的②效果的对象怪兽没有因这个效果变成表侧攻击表示的场合（如已经被「`最终突击命令`_」变成攻击表示了等），攻击力不会变0。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7607&keyword=&tag=-1&request_locale=ja>`__
-   | 以自身为对象发动「`十二兽的会局`_」的①效果，连锁「`旋风`_」把它破坏的场合，由于这个效果没能破坏作为对象的卡，结果不能特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20106&request_locale=ja>`__
    | 「`冰火之魔导书`_」的效果处理时，没能送去墓地而是除外的场合，不会抽卡。\ `17/7/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20902&keyword=&tag=-1&request_locale=ja>`__ 选P怪兽结果加入额外卡组没能送去墓地的场合也不会抽卡。\ `17/7/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20866&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 基本上，即使处理时后1步不能适用的场合，前1步也会适用。
@@ -131,7 +130,7 @@
    | 如果前1步没有正常适用，后1步也不适用。
    | 这个场合，在前1步处理完的时点就是这个效果处理完毕的时点。
    | 例：
-   | 以怪兽衍生物为对象发动「`救祓少女连祷`_」的场合，可以适用「`救祓少女连祷`_」的『那之后，可以从以下效果选1个适用』效果；以因自身效果特殊召唤、适用『从场上离开的场合回到卡组最下面』的「`亡龙之战栗-死欲龙`_」为对象的场合，那只「`亡龙之战栗-死欲龙`_」会回到卡组最下面，因此不能适用「`救祓少女连祷`_」的『那之后，可以从以下效果选1个适用』效果。
+   | 以怪兽衍生物为对象发动「`救祓少女连祷`_」的场合，可以适用「`救祓少女连祷`_」的『那之后，可以从以下效果选1个适用』效果；以因自身效果特殊召唤，适用『从场上离开的场合回到卡组最下面』的「`亡龙之战栗-死欲龙`_」为对象的场合，那只「`亡龙之战栗-死欲龙`_」会回到卡组最下面，因此不能适用「`救祓少女连祷`_」的『那之后，可以从以下效果选1个适用』效果。
    | 「`速攻稻草人`_」的①效果处理时，没能把那次攻击无效的场合，战斗阶段也不会结束。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12933&keyword=&tag=-1&request_locale=ja>`__
    | 「`阿拉弥赛亚之仪`_」的①效果处理时，因「`虚无空间`_」等效果适用，没能特殊召唤「`勇者衍生物`_」的场合，也不能放置「`命运之旅路`_」。\ `21/11/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23449&keyword=&tag=-1&request_locale=ja>`__
    | 「`除雪机关车 急速除雪车`_」的①效果处理时，因「`旋风`_」等效果，自己场上不存在魔法·陷阱卡的场合，特殊召唤成功时这个效果处理完毕，后续破坏不再处理，可以发动「`激流葬`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13043&request_locale=ja>`__
