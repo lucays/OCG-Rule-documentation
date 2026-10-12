@@ -110,6 +110,7 @@
 -  | 基本上，即使处理时后1步不能适用的场合，前1步也会适用。
    | 例：
    | 「`水晶机巧-胶子黑晶`_」的①效果处理时，自身不在怪兽区域表侧表示存在的场合，仍然会特殊召唤作为对象的怪兽，不进行S召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8715&keyword=&tag=-1&request_locale=ja>`__
+   | 「`交叉搬运员`_」的①效果处理时，手卡没有「`新空间侠`_」怪兽的场合，作为对象的怪兽仍送去墓地，只是不进行『从手卡把1只「`新空间侠`_」怪兽特殊召唤』的处理。\ `26/10/10 <https://yugioh-wiki.net/index.php?%A1%D4%A5%AF%A5%ED%A5%B9%A1%A6%A5%DD%A1%BC%A5%BF%A1%BC%A1%D5#faq>`__
 
    .. note::
 
@@ -181,6 +182,7 @@
    | 「`月光小夜曲舞踊`_」的①效果处理时，因「`虚无空间`_」等效果适用，没能特殊召唤的场合，也会正常再进行『●作为对象的怪兽的攻击力上升对方场上的怪兽数量×500』的处理。\ `18/11/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22236&keyword=&tag=-1&request_locale=ja>`__
    | 「`半龙女仆·耀光龙女`_」的②效果处理时，没能把那个发动无效并破坏的场合，自己仍然会回到额外卡组并特殊召唤「`半龙女仆·龙女管家`_」。\ `20/1/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22965&keyword=&tag=-1&request_locale=ja>`__
    | 双方场地区域都存在卡片，「`宇迦御狐之御稻成`_」的③效果处理时，先决定是否适用2个『●』效果，决定都适用的场合，即使『●对方场上1张卡破坏』破坏了场地区域的卡片，仍然会继续进行第2个『●』效果的处理。\ `25/4/26 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24168&keyword=&tag=-1&request_locale=ja>`__
+   | 「`小丑与锁鸟`_」的①效果适用中，可以发动「`2选1`_」。处理时，对方选择的上面的『●』把对方选的卡给双方确认，是怪兽的场合进行特殊召唤的处理，不能特殊召唤的怪兽回到卡组，不是怪兽的场合按文本除外；下面的『●』把对方没选的卡之中没有除外的那张卡给双方确认，是怪兽的场合不加入手卡而是送去墓地，不是怪兽的场合除外。无论哪种情况，剩余的卡都回到卡组。\ `26/10/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24401&keyword=&tag=-1&request_locale=ja>`__
 
 『加上以下效果』
 -------------------

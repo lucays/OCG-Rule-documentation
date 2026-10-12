@@ -150,6 +150,8 @@ VERB = re.compile(r'(发动|召唤|特殊召唤|变成|回到|除外|送去|加�
 
 ## RST entry format
 
+Month dividers: when the first FAQ of a new month is added to a `docs/c06/*.rst` file, insert the month heading **automatically, without being asked**: `26/NN` on its own line, `=========` (9 `=`) as underline, then a blank line. Hierarchy: year `======` (6 `=`), month `=========` (9 `=`), day `-------` (5 `-`).
+
 Each FAQ entry in `docs/c06/*.rst` must follow these formatting rules:
 
 - Each ruling is a standalone `| ` line. No Q&A structure (no `Q.` / `A.`).
@@ -158,6 +160,26 @@ Each FAQ entry in `docs/c06/*.rst` must follow these formatting rules:
 - When listing multiple card names in a ruling, separate them with `、` (e.g. `「`卡名A`_」、「`卡名B`_」④、「`卡名C`_」③`).
 - Multiple entries under the same source label (e.g. `| 数据库：`) are separate `| ` lines. Each line is self-contained.
 - New card names referenced via `「\`卡名\`_」` must have a matching entry in `docs/links.rst` for the RST reference to resolve. Add it alphabetically using the format ``.. _`卡名`: https://ygocdb.com/card/name/卡名``.
+
+## Topic-page sync (c02/c03/c04): when a new FAQ belongs in the body
+
+After translating a batch of FAQs into `docs/c06/*.rst`, **check whether any of them fits a topic page** (`docs/c02/`, `docs/c03/`, `docs/c04/`). This is part of the routine — but it is **selective, not mandatory**. Do not try to place every FAQ somewhere.
+
+Add an example to a topic page only when **all** of these hold:
+
+- The ruling clarifies a **general rule** that the topic page is actually about (not a card-vs-card interaction reading).
+- The topic page currently has **no example covering that facet**, or only very few — a new example must add coverage, not company.
+- The example reads naturally inside the existing section without inventing a new subsection for it.
+
+Leave it out (c06 only) when:
+
+- The ruling is mainly about how one specific card's text interacts with another specific card.
+- The topic page has no section it naturally belongs to — do **not** create new sections just to house a single example.
+- The entry is still `调整中`.
+
+Examples of rejected placements (2026-10-12, user decision): 艮神鬼门 三千世界 × 里侧强欲之瓶 into the「夜摄」tip (single-card interaction), 沉默斗者 × 娱乐决斗 (text-reading nuance), 敌人操纵器 × 天下独步之大义贼 (card-pair interaction), 龙复活狂奏 × 活死人的呼声 into 誓约.rst (facet already covered). Accepted: 交叉搬运员 (『A，B』型 late-step rule), 2选1 × 小丑与锁鸟 (multi-『●』independent steps), 特大成功 (自排连锁 mechanics).
+
+Mechanics: before editing, count EOLs (`c02/基本用语.rst`, `c03/诱发类效果.rst`, `c03/誓约.rst` etc. may be **LF-only**) and use byte-level replace; re-run the reference validation after inserting.
 
 ## Historical FAQ reconciliation
 

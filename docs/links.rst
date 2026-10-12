@@ -1,4 +1,5 @@
 .. _`-破坏剑士`: https://ygocdb.com/?search=-破坏剑士
+.. _`2选1`: https://ygocdb.com/card/name/2选1
 .. _`7`: https://ygocdb.com/card/name/7
 .. _`7卡`: https://ygocdb.com/card/name/7卡
 .. _`@イグニスター`: https://ygocdb.com/?search=@イグニスター
@@ -1709,6 +1710,7 @@
 .. _`大热波`: https://ygocdb.com/card/name/大热波
 .. _`大狼雷鸣`: https://ygocdb.com/card/name/大狼雷鸣
 .. _`大电脑兵厂`: https://ygocdb.com/card/name/大电脑兵厂
+.. _`大精灵机巧军-灵摆支配者`: https://ygocdb.com/card/name/大精灵机巧军-灵摆支配者
 .. _`大胆无敌`: https://ygocdb.com/card/name/大胆无敌
 .. _`大落穴`: https://ygocdb.com/card/name/大落穴
 .. _`大薰风凤凰`: https://ygocdb.com/card/name/大薰风凤凰
@@ -1725,6 +1727,7 @@
 .. _`大钢琴之七音服·库莉娅`: https://ygocdb.com/card/name/大钢琴之七音服·库莉娅
 .. _`大风暴`: https://ygocdb.com/card/name/大风暴
 .. _`大骚动`: https://ygocdb.com/card/name/大骚动
+.. _`天下独步之大义贼`: https://ygocdb.com/card/name/天下独步之大义贼
 .. _`天下独步的大义贼`: https://ygocdb.com/card/name/天下独步的大义贼
 .. _`天下统一`: https://ygocdb.com/card/name/天下统一
 .. _`天丛云之巳剑`: https://ygocdb.com/card/name/天丛云之巳剑
@@ -3989,6 +3992,7 @@
 .. _`海造贼`: https://ygocdb.com/?search=海造贼
 .. _`海造贼-双翼之光照号`: https://ygocdb.com/card/name/海造贼-双翼之光照号
 .. _`海造贼-大航海`: https://ygocdb.com/card/name/海造贼-大航海
+.. _`海造贼-庄重之大地号`: https://ygocdb.com/card/name/海造贼-庄重之大地号
 .. _`海造贼-白胡子机关士`: https://ygocdb.com/card/name/海造贼-白胡子机关士
 .. _`海造贼-祝宴`: https://ygocdb.com/card/name/海造贼-祝宴
 .. _`海龙-泰达路斯`: https://ygocdb.com/card/name/海龙-泰达路斯
@@ -4408,6 +4412,7 @@
 .. _`牲祭升阶`: https://ygocdb.com/card/name/牲祭升阶
 .. _`牲祭封印之假面`: https://ygocdb.com/card/name/牲祭封印之假面
 .. _`牲祭栗子球`: https://ygocdb.com/card/name/牲祭栗子球
+.. _`特大成功`: https://ygocdb.com/card/name/特大成功
 .. _`特异英雄 恐惧破坏者`: https://ygocdb.com/card/name/特异英雄%20恐惧破坏者
 .. _`特拉戈迪亚`: https://ygocdb.com/card/name/特拉戈迪亚
 .. _`特殊二重召唤`: https://ygocdb.com/card/name/特殊二重召唤
@@ -5430,6 +5435,7 @@
 .. _`舍身的宝札`: https://ygocdb.com/card/name/舍身的宝札
 .. _`舔舔三舌犬`: https://ygocdb.com/card/name/舔舔三舌犬
 .. _`舞台旋转`: https://ygocdb.com/card/name/舞台旋转
+.. _`艮神鬼门 三千世界`: https://ygocdb.com/card/name/艮神鬼门%20三千世界
 .. _`艾克莉西娅`: https://ygocdb.com/?search=艾克莉西娅
 .. _`芙莉嘉的苹果`: https://ygocdb.com/card/name/芙莉嘉的苹果
 .. _`芙莉西亚之虫惑魔`: https://ygocdb.com/card/name/芙莉西亚之虫惑魔
