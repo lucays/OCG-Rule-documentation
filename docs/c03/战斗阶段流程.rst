@@ -17,13 +17,14 @@
    | 我方场上存在「`噩梦之苦痛`_」和「`于贝尔`_」怪兽，对方场上只有守备表示怪兽或者不能攻击的怪兽存在时，可以不进入战斗阶段（存在『可以用表侧守备表示的状态作出攻击』怪兽的场合，必须进入战斗阶段，必须攻击「`于贝尔`_」怪兽）；对方场上只存在不受魔法效果影响的怪兽时，可以不进入战斗阶段，也可以进入战斗阶段但不攻击；对方场上存在可以『直接攻击』的怪兽时，也必须进入战斗阶段，必须攻击「`于贝尔`_」怪兽；对方场上存在『在同1次的战斗阶段中可以作2次攻击』的怪兽时，也必须进入战斗阶段，必须攻击「`于贝尔`_」怪兽2次。\ `24/6/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24033&keyword=&tag=-1&request_locale=ja>`__
    | 「`挑衅`_」的文本是『对方这个回合攻击的场合，必须以选择的怪兽为攻击对象』，不是对方必须进行战斗阶段的效果，也不是对方必须攻击的效果，对方可以不进入战斗阶段，也可以进入战斗阶段后不攻击。对方攻击的场合，是对攻击怪兽适用的陷阱效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16096&keyword=&tag=-1&request_locale=ja>`__
 
-| 在不能进行战斗阶段的回合，或在主要阶段2中，需要在战斗阶段内才能处理的，让怪兽能多次攻击、直接攻击、贯通、战斗伤害加倍·减半等效果基本上不能发动。不过，如果只作为附带的效果处理，基本上可以发动。
+| 在不能进行战斗阶段的回合，或在主要阶段2中，需要在战斗阶段内才能处理的，让怪兽能多次攻击、直接攻击、贯通、战斗伤害加倍·减半等效果基本上不能发动。不过，如果只作为附带的效果处理，基本上可以发动。此外必发效果会强制发动。
 | 不需要战斗阶段就能处理的效果，如记述有『不能进行战斗阶段』『不能攻击』等文本的效果可以发动。
 | 例：
 | 「`电子鱼人-弓手`_」的效果\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13790&request_locale=ja>`__ 「`回转调车`_」的①效果\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=118&request_locale=ja>`__ 「`电子化天使-美朱濡-`_」的①效果\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19694&request_locale=ja>`__ 「`嵌合狂暴龙`_」的②效果\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15011&request_locale=ja>`__ 「`雷击坏兽 雷鸣龙王`_」的④效果\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19932&request_locale=ja>`__ 「`阴之天气模样`_」\ `17/8/31 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8653&request_locale=ja>`__ 「`女巫特露德`_」的②效果\ `18/5/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21&request_locale=ja877&request_locale=ja>`__ 可以发动。
 | 「`仁王立`_」的②效果\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18024&request_locale=ja>`__ 「`娱乐法师 秋千魔术家`_」的②效果\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15365&request_locale=ja>`__ 「`DDD 怒涛王 凯撒`_」的①效果\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13535&request_locale=ja>`__ 「`猪突猛进`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16582&request_locale=ja>`__ 「`No.95 银河眼暗物质龙`_」的②效果\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14805&request_locale=ja>`__ 「`虹彩之魔术师`_」的P效果\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20422&request_locale=ja>`__ 不能发动。
 | 「`混沌战士 -开辟的使者-`_」的除外效果\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13110&request_locale=ja>`__ 「`青眼亚白龙`_」的②效果\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=178&request_locale=ja34&request_locale=ja>`__ 「`灵魂补充`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13252&request_locale=ja>`__ 「`同胞的牵绊`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13512&request_locale=ja>`__ 可以发动。
 | 在对方回合也能发动「`沙尘之大风暴`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20916&request_locale=ja>`__
+| 先攻第1回合或者主要阶段2，以「`我我我我少女`_」为X素材X召唤「`未来No.0 未来皇 霍普`_」的场合，也会强制发动因「`我我我我少女`_」的②效果得到的『●这张卡X召唤的场合发动。这个回合，这张卡在同1次的战斗阶段中可以作2次攻击』效果。
 
 .. note::
 
@@ -128,8 +129,8 @@
    | 自己场上存在「`鲨鱼要塞`_」和「`No.38 希望魁龙 银河巨神`_」，对方怪兽在攻击宣言和战斗卷回时攻击对象只能选择「`鲨鱼要塞`_」，此时自己的「`No.38 希望魁龙 银河巨神`_」可以发动②效果把攻击对象转移到自身进行伤害计算。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17981&request_locale=ja>`__
    | 我方「`人偶城堡`_」「`美西螈绅士`_」「`双穹之骑士 阿斯特拉姆`_」的效果适用的场合，我方也可以发动「`No.38 希望魁龙 银河巨神`_」的②效果把攻击对象转移给自身进行伤害计算。此外，我方「`传说的渔人`_」的②效果适用的场合，我方也可以对其发动「`攻击诱导铠甲`_」第2个『●』效果并适用。\ `25/12/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17980&keyword=&tag=-1&request_locale=ja>`__
    | 适用了「`仁王立`_」②效果的「`苹果魔术少女`_」被选择作为攻击对象的场合也可以发动①效果，只进行特殊召唤，后续处理不适用。由于特殊召唤了怪兽，发生战斗的卷回，这时，对方只能选择攻击「`苹果魔术少女`_」或者放弃攻击。\ `21/12/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11853&keyword=&tag=-1&request_locale=ja>`__
-   | 我方场上存在1只「`再生史莱姆`_」和1只装备了「`磁力指轮`_」的怪兽，对方怪兽攻击装备了「`磁力指轮`_」的怪兽时，我方不能发动「`防御史莱姆`_」来把攻击对象转移给「`再生史莱姆`_」。\ `24/11/22 <https://yugioh-wiki.net/index.php?%B9%B6%B7%E2%C2%D0%BE%DD#faq>`_
-   | 我方场上存在1只「`No.38 希望魁龙 银河巨神`_」和1只装备了「`磁力指轮`_」的怪兽，对方怪兽攻击装备了「`磁力指轮`_」的怪兽时，我方可以发动「`No.38 希望魁龙 银河巨神`_」的②效果来把攻击对象转移给自身进行伤害计算。\ `24/11/22 <https://yugioh-wiki.net/index.php?%B9%B6%B7%E2%C2%D0%BE%DD#faq>`_
+   | 我方场上存在1只「`再生史莱姆`_」和1只装备了「`磁力指轮`_」的怪兽，对方怪兽攻击装备了「`磁力指轮`_」的怪兽时，我方不能发动「`防御史莱姆`_」来把攻击对象转移给「`再生史莱姆`_」。\ `24/11/22 <https://yugioh-wiki.net/index.php?%B9%B6%B7%E2%C2%D0%BE%DD#faq>`__
+   | 我方场上存在1只「`No.38 希望魁龙 银河巨神`_」和1只装备了「`磁力指轮`_」的怪兽，对方怪兽攻击装备了「`磁力指轮`_」的怪兽时，我方可以发动「`No.38 希望魁龙 银河巨神`_」的②效果来把攻击对象转移给自身进行伤害计算。\ `24/11/22 <https://yugioh-wiki.net/index.php?%B9%B6%B7%E2%C2%D0%BE%DD#faq>`__
 
 -  | 「`冲锋陷阵的队长`_」等『对方不能选择其他怪兽作为攻击对象』『对方只能选择○○怪兽作为攻击对象』的效果是让对方怪兽只能向其攻击的效果。如果存在多只持有这类效果的怪兽，对方不能攻击。
    | 「`邪心英雄 恶刃魔鬼`_」等『在可以攻击的场合必须向○○作出攻击』的效果是让对方怪兽必须向这些怪兽攻击的效果。如果存在多个这类效果，对方必须攻击，我方选要适用哪1个效果。我方决定好适用哪个效果后，如果那个效果记述的『○○』包含多只怪兽，再由对方从那之中选1只作为攻击对象。
@@ -160,7 +161,7 @@
       | 例：
       | 即使我方场上适用了「`仁王立`_」②效果的怪兽不在场上表侧表示存在，如果我方场上存在「`于贝尔`_」「`噩梦之苦痛`_」，可以攻击的对方怪兽必须向「`于贝尔`_」作出攻击。
       | 我方场上存在2只「`于贝尔`_」怪兽和「`噩梦之苦痛`_」，以其中1只怪兽为对象发动「`仁王立`_」②效果后，可以攻击的对方怪兽必须向「`于贝尔`_」怪兽作出攻击。这时，对方仍然可以从那2只「`于贝尔`_」怪兽之中任选1只作出攻击。
-      | 对方场上存在攻击表示的「`青眼卡通龙`_」和守备表示的「`邪心英雄 恶刃魔鬼`_」时，我方「`卡通黑魔术少女`_」（『只能选择卡通怪兽作为攻击对象』）「`卡通人鱼`_」（『必须把卡通怪兽作为攻击对象』）「`银河龙骑士`_」（『只能向龙族怪兽攻击』）或适用了「`烙印的命数`_」②效果（『只能向对方场上的攻击表示怪兽攻击』）的怪兽都必须攻击「`邪心英雄 恶刃魔鬼`_」，不能攻击「`青眼卡通龙`_」。\ `24/12/6 <https://yugioh-wiki.net/index.php?%B9%B6%B7%E2%C2%D0%BE%DD#faq>`_
+      | 对方场上存在攻击表示的「`青眼卡通龙`_」和守备表示的「`邪心英雄 恶刃魔鬼`_」时，我方「`卡通黑魔术少女`_」（『只能选择卡通怪兽作为攻击对象』）「`卡通人鱼`_」（『必须把卡通怪兽作为攻击对象』）「`银河龙骑士`_」（『只能向龙族怪兽攻击』）或适用了「`烙印的命数`_」②效果（『只能向对方场上的攻击表示怪兽攻击』）的怪兽都必须攻击「`邪心英雄 恶刃魔鬼`_」，不能攻击「`青眼卡通龙`_」。\ `24/12/6 <https://yugioh-wiki.net/index.php?%B9%B6%B7%E2%C2%D0%BE%DD#faq>`__
 
 -  | 『对方只能选择○○怪兽作为攻击对象』效果适用时，对方只能选那只怪兽作为攻击对象，可以直接攻击的怪兽不能通过效果直接攻击。
    | 『对方不能选择其他怪兽作为攻击对象』效果适用时，对方怪兽可以选玩家为攻击对象，可以直接攻击的怪兽可以直接攻击。
@@ -541,8 +542,11 @@
 
 -  | 「`银幕之镜壁`_」这样持有不入连锁影响攻击力·守备力的效果的永续陷阱，只能在伤害步骤开始时和伤害计算前进行卡的发动。即使是「`凭依解放`_」这样在伤害计算时适用的效果也是如此。\ `20/7/4 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11596&request_locale=ja>`__
    | 其他永续陷阱在伤害步骤内不能只进行卡的发动，有可以发动的效果满足条件时，才能发动那个效果并进行卡的发动。
+   | 「`超量纷争对手`_」的②效果、「`追赶之翼`_」的②效果、「`宝玉的玲珑`_」的③效果、「`潜海奇袭`_」的●效果等需要先表侧表示存在再才能发动效果，这类永续陷阱不能在伤害步骤内进行卡的发动。
    | 例：
-   | 「`真龙的默示录`_」只在卡的发动的同一\ :ref:`连锁块`\ 发动①效果的场合，才能在伤害步骤内发动。\ `17/1/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12984&request_locale=ja>`__
+   | 「`真龙的默示录`_」只在卡的发动的同一\ :ref:`连锁块`\ 发动①效果的场合，才能在伤害步骤开始时和伤害计算前发动。\ `17/1/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12984&request_locale=ja>`__
+   | 「`方程式运动员白热阶段`_」只在卡的发动的同一\ :ref:`连锁块`\ 发动②效果的场合，才能在伤害计算前发动。\ `18/9/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13712&request_locale=ja>`__
+   | 「`亚马逊的急袭`_」的②效果\ `17/6/3 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13175&request_locale=ja>`__\ 、「`魔偶甜点圆舞`_」\ `18/3/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10201&request_locale=ja>`__\ 目前的文本都没有写『表侧表示存在』，但数据库的补充情报记述了『既に表側表示で存在する状態で…戦闘を行った場合』，不能在伤害步骤内发动。
 
 | 例：
 | 「`辉神鸟 贝努鸟`_」的②效果\ `17/10/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12395&request_locale=ja>`__ 「`黯黑之魔王 迪亚波罗斯`_」的①效果\ `18/3/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13683&request_locale=ja>`__ 在伤害步骤内不能发动。
@@ -607,6 +611,7 @@
    | 没有再1次召唤的二重怪兽是通常怪兽，被战斗·效果破坏的场合可以发动「`天威龙-真知蟠龙`_」的效果。已经再1次召唤的二重怪兽被战斗·效果破坏的场合，不能发动「`天威龙-真知蟠龙`_」的效果。\ `19/10/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22861&keyword=&tag=-1&request_locale=ja>`__
    | 怪兽区域适用自身②永续效果，攻击力上升到2400的「`娱乐伙伴 国王熊精`_」被战斗破坏的场合，是持有比原本攻击力高的攻击力的自己场上的怪兽被战斗破坏，之后P区域「`娱乐伙伴 笑容魔术家`_」的①效果可以发动。\ `23/10/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24015&keyword=&tag=-1&request_locale=ja>`__
    | 我方发动「`闪刀机-黑寡妇抓锚`_」，无效并得到「`于贝尔-永远之爱的守护者`_」的控制权后，攻击对方「`青眼白龙`_」，被战斗破坏送去对方墓地的场合，「`于贝尔-永远之爱的守护者`_」的③效果也会强制发动。不过，由于这个效果处理时，从对方的角度来看「`青眼白龙`_」不是我方怪兽，『给与对方那只对方怪兽的攻击力数值的伤害』不会给与我方伤害，『那只怪兽除外』的处理也不适用。
+   | 我方场地区域存在「`破邪之魔法壁`_」，我方战斗阶段我方「`暗黑魔族 基尔法恶魔-暗黑魔炎葬`_」（攻击力2500）攻击对方「`唤醒你沉睡的元素英雄`_」（攻击力2500）的伤害计算后，对方发动「`唤醒你沉睡的元素英雄`_」的②效果把「`暗黑魔族 基尔法恶魔-暗黑魔炎葬`_」破坏送去墓地，尽管这时才满足『这张卡在墓地存在的状态』，而伤害计算时就确定『自己的恶魔族怪兽的战斗让怪兽被破坏』，那个伤害步骤结束时「`唤醒你沉睡的元素英雄`_」被破坏的场合，我方可以发动「`暗黑魔族 基尔法恶魔-暗黑魔炎葬`_」的②效果。
 
 -  | 已经是表侧表示的怪兽在进行伤害计算之前又变成里侧表示的场合，会再度反转，仍然正常在伤害计算后发动效果。
    | 例：
@@ -852,7 +857,7 @@
    | 伤害计算后发动「`神星因子`_」时不能把确定被战斗破坏的「`星因士`_」怪兽送去墓地。只有这1只「`星因士`_」怪兽的场合不能发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13272&keyword=&tag=-1&request_locale=ja>`__
    | 伤害计算后不能把确定被战斗破坏的植物族怪兽解放来发动「`花粉症`_」。只有这1只植物族怪兽的场合不能发动「`花粉症`_」。\ `16/12/14 <https://yugioh-wiki.net/index.php?%A5%C0%A5%E1%A1%BC%A5%B8%B7%D7%BB%BB%B8%E5#j640f0af>`__
    | 伤害计算后，确定被战斗破坏的怪兽不能作为cost送去墓地来发动选发的「`黑鸟断道翼`_」。\ `23/1/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23936&keyword=&tag=-1&request_locale=ja>`__
-   | 伤害计算后，「`龙星的九支`_」的效果处理时，要破坏的怪兽可以选确定被战斗破坏`的「`龙星`_」怪兽。\ `23/1/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23937&keyword=&tag=-1&request_locale=ja>`__
+   | 伤害计算后，「`龙星的九支`_」的效果处理时，要破坏的怪兽可以选确定被战斗破坏的「`龙星`_」怪兽。\ `23/1/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23937&keyword=&tag=-1&request_locale=ja>`__
 
    -  | 确定被战斗破坏的怪兽其装备卡不是确定被破坏的状态，可以作为其他卡片破坏的代替而被解放·破坏·除外·送去墓地等。
       | 例：

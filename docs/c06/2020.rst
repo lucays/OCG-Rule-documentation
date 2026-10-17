@@ -228,7 +228,7 @@
 | 数据库：
 | 和「`魔宫的贿赂`_」「`无偿交换`_」一样，「`半龙女仆 耀光龙女`_」的②效果只把发动无效，没能破坏的场合，自身仍然回到额外卡组，正常特殊召唤。\ `20/1/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22965&keyword=&tag=-1&request_locale=ja>`__
 | 「`宵星之骑士 吉尔苏`_」的①效果，是否在这个回合当作调整使用，是根据这个效果处理时相同纵列的存在的其他卡的张数决定的。\ `20/1/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22967&keyword=&tag=-1&request_locale=ja>`__
-| 「`百景战都 金发姑娘城`_」的③效果发动时，只要这个效果让卡破坏的区域中存在卡片，就可以连锁发动「`星尘龙`_」的①效果。\ `20/1/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=2&stype=2&keyword=&tag=-1&sort=2&request_locale=ja>`__
+| 「`百景战都 金发姑娘城`_」的③效果发动时，只要这个效果让卡破坏的区域中存在卡片，就可以连锁发动「`星尘龙`_」的①效果。\ `20/1/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22966&keyword=&tag=-1&request_locale=ja>`__
 | 自己怪兽区域只存在1张「`战华之义-关云`_」，手卡「`战华之孟-曹德`_」的①效果发动时，作为cost让场上的「`战华史略-十万之矢`_」送去墓地，自身特殊召唤后，由于这个时点自己场上存在2种属性的「`战华`_」怪兽，「`戦華史略－十万之矢`_」的②效果可以发动。\ `20/1/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22963&keyword=&tag=-1&request_locale=ja>`__
 | 自己怪兽区域只存在1张「`战华之美-周公`_」，自己以墓地的「`战华之智-诸葛孔`_」为对象发动「`死者苏生`_」时，对方连锁发动「`旋风`_」破坏了自己场上「`战华史略-十万之矢`_」的场合，这个连锁处理完毕时，自己场上存在2种属性的「`战华`_」怪兽，「`戦華史略－十万之矢`_」的②效果可以发动。\ `20/1/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22964&keyword=&tag=-1&request_locale=ja>`__
 
@@ -1991,7 +1991,7 @@
 | 「`邪恶★双子 礼物`_」的效果把2只怪兽的控制权交换的场合，那2只怪兽放置的位置都由发动「`邪恶★双子 礼物`_」效果的玩家来决定。\ `20/9/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23069&keyword=&tag=-1&request_locale=ja>`__
 | 「`神圣法典`_」的效果进行融合召唤之际，可以用自己场上的「`大贤者`_」怪兽和它装备的怪兽卡同时作为融合素材。\ `20/9/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23072&keyword=&tag=-1&request_locale=ja>`__
 | 对方场上的有装备卡的「`大贤者`_」怪兽也会适用「`三贤者之书`_」的①效果。\ `20/9/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23073&keyword=&tag=-1&request_locale=ja>`__
-| 自己场上有「`绝火之龙神 巴赫拉姆`_」当作装备卡装备的「`绝火之大贤者 琐罗亚`_」存在，那只「`绝火之大贤者 琐罗亚`_」的控制权转移给对方的场合，由于「`绝火之龙神 巴赫拉姆`_」仍然在我方魔法·陷阱卡区域，②效果仍然作为我方的效果适用，对方场上存在的那只「`绝火之大贤者 琐罗亚`_」不会被对方自身的魔法陷阱卡的效果破坏。\ `20/9/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23075&keyword=&tag=-1&request_locale=ja>`__
+| 自己场上有「`绝火之龙神 巴赫拉姆`_」当作装备卡装备的「`绝火之大贤者 琐罗亚`_」存在，那只「`绝火之大贤者 琐罗亚`_」的控制权转移给对方的场合，由于「`绝火之龙神 巴赫拉姆`_」仍然在我方魔法·陷阱卡区域，②效果仍然作为我方的效果适用，对方场上存在的那只「`绝火之大贤者 琐罗亚`_」不会被对方自身的魔法·陷阱卡的效果破坏。\ `20/9/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23075&keyword=&tag=-1&request_locale=ja>`__
 | 「`次元魔法`_」发动时，由于是不确定是否把场上的卡破坏的效果，不能连锁发动「`邪恶★双子轻松通关`_」的『●要让场上的卡破坏的魔法·陷阱·怪兽的效果发动时才能发动。那个效果无效』效果。\ `20/9/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23070&keyword=&tag=-1&request_locale=ja>`__
 | 使用X怪兽或者连接怪兽把「`龙仪巧-天龙流星DRA`_」仪式召唤时，仪式召唤使用的持有等级的怪兽的等级合计在2以下的场合，这只「`龙仪巧-天龙流星DRA`_」的②效果也可以适用。\ `20/9/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23067&keyword=&tag=-1&request_locale=ja>`__
 | 「`龙辉巧-右枢α`_」把效果发动的回合，也可以通常召唤。\ `20/9/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23068&keyword=&tag=-1&request_locale=ja>`__

@@ -17,6 +17,17 @@ This repository is a Yu-Gi-Oh! OCG ruling documentation project. Agents working 
 - Linked entries should follow the existing project style and end with the short date link, for example:
   - ``\ `26/4/25 <https://...>`__``
 
+## Batch intake: a mail-only batch is usually incomplete
+
+When the user hands over a batch that contains **only** mail entries (a `faq.txt` with no database or wiki URLs), do not treat that as the whole batch. The same period normally also has database FAQs and yugioh-wiki FAQs that belong in the same day blocks.
+
+- Cover the date range of the mail entries, not just "recent" — the database's `NEW` badge only lasts about three weeks, so older ranges must be read by update date.
+- Inside one day block the order is `| 邮件：` → `| 裁定变更：` → `| wiki:` → `| 数据库：`.
+- Each source keeps its own official date. A database entry whose update date differs from the mail's date goes into its own block; do not merge them.
+- A database entry that surfaces with an update date in this range but has a **much older** FAQ id is an edited legacy entry, not a new ruling. Compare it against what is already recorded before adding anything, and use `裁定变更：` only if the ruling itself changed.
+- Skip when preparing the batch: entries already referenced anywhere under `docs/`, wiki entries that merely translate a database FAQ, and the same Q&A duplicated across a series page and a card page.
+- Placeholder/local tooling for this intake step must **not** be added to this repository; the repo is public. Only the resulting ruling text goes in.
+
 ## Card name sourcing
 
 - Card names inside Japanese `「」` or `《》` should be resolved from the external file:

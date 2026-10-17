@@ -2552,7 +2552,7 @@ wiki:
 
 | wiki:
 | 「`超魔导师-黑魔术师徒`_」的①效果抽到的魔法·陷阱卡可以直接盖放，不需要给对方确认。\ `19/11/20 <http://yugioh-wiki.net/index.php?%A1%D4%C4%B6%CB%E2%C6%B3%BB%D5%A1%DD%A5%D6%A5%E9%A5%C3%A5%AF%A1%A6%A5%DE%A5%B8%A5%B7%A5%E3%A5%F3%A5%BA%A1%D5#faq>`__
-| 一组连锁上发动了多张「`F.A.`_」魔法陷阱效果的场合，处理后「`F.A.`_」怪兽的等级上升效果只发动1次。\ `19/11/20 <http://yugioh-wiki.net/index.php?%A3%C6.%A3%C1.#faq>`__
+| 一组连锁上发动了多张「`方程式运动员`_」魔法·陷阱效果的场合，处理后「`方程式运动员`_」怪兽的等级上升效果只发动1次。\ `19/11/20 <http://yugioh-wiki.net/index.php?%A3%C6.%A3%C1.#faq>`__
 | 一组连锁上对方发动了多张魔法卡的场合，处理后「`凤凰剑圣 基亚·弗里德`_」的②效果只发动1次。\ `19/11/20 <http://yugioh-wiki.net/index.php?%A1%D4%A5%D5%A5%A7%A5%CB%A5%C3%A5%AF%A5%B9%A1%A6%A5%AE%A5%A2%A1%A6%A5%D5%A5%EA%A1%BC%A5%C9%A1%D5#faq1>`__
 
 11/21
