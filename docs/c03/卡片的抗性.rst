@@ -16,7 +16,7 @@
 - 『被破坏的场合，作为代替』
 
 | 这些效果适用时均不入连锁，即不存在效果的发动。
-| 也就是说，『○○发动时才能发动』等效果不会连锁这些抗性，例如「`电子龙 无限`_」无法解决特殊召唤的「`幻奏的音女 阿莉娅`_」。
+| 也就是说，『○○发动时才能发动』等效果不会连锁这些抗性，例如「`电子龙·无限`_」无法解决特殊召唤的「`幻奏的音女 阿莉娅`_」。
 
 破坏抗性
 ========
@@ -101,8 +101,8 @@
 -  | 『不会成为攻击对象』这样的效果基本上影响的是其他怪兽，\ **不是怪兽自身**\ 。不受效果影响的怪兽可以攻击不会成为攻击对象的怪兽（包括「`双穹之骑士 阿斯特拉姆`_」等『对方不能选择其他怪兽成为攻击对象』适用时的其他怪兽），其攻击对象也不会因卡片效果被转移。
    | 不过，「`传说的渔人`_」「`守护者·凯丝特`_」这样，怪兽区域只有它们时，对方的攻击变成直接攻击的效果，不影响怪兽。不受效果影响的怪兽也不能选择它们作为攻击对象，没有其他怪兽时也变成直接攻击。
    | 例：
-   | 受到「`R・R・R`_」的效果影响的「`急袭猛禽`_」怪兽仍然可以成为受到「`禁忌的圣枪`_」影响的怪兽的攻击对象，但不能成为其效果的对象。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20381&request_locale=ja>`__
-   | 「`R・R・R`_」的对象怪兽在处理时不受其他卡的效果影响的场合，「`R・R・R`_」的效果正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20381&request_locale=ja&keyword=&tag=-1>`__
+   | 受到「`急袭猛禽复制品`_」的效果影响的「`急袭猛禽`_」怪兽仍然可以成为受到「`禁忌的圣枪`_」影响的怪兽的攻击对象，但不能成为其效果的对象。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20381&request_locale=ja>`__
+   | 「`急袭猛禽复制品`_」的对象怪兽在处理时不受其他卡的效果影响的场合，「`急袭猛禽复制品`_」的效果正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20381&request_locale=ja&keyword=&tag=-1>`__
    | 不受其他卡效果影响的怪兽攻击宣言时，对方发动「`工作列车 红色信号`_」的效果的场合，发生战斗步骤的卷回，重新选择攻击对象或者放弃攻击。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13550&keyword=&tag=-1&request_locale=ja>`__
 
    .. attention::
@@ -198,11 +198,11 @@
 .. attention:: 特别地，「`交错之魂`_」\ `20/12/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=15838&request_locale=ja>`__\ 「`魔法卡「灵魂交错」`_」\ `24/2/21 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=20041&request_locale=ja>`__\ 「`魔法卡「敌人操纵器」`_」\ `26/9/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=23588&request_locale=ja>`__\ 这样记述『上级召唤』并在这次上级召唤可以作为代替解放对方怪兽的效果，作为召唤手续处理，可以解放不受魔法效果影响的怪兽。
 
 | 「`超融合`_」「`狱火机·撒旦`_」等，记述『\ **不能对应这个效果的发动**\ 』这样不让连锁的文本时，不是效果。不受影响的怪兽也不能对其连锁。
-| 记述『对方不能把怪兽的效果发动』『对方不能把卡的效果发动』的「`水龙-团簇`_」「`星辉士 夏三角`_」「`冲浪检察官`_」\ `17/10/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9917&keyword=&tag=-1&request_locale=ja>`__ 「`No.67 平行骰子天堂锤手`_」\ `18/5/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9817&request_locale=ja>`__ 「`复仇死者·混骸鬼`_」\ `18/9/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22115&request_locale=ja>`__ 「`闪光No.0 希望之异热同心`_」\ `18/6/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11069&keyword=&tag=-1&request_locale=ja>`__ 「`元素英雄 秩序新宇侠`_」\ `18/10/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22181&keyword=&tag=-1&request_locale=ja>`__ 「`转生炎兽 蜃景雄马`_」\ `18/12/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22310&request_locale=ja>`__ 「`魔钟洞`_」\ `19/1/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14314&request_locale=ja>`__ 「`黑混沌之魔术师·黑混沌极魔导`_」\ `19/2/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22459&keyword=&tag=-1&request_locale=ja>`__ 「`天岩户`_」\ `19/4/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21258&keyword=&tag=-1&request_locale=ja>`__ 「`活命水`_」\ `19/5/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22633&keyword=&tag=-1&request_locale=ja>`__ 「`幻层守护者`_」\ `19/6/24 <http://yugioh-wiki.net/index.php?%A1%D4%B8%B8%C1%D8%A4%CE%BC%E9%B8%EE%BC%D4%A5%A2%A5%EB%A5%DE%A5%C7%A5%B9%A1%D5#faq>`__ 「`闪光No.39 希望皇 霍普·电光皇`_」\ `19/6/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19270&keyword=&tag=-1&request_locale=ja>`__ 「`外神 阿撒托斯`_」\ `19/6/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10976&keyword=&tag=-1&request_locale=ja>`__ 「`召唤兽 卡利古拉`_」\ `19/6/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8660&keyword=&tag=-1&request_locale=ja>`__ 
+| 记述『对方不能把怪兽的效果发动』『对方不能把卡的效果发动』的「`水龙-团簇`_」「`星辉士 夏三角`_」「`冲浪检察官`_」\ `17/10/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9917&keyword=&tag=-1&request_locale=ja>`__ 「`No.67 平行骰子天堂锤手`_」\ `18/5/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9817&request_locale=ja>`__ 「`复仇死者·混骸鬼`_」\ `18/9/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22115&request_locale=ja>`__ 「`闪光No.0 霍普·异热同心`_」\ `18/6/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11069&keyword=&tag=-1&request_locale=ja>`__ 「`元素英雄 秩序新宇侠`_」\ `18/10/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22181&keyword=&tag=-1&request_locale=ja>`__ 「`转生炎兽 蜃景雄马`_」\ `18/12/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22310&request_locale=ja>`__ 「`魔钟洞`_」\ `19/1/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14314&request_locale=ja>`__ 「`黑混沌之魔术师·黑混沌极魔导`_」\ `19/2/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22459&keyword=&tag=-1&request_locale=ja>`__ 「`天岩户`_」\ `19/4/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21258&keyword=&tag=-1&request_locale=ja>`__ 「`活命水`_」\ `19/5/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22633&keyword=&tag=-1&request_locale=ja>`__ 「`幻层守护者 阿玛迪斯`_」\ `19/6/24 <http://yugioh-wiki.net/index.php?%A1%D4%B8%B8%C1%D8%A4%CE%BC%E9%B8%EE%BC%D4%A5%A2%A5%EB%A5%DE%A5%C7%A5%B9%A1%D5#faq>`__ 「`闪光No.39 希望皇 霍普·电光皇`_」\ `19/6/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19270&keyword=&tag=-1&request_locale=ja>`__ 「`外神 阿撒托斯`_」\ `19/6/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10976&keyword=&tag=-1&request_locale=ja>`__ 「`召唤兽 卡利古拉`_」\ `19/6/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8660&keyword=&tag=-1&request_locale=ja>`__ 
   等的效果不影响怪兽。这些效果适用后，不受影响的怪兽仍然不能发动效果。
 | 记述『怪兽不能把效果发动』的「`奥西里斯之天空龙`_」「`修禅僧 元道`_」\ `19/6/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18234&keyword=&tag=-1&request_locale=ja>`__ 「`娱乐伙伴 五虹之魔术师`_」\ `19/6/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20981&keyword=&tag=-1&request_locale=ja>`__ 也一样，不受影响的怪兽仍然不能发动效果。
 
--  「`冤枉`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17508&request_locale=ja>`__ 「`终焉的指名者`_」\ `17/6/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9546&keyword=&tag=-1&request_locale=ja>`__ 这样的描述也不影响怪兽，即使不受影响，也不能发动效果。
+-  「`冤枉`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17508&request_locale=ja>`__ 「`终焉之指名者`_」\ `17/6/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9546&keyword=&tag=-1&request_locale=ja>`__ 这样的描述也不影响怪兽，即使不受影响，也不能发动效果。
 -  「`天魔大帝`_」给其他卡附加不让连锁能力的文本不影响那些卡\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18246&request_locale=ja&keyword=&tag=-1&request_locale=ja>`__\ ，并且这个状况对方不受影响的怪兽仍然不能连锁发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18245&keyword=&tag=-1&request_locale=ja>`__
 -  「`混沌帝龙 -终焉的使者-`_」等记述『发动的回合，○○』的文本是\ :ref:`誓约`\ ，不是效果，因此不受效果影响的怪兽仍然会因这些非效果文本而受到限制。
 
@@ -250,7 +250,7 @@
 
 -  | 也不受『○○卡的效果的发动以及那些发动的效果不会被无效化』的效果影响。
    | 例：
-   | 「`幻变骚灵协议`_」在场上存在时，适用了「`神龙骑士 闪耀`_」的「`幻变骚灵 网络傀儡师`_」发动②效果的场合，不受「`幻变骚灵协议`_」的①效果影响，那个效果仍然无效。
+   | 「`幻变骚灵协议`_」在场上存在时，适用了「`神龙骑士 闪耀`_」的「`幻变骚灵·网络傀儡师`_」发动②效果的场合，不受「`幻变骚灵协议`_」的①效果影响，那个效果仍然无效。
    | 「`神星领域`_」在场上存在时，不受魔法效果影响的怪兽效果的发动，仍然会被「`屋敷童`_」①效果等无效。
 
 -  | 让自己场上的怪兽『得到以下效果』的文本，如果是效果，影响那些怪兽，结果不受影响的怪兽不会得到效果。如果不是效果，也就不影响怪兽，结果不受影响的怪兽会得到效果。
@@ -336,7 +336,7 @@
 | 例：
 | 「`No.101 寂静荣誉方舟骑士`_」被破坏时，作为代替取除作为X素材的「`影依蜥蜴`_」的场合，「`影依蜥蜴`_」是被「`No.101 寂静荣誉方舟骑士`_」的效果送去墓地，因此可以发动②效果。
 | 「`代理龙`_」不能选不受其他卡的效果影响的怪兽来代替破坏。\ `17/4/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20948&request_locale=ja>`__
-| 「`荷鲁斯之黑炎龙 LV6`_」被破坏的场合可以把墓地的「`复活的福音`_」除外来代替破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18424&request_locale=ja>`__
+| 「`荷鲁斯之黑炎龙 LV6`_」被破坏的场合可以把墓地的「`复活之福音`_」除外来代替破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18424&request_locale=ja>`__
 | 「`大宇宙`_」的②效果适用中，「`动力工具龙`_」被破坏的场合可以作为代替把其装备的1张装备魔法卡送去墓地，此时装备魔法卡结果被除外。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6529&request_locale=ja>`__
 | 「`破械童子 娑罗摩`_」①效果处理时，选择「`破械焰魔天 阎摩`_」作为要破坏的卡，并适用「`破械焰魔天 阎摩`_」的『场上的这张卡被战斗·效果破坏的场合，可以作为代替把自己或对方的场上1张表侧表示卡破坏』效果而让「`破械童子 娑罗摩`_」被破坏的场合，可以发动「`破械童子 娑罗摩`_」②效果。「`破械童子 阿罗汉`_」①、「`破械童子 罗鬼刹`_」①、「`破械式鬼 萨拉`_」①、「`破械式鬼 斯玛`_」①的效果处理时同样。\ `26/5/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24334&keyword=&tag=-1&request_locale=ja>`__
 
@@ -378,7 +378,7 @@
 
 -  | 『作为代替把○○卡破坏』的效果适用，要让『○○卡』被破坏时，如果还存在可以代替『○○卡』破坏的效果，必须适用的效果会适用，可选适用的效果不能适用。
    | 例：
-   | 「`代理龙`_」的效果选出怪兽来代替破坏时，不会再适用「`复活的福音`_」等可选的代替破坏效果。\ `17/6/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13693&keyword=&tag=-1&request_locale=ja>`__
+   | 「`代理龙`_」的效果选出怪兽来代替破坏时，不会再适用「`复活之福音`_」等可选的代替破坏效果。\ `17/6/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13693&keyword=&tag=-1&request_locale=ja>`__
    | 我方「`破械焰魔天 阎摩`_」被战斗·效果破坏之际适用②效果，选择对方的「`卡通世界`_」作为代替破坏的卡的场合，对方不能适用墓地「`卡通书签`_」的『自己场上的「`卡通世界`_」被效果破坏的场合，可以作为代替把墓地的这张卡除外』效果。\ `26/5/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13693&keyword=&tag=-1&request_locale=ja>`__
    | 我方「`破械焰魔天 阎摩`_」被战斗·效果破坏之际适用②效果，选择对方的「`破械焰魔天 阎摩`_」作为代替破坏的卡的场合，对方不能适用那只「`破械焰魔天 阎摩`_」②效果，对方的「`破械焰魔天 阎摩`_」被破坏。「`代理龙`_」的效果适用的场合也一样。\ `26/5/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24336&keyword=&tag=-1&request_locale=ja>`__
    | 我方「`破械焰魔天 阎摩`_」②效果适用之际选择装备了「`六武众的御灵代`_」的怪兽的场合，适用「`六武众的御灵代`_」的代替破坏效果，破坏「`六武众的御灵代`_」。同类『装备怪兽被破坏的场合，作为代替破坏自身』效果也一样。\ `26/6/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24343&keyword=&tag=-1&request_locale=ja>`__

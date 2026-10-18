@@ -43,11 +43,11 @@
 .. note:: 『○○降临』只是为了记述卡名·字段，没有其他意义。「`破灭与终焉之支配者`_」记述的是『「`世界末日`_」卡降临』，这里「`世界末日`_」不作为卡名，而是字段，因此「`朽坏的祭仪要录`_」的①效果处理时不能把「`世界末日`_」给对方观看来把「`破灭与终焉之支配者`_」加入手卡。\ `26/4/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24319&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 「`假面变化`_」等记述的也只是『特殊召唤』，不是融合召唤。不过，对于「`假面英雄 暗爪`_」等来说，由于记述的是『这张卡用「`假面变化`_」的效果才能特殊召唤』，这仍然是正规手续。
-   | 「`简易融合`_」「`水晶机巧 继承玻纤`_」等记述的是『当作○○召唤特殊召唤』，那么也是正规手续，并且进行的是○○召唤。[#]_
+   | 「`简易融合`_」「`水晶机巧-继承玻纤`_」等记述的是『当作○○召唤特殊召唤』，那么也是正规手续，并且进行的是○○召唤。[#]_
    | 例：
    | 「`同调变化`_」把「`涅槃之超魔导剑士`_」特殊召唤的场合，不是S召唤，因此不是正规手续。「`超量调换`_」把「`霸王黑龙 异色眼叛逆龙`_」特殊召唤等的状况也一样。
    | 「`天刑王 黑天`_」的效果适用中，也不能发动「`星尘战士`_」等『当作S召唤作特殊召唤』的效果，\ `15/8/6 <https://yugioh-wiki.net/index.php?%A1%D4%C5%B7%B7%BA%B2%A6%20%A5%D6%A5%E9%A5%C3%A5%AF%A1%A6%A5%CF%A5%A4%A5%E9%A5%F3%A5%C0%A1%BC%A1%D5#faq>`__\ 而「`星光大道`_」的文本记述的不是S召唤，因此仍然可以发动，这样特殊召唤的「`星尘龙`_」不是正规手续出场的怪兽。
-   | 「`融合禁止区域`_」的效果适用中，「`圣灵兽骑 火狮`_」也可以用自身召唤手续出场，\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=65&request_locale=ja>`__ 可以发动「`假面变化`_」，\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13328&request_locale=ja>`__ 不能发动「`融合之门`_」等『当作融合召唤作特殊召唤』的效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9988&request_locale=ja>`__
+   | 「`融合禁止地区`_」的效果适用中，「`圣灵兽骑 火狮`_」也可以用自身召唤手续出场，\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=65&request_locale=ja>`__ 可以发动「`假面变化`_」，\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13328&request_locale=ja>`__ 不能发动「`融合之门`_」等『当作融合召唤作特殊召唤』的效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9988&request_locale=ja>`__
 
 .. [#] 『当作○○召唤特殊召唤』和直接记述『○○召唤』目前只有一处细微的区别，详见\ :ref:`效果处理中进行伤害计算`\ 。
 
@@ -59,12 +59,12 @@
 
    .. attention::
 
-      | 特别地，「`星尘龙·爆裂体`_」虽然记述的是『「`爆裂模式`_」的效果以及这张卡的效果才能特殊召唤』，但只在用「`爆裂模式`_」的效果特殊召唤的场合，才是正规手续出场。
+      | 特别地，「`星尘龙/爆裂体`_」虽然记述的是『「`爆裂模式`_」的效果以及这张卡的效果才能特殊召唤』，但只在用「`爆裂模式`_」的效果特殊召唤的场合，才是正规手续出场。
       | 「`毒蛇神 维诺米纳迦`_」虽然记述的是『「`蛇神降临`_」的效果以及这张卡的效果才能特殊召唤』，但只在用「`蛇神降临`_」的效果特殊召唤的场合，才是正规手续出场。
       | 「`守护者·戴思塞斯`_」虽然记述的是『用这张卡的效果才能特殊召唤』，但只在用它的①效果特殊召唤的场合，才是正规手续出场。
       | 「`霸王紫龙 异色眼猛毒龙`_」虽然记述的是『用融合召唤以及P召唤才能特殊召唤』，但只有融合召唤才是正规手续，\ **P召唤不是正规召唤手续**\ ，不能直接从表侧表示的额外卡组P召唤到场上。\ `22/4/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13131&request_locale=ja>`__
       | 例：
-      | 用「`青天霹雳`_」的①效果特殊召唤的「`星尘龙·爆裂体`_」在那之后解放自身发动效果的场合，结束阶段不能发动自身效果从墓地把自身特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14409&keyword=&tag=-1&request_locale=ja>`__
+      | 用「`青天霹雳`_」的①效果特殊召唤的「`星尘龙/爆裂体`_」在那之后解放自身发动效果的场合，结束阶段不能发动自身效果从墓地把自身特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14409&keyword=&tag=-1&request_locale=ja>`__
       | 用「`青天霹雳`_」的①效果特殊召唤的「`毒蛇神 维诺米纳迦`_」在那之后被战斗破坏送去墓地的场合，不能发动自身效果从墓地把自身特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14408&keyword=&tag=-1&request_locale=ja>`__
       | 「`同盟运输车`_」的①效果把手卡・卡组的「`守护者·戴思塞斯`_」给怪兽装备后，这张「`守护者·戴思塞斯`_」从场上送去墓地的场合，必须发动④效果。由于未正规出场过，不能从墓地特殊召唤，只把1张手卡送去墓地，这个效果处理完毕。\ `20/1/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6112&keyword=&tag=-1&request_locale=ja>`__
 

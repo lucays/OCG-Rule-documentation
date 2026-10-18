@@ -31,7 +31,7 @@
 | 怪兽区域的「`古怪恶魔`_」把自身解放发动①效果时，连锁发动「`饼蛙`_」②效果的场合，只把这个效果发动无效，已经离开发动时所在场所的「`古怪恶魔`_」不会被破坏，也就不会被盖放。\ `16/7/23 <https://yugioh-wiki.net/index.php?%A1%D4%CC%DF%A5%AB%A5%A8%A5%EB%A1%D5#faq>`__
 | 「`三眼怪`_」的①效果发动时，连锁发动「`饼蛙`_」②效果的场合，只把这个效果发动无效，不能破坏已经在墓地的「`三眼怪`_」，也就不能盖放「`三眼怪`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19537&keyword=&tag=-1&request_locale=ja>`__
 
--  像「`暗黑神鸟`_」④效果适用中这样，不能把卡盖放的场合，由于盖放卡片是可选的效果处理，仍然可以发动这个效果，只把对应的发动无效并破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13828&keyword=&tag=-1&request_locale=ja>`__
+-  像「`暗黑神鸟 斯摩夫`_」④效果适用中这样，不能把卡盖放的场合，由于盖放卡片是可选的效果处理，仍然可以发动这个效果，只把对应的发动无效并破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13828&keyword=&tag=-1&request_locale=ja>`__
 
 | 被这个效果破坏的卡，在被破坏的时点，在墓地·除外·额外卡组表侧表示存在时，才可以被这个效果再盖放到场上。
 | 如果这个时点在手卡·卡组，不能被盖放到场上。
