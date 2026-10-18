@@ -93,7 +93,7 @@
 | 不过，1回合1次的通常召唤次数以及P召唤次数等仍然被使用了。
 | 例：
 | 在自己场上的「`电子龙·新星`_」上面重叠来X召唤「`电子龙·无限`_」之际，这次X召唤被无效的回合，还能再用这个方法X召唤「`电子龙·无限`_」\ `20/6/4 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15005&keyword=&tag=-1&request_locale=ja>`__
-| 「`闪刀姬`_」连接怪兽的连接召唤被无效的回合，还能发动「`帝王的烈旋`_」。\ `21/2/5 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10462&keyword=&tag=-1&request_locale=ja>`__
+| 「`闪刀姬`_」连接怪兽的连接召唤被无效的回合，还能发动「`帝王的烈旋`_」。\ `21/2/5 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11275&request_locale=ja>`__
 | 「`青眼亚白龙`_」的特殊召唤被无效的回合，还能发动「`青色眼睛的激临`_」。\ `18/6/4 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=56&keyword=&tag=-1&request_locale=ja>`__
 | 手卡的「`微码编码员`_」适用①效果作为连接素材把「`码语者`_」怪兽连接召唤之际，这次连接召唤被无效的场合，另1张「`微码编码员`_」也不能再次适用①效果从手卡作为连接素材把「`码语者`_」怪兽连接召唤。\ `18/6/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21976&keyword=&tag=-1&request_locale=ja>`__
 
@@ -208,7 +208,7 @@
 | 「`技能抽取`_」的①效果适用中，「`星因士 天津四`_」特殊召唤发动效果，连锁「`月之书`_」使其变成里侧的场合，结果那个效果不会无效，正常适用。
 | 「`技能抽取`_」的①效果适用中，场上里侧表示的「`帝王海马`_」仍然可以适用自身的效果，可以作为2只的数量解放来把等级7以上的光属性怪兽上级召唤。\ `20/12/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12812&keyword=&tag=-1&request_locale=ja>`__
 | 「`次元障壁`_」宣言融合怪兽的回合，「`ABC-神龙歼灭者`_」解放自身发动的效果不会被无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19595&keyword=&tag=-1&request_locale=ja>`__
-| 「`技能抽取`_」的①效果适用中，「`数学家`_」召唤成功时发动效果，连锁「`幽鬼兔`_」使其被破坏的场合，那个效果不会无效，正常适用。\ `15/2/13 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15061&keyword=&tag=-1>`__
+| 「`技能抽取`_」的①效果适用中，「`数学家`_」召唤成功时发动效果，连锁「`幽鬼兔`_」使其被破坏的场合，那个效果不会无效，正常适用。\ `15/2/13 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15061&keyword=&tag=-1&request_locale=ja>`__
 | 「`过火的埋葬`_」把「`荷鲁斯之黑炎龙 LV6`_」特殊召唤后，先适用「`荷鲁斯之黑炎龙 LV6`_」的效果，不受「`过火的埋葬`_」效果影响，不会无效。\ `17/7/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19950&request_locale=ja>`__
 | 「`过火的埋葬`_」特殊召唤「`削魂的死灵`_」的场合，「`削魂的死灵`_」特殊召唤后被无效，不会被自身效果破坏。\ `17/8/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9578&request_locale=ja>`__
 | 「`命运英雄 血魔-D`_」的①效果适用中，「`青眼卡通究极龙`_」在效果无效的状态发动②效果时，处理时适用「`完美世界 卡通世界`_」③效果把「`青眼卡通究极龙`_」除外的场合，由于处理时从场上离开，「`青眼卡通究极龙`_」不再适用「`命运英雄 血魔-D`_」的①效果，结果②效果处理不会无效。以下效果适用的状况也一样：「`技能抽取`_」、「`尤尼科之影灵衣`_」、「`深渊之兽 白界丧失龙`_」、「`虚龙魔王 无形矢·心灵`_」、「`捕食植物 犀角龙`_」。\ `26/6/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24355&keyword=&tag=-1&request_locale=ja>`__
@@ -256,7 +256,7 @@
 | 另外，和「`技能抽取`_」等处理类似，里侧守备表示状态也能适用的无种类效果不会因这类效果而被无效。
 | 例：
 | 「`墓穴的指名者`_」把「`帝王海马`_」除外后，场上里侧表示的「`帝王海马`_」仍然可以适用自身的效果，可以作为2只的数量解放来把等级7以上的光属性怪兽上级召唤。
-| 自身效果被「`墓穴的指名者`_」无效的怪兽，发动效果时，连锁发动「`月之书`_」被盖放的场合，那个效果处理时仍然无效。\ `19/6/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22672&keyword=&tag=-1&request_locale=ja>`__ 「`无敌光环`_」同样。\ `18/7/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22008&keyword=&tag=-1&request_locale=ja>`__
+| 自身效果被「`墓穴的指名者`_」无效的怪兽，发动效果时，连锁发动「`月之书`_」被盖放的场合，那个效果处理时仍然无效。\ `19/6/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22672&keyword=&tag=-1&request_locale=ja>`__ 「`无敌光环`_」同样。\ `18/7/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13963&request_locale=ja>`__
 | 对「`抹杀之指名者`_」宣言的卡名的怪兽发动「`禁忌的圣枪`_」，结果就不受「`抹杀之指名者`_」的效果影响，恢复有效。\ `19/5/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22630&keyword=&tag=-1&request_locale=ja>`__
 | 「`墓穴的指名者`_」的效果除外了「`罪 矛盾齿轮`_」后，场上的「`罪 矛盾齿轮`_」的②效果无效，墓地的「`罪 矛盾齿轮`_」的②效果不会被无效，可以适用把墓地的「`罪 矛盾齿轮`_」除外来特殊召唤手卡的「`罪`_」怪兽。\ `19/2/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22471&keyword=&tag=-1&request_locale=ja>`__
 
@@ -265,8 +265,8 @@
 
 | 因这类效果而被无效的卡片发动效果，之后不在对应的怪兽·魔法·陷阱卡区域存在的场合，那次效果处理仍然无效；变成里侧守备表示的场合，那次效果处理不会无效，效果正常适用。
 | 例：
-| 连锁1发动「`裁决之龙`_」的效果，连锁2发动「`月之书`_」，连锁3发动「`禁忌的圣杯`_」组成连锁。连锁3使其效果无效后，连锁2变成里侧的时点效果不再被无效。若「`月之书`_」换成「`亚空间物质传送装置`_」「`强制脱出装置`_」「`凤翼的爆风`_」等，仍然无效。\ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12314&keyword=&tag=-1>`__
-| 「`效果遮蒙者`_」的效果适用中的怪兽发动效果，连锁「`月之书`_」使其变成里侧，结果那个效果不会无效。\ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12385&keyword=&tag=-1>`__ 把这个「`月之书`_」换成「`亚空间物质传送装置`_」「`强制脱出装置`_」等，就仍然被无效。
+| 连锁1发动「`裁决之龙`_」的效果，连锁2发动「`月之书`_」，连锁3发动「`禁忌的圣杯`_」组成连锁。连锁3使其效果无效后，连锁2变成里侧的时点效果不再被无效。若「`月之书`_」换成「`亚空间物质传送装置`_」「`强制脱出装置`_」「`凤翼的爆风`_」等，仍然无效。\ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12314&keyword=&tag=-1&request_locale=ja>`__
+| 「`效果遮蒙者`_」的效果适用中的怪兽发动效果，连锁「`月之书`_」使其变成里侧，结果那个效果不会无效。\ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12385&keyword=&tag=-1&request_locale=ja>`__ 把这个「`月之书`_」换成「`亚空间物质传送装置`_」「`强制脱出装置`_」等，就仍然被无效。
 
 -  | 这类效果如果让『全部○○卡』等无效的场合，需要在效果处理时满足『○○』条件。
    | 例：
@@ -304,15 +304,15 @@
 | 我方用「`闪刀姬-零衣`_」攻击对方「`恐吓爪牙族型俱舍怒威族`_」，攻击宣言时已经因「`恐吓爪牙族型俱舍怒威族`_」的③效果而被无效的「`闪刀姬-零衣`_」把自身解放发动①效果，连锁发动「`雷破`_」把「`恐吓爪牙族型俱舍怒威族`_」破坏的场合，「`闪刀姬-零衣`_」的①效果正常适用。
 | 「`花札卫-五光-`_」把「`水晶机巧-柠晶龙`_」战斗破坏，这只「`水晶机巧-柠晶龙`_」的②效果发动的场合，不会被无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8624&keyword=&tag=-1&request_locale=ja>`__
 | 里侧守备表示的「`花札卫-五光-`_」被攻击的场合，伤害计算前反转的时点「`花札卫-五光-`_」的②效果适用，攻击怪兽的效果在战斗阶段内无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8624&keyword=&tag=-1&request_locale=ja>`__
-| 「`银河龙骑士`_」的②效果把龙族怪兽的效果无效后，这个战斗阶段内自身不再在场上表侧表示存在的场合，那只龙族怪兽的效果会恢复有效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10196&keyword=&tag=-1&request_locale=ja>`__
+| 「`银河龙骑士`_」的②效果把龙族怪兽的效果无效后，这个战斗阶段内自身不再在场上表侧表示存在的场合，那只龙族怪兽的效果会恢复有效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10730&request_locale=ja>`__
 | 「`降阶魔法-源数之落`_」的效果特殊召唤的「`No.39 希望皇 霍普`_」怪兽攻击对方怪兽A，对方发动「`活死人的呼声`_」，特殊召唤了怪兽B，发生战斗步骤的卷回的场合，那只怪兽A的效果在战斗阶段内仍然无效，重新选择攻击对象时选择攻击怪兽B的场合，这只怪兽B的效果在战斗阶段内也被无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12095&keyword=&tag=-1&request_locale=ja>`__
-| 「`庄严的机械天使`_」①效果适用的对象怪兽变成里侧表示的场合，这个效果不再适用。但是，由于这不是永续效果，已经被这个效果无效的怪兽，在战斗阶段内仍然保持无效的状态。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22248&keyword=&tag=-1&request_locale=ja>`__
+| 「`庄严的机械天使`_」①效果适用的对象怪兽变成里侧表示的场合，这个效果不再适用。但是，由于这不是永续效果，已经被这个效果无效的怪兽，在战斗阶段内仍然保持无效的状态。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14174&request_locale=ja>`__
 
 .. attention::
 
    | 持有『进行战斗的场合，直到那次伤害步骤结束时对方场上的全部表侧表示怪兽的效果无效化』效果的「`真红莲之茧`_」处理与上述卡不同，而是和「`技能抽取`_」的处理一致。
    | 例：
-   | 「`真红莲之茧`_」的①效果装备的「`爆翼龙`_」和「`死灵骑士`_」进行战斗，「`爆翼龙`_」的效果发动时，被无效的「`死灵骑士`_」解放自身连锁发动①效果的场合，这个效果不会被无效，结果「`爆翼龙`_」的效果发动无效并破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16833&keyword=&tag=-1&request_locale=ja>`__
+   | 「`真红莲之茧`_」的①效果装备的「`爆翼龙`_」和「`死灵骑士`_」进行战斗，「`爆翼龙`_」的效果发动时，被无效的「`死灵骑士`_」解放自身连锁发动①效果的场合，这个效果不会被无效，结果「`爆翼龙`_」的效果发动无效并破坏。\ `15/12/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8192&request_locale=ja>`__
    | 「`真红莲之茧`_」的①效果装备的怪兽攻击对方怪兽，「`真红莲之茧`_」的②效果适用后，那个战斗步骤内对方发动「`活死人的呼声`_」特殊召唤了怪兽，发生战斗步骤的卷回时，如果终止攻击，由于只是直到伤害步骤结束时无效，从终止攻击的时点起对方场上的全部表侧表示怪兽会恢复有效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16828&keyword=&tag=-1&request_locale=ja>`__
    | 「`真红莲之茧`_」的①效果装备的怪兽和「`超念导体 比蒙巨兽`_」进行战斗，互相都被战斗破坏，「`超念导体 比蒙巨兽`_」在伤害计算后发动效果的场合，由于「`真红莲之茧`_」这个时点还在场上，这个效果仍然无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16832&keyword=&tag=-1&request_locale=ja>`__
    | 「`真红莲之茧`_」的①效果装备的怪兽和对方怪兽战斗，「`真红莲之茧`_」的②效果适用后，那个战斗步骤内对方再发动「`旋风`_」破坏「`真红莲之茧`_」的场合，被无效的全部怪兽会恢复有效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16829&keyword=&tag=-1&request_locale=ja>`__
@@ -340,7 +340,7 @@
 | 和「`入魔鬼火`_」战斗过而被无效的怪兽，被一时除外的场合，从场上离开后效果恢复适用，回到场上后也不会再进入无效状态。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8624&keyword=&tag=-1&request_locale=ja>`__
 | 和「`电气红松鼠`_」战斗过而被无效的「`救援兔`_」，把自身除外作为cost发动效果时，这个效果本身是在场上发动的效果，处理时仍然无效。和「`电气红松鼠`_」战斗过而被无效的「`黑羽-疾风之盖尔`_」发动②效果时，连锁发动「`月之书`_」让其被盖放的场合，这个效果处理时正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8633&keyword=&tag=-1&request_locale=ja>`__
 | 场上存在「`大宇宙`_」，被「`武装海洋猎手`_」战斗破坏并无效的怪兽，在伤害步骤结束时被除外，之后效果不会被无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8636&keyword=&tag=-1&request_locale=ja&request_locale=ja>`__
-| 和「`武装海洋猎手`_」战斗过而被无效的「`蒲公英狮`_」，作为X素材把X怪兽X召唤后，因发动效果的cost被取除送去墓地，这只「`蒲公英狮`_」发动自身的①效果的场合，处理时不会被无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11266&keyword=&tag=-1&request_locale=ja>`__
+| 和「`武装海洋猎手`_」战斗过而被无效的「`蒲公英狮`_」，作为X素材把X怪兽X召唤后，因发动效果的cost被取除送去墓地，这只「`蒲公英狮`_」发动自身的①效果的场合，处理时不会被无效。\ `16/12/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6654&request_locale=ja>`__
 
 「`电子凤凰`_」等，为对象的效果无效
 ----------------------------------
@@ -373,7 +373,7 @@
 | 例：
 | 对「`始祖守护者 提拉斯`_」发动的效果连锁发动「`虫惑的落穴`_」，效果处理时只把那1次破坏效果无效，『这张卡不会被卡的效果破坏』不会无效，结果「`始祖守护者 提拉斯`_」没有被破坏，留在场上。
 | 「`邪龙星-睚眦`_」②效果的发动被「`虫惑的落穴`_」连锁的场合，「`邪龙星-睚眦`_」在连锁2被破坏，因为还要处理连锁1的效果，所以「`邪龙星-睚眦`_」③效果错过时点，不能发动。连锁1处理时，「`邪龙星-睚眦`_」的效果无效而不适用。
-| 「`暴走魔法阵`_」的②效果适用中，仍然可以对「`召唤魔术`_」连锁发动「`DDD 咒血王 赛弗里德`_」的①效果，结果「`召唤魔术`_」的效果被无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20205&request_locale=ja>`__\
+| 「`暴走魔法阵`_」的②效果适用中，仍然可以对「`召唤魔术`_」连锁发动「`DDD 咒血王 赛弗里德`_」的①效果，结果「`召唤魔术`_」的效果被无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12851&request_locale=ja>`__\
 | 「`星际仙踪-翠玉都`_」发动①效果时，连锁发动「`坏星坏兽 席兹奇埃鲁`_」的④效果的场合，只是把这1次的①效果无效。之后再发动①效果或者其他效果的场合都不会无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19860&keyword=&tag=-1&request_locale=ja>`__\
 | 「`魔族之链`_」发动时，连锁发动「`甲虫装机的宝珠`_」的效果的场合，由于「`魔族之链`_」在卡的发动时没有效果处理，结果仍然正常适用效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14646&keyword=&tag=-1&request_locale=ja>`__\
 | 「`幻变骚灵协议`_」的①效果适用中，特殊召唤的「`幻变骚灵`_」怪兽发动效果时，连锁发动「`虫惑的落穴`_」的场合，由于那次效果不会被无效，结果不会破坏。\ `18/4/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10038&keyword=&tag=-1&request_locale=ja>`__\
@@ -566,7 +566,7 @@
 -  | \ :ref:`誓约`\ 文本不是效果，即使效果被改写也仍然适用。
    | \ :ref:`效果的附加处理`\ 是卡的效果，在被改写的场合不适用。
    | 例：
-   | 对方发动「`强欲而谦虚之壶`_」时，我方连锁发动「`妖精传姬-塔利娅`_」②效果的场合，这个回合对方仍然不能特殊召唤怪兽。\ `17/3/24 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19695&keyword=>`__
+   | 对方发动「`强欲而谦虚之壶`_」时，我方连锁发动「`妖精传姬-塔利娅`_」②效果的场合，这个回合对方仍然不能特殊召唤怪兽。\ `17/3/24 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19695&keyword=&request_locale=ja>`__
    | 对方发动「`被埋葬的牲祭`_」时，我方连锁发动「`妖精传姬-塔利娅`_」②效果的场合，这个回合对方仍然可以特殊召唤怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8714&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 取对象的效果被改写的场合，如果改写后的效果取对象，仍然是取对象的效果。
@@ -592,7 +592,7 @@
 
 -  | 不受效果影响的怪兽发动的效果也可以被改写。
    | 例：
-   | 解放怪兽·永续陷阱上级召唤的「`真龙剑皇 卓辉星·拼图`_」发动②效果，连锁发动「`暗黑界的洗脑`_」的效果的场合，结果效果会改变。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20904&keyword=&tag=-1&request_locale=ja>`__
+   | 「`暗黑界的洗脑`_」的效果处理时，作为对象的怪兽不受陷阱卡的效果影响的场合，『把作为对象的怪兽回到持有者手卡』不能适用，『那个对方的效果变成「对方随机丢弃1张手卡」』也随之不适用，对方的效果正常处理。\ `17/7/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20912&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 这类效果和不入连锁无效的效果同时适用时，那个效果被改写并无效。
    | 例：

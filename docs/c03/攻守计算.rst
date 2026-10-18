@@ -69,14 +69,14 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
 -  | 这个效果\ **只能影响自身**\ 的场合，被无效后不再适用，攻击力·守备力复原。
    | 之后又不再被无效的场合，若是持续适用的效果则恢复适用，若不是则不会恢复。
    | 例：
-   | 「`水晶翼同调龙`_」的①效果破坏了怪兽让自己攻击力上升后，再被无效的场合，攻击力回到3000。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18191&request_locale=ja>`__
-   | 「`高速疾行机人 比剑骑手`_」的效果上升攻击力后，再被无效的场合，攻击力回到2000。效果恢复适用时，攻击力也是2000，之后再发动效果，会正常上升200攻击力。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16878&request_locale=ja>`__
-   | 「`魔海城 埃该翁`_」的效果除外了「`幻影骑士团 断碎剑`_」，攻击力是2000，再被无效后，攻击力是0。无效效果结束适用后，「`魔海城 埃该翁`_」的效果再度发动前，就这样保持0。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17272&request_locale=ja>`__
-   | 「`恶魔娘 莉莉丝`_」的效果只在召唤成功时适用1次，被「`技能抽取`_」无效后，攻击力复原成2000。「`技能抽取`_」再不适用的场合，攻击力仍是2000。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12542&request_locale=ja>`__
-   | 「`真魔兽 加泽特`_」的效果也只在召唤成功时适用1次，被「`技能抽取`_」无效后，攻击力是0。「`技能抽取`_」再不适用的场合，攻击力仍是0。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14300&keyword=&tag=-1&request_locale=ja>`__
-   | 「`地中族邪界妖魔`_」\ `17/9/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21394&keyword=&tag=-1&request_locale=ja>`__ 「`守墓的异能者`_」\ `18/7/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22050&request_locale=ja>`__ 「`鬼岩城`_」\ `19/10/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=45&keyword=&tag=-1&request_locale=ja>`__ 等也一样，被「`技能抽取`_」无效后，「`技能抽取`_」再不适用的场合，攻击力维持被无效而复原的数值。
-   | 「`魔玩具·链绵羊`_」的②效果把自身特殊召唤并上升800攻击力后，发动「`技能抽取`_」的场合，「`魔玩具·链绵羊`_」的效果无效，攻击力回到2000。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15108&keyword=&tag=-1&request_locale=ja>`__
-   | 「`双汇编亚龙`_」的①效果把自身特殊召唤，攻击力变成一半后，发动「`技能抽取`_」的场合，「`双汇编亚龙`_」的效果无效，攻击力回到原本数值。之后「`技能抽取`_」不再适用的场合，也不会再变成一半。\ `17/7/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21126&keyword=&tag=-1&request_locale=ja>`__
+   | 「`水晶翼同调龙`_」的①效果破坏了怪兽让自己攻击力上升后，再被无效的场合，攻击力回到3000。\ `26/6/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18191&keyword=&tag=-1&request_locale=ja>`__
+   | 「`高速疾行机人 比剑骑手`_」的效果上升攻击力后，再被无效的场合，攻击力回到2000。效果恢复适用时，攻击力也是2000，之后再发动效果，会正常上升200攻击力。\ `26/6/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18191&keyword=&tag=-1&request_locale=ja>`__
+   | 「`魔海城 埃该翁`_」的效果除外了「`幻影骑士团 断碎剑`_」，攻击力是2000，再被无效后，攻击力是0。无效效果结束适用后，「`魔海城 埃该翁`_」的效果再度发动前，就这样保持0。\ `26/6/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18191&request_locale=ja>`__
+   | 「`恶魔娘 莉莉丝`_」的效果只在召唤成功时适用1次，被「`技能抽取`_」无效后，攻击力复原成2000。「`技能抽取`_」再不适用的场合，攻击力仍是2000。\ `26/6/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18191&request_locale=ja>`__
+   | 「`真魔兽 加泽特`_」的效果也只在召唤成功时适用1次，被「`技能抽取`_」无效后，攻击力是0。「`技能抽取`_」再不适用的场合，攻击力仍是0。\ `26/6/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18191&keyword=&tag=-1&request_locale=ja>`__
+   | 「`地中族邪界妖魔`_」「`守墓的异能者`_」「`鬼岩城`_」等也一样，被「`技能抽取`_」无效后，「`技能抽取`_」再不适用的场合，攻击力维持被无效而复原的数值。\ `26/6/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18191&keyword=&tag=-1&request_locale=ja>`__
+   | 「`魔玩具·链绵羊`_」的②效果把自身特殊召唤并上升800攻击力后，发动「`技能抽取`_」的场合，「`魔玩具·链绵羊`_」的效果无效，攻击力回到2000。\ `26/6/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18191&keyword=&tag=-1&request_locale=ja>`__
+   | 「`双汇编亚龙`_」的①效果把自身特殊召唤，攻击力变成一半后，发动「`技能抽取`_」的场合，「`双汇编亚龙`_」的效果无效，攻击力回到原本数值。之后「`技能抽取`_」不再适用的场合，也不会再变成一半。\ `26/6/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18191&keyword=&tag=-1&request_locale=ja>`__
 
 .. attention::
 
@@ -86,11 +86,11 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
 
 -  | 这个效果\ **只要能影响其他卡，即使处理时只影响自身**\ 的场合，被无效后那个效果仍然适用，不会复原。
    | 例：
-   | 「`锁龙蛇-骷髅四面鬼`_」让连接端的怪兽攻击力上升后，效果被无效的场合，那些怪兽攻击力就那样不会复原。\ `17/10/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12638&request_locale=ja>`__
+   | 「`锁龙蛇-骷髅四面鬼`_」让连接端的怪兽攻击力上升后，效果被无效的场合，那些怪兽攻击力就那样不会复原。\ `25/3/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13409&keyword=&tag=-1&request_locale=ja>`__
    | 「`暗叛逆超量龙`_」的效果适用后，再被无效的场合，两个怪兽攻击力就那样不会复原。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13409&keyword=&tag=-1&request_locale=ja>`__
-   | 「`女巫特露德`_」的③效果以自身为对象发动，上升攻击力后，再被无效的场合，维持上升400的状态不会复原。\ `18/5/17 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12439&request_locale=ja>`__
+   | 「`女巫特露德`_」的③效果以自身为对象发动，上升攻击力后，再被无效的场合，维持上升400的状态不会复原。\ `25/3/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13409&request_locale=ja>`__
    | 「`猫鲨`_」的效果把自身攻击力·守备力变成1000/1000，因「`魁炎星王-宋虎`_」的效果无效后，还是这样不会复原。
-   | 「`黄金卿 黄金国巫妖`_」的②效果是让特殊召唤的不死族怪兽上升1000攻击力·守备力的效果，即使特殊召唤的是自身，在「`技能抽取`_」适用中也不会复原。\ `20/3/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22976&keyword=&tag=-1&request_locale=ja>`__
+   | 「`黄金卿 黄金国巫妖`_」的②效果是让特殊召唤的不死族怪兽上升1000攻击力·守备力的效果，即使特殊召唤的是自身，在「`技能抽取`_」适用中也不会复原。\ `25/3/20 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13409&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 改变等级·阶级·P刻度·种族·属性的效果在类似状况的处理也一样。
    | 不过，\ **得到**\ 卡名·效果的效果处理不同，无效后已经被改变的卡名·得到的效果不会复原。「`混沌幻影`_」这样『\ **得到**\ 相同的原本攻击力』的效果，被无效也不会复原。此外，「`黑羽-极光之奥罗拉`_」这样『\ **得到**\ 相同的攻击力』的文本，被无效后仍然当作原本攻击力处理。\ `15/2/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=9093&request_locale=ja>`__
@@ -117,11 +117,11 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
 
 -  | 0变成一半或者加倍都仍然是0，都当作可以正常处理。
    | 例：
-   | 「`方界波动`_」卡的发动时可以取攻击力0的怪兽为对象，效果正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8400&request_locale=ja>`__
+   | 「`方界波动`_」卡的发动时可以取攻击力0的怪兽为对象，效果正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12525&request_locale=ja>`__
    | 「`No.102 光天使 辉环`_」的效果发动时可以取攻击力0的怪兽为对象，那个怪兽被无效。
    | 由于后续不能上升，「`暗叛逆超量龙`_」的效果发动时不能取攻击力0的怪兽为对象。
-   | 由于后续不能造成伤害，「`冥界浊龙 龙叹`_」的效果发动时不能取攻击力0的怪兽为对象。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14704&request_locale=ja>`__
-   | 已经是0不能变成0，像「`蛇头守护者`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13061&keyword=&tag=-1&request_locale=ja>`__ 这样的效果发动时不能取攻击力0的效果怪兽为对象。
+   | 由于后续不能造成伤害，「`冥界浊龙 龙叹`_」的效果发动时不能取攻击力0的怪兽为对象。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11650&request_locale=ja>`__
+   | 已经是0不能变成0，像「`蛇头守护者`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10937&request_locale=ja>`__ 这样的效果发动时不能取攻击力0的效果怪兽为对象。
 
    .. note:: 「`霞鸟 辉剑鸟`_」「`蛇头守护者`_」记述的是『攻撃力を０にし、その効果を無効』。记述着『攻撃力は０になり、効果は無効』的结果不同，「`魔弹-交叉统治者`_」\ `17/8/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21318&request_locale=ja>`__ 等发动时可以取攻击力·守备力0的效果怪兽为对象。
 
@@ -137,7 +137,7 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
    | 「`银河骑士`_」效果处理时不足1000的场合，结果是0，仍然特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12535&request_locale=ja>`__
    | 「`三刃戟海龙神`_」对攻击力不足800的怪兽发动效果，结果是0，效果仍被无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9809&keyword=&tag=-1&request_locale=ja>`__
    | 「`黑翼龙`_」在攻击力0时受到效果伤害也会作为代替放置指示物。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9809&keyword=&tag=-1&request_locale=ja>`__ 可以对攻击力低的怪兽发动效果，取除全部指示物，那个怪兽攻击力下降到0，造成攻击力数值的伤害。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9808&keyword=&tag=-1&request_locale=ja>`__
-   | 「`捕食植物 奇美拉大花草`_」的②效果处理时对方怪兽攻击力不足1000的场合，结果是0，自身仍然上升1000攻击力。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7514&request_locale=ja>`__
+   | 「`捕食植物 奇美拉大花草`_」的②效果处理时对方怪兽攻击力不足1000的场合，结果是0，自身仍然上升1000攻击力。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12835&request_locale=ja>`__
    | 「`禁忌的圣枪`_」以攻击力0的怪兽为对象发动效果，后续也正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12476&request_locale=ja>`__
    | 对方场上的怪兽攻击力全是0的场合，「`混沌No.39 希望皇 霍普雷`_」也可以发动效果，自身上升500。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11844&request_locale=ja>`__
    | 「`光辉终结龙`_」和攻击力·守备力不足1500的怪兽战斗也会发动效果，和攻击力·守备力都是0的怪兽战斗时也可以发动效果。\ `19/11/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7675&request_locale=ja>`__
@@ -147,16 +147,16 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
       | 部分后续效果不适用的场合，攻击力也不下降。
       | 例：
       | 「`幻奏的音女 唐唐`_」的②效果处理时，作为对象的「`幻奏`_」怪兽攻击力不足500的场合，「`幻奏的音女 唐唐`_」的效果完全不适用。
-      | 「`超级运动员 四分卫球员`_」攻击力不足800的场合不能发动②效果，处理时不足的场合全不适用，不会下降攻击力。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17226&request_locale=ja>`__
-      | 「`隆隆隆石人-黄金形态`_」攻击力不足1500的场合，作为必发效果会发动，不下降攻击力，不会无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12916&request_locale=ja>`__
-      | 「`光与暗之龙`_」攻击力·守备力不足500的场合，作为必发效果会发动，但效果都不适用，不会无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6357&keyword=&tag=-1&request_locale=ja>`__
+      | 「`超级运动员 四分卫球员`_」攻击力不足800的场合不能发动②效果，处理时不足的场合全不适用，不会下降攻击力。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11637&request_locale=ja>`__
+      | 「`隆隆隆石人-黄金形态`_」攻击力不足1500的场合，作为必发效果会发动，不下降攻击力，不会无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10830&request_locale=ja>`__
+      | 「`光与暗之龙`_」攻击力·守备力不足500的场合，作为必发效果会发动，但效果都不适用，不会无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6821&request_locale=ja>`__
 
    .. note::
 
       | 类似地，等级下降到1以下的场合，结果是1。
       | 不过，有后续效果的场合，基本上后续效果不会适用，等级也不下降。
       | 例：
-      | 「`锤鲨`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12944&request_locale=ja>`__ 「`龙落亲`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17005&request_locale=ja>`__ 「`方程式运动员 暗冥赛道名将`_」\ `18/9/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22100&keyword=&tag=-1&request_locale=ja>`__ 等级不够下降数时效果不能发动，发动后处理时不够的场合不能适用。
+      | 「`锤鲨`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12944&request_locale=ja>`__ 「`龙落亲`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17005&request_locale=ja>`__ 「`方程式运动员 暗冥赛道名将`_」\ `18/9/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13709&request_locale=ja>`__ 等级不够下降数时效果不能发动，发动后处理时不够的场合不能适用。
 
 -  | 数值下降到0以下时，虽然结果按0处理，\ **累积计算时按实际数值计算**\ 。
    | 例：
@@ -169,7 +169,7 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
 | 这类效果会把处理后的「攻击力·守备力」固定住。也就是说，\ **这类效果处理后，之前所有适用中的影响其「攻击力·守备力」的效果都不再对那些怪兽适用**\ ，因此即使是影响自身的效果，被无效后也保持当前数值。
 | 此外，如果这类效果存在适用期限，\ **只在适用期限内**\ ，之前所有适用中的影响其「攻击力·守备力」的效果不再适用。这类效果不再适用的时点，之前适用中的影响其「攻击力·守备力」的效果如果是持续适用的效果，会恢复适用，否则不会恢复。
 | 例：
-| 自己手卡有2张，自己场上的「`奥西里斯之天空龙`_」的攻击力·守备力是2000/2000。适用「`黑羽-疾风之盖尔`_」等『攻击力·守备力变成一半』的效果时固定在1000/1000。此后手牌数量增减的场合也保持这个数值，被无效也一样。\ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11911&keyword=&tag=-1>`__
+| 自己手卡有2张，自己场上的「`奥西里斯之天空龙`_」的攻击力·守备力是2000/2000。适用「`黑羽-疾风之盖尔`_」等『攻击力·守备力变成一半』的效果时固定在1000/1000。此后手牌数量增减的场合也保持这个数值，被无效也一样。\ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11911&keyword=&tag=-1&request_locale=ja>`__
 | 已经装备「`最强之盾`_」或已经适用「`禁忌的圣枪`_」的「`英豪冠军 断钢剑王`_」发动效果后，攻击力都是2000*2=4000。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16&keyword=&tag=-1&request_locale=ja>`__ \ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12357&keyword=&tag=-1&request_locale=ja>`__
 | 「`元素英雄 次新宇侠`_」装备「`恶魔之斧`_」，攻击力·守备力是2900/1300的场合，发动「`反转世界`_」，结果攻击力·守备力是1300/2900。之后「`恶魔之斧`_」被破坏的场合也维持这个数值。再装备「`黑项链`_」的场合攻击力是1300+500=1800。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9502&request_locale=ja>`__
 
@@ -179,7 +179,7 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
    | 因装备的「`希望剑一斩`_」攻击力上升500的「`闪光No.39 希望皇 霍普·电光皇`_」在伤害计算时发动效果，攻击力是5000，上升的500暂时不计算。伤害计算之后攻击力回到2500+500=3000的状态。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15302&request_locale=ja>`__
    | 有「`英豪挑战者 赠剑兵`_」作为素材X召唤的「`英豪冠军 英弓王`_」，攻击力3100的状态，装备「`月镜盾`_」向「`异次元喷气机·大铁号`_」攻击，伤害计算时「`月镜盾`_」发动效果变成4100，从这个时点起「`英豪挑战者 赠剑兵`_」的效果不再适用。由于「`英豪挑战者 赠剑兵`_」的效果是在X召唤成功时发动并适用的效果，不是持续适用的效果，因此伤害计算之后「`英豪冠军 英弓王`_」的攻击力是2100，不是3100。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12654&request_locale=ja>`__
    | 装备「`破邪之大剑-黄昏`_」，攻击力3500的「`青眼白龙`_」受「`半封`_」影响，攻击力是1750，「`破邪之大剑-黄昏`_」再被破坏的场合，攻击力维持1750，回合结束后攻击力回到3000。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9829&keyword=&tag=-1&request_locale=ja>`__
-   | 「`青眼白龙`_」直接攻击造成3000伤害，发动「`芙莉嘉的苹果`_」特殊召唤「`邪精衍生物`_」使其攻守均为3000/3000，再对这个「`邪精衍生物`_」发动「`半封`_」使攻击力直到回合结束时变成一半即1500/3000的场合，此时「`芙莉嘉的苹果`_」影响「`邪精衍生物`_」的攻击力部分的效果不再适用，回合结束后「`半封`_」不再适用的场合，「`邪精衍生物`_」的攻守是0/3000。\ `17/2/16 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6415&keyword=&tag=-1>`__
+   | 「`青眼白龙`_」直接攻击造成3000伤害，发动「`芙莉嘉的苹果`_」特殊召唤「`邪精衍生物`_」使其攻守均为3000/3000，再对这个「`邪精衍生物`_」发动「`半封`_」使攻击力直到回合结束时变成一半即1500/3000的场合，此时「`芙莉嘉的苹果`_」影响「`邪精衍生物`_」的攻击力部分的效果不再适用，回合结束后「`半封`_」不再适用的场合，「`邪精衍生物`_」的攻守是0/3000。\ `17/2/16 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6415&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 之前适用中的效果如果影响的是「原本攻击力·守备力」，虽然这类效果适用后「攻击力·守备力」会被固定住，之前适用中的效果仍然会保持「原本攻击力·守备力」。这类效果适用结束后，怪兽会回到之前适用中的效果影响下的「原本攻击力·守备力」。
    | 例：
@@ -282,7 +282,7 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
 
 | 之前有把「攻击力·守备力」\ **上升·下降**\ 的效果适用时，不论是否持续适用，都要再计算。
 | 例：
-| 自己手卡有3张，自己场上的「`奥西里斯之天空龙`_」的攻守是3000/3000。但其原本攻击力·守备力是0，适用「`收缩`_」等根据「原本攻击力·守备力」计算的效果时用0进行效果处理，之后还要计算其自身使攻守上升的效果，结果攻击力是0/2+3000=3000，和之前一样。此后手牌数量增减的场合仍会影响攻击力。\ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11906&keyword=&tag=-1>`__
+| 自己手卡有3张，自己场上的「`奥西里斯之天空龙`_」的攻守是3000/3000。但其原本攻击力·守备力是0，适用「`收缩`_」等根据「原本攻击力·守备力」计算的效果时用0进行效果处理，之后还要计算其自身使攻守上升的效果，结果攻击力是0/2+3000=3000，和之前一样。此后手牌数量增减的场合仍会影响攻击力。\ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11906&keyword=&tag=-1&request_locale=ja>`__
 | 因自身效果，原本攻击力是3200的「`召命之神弓-阿波罗萨`_」发动了3次③效果，攻击力是800的状态，适用「`收缩`_」的①效果后，原本攻击力变成3200/2=1600，还要再计算发动了3次③效果而下降的2400攻击力，结果攻击力是1600-2400也就是0。回合结束后「`收缩`_」的①效果不再适用，由于「`召命之神弓-阿波罗萨`_」的②效果只在连接召唤成功时适用1次，不是持续适用的效果，这个效果也不会再次适用，由于这个时点没有任何影响「原本攻击力·守备力」的效果，结果「`召命之神弓-阿波罗萨`_」的原本攻击力变成卡片记载的『？』，在场上也就是0，并且因发动了3次③效果还要再下降2400的状态。\ `19/4/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22612&keyword=&tag=-1&request_locale=ja>`__
 
 .. table:: 「`召命之神弓-阿波罗萨`_」的变化简表
@@ -331,7 +331,7 @@ OCG完全规则书中的相关段落见\ `攻守的变化 <https://ocg-rulebook.
    | 自身效果让原本攻击力4000的「`嵌合超载龙`_」，由于自身的效果只在出场时适用，不是持续适用的效果，被卡的效果下降1000攻击力后，适用「`收缩`_」的效果的场合，回合结束后自身效果也不会再适用，攻击力是0。
    | 自身效果让原本攻击力是3200的「`召命之神弓-阿波罗萨`_」发动3次效果后，受到「`收缩`_」的效果的场合，攻击力是1600-2400，在场上当作0，回合结束后「`收缩`_」效果不适用的场合，其②效果也不适用，保持0，实际再下降2400的状态。\ `19/4/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22612&keyword=&tag=-1&request_locale=ja&request_locale=ja>`__
    | 「`娱乐法师 帽子戏法师`_」的③效果只在放置3个Em指示物时适用1次，之后即使取除指示物也保持3300。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15384&keyword=&tag=-1&request_locale=ja>`__ 被「`收缩`_」后不影响守备力，攻击力是550。「`收缩`_」不适用后攻击力回到1100，守备力仍是3300。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15381&keyword=&tag=-1&request_locale=ja>`__
-   | 「`黑羽-疾风之盖尔`_」的②效果对怪兽适用后，再对那个怪兽发动「`收缩`_」的场合，那个怪兽的攻击力是原本攻击力减半的数值。「`收缩`_」不适用后，回到卡片记载的原本攻击力数值，守备力不恢复。以「`青眼白龙`_」为例，攻守变化过程是3000/2500→1500/1250→1500/1250→3000/1250。\ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7944&keyword=&tag=-1>`__
+   | 「`黑羽-疾风之盖尔`_」的②效果对怪兽适用后，再对那个怪兽发动「`收缩`_」的场合，那个怪兽的攻击力是原本攻击力减半的数值。「`收缩`_」不适用后，回到卡片记载的原本攻击力数值，守备力不恢复。以「`青眼白龙`_」为例，攻守变化过程是3000/2500→1500/1250→1500/1250→3000/1250。\ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7944&keyword=&tag=-1&request_locale=ja>`__
    | 「`闪刀机-大黄蜂浮游单元`_」特殊召唤的攻击力·守备力都是1500的「`闪刀姬衍生物`_」，被「`收缩`_」后攻击力变成0，守备力维持1500。「`收缩`_」不再适用后攻击力也维持0。\ `18/2/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21762&keyword=&tag=-1&request_locale=ja>`__ [#]_
 
    .. [#] 衍生物的「原本攻击力·守备力」是特殊召唤效果中记载的数值。「`闪刀机-大黄蜂浮游单元`_」记述着『「`闪刀姬衍生物`_」（战士族·暗·1星·攻/守0）』，因此「`闪刀姬衍生物`_」的原本攻击力·守备力是0。类似的「`冥府之使者衍生物`_」的原本攻击力·守备力是『？』。「`克隆复制`_」「`物理分身`_」这样没有记载的场合，特殊召唤后的原本攻击力·守备力都是0。

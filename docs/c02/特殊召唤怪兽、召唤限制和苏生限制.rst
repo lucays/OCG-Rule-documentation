@@ -54,7 +54,7 @@
 -  | 「`青眼双爆裂龙`_」「`异色眼灵摆读龙`_」「`冥占术姬 塔罗幽巫女`_」这样记述『○○召唤以及○○（方法）才能·可以特殊召唤』的怪兽，『○○召唤以及○○（方法）』都是正规召唤手续。
    | 「`超天新龙 异色眼革命龙`_」记述的是『用从手卡的灵摆召唤或者把自己场上的龙族的融合·同调·超量怪兽各1只解放的场合才能特殊召唤』，这两种方法也都是其正规召唤手续。\ `17/10/4 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13462&request_locale=ja>`__
    | 例：
-   | 把自己场上1只10星「`究极宝玉神`_」怪兽解放特殊召唤的「`究极宝玉神 虹桥龙`_」送去墓地后，「`虹之引力`_」也可以把它特殊召唤。\ `17/11/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21556&request_locale=ja>`__
+   | 把自己场上1只10星「`究极宝玉神`_」怪兽解放特殊召唤的「`究极宝玉神 虹桥龙`_」送去墓地后，「`虹之引力`_」也可以把它特殊召唤。\ `26/2/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23799&keyword=&tag=-1&request_locale=ja>`__
    | 没有仪式召唤就送去墓地的「`冥占术姬 塔罗幽巫女`_」也可以被「`圣占术姬 塔罗光巫女`_」的③效果特殊召唤。\ `22/7/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23809&keyword=&tag=-1&request_locale=ja>`__
 
    .. attention::
@@ -86,8 +86,8 @@ P召唤                                 ×                ○                   
 | \ **可以通常召唤**\ 的怪兽，其中一部分也记述着能把自己自身特殊召唤的方法，这些方法\ **是怪兽效果**\ ，可以被无效。
 | 上述2种情况下，作为召唤手续而被解放·除外·送去墓地等的卡都不是因卡的效果送去墓地。
 | 例：
-| 「`狱火机·拿玛`_」的召唤手续不是效果，「`王家长眠之谷`_」的②效果适用中仍然可以把自身从墓地特殊召唤，由于不能除外墓地的卡，这时必须除外手卡3张「`狱火机`_」怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=65&request_locale=ja00&keyword=&tag=-1>`__\
-| 「`暗黑界的龙神 格拉法`_」可以通常召唤，所以『从墓地特殊召唤』是效果，可以被「`王家长眠之谷`_」\ `16/12/17 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20408>`__ 「`冥界的魔王 哈·迪斯`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11587&request_locale=ja>`__ 等无效。这个场合不能进行特殊召唤，也不能只让怪兽回到手卡。
+| 「`狱火机·拿玛`_」的召唤手续不是效果，「`王家长眠之谷`_」的②效果适用中仍然可以把自身从墓地特殊召唤，由于不能除外墓地的卡，这时必须除外手卡3张「`狱火机`_」怪兽。\ `25/12/26 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6500&keyword=&tag=-1&request_locale=ja>`__\
+| 「`暗黑界的龙神 格拉法`_」可以通常召唤，所以『从墓地特殊召唤』是效果，可以被「`王家长眠之谷`_」\ `16/12/17 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20408&request_locale=ja>`__ 「`冥界的魔王 哈·迪斯`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11587&request_locale=ja>`__ 等无效。这个场合不能进行特殊召唤，也不能只让怪兽回到手卡。
 | 「`王家长眠之谷`_」在场上存在时，也可以从自己的手卡·墓地让包含仪式魔法卡的2张魔法卡回到卡组，从手卡特殊召唤「`肃声的龙贤圣 始龙`_」。\ `23/11/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24025&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 由于特殊召唤怪兽的召唤条件基本上不是效果，也就不存在效果的发动（=不入连锁），「`神之宣告`_」等可以把这些特殊召唤无效。
@@ -117,8 +117,8 @@ P召唤                                 ×                ○                   
 
 | 例：
 | 「`青眼卡通龙`_」是特殊召唤怪兽，不能被「`青色眼睛的护人`_」的②效果从手卡特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18328&keyword=&tag=-1&request_locale=ja>`__\
-| 「`青眼亚白龙`_」用自身召唤手续特殊召唤后，被送墓的场合可以被「`青色眼睛的少女`_」从墓地特殊召唤。直接从手卡·卡组送去墓地的不可以。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9134&keyword=&tag=-1&request_locale=ja>`__\
-| 「`混沌帝龙 -终焉的使者-`_」即使通过自身的正规手续上场，由于自身召唤限制，送去墓地后也不能被「`死者苏生`_」等效果特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14602&keyword=&tag=-1&request_locale=ja>`__\
+| 「`青眼亚白龙`_」用自身召唤手续特殊召唤后，被送墓的场合可以被「`青色眼睛的少女`_」从墓地特殊召唤。直接从手卡·卡组送去墓地的不可以。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12253&request_locale=ja>`__\
+| 「`混沌帝龙 -终焉的使者-`_」即使通过自身的正规手续上场，由于自身召唤限制，送去墓地后也不能被「`死者苏生`_」等效果特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5860&request_locale=ja>`__\
 
 -  「`打草惹蛇`_」这样，明确记述『从额外卡组特殊召唤』的效果，可以直接从额外卡组把没有限制特殊召唤方法的怪兽特殊召唤。
 -  「`限定解除`_」这样，明确记述『仪式怪兽特殊召唤』的效果，可以直接把没有限制特殊召唤方法的仪式怪兽特殊召唤。像「`青眼混沌龙`_」这样存在『不用仪式召唤不能特殊召唤』限制的怪兽，就不能被这个效果特殊召唤。
@@ -132,8 +132,8 @@ P召唤                                 ×                ○                   
 | 例：
 | 「`宏大木星`_」「`变化气圈鸟`_」的特殊召唤的效果不能选择作为装备卡的没有正规出场的特殊召唤怪兽。
 | 没有通过正规手续特殊召唤的特殊召唤怪兽，不能成为「`群豪世界-真罗万象`_」②效果的对象，不能被这个效果特殊召唤。\ `22/10/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23916&keyword=&tag=-1&request_locale=ja>`__
-| 直接从手卡·卡组送去墓地的「`电子化天使-那沙帝弥-`_」不能发动自身③效果把自身特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20041&request_locale=ja>`__\
-| 「`星光大道`_」特殊召唤的「`星尘龙`_」发动效果解放自身后，由于苏生限制未解除，回合的结束阶段时不能发动自身效果特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9554&request_locale=ja>`__\
+| 直接从手卡·卡组送去墓地的「`电子化天使-那沙帝弥-`_」不能发动自身③效果把自身特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12771&request_locale=ja>`__\
+| 「`星光大道`_」特殊召唤的「`星尘龙`_」发动效果解放自身后，由于苏生限制未解除，回合的结束阶段时不能发动自身效果特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8609&request_locale=ja>`__\
 | 「`辉剑鸟之影灵衣`_」的效果把「`影灵衣的返魂术`_」加入手卡后，由于「`影灵衣的返魂术`_」是把「`影灵衣`_」怪兽仪式召唤，是正规召唤手续，因此可以把没有正规出场过的「`辉剑鸟之影灵衣`_」从墓地仪式召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14410&request_locale=ja>`__\
 
 .. attention:: 一时除外『回到场上』不是特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9208&request_locale=ja>`__ 没有用正规手续出场的特殊召唤怪兽在被一时除外后仍然会回到场上。
@@ -169,13 +169,13 @@ P召唤                                 ×                ○                   
 | 「`天声的服从`_」把「`光之创造神 哈拉克提`_」无视召唤条件特殊召唤的场合，发动「`天声的服从`_」的玩家立即决斗胜利。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19404&keyword=&tag=-1&request_locale=ja>`__\
 | 「`真红眼卡通龙`_」把特殊召唤怪兽无视召唤条件特殊召唤，那个怪兽之后被送去墓地的场合，不能用「`死者苏生`_」等效果特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18257&request_locale=ja>`__\
 | 「`永远的淑女 贝阿特丽切`_」把「`彼岸的诗人 维吉尔`_」无视召唤条件特殊召唤后，那个「`彼岸的诗人 维吉尔`_」再被送去墓地的场合，不能用「`死者苏生`_」等效果特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16940&request_locale=ja>`__\
-| 「`二重英雄攻击`_」要把墓地「`假面英雄 暗爪`_」特殊召唤的场合，必须是用「`假面变化`_」的效果特殊召唤的（「`假面变化二型`_」「`形态变化`_」等当作「`假面变化`_」的特殊召唤也可以）。\ `18/12/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22339&request_locale=ja>`__
+| 「`二重英雄攻击`_」要把墓地「`假面英雄 暗爪`_」特殊召唤的场合，必须是用「`假面变化`_」的效果特殊召唤的（「`假面变化二型`_」「`形态变化`_」等当作「`假面变化`_」的特殊召唤也可以）。\ `18/12/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14217&request_locale=ja>`__
 
 -  | 这样的效果仍然\ **不能**\ 无视苏生限制。
    | 例：
    | 「`合神龙 蒂迈欧`_」的③效果不能从墓地特殊召唤没有用正规手续出场的「`传说的骑士`_」怪兽。
-   | 「`等级下降！？`_」以「`武装龙 LV10`_」为对象发动时，墓地的「`武装龙 LV7`_」必须正规出场过才能被这个效果特殊召唤。「`等级上升！`_」特殊召唤的「`武装龙 LV7`_」不是正规出场，这个「`武装龙 LV7`_」送去墓地的场合不能被「`等级下降！？`_」特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6645&request_locale=ja>`__\
-   | 墓地的「`究极宝玉神 虹桥龙`_」如果没有正规出场过，「`虹之引力`_」就不能把它特殊召唤。\ `17/11/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21556&request_locale=ja>`__\
+   | 「`等级下降！？`_」以「`武装龙 LV10`_」为对象发动时，墓地的「`武装龙 LV7`_」必须正规出场过才能被这个效果特殊召唤。「`等级上升！`_」特殊召唤的「`武装龙 LV7`_」不是正规出场，这个「`武装龙 LV7`_」送去墓地的场合不能被「`等级下降！？`_」特殊召唤。\ `20/2/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6907&request_locale=ja>`__\
+   | 墓地的「`究极宝玉神 虹桥龙`_」如果没有正规出场过，「`虹之引力`_」就不能把它特殊召唤。\ `26/2/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23799&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 『1回合只能有1次特殊召唤』不是怪兽的召唤手续，也就不能无视。
    | 例：

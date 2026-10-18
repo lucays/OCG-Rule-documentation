@@ -3132,6 +3132,7 @@
 .. _`星杯神乐 夏娃`: https://ygocdb.com/card/name/星杯神乐%20夏娃
 .. _`星杯龙 伊姆杜克`: https://ygocdb.com/card/name/星杯龙%20伊姆杜克
 .. _`星痕之机界骑士`: https://ygocdb.com/card/name/星痕之机界骑士
+.. _`星神器 造物主机构`: https://ygocdb.com/card/name/星神器%20造物主机构
 .. _`星空蝶`: https://ygocdb.com/card/name/星空蝶
 .. _`星级变化`: https://ygocdb.com/card/name/星级变化
 .. _`星级爆破`: https://ygocdb.com/card/name/星级爆破
@@ -3399,6 +3400,7 @@
 .. _`机怪虫·轴突虫`: https://ygocdb.com/card/name/机怪虫·轴突虫
 .. _`机怪虫之圣像骑士`: https://ygocdb.com/card/name/机怪虫之圣像骑士
 .. _`机械复制术`: https://ygocdb.com/card/name/机械复制术
+.. _`机械天使的仪式`: https://ygocdb.com/card/name/机械天使的仪式
 .. _`机械天使的绝对仪式`: https://ygocdb.com/card/name/机械天使的绝对仪式
 .. _`机械猎手`: https://ygocdb.com/?search=机械猎手
 .. _`机械驱动之夜`: https://ygocdb.com/card/name/机械驱动之夜

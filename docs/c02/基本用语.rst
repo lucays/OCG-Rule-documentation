@@ -163,7 +163,7 @@ cost
 -  | 除外特定卡片作为召唤手续时，只要没有记述『表侧表示』，可以除外里侧表示的卡片。
    | 除外特定卡片作为cost时，不论是否记述『表侧表示』，只能除外表侧表示的卡片。
    | 例：
-   | 可以让里侧表示的「`A-突击核`_」「`B-破坏龙兽`_」「`C-粉碎翼龙`_」除外来特殊召唤「`ABC-神龙歼灭者`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6131&keyword=&tag=-1&request_locale=ja>`__
+   | 可以让里侧表示的「`A-突击核`_」「`B-破坏龙兽`_」「`C-粉碎翼龙`_」除外来特殊召唤「`ABC-神龙歼灭者`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12590&request_locale=ja>`__
    | 可以让里侧表示的「`雷魔神-桑迦`_」「`风魔神-修迦`_」「`水魔神-斯迦`_」除外来特殊召唤「`合体魔神-门之守护神`_」。\ `23/9/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=18325&request_locale=ja>`__
    | 「`真红眼不死龙皇`_」②效果的cost是『自己场上1只不死族怪兽』，必须把表侧表示的不死族怪兽（衍生物也可以）除外才能发动这个效果。\ `22/1/15 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17150&request_locale=ja>`__
    | 「`虫惑之园`_」③效果的cost是『自己场上1只怪兽』，『场上1只怪兽』『场上1张魔法·陷阱卡』都对卡片没有特殊要求（在怪兽区域的卡就是怪兽，在场地区域的卡就是场地魔法，在魔法·陷阱卡区域的卡就是魔法·陷阱卡），不是特定卡片（『场上的场地魔法卡』不是特定卡片\ `19/11/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14937&request_locale=ja>`__\ ，『场上的魔法卡』『场上的陷阱卡』是特定卡片），可以除外里侧表示的怪兽来发动这个效果。\ `22/12/3 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=18310&request_locale=ja>`__
@@ -174,7 +174,7 @@ cost
    | 其他没有记述『回到额外卡组』的怪兽的召唤手续都不能使用会回到额外卡组的怪兽。
    | 例：
    | 「`冥骸合龙-莫忘冥地王灵`_」的文本明确记述了『回到卡组·额外卡组』，可以使用会回到额外卡组的怪兽。
-   | 可以让「`剑斗兽`_」融合怪兽回到额外卡组来特殊召唤「`剑斗兽 凯撒`_」。\ `18/7/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8185&keyword=&tag=-1&request_locale=ja>`__
+   | 可以让「`剑斗兽`_」融合怪兽回到额外卡组来特殊召唤「`剑斗兽 凯撒`_」。\ `18/7/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7617&request_locale=ja>`__
    | 墓地只存在融合怪兽时，也可以让那些融合怪兽回到额外卡组来特殊召唤「`究极封印神 艾克佐迪奥斯`_」。这卡在2024-01-01复刻时把『回到卡组』改为『回到卡组·额外卡组』，调整不变。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6829&keyword=&tag=-1&request_locale=ja>`__
    | 「`超顶科技血神翼龙`_」的召唤手续不能用只能回到额外卡组的怪兽。\ `17/10/14 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13406&request_locale=ja>`__\ 「`重骑甲虫 强劲海神独角仙`_」也一样。\ `22/9/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16942&request_locale=ja>`__
    | 不能让「`幻变骚灵`_」连接怪兽回到额外卡组来发动「`个人欺骗攻击`_」的①效果。\ `17/7/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21264&keyword=&tag=-1&request_locale=ja>`__
@@ -222,7 +222,7 @@ cost
 | 需要支付cost的场合，必须支付cost来发动效果。无法支付则不会发动。
 | 例：
 | 「`古遗物-雷神锤`_」特殊召唤成功时，如果没有可用的怪兽区域，或者「`千查万别`_」在场上存在，不能特殊召唤「`古遗物`_」怪兽的状况，「`古遗物-雷神锤`_」的③效果也会发动，不取对象，只适用『这个效果的发动后』部分的处理。
-| 对方场上不存在怪兽时，特殊召唤「`月华龙 黑蔷薇`_」的场合，也会发动①效果，这个场合不取对象。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13125&keyword=&tag=-1&request_locale=ja>`__
+| 对方场上不存在怪兽时，特殊召唤「`月华龙 黑蔷薇`_」的场合，也会发动①效果，这个场合不取对象。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11123&request_locale=ja>`__
 | 「`月镜盾`_」的『表侧表示的这张卡从场上送去墓地的场合，支付500基本分发动』效果在自己基本分500以上的场合必须发动，低于500的场合不会发动。基本分正好500的场合，支付500基本分后基本分是0，立即败北，效果不处理。
 
 -  | 只在『效果不能发动』时，不能发动必发效果。否则即使是空发，也要发动，处理时才判断是否能适用。
@@ -343,7 +343,7 @@ cost
    | 例：
    | 「`忍法 妖变化之术`_」发动后，因「`王宫的通告`_」等效果而被无效的场合，对象怪兽还当作「`忍者`_」怪兽使用。不过『这张卡从场上离开时那只怪兽送去墓地』效果不适用。
    | 我方发动了「`魔力之泉`_」后，以对方魔法·陷阱卡区域的「`王家的神殿`_」为对象发动「`No.45 灭亡之预言者`_」①效果的场合，不能无效，这个效果不适用，也不会持续取对象，②效果也完全不适用。
-   | 「`No.45 灭亡之预言者`_」的①效果处理时被无效，就不会持续取对象。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19307&keyword=&tag=-1&request_locale=ja>`__ 无效本身并不是持续适用的，只在效果处理时适用1次，之后保持表侧表示就会持续取对象，因此这个效果适用后才被无效的场合，作为对象的怪兽仍然无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19308&keyword=&tag=-1&request_locale=ja>`__ 「`No.106 巨岩掌 巨手`_」也是如此，并且仍不能变更表示形式。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7426&keyword=&tag=-1&request_locale=ja>`__
+   | 「`No.45 灭亡之预言者`_」的①效果处理时被无效，就不会持续取对象。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19307&keyword=&tag=-1&request_locale=ja>`__ 无效本身并不是持续适用的，只在效果处理时适用1次，之后保持表侧表示就会持续取对象，因此这个效果适用后才被无效的场合，作为对象的怪兽仍然无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19308&keyword=&tag=-1&request_locale=ja>`__ 「`No.106 巨岩掌 巨手`_」也是如此，并且仍不能变更表示形式。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12546&request_locale=ja>`__
    | 「`火灵使 希塔`_」的效果已经得到对方炎属性怪兽的控制权后，即使发动「`DNA移植手术`_」改变属性，或者对那个怪兽发动「`No.81 超重型炮塔列车 优越多拉炮`_」的效果使其不受影响的场合，控制权仍然不会归还。
 
 | 装备卡，以及记述『这张卡从场上离开时那只怪兽破坏』或『那只怪兽破坏时这张卡破坏』等的效果，在对应卡片从场上离开或者被破坏之际，即使还有其他效果要处理，也立即同时被破坏。
@@ -583,7 +583,7 @@ cost
 - 里侧守备表示→表侧攻击表示
 
 | 例：
-| 「`青色眼睛的少女`_」被选择作为攻击对象时发动效果，连锁发动「`月之书`_」把它变成里侧守备表示的场合，处理时把自身变成表侧攻击表示，把「`青眼白龙`_」特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12856&keyword=&tag=-1&request_locale=ja>`__
+| 「`青色眼睛的少女`_」被选择作为攻击对象时发动效果，连锁发动「`月之书`_」把它变成里侧守备表示的场合，处理时把自身变成表侧攻击表示，把「`青眼白龙`_」特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10588&request_locale=ja>`__
 | 「`光之护封剑`_」把里侧守备表示的怪兽反转成表侧守备表示，不是表示形式变更，「`电子光虫-核心菜粉蝶`_」的②效果不会发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18141&keyword=&tag=-1&request_locale=ja>`__
 
 .. note::
@@ -644,7 +644,7 @@ cost
 | 但也有「`被埋葬的牲祭`_」「`随风旅鸟与未知之风`_」这样明确记述是上级召唤却没有解放怪兽的效果。
 | 此外，在手卡等级下降到4以下的场合，记述『把3只解放作召唤』（超过正常上级召唤所需数量）的怪兽也可以这样召唤，此时也是上级召唤。但是，不能进行少于正常上级召唤所需数量的上级召唤。
 | 例：
-| 「`进击的帝王`_」的①效果适用中，里侧守备表示上级召唤的怪兽以及表侧表示上级召唤后被卡的效果变成里侧表示的怪兽不会被「`黑洞`_」的①效果破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12693&keyword=&tag=-1&request_locale=ja>`__
+| 「`进击的帝王`_」的①效果适用中，里侧守备表示上级召唤的怪兽以及表侧表示上级召唤后被卡的效果变成里侧表示的怪兽不会被「`黑洞`_」的①效果破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10423&request_locale=ja>`__
 | 解放2只怪兽里侧守备表示上级召唤的「`真龙剑皇 卓辉星·拼图`_」反转后，①效果正常适用，也可以发动②效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20548&keyword=&tag=-1&request_locale=ja>`__
 | 「`俱舍怒威族的停泊地`_」的①效果适用，不用解放召唤等级7怪兽的场合，不是上级召唤。「`光之天穿 巴哈路蒂亚`_」的①效果处理把自身上级召唤时，必须解放怪兽，不能再适用「`俱舍怒威族的停泊地`_」的①效果不用解放来召唤。\ `22/8/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23820&keyword=&tag=-1&request_locale=ja>`__
 | 因卡片效果手卡中等级变成4的「`守墓的审神者`_」仍然可以解放3只怪兽来上级召唤，但是，不能解放1只「`守墓`_」怪兽来上级召唤这只「`守墓的审神者`_」。\ `22/11/8 <https://yugioh-wiki.net/index.php?%A1%D4%CA%E8%BC%E9%A4%CE%BF%B3%BF%C0%BC%D4%A1%D5#faq>`__
@@ -689,8 +689,8 @@ cost
 | 例：
 | 「`冥帝从骑 哀多斯`_」的①效果发动并适用了的回合，即使还没有通过这个效果召唤怪兽，也不能发动「`雷帝家臣 密特拉`_」的②效果。
 | 自己场上存在2只「`均衡负载王`_」，其中1只的①效果发动并适用了的回合，即使还没有通过这个效果召唤怪兽，另1只也不能发动①效果。\ `17/7/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21129&keyword=&tag=-1&request_locale=ja>`__
-| 「`宝石骑士·斜绿`_」在场上存在，还没有通过其①效果召唤怪兽的回合，可以发动「`梦幻崩影·哥布林`_」的①效果。这个回合追加（通常）召唤怪兽之际，选择适用哪个效果。\ `18/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10457&keyword=&tag=-1&request_locale=ja>`__
-| 「`真红眼溯刻龙`_」的②效果适用的回合，自己还没进行通常召唤时，要召唤怪兽的场合，需要宣言使用这个效果还是使用规则1回合1次的通常召唤次数。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16080&request_locale=ja>`__
+| 「`宝石骑士·斜绿`_」在场上存在，还没有通过其①效果召唤怪兽的回合，可以发动「`梦幻崩影·哥布林`_」的①效果。这个回合追加（通常）召唤怪兽之际，选择适用哪个效果。\ `18/1/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10000&request_locale=ja>`__
+| 「`真红眼溯刻龙`_」的②效果适用的回合，自己还没进行通常召唤时，要召唤怪兽的场合，需要宣言使用这个效果还是使用规则1回合1次的通常召唤次数。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11929&request_locale=ja>`__
 
 -  | 已经通过这类效果追加（通常）召唤怪兽的场合，这类效果不能再适用。
    | 例：
@@ -917,9 +917,9 @@ X素材
    | 上级召唤被无效的场合，「`上级进化区`_」的效果不计入被解放的怪兽数量。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12806&request_locale=ja>`__
    | X召唤被无效的场合，当作X素材使用的怪兽，以X素材的状态送去墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11269&request_locale=ja>`__
    | 把「`机关傀儡-暗影触摸者`_」当作X素材使用的X召唤被无效的场合，「`机关傀儡-暗影触摸者`_」不会除外，正常送去墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10042&request_locale=ja>`__
-   | 把「`我我我复仇`_」装备的怪兽当作X素材使用的X召唤被无效的场合，处理后「`我我我复仇`_」的效果不能发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=202&request_locale=ja>`__
+   | 把「`我我我复仇`_」装备的怪兽当作X素材使用的X召唤被无效的场合，处理后「`我我我复仇`_」的效果不能发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10181&request_locale=ja>`__
    | 把「`还原点控球后卫`_」当作连接素材使用的连接召唤被「`神之通告`_」无效并破坏了连接怪兽的场合，处理后「`还原点控球后卫`_」的②效果不能发动。\ `18/4/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21837&request_locale=ja>`__
-   | 把「`炫翼弩`_」装备的怪兽当作S素材使用的S召唤被无效的场合，「`炫翼弩`_」的③效果不能发动。\ `18/6/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21942&request_locale=ja>`__
+   | 把「`炫翼弩`_」装备的怪兽当作S素材使用的S召唤被无效的场合，「`炫翼弩`_」的③效果不能发动。\ `18/6/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13855&request_locale=ja>`__
 
 -  | X素材在场上不当作卡片。因此也不会成为\ 效果的对象_\ 。
    | 场上的卡片变成X素材时，不是从场上离开，只是结果场上确实没有这张卡了。
@@ -930,8 +930,8 @@ X素材
    | 「`No.101 寂静荣誉方舟骑士`_」的效果把「`元素英雄 绝对零度侠`_」在其下重叠成为X素材的场合，「`元素英雄 绝对零度侠`_」没有从场上离开，效果不会发动。之后被取除的场合也不是卡片从场上离开，不会发动效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13288&request_locale=ja>`__
    | 「`封印师 明晴`_」作为X素材进行X召唤的时点，不在场上存在了，「`魔法封印咒符`_」「`陷阱封印咒符`_」立即因自身效果而被破坏。可以对这次X召唤发动「`神之宣告`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11743&keyword=&tag=-1&request_locale=ja>`__
    | 作为X素材的「`三眼怪`_」送去墓地时，不是卡片从场上送去墓地，不会发动效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11009&request_locale=ja>`__
-   | 作为X素材的「`元素英雄 影雾女郎`_」送去墓地时，最终进入墓地的是这张卡，②效果可以发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13327&request_locale=ja>`__
-   | 「`次元的裂缝`_」的效果适用中，场上的X素材送去墓地的场合，不能判断是否是怪兽，不会除外。「`大宇宙`_」「`闪光之追放者`_」等效果适用中，由于最终要送去墓地时已经是卡片，不去墓地而被除外。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11011&request_locale=ja>`__
+   | 作为X素材的「`元素英雄 影雾女郎`_」送去墓地时，最终进入墓地的是这张卡，②效果可以发动。\ `24/2/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11308&request_locale=ja>`__
+   | 「`次元的裂缝`_」的效果适用中，场上的X素材送去墓地的场合，不能判断是否是怪兽，不会除外。「`大宇宙`_」「`闪光之追放者`_」等效果适用中，由于最终要送去墓地时已经是卡片，不去墓地而被除外。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6707&request_locale=ja>`__
 
 X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ 。
 
@@ -970,8 +970,8 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 | 例：
 | 「`雷龙融合`_」的①效果不能让里侧表示除外的怪兽回到卡组。
 | 「`超融合`_」的效果不能把对方场上的里侧表示怪兽作为融合素材使用。
-| 可以把里侧表示的「`A-突击核`_」等除外来特殊召唤「`ABC-神龙歼灭者`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6131&request_locale=ja>`__
-| 可以把当作装备卡的「`B-破坏龙兽`_」等除外来特殊召唤「`ABC-神龙歼灭者`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6495&request_locale=ja>`__
+| 可以把里侧表示的「`A-突击核`_」等除外来特殊召唤「`ABC-神龙歼灭者`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12590&request_locale=ja>`__
+| 可以把当作装备卡的「`B-破坏龙兽`_」等除外来特殊召唤「`ABC-神龙歼灭者`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12590&request_locale=ja>`__
 
 -  | 记述『把以○○为融合素材的那1只融合怪兽从额外卡组融合召唤』的效果，只能把融合素材部分明确指定了对应怪兽的融合怪兽融合召唤。
    | 并且，在融合召唤时，指定对应怪兽的部分必须使用相应的怪兽，不能使用融合素材代用怪兽。
@@ -1023,7 +1023,7 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 
 -  | 记述『融合召唤不用上记卡不能进行』『用以上记卡为融合素材的融合召唤才能从额外卡组特殊召唤』等的文本，要求融合素材必须是融合怪兽情报栏文本中记述的『上记卡』，因此不能使用融合素材代用怪兽。
    | 例：
-   | 「`宝石骑士·红玉`_」「`宝石骑士·蓝玉`_」「`宝石骑士·黄玉`_」等记述了『用以上记卡为融合素材的融合召唤才能从额外卡组特殊召唤』文本的怪兽，融合召唤时不能使用「`沼地的魔神王`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13479&keyword=&tag=-1&request_locale=ja>`__ 「`心眼之女神`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13478&keyword=&tag=-1&request_locale=ja>`__ 等融合素材代用怪兽。
+   | 「`宝石骑士·红玉`_」「`宝石骑士·蓝玉`_」「`宝石骑士·黄玉`_」等记述了『用以上记卡为融合素材的融合召唤才能从额外卡组特殊召唤』文本的怪兽，融合召唤时不能使用「`沼地的魔神王`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8911&request_locale=ja>`__ 「`心眼之女神`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8911&request_locale=ja>`__ 等融合素材代用怪兽。
 
 .. _衍生物:
 
@@ -1036,13 +1036,13 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 | 衍生物不能成为X素材。
 | 例：
 | 我方以攻击力50000的「`原始生命态衍生物`_」为对象发动「`纳祭之魔·阿尼玛`_」的①效果且适用的场合，结果「`纳祭之魔·阿尼玛`_」的攻击力仍然是0；我方以攻击力上升到3000的「`勇者衍生物`_」为对象发动「`纳祭之魔·阿尼玛`_」的①效果且适用的场合，结果「`纳祭之魔·阿尼玛`_」的攻击力仍然是2000。\ `24/6/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24072&keyword=&tag=-1&request_locale=ja>`__
-| 「`吸血鬼妖女`_」装备「`冥府之使者衍生物`_」时，由于「`冥府之使者衍生物`_」原本攻击力·守备力是『？』，结果不上升攻击力·守备力。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13797&request_locale=ja>`__
+| 「`吸血鬼妖女`_」装备「`冥府之使者衍生物`_」时，由于「`冥府之使者衍生物`_」原本攻击力·守备力是『？』，结果不上升攻击力·守备力。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11200&request_locale=ja>`__
 
 -  | 把卡片送去墓地·回到手卡·卡组的cost·行动手续·怪兽的召唤手续都不能使用衍生物。
    | 不过，衍生物可以作为S素材，也可以被cost·怪兽的召唤手续解放·表侧表示除外（不能被里侧表示除外）。
    | 例：
    | 「`霞之谷的猎鹰`_」不能让衍生物回到手卡来攻击宣言。\ `17/3/16 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8109&request_locale=ja>`__
-   | 「`嵌合要塞龙`_」不能把衍生物送去墓地来特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6875&request_locale=ja>`__
+   | 「`嵌合要塞龙`_」不能把衍生物送去墓地来特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7403&request_locale=ja>`__
    | 「`强制终了`_」的效果不能把衍生物送去墓地作为cost来发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=184&request_locale=ja>`__
    | 「`黑羽-精锐之泽费洛斯`_」的效果不能让衍生物回到手卡来发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10470&request_locale=ja>`__
    | 「`真红眼暗钢龙`_」「`大气圈神鸟`_」可以把衍生物除外来特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9612&request_locale=ja>`__
@@ -1065,10 +1065,10 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 | 衍生物不能变成里侧表示，不能被里侧表示除外。
 | 把怪兽变成里侧表示或里侧表示除外等效果不能以衍生物为对象发动，不取对象的场合也不会涉及衍生物。
 | 例：
-| 「`地帝家臣 兰罗布`_」不能以衍生物为对象发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15298&request_locale=ja>`__
+| 「`地帝家臣 兰罗布`_」不能以衍生物为对象发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11758&request_locale=ja>`__
 | 只有衍生物存在的场合，不能发动「`日全食之书`_」。有其他怪兽存在时发动「`日全食之书`_」的场合，衍生物不会改变表示形式。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7654&request_locale=ja>`__
 | 即使只有衍生物存在，也能发动作为永续魔法的「`暗之护封剑`_」。衍生物不会变更表示形式，「`暗之护封剑`_」的其他效果正常适用，不能改变表示形式。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12435&request_locale=ja>`__
-| 「`吞食百万的暴食兽`_」的召唤手续不能用衍生物。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20059&request_locale=ja>`__
+| 「`吞食百万的暴食兽`_」的召唤手续不能用衍生物。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12767&request_locale=ja>`__
 | 衍生物进行战斗的伤害计算时，不能发动「`变则齿轮`_」。\ `17/6/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12719&request_locale=ja>`__
 | 我方场上有衍生物和其他卡，对方场上没有卡片存在的场合发动「`颉颃胜负`_」，我方只能把衍生物以外的其他卡全部里侧表示除外。\ `17/7/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12740&request_locale=ja>`__
 
@@ -1080,7 +1080,7 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 | 例：
 | 相同的衍生物会因为「`水之合唱`_」的效果上升攻击力·守备力。
 | 「`禁止令`_」「`念动力防卫者`_」不能宣言衍生物。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12629&request_locale=ja>`__
-| 「`霸王眷龙 凶饿毒`_」的效果不能以衍生物为对象发动。\ `17/7/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20876&request_locale=ja>`__ 「`新空间侠·黑暗豹`_」也不能。\ `17/4/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11257&request_locale=ja>`__
+| 「`霸王眷龙 凶饿毒`_」的效果不能以衍生物为对象发动。\ `17/7/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13077&request_locale=ja>`__ 「`新空间侠·黑暗豹`_」也不能。\ `17/4/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6772&request_locale=ja>`__
 | 把「`锁龙蛇-骷髅四面鬼`_」连接召唤时，可以用卡名不同的衍生物。\ `17/11/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12629&request_locale=ja>`__
 
 .. _陷阱怪兽:
@@ -1095,7 +1095,7 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 | 例：
 | 「`次元的裂缝`_」的效果适用中，陷阱怪兽从怪兽区域送去墓地的场合，不会除外。
 | 「`死灵佐玛`_」的效果在被战斗破坏时才能发动，这个时点是陷阱卡，因此是陷阱效果，不是怪兽效果，不会被「`冥界的魔王 哈·迪斯`_」无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8765&keyword=&tag=-1&request_locale=ja>`__
-| 陷阱怪兽破坏送去墓地后是陷阱卡，「`机皇帝`_」怪兽这样记述『怪兽送去墓地』诱发的效果不能发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10830&request_locale=ja>`__
+| 以『怪兽被破坏送去墓地』为条件的效果，若被破坏的是陷阱怪兽，送去墓地后是陷阱卡而不是怪兽，发动条件不满足，不能发动。例如「`机皇帝 神陆∞`_」①。\ `25/5/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19360&keyword=&tag=-1&request_locale=ja>`__
 | 记述『战斗破坏怪兽』诱发的效果不要求在墓地仍然是怪兽，「`血腥魔兽人帝王`_」把陷阱怪兽战斗破坏的场合，可以发动效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19151&request_locale=ja>`__
 | 「`宏大木星`_」把陷阱怪兽当作装备卡使用给自身装备后，不能以这张陷阱卡为对象发动③效果来特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7645&keyword=&tag=-1&request_locale=ja>`__
 
@@ -1109,10 +1109,10 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 -  | 陷阱怪兽特殊召唤的效果处理是把陷阱卡变成怪兽特殊召唤。
    | 例：
    | 「`阿匹卜之化神`_」发动后当作怪兽特殊召唤的场合，是『发动的效果让怪兽特殊召唤』，可以发动「`异热同心武器-天风精灵翼`_」的③效果。
-   | 「`王宫的牢狱`_」的效果适用中，墓地「`幻影骑士团 暗影焰剑苍骑`_」的②效果不是从墓地特殊召唤怪兽的效果，而是从墓地特殊召唤陷阱卡的效果，因此可以发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7518&request_locale=ja>`__
-   | 墓地「`幻影骑士团 暗黑手甲`_」的②效果发动，从墓地把自身特殊召唤的场合，在墓地只是陷阱卡，在怪兽区域作为怪兽特殊召唤。因此，也是从墓地以外特殊召唤怪兽，「`巨神龙的遗迹`_」的①效果会发动，「`幻影骑士团 暗黑手甲`_」③效果直到回合结束时被无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=184&request_locale=ja30&keyword=&tag=-1>`__
+   | 「`王宫的牢狱`_」的效果适用中，墓地「`伯吉斯异兽·高足杯虫`_」的②效果不是从墓地特殊召唤怪兽的效果，而是从墓地特殊召唤陷阱卡的效果，因此可以发动，并按照文本作为通常怪兽特殊召唤。\ `25/2/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23459&keyword=&tag=-1&request_locale=ja>`__
+   | 墓地「`幻影骑士团 暗黑手甲`_」的②效果发动，从墓地把自身特殊召唤的场合，在墓地只是陷阱卡，在怪兽区域作为怪兽特殊召唤。因此，也是从墓地以外特殊召唤怪兽，「`巨神龙的遗迹`_」的①效果会发动，「`幻影骑士团 暗黑手甲`_」③效果直到回合结束时被无效。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18430&keyword=&tag=-1&request_locale=ja>`__
    | 「`虚无空间`_」的①效果适用中，由于陷阱怪兽特殊召唤的结果是变成怪兽，作为陷阱卡时不能发动特殊召唤的效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18842&request_locale=ja>`__
-   | 墓地「`真源的帝王`_」的②效果发动时，不能连锁发动「`屋敷童`_」的效果。\ `18/8/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22085&request_locale=ja>`__
+   | 墓地「`真源的帝王`_」的②效果发动时，不能连锁发动「`屋敷童`_」的效果。\ `25/9/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23975&keyword=&tag=-1&request_locale=ja>`__
 
    .. tip:: 同样地，「`魔术礼帽`_」也是从卡组把魔法·陷阱卡变成怪兽特殊召唤的效果，因此不能连锁发动「`灰流丽`_」的①效果。\ `18/8/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22086&request_locale=ja>`__
 
@@ -1122,7 +1122,7 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
    | 例：
    | 「`黄金乡的征服者`_」发动后，没有可用怪兽区域的场合，不能特殊召唤，送去墓地。
    | 「`幻影骑士团 阴暗布面甲`_」发动时，连锁发动「`王宫的通告`_」的场合，不能特殊召唤，送去墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17934&request_locale=ja>`__
-   | 「`次元反射镜`_」发动时，连锁发动「`月之书`_」把作为对象的怪兽盖放的场合，效果不能适用，留在魔法·陷阱卡区域。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19212&request_locale=ja>`__
+   | 「`次元反射镜`_」发动时，连锁发动「`月之书`_」把作为对象的怪兽盖放的场合，效果不能适用，留在魔法·陷阱卡区域。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12504&request_locale=ja>`__
 
 | 和衍生物不一样，陷阱怪兽是实际存在的卡片，因此可以回到手卡·卡组，可以作为X素材，可以送去墓地作为cost。
 | 陷阱怪兽效果文本记述的种族·等级·攻击力·守备力就是原本种族·等级·攻击力·守备力。没有的场合，没有原本种族·属性·等级·攻击力·守备力。
@@ -1181,7 +1181,7 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
    | 例：
    | 以盖放的「`幻变骚灵·模拟精灵`_」为对象发动「`No.66 霸键甲虫`_」的效果后，发动这个「`幻变骚灵·模拟精灵`_」特殊召唤的场合，仍然不会被卡的效果破坏。
    | 以怪兽区域表侧表示的「`阿匹卜之化神`_」发动「`银河旋风`_」，连锁发动「`月之书`_」把「`阿匹卜之化神`_」盖放到魔法·陷阱卡区域，仍然被破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15243&request_locale=ja>`__
-   | 以盖放的「`黄金乡的征服者`_」为对象发动「`雷破`_」时，连锁发动这张「`黄金乡的征服者`_」的场合，特殊召唤后仍然会被破坏。\ `23/8/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22093&keyword=&tag=-1&request_locale=ja>`__
+   | 以盖放的「`黄金乡的征服者`_」为对象发动「`雷破`_」时，连锁发动这张「`黄金乡的征服者`_」的场合，特殊召唤后仍然会被破坏。\ `26/7/5 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17936&keyword=&tag=-1&request_locale=ja>`__
    | 以怪兽区域「`阿尔戈☆群星-紫电的堤丢尔`_」为对象发动「`雷破`_」，连锁发动「`阿尔戈☆群星-紫电的堤丢尔`_」的效果放置到魔法·陷阱卡区域的场合，仍然被破坏；「`雷破`_」换成「`赐炎之咎姬`_」③效果的场合，由于效果处理是『那些怪兽破坏』，此时「`阿尔戈☆群星-紫电的堤丢尔`_」已经不是怪兽，结果不破坏。（另1只破坏的场合，后续效果正常适用；另1只也没有破坏的场合，后续效果不适用。）\ `25/1/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24141&keyword=&tag=-1&request_locale=ja>`__
 
 | 这种陷阱怪兽因记述『陷阱卡的效果无效』的「`王宫的通告`_」等效果被无效时，表侧表示回到魔法·陷阱卡区域，放置的区域由控制者自行选择。
@@ -1213,17 +1213,17 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 | 这种陷阱怪兽在怪兽区域期间，只是怪兽，不当作陷阱卡使用。
 | 例：
 | 自己魔法·陷阱卡区域全部有卡存在的场合，也可以发动墓地「`幻影骑士团 暗影焰剑苍骑`_」的效果把自身特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13373&keyword=&tag=-1&request_locale=ja>`__
-| 怪兽区域的「`幻影骑士团 阴暗布面甲`_」被对方的效果送去墓地或被除外的场合，不是场上的陷阱卡送去墓地或被除外，不能发动「`魔晶龙 水胆魔导神`_」的效果。\ `18/4/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21821&keyword=&tag=-1&request_locale=ja>`__
+| 怪兽区域的「`幻影骑士团 阴暗布面甲`_」被对方的效果送去墓地或被除外的场合，不是场上的陷阱卡送去墓地或被除外，不能发动「`魔晶龙 水胆魔导神`_」的效果。\ `18/4/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12267&request_locale=ja>`__
 
 -  | 不会成为「`旋风`_」等效果的对象，不受「`王宫的通告`_」等效果影响。
    | 例：
    | 「`幻影骑士团 暗影焰剑苍骑`_」在怪兽区域存在时，发动「`王宫的通告`_」的场合，就那样留在怪兽区域。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13371&request_locale=ja>`__
 
--  | 被「`月之书`_」等效果盖放时，就在怪兽区域变成里侧表示。这个场合，「`机壳的冻结`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19675&request_locale=ja>`__ 「`钻尘妖`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20512&request_locale=ja>`__ 等自身或受到的『这个效果特殊召唤的这张卡○○』效果不适用。
+-  | 被「`月之书`_」等效果盖放时，就在怪兽区域变成里侧表示。这个场合，「`机壳的冻结`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12666&request_locale=ja>`__ 「`钻尘妖`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12994&request_locale=ja>`__ 等自身或受到的『这个效果特殊召唤的这张卡○○』效果不适用。
    | 作为通常怪兽的被盖放后仍然是通常怪兽。作为效果怪兽的被盖放后仍然是效果怪兽。
    | 例：
    | 自己发动「`左腕的代偿`_」的回合，自己可以对怪兽区域的「`幻影骑士团 暗影焰剑苍骑`_」发动「`月之书`_」，就在怪兽区域变成里侧守备表示。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17852&keyword=&tag=-1&request_locale=ja>`__
-   | 怪兽区域的「`幻影骑士团 失常磁环`_」被「`月之书`_」等效果盖放后，再翻开的场合由于自身效果没有记述限制，仍然可以发动效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8044&request_locale=ja>`__
+   | 怪兽区域的「`幻影骑士团 失常磁环`_」被「`月之书`_」等效果盖放后，再翻开的场合由于自身效果没有记述限制，仍然可以发动效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12981&request_locale=ja>`__
    | 怪兽区域的「`伯吉斯异兽·马尔三叶形虫`_」被「`月之书`_」等效果盖放后，会被怪兽的效果影响，从场上离开的场合正常送去墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8627&request_locale=ja>`__
 
 -  以盖放的这种陷阱怪兽为对象发动「`雷破`_」，连锁发动把自身特殊召唤的场合，不再是「`雷破`_」的效果对象，不会被破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17936&request_locale=ja>`__
@@ -1320,7 +1320,7 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 | 发动条件记述是『作为进行通常抽卡的代替』的「`罪 世界`_」的①效果和发动条件记述是『作为进行通常抽卡的代替』的「`武装锻炼`_」的①效果不能在同一连锁上发动。
 | 效果处理记述是『作为进行通常抽卡的代替』的「`炽热的决斗者们`_」的③效果和\ :ref:`誓约`\ 记述是『这个效果发动的回合，自己不能进行通常抽卡』的「`升阶魔法-星光之力`_」的②效果要连锁发动时，只能是先发动「`炽热的决斗者们`_」的③效果，再连锁发动「`升阶魔法-星光之力`_」的②效果，不能反过来连锁。
 | 效果处理记述是『作为进行通常抽卡的代替』的「`炽热的决斗者们`_」的③效果和发动条件记述是『作为进行通常抽卡的代替』的「`武装锻炼`_」的①效果要连锁发动时，只能是先发动「`炽热的决斗者们`_」的③效果，再连锁发动「`武装锻炼`_」的①效果，不能反过来连锁。
-| 我方抽卡阶段的抽卡前，2张「`炽热的决斗者们`_」的『作为这个回合进行通常抽卡的代替，选自己墓地1只怪兽加入手卡』效果可以组成连锁发动。连锁2的效果处理后，连锁1的效果处理时，由于已经适用了『作为这个回合进行通常抽卡的代替』的处理，不能再次适用『作为这个回合进行通常抽卡的代替』处理，因此连锁1的效果处理全不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11358&keyword=&tag=-1&request_locale=ja>`__
+| 我方抽卡阶段的抽卡前，2张「`炽热的决斗者们`_」的『作为这个回合进行通常抽卡的代替，选自己墓地1只怪兽加入手卡』效果可以组成连锁发动。连锁2的效果处理后，连锁1的效果处理时，由于已经适用了『作为这个回合进行通常抽卡的代替』的处理，不能再次适用『作为这个回合进行通常抽卡的代替』处理，因此连锁1的效果处理全不适用。\ `26/3/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23571&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 发动无效、效果无效、或者效果不适用的场合是否还能进行通常抽卡，根据这些记述是发动条件还是效果处理还是\ :ref:`誓约`\ 来决定。
    | 例：
@@ -1425,7 +1425,7 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
    | 使用「`开辟之骑士`_」仪式召唤的「`混沌战士`_」怪兽被无效的场合，也是处于得到的效果被无效的状态。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16533&request_locale=ja>`__
    | 「`狱火机十进管`_」的①效果发动后，发动「`技能抽取`_」的场合，仍当作同名卡处理，处于得到的效果被无效的状态。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15597&request_locale=ja>`__
    | 「`霸王紫龙 异色眼猛毒龙`_」的①效果发动后，发动「`技能抽取`_」的场合，攻击力恢复原样，仍当作同名卡处理，处于得到的效果被无效的状态。\ `17/5/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14916&request_locale=ja>`__
-   | 以自身记载的方法特殊召唤的「`圣灵兽骑 地火狮`_」变成里侧表示的场合，得到的效果丢失。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15128&request_locale=ja>`__
+   | 以自身记载的方法特殊召唤的「`圣灵兽骑 地火狮`_」变成里侧表示的场合，得到的效果丢失。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11720&request_locale=ja>`__
 
 得到相同效果
 -------------
@@ -1478,8 +1478,8 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
    | 例：
    | 对方「`分担痛苦`_」的效果处理时，我方解放了「`入魔人偶 葛佩利亚`_」的场合，是因我方从场上离开，不能发动「`入魔人偶 葛佩利亚`_」的效果。
    | 我方「`伊吕波红叶`_」的②效果处理时，对方可以把对象怪兽前面的，我方额外怪兽区域的「`调皮宝贝屋子管家`_」送去墓地，这个场合我方的「`调皮宝贝屋子管家`_」是因对方送去墓地，可以发动②效果。
-   | 「`电子化天使-荼吉尼-`_」的①效果处理时，对方场上只有不受怪兽效果影响的「`龙子`_」的场合，也必须送去墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19317&request_locale=ja>`__
-   | 「`颉颃胜负`_」的效果处理时，选了不受陷阱效果影响的怪兽的场合，那个怪兽也被里侧表示除外。\ `17/7/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21242&keyword=&tag=-1&request_locale=ja>`__
+   | 「`电子化天使-荼吉尼-`_」的①效果处理时，对方场上只有不受怪兽效果影响的「`龙子`_」的场合，也必须送去墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6847&request_locale=ja>`__
+   | 「`颉颃胜负`_」的效果处理时，选了不受陷阱效果影响的怪兽的场合，那个怪兽也被里侧表示除外。\ `17/7/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13293&request_locale=ja>`__
    | 「`颉颃胜负`_」的效果处理时，选了不会被卡的效果除外的「`玄化执行神`_」的场合，仍然被里侧表示除外。\ `17/7/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21243&keyword=&tag=-1&request_locale=ja>`__
    | 「`颉颃胜负`_」的效果处理时，不能选不能被除外的「`奇迹之侏罗纪蛋`_」。\ `17/9/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12328&keyword=&tag=-1&request_locale=ja>`__
 
@@ -1489,7 +1489,7 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 
    | 判断依据不是让对方选，而是『必须/なければならない』。
    | 例：
-   | 「`强制转移`_」处理时选不受魔法效果影响的怪兽的场合，整个效果不处理，不交换怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13066&request_locale=ja>`__ 「`玄化荷鲁斯龙`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14236&keyword=&tag=-1&request_locale=ja>`__ 等也是如此。
+   | 「`强制转移`_」处理时选不受魔法效果影响的怪兽的场合，整个效果不处理，不交换怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5162&request_locale=ja>`__ 「`玄化荷鲁斯龙`_」\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14236&keyword=&tag=-1&request_locale=ja>`__ 等也是如此。
 
 必须攻击
 

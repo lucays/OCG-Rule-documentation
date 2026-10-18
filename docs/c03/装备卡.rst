@@ -21,7 +21,7 @@
    | 只是在装备后，作为装备卡而持续取对象。
    | 例：
    | 「`魔封的芳香`_」的效果适用中，「`假面魔兽 死亡护法师`_」的效果也可以把「`遗言之假面`_」给怪兽装备。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=189&request_locale=ja>`__
-   | 「`龙骑兵团神枪`_」②效果发动时，连锁发动「`禁忌的圣衣`_」使装备怪兽不会成为效果的对象的场合，仍然会装备上「`龙骑兵团`_」调整。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14404&request_locale=ja>`__
+   | 「`龙骑兵团神枪`_」②效果发动时，连锁发动「`禁忌的圣衣`_」使装备怪兽不会成为效果的对象的场合，仍然会装备上「`龙骑兵团`_」调整。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11582&request_locale=ja>`__
 
 -  | 「`最强之盾`_」等装备卡有装备条件，只能给特定的种族·属性·等级·攻击力等的怪兽装备，「`善变的裁缝师`_」等文本会记述为『正确对象』。
    | 「`光之引导`_」这种特殊召唤怪兽并装备的装备卡\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18115&keyword=&tag=-1&request_locale=ja>`__，以及用自身怪兽效果把自身变成装备卡给其他怪兽装备\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17435&keyword=&tag=-1&request_locale=ja>`__ ，或把其他怪兽变成装备卡给自身装备\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19374&keyword=&tag=-1&request_locale=ja>`__ ，这些装备卡的正确对象只是发动时作为对象的那只怪兽。不过，同盟怪兽用自身效果变成装备卡的场合，正确对象可以是场上其他符合要求的怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19479&keyword=&tag=-1&request_locale=ja>`__
@@ -48,10 +48,10 @@
    | 「`幻惑眼纳祭神`_」的①效果发动时不确定哪只怪兽会变成装备卡，处理时自身不在场上表侧表示存在或者没有可用的魔法·陷阱卡区域的场合，这个效果不适用。\ `25/12/19 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=22212&request_locale=ja>`__
    | 「`纳祭之魔`_」等，确定会把某只怪兽变成装备卡的效果处理时，装备怪兽不在场上表侧表示存在的场合，由于没有装备上，那些怪兽也送去墓地，不当作被破坏。\ `22/4/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=4737&request_locale=ja>`__
    | 对方以我方融合召唤的「`冰剑龙 幻冰龙`_」为对象发动「`纳祭之魔·阿尼玛`_」的①效果时，我方连锁发动「`冰剑龙 幻冰龙`_」②效果，把这只「`纳祭之魔·阿尼玛`_」除外后，「`纳祭之魔·阿尼玛`_」的①效果处理时，「`冰剑龙 幻冰龙`_」不能变成装备卡而送去墓地的场合，不是因对方送去墓地，不能发动③效果。\ `22/1/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23547&keyword=&tag=-1&request_locale=ja>`__
-   | 「`克己挑战`_」装备的X怪兽变成里侧表示的场合，那个X怪兽不再是『装备怪兽』，「`克己挑战`_」被破坏，那个X怪兽不会被「`克己挑战`_」的效果破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15&request_locale=ja3&request_locale=ja>`__
+   | 「`克己挑战`_」装备的X怪兽变成里侧表示的场合，那个X怪兽不再是『装备怪兽』，「`克己挑战`_」被破坏，那个X怪兽不会被「`克己挑战`_」的效果破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=153&request_locale=ja>`__
    | 以「`甲虫装机 豆娘`_」为对象发动「`附火器的机甲铠`_」，连锁发动效果把「`甲虫装机 豆娘`_」变成其他种族的场合，「`附火器的机甲铠`_」不能装备而送去墓地。这个时点还没装备上，「`甲虫装机 豆娘`_」的②效果不能发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10201&keyword=&tag=-1&request_locale=ja>`__
    | 「`龙骑兵团-指挥官`_」装备有「`龙骑兵团-小标枪龙`_」和「`寄生虫 帕拉诺伊德`_」时，「`龙骑兵团-指挥官`_」从场上离开的场合，「`龙骑兵团-小标枪龙`_」和「`寄生虫 帕拉诺伊德`_」失去对象被破坏，处理后可以发动『当作装备卡使用』的「`寄生虫 帕拉诺伊德`_」的效果，记述『怪兽装备的这张卡』的「`龙骑兵团-小标枪龙`_」的效果不会发动。\ `17/11/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21532&request_locale=ja>`__
-   | 「`龙骑兵团-小标枪龙`_」和装备怪兽被「`黑蔷薇龙`_」等效果同时破坏的场合，「`龙骑兵团-小标枪龙`_」的效果会发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10353&request_locale=ja>`__
+   | 「`龙骑兵团-小标枪龙`_」和装备怪兽被「`黑蔷薇龙`_」等效果同时破坏的场合，「`龙骑兵团-小标枪龙`_」的效果会发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=9048&request_locale=ja>`__
 
    .. note:: 只要效果文本没有明确记述『破坏』一词，就不是被效果破坏。
 
@@ -61,7 +61,7 @@
 
    -  | 效果处理时才选要装备的装备卡，但这时目标怪兽已经不在怪兽区域表侧表示存在的场合，选装备卡的处理不会进行。
       | 例：
-      | 「`妖精传姬-辛德瑞拉`_」的②效果处理时，自身变成里侧守备表示的场合，这个效果不适用。不会从手卡·卡组·墓地选装备魔法卡。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20045&keyword=&tag=-1&request_locale=ja>`__
+      | 「`妖精传姬-辛德瑞拉`_」的②效果处理时，自身变成里侧守备表示的场合，这个效果不适用。不会从手卡·卡组·墓地选装备魔法卡。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12770&request_locale=ja>`__
 
    -  | 以已经在墓地的卡片为对象发动效果，把这些卡片给怪兽装备的处理时，那只怪兽不在场上表侧表示存在的场合，留在墓地。
       | 「`海洋枪兵`_」这样，以除外的卡片为对象发动效果，把这些卡片给怪兽装备的处理时，那只怪兽不在场上表侧表示存在的场合，除外的那些卡片放置到墓地。
@@ -73,7 +73,7 @@
       | 不过，已经装备了同盟怪兽卡的怪兽，控制权被对方得到，放置在对方怪兽区域的场合，那些同盟怪兽卡留在原本控制者场上。
       | 例：
       | 「`巨龙之守护骑士`_」的①效果处理时，自身控制权被对方得到，放置在对方怪兽区域的场合，这个效果正常适用，发动这个效果的玩家从自己的手卡·墓地选1只7·8星的龙族怪兽当作装备卡使用给对方场上的这张卡装备。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18447&keyword=&tag=-1&request_locale=ja>`__
-      | 「`暴君爆风龙`_」的②效果处理时，对象怪兽的控制权被对方得到，放置在对方怪兽区域的场合，由于这个效果记述是『给那只自己怪兽装备』，不能装备，送去墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16014&keyword=&tag=-1&request_locale=ja>`__
+      | 「`暴君爆风龙`_」的②效果处理时，对象怪兽的控制权被对方得到，放置在对方怪兽区域的场合，由于这个效果记述是『给那只自己怪兽装备』，不能装备，送去墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11883&request_locale=ja>`__
       | 「`魔圣骑士皇 兰斯洛特`_」的②效果处理时，控制权被对方得到，放置在对方怪兽区域的场合，这个效果正常适用，发动这个效果的玩家从自己卡组选出装备魔法，放置在自己的魔法·陷阱卡区域给对方这只「`魔圣骑士皇 兰斯洛特`_」装备。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13699&keyword=&tag=-1&request_locale=ja>`__
       | 「`同盟格纳库`_」的②效果处理时，对象怪兽的控制权被对方得到，放置在对方怪兽区域的场合，这个效果不适用，不会从卡组选同盟怪兽给对象怪兽装备。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19496&keyword=&tag=-1&request_locale=ja>`__
       | 「`A-突击核`_」的『把这张卡当作装备卡使用给那只怪兽装备』效果处理时，对象怪兽的控制权被对方得到，放置在对方怪兽区域的场合，「`A-突击核`_」送去墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19484&keyword=&tag=-1&request_locale=ja>`__
@@ -83,8 +83,8 @@
       | 如果要装备多张卡，可用的魔法·陷阱卡区域不足的状况，文本没有明确记述的场合，玩家尽可能选出要装备的卡片，没能装备的卡片的处理与对应的上述目标怪兽不在怪兽区域表侧表示存在的状况的处理一致。
       | 例：
       | 「`C-粉碎翼龙`_」的『把这张卡当作装备卡使用给那只怪兽装备』效果处理时，没有可用的魔法·陷阱卡区域的场合，不能装备，「`C-粉碎翼龙`_」送去墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19480&keyword=&tag=-1&request_locale=ja>`__
-      | 「`巨龙之守护骑士`_」的①效果处理时，没有可用的魔法·陷阱卡区域的场合，这个效果不适用，不会从手卡·墓地选7·8星的龙族怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18453&keyword=&tag=-1&request_locale=ja>`__
-      | 「`龙骑兵团神枪`_」的②效果处理时，没有可用的魔法·陷阱卡区域的场合，这个效果不适用，不会从卡组选龙族「`龙骑兵团`_」调整。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14188&keyword=&tag=-1&request_locale=ja>`__
+      | 「`巨龙之守护骑士`_」的①效果处理时，没有可用的魔法·陷阱卡区域的场合，这个效果不适用，不会从手卡·墓地选7·8星的龙族怪兽。\ `16/2/6 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12362&request_locale=ja>`__
+      | 「`龙骑兵团神枪`_」的②效果处理时，没有可用的魔法·陷阱卡区域的场合，这个效果不适用，不会从卡组选龙族「`龙骑兵团`_」调整。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11582&request_locale=ja>`__
       | 「`神圣骑士王 阿托利斯`_」的①效果处理时，可用的魔法·陷阱卡区域只有2个的场合，选2张装备，剩下那张留在墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13696&keyword=&tag=-1&request_locale=ja>`__
       | 「`纳祭之魔`_」的①效果处理时，没有可用的魔法·陷阱卡区域的场合，作为对象的怪兽不能变成装备卡，结果送去墓地，不当作因效果送去墓地。\ `24/12/11 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24122&keyword=&tag=-1&request_locale=ja>`__
 
@@ -118,14 +118,14 @@
    | 记述了作为装备卡时可以发动·适用的效果的场合，那些效果是装备魔法卡的效果处理，不是怪兽的效果。
    | 例：
    | 作为装备卡的「`甲虫装机 大黄蜂`_」把自身送去墓地发动效果，连锁以墓地的这张卡为对象发动「`墓穴的指名者`_」的场合，由于「`墓穴的指名者`_」记述的是『怪兽的效果无效化』，而这个效果处理时是装备魔法卡的效果，不是怪兽效果，不会被无效。
-   | 「`ABC-神龙歼灭者`_」的特殊召唤手续只要求卡名，可以除外作为装备卡的「`A-突击核`_」等。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6495&request_locale=ja>`__ 「`电磁石战士 电磁狂神`_」的召唤手续记述了『1只』，于是只能用怪兽，不能用作为装备卡的「`电磁石战士α`_」等。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19458&request_locale=ja>`__ 「`嵌合要塞龙`_」的召唤手续可以把作为装备卡的「`电子龙`_」送去墓地，但机械族怪兽变成装备卡后不再持有种族，不能被其召唤手续送去墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6872&request_locale=ja>`__ 
+   | 「`ABC-神龙歼灭者`_」的特殊召唤手续只要求卡名，可以除外作为装备卡的「`A-突击核`_」等。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12590&request_locale=ja>`__ 「`电磁石战士 电磁狂神`_」的召唤手续记述了『1只』，于是只能用怪兽，不能用作为装备卡的「`电磁石战士α`_」等。\ `16/6/18 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12573&request_locale=ja>`__ 「`嵌合要塞龙`_」的召唤手续可以把作为装备卡的「`电子龙`_」送去墓地，但机械族怪兽变成装备卡后不再持有种族，不能被其召唤手续送去墓地。\ `24/3/23 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6390&request_locale=ja>`__ 
    | 「`破坏剑士的摇篮`_」的②效果适用的回合，作为装备卡的「`破坏剑-龙破坏之剑`_」等也是「`破坏剑`_」卡，也不会被效果破坏。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20523&request_locale=ja>`__
    | 「`魔偶甜点·布丁公主`_」因「`纳祭之魔`_」的效果当作装备卡存在时，发动「`魔导人偶之夜`_」的场合，由于自己场上确实有「`魔偶甜点·布丁公主`_」存在，不要求是否作为怪兽存在，可以再让对方手卡随机1张回到卡组。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15&request_locale=ja>`__
 
    -  | 自身效果就可以当作装备卡使用的怪兽，因「`纳祭之魔`_」等其他效果给怪兽装备时，如果那个怪兽没有『用这张卡的效果把这张卡装备』等限制，作为装备卡时可以发动·适用的效果正常处理。
       | 新大师规则后，因「`纳祭之魔`_」等其他效果作为装备卡的P卡即使放在魔法·陷阱卡区域左右两端，也不能发动P效果。\ `17/7/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20756&request_locale=ja>`__
       | 例：
-      | 「`怀抱圣剑的王后 桂妮薇儿`_」只在用自身效果给怪兽装备时会让那个怪兽上升攻击力。「`纳祭之魔`_」的效果把它装备给自身的场合，攻击力不会上升，②效果会适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13680&request_locale=ja>`__
+      | 「`怀抱圣剑的王后 桂妮薇儿`_」只在用自身效果给怪兽装备时会让那个怪兽上升攻击力。「`纳祭之魔`_」的效果把它装备给自身的场合，攻击力不会上升，②效果会适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10990&request_locale=ja>`__
       | 「`同盟格纳库`_」的②效果给怪兽装备的同盟怪兽在下个回合后可以发动自身效果特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19477&request_locale=ja>`__
       | 「`闪光抽卡`_」把「`异热同心武器-独角兽皇枪`_」装备给「`No.39 希望皇 霍普`_」的场合，由于不是用自身的效果装备，不会上升攻击力。不过『装备怪兽和对方怪兽进行战斗的场合，只在战斗阶段内那只对方怪兽的效果无效化』这个效果会适用。\ `18/12/22 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22334&request_locale=ja>`__
 
@@ -154,6 +154,6 @@
 
 | 作为装备卡的怪兽·陷阱卡离开魔法·陷阱卡区域时，回到原本的状态，可以发动·适用自身不作为装备卡时持有的效果了。
 | 例：
-| 「`怨邪帝 盖乌斯`_」以作为装备卡的「`强化支援机械·重装武器`_」为对象发动效果的场合，除外后是暗属性，后续效果正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12294&request_locale=ja>`__
-| 作为装备卡的「`混沌之黑魔术师`_」从场上离开时，自身效果会适用，结果除外。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15&request_locale=ja3&request_locale=ja20>`__
-| 作为装备卡的「`元素英雄 绝对零度侠`_」从场上离开时，对方场上的怪兽全部破坏的效果会发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7847&request_locale=ja>`__
+| 「`怨邪帝 盖乌斯`_」以作为装备卡的「`强化支援机械·重装武器`_」为对象发动效果的场合，除外后是暗属性，后续效果正常适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11555&request_locale=ja>`__
+| 作为装备卡的「`混沌之黑魔术师`_」从场上离开时，自身效果会适用，结果除外。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5880&request_locale=ja>`__
+| 作为装备卡的「`元素英雄 绝对零度侠`_」从场上离开时，对方场上的怪兽全部破坏的效果会发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8129&request_locale=ja>`__

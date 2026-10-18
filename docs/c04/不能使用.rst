@@ -25,7 +25,7 @@
 
 | 不论是「`禁止令`_」还是「`念动力防卫者`_」，其效果都是让宣言的卡名为\ **原本卡名**\ 的双方的卡不能使用。
 | 宣言自身卡名的场合，由于「`禁止令`_」的效果不影响已经在场上的自身，只会让其他的「`禁止令`_」不能出现在场上；「`念动力防卫者`_」的场合，直到下次的对方回合结束时场上的自身都会变得不能使用。
-| 此外，作为宣言卡名的效果，不能宣言衍生物\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12551&keyword=&tag=-1&request_locale=ja>`__\ ，也不能宣言规则上不存在的「`传说之都 亚特兰蒂斯`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13585&keyword=&tag=-1&request_locale=ja>`__
+| 此外，作为宣言卡名的效果，不能宣言衍生物\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12551&keyword=&tag=-1&request_locale=ja>`__\ ，也不能宣言规则上不存在的「`传说之都 亚特兰蒂斯`_」。\ `22/4/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5387&request_locale=ja>`__
 
 -  | 宣言的卡持有『规则上也当作○○』的文本时，「○○」也不能使用。
    | 例：
@@ -92,8 +92,8 @@
 -  | 已经适用的效果，即使那个卡名被宣言而变得不能使用，那些效果仍然适用。
    | 例：
    | 「`念动力防卫者`_」的效果宣言「`僵尸带菌者`_」后，用自身效果特殊召唤的「`僵尸带菌者`_」从场上离开的场合仍然除外。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8612&keyword=&tag=-1&request_locale=ja>`__
-   | 「`死灵守卫者`_」的①效果适用后，发动「`禁止令`_」宣言「`死灵守卫者`_」的场合，这个效果仍然适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7843&keyword=&tag=-1&request_locale=ja>`__
-   | 「`增殖的G`_」的①效果适用后，发动「`禁止令`_」宣言「`增殖的G`_」的场合，这个效果仍然适用。这个回合对方每次特殊召唤怪兽自己仍然必须抽1张卡。\ `21/11/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23435&keyword=&tag=-1&request_locale=ja>`__
+   | 「`死灵守卫者`_」的①效果适用后，发动「`禁止令`_」宣言「`死灵守卫者`_」的场合，这个效果仍然适用。\ `24/7/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24059&keyword=&tag=-1&request_locale=ja>`__
+   | 「`增殖的G`_」的①效果适用后，发动「`禁止令`_」宣言「`增殖的G`_」的场合，这个效果仍然适用。这个回合对方每次特殊召唤怪兽自己仍然必须抽1张卡。\ `24/7/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24059&keyword=&tag=-1&request_locale=ja>`__
    | 「`天狱之王`_」的①效果适用后，持续公开期间发动「`禁止令`_」宣言「`天狱之王`_」的场合，『这个效果持续公开期间，场上盖放的卡不会被效果破坏』效果仍然适用。\ `21/10/29 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23403&keyword=&tag=-1&request_locale=ja>`__
    | 「`被诅咒的无花果`_」的效果适用后，在墓地存在时间发动「`禁止令`_」宣言「`被诅咒的无花果`_」的场合，『只要这张卡在墓地存在，选择的卡不能发动』效果仍然适用。\ `13/3/20 <https://yugioh-wiki.net/index.php?%A1%D4%B6%D8%BB%DF%CE%E1%A1%D5#faq0>`__
    | 「`念动力防卫者`_」的效果宣言「`强袭黑羽-雾雨之苦无鸟`_」后，用自身①效果记述的方法特殊召唤的「`强袭黑羽-雾雨之苦无鸟`_」仍然当作调整使用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16344&keyword=&tag=-1&request_locale=ja>`__

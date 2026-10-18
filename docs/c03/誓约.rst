@@ -43,8 +43,8 @@
 | 例：
 | 「`战华之叛-吕奉`_」的卡名变更为「`不明`_」后，不能发动自身的①效果。
 | 「`幻奏的音姬 殊荣之弗朗索瓦`_」的属性变更为暗后，不能发动自身的①效果。
-| 进行了通常召唤的回合，\ **不能**\ 发动「`高速疾行机人 魔剑玉`_」的③效果。\ `15/8/16 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11640>`__
-| 发动过卡的效果的回合，\ **不能**\ 发动「`混沌帝龙 -终焉的使者-`_」的效果。\ `16/12/17 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5860>`__
+| 进行了通常召唤的回合，\ **不能**\ 发动「`高速疾行机人 魔剑玉`_」的③效果。\ `15/8/16 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11640&request_locale=ja>`__
+| 发动过卡的效果的回合，\ **不能**\ 发动「`混沌帝龙 -终焉的使者-`_」的效果。\ `16/12/17 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5860&request_locale=ja>`__
 
 -  | 不是效果所以在发动时会立即适用。
    | 例：
@@ -66,15 +66,15 @@
 
 -  | 这个发动被无效的场合，这种描述不再适用。
    | 例：
-   | 「`高速疾行机人 魔剑玉`_」的③效果的发动被「`天罚`_」无效的场合，这个回合\ **仍可以**\ 进行通常召唤。\ `14/12/14 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14551&keyword=&tag=-1>`__
-   | 「`混沌帝龙 -终焉的使者-`_」的效果的发动被「`天罚`_」无效的场合，这个回合\ **仍可以**\ 发动其他卡的效果。\ `15/1/1 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14597>`__
-   | 「`卡片炮击士`_」的怪兽效果发动或「`死者苏生`_」卡的发动被「`光与暗之龙`_」无效的场合，这个回合\ **仍可以**\ 发动「`混沌帝龙 -终焉的使者-`_」的效果。`15/1/1 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14599&keyword=&tag=-1>`__
+   | 「`高速疾行机人 魔剑玉`_」的③效果的发动被「`天罚`_」无效的场合，这个回合\ **仍可以**\ 进行通常召唤。\ `14/12/14 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11640&request_locale=ja>`__
+   | 「`混沌帝龙 -终焉的使者-`_」的效果的发动被「`天罚`_」无效的场合，这个回合\ **仍可以**\ 发动其他卡的效果。\ `15/1/1 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5860&request_locale=ja>`__
+   | 「`卡片炮击士`_」的怪兽效果发动或「`死者苏生`_」卡的发动被「`光与暗之龙`_」无效的场合，这个回合\ **仍可以**\ 发动「`混沌帝龙 -终焉的使者-`_」的效果。`15/1/1 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5860&request_locale=ja>`__
 
 -  | 发动成功，只是效果被无效，或不适用的场合，由于这种描述不是效果，仍会适用。
    | 例：
-   | 「`高速疾行机人 魔剑玉`_」的③效果被「`魔轰神兽 尤尼科`_」无效的场合，这个回合\ **不能**\ 进行通常召唤。\ `14/12/14 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14550&keyword=&tag=-1>`__
-   | 「`混沌帝龙 -终焉的使者-`_」的效果发动被「`效果遮蒙者`_」无效的场合，这个回合\ **不能**\ 发动其他卡的效果。\ `15/1/1 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14597>`__
-   | 「`卡片炮击士`_」的怪兽效果或「`死者苏生`_」的效果被「`魔轰神兽 尤尼科`_」无效的场合，这个回合\ **不能**\ 发动「`混沌帝龙 -终焉的使者-`_」的效果。`15/1/1 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14599&keyword=&tag=-1>`__
+   | 「`高速疾行机人 魔剑玉`_」的③效果被「`魔轰神兽 尤尼科`_」无效的场合，这个回合\ **不能**\ 进行通常召唤。\ `14/12/14 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14550&keyword=&tag=-1&request_locale=ja>`__
+   | 「`混沌帝龙 -终焉的使者-`_」的效果发动被「`效果遮蒙者`_」无效的场合，这个回合\ **不能**\ 发动其他卡的效果。\ `15/1/1 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5860&request_locale=ja>`__
+   | 「`卡片炮击士`_」的怪兽效果或「`死者苏生`_」的效果被「`魔轰神兽 尤尼科`_」无效的场合，这个回合\ **不能**\ 发动「`混沌帝龙 -终焉的使者-`_」的效果。`15/1/1 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5860&request_locale=ja>`__
 
    -  | 可以选择不进行的效果被无效的场合，由于没有进行，可以发动这类效果。
       | 例：
@@ -82,11 +82,11 @@
 
 -  | 效果被改写的场合，由于这种描述不是效果，不会被改写。
    | 例：
-   | 对方发动「`强欲而谦虚之壶`_」时，我方连锁发动「`妖精传姬-塔利娅`_」②效果的场合，这个回合对方仍然不能特殊召唤怪兽。\ `17/3/24 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19695&keyword=>`__
+   | 对方发动「`强欲而谦虚之壶`_」时，我方连锁发动「`妖精传姬-塔利娅`_」②效果的场合，这个回合对方仍然不能特殊召唤怪兽。\ `17/3/24 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19695&keyword=&request_locale=ja>`__
 
 -  | 这种描述不是效果，应该看成效果附带的其他处理，其他卡得到这些效果的场合，也要处理这个部分。
    | 例：
-   | 自己的「`混沌幻影`_」得到「`混沌帝龙 -终焉的使者-`_」的卡名和效果后，由于这次效果发动，即这个回合已经发动过卡的效果，因此得到的「`混沌帝龙 -终焉的使者-`_」的效果不能发动。\ `15/1/1 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14600>`__
+   | 自己的「`混沌幻影`_」得到「`混沌帝龙 -终焉的使者-`_」的卡名和效果后，由于这次效果发动，即这个回合已经发动过卡的效果，因此得到的「`混沌帝龙 -终焉的使者-`_」的效果不能发动。\ `15/1/1 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14600&request_locale=ja>`__
 
 .. tip:: 如果不关心特殊召唤次数和被无效等细节内容，可以忽略下面这部分，直接点击跳到→\ 效果的附加处理_\ 。
 
@@ -117,7 +117,7 @@
    | 手卡的「`堕天使 莫斯提马`_」发动①效果被对方的「`审判女士`_」的①效果无效后，这个回合手卡的「`堕天使 莫斯提马`_」还能再次发动①效果。
    | P区域「`恩底弥翁的仆从`_」发动的②效果被对方连锁发动的「`灰流丽`_」的①效果无效后，这个回合P区域的「`恩底弥翁的仆从`_」还能再次发动②效果。
    | P区域的「`恩底弥翁的仆从`_」的②效果发动时，可以连锁以墓地另1只「`恩底弥翁的仆从`_」为对象发动「`活死人的呼声`_」。这个「`活死人的呼声`_」把墓地的「`恩底弥翁的仆从`_」特殊召唤成功的场合，连锁1的「`恩底弥翁的仆从`_」的P效果不适用。
-   | 自己把「`闪刀姬-雫空`_」连接召唤之际，对方发动「`神之通告`_」无效这次连接召唤的场合，这个回合自己仍然可以发动「`帝王的烈旋`_」。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10462&keyword=&tag=-1&request_locale=ja>`__
+   | 自己把「`闪刀姬-雫空`_」连接召唤之际，对方发动「`神之通告`_」无效这次连接召唤的场合，这个回合自己仍然可以发动「`帝王的烈旋`_」。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11275&request_locale=ja>`__
 
 -  | 由于是限制次数，1次特殊召唤多张是允许的。
    | 例：
@@ -133,7 +133,7 @@
    | 自己把1只「`青眼白龙`_」以外的怪兽（包括「`青眼亚白龙`_」）不入连锁特殊召唤之际，对方发动「`雷王`_」的效果时，自己不能连锁发动「`青色眼睛的激临`_」。
    | 自己从额外卡组把1只怪兽不入连锁特殊召唤之际，对方发动「`雷王`_」的效果时，自己不能连锁发动「`帝王的烈旋`_」。
    | 自己「`融合`_」的效果处理时，没有成功特殊召唤融合怪兽的场合，这个回合自己仍然可以发动「`帝王的烈旋`_」。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10972&keyword=&tag=-1&request_locale=ja>`__
-   | 自己把「`闪刀姬-雫空`_」连接召唤之际，对方发动「`神之通告`_」无效这次连接召唤的场合，这个回合自己仍然可以发动「`帝王的烈旋`_」。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10462&keyword=&tag=-1&request_locale=ja>`__
+   | 自己把「`闪刀姬-雫空`_」连接召唤之际，对方发动「`神之通告`_」无效这次连接召唤的场合，这个回合自己仍然可以发动「`帝王的烈旋`_」。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11275&request_locale=ja>`__
    | 自己进行的P召唤被「`神之宣告`_」无效后，这个回合自己还可以发动「`娱乐伙伴 额外射手`_」的P效果。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19016&keyword=&tag=-1&request_locale=ja>`__
    | 自己「`超重武者 魂-C`_」的①效果发动或效果被对方的「`天罚`_」或「`技能抽取`_」无效后，这个回合自己仍然可以发动「`毛绒动物·鼠`_」的①效果。\ `20/4/1 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15600&keyword=&tag=-1&request_locale=ja>`__
 
@@ -165,14 +165,14 @@
 3. 『\ **这个回合**\ ○○』
 
 | 例：
-| 从额外卡组特殊召唤过怪兽的回合，仍然可以发动「`冥帝从骑 哀多斯`_」的②效果。\ `15/10/16 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16968&keyword=>`__
-| 自己其他怪兽直接攻击过的回合的主要阶段2，仍然可以发动「`银河眼光波龙`_」的①效果。\ `16/5/13 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19259&keyword=&tag=-1>`__
+| 从额外卡组特殊召唤过怪兽的回合，仍然可以发动「`冥帝从骑 哀多斯`_」的②效果。\ `15/10/16 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12092&request_locale=ja>`__
+| 自己其他怪兽直接攻击过的回合的主要阶段2，仍然可以发动「`银河眼光波龙`_」的①效果。\ `16/5/13 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12552&request_locale=ja>`__
 
 -  | 这类记述，都是卡的\ **效果**\ ，所以在效果处理时才适用。不论发动被无效，还是效果被无效，都不会适用。
    | 例：
-   | 2个「`炼狱之骑士 多禄某`_」的效果可以组成连锁发动。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19620&request_locale=ja>`__
-   | 「`雷帝家臣 密特拉`_」的效果被「`魔轰神兽 尤尼科`_」无效，这个回合可以从额外卡组特殊召唤怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14959&request_locale=ja>`__
-   | 「`励辉士 入魔蝇王`_」发动被「`光与暗之龙`_」，或者效果被「`技能抽取`_」无效，这个回合对方玩家受到的伤害不会变成0。\ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13019&keyword=&tag=-1>`__
+   | 2个「`炼狱之骑士 多禄某`_」的效果可以组成连锁发动。\ `16/7/9 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12641&request_locale=ja>`__
+   | 「`雷帝家臣 密特拉`_」的效果被「`魔轰神兽 尤尼科`_」无效，这个回合可以从额外卡组特殊召唤怪兽。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11756&request_locale=ja>`__
+   | 「`励辉士 入魔蝇王`_」发动被「`光与暗之龙`_」，或者效果被「`技能抽取`_」无效，这个回合对方玩家受到的伤害不会变成0。\ `14/3/21 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13019&keyword=&tag=-1&request_locale=ja>`__
    | 「`雪花之光`_」的『这张卡的发动后，这次决斗中』部分也是效果，只在卡的发动时适用。\ `18/1/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21681&keyword=&tag=-1&request_locale=ja>`__
 
    .. attention:: 特别地，「`次世代兵器 还零`_」的『这个回合○○』不在效果处理部分，因此不是效果。场上存在「`技能抽取`_」时，效果无效的「`次世代兵器 还零`_」除外光属性怪兽发动①效果后，这个回合也不能再次除外光属性怪兽发动①效果。
@@ -181,7 +181,7 @@
    | 这类记述的处理不占用时点。
    | 即使这类记述无法适用，仍然可以发动那些效果。
    | 例：
-   | 「`炼狱的消华`_」发动①效果，连锁发动「`岔子`_」，不能加入手卡的场合，这个回合自己仍不能把「`狱火机`_」怪兽以外的怪兽召唤·特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15237&request_locale=ja>`__
+   | 「`炼狱的消华`_」发动①效果，连锁发动「`岔子`_」，不能加入手卡的场合，这个回合自己仍不能把「`狱火机`_」怪兽以外的怪兽召唤·特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11736&request_locale=ja>`__
    | 「`超重武者 拳-C`_」的②效果把自身特殊召唤就是效果处理完毕，「`激流葬`_」不会错过时点，可以发动。\ `17/7/28 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21032&request_locale=ja>`__
    | 「`雪花之光`_」①效果进行抽卡后就是这个效果处理完毕，『这张卡的发动后，这次决斗中』部分的效果会立即适用，不占用时点。\ `18/1/13 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13616&request_locale=ja>`__
 
@@ -189,7 +189,7 @@
       | 例：
       | 「`钢铁巨兵`_」的效果处理时，自身变成里侧表示，或者不在场上存在的场合，『这个回合，○○』部分的效果不适用。
       | 「`混沌核心`_」的①效果处理时，「`门之防壁`_」的①效果适用，不能放置指示物的场合，『这个回合，○○』部分的效果不适用。
-      | 「`古之咒文`_」的①效果处理时，没能把「`拉之翼神龙`_」加入手卡的场合，『这个回合，○○』部分的效果不适用。\ `22/12/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23026&keyword=&tag=-1&request_locale=ja>`__
+      | 「`古之咒文`_」的①效果处理时，没能把「`拉之翼神龙`_」加入手卡的场合，『这个回合，○○』部分的效果不适用。\ `22/12/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=15333&request_locale=ja>`__
       | 「`女巫特露德`_」的②效果处理时，因对象卡片不存在等状况，无法破坏对象卡片的场合，『这个回合，这张卡在同1次的战斗阶段中最多2次可以向怪兽攻击』效果不适用。\ `22/3/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23593&keyword=&tag=-1&request_locale=ja>`__
       | 「`灵摆区`_」的①效果处理时，作为对象的2张卡其中1张因「`闪珖龙 星尘`_」的效果不会被破坏的场合，剩下那张仍然破坏。由于没有破坏2张卡，『这个回合双方不能作灵摆召唤以外的特殊召唤』仍不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16638&keyword=&tag=-1&request_locale=ja>`__
 
@@ -198,13 +198,13 @@
       | 有多步处理的场合，如果前面有能适用的部分，即使后面存在不能适用的部分，这个效果也可以发动。如果最开始的部分就不能适用，这个效果仍然不能发动。
       | 例：
       | 在主要阶段2（或者不能进行战斗阶段的回合）不能发动「`No.95 银河眼暗物质龙`_」的②效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14805&request_locale=ja>`__
-      | P区域「`虹彩之魔术师`_」的①效果处理『这个回合那只怪兽用和对方怪兽的战斗给与对方的战斗伤害变成2倍』在主要阶段2（或者不能进行战斗阶段的回合）不能进行，结果不能发动P区域「`虹彩之魔术师`_」的①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20422&request_locale=ja>`__\ 此外，这部分和『那之后，这张卡破坏』不在1个时点处理。
-      | 在主要阶段2（或者不能进行战斗阶段的回合）也可以发动「`雷击坏兽 雷鸣龙王`_」的④效果。『这个回合，对方不能把魔法·陷阱·怪兽的效果发动』会适用，『这张卡在同1次的战斗阶段中最多3次可以向怪兽攻击』不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19932&keyword=&tag=-1&request_locale=ja>`__
+      | P区域「`虹彩之魔术师`_」的①效果处理『这个回合那只怪兽用和对方怪兽的战斗给与对方的战斗伤害变成2倍』在主要阶段2（或者不能进行战斗阶段的回合）不能进行，结果不能发动P区域「`虹彩之魔术师`_」的①效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12908&request_locale=ja>`__\ 此外，这部分和『那之后，这张卡破坏』不在1个时点处理。
+      | 在主要阶段2（或者不能进行战斗阶段的回合）也可以发动「`雷击坏兽 雷鸣龙王`_」的④效果。『这个回合，对方不能把魔法·陷阱·怪兽的效果发动』会适用，『这张卡在同1次的战斗阶段中最多3次可以向怪兽攻击』不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12390&request_locale=ja>`__
 
 -  | 对于永续魔法·陷阱卡等，处理时不在场上，效果完全不适用的场合，由于这些也是效果，也不会适用。
    | 例：
-   | 「`惊天动地`_」的效果发动后，处理时不在场上的场合，这个回合仍可以从卡组把卡送去墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13632&keyword=&tag=-1&request_locale=ja>`__
-   | 「`炼狱的消华`_」的①效果发动后，处理时不在场上的场合，这个回合自己仍可以把「`狱火机`_」怪兽以外的怪兽召唤·特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15240&keyword=&tag=-1&request_locale=ja>`__
+   | 「`惊天动地`_」的效果发动后，处理时不在场上的场合，这个回合仍可以从卡组把卡送去墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11208&request_locale=ja>`__
+   | 「`炼狱的消华`_」的①效果发动后，处理时不在场上的场合，这个回合自己仍可以把「`狱火机`_」怪兽以外的怪兽召唤·特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11736&request_locale=ja>`__
    | P区域「`魔界剧团-圆熟女主演`_」的效果发动后，处理时不在场上的场合，这个回合自己仍可以把「`魔界剧团`_」P怪兽以外的怪兽特殊召唤。\ `18/6/8 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21937&request_locale=ja>`__
 
 『发动的场合/発動した場合，○○』
@@ -243,7 +243,7 @@
 
 | 「`风来王 野风`_」「`超重武者 法螺贝-E`_」的这类记述虽然是效果，但不是在场上适用的效果，「`技能抽取`_」适用时不会被无效。
 | 特殊召唤之际的时点还不会适用这类效果。
-| 『○○』部分记述的行动已经进行过的回合，也能特殊召唤。\ `15/7/17 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16442>`__
+| 『○○』部分记述的行动已经进行过的回合，也能特殊召唤。\ `15/7/17 <http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16442&request_locale=ja>`__
 | 例：
 | 「`风来王 野风`_」的①效果这样，『这个方法特殊召唤过的回合』效果，不是在场上适用的效果，即使场上存在「`技能抽取`_」，这类效果也不会被无效。「`超重武者 法螺贝-E`_」「`燃烧拳击手 练习拳手`_」「`寂静鮟鱇`_」「`娱乐法师 高跷射手`_」「`圣刻龙-泰芙龙`_」的①效果也都一样，不会被无效。\ `22/12/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20371&keyword=&tag=-1&request_locale=ja>`__
 

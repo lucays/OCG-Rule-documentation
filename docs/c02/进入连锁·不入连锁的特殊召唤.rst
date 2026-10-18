@@ -79,7 +79,7 @@
    | 「`紧急同调`_」发动时，可以连锁发动「`珠泪哀歌族·鲁莎卡人鱼`_」的②效果。\ `22/12/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23933&keyword=&tag=-1&request_locale=ja>`__
    | 「`不死世界`_」在场上存在时，「`方程式同调士`_」发动②效果，在效果处理完毕时S召唤了等级5以上的怪兽的场合，也不能发动「`黄金乡的七摩天`_」的②效果或墓地的「`吸血鬼·格蕾丝`_」的效果。
    | 「`加速同调星尘龙`_」发动②效果，把「`星尘龙`_」当作S召唤特殊召唤，再S召唤了等级5以上的不死族怪兽的状况，这只不死族怪兽是『这个效果S召唤的怪兽』，但不是『卡的效果让不死族怪兽特殊召唤的场合』，不能发动「`黄金乡的七摩天`_」的②效果。
-   | 「`紧急同调`_」等，魔法·陷阱卡的效果发动，让怪兽S·X·P·连接召唤的场合，不是效果进行的特殊召唤，不能发动「`火器的祝台`_」的①效果。\ `24/7/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24086&keyword=&tag=-1&request_locale=ja>`__
+   | 「`I：P百变莱娜`_」等效果让怪兽S·X·P·连接召唤的场合，召唤是在连锁处理完毕后立刻进行，不属于『被发动的效果特殊召唤』，因此不能发动「`火器的祝台`_」的①效果。\ `25/9/27 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23173&keyword=&tag=-1&request_locale=ja>`__
 
 .. attention:: 『发动的效果让怪兽特殊召唤』指的是发动的效果所在那个连锁块的效果处理进行特殊召唤。这个场合不是『发动的效果让怪兽特殊召唤』。详见\ :ref:`发动的效果`\ 。
 
@@ -131,7 +131,7 @@
 -  | 特殊召唤多只怪兽的效果处理时，可用怪兽区域不足的场合，根据效果记述的文本，进行对应的处理，详见\ :ref:`特定记述的适用`\ 。
    | 例：
    | 「`星云龙 尼布拉龙`_」的①效果处理时，可用怪兽区域没有2处的场合，由于记述是『2只』，结果2只怪兽都不特殊召唤，留在手卡。\ `19/7/12 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22747&keyword=&tag=-1&request_locale=ja>`__
-   | 「`ABC-神龙歼灭者`_」效果处理部分是『那些』，处理时可用怪兽区域不足的场合会选其中的部分怪兽特殊召唤，剩下的送去墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12475&request_locale=ja>`__
+   | 「`ABC-神龙歼灭者`_」效果处理部分是『那些』，处理时可用怪兽区域不足的场合会选其中的部分怪兽特殊召唤，剩下的送去墓地。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12590&request_locale=ja>`__
    | 「`魔神仪-蜡烛人偶`_」的①效果处理时，可用怪兽区域没有2处的场合，由于记述是『卡组1只「`魔神仪`_」怪兽和手卡的这张卡』，对应『A和B』类记述，结果2只怪兽都不特殊召唤，「`魔神仪-蜡烛人偶`_」留在手卡。\ `22/12/30 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21828&keyword=&tag=-1&request_locale=ja>`__
 
    .. attention:: 特别地，「`复仇死者的续魂再结`_」的①效果处理时，可用怪兽区域不足，结果可以被特殊召唤的怪兽等级合计比给对方观看的怪兽低的场合，不能进行仪式召唤，这个效果完全不适用，不会特殊召唤被除外的怪兽。\ `18/9/10 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22130&keyword=&tag=-1&request_locale=ja>`__
