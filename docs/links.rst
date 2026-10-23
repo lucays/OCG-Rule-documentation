@@ -387,6 +387,7 @@
 .. _`亚马逊的意志`: https://ygocdb.com/card/name/亚马逊的意志
 .. _`亚马逊的秘术`: https://ygocdb.com/card/name/亚马逊的秘术
 .. _`亚马逊的秘汤`: https://ygocdb.com/card/name/亚马逊的秘汤
+.. _`亚马逊诅咒师`: https://ygocdb.com/card/name/亚马逊诅咒师
 .. _`亚马逊转生术`: https://ygocdb.com/card/name/亚马逊转生术
 .. _`亚马逊金鞭使`: https://ygocdb.com/card/name/亚马逊金鞭使
 .. _`亚马逊银剑使`: https://ygocdb.com/card/name/亚马逊银剑使
@@ -1126,6 +1127,7 @@
 .. _`双天的转身`: https://ygocdb.com/card/name/双天的转身
 .. _`双头雷龙`: https://ygocdb.com/card/name/双头雷龙
 .. _`双子太阳 赫利俄斯`: https://ygocdb.com/card/name/双子太阳%20赫利俄斯
+.. _`双工器奇美拉`: https://ygocdb.com/card/name/%E5%8F%8C%E5%B7%A5%E5%99%A8%E5%A5%87%E7%BE%8E%E6%8B%89
 .. _`双极之破械神`: https://ygocdb.com/card/name/双极之破械神
 .. _`双汇编亚龙`: https://ygocdb.com/card/name/双汇编亚龙
 .. _`双生恶魔`: https://ygocdb.com/card/name/双生恶魔
@@ -2242,6 +2244,7 @@
 .. _`幻惑之魔术师`: https://ygocdb.com/card/name/幻惑之魔术师
 .. _`幻惑眼纳祭神`: https://ygocdb.com/card/name/幻惑眼纳祭神
 .. _`幻想之见习魔导师`: https://ygocdb.com/card/name/幻想之见习魔导师
+.. _`幻想之邪眼-纳祭之魔`: https://ygocdb.com/card/name/%E5%B9%BB%E6%83%B3%E4%B9%8B%E9%82%AA%E7%9C%BC-%E7%BA%B3%E7%A5%AD%E4%B9%8B%E9%AD%94
 .. _`幻想之黑魔导师`: https://ygocdb.com/card/name/幻想之黑魔导师
 .. _`幻想夺取者`: https://ygocdb.com/card/name/幻想夺取者
 .. _`幻想魔兽 奇美拉`: https://ygocdb.com/card/name/幻想魔兽%20奇美拉
@@ -2430,6 +2433,7 @@
 .. _`强风龙`: https://ygocdb.com/card/name/强风龙
 .. _`归光之契`: https://ygocdb.com/card/name/归光之契
 .. _`归光之旅-『塞尼特』`: https://ygocdb.com/card/name/归光之旅-『塞尼特』
+.. _`归魂复仇死者·屠魔侠`: https://ygocdb.com/card/name/%E5%BD%92%E9%AD%82%E5%A4%8D%E4%BB%87%E6%AD%BB%E8%80%85%C2%B7%E5%B1%A0%E9%AD%94%E4%BE%A0
 .. _`归魂复仇死者的诞生`: https://ygocdb.com/card/name/归魂复仇死者的诞生
 .. _`彗圣之将-翌夜之莫桑石骑士`: https://ygocdb.com/card/name/彗圣之将-翌夜之莫桑石骑士
 .. _`形态变化`: https://ygocdb.com/card/name/形态变化
@@ -2512,6 +2516,7 @@
 .. _`心变`: https://ygocdb.com/card/name/心变
 .. _`心太炮式`: https://ygocdb.com/card/name/心太炮式
 .. _`心灵崩坏`: https://ygocdb.com/card/name/心灵崩坏
+.. _`心灵王车易位法师`: https://ygocdb.com/card/name/%E5%BF%83%E7%81%B5%E7%8E%8B%E8%BD%A6%E6%98%93%E4%BD%8D%E6%B3%95%E5%B8%88
 .. _`心眼之女神`: https://ygocdb.com/card/name/心眼之女神
 .. _`心眼之矛`: https://ygocdb.com/card/name/心眼之矛
 .. _`心眼之祭殿`: https://ygocdb.com/card/name/心眼之祭殿
@@ -2537,6 +2542,7 @@
 .. _`念力电子巨人`: https://ygocdb.com/card/name/念力电子巨人
 .. _`念力终结处刑者`: https://ygocdb.com/card/name/念力终结处刑者
 .. _`念力调整`: https://ygocdb.com/card/name/念力调整
+.. _`念动力体先知`: https://ygocdb.com/card/name/%E5%BF%B5%E5%8A%A8%E5%8A%9B%E4%BD%93%E5%85%88%E7%9F%A5
 .. _`念动力兽`: https://ygocdb.com/card/name/念动力兽
 .. _`念动力防卫者`: https://ygocdb.com/card/name/念动力防卫者
 .. _`念动增幅装置`: https://ygocdb.com/card/name/念动增幅装置
@@ -3086,6 +3092,7 @@
 .. _`明亮火花`: https://ygocdb.com/card/name/明亮火花
 .. _`明亮蔷薇`: https://ygocdb.com/card/name/明亮蔷薇
 .. _`明亮融合`: https://ygocdb.com/card/name/明亮融合
+.. _`明灭骑士 剑霸乐运动员`: https://ygocdb.com/card/name/明灭骑士%20剑霸乐运动员
 .. _`明镜止水之心`: https://ygocdb.com/card/name/明镜止水之心
 .. _`昙天气 糸紫`: https://ygocdb.com/card/name/昙天气%20糸紫
 .. _`星义旗舰兽`: https://ygocdb.com/card/name/星义旗舰兽
@@ -3876,6 +3883,7 @@
 .. _`海皇的重装兵`: https://ygocdb.com/card/name/海皇的重装兵
 .. _`海皇的长枪兵`: https://ygocdb.com/card/name/海皇的长枪兵
 .. _`海皇的龙骑队`: https://ygocdb.com/card/name/海皇的龙骑队
+.. _`海皇龙神 波塞德拉·深渊`: https://ygocdb.com/card/name/%E6%B5%B7%E7%9A%87%E9%BE%99%E7%A5%9E%20%E6%B3%A2%E5%A1%9E%E5%BE%B7%E6%8B%89%C2%B7%E6%B7%B1%E6%B8%8A
 .. _`海神的依代`: https://ygocdb.com/card/name/海神的依代
 .. _`海神的巫女`: https://ygocdb.com/card/name/海神的巫女
 .. _`海胆军贯`: https://ygocdb.com/card/name/海胆军贯
@@ -3922,6 +3930,7 @@
 .. _`深海歌后`: https://ygocdb.com/card/name/深海歌后
 .. _`深海潜水员`: https://ygocdb.com/card/name/深海潜水员
 .. _`深海王 恶魔鲨`: https://ygocdb.com/card/name/深海王%20恶魔鲨
+.. _`深海艺术指导`: https://ygocdb.com/card/name/%E6%B7%B1%E6%B5%B7%E8%89%BA%E6%9C%AF%E6%8C%87%E5%AF%BC
 .. _`深渊之兽`: https://ygocdb.com/?search=深渊之兽
 .. _`深渊之兽 巴尔德鸟龙兽`: https://ygocdb.com/card/name/深渊之兽%20巴尔德鸟龙兽
 .. _`深渊之兽 德鲁伊鳞虫`: https://ygocdb.com/card/name/深渊之兽%20德鲁伊鳞虫
@@ -4468,6 +4477,7 @@
 .. _`电子终结龙`: https://ygocdb.com/card/name/电子终结龙
 .. _`电子融合支援`: https://ygocdb.com/card/name/电子融合支援
 .. _`电子负载融合`: https://ygocdb.com/card/name/电子负载融合
+.. _`电子食人魔2`: https://ygocdb.com/card/name/电子食人魔2
 .. _`电子鱼人-弓手`: https://ygocdb.com/card/name/电子鱼人-弓手
 .. _`电子鱼人-栽培者`: https://ygocdb.com/card/name/电子鱼人-栽培者
 .. _`电子黑影守卫者`: https://ygocdb.com/card/name/电子黑影守卫者
@@ -4802,6 +4812,7 @@
 .. _`磁力`: https://ygocdb.com/card/name/磁力
 .. _`磁力场`: https://ygocdb.com/card/name/磁力场
 .. _`磁力指轮`: https://ygocdb.com/card/name/磁力指轮
+.. _`磁石战士 电磁地神`: https://ygocdb.com/card/name/磁石战士%20电磁地神
 .. _`磁石战士 电磁武神`: https://ygocdb.com/card/name/磁石战士%20电磁武神
 .. _`磁石战士α`: https://ygocdb.com/card/name/磁石战士α
 .. _`磁石战士β`: https://ygocdb.com/card/name/磁石战士β
@@ -5233,6 +5244,7 @@
 .. _`肆世坏的双牙`: https://ygocdb.com/card/name/肆世坏的双牙
 .. _`肥大化`: https://ygocdb.com/card/name/肥大化
 .. _`背信圣徒 森厄狼母`: https://ygocdb.com/card/name/背信圣徒%20森厄狼母
+.. _`背叛之罪宝-森厄狼`: https://ygocdb.com/card/name/背叛之罪宝-森厄狼
 .. _`背德的堕天使`: https://ygocdb.com/card/name/背德的堕天使
 .. _`背护卫`: https://ygocdb.com/card/name/背护卫
 .. _`胜利蛇XX03`: https://ygocdb.com/?search=胜利蛇XX03
@@ -5257,6 +5269,7 @@
 .. _`自奏圣乐的通天塔`: https://ygocdb.com/card/name/自奏圣乐的通天塔
 .. _`自奏圣乐的释音`: https://ygocdb.com/card/name/自奏圣乐的释音
 .. _`自尊的咆哮`: https://ygocdb.com/card/name/自尊的咆哮
+.. _`自己抽1张`: https://ygocdb.com/card/name/自己抽1张
 .. _`自然`: https://ygocdb.com/?search=自然
 .. _`自然之森`: https://ygocdb.com/card/name/自然之森
 .. _`自然兽`: https://ygocdb.com/card/name/自然兽
@@ -5423,7 +5436,9 @@
 .. _`蛇头阴影`: https://ygocdb.com/card/name/蛇头阴影
 .. _`蛇毒巨蟒`: https://ygocdb.com/card/name/蛇毒巨蟒
 .. _`蛇毒沼泽`: https://ygocdb.com/?search=蛇毒沼泽
+.. _`蛇眼原罪龙`: https://ygocdb.com/card/name/%E8%9B%87%E7%9C%BC%E5%8E%9F%E7%BD%AA%E9%BE%99
 .. _`蛇眼大炎魔`: https://ygocdb.com/card/name/蛇眼大炎魔
+.. _`蛇眼断罪龙`: https://ygocdb.com/card/name/%E8%9B%87%E7%9C%BC%E6%96%AD%E7%BD%AA%E9%BE%99
 .. _`蛇眼梣树灵`: https://ygocdb.com/card/name/蛇眼梣树灵
 .. _`蛇眼橡树灵`: https://ygocdb.com/card/name/蛇眼橡树灵
 .. _`蛇眼炎磷`: https://ygocdb.com/card/name/蛇眼炎磷
@@ -6282,6 +6297,7 @@
 .. _`青蛙`: https://ygocdb.com/?search=青蛙
 .. _`青衣忍者`: https://ygocdb.com/card/name/青衣忍者
 .. _`静寂之杖-波纹`: https://ygocdb.com/card/name/静寂之杖-波纹
+.. _`静寂的念力女巫`: https://ygocdb.com/card/name/%E9%9D%99%E5%AF%82%E7%9A%84%E5%BF%B5%E5%8A%9B%E5%A5%B3%E5%B7%AB
 .. _`静寂虫`: https://ygocdb.com/card/name/静寂虫
 .. _`非对称玄化`: https://ygocdb.com/card/name/非对称玄化
 .. _`非常食`: https://ygocdb.com/card/name/非常食
@@ -6605,6 +6621,7 @@
 .. _`魔键变鬼-特兰斯佛尔米雷`: https://ygocdb.com/card/name/魔键变鬼-特兰斯佛尔米雷
 .. _`魔键斗争`: https://ygocdb.com/card/name/魔键斗争
 .. _`魔键施解`: https://ygocdb.com/card/name/魔键施解
+.. _`魔键炮-加雷斯维特`: https://ygocdb.com/card/name/%E9%AD%94%E9%94%AE%E7%82%AE-%E5%8A%A0%E9%9B%B7%E6%96%AF%E7%BB%B4%E7%89%B9
 .. _`魔键铳-巴托斯巴斯特`: https://ygocdb.com/card/name/魔键铳-巴托斯巴斯特
 .. _`魔键铳士-克莱维斯`: https://ygocdb.com/card/name/魔键铳士-克莱维斯
 .. _`魔龙星-饕餮`: https://ygocdb.com/card/name/魔龙星-饕餮
@@ -6713,6 +6730,8 @@
 .. _`黑面波波`: https://ygocdb.com/card/name/黑面波波
 .. _`黑项链`: https://ygocdb.com/card/name/黑项链
 .. _`黑魔女 迪亚贝尔斯塔尔`: https://ygocdb.com/card/name/黑魔女%20迪亚贝尔斯塔尔
+.. _`黑魔导`: https://ygocdb.com/card/name/黑魔导
+.. _`黑魔导女孩`: https://ygocdb.com/card/name/黑魔导女孩
 .. _`黑魔导幻像`: https://ygocdb.com/card/name/黑魔导幻像
 .. _`黑魔导强化`: https://ygocdb.com/card/name/黑魔导强化
 .. _`黑魔导战士 破坏者`: https://ygocdb.com/card/name/黑魔导战士%20破坏者
