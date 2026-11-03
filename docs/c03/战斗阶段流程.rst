@@ -605,6 +605,7 @@
 -  | 记述『战斗破坏○○怪兽』『○○怪兽被战斗破坏』诱发的效果在进行伤害计算的时点判断是否满足条件，满足条件的场合在伤害步骤结束时发动。
    | 『和○○怪兽进行战斗的伤害计算后·伤害步骤结束时』诱发的效果也一样。
    | 例：
+   | 「`缚神冢`_」的②效果处理时受到效果伤害的玩家是被战斗破坏的怪兽在被破坏前一刻的控制者，而不是原本持有者。「`龙马踬图`_」的②效果与「`“艾”打式袭击`_」的①效果也同样。
    | 「`涅槃之超魔导剑士`_」把原本持有者是自己的怪兽战斗破坏时，也可以发动②效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18713&request_locale=ja>`__ 「`电子光虫-散热器蜣螂`_」的②效果也可以发动并适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18159&request_locale=ja>`__
    | 当作通常怪兽处理的二重怪兽被战斗破坏，可以发动「`救护部队`_」的②效果。当作效果怪兽处理的二重怪兽被战斗破坏，不能发动「`救护部队`_」的②效果。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=16640&keyword=&tag=-1&request_locale=ja>`__
    | 不死族衍生物被战斗破坏时，可以发动「`真红眼不尸龙`_」的②效果。\ `18/9/21 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22142&request_locale=ja>`__
