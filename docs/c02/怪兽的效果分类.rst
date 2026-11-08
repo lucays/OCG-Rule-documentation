@@ -103,6 +103,7 @@
    | 「`传说之都 亚特兰蒂斯`_」的②效果适用中，「`歧蜥·魔蜥义豪`_」召唤的场合，是召唤了等级4的怪兽，这个回合不能发动「`虫饵`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7633&keyword=&tag=-1&request_locale=ja>`__
    | 「`诸刃的活人剑术`_」的①效果把「`真六武众-阴鬼`_」和「`真六武众-辉斩`_」特殊召唤成功时，「`真六武众-阴鬼`_」因自身②效果适用攻击力结果是1700，可以发动「`奈落的落穴`_」，「`真六武众-阴鬼`_」和「`真六武众-辉斩`_」都被破坏并除外。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11726&keyword=&tag=-1&request_locale=ja>`__
    | 『○○族怪兽特殊召唤时·的场合』诱发的效果，在「`DNA改造手术`_」的效果适用中（宣言那个种族），有原本不是那个种族的怪兽被特殊召唤，在场上变成那个种族的状况，当作满足发动条件，可以发动或强制发动。『从自己墓地有8星以上的鱼族同调怪兽特殊召唤的场合』的「`白之轮回`_」的处理也一样，只要是从自己墓地特殊召唤，在场上特殊召唤的时点是鱼族即满足发动条件，不考虑在墓地时的种族。\ `25/10/4 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21680&keyword=&tag=-1&request_locale=ja>`__
+   | 用「`永火地狱恶魔`_」作为同调素材同调召唤原本属性是光属性的同调怪兽，那个同调怪兽变成暗属性的场合：（A）在「`黯黑世界-暗影敌托邦-`_」的『①：场上的表侧表示怪兽变成暗属性』效果适用中同调召唤的场合，『③：这张卡为同调素材的暗属性同调怪兽在同1次的战斗阶段中最多2次可以向怪兽攻击』的效果适用；（B）同调召唤后发动「`黯黑世界-暗影敌托邦-`_」的效果变成暗属性的场合，「`永火地狱恶魔`_」的『③』的效果不适用。\ `26/11/5 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24423&keyword=&tag=-1&request_locale=ja>`__
 
    .. attention::
 
@@ -237,6 +238,7 @@
    | 场上已经表侧表示存在1只效果被无效的「`地缚神`_」怪兽，用「`天威之龙鬼神`_」攻击里侧表示的「`地缚神`_」怪兽，其被战斗破坏的场合，也会在伤害计算后就因数量限制破坏送去墓地，「`天威之龙鬼神`_」的②效果不会发动。
    | 场上存在「`技能抽取`_」「`罪 青眼白龙`_」时，手卡「`罪 青眼白龙`_」的效果没被无效，仍然不能特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9563&request_locale=ja>`__
    | 「`沼地的魔神王`_」「`心眼之女神`_」「`寄生融合虫`_」等可以代替作为融合素材的无种类效果，在手卡·场上·墓地存在时都可以适用。在卡组存在的场合不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13184&request_locale=ja>`__ 被除外的状态也不适用。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20116&request_locale=ja>`__
+   | 「`电子龙核`_」在怪兽区域里侧守备表示存在的场合，『①：这张卡的卡名只要在场上·墓地存在当作「`电子龙`_」使用』的效果不适用，不当作「`电子龙`_」，不能把它和其他机械族怪兽送去墓地从额外卡组特殊召唤「`嵌合要塞龙`_」。另外，特殊召唤「`嵌合要塞龙`_」时的融合素材，可以把「`电子龙核`_」作为『机械族怪兽1只以上』送去墓地。\ `26/11/3 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24314&keyword=&tag=-1&request_locale=ja>`__
 
    .. attention:: 「`地缚神`_」等数量限制效果本身没有记述『破坏』，这样被破坏不是被效果破坏。「`地缚大神官`_」的效果适用中，是让「`地缚神`_」怪兽在没有场地魔法时不会被破坏。\ `16/8/25 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8760&request_locale=ja>`__
 
