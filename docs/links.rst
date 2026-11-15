@@ -230,6 +230,7 @@
 .. _`七皇转生`: https://ygocdb.com/card/name/七皇转生
 .. _`七精的解门`: https://ygocdb.com/card/name/七精的解门
 .. _`七音服`: https://ygocdb.com/?search=七音服
+.. _`七音服·普莉莫娅`: https://ygocdb.com/card/name/七音服·普莉莫娅
 .. _`七音服·索尔费吉娅`: https://ygocdb.com/card/name/七音服·索尔费吉娅
 .. _`七音服的正装`: https://ygocdb.com/card/name/七音服的正装
 .. _`万万圣`: https://ygocdb.com/card/name/万万圣
@@ -393,6 +394,7 @@
 .. _`亚马逊的秘术`: https://ygocdb.com/card/name/亚马逊的秘术
 .. _`亚马逊的秘汤`: https://ygocdb.com/card/name/亚马逊的秘汤
 .. _`亚马逊诅咒师`: https://ygocdb.com/card/name/亚马逊诅咒师
+.. _`亚马逊诅咒师-咒印之舞-`: https://ygocdb.com/card/name/亚马逊诅咒师-咒印之舞-
 .. _`亚马逊转生术`: https://ygocdb.com/card/name/亚马逊转生术
 .. _`亚马逊金鞭使`: https://ygocdb.com/card/name/亚马逊金鞭使
 .. _`亚马逊银剑使`: https://ygocdb.com/card/name/亚马逊银剑使
@@ -481,6 +483,7 @@
 .. _`传说的骑士`: https://ygocdb.com/?search=传说的骑士
 .. _`传说的骑士 赫谟`: https://ygocdb.com/card/name/传说的骑士%20赫谟
 .. _`传说的黑石`: https://ygocdb.com/card/name/传说的黑石
+.. _`伤害=爬虫`: https://ygocdb.com/card/name/伤害=爬虫
 .. _`伤害之门`: https://ygocdb.com/card/name/伤害之门
 .. _`伤害吞噬者`: https://ygocdb.com/card/name/伤害吞噬者
 .. _`伤害瘦身`: https://ygocdb.com/card/name/伤害瘦身
@@ -1710,6 +1713,7 @@
 .. _`天丛云之巳剑`: https://ygocdb.com/card/name/天丛云之巳剑
 .. _`天位金骑士`: https://ygocdb.com/card/name/天位金骑士
 .. _`天位骑士`: https://ygocdb.com/card/name/天位骑士
+.. _`天使与恶魔的骰子`: https://ygocdb.com/card/name/天使与恶魔的骰子
 .. _`天使之声`: https://ygocdb.com/card/name/天使之声
 .. _`天使之泪`: https://ygocdb.com/card/name/天使之泪
 .. _`天使的施舍`: https://ygocdb.com/card/name/天使的施舍
@@ -2202,6 +2206,7 @@
 .. _`并行超限龙`: https://ygocdb.com/card/name/并行超限龙
 .. _`幸运机会！`: https://ygocdb.com/card/name/幸运机会！
 .. _`幻之召唤神 艾克佐迪亚`: https://ygocdb.com/card/name/幻之召唤神%20艾克佐迪亚
+.. _`幻之昆虫女王`: https://ygocdb.com/card/name/幻之昆虫女王
 .. _`幻兽机`: https://ygocdb.com/?search=幻兽机
 .. _`幻兽机 倾转翼马`: https://ygocdb.com/card/name/幻兽机%20倾转翼马
 .. _`幻兽机 全球剑齿虎`: https://ygocdb.com/card/name/幻兽机%20全球剑齿虎
@@ -2348,6 +2353,7 @@
 .. _`废铁同调士`: https://ygocdb.com/card/name/废铁同调士
 .. _`废铁奇美拉`: https://ygocdb.com/card/name/废铁奇美拉
 .. _`废铁工厂`: https://ygocdb.com/card/name/废铁工厂
+.. _`废铁战士`: https://ygocdb.com/card/name/废铁战士
 .. _`废铁拳`: https://ygocdb.com/card/name/废铁拳
 .. _`废铁油带`: https://ygocdb.com/card/name/废铁油带
 .. _`废铁盗龙`: https://ygocdb.com/card/name/废铁盗龙
@@ -2403,6 +2409,7 @@
 .. _`异热同心武器-极星神马圣铠`: https://ygocdb.com/card/name/异热同心武器-极星神马圣铠
 .. _`异热同心武器-独角兽皇枪`: https://ygocdb.com/card/name/异热同心武器-独角兽皇枪
 .. _`异热同心武器-阿修罗副腕`: https://ygocdb.com/card/name/异热同心武器-阿修罗副腕
+.. _`异热同心武器-雷神猛虎剑`: https://ygocdb.com/card/name/异热同心武器-雷神猛虎剑
 .. _`异热同心武器-风神云龙剑`: https://ygocdb.com/card/name/异热同心武器-风神云龙剑
 .. _`异热同心联盟`: https://ygocdb.com/card/name/异热同心联盟
 .. _`异界共鸣-同调融合`: https://ygocdb.com/card/name/异界共鸣-同调融合
@@ -2710,6 +2717,7 @@
 .. _`惩罚游戏！`: https://ygocdb.com/card/name/惩罚游戏！
 .. _`愉怪之磷的狐火摇`: https://ygocdb.com/card/name/愉怪之磷的狐火摇
 .. _`愚蠢的埋葬`: https://ygocdb.com/card/name/愚蠢的埋葬
+.. _`愚蠢的盗墓者`: https://ygocdb.com/card/name/愚蠢的盗墓者
 .. _`愚蠢的重葬`: https://ygocdb.com/card/name/愚蠢的重葬
 .. _`愚钝之斧`: https://ygocdb.com/card/name/愚钝之斧
 .. _`愤怒的汉堡`: https://ygocdb.com/card/name/愤怒的汉堡
@@ -3088,6 +3096,7 @@
 .. _`无效`: https://ygocdb.com/card/name/无效
 .. _`无敌光环`: https://ygocdb.com/card/name/无敌光环
 .. _`无欲之壶`: https://ygocdb.com/card/name/无欲之壶
+.. _`无死之龙的鼓动`: https://ygocdb.com/card/name/无死之龙的鼓动
 .. _`无畏军贯-鲑鱼子级一号舰`: https://ygocdb.com/card/name/无畏军贯-鲑鱼子级一号舰
 .. _`无穷之三幻魔-幻魔皇 拉比艾尔`: https://ygocdb.com/card/name/无穷之三幻魔-幻魔皇%20拉比艾尔
 .. _`无穷机龙 卡诺循环龙`: https://ygocdb.com/card/name/无穷机龙%20卡诺循环龙
@@ -3779,6 +3788,7 @@
 .. _`氧素龙`: https://ygocdb.com/card/name/氧素龙
 .. _`氮素战士`: https://ygocdb.com/card/name/氮素战士
 .. _`水之合唱`: https://ygocdb.com/card/name/水之合唱
+.. _`水之轮唱`: https://ygocdb.com/card/name/水之轮唱
 .. _`水伶女`: https://ygocdb.com/?search=水伶女
 .. _`水卜之魔导书`: https://ygocdb.com/card/name/水卜之魔导书
 .. _`水晶化身`: https://ygocdb.com/card/name/水晶化身
@@ -4761,6 +4771,7 @@
 .. _`真次世代图灵机`: https://ygocdb.com/card/name/真次世代图灵机
 .. _`真次世代破碎机`: https://ygocdb.com/card/name/真次世代破碎机
 .. _`真次世代预言机`: https://ygocdb.com/card/name/真次世代预言机
+.. _`真次世代风筝`: https://ygocdb.com/card/name/真次世代风筝
 .. _`真次世代黑机车人`: https://ygocdb.com/card/name/真次世代黑机车人
 .. _`真正之光`: https://ygocdb.com/card/name/真正之光
 .. _`真正的太阳神`: https://ygocdb.com/card/name/真正的太阳神
@@ -4824,6 +4835,7 @@
 .. _`眼盯盯☆魔术辣妹`: https://ygocdb.com/card/name/眼盯盯☆魔术辣妹
 .. _`眼纳祭神`: https://ygocdb.com/?search=眼纳祭神
 .. _`睡巨人 咕咚`: https://ygocdb.com/card/name/睡巨人%20咕咚
+.. _`睡羊 替罪羊`: https://ygocdb.com/card/name/睡羊%20替罪羊
 .. _`睡醒一杯！摩卡咖啡`: https://ygocdb.com/card/name/睡醒一杯！摩卡咖啡
 .. _`督战官 科文顿`: https://ygocdb.com/card/name/督战官%20科文顿
 .. _`睨统之蛇眼龙`: https://ygocdb.com/card/name/睨统之蛇眼龙
@@ -4909,6 +4921,7 @@
 .. _`礼品卡`: https://ygocdb.com/card/name/礼品卡
 .. _`礼物交换`: https://ygocdb.com/card/name/礼物交换
 .. _`礼物卡`: https://ygocdb.com/card/name/礼物卡
+.. _`祈祷的女王-宇宙女王`: https://ygocdb.com/card/name/祈祷的女王-宇宙女王
 .. _`祝祷的圣歌`: https://ygocdb.com/card/name/祝祷的圣歌
 .. _`神·史莱姆`: https://ygocdb.com/card/name/神·史莱姆
 .. _`神之`: https://ygocdb.com/?search=神之
@@ -4937,6 +4950,7 @@
 .. _`神威凤凰剑圣 基亚·弗里德`: https://ygocdb.com/card/name/神威凤凰剑圣%20基亚·弗里德
 .. _`神威烈焰加农炮`: https://ygocdb.com/card/name/神威烈焰加农炮
 .. _`神属的堕天使`: https://ygocdb.com/card/name/神属的堕天使
+.. _`神幻学都 无垢大艺术学园`: https://ygocdb.com/card/name/神幻学都%20无垢大艺术学园
 .. _`神影依·七贤巨鲲魔`: https://ygocdb.com/card/name/神影依·七贤巨鲲魔
 .. _`神影依·异花莉莉丝`: https://ygocdb.com/card/name/神影依·异花莉莉丝
 .. _`神影依·拿非利`: https://ygocdb.com/card/name/神影依·拿非利
@@ -5601,6 +5615,7 @@
 .. _`衍生物收集者`: https://ygocdb.com/?search=衍生物收集者
 .. _`衍生物谢肉祭`: https://ygocdb.com/?search=衍生物谢肉祭
 .. _`补充要员`: https://ygocdb.com/card/name/补充要员
+.. _`补充部队`: https://ygocdb.com/card/name/补充部队
 .. _`补给部队`: https://ygocdb.com/card/name/补给部队
 .. _`表里之女神`: https://ygocdb.com/card/name/表里之女神
 .. _`袅袅涟歌姬的壹世坏`: https://ygocdb.com/card/name/袅袅涟歌姬的壹世坏
@@ -5690,6 +5705,7 @@
 .. _`调皮宝贝屋`: https://ygocdb.com/card/name/调皮宝贝屋
 .. _`调皮宝贝屋子管家`: https://ygocdb.com/card/name/调皮宝贝屋子管家
 .. _`调试瓢虫女郎`: https://ygocdb.com/card/name/调试瓢虫女郎
+.. _`谜之剑士 LV6`: https://ygocdb.com/card/name/谜之剑士%20LV6
 .. _`谜式密码大师·紧缩位压缩员`: https://ygocdb.com/card/name/谜式密码大师·紧缩位压缩员
 .. _`谜题`: https://ygocdb.com/card/name/谜题
 .. _`豪回游鲸 VIP巨鲸`: https://ygocdb.com/card/name/豪回游鲸%20VIP巨鲸
