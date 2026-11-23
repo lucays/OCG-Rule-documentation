@@ -1192,6 +1192,7 @@ X怪兽不受效果影响时，X素材的相关处理见\ :ref:`不受影响`\ �
 | 「`阿匹卜之化神`_」因「`W星云陨石`_」的效果盖放到魔法·陷阱卡区域时，没有变成里侧守备表示，不计入抽卡数量。如果没有怪兽变成里侧守备表示，也不能特殊召唤。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12401&request_locale=ja>`__
 | 自己发动「`左腕的代偿`_」的回合，自己不能以「`阿匹卜之化神`_」为对象发动「`月之书`_」。\ `17/3/24 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17852&keyword=&tag=-1&request_locale=ja>`__
 | 「`量子猫`_」因「`暗之护封剑`_」的效果盖放到魔法·陷阱卡区域时，墓地「`娱乐伙伴 五虹之魔术师`_」的①效果可以发动。\ `17/7/7 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6227&request_locale=ja>`__
+| 对方场上只存在也当作陷阱卡使用的陷阱怪兽和连接怪兽，发动「`魔炮战机 达磨羯磨`_」，陷阱怪兽盖放在魔法·陷阱卡区域的场合，不当作成功适用了『变成里侧守备表示』，因此『那之后』的处理不适用。\ `25/2/4 <https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24145&keyword=&tag=-1&request_locale=ja>`__
 
 -  | 这种陷阱怪兽成为「`旋风`_」等『那张卡破坏』效果的对象时，即使连锁发动特殊召唤自身的场合，仍然被破坏。
    | 在怪兽区域成为「`旋风`_」等效果的对象时，即使连锁发动「`月之书`_」等让它回到魔法·陷阱卡区域，仍然被破坏。
